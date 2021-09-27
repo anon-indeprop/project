@@ -1,4 +1,4 @@
-i# Definitions of various propaganda techniques
+# Definitions of various propaganda techniques
 
 | S.No | Name | Definition | Example
 | :---- | :---- | :---- | :----
