@@ -1,0 +1,351 @@
+{
+  "article_id": "776385494",
+  "sentence offsets in original": [
+    0,
+    338,
+    776,
+    986,
+    1172,
+    1328,
+    1438,
+    1471,
+    1519,
+    1554,
+    1586,
+    1613,
+    1811,
+    2055,
+    2143,
+    2229,
+    2351,
+    2535,
+    2692,
+    2921,
+    3051,
+    3136,
+    3326,
+    3360,
+    3493,
+    3514,
+    3541,
+    3624,
+    3811,
+    3994,
+    4102,
+    4261,
+    4312
+  ],
+  "original sentences": [
+    "Texan behind 3D-printed guns vows legal fight as White House endorses court ruling | Bangkok Post: news\n\nCHICAGO - A US gun rights advocate began gearing up for a legal fight Wednesday to be able to publish online blueprints for 3D-printed firearms, as the White House signaled support for a federal judge's decision to block the venture.",
+    "\nEight US states and the District of Columbia have argued in court that the blueprints available online to make untraceable, undetectable plastic weapons like this single-shot \"Liberator\" handgun could fall into the wrong hands\nCody Wilson's Texas-based company Defense Distributed had briefly made the blueprints available online, but Seattle-based US District Judge Robert Lasnik granted an injunction Tuesday to take the material down.",
+    "\nThe Donald Trump administration last month gave permission for Wilson to publish the blueprints, but the White House said Wednesday the president was unaware of the decision and was glad it was being reviewed.",
+    "\nEight US states and the District of Columbia sued, arguing the blueprints could allow anyone -- from a teen to a 'lone wolf' gunman -- to make untraceable, undetectable plastic weapons.",
+    "\nWilson complied with the judge's order, but put out a call for financial support for the legal battle ahead, including a scheduled August 10 court hearing.",
+    "\nHe told CBS News ahead of the injunction that he believes \"access to firearms is a fundamental human dignity.",
+    "\nIt's a fundamental human right.\"",
+    "\n\"What I'm doing is legally protected,\" he said.",
+    "\n\"I will go to the appellate level.",
+    "\nI will go to the Supreme Court.",
+    "\nI will waste all my time.\"",
+    "\n- President 'glad' for review -\nAs uproar was building Tuesday over Wilson's efforts, the president tweeted that making plastic 3D-printed guns publicly available \"doesn't seem to make much sense.\"",
+    "\nWhite House spokeswoman Sarah Sanders elaborated Wednesday, saying the administration's Justice Department had acted on its own in granting Wilson permission to publish the blueprints on his Defcad website -- settling a five-year legal battle.",
+    "\n\"The Department of Justice made a deal without the president's approval,\" Sanders said.",
+    "\n\"The president's glad this effort was delayed to give more time to review the issue.\"",
+    "\nSanders also repeated the administration's claim from a day earlier that existing law already prohibits plastic firearms.",
+    "\nThe National Rifle Association, the nation's most politically influential gun rights group, echoed that claim, contending that the 1988 law made the current 3D-printed gun issue moot.",
+    "\n\"Regardless of what a person may be able to publish on the Internet, undetectable plastic guns have been illegal for 30 years,\" the NRA said in a statement.",
+    "\nBut Wilson has gotten around the legal prohibition by providing instructions with the digital files for 3D printing his \"Liberator\" plastic gun that call for an approximately six-ounce block of steel to be affixed to the weapon.",
+    "\nShould those who print the gun follow those instructions, metal detectors would pick up the weapons, thus complying with the law.",
+    "\nBut while users can build the gun, there is no way to ensure they affix metal to it.",
+    "\n- 'The debate is over' -\nLate Tuesday, dozens of Democratic senators introduced legislation to prohibit the publication of 3D-printable firearm designs, a move gun control groups applauded.",
+    "\nBut some damage was already done.",
+    "\nWilson's blueprints had been posted on Defcad before the court order took effect and had already been downloaded thousands of times.",
+    "\n\"The debate is over.",
+    "\nThe guns are downloadable.",
+    "\nThe files are in the public domain -- you cannot take them back,\" Wilson told CBS.",
+    "\nGun control groups nevertheless were relieved by the judge's decision, with the Brady Campaign to Prevent Gun Violence calling 3D-printed firearms \"nothing short of a menace to society.\"",
+    "\n\"There is simply no way of telling how much damage has already been done by Cody Wilson's dangerous and reckless actions,\" Brady Campaign co-president Kris Brown said in a statement.",
+    "\n\"This is a strong step and a clear victory for the entire gun safety movement, but we simply can't let up.\"",
+    "\nPrior to last month, Wilson had actually been losing his drawn-out legal battle, after both a federal district court and an appellate court ruled against him.",
+    "\nThe US Supreme Court declined to take up his case.",
+    "\nBut in a sign of his determination to continue the legal fight, a message on the Defense Distributed website made a public appeal for financial support \"to uncensor the site.\""
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 338,
+      "text": "Texan behind 3D-printed guns vows legal fight as White House endorses court ruling | Bangkok Post: news\n\nCHICAGO - A US gun rights advocate began gearing up for a legal fight Wednesday to be able to publish online blueprints for 3D-printed firearms, as the White House signaled support for a federal judge's decision to block the venture.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 338,
+      "end_ix": 776,
+      "text": "\nEight US states and the District of Columbia have argued in court that the blueprints available online to make untraceable, undetectable plastic weapons like this single-shot \"Liberator\" handgun could fall into the wrong hands\nCody Wilson's Texas-based company Defense Distributed had briefly made the blueprints available online, but Seattle-based US District Judge Robert Lasnik granted an injunction Tuesday to take the material down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 776,
+      "end_ix": 986,
+      "text": "\nThe Donald Trump administration last month gave permission for Wilson to publish the blueprints, but the White House said Wednesday the president was unaware of the decision and was glad it was being reviewed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 986,
+      "end_ix": 1172,
+      "text": "\nEight US states and the District of Columbia sued, arguing the blueprints could allow anyone -- from a teen to a 'lone wolf' gunman -- to make untraceable, undetectable plastic weapons.",
+      "new_text": "\nEight US states and the District of Columbia sued, arguing the blueprints could allow anyone -- from a teen to a 'lone wolf' gunman -- to make untraceable plastic weapons.",
+      "prop_spans": [
+        [
+          1130,
+          1171,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1172,
+      "end_ix": 1328,
+      "text": "\nWilson complied with the judge's order, but put out a call for financial support for the legal battle ahead, including a scheduled August 10 court hearing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1328,
+      "end_ix": 1438,
+      "text": "\nHe told CBS News ahead of the injunction that he believes \"access to firearms is a fundamental human dignity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1438,
+      "end_ix": 1471,
+      "text": "\nIt's a fundamental human right.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1471,
+      "end_ix": 1519,
+      "text": "\n\"What I'm doing is legally protected,\" he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1519,
+      "end_ix": 1554,
+      "text": "\n\"I will go to the appellate level.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1554,
+      "end_ix": 1586,
+      "text": "\nI will go to the Supreme Court.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1586,
+      "end_ix": 1613,
+      "text": "\nI will waste all my time.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1613,
+      "end_ix": 1811,
+      "text": "\n- President 'glad' for review -\nAs uproar was building Tuesday over Wilson's efforts, the president tweeted that making plastic 3D-printed guns publicly available \"doesn't seem to make much sense.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1811,
+      "end_ix": 2055,
+      "text": "\nWhite House spokeswoman Sarah Sanders elaborated Wednesday, saying the administration's Justice Department had acted on its own in granting Wilson permission to publish the blueprints on his Defcad website -- settling a five-year legal battle.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2055,
+      "end_ix": 2143,
+      "text": "\n\"The Department of Justice made a deal without the president's approval,\" Sanders said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2143,
+      "end_ix": 2229,
+      "text": "\n\"The president's glad this effort was delayed to give more time to review the issue.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2229,
+      "end_ix": 2351,
+      "text": "\nSanders also repeated the administration's claim from a day earlier that existing law already prohibits plastic firearms.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2351,
+      "end_ix": 2535,
+      "text": "\nThe National Rifle Association, the nation's most politically influential gun rights group, echoed that claim, contending that the 1988 law made the current 3D-printed gun issue moot.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2535,
+      "end_ix": 2692,
+      "text": "\n\"Regardless of what a person may be able to publish on the Internet, undetectable plastic guns have been illegal for 30 years,\" the NRA said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2692,
+      "end_ix": 2921,
+      "text": "\nBut Wilson has gotten around the legal prohibition by providing instructions with the digital files for 3D printing his \"Liberator\" plastic gun that call for an approximately six-ounce block of steel to be affixed to the weapon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2921,
+      "end_ix": 3051,
+      "text": "\nShould those who print the gun follow those instructions, metal detectors would pick up the weapons, thus complying with the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3051,
+      "end_ix": 3136,
+      "text": "\nBut while users can build the gun, there is no way to ensure they affix metal to it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3136,
+      "end_ix": 3326,
+      "text": "\n- 'The debate is over' -\nLate Tuesday, dozens of Democratic senators introduced legislation to prohibit the publication of 3D-printable firearm designs, a move gun control groups applauded.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3326,
+      "end_ix": 3360,
+      "text": "\nBut some damage was already done.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3360,
+      "end_ix": 3493,
+      "text": "\nWilson's blueprints had been posted on Defcad before the court order took effect and had already been downloaded thousands of times.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3493,
+      "end_ix": 3514,
+      "text": "\n\"The debate is over.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3514,
+      "end_ix": 3541,
+      "text": "\nThe guns are downloadable.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3541,
+      "end_ix": 3624,
+      "text": "\nThe files are in the public domain -- you cannot take them back,\" Wilson told CBS.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3624,
+      "end_ix": 3811,
+      "text": "\nGun control groups nevertheless were relieved by the judge's decision, with the Brady Campaign to Prevent Gun Violence calling 3D-printed firearms \"nothing short of a menace to society.\"",
+      "new_text": "\nGun control groups nevertheless were relieved by the judge's decision, with the Brady Campaign to Prevent Gun Violence calling 3D-printed firearms \"nothing short of a menace to society.\"",
+      "prop_spans": [
+        [
+          3773,
+          3798,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3773,
+          3798,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3811,
+      "end_ix": 3994,
+      "text": "\n\"There is simply no way of telling how much damage has already been done by Cody Wilson's dangerous and reckless actions,\" Brady Campaign co-president Kris Brown said in a statement.",
+      "new_text": "\n\"There is simply no way of telling how much damage has already been done by Cody Wilson's dangerous and reckless actions,\" Brady Campaign co-president Kris Brown said in a statement.",
+      "prop_spans": [
+        [
+          3902,
+          3924,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3994,
+      "end_ix": 4102,
+      "text": "\n\"This is a strong step and a clear victory for the entire gun safety movement, but we simply can't let up.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4102,
+      "end_ix": 4261,
+      "text": "\nPrior to last month, Wilson had actually been losing his drawn-out legal battle, after both a federal district court and an appellate court ruled against him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4261,
+      "end_ix": 4312,
+      "text": "\nThe US Supreme Court declined to take up his case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4312,
+      "end_ix": 4488,
+      "text": "\nBut in a sign of his determination to continue the legal fight, a message on the Defense Distributed website made a public appeal for financial support \"to uncensor the site.\"",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1130,
+      1171,
+      "Repetition"
+    ],
+    [
+      3773,
+      3798,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3773,
+      3798,
+      "Loaded_Language"
+    ],
+    [
+      3902,
+      3924,
+      "Loaded_Language"
+    ]
+  ]
+}

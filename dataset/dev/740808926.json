@@ -1,0 +1,183 @@
+{
+  "article_id": "740808926",
+  "sentence offsets in original": [
+    0,
+    112,
+    152,
+    191,
+    444,
+    614,
+    711,
+    998,
+    1162,
+    1332,
+    1497
+  ],
+  "original sentences": [
+    "Illegal Alien Wife Beaters Protected by Sanctuary City Mayor Busted\n\nSanctuary cities are the real war on women.",
+    "\nAnd Democrats are the ones fighting it.",
+    "\nDemocrats like Oakland's Mayor Schaaf.",
+    "\nThree illegal immigrants, who avoided capture after Oakland Mayor Libby Schaaf blew the whistle on a raid by federal immigration authorities last month, have since been re-arrested for new crimes including robbery and spousal abuse, ICE officials said.",
+    "\nSchaaf tweeted out a warning ahead of the raid in northern California last month, infuriating Immigration and Customs Enforcement officials and the Trump administration.",
+    "\n\u201cHow dare you!\u201d Attorney General Jeff Sessions said in California this month, addressing Schaaf.",
+    "\n\u201cHow dare you needlessly endanger the lives of our law enforcement officers to promote a radical, open borders agenda.\u201d\nICE officials eventually caught 232 illegal immigrants, many of them criminals, in the four-day sweep but said that hundreds more escaped because of Schaaf\u2019s warning.",
+    "\nBut on Tuesday, officials said that at least three of those who were targeted in the raid, but were not apprehended, had since been arrested for additional crimes.",
+    "\nOne was a Mexican national arrested for robbery and gun crimes, who was released back into the community for a prior offense despite an ICE detainer request in November.",
+    "\nAnother Mexican national was arrested for a DUI, despite having been deported three times and prior convictions for false imprisonment, DUI and battery of a spouse.",
+    "\nThe third was a Mexican national who was arrested for corporal injury of a spouse, despite being deported twice and criminal convictions including drug possession, hit-and-run, DUIs, possessions of narcotics equipment and a parole violation."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 112,
+      "text": "Illegal Alien Wife Beaters Protected by Sanctuary City Mayor Busted\n\nSanctuary cities are the real war on women.",
+      "new_text": "Undocumented Immigrant Wife Beaters Protected by Sanctuary City Mayor Busted\n\nSanctuary cities are the attack on women.",
+      "prop_spans": [
+        [
+          0,
+          26,
+          "Name_Calling,Labeling"
+        ],
+        [
+          94,
+          111,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 112,
+      "end_ix": 152,
+      "text": "\nAnd Democrats are the ones fighting it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 152,
+      "end_ix": 191,
+      "text": "\nDemocrats like Oakland's Mayor Schaaf.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 191,
+      "end_ix": 444,
+      "text": "\nThree illegal immigrants, who avoided capture after Oakland Mayor Libby Schaaf blew the whistle on a raid by federal immigration authorities last month, have since been re-arrested for new crimes including robbery and spousal abuse, ICE officials said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 444,
+      "end_ix": 614,
+      "text": "\nSchaaf tweeted out a warning ahead of the raid in northern California last month, infuriating Immigration and Customs Enforcement officials and the Trump administration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 614,
+      "end_ix": 711,
+      "text": "\n\u201cHow dare you!\u201d Attorney General Jeff Sessions said in California this month, addressing Schaaf.",
+      "new_text": "\n\u201cHow dare you!\u201d Attorney General Jeff Sessions said in California this month, addressing Schaaf.",
+      "prop_spans": [
+        [
+          616,
+          630,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 711,
+      "end_ix": 998,
+      "text": "\n\u201cHow dare you needlessly endanger the lives of our law enforcement officers to promote a radical, open borders agenda.\u201d\nICE officials eventually caught 232 illegal immigrants, many of them criminals, in the four-day sweep but said that hundreds more escaped because of Schaaf\u2019s warning.",
+      "new_text": "\n\u201cHow dare you needlessly endanger the lives of our law enforcement officers to promote a radical, open borders agenda.\u201d\nICE officials eventually caught 232 illegal immigrants, many of them criminals, in the four-day sweep but said that hundreds more escaped.",
+      "prop_spans": [
+        [
+          713,
+          832,
+          "Appeal_to_Authority"
+        ],
+        [
+          713,
+          832,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          713,
+          725,
+          "Loaded_Language"
+        ],
+        [
+          938,
+          997,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 998,
+      "end_ix": 1162,
+      "text": "\nBut on Tuesday, officials said that at least three of those who were targeted in the raid, but were not apprehended, had since been arrested for additional crimes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1162,
+      "end_ix": 1332,
+      "text": "\nOne was a Mexican national arrested for robbery and gun crimes, who was released back into the community for a prior offense despite an ICE detainer request in November.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1332,
+      "end_ix": 1497,
+      "text": "\nAnother Mexican national was arrested for a DUI, despite having been deported three times and prior convictions for false imprisonment, DUI and battery of a spouse.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1497,
+      "end_ix": 1739,
+      "text": "\nThe third was a Mexican national who was arrested for corporal injury of a spouse, despite being deported twice and criminal convictions including drug possession, hit-and-run, DUIs, possessions of narcotics equipment and a parole violation.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      26,
+      "Name_Calling,Labeling"
+    ],
+    [
+      94,
+      111,
+      "Loaded_Language"
+    ],
+    [
+      616,
+      630,
+      "Loaded_Language"
+    ],
+    [
+      713,
+      832,
+      "Appeal_to_Authority"
+    ],
+    [
+      713,
+      832,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      713,
+      725,
+      "Loaded_Language"
+    ],
+    [
+      938,
+      997,
+      "Appeal_to_Authority"
+    ]
+  ]
+}

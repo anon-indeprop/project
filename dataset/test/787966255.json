@@ -1,0 +1,413 @@
+{
+  "article_id": "787966255",
+  "sentence offsets in original": [
+    0,
+    226,
+    371,
+    473,
+    679,
+    741,
+    803,
+    955,
+    1037,
+    1065,
+    1128,
+    1240,
+    1556,
+    1755,
+    1818,
+    1910,
+    2181,
+    2329,
+    2448,
+    2486,
+    2661,
+    2749,
+    2866,
+    3042,
+    3156,
+    3271,
+    3514,
+    3660,
+    3928,
+    4150,
+    4233,
+    4522,
+    4742,
+    4824
+  ],
+  "original sentences": [
+    "Warrants Show Police Never Searched Amber Guyger\u2019s Apartment, Now It\u2019s Too Late, She\u2019s \u2018Vacated\u2019 It\n\nDallas, TX \u2014 On Sunday, activists rallied around the Dallas Cowboy\u2019s stadium to draw attention to the slaying of Botham Jean.",
+    "\nThey carried coffins and blocked traffic to expose the special treatment of Amber Guyger, the cop who has yet to even be fired for killing Jean.",
+    "\nNow, as more details emerge, this special treatment has moved to a level that is even more insidious.",
+    "\nProtest at AT&T Stadium pic.twitter.com/lu5VsGQByv \u2014 Allison Harris (@AllisonFox4News) September 16, 2018\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nFrom the beginning of this case, it was clear that Guyger was receiving special treatment from law enforcement.",
+    "\nOne of the most glaring instances showing her privilege was the fact that the Texas Rangers said in their report that Jean refused to obey Guyger\u2019s \u201cverbal commands.\u201d Had anyone else but a cop walked into an apartment and killed an innocent man, do you believe that investigators would have said anything like this?",
+    "\nAttorney Stephen Le Brocq, who operates a law firm in the North Texas area sums up the treatment of Guyger perfectly when he says that \u201cThe affidavit isn\u2019t written objectively, not at the slightest.",
+    "\nAs stated before, they are usually wholly against the accused.",
+    "\nAn objective view of the information related by the officer would be proper, in my opinion.",
+    "\nThis affidavit states facts based upon the word of the person it seeks to accuse of criminal wrongdoing.\u201d\nWhat\u2019s more, according to WFAA, who obtained affidavits for all of the search warrants involved in the case, none of them involved the search of Guyger\u2019s apartment.",
+    "\nFor those who don\u2019t recall, police egregiously released the search warrant findings of Jean\u2019s apartment on the day his family buried his dead body.",
+    "\nThey attempted to assassinate Jean\u2019s character by claiming they found less than a half ounce of weed in his apartment.",
+    "\nHowever, they failed miserably at it.",
+    "\nOne thing in particular, however, stood out to those paying attention and that is the fact the police didn\u2019t release any information on what they found in Guyger\u2019s apartment.",
+    "\nAccording to the information currently available, that\u2019s because they didn\u2019t search it.",
+    "\nAccording to WFAA, there were five search warrants issued in the case\u2014none of which were for the killer\u2019s apartment.",
+    "\nAs WFAA reports:\nTwo of the warrants allowed investigators to remove the front door of Guyger and Jean\u2019s apartment, their door locks and to download data for their door locks.",
+    "\nAn inventory return states that they removed both of their door lock and downloaded the data from the door locks.",
+    "\nA third search warrant gave investigators the authority to enter Jean\u2019s apartment and collect additional evidence.",
+    "\nA return shows that investigators took photographs of his apartment, made videos of his apartment, conducted \u201claser measurements of firearm trajectory,\u201d and collected \u201cgunshot residue\u201d from the door frame and kitchen wall of Jean\u2019s apartment.",
+    "\nA return for the fourth search warrant shows investigators seized video from the surveillance camera system in the apartment management\u2019s office.",
+    "\nA fifth search warrant gave investigators the authority to obtain all communications related to the incident in the possession of property management, as well as all surveillance video and all entry and access logs from 9 p.m. to 11 p.m. on the night of the shooting.",
+    "\nAn inventory return shows investigators seized a USB drive containing the video, an event log report for \u201clinear access doors and gates,\u201d an \u201celevator access door lock\u201d report and a \u201clock audit report for both apartments.",
+    "\nNow, even if police would try to search the killer cop\u2019s apartment, it\u2019s too late.",
+    "\nOn Sunday, apartment staff notified residents in an email that Guyger \u201chas vacated her apartment and no longer resides at our community.\u201d\nA manager at the complex declined to indicate exactly when Guyger moved out and if she left the premises voluntarily, the Dallas Morning News reports.",
+    "\nWhile residents can certainly sleep better knowing that they don\u2019t have to fear a killer cop walking into their apartment and murdering them, the family of Botham Jean likely sees this as one more instance of injustice.",
+    "\nMother of #BothamJean, Allison Jean, says the \u201csmear\u201d of her son is unacceptable.",
+    "\n\u201cIt is time that we recognize that lives matter, my son\u2019s life matters.\u201d pic.twitter.com/UjyKRZ8XeG \u2014 Jack Highberger (@JackHighberger) September 14, 2018\nArticle posted with permission from The Free Thought Project"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 226,
+      "text": "Warrants Show Police Never Searched Amber Guyger\u2019s Apartment, Now It\u2019s Too Late, She\u2019s \u2018Vacated\u2019 It\n\nDallas, TX \u2014 On Sunday, activists rallied around the Dallas Cowboy\u2019s stadium to draw attention to the slaying of Botham Jean.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 226,
+      "end_ix": 371,
+      "text": "\nThey carried coffins and blocked traffic to expose the special treatment of Amber Guyger, the cop who has yet to even be fired for killing Jean.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 371,
+      "end_ix": 473,
+      "text": "\nNow, as more details emerge, this special treatment has moved to a level that is even more insidious.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 473,
+      "end_ix": 679,
+      "text": "\nProtest at AT&T Stadium pic.twitter.com/lu5VsGQByv \u2014 Allison Harris (@AllisonFox4News) September 16, 2018\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 679,
+      "end_ix": 741,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 741,
+      "end_ix": 803,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 803,
+      "end_ix": 955,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 955,
+      "end_ix": 1037,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1037,
+      "end_ix": 1065,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1065,
+      "end_ix": 1128,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1128,
+      "end_ix": 1240,
+      "text": "\nFrom the beginning of this case, it was clear that Guyger was receiving special treatment from law enforcement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1240,
+      "end_ix": 1556,
+      "text": "\nOne of the most glaring instances showing her privilege was the fact that the Texas Rangers said in their report that Jean refused to obey Guyger\u2019s \u201cverbal commands.\u201d Had anyone else but a cop walked into an apartment and killed an innocent man, do you believe that investigators would have said anything like this?",
+      "new_text": "\nOne of the most obvious instances showing her privilege was the fact that the Texas Rangers said in their report that Jean refused to obey Guyger\u2019s \u201cverbal commands.\u201d Had anyone else but a cop walked into an apartment and killed a man, do you believe that investigators would have said anything like this?",
+      "prop_spans": [
+        [
+          1257,
+          1264,
+          "Loaded_Language"
+        ],
+        [
+          1473,
+          1481,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1556,
+      "end_ix": 1755,
+      "text": "\nAttorney Stephen Le Brocq, who operates a law firm in the North Texas area sums up the treatment of Guyger perfectly when he says that \u201cThe affidavit isn\u2019t written objectively, not at the slightest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1755,
+      "end_ix": 1818,
+      "text": "\nAs stated before, they are usually wholly against the accused.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1818,
+      "end_ix": 1910,
+      "text": "\nAn objective view of the information related by the officer would be proper, in my opinion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1910,
+      "end_ix": 2181,
+      "text": "\nThis affidavit states facts based upon the word of the person it seeks to accuse of criminal wrongdoing.\u201d\nWhat\u2019s more, according to WFAA, who obtained affidavits for all of the search warrants involved in the case, none of them involved the search of Guyger\u2019s apartment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2181,
+      "end_ix": 2329,
+      "text": "\nFor those who don\u2019t recall, police egregiously released the search warrant findings of Jean\u2019s apartment on the day his family buried his dead body.",
+      "new_text": "\nFor those who don\u2019t recall, police shockingly released the search warrant findings of Jean\u2019s apartment on the day his family buried his dead body.",
+      "prop_spans": [
+        [
+          2217,
+          2228,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2329,
+      "end_ix": 2448,
+      "text": "\nThey attempted to assassinate Jean\u2019s character by claiming they found less than a half ounce of weed in his apartment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2448,
+      "end_ix": 2486,
+      "text": "\nHowever, they failed miserably at it.",
+      "new_text": "\nHowever, they failed at it.",
+      "prop_spans": [
+        [
+          2470,
+          2479,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2486,
+      "end_ix": 2661,
+      "text": "\nOne thing in particular, however, stood out to those paying attention and that is the fact the police didn\u2019t release any information on what they found in Guyger\u2019s apartment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2661,
+      "end_ix": 2749,
+      "text": "\nAccording to the information currently available, that\u2019s because they didn\u2019t search it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2749,
+      "end_ix": 2866,
+      "text": "\nAccording to WFAA, there were five search warrants issued in the case\u2014none of which were for the killer\u2019s apartment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2866,
+      "end_ix": 3042,
+      "text": "\nAs WFAA reports:\nTwo of the warrants allowed investigators to remove the front door of Guyger and Jean\u2019s apartment, their door locks and to download data for their door locks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3042,
+      "end_ix": 3156,
+      "text": "\nAn inventory return states that they removed both of their door lock and downloaded the data from the door locks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3156,
+      "end_ix": 3271,
+      "text": "\nA third search warrant gave investigators the authority to enter Jean\u2019s apartment and collect additional evidence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3271,
+      "end_ix": 3514,
+      "text": "\nA return shows that investigators took photographs of his apartment, made videos of his apartment, conducted \u201claser measurements of firearm trajectory,\u201d and collected \u201cgunshot residue\u201d from the door frame and kitchen wall of Jean\u2019s apartment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3514,
+      "end_ix": 3660,
+      "text": "\nA return for the fourth search warrant shows investigators seized video from the surveillance camera system in the apartment management\u2019s office.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3660,
+      "end_ix": 3928,
+      "text": "\nA fifth search warrant gave investigators the authority to obtain all communications related to the incident in the possession of property management, as well as all surveillance video and all entry and access logs from 9 p.m. to 11 p.m. on the night of the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3928,
+      "end_ix": 4150,
+      "text": "\nAn inventory return shows investigators seized a USB drive containing the video, an event log report for \u201clinear access doors and gates,\u201d an \u201celevator access door lock\u201d report and a \u201clock audit report for both apartments.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4150,
+      "end_ix": 4233,
+      "text": "\nNow, even if police would try to search the killer cop\u2019s apartment, it\u2019s too late.",
+      "new_text": "\nNow, even if police would try to search the cop\u2019s apartment, it\u2019s too late.",
+      "prop_spans": [
+        [
+          4195,
+          4205,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4233,
+      "end_ix": 4522,
+      "text": "\nOn Sunday, apartment staff notified residents in an email that Guyger \u201chas vacated her apartment and no longer resides at our community.\u201d\nA manager at the complex declined to indicate exactly when Guyger moved out and if she left the premises voluntarily, the Dallas Morning News reports.",
+      "new_text": "\nOn Sunday, apartment staff notified residents in an email that Guyger \u201chas vacated her apartment and no longer resides at our community.\u201d\nA manager at the complex declined to indicate exactly when Guyger moved out and if she left the premises voluntarily, the Dallas Morning News reports.",
+      "prop_spans": [
+        [
+          4356,
+          4369,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4522,
+      "end_ix": 4742,
+      "text": "\nWhile residents can certainly sleep better knowing that they don\u2019t have to fear a killer cop walking into their apartment and murdering them, the family of Botham Jean likely sees this as one more instance of injustice.",
+      "new_text": "\nWhile residents can certainly sleep better knowing that they don\u2019t have to fear such a cop walking into their apartment and murdering them, the family of Botham Jean likely sees this as one more instance of injustice.",
+      "prop_spans": [
+        [
+          4598,
+          4602,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          4605,
+          4615,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4605,
+          4615,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4742,
+      "end_ix": 4824,
+      "text": "\nMother of #BothamJean, Allison Jean, says the \u201csmear\u201d of her son is unacceptable.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4824,
+      "end_ix": 5040,
+      "text": "\n\u201cIt is time that we recognize that lives matter, my son\u2019s life matters.\u201d pic.twitter.com/UjyKRZ8XeG \u2014 Jack Highberger (@JackHighberger) September 14, 2018\nArticle posted with permission from The Free Thought Project",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1257,
+      1264,
+      "Loaded_Language"
+    ],
+    [
+      1473,
+      1481,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2217,
+      2228,
+      "Loaded_Language"
+    ],
+    [
+      2470,
+      2479,
+      "Loaded_Language"
+    ],
+    [
+      4195,
+      4205,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4356,
+      4369,
+      "Flag-Waving"
+    ],
+    [
+      4598,
+      4602,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      4605,
+      4615,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4605,
+      4615,
+      "Repetition"
+    ]
+  ]
+}

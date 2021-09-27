@@ -1,0 +1,583 @@
+{
+  "article_id": "771406408",
+  "sentence offsets in original": [
+    0,
+    161,
+    194,
+    246,
+    382,
+    568,
+    650,
+    700,
+    952,
+    1085,
+    1167,
+    1210,
+    1252,
+    1295,
+    1485,
+    1545,
+    1683,
+    1834,
+    1867,
+    1915,
+    1939,
+    1988,
+    2030,
+    2176,
+    2245,
+    2344,
+    2382,
+    2463,
+    2625,
+    2690,
+    2739,
+    3109,
+    3187,
+    3327,
+    3419,
+    3452,
+    3506,
+    3525,
+    3579,
+    3599
+  ],
+  "original sentences": [
+    "France Gives Muslim Killer of Elderly Jewish Woman a Pass\n\nEvery other Muslim terrorist or killer in Europe has his actions blamed on mental illness or drug use.",
+    "\nThis just continues the pattern.",
+    "\nI wrote about the murder of Sarah Halimi last year.",
+    "\nSarah Lucy Halimi was thrown out of the window of the third floor Paris apartment while she begged her Muslim killer to spare her life.",
+    "\nThe 66-year-old director of an Orthodox Jewish nursery was woken from her sleep when she was violently beaten by her twenty something Muslim neighbor who then dragged her to the window.",
+    "\nShe died on the street outside the building where she had lived for thirty years.",
+    "\nThe killer had allegedly shouted, \u201cAllahu Akbar\u201d.",
+    "\nIn the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy\u2019s son, describes the killer\u2019s family as being known for its anti-Semitism.",
+    "\n\"One day, one of the killer's sisters pushed my sister down the stairs, and the next time she called her a dirty Jew,\" he described.",
+    "\nSarah\u2019s brother said that the killer called Sarah and her daughter, \u201cdirty Jews\u201d.",
+    "\nThe authorities stonewalled at every turn.",
+    "\nAnd, predictably, the killer gets a pass.",
+    "\nAllahu Akbar usually means motive unknown.",
+    "\nThe 28-year-old Muslim man confessed to the killing and was heard shouting \u201cAllahu Akbar\u201d and calling Halimi \u201cSatan\u201d shortly before throwing her out the window of her three-story apartment.",
+    "\nIn January, Traore was determined to be fit to stand trial.",
+    "\nHe was placed in a psychiatric hospital for weeks after his arrest in the April 2017 killing despite having no history of mental illness.",
+    "\nBut a judge requested a second series of tests, which determined that the Malian immigrant was not able to stand trial, 20 Minutes reported Wednesday.",
+    "\nThis tired farce has dragged on.",
+    "\nKobili Traore was hit with hate crimes charges.",
+    "\nThen they were dropped.",
+    "\nThe authorities allowed him to commit the crime.",
+    "\nNow they're letting him get away with it.",
+    "\nThree minutes later, a unit of the Anti-Crime Brigade (BAC) \u2014 who happened to be patrolling the area \u2014 took up position in front of Diara\u2019s door.",
+    "\nThey heard Kobili Traore chanting Muslim prayers and Koranic verses.",
+    "\nUnsure about the situation and the potential threats to the family, they asked for reinforcements.",
+    "\nAdditional policemen arrived quickly.",
+    "\nHowever, for some unclear reason, the BAC unit still refrained from breaking in.",
+    "\nIn the meantime, Kobili Traore put on new clothes and climbed out of the window to reach Sarah Halimi\u2019s apartment, which was at the same level as Diara Traore\u2019s.",
+    "\nHe allegedly assaulted the Jewish woman and hit her mercilessly.",
+    "\nFrom time to time he resumed Koranic recitation.",
+    "\nMany neighbours, woken by the old woman\u2019s screams or the assaulter\u2019s religious chanting, called the police Some gave details about the exact location of the assault, the attacker\u2019s identity, the fact he vilified his victim as a Jewish person and as \u201ca Satan\u201d while hitting her, or even \u2014 as far as the Muslim neighbours were concerned \u2014 the Koranic portions he chanted.",
+    "\nYet the police still failed to storm Sarah Halimi\u2019s apartment and rescue her.",
+    "\nEventually, Kobili Traore is claimed to have shouted that the woman was \u201cmad and about to commit suicide\u201d, and threw her out of the window.",
+    "\nHe had time enough to climb back to Diara Traore\u2019s apartment where he finally was arrested.",
+    "\nHis hands were covered in blood.",
+    "\nThere was blood everywhere in his victim\u2019s apartment.",
+    "\nSure he was crazy.",
+    "\nSo crazy he tried to contrive an alibi for his crime.",
+    "\nKobili isn't crazy.",
+    "\nBut the system that keeps on protecting him is."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 161,
+      "text": "France Gives Muslim Killer of Elderly Jewish Woman a Pass\n\nEvery other Muslim terrorist or killer in Europe has his actions blamed on mental illness or drug use.",
+      "new_text": "France Gives Killer of Elderly Jewish Woman a Pass\n\nMost Muslim terrorists or killers in Europe have their actions blamed on mental illness or drug use.",
+      "prop_spans": [
+        [
+          13,
+          26,
+          "Name_Calling,Labeling"
+        ],
+        [
+          59,
+          87,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 161,
+      "end_ix": 194,
+      "text": "\nThis just continues the pattern.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 194,
+      "end_ix": 246,
+      "text": "\nI wrote about the murder of Sarah Halimi last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 246,
+      "end_ix": 382,
+      "text": "\nSarah Lucy Halimi was thrown out of the window of the third floor Paris apartment while she begged her Muslim killer to spare her life.",
+      "new_text": "\nSarah Lucy Halimi was thrown out of the window of the third floor Paris apartment while she begged her Muslim killer to spare her life.",
+      "prop_spans": [
+        [
+          350,
+          363,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 382,
+      "end_ix": 568,
+      "text": "\nThe 66-year-old director of an Orthodox Jewish nursery was woken from her sleep when she was violently beaten by her twenty something Muslim neighbor who then dragged her to the window.",
+      "new_text": "\nThe 66-year-old director of an Orthodox Jewish nursery was woken from her sleep when she was beaten by her twenty something Muslim neighbor who then dragged her to the window.",
+      "prop_spans": [
+        [
+          476,
+          492,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 568,
+      "end_ix": 650,
+      "text": "\nShe died on the street outside the building where she had lived for thirty years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 650,
+      "end_ix": 700,
+      "text": "\nThe killer had allegedly shouted, \u201cAllahu Akbar\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 700,
+      "end_ix": 952,
+      "text": "\nIn the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy\u2019s son, describes the killer\u2019s family as being known for its anti-Semitism.",
+      "new_text": "\nIn the tragic comedy of contradiction that most Islamic terrorism investigations inevitably become, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy\u2019s son, describes the killer\u2019s family as being known for its anti-Semitism.",
+      "prop_spans": [
+        [
+          708,
+          731,
+          "Loaded_Language"
+        ],
+        [
+          737,
+          793,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 952,
+      "end_ix": 1085,
+      "text": "\n\"One day, one of the killer's sisters pushed my sister down the stairs, and the next time she called her a dirty Jew,\" he described.",
+      "new_text": "\n\"One day, one of the killer's sisters pushed my sister down the stairs, and the next time she called her a dirty Jew,\" he described.",
+      "prop_spans": [
+        [
+          1060,
+          1069,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1085,
+      "end_ix": 1167,
+      "text": "\nSarah\u2019s brother said that the killer called Sarah and her daughter, \u201cdirty Jews\u201d.",
+      "new_text": "\nSarah\u2019s brother said that the killer called Sarah and her daughter, \u201cdirty Jews\u201d.",
+      "prop_spans": [
+        [
+          1154,
+          1166,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1167,
+      "end_ix": 1210,
+      "text": "\nThe authorities stonewalled at every turn.",
+      "new_text": "\nThe authorities blocked at every turn.",
+      "prop_spans": [
+        [
+          1184,
+          1195,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1210,
+      "end_ix": 1252,
+      "text": "\nAnd, predictably, the killer gets a pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1252,
+      "end_ix": 1295,
+      "text": "\nAllahu Akbar usually means motive unknown.",
+      "new_text": "\nAllahu Akbar could mean motive unknown.",
+      "prop_spans": [
+        [
+          1253,
+          1294,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1295,
+      "end_ix": 1485,
+      "text": "\nThe 28-year-old Muslim man confessed to the killing and was heard shouting \u201cAllahu Akbar\u201d and calling Halimi \u201cSatan\u201d shortly before throwing her out the window of her three-story apartment.",
+      "new_text": "\nThe 28-year-old Muslim man confessed to the killing and was heard shouting \u201cAllahu Akbar\u201d and calling Halimi \u201cSatan\u201d shortly before throwing her out the window of her three-story apartment.",
+      "prop_spans": [
+        [
+          1371,
+          1385,
+          "Repetition"
+        ],
+        [
+          1405,
+          1412,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1485,
+      "end_ix": 1545,
+      "text": "\nIn January, Traore was determined to be fit to stand trial.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1545,
+      "end_ix": 1683,
+      "text": "\nHe was placed in a psychiatric hospital for weeks after his arrest in the April 2017 killing despite having no history of mental illness.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1683,
+      "end_ix": 1834,
+      "text": "\nBut a judge requested a second series of tests, which determined that the Malian immigrant was not able to stand trial, 20 Minutes reported Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1834,
+      "end_ix": 1867,
+      "text": "\nThis tired farce has dragged on.",
+      "new_text": "\nThis pretence has dragged on.",
+      "prop_spans": [
+        [
+          1840,
+          1851,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1867,
+      "end_ix": 1915,
+      "text": "\nKobili Traore was hit with hate crimes charges.",
+      "new_text": "\nKobili Traore was levelled with hate crimes charges.",
+      "prop_spans": [
+        [
+          1886,
+          1889,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1915,
+      "end_ix": 1939,
+      "text": "\nThen they were dropped.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1939,
+      "end_ix": 1988,
+      "text": "\nThe authorities allowed him to commit the crime.",
+      "new_text": "\nThe authorities let him to commit the crime.",
+      "prop_spans": [
+        [
+          1940,
+          1988,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1988,
+      "end_ix": 2030,
+      "text": "\nNow they're letting him get away with it.",
+      "new_text": "\nNow they're letting him get away with it.",
+      "prop_spans": [
+        [
+          1988,
+          1988,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2030,
+      "end_ix": 2176,
+      "text": "\nThree minutes later, a unit of the Anti-Crime Brigade (BAC) \u2014 who happened to be patrolling the area \u2014 took up position in front of Diara\u2019s door.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2176,
+      "end_ix": 2245,
+      "text": "\nThey heard Kobili Traore chanting Muslim prayers and Koranic verses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2245,
+      "end_ix": 2344,
+      "text": "\nUnsure about the situation and the potential threats to the family, they asked for reinforcements.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2344,
+      "end_ix": 2382,
+      "text": "\nAdditional policemen arrived quickly.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2382,
+      "end_ix": 2463,
+      "text": "\nHowever, for some unclear reason, the BAC unit still refrained from breaking in.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2463,
+      "end_ix": 2625,
+      "text": "\nIn the meantime, Kobili Traore put on new clothes and climbed out of the window to reach Sarah Halimi\u2019s apartment, which was at the same level as Diara Traore\u2019s.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2625,
+      "end_ix": 2690,
+      "text": "\nHe allegedly assaulted the Jewish woman and hit her mercilessly.",
+      "new_text": "\nHe allegedly assaulted the Jewish woman and hit her a lot.",
+      "prop_spans": [
+        [
+          2670,
+          2689,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2690,
+      "end_ix": 2739,
+      "text": "\nFrom time to time he resumed Koranic recitation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2739,
+      "end_ix": 3109,
+      "text": "\nMany neighbours, woken by the old woman\u2019s screams or the assaulter\u2019s religious chanting, called the police Some gave details about the exact location of the assault, the attacker\u2019s identity, the fact he vilified his victim as a Jewish person and as \u201ca Satan\u201d while hitting her, or even \u2014 as far as the Muslim neighbours were concerned \u2014 the Koranic portions he chanted.",
+      "new_text": "\nMany neighbours, woken by the old woman\u2019s screams or the assaulter\u2019s religious chanting, called the police Some gave details about the exact location of the assault, the attacker\u2019s identity, the fact he vilified his victim as a Jewish person and as \u201ca Satan\u201d while hitting her, or even \u2014 as far as the Muslim neighbours were concerned \u2014 the Koranic portions he chanted.",
+      "prop_spans": [
+        [
+          2989,
+          2998,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3109,
+      "end_ix": 3187,
+      "text": "\nYet the police still failed to storm Sarah Halimi\u2019s apartment and rescue her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3187,
+      "end_ix": 3327,
+      "text": "\nEventually, Kobili Traore is claimed to have shouted that the woman was \u201cmad and about to commit suicide\u201d, and threw her out of the window.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3327,
+      "end_ix": 3419,
+      "text": "\nHe had time enough to climb back to Diara Traore\u2019s apartment where he finally was arrested.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3419,
+      "end_ix": 3452,
+      "text": "\nHis hands were covered in blood.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3452,
+      "end_ix": 3506,
+      "text": "\nThere was blood everywhere in his victim\u2019s apartment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3506,
+      "end_ix": 3525,
+      "text": "\nSure he was crazy.",
+      "new_text": "\nSure he was crazy.",
+      "prop_spans": [
+        [
+          3519,
+          3524,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3525,
+      "end_ix": 3579,
+      "text": "\nSo crazy he tried to contrive an alibi for his crime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3579,
+      "end_ix": 3599,
+      "text": "\nKobili isn't crazy.",
+      "new_text": "\nKobili isn't crazy.",
+      "prop_spans": [
+        [
+          3593,
+          3598,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3599,
+      "end_ix": 3647,
+      "text": "\nBut the system that keeps on protecting him is.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      13,
+      26,
+      "Name_Calling,Labeling"
+    ],
+    [
+      59,
+      87,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      350,
+      363,
+      "Repetition"
+    ],
+    [
+      476,
+      492,
+      "Loaded_Language"
+    ],
+    [
+      708,
+      731,
+      "Loaded_Language"
+    ],
+    [
+      737,
+      793,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1060,
+      1069,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1154,
+      1166,
+      "Repetition"
+    ],
+    [
+      1184,
+      1195,
+      "Loaded_Language"
+    ],
+    [
+      1253,
+      1294,
+      "Obfuscation,Intentional_Vagueness,Confusion"
+    ],
+    [
+      1371,
+      1385,
+      "Repetition"
+    ],
+    [
+      1405,
+      1412,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1840,
+      1851,
+      "Loaded_Language"
+    ],
+    [
+      1886,
+      1889,
+      "Loaded_Language"
+    ],
+    [
+      1940,
+      1988,
+      "Straw_Men"
+    ],
+    [
+      2670,
+      2689,
+      "Loaded_Language"
+    ],
+    [
+      2989,
+      2998,
+      "Repetition"
+    ],
+    [
+      3519,
+      3524,
+      "Loaded_Language"
+    ],
+    [
+      3593,
+      3598,
+      "Loaded_Language"
+    ]
+  ]
+}

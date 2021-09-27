@@ -1,0 +1,559 @@
+{
+  "article_id": "711566593",
+  "sentence offsets in original": [
+    0,
+    218,
+    409,
+    556,
+    828,
+    1291,
+    1370,
+    1650,
+    1777,
+    1816,
+    2099,
+    2256,
+    2258,
+    2260,
+    2734,
+    2912,
+    2978,
+    3072,
+    3265,
+    3453,
+    3610,
+    3954,
+    4083,
+    4228,
+    4303,
+    4430,
+    4545,
+    4739
+  ],
+  "original sentences": [
+    "No Justice for Kate Steinle\n\nA San Francisco jury on Thursday found Jose Ines Garcia Zarate, also known as Juan Francisco Lopez Sanchez, not guilty of the murder of Kate Steinle on a San Francisco pier on July 1, 2015.",
+    "\nThe jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",
+    "\nFor Garcia\u2019s Zarate\u2019s attorney, Matt Gonzalez, Ralph Nader\u2019s running mate in the 2008 presidential election, the trial was all about Donald Trump.",
+    "\n\u201cFor those who might criticize this verdict \u2013 there are a number of people who have commented on this case in the last couple of years,\u201d Gonzalez said after the verdict, \u201cthe Attorney General of the United States and the President and Vice President of the United States.",
+    "\nLet me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.\u201d\n\u201cFrom day one this case was used as a means to foment hate, to foment division and to foment a program of mass deportation,\u201d added defense attorney Francisco Ugarte.",
+    "\n\u201cIt was used to catapult a presidency along that philosophy of hate of others.",
+    "\nI believe today is a day of vindication for the rights of immigrants.\u201d\nAlex Bastian of the San Francisco prosecutor\u2019s office told reporters the verdict \u201cwas not the one we were hoping for,\u201d but the Steinle family could be forgiven for any reasonable doubts about the prosecution.",
+    "\n\u201cWe\u2019re just shocked \u2014 saddened and shocked ... that\u2019s about it,\u201d Jim Steinle, Kate\u2019s father, told the San Francisco Chronicle.",
+    "\n\u201cThere\u2019s no other way you can coin it.",
+    "\nJustice was rendered, but it was not served.\u201d Kate\u2019s brother Brad was \u201cstunned that they couldn\u2019t even get him on using the weapon.\u201d\nAttorney David Wohl told Fox News that with negligent discharge of a firearm, the defendant\u2019s action met every standard for involuntary manslaughter.",
+    "\nThe verdict, Wohl said, was \u201can utter and complete and total failure by the prosecutor.\u201d\nConservative Ben Shapiro told Fox news the verdict was \u201chorrifying.",
+    "\n.",
+    "\n.",
+    "\nPolitics trumps evidence in California once again.\u201d For Jeff Sessions San Francisco\u2019s sanctuary city policy \u201cled to the preventable and heartbreaking death of Kate Steinle.\u201d According to the Attorney General\u2019s statement, the Justice Department \u201cwill continue to ensure that all jurisdictions place the safety and security of their communities above the convenience of criminal aliens.\u201d\nFor his part, President Trump tweeted: \u201cA disgraceful verdict in the Kate Steinle case!",
+    "\nNo wonder the people of our Country are so angry with Illegal Immigration.\u201d\nMexican national Jose Ines Garcia Zarate, 54, is a seven-time felon and has been deported five times.",
+    "\nIn 2015 federal authorities sought to detain him for deportation.",
+    "\nSan Francisco Sheriff Ross Mirkarimi chose to defy the feds and release the Mexican national.",
+    "\nOn July 1, 2015, the criminal illegal picked up a Sig Sauer .40 caliber pistol, stolen from a Bureau of Land Management officer, and fired the shot that killed Kate Steinle, only 32 years old.",
+    "\nThe Mexican nation and career criminal enjoyed all the rights of the American legal system, the presumption of innocence, and a high-profile defense attorney funded by American taxpayers.",
+    "\nDuring the trial, former vice presidential candidate Matt Gonzalez claimed that Garcia Zarate\u2019s background and nationality played a role in his prosecution.",
+    "\nAs Gonzalez argued, \u201cIf this was a college student or Swedish kid would he be charged with murder?\u201d\nThat sort of politically correct nonsense plays well in San Francisco, so any observer of the case could be forgiven for believing that prosecution and defense both got the outcome they wanted, regardless of the tragedy for the Steinle family.",
+    "\nThe felony firearms charge, the only charge on which Garcia Zarate was found guilty, carries a sentence of 16 months to 3 years.",
+    "\nSince Garcia Zarate has been languishing in jail, the authorities could commute any sentence to time served and he could walk free within weeks.",
+    "\nSan Francisco is not likely to hand the felon over to ICE for deportation.",
+    "\nShould that happen, Garcia Zarate has already proved five times that anybody can get away with violating U.S. immigration law.",
+    "\nHe has already proved that in the sanctuary state of California, false-documented illegals are a privileged class.",
+    "\nJose Ines Garcia Zarate, or whatever his real name is, has also proved that a career criminal who is not even supposed to be in the country can literally get away with murder in broad daylight.",
+    "\nWhen that happens, the killer\u2019s public defender will call it a \u201cvindication for the rights of immigrants.\u201d\nIn San Francisco, and across California, this verdict will surely give new meaning to the cry of \u201cno justice, no peace.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 218,
+      "text": "No Justice for Kate Steinle\n\nA San Francisco jury on Thursday found Jose Ines Garcia Zarate, also known as Juan Francisco Lopez Sanchez, not guilty of the murder of Kate Steinle on a San Francisco pier on July 1, 2015.",
+      "new_text": "Justice awaits for Kate Steinle\n\nA San Francisco jury on Thursday found Jose Ines Garcia Zarate, also known as Juan Francisco Lopez Sanchez, not guilty of the murder of Kate Steinle on a San Francisco pier on July 1, 2015.",
+      "prop_spans": [
+        [
+          0,
+          27,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 218,
+      "end_ix": 409,
+      "text": "\nThe jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",
+      "new_text": "\nThe jury of six men and six women, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",
+      "prop_spans": [
+        [
+          254,
+          281,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 409,
+      "end_ix": 556,
+      "text": "\nFor Garcia\u2019s Zarate\u2019s attorney, Matt Gonzalez, Ralph Nader\u2019s running mate in the 2008 presidential election, the trial was all about Donald Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 556,
+      "end_ix": 828,
+      "text": "\n\u201cFor those who might criticize this verdict \u2013 there are a number of people who have commented on this case in the last couple of years,\u201d Gonzalez said after the verdict, \u201cthe Attorney General of the United States and the President and Vice President of the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 828,
+      "end_ix": 1291,
+      "text": "\nLet me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.\u201d\n\u201cFrom day one this case was used as a means to foment hate, to foment division and to foment a program of mass deportation,\u201d added defense attorney Francisco Ugarte.",
+      "new_text": "\nLet me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.\u201d\n\u201cFrom day one this case was used as a means to foment hate, to foment division and to foment a program of mass deportation,\u201d added defense attorney Francisco Ugarte.",
+      "prop_spans": [
+        [
+          854,
+          1030,
+          "Whataboutism"
+        ],
+        [
+          854,
+          1029,
+          "Red_Herring"
+        ],
+        [
+          1164,
+          1250,
+          "Loaded_Language"
+        ],
+        [
+          1189,
+          1196,
+          "Repetition"
+        ],
+        [
+          1212,
+          1219,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1291,
+      "end_ix": 1370,
+      "text": "\n\u201cIt was used to catapult a presidency along that philosophy of hate of others.",
+      "new_text": "\n\u201cIt was used to catapult a presidency along that philosophy of hate of others.",
+      "prop_spans": [
+        [
+          1308,
+          1370,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1370,
+      "end_ix": 1650,
+      "text": "\nI believe today is a day of vindication for the rights of immigrants.\u201d\nAlex Bastian of the San Francisco prosecutor\u2019s office told reporters the verdict \u201cwas not the one we were hoping for,\u201d but the Steinle family could be forgiven for any reasonable doubts about the prosecution.",
+      "new_text": "\nI believe today is a day of vindication for the rights of immigrants.\u201d\nAlex Bastian of the San Francisco prosecutor\u2019s office told reporters the verdict \u201cwas not the one we were hoping for,\u201d but the Steinle family could be forgiven for any reasonable doubts about the prosecution.",
+      "prop_spans": [
+        [
+          1370,
+          1370,
+          "Loaded_Language"
+        ],
+        [
+          1381,
+          1442,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1650,
+      "end_ix": 1777,
+      "text": "\n\u201cWe\u2019re just shocked \u2014 saddened and shocked ... that\u2019s about it,\u201d Jim Steinle, Kate\u2019s father, told the San Francisco Chronicle.",
+      "new_text": "\n\u201cWe\u2019re just shocked \u2014 saddened and shocked ... that\u2019s about it,\u201d Jim Steinle, Kate\u2019s father, told the San Francisco Chronicle.",
+      "prop_spans": [
+        [
+          1652,
+          1693,
+          "Loaded_Language"
+        ],
+        [
+          1686,
+          1694,
+          "Repetition"
+        ],
+        [
+          1698,
+          1715,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1777,
+      "end_ix": 1816,
+      "text": "\n\u201cThere\u2019s no other way you can coin it.",
+      "new_text": "\n\u201cThere\u2019s no other way you can coin it.",
+      "prop_spans": [
+        [
+          1779,
+          1815,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1816,
+      "end_ix": 2099,
+      "text": "\nJustice was rendered, but it was not served.\u201d Kate\u2019s brother Brad was \u201cstunned that they couldn\u2019t even get him on using the weapon.\u201d\nAttorney David Wohl told Fox News that with negligent discharge of a firearm, the defendant\u2019s action met every standard for involuntary manslaughter.",
+      "new_text": "\nJustice was rendered, but it was not served.\u201d Kate\u2019s brother Brad was \u201cstunned that they couldn\u2019t even get him on using the weapon.\u201d\nAttorney David Wohl told Fox News that with negligent discharge of a firearm, the defendant\u2019s action met every standard for involuntary manslaughter.",
+      "prop_spans": [
+        [
+          1817,
+          1860,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2099,
+      "end_ix": 2256,
+      "text": "\nThe verdict, Wohl said, was \u201can utter and complete and total failure by the prosecutor.\u201d\nConservative Ben Shapiro told Fox news the verdict was \u201chorrifying.",
+      "new_text": "\nThe verdict, Wohl said, was \u201can utter and complete and total failure by the prosecutor.\u201d\nConservative Ben Shapiro told Fox news the verdict was \u201chorrifying.",
+      "prop_spans": [
+        [
+          2132,
+          2169,
+          "Loaded_Language"
+        ],
+        [
+          2189,
+          2255,
+          "Appeal_to_Authority"
+        ],
+        [
+          2228,
+          2256,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2256,
+      "end_ix": 2258,
+      "text": "\n.",
+      "new_text": "\n.",
+      "prop_spans": [
+        [
+          2256,
+          2257,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2258,
+      "end_ix": 2260,
+      "text": "\n.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2260,
+      "end_ix": 2734,
+      "text": "\nPolitics trumps evidence in California once again.\u201d For Jeff Sessions San Francisco\u2019s sanctuary city policy \u201cled to the preventable and heartbreaking death of Kate Steinle.\u201d According to the Attorney General\u2019s statement, the Justice Department \u201cwill continue to ensure that all jurisdictions place the safety and security of their communities above the convenience of criminal aliens.\u201d\nFor his part, President Trump tweeted: \u201cA disgraceful verdict in the Kate Steinle case!",
+      "new_text": "\nPolitics trumps evidence in California once again.\u201d For Jeff Sessions San Francisco\u2019s sanctuary city policy \u201cled to the preventable and heartbreaking death of Kate Steinle.\u201d According to the Attorney General\u2019s statement, the Justice Department \u201cwill continue to ensure that all jurisdictions place the safety and security of their communities above the convenience of criminal aliens.\u201d\nFor his part, President Trump tweeted: \u201cA disgraceful verdict in the Kate Steinle case!",
+      "prop_spans": [
+        [
+          2313,
+          2432,
+          "Appeal_to_Authority"
+        ],
+        [
+          2397,
+          2416,
+          "Loaded_Language"
+        ],
+        [
+          2435,
+          2644,
+          "Appeal_to_Authority"
+        ],
+        [
+          2689,
+          2708,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2734,
+      "end_ix": 2912,
+      "text": "\nNo wonder the people of our Country are so angry with Illegal Immigration.\u201d\nMexican national Jose Ines Garcia Zarate, 54, is a seven-time felon and has been deported five times.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2912,
+      "end_ix": 2978,
+      "text": "\nIn 2015 federal authorities sought to detain him for deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2978,
+      "end_ix": 3072,
+      "text": "\nSan Francisco Sheriff Ross Mirkarimi chose to defy the feds and release the Mexican national.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3072,
+      "end_ix": 3265,
+      "text": "\nOn July 1, 2015, the criminal illegal picked up a Sig Sauer .40 caliber pistol, stolen from a Bureau of Land Management officer, and fired the shot that killed Kate Steinle, only 32 years old.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3265,
+      "end_ix": 3453,
+      "text": "\nThe Mexican nation and career criminal enjoyed all the rights of the American legal system, the presumption of innocence, and a high-profile defense attorney funded by American taxpayers.",
+      "new_text": "\nThe Mexican nation and career criminal enjoyed all the rights of the American legal system, the presumption of innocence, and a high-profile defense attorney funded by American taxpayers.",
+      "prop_spans": [
+        [
+          3305,
+          3357,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3453,
+      "end_ix": 3610,
+      "text": "\nDuring the trial, former vice presidential candidate Matt Gonzalez claimed that Garcia Zarate\u2019s background and nationality played a role in his prosecution.",
+      "new_text": "\nDuring the trial, former vice presidential candidate Matt Gonzalez claimed that Garcia Zarate\u2019s background and nationality played a role in his prosecution.",
+      "prop_spans": [
+        [
+          3534,
+          3610,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3610,
+      "end_ix": 3954,
+      "text": "\nAs Gonzalez argued, \u201cIf this was a college student or Swedish kid would he be charged with murder?\u201d\nThat sort of politically correct nonsense plays well in San Francisco, so any observer of the case could be forgiven for believing that prosecution and defense both got the outcome they wanted, regardless of the tragedy for the Steinle family.",
+      "new_text": "\nAs Gonzalez argued, \u201cIf this was a college student or Swedish kid would he be charged with murder?\u201d\nThat sort of politically correct nonsense plays well in San Francisco, so any observer of the case could be forgiven for believing that prosecution and defense both got the outcome they wanted, regardless of the tragedy for the Steinle family.",
+      "prop_spans": [
+        [
+          3610,
+          3610,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3630,
+          3710,
+          "Doubt"
+        ],
+        [
+          3724,
+          3752,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3954,
+      "end_ix": 4083,
+      "text": "\nThe felony firearms charge, the only charge on which Garcia Zarate was found guilty, carries a sentence of 16 months to 3 years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4083,
+      "end_ix": 4228,
+      "text": "\nSince Garcia Zarate has been languishing in jail, the authorities could commute any sentence to time served and he could walk free within weeks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4228,
+      "end_ix": 4303,
+      "text": "\nSan Francisco is not likely to hand the felon over to ICE for deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4303,
+      "end_ix": 4430,
+      "text": "\nShould that happen, Garcia Zarate has already proved five times that anybody can get away with violating U.S. immigration law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4430,
+      "end_ix": 4545,
+      "text": "\nHe has already proved that in the sanctuary state of California, false-documented illegals are a privileged class.",
+      "new_text": "\nHe has already proved that in the sanctuary state of California, false-documented illegals are a privileged class.",
+      "prop_spans": [
+        [
+          4431,
+          4545,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4545,
+      "end_ix": 4739,
+      "text": "\nJose Ines Garcia Zarate, or whatever his real name is, has also proved that a career criminal who is not even supposed to be in the country can literally get away with murder in broad daylight.",
+      "new_text": "\nJose Ines Garcia Zarate, or whatever his real name is, has also proved that a career criminal who is not even supposed to be in the country can literally get away with murder in broad daylight.",
+      "prop_spans": [
+        [
+          4545,
+          4546,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4739,
+      "end_ix": 4967,
+      "text": "\nWhen that happens, the killer\u2019s public defender will call it a \u201cvindication for the rights of immigrants.\u201d\nIn San Francisco, and across California, this verdict will surely give new meaning to the cry of \u201cno justice, no peace.\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      27,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      254,
+      281,
+      "Red_Herring"
+    ],
+    [
+      854,
+      1030,
+      "Whataboutism"
+    ],
+    [
+      854,
+      1029,
+      "Red_Herring"
+    ],
+    [
+      1164,
+      1250,
+      "Loaded_Language"
+    ],
+    [
+      1189,
+      1196,
+      "Repetition"
+    ],
+    [
+      1212,
+      1219,
+      "Repetition"
+    ],
+    [
+      1308,
+      1370,
+      "Loaded_Language"
+    ],
+    [
+      1381,
+      1442,
+      "Slogans"
+    ],
+    [
+      1652,
+      1693,
+      "Loaded_Language"
+    ],
+    [
+      1686,
+      1694,
+      "Repetition"
+    ],
+    [
+      1698,
+      1715,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1779,
+      1815,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      1817,
+      1860,
+      "Loaded_Language"
+    ],
+    [
+      2132,
+      2169,
+      "Loaded_Language"
+    ],
+    [
+      2189,
+      2255,
+      "Appeal_to_Authority"
+    ],
+    [
+      2228,
+      2257,
+      "Loaded_Language"
+    ],
+    [
+      2313,
+      2432,
+      "Appeal_to_Authority"
+    ],
+    [
+      2397,
+      2416,
+      "Loaded_Language"
+    ],
+    [
+      2435,
+      2644,
+      "Appeal_to_Authority"
+    ],
+    [
+      2689,
+      2708,
+      "Loaded_Language"
+    ],
+    [
+      3305,
+      3357,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3534,
+      3610,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3630,
+      3710,
+      "Doubt"
+    ],
+    [
+      3724,
+      3752,
+      "Loaded_Language"
+    ],
+    [
+      4431,
+      4546,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

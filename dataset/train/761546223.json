@@ -1,0 +1,581 @@
+{
+  "article_id": "761546223",
+  "sentence offsets in original": [
+    0,
+    172,
+    303,
+    398,
+    497,
+    656,
+    795,
+    922,
+    1025,
+    1090,
+    1155,
+    1355,
+    1437,
+    1465,
+    1528,
+    1616,
+    1754,
+    2000,
+    2165,
+    2418,
+    2581,
+    2749,
+    2811,
+    2929,
+    3056,
+    3198,
+    3306,
+    3522,
+    3668,
+    3744,
+    3905,
+    4057,
+    4221,
+    4370,
+    4649
+  ],
+  "original sentences": [
+    "Homeschooling Protects Children from Violence and Marxism\n\nThe February mass shooting at a high school in Parkland, Florida prompted many parents to consider homeschooling.",
+    "\nThis is hardly surprising, as the misnamed federal \u201cGun-Free Schools\u201d law leaves schoolchildren defenseless against mass shooters.",
+    "\nRemoving one\u2019s children from government schools seems a rational response to school shootings.",
+    "\nSchool shootings are not the only form of violence causing more parents to consider homeschooling.",
+    "\nMany potential homeschooling parents are concerned about the failure of school administrators to effectively protect children from bullying by other students.",
+    "\nOf course, many parents choose homeschooling as a means of protecting their children from federal education \u201creforms\u201d such as Common Core.",
+    "\nOther parents are motivated by a desire to protect their children from the cultural Marxism that has infiltrated many schools.",
+    "\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThe spread of cultural Marxism has contributed to the dumbing down of public education.",
+    "\nToo many government schools are more concerned with promoting political correctness than ensuring that students receive a good education.",
+    "\nEven if cultural Marxism did not dumb down education, concerns that government schools are indoctrinating children with beliefs that conflict with parents\u2019 political, social, and even religious beliefs would motivate many families to homeschool.",
+    "\nEven when government schools are not intentionally promoting cultural Marxism or other left-wing ideologies, they are still implicitly biased toward big government.",
+    "\nFor example, how many government schools teach the Austrian economics explanation for the Great Depression \u2014 much less question the wisdom of central banking \u2014 or critically examine the justifications for America\u2019s hyper-interventionist foreign policy?",
+    "\nParents interested in providing their children with a quality education emphasizing the ideas of liberty should consider looking into my homeschooling curriculum.",
+    "\nThe Ron Paul Curriculum provides students with a well-rounded education that includes rigorous programs in history, mathematics, and the physical and natural sciences.",
+    "\nThe curriculum also provides instruction in personal finance.",
+    "\nStudents can develop superior oral and verbal communication skills via intensive writing and public speaking courses.",
+    "\nAnother feature of my curriculum is that it provides students the opportunity to create and run their own internet businesses.",
+    "\nThe government and history sections of the curriculum emphasize Austrian economics, libertarian political theory, and the history of liberty.",
+    "\nHowever, unlike government schools, my curriculum never puts ideological indoctrination ahead of education.",
+    "\nWhile government schools \u2014 and even many private schools \u2014 pretend religion played no significant role in history, my curriculum addresses the crucial role religion played in the development of Western civilization.",
+    "\nHowever, the materials are drafted in such a way that any Christian, Jewish, Muslim, or atheist parent can feel comfortable using the curriculum.",
+    "\nInteractive forums allow students to engage with and learn from each other.",
+    "\nThe forums ensure students are actively engaged in their education as well as give them an opportunity to interact with their peers outside of a formal setting.",
+    "\nConcern about the safety of students in government-run schools is one reason many parents are considering homeschooling, but it is not the only reason.",
+    "\nMany parents are motivated by a desire to give their children something better than a curriculum that has been dumbed down by federal initiatives like Common Core.",
+    "\nOther parents do not wish to have their children indoctrinated with views that contradict the parents\u2019 political, social, or even religious beliefs.",
+    "\nI encourage all parents looking at alternatives to government schools \u2014alternatives that provide children with a well-rounded education that introduces them to the history and ideas of liberty \u2014 to go to RonPaulCurriculum.com for more information about my homeschooling program.",
+    "\nArticle posted with permission from Ron Paul"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 172,
+      "text": "Homeschooling Protects Children from Violence and Marxism\n\nThe February mass shooting at a high school in Parkland, Florida prompted many parents to consider homeschooling.",
+      "new_text": "Homeschooling Protects Children from Violence and Marxism\n\nThe February genocide at a high school in Parkland, Florida prompted many parents to consider homeschooling.",
+      "prop_spans": [
+        [
+          37,
+          45,
+          "Loaded_Language"
+        ],
+        [
+          72,
+          85,
+          "Loaded_Language"
+        ],
+        [
+          158,
+          171,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 172,
+      "end_ix": 303,
+      "text": "\nThis is hardly surprising, as the misnamed federal \u201cGun-Free Schools\u201d law leaves schoolchildren defenseless against mass shooters.",
+      "new_text": "\nThis is hardly surprising, as the federal \u201cGun-Free Schools\u201d law leaves schoolchildren defenseless against mass shooters.",
+      "prop_spans": [
+        [
+          203,
+          246,
+          "Name_Calling,Labeling"
+        ],
+        [
+          225,
+          241,
+          "Slogans"
+        ],
+        [
+          269,
+          280,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 303,
+      "end_ix": 398,
+      "text": "\nRemoving one\u2019s children from government schools seems a rational response to school shootings.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 398,
+      "end_ix": 497,
+      "text": "\nSchool shootings are not the only form of violence causing more parents to consider homeschooling.",
+      "new_text": "\nSchool shootings are not the only form of violence causing more parents to consider homeschooling.",
+      "prop_spans": [
+        [
+          483,
+          496,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 497,
+      "end_ix": 656,
+      "text": "\nMany potential homeschooling parents are concerned about the failure of school administrators to effectively protect children from bullying by other students.",
+      "new_text": "\nMany potential parents are concerned about the failure of school administrators to effectively protect children from bullying by other students.",
+      "prop_spans": [
+        [
+          513,
+          526,
+          "Repetition"
+        ],
+        [
+          607,
+          614,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 656,
+      "end_ix": 795,
+      "text": "\nOf course, many parents choose homeschooling as a means of protecting their children from federal education \u201creforms\u201d such as Common Core.",
+      "new_text": "\nOf course, many parents choose homeschooling as a means of protecting their children from federal education \u201creforms\u201d such as Common Core.",
+      "prop_spans": [
+        [
+          688,
+          701,
+          "Repetition"
+        ],
+        [
+          716,
+          726,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 795,
+      "end_ix": 922,
+      "text": "\nOther parents are motivated by a desire to protect their children from the cultural Marxism that has infiltrated many schools.",
+      "new_text": "\nOther parents are motivated by a desire to protect their children from the cultural Marxism that has infiltrated many schools.",
+      "prop_spans": [
+        [
+          839,
+          846,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 922,
+      "end_ix": 1025,
+      "text": "\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1025,
+      "end_ix": 1090,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1090,
+      "end_ix": 1155,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1155,
+      "end_ix": 1355,
+      "text": "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1355,
+      "end_ix": 1437,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1437,
+      "end_ix": 1465,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1465,
+      "end_ix": 1528,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1528,
+      "end_ix": 1616,
+      "text": "\nThe spread of cultural Marxism has contributed to the dumbing down of public education.",
+      "new_text": "\nThe spread of cultural Marxism has contributed to the reducing the quality of public education.",
+      "prop_spans": [
+        [
+          1583,
+          1595,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1616,
+      "end_ix": 1754,
+      "text": "\nToo many government schools are more concerned with promoting political correctness than ensuring that students receive a good education.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1754,
+      "end_ix": 2000,
+      "text": "\nEven if cultural Marxism did not dumb down education, concerns that government schools are indoctrinating children with beliefs that conflict with parents\u2019 political, social, and even religious beliefs would motivate many families to homeschool.",
+      "new_text": "\nEven if cultural Marxism did not reduce the quality of education, concerns that government schools are indoctrinating children with beliefs that conflict with parents\u2019 political, social, and even religious beliefs would motivate many families to homeschool.",
+      "prop_spans": [
+        [
+          1788,
+          1797,
+          "Repetition"
+        ],
+        [
+          1989,
+          1999,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2000,
+      "end_ix": 2165,
+      "text": "\nEven when government schools are not intentionally promoting cultural Marxism or other left-wing ideologies, they are still implicitly biased toward big government.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2165,
+      "end_ix": 2418,
+      "text": "\nFor example, how many government schools teach the Austrian economics explanation for the Great Depression \u2014 much less question the wisdom of central banking \u2014 or critically examine the justifications for America\u2019s hyper-interventionist foreign policy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2418,
+      "end_ix": 2581,
+      "text": "\nParents interested in providing their children with a quality education emphasizing the ideas of liberty should consider looking into my homeschooling curriculum.",
+      "new_text": "\nParents interested in providing their children with a quality education emphasizing the ideas of liberty should consider looking into my homeschooling curriculum.",
+      "prop_spans": [
+        [
+          2556,
+          2569,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2581,
+      "end_ix": 2749,
+      "text": "\nThe Ron Paul Curriculum provides students with a well-rounded education that includes rigorous programs in history, mathematics, and the physical and natural sciences.",
+      "new_text": "\nThe Ron Paul Curriculum provides students with a balanced education that includes rigorous programs in history, mathematics, and the physical and natural sciences.",
+      "prop_spans": [
+        [
+          2631,
+          2653,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2749,
+      "end_ix": 2811,
+      "text": "\nThe curriculum also provides instruction in personal finance.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2811,
+      "end_ix": 2929,
+      "text": "\nStudents can develop superior oral and verbal communication skills via intensive writing and public speaking courses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2929,
+      "end_ix": 3056,
+      "text": "\nAnother feature of my curriculum is that it provides students the opportunity to create and run their own internet businesses.",
+      "new_text": "\nAnother feature of my curriculum is that it provides students the opportunity to create and run their own internet businesses.",
+      "prop_spans": [
+        [
+          2949,
+          2962,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3056,
+      "end_ix": 3198,
+      "text": "\nThe government and history sections of the curriculum emphasize Austrian economics, libertarian political theory, and the history of liberty.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3198,
+      "end_ix": 3306,
+      "text": "\nHowever, unlike government schools, my curriculum never puts ideological indoctrination ahead of education.",
+      "new_text": "\nHowever, unlike government schools, the curriculum never puts ideological indoctrination ahead of education.",
+      "prop_spans": [
+        [
+          3235,
+          3248,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3306,
+      "end_ix": 3522,
+      "text": "\nWhile government schools \u2014 and even many private schools \u2014 pretend religion played no significant role in history, my curriculum addresses the crucial role religion played in the development of Western civilization.",
+      "new_text": "\nWhile government schools \u2014 and even many private schools \u2014 pretend religion played no significant role in history, the curriculum addresses the important role religion played in the development of Western civilization.",
+      "prop_spans": [
+        [
+          3422,
+          3435,
+          "Repetition"
+        ],
+        [
+          3450,
+          3457,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3522,
+      "end_ix": 3668,
+      "text": "\nHowever, the materials are drafted in such a way that any Christian, Jewish, Muslim, or atheist parent can feel comfortable using the curriculum.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3668,
+      "end_ix": 3744,
+      "text": "\nInteractive forums allow students to engage with and learn from each other.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3744,
+      "end_ix": 3905,
+      "text": "\nThe forums ensure students are actively engaged in their education as well as give them an opportunity to interact with their peers outside of a formal setting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3905,
+      "end_ix": 4057,
+      "text": "\nConcern about the safety of students in government-run schools is one reason many parents are considering homeschooling, but it is not the only reason.",
+      "new_text": "\nConcern about the safety of students in government-run schools is one reason many parents are considering homeschooling, but it is not the only reason.",
+      "prop_spans": [
+        [
+          4012,
+          4025,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4057,
+      "end_ix": 4221,
+      "text": "\nMany parents are motivated by a desire to give their children something better than a curriculum that has been dumbed down by federal initiatives like Common Core.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4221,
+      "end_ix": 4370,
+      "text": "\nOther parents do not wish to have their children indoctrinated with views that contradict the parents\u2019 political, social, or even religious beliefs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4370,
+      "end_ix": 4649,
+      "text": "\nI encourage all parents looking at alternatives to government schools \u2014alternatives that provide children with a well-rounded education that introduces them to the history and ideas of liberty \u2014 to go to RonPaulCurriculum.com for more information about my homeschooling program.",
+      "new_text": "\nI encourage all parents looking at alternatives to government schools \u2014alternatives that provide children with a balanced education that introduces them to the history and ideas of liberty \u2014 to go to RonPaulCurriculum.com for more information about my homeschooling program.",
+      "prop_spans": [
+        [
+          4484,
+          4506,
+          "Repetition"
+        ],
+        [
+          4627,
+          4640,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4649,
+      "end_ix": 4694,
+      "text": "\nArticle posted with permission from Ron Paul",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      37,
+      45,
+      "Loaded_Language"
+    ],
+    [
+      72,
+      85,
+      "Loaded_Language"
+    ],
+    [
+      158,
+      171,
+      "Repetition"
+    ],
+    [
+      203,
+      246,
+      "Name_Calling,Labeling"
+    ],
+    [
+      225,
+      241,
+      "Slogans"
+    ],
+    [
+      269,
+      280,
+      "Loaded_Language"
+    ],
+    [
+      483,
+      496,
+      "Repetition"
+    ],
+    [
+      513,
+      526,
+      "Repetition"
+    ],
+    [
+      607,
+      614,
+      "Repetition"
+    ],
+    [
+      688,
+      701,
+      "Repetition"
+    ],
+    [
+      716,
+      726,
+      "Repetition"
+    ],
+    [
+      839,
+      846,
+      "Repetition"
+    ],
+    [
+      1583,
+      1595,
+      "Loaded_Language"
+    ],
+    [
+      1788,
+      1797,
+      "Repetition"
+    ],
+    [
+      1989,
+      1999,
+      "Repetition"
+    ],
+    [
+      2556,
+      2569,
+      "Repetition"
+    ],
+    [
+      2631,
+      2653,
+      "Repetition"
+    ],
+    [
+      2949,
+      2962,
+      "Repetition"
+    ],
+    [
+      3235,
+      3248,
+      "Repetition"
+    ],
+    [
+      3422,
+      3435,
+      "Repetition"
+    ],
+    [
+      3450,
+      3457,
+      "Loaded_Language"
+    ],
+    [
+      4012,
+      4025,
+      "Repetition"
+    ],
+    [
+      4484,
+      4506,
+      "Repetition"
+    ],
+    [
+      4627,
+      4640,
+      "Repetition"
+    ]
+  ]
+}

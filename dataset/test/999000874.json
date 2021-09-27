@@ -1,0 +1,432 @@
+{
+  "article_id": "999000874",
+  "sentence offsets in original": [
+    0,
+    147,
+    330,
+    431,
+    715,
+    987,
+    1076,
+    1127,
+    1178,
+    1216,
+    1267,
+    1274,
+    1306,
+    1388,
+    1471,
+    1499,
+    1562,
+    1885,
+    2003,
+    2048,
+    2487,
+    2700,
+    2952,
+    3111,
+    3185,
+    3322,
+    3502,
+    3707,
+    3790,
+    3881,
+    3981,
+    4119,
+    4222,
+    4603,
+    4668,
+    4810
+  ],
+  "original sentences": [
+    "CNN Sues Trump Demanding He Restore Jim Acosta\u2019s White House Credential\n\nCNN sues President Trump and top White House aides for barring Jim Acosta.",
+    "\n557 SHARES Facebook Twitter\nCNN has filed a lawsuit against the Trump administration over the revocation of press credentials from its reporter Jim Acosta demanding they be restored.",
+    "\nThe suit alleges the ban violated both First and Fifth Amendment rights of the network and reporter.",
+    "\nLast Wednesday White House press secretary Sarah Sanders made the announcement that Acosta\u2019s press pass had been suspended as a result of an altercation during a press conference when Acosta refused to give up the microphone after several requests by President Trump to hand it over.",
+    "\nNot only did Acosta refuse to hand over the microphone, but he pushed the female interns hand away when she tried to follow the presidents request to take the microphone away from Acosta, who has disputed the accusation claiming he never put his hands on the young woman.",
+    "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nWatching the full exchange it is obvious that Trump was making a sincere effort to answer Acosta\u2019s questions, the president actually took the time to answer three of his questions before losing his patients with an argumentative Acosta who refused to hand the mic over to the female intern forcefully pushing her arm away.",
+    "\nAcosta can deny how the altercation took place, but the video shows the facts, which are that Acosta was out of line.",
+    "\nThe lawsuit was announced by CNN on Tuesday.",
+    "\nThe network is also asking the court for an \u201cimmediate restraining order requiring the pass be returned to Jim.\u201d\nBoth CNN and Acosta are plaintiffs in the lawsuit, and there are six defendants: Donald Trump himself, White House Press Secretary Sarah Sanders, Chief of Staff John Kelly, his aide for communication Bill Shine, Secret Service Director Joseph Clancy, and the unidentified Secret Service officer who took the pass from Acosta.",
+    "\nFox News reports:\n\u201cThe wrongful revocation of these credentials violates CNN and Acosta\u2019s First Amendment rights of freedom of the press, and their Fifth Amendment rights to due process,\u201d CNN said in a statement.",
+    "\n\u201cWe have asked the court for an immediate restraining order requiring the pass to be returned to Jim, and will seek permanent relief as part of this process.\u201d\nCNN added that \u201cthe suit is specific to CNN and Acosta,\u201d but said it could happen to anyone.",
+    "\n\u201cIf left unchallenged, the actions of the White house would create a dangerous chilling effect for any journalist who covers our elected officials,\u201d CNN said.",
+    "\nThis morning, CNN filed a lawsuit against @realDonaldTrump and top aides.",
+    "\nThe White House has violated CNN and @Acosta's First Amendment rights of freedom of the press and Fifth Amendment rights to due process.",
+    "\nComplaint: https://t.co/43oX6L8xA7 pic.twitter.com/RvJ0Cgh6oi \u2014 CNN Communications (@CNNPR) November 13, 2018\nThe White House did not immediately respond to a request for comment.",
+    "\nLast week, Acosta\u2019s press pass to access the White House was suspended \u201cuntil further notice\u201d after he engaged in the contentious back-and-forth over the migrant caravan working its way up through Mexico.",
+    "\nTrump characterizes the caravan as \u201can invasion,\u201d a term to which Acosta objected.",
+    "\n\u201cHonestly, I think you should let me run the country and you run CNN,\u201d the president said.",
+    "\nThe reporter tried to ask him another question before a female White House aide walked over to him.",
+    "\nTrump then told him, \u201cThat\u2019s enough!\u201d\nAcosta continued to try to talk as the intern was seen trying to take the microphone from his hand.",
+    "\nShe grabbed the microphone but Acosta wouldn\u2019t give it up and there was brief contact between the two.",
+    "\nWhite House Press Secretary Sarah Sanders said the suspension of his press credentials stemmed from his \u201cplacing his hands on a young woman just trying to do her job as a White House intern.\u201d She called the behavior \u201cabsolutely unacceptable.\u201d\nSeveral news outlets accused Sanders of using a \u201cdoctored\u201d video as evidence, but the press secretary didn\u2019t back down from her decision.",
+    "\n\u201cWe stand by our decision to revoke this individual\u2019s hard pass.",
+    "\nWe will not tolerate the inappropriate behavior clearly documented in this video,\u201d Sanders tweeted to accompany the allegedly doctored video.",
+    "\nWhite House Counselor Kellyanne Conway has since said the video was simply \u201csped up.\u201d\nAn attorney for CNN and Acosta followed up with a separate statement, saying the law is \u201cclear\u201d that the Trump administration violated the First Amendment and Due process Clause."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 147,
+      "text": "CNN Sues Trump Demanding He Restore Jim Acosta\u2019s White House Credential\n\nCNN sues President Trump and top White House aides for barring Jim Acosta.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 147,
+      "end_ix": 330,
+      "text": "\n557 SHARES Facebook Twitter\nCNN has filed a lawsuit against the Trump administration over the revocation of press credentials from its reporter Jim Acosta demanding they be restored.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 330,
+      "end_ix": 431,
+      "text": "\nThe suit alleges the ban violated both First and Fifth Amendment rights of the network and reporter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 431,
+      "end_ix": 715,
+      "text": "\nLast Wednesday White House press secretary Sarah Sanders made the announcement that Acosta\u2019s press pass had been suspended as a result of an altercation during a press conference when Acosta refused to give up the microphone after several requests by President Trump to hand it over.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 715,
+      "end_ix": 987,
+      "text": "\nNot only did Acosta refuse to hand over the microphone, but he pushed the female interns hand away when she tried to follow the presidents request to take the microphone away from Acosta, who has disputed the accusation claiming he never put his hands on the young woman.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 987,
+      "end_ix": 1076,
+      "text": "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1076,
+      "end_ix": 1127,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1127,
+      "end_ix": 1178,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1178,
+      "end_ix": 1216,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1216,
+      "end_ix": 1267,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1267,
+      "end_ix": 1274,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1274,
+      "end_ix": 1306,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1306,
+      "end_ix": 1388,
+      "text": "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1388,
+      "end_ix": 1471,
+      "text": "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1471,
+      "end_ix": 1499,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1499,
+      "end_ix": 1562,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1562,
+      "end_ix": 1885,
+      "text": "\nWatching the full exchange it is obvious that Trump was making a sincere effort to answer Acosta\u2019s questions, the president actually took the time to answer three of his questions before losing his patients with an argumentative Acosta who refused to hand the mic over to the female intern forcefully pushing her arm away.",
+      "new_text": "\nWatching the full exchange it is obvious that Trump was making an effort to answer Acosta\u2019s questions, the president actually took the time to answer three of his questions before losing his patients with an argumentative Acosta who refused to hand the mic over to the female intern pushing her arm away.",
+      "prop_spans": [
+        [
+          1628,
+          1635,
+          "Loaded_Language"
+        ],
+        [
+          1853,
+          1863,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1885,
+      "end_ix": 2003,
+      "text": "\nAcosta can deny how the altercation took place, but the video shows the facts, which are that Acosta was out of line.",
+      "new_text": "\nAcosta can deny how the altercation took place, but the video shows the facts, which are that Acosta was inappropriate.",
+      "prop_spans": [
+        [
+          1991,
+          2002,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2003,
+      "end_ix": 2048,
+      "text": "\nThe lawsuit was announced by CNN on Tuesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2048,
+      "end_ix": 2487,
+      "text": "\nThe network is also asking the court for an \u201cimmediate restraining order requiring the pass be returned to Jim.\u201d\nBoth CNN and Acosta are plaintiffs in the lawsuit, and there are six defendants: Donald Trump himself, White House Press Secretary Sarah Sanders, Chief of Staff John Kelly, his aide for communication Bill Shine, Secret Service Director Joseph Clancy, and the unidentified Secret Service officer who took the pass from Acosta.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2487,
+      "end_ix": 2700,
+      "text": "\nFox News reports:\n\u201cThe wrongful revocation of these credentials violates CNN and Acosta\u2019s First Amendment rights of freedom of the press, and their Fifth Amendment rights to due process,\u201d CNN said in a statement.",
+      "new_text": "\nFox News reports:\n\u201cThe wrongful revocation of these credentials violates CNN and Acosta\u2019s First Amendment rights of freedom of the press, and their Fifth Amendment rights to due process,\u201d CNN said in a statement.",
+      "prop_spans": [
+        [
+          2511,
+          2519,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2700,
+      "end_ix": 2952,
+      "text": "\n\u201cWe have asked the court for an immediate restraining order requiring the pass to be returned to Jim, and will seek permanent relief as part of this process.\u201d\nCNN added that \u201cthe suit is specific to CNN and Acosta,\u201d but said it could happen to anyone.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2952,
+      "end_ix": 3111,
+      "text": "\n\u201cIf left unchallenged, the actions of the White house would create a dangerous chilling effect for any journalist who covers our elected officials,\u201d CNN said.",
+      "new_text": "\n\u201cIf left unchallenged, the actions of the White house would create a dangerous chilling effect for any journalist who covers our elected officials,\u201d CNN said.",
+      "prop_spans": [
+        [
+          2953,
+          3101,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2953,
+          3101,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3111,
+      "end_ix": 3185,
+      "text": "\nThis morning, CNN filed a lawsuit against @realDonaldTrump and top aides.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3185,
+      "end_ix": 3322,
+      "text": "\nThe White House has violated CNN and @Acosta's First Amendment rights of freedom of the press and Fifth Amendment rights to due process.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3322,
+      "end_ix": 3502,
+      "text": "\nComplaint: https://t.co/43oX6L8xA7 pic.twitter.com/RvJ0Cgh6oi \u2014 CNN Communications (@CNNPR) November 13, 2018\nThe White House did not immediately respond to a request for comment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3502,
+      "end_ix": 3707,
+      "text": "\nLast week, Acosta\u2019s press pass to access the White House was suspended \u201cuntil further notice\u201d after he engaged in the contentious back-and-forth over the migrant caravan working its way up through Mexico.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3707,
+      "end_ix": 3790,
+      "text": "\nTrump characterizes the caravan as \u201can invasion,\u201d a term to which Acosta objected.",
+      "new_text": "\nTrump characterizes the caravan as \u201can invasion,\u201d a term to which Acosta objected.",
+      "prop_spans": [
+        [
+          3743,
+          3757,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3790,
+      "end_ix": 3881,
+      "text": "\n\u201cHonestly, I think you should let me run the country and you run CNN,\u201d the president said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3881,
+      "end_ix": 3981,
+      "text": "\nThe reporter tried to ask him another question before a female White House aide walked over to him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3981,
+      "end_ix": 4119,
+      "text": "\nTrump then told him, \u201cThat\u2019s enough!\u201d\nAcosta continued to try to talk as the intern was seen trying to take the microphone from his hand.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4119,
+      "end_ix": 4222,
+      "text": "\nShe grabbed the microphone but Acosta wouldn\u2019t give it up and there was brief contact between the two.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4222,
+      "end_ix": 4603,
+      "text": "\nWhite House Press Secretary Sarah Sanders said the suspension of his press credentials stemmed from his \u201cplacing his hands on a young woman just trying to do her job as a White House intern.\u201d She called the behavior \u201cabsolutely unacceptable.\u201d\nSeveral news outlets accused Sanders of using a \u201cdoctored\u201d video as evidence, but the press secretary didn\u2019t back down from her decision.",
+      "new_text": "\nWhite House Press Secretary Sarah Sanders said the suspension of his press credentials stemmed from his \u201cplacing his hands on a young woman just trying to do her job as a White House intern.\u201d She called the behavior \u201cabsolutely unacceptable.\u201d\nSeveral news outlets accused Sanders of using a \u201cdoctored\u201d video as evidence, but the press secretary didn\u2019t back down from her decision.",
+      "prop_spans": [
+        [
+          4439,
+          4465,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4603,
+      "end_ix": 4668,
+      "text": "\n\u201cWe stand by our decision to revoke this individual\u2019s hard pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4668,
+      "end_ix": 4810,
+      "text": "\nWe will not tolerate the inappropriate behavior clearly documented in this video,\u201d Sanders tweeted to accompany the allegedly doctored video.",
+      "new_text": "\nWe will not tolerate the inappropriate behavior clearly documented in this video,\u201d Sanders tweeted to accompany the allegedly doctored video.",
+      "prop_spans": [
+        [
+          4694,
+          4707,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4810,
+      "end_ix": 5075,
+      "text": "\nWhite House Counselor Kellyanne Conway has since said the video was simply \u201csped up.\u201d\nAn attorney for CNN and Acosta followed up with a separate statement, saying the law is \u201cclear\u201d that the Trump administration violated the First Amendment and Due process Clause.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1628,
+      1635,
+      "Loaded_Language"
+    ],
+    [
+      1853,
+      1863,
+      "Loaded_Language"
+    ],
+    [
+      1991,
+      2002,
+      "Loaded_Language"
+    ],
+    [
+      2511,
+      2519,
+      "Loaded_Language"
+    ],
+    [
+      2953,
+      3101,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2953,
+      3101,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3743,
+      3757,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4439,
+      4465,
+      "Loaded_Language"
+    ],
+    [
+      4694,
+      4707,
+      "Loaded_Language"
+    ]
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "article_id": "730093263",
+  "sentence offsets in original": [
+    0,
+    28,
+    200,
+    307,
+    371,
+    800,
+    954,
+    1020,
+    1354,
+    1456,
+    1689,
+    1752,
+    1971,
+    2119,
+    2336,
+    2440,
+    2698
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nEarlier, I blogged that the police had released the name of the suspect in the murder of two white Westerville, OH cops (Quentin Lamar Smith) but no picture had appeared.",
+    "\nI found the picture at right on a Mugshots site, attributed to a guy with the same name, in the same town.",
+    "\n( Most people named Quentin Lamar Smith are black, by the way.)",
+    "\nPolice charge suspect in death of two Westerville Police officers Quentin Lamar Smith was charged with two counts of aggravated murder on Sunday By WCMH Staff and The Associated Press Published: February 11, 2018, 4:45 pm Updated: February 11, 2018, 6:02 pm WESTERVILLE, OH (WCMH/AP) \u2014 The Westerville Division of Police has identified the suspect in the shooting death of two police officers as 30-year-old Quentin Lamar Smith.",
+    "\nWesterville Police Chief Joe Morbitzer said officer Eric Joering, 39, died at the scene and his colleague, Anthony Morelli, 54, died at a local hospital.",
+    "\nSmith was charged with two counts of aggravated murder on Sunday.",
+    "\nMorbitzer said the officers were responding to a \u201cpotential domestic situation.\u201d A neighbor who heard the gunfire said it happened at a home where the occupants were \u201calways arguing and fighting.\u201d \u201cThe officers gave their lives in defense of others,\u201d Morbitzer said during a news conference, struggling to keep his emotions in check.",
+    "\nHe called them \u201ctrue American heroes.\u201d The Columbus Police Department is investigating the shootings.",
+    "\nPolice released incident reports showing officers had been to Smith\u2019s home or had dealings with him several times since 2017, some for alleged domestic violence involving a woman identified in the reports as his wife, Candace Smith.",
+    "\nAuthorities said he was wounded and was treated at a hospital.",
+    "\nIn a Nov. 29 incident, Candace Smith, 33, went to a police station and asked about protection orders because she said she and her husband weren\u2019t getting along and she discovered she had a sexually transmitted disease.",
+    "\nShe also told police that when she \u201cthreatens to leave Quentin, he tells her that he would kill her, their daughter, and himself,\u201d the report said.",
+    "\nCandace Smith told police her husband \u201chas a gun that he carries all of the time, and if it isn\u2019t on him, it is close by.\u201d Police were called to the home later that night to investigate a report of domestic violence.",
+    "\n[More]\nAnyhow, they have now released a different photo (above)and it is the same guy, and he is black.",
+    "\nThis goes in our \"Black Murders Of White Cops\" category, and also in our \"Not Reporting Race\" category, since except for the photograph, there's no mention of the race issue.Officers Anthony Morelli and Eric Joering are dead, and Smith is alive in hospital.",
+    "\nIf these two men had survived, and Quentin Lamar Smith had died, you'd be hearing a lot about the race issue."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 200,
+      "text": "\n\nEarlier, I blogged that the police had released the name of the suspect in the murder of two white Westerville, OH cops (Quentin Lamar Smith) but no picture had appeared.",
+      "new_text": "\n\nEarlier, I blogged that the police had released the name of the suspect in the murder of two Westerville, OH cops (Quentin Lamar Smith) but no picture had appeared.",
+      "prop_spans": [
+        [
+          123,
+          128,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 200,
+      "end_ix": 307,
+      "text": "\nI found the picture at right on a Mugshots site, attributed to a guy with the same name, in the same town.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 307,
+      "end_ix": 371,
+      "text": "\n( Most people named Quentin Lamar Smith are black, by the way.)",
+      "new_text": "\n( Most people named Quentin Lamar Smith are black, by the way.)",
+      "prop_spans": [
+        [
+          352,
+          357,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 371,
+      "end_ix": 800,
+      "text": "\nPolice charge suspect in death of two Westerville Police officers Quentin Lamar Smith was charged with two counts of aggravated murder on Sunday By WCMH Staff and The Associated Press Published: February 11, 2018, 4:45 pm Updated: February 11, 2018, 6:02 pm WESTERVILLE, OH (WCMH/AP) \u2014 The Westerville Division of Police has identified the suspect in the shooting death of two police officers as 30-year-old Quentin Lamar Smith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 800,
+      "end_ix": 954,
+      "text": "\nWesterville Police Chief Joe Morbitzer said officer Eric Joering, 39, died at the scene and his colleague, Anthony Morelli, 54, died at a local hospital.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 954,
+      "end_ix": 1020,
+      "text": "\nSmith was charged with two counts of aggravated murder on Sunday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1020,
+      "end_ix": 1354,
+      "text": "\nMorbitzer said the officers were responding to a \u201cpotential domestic situation.\u201d A neighbor who heard the gunfire said it happened at a home where the occupants were \u201calways arguing and fighting.\u201d \u201cThe officers gave their lives in defense of others,\u201d Morbitzer said during a news conference, struggling to keep his emotions in check.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1354,
+      "end_ix": 1456,
+      "text": "\nHe called them \u201ctrue American heroes.\u201d The Columbus Police Department is investigating the shootings.",
+      "new_text": "\nHe called them \u201ctrue American heroes.\u201d The Columbus Police Department is investigating the shootings.",
+      "prop_spans": [
+        [
+          1370,
+          1393,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1456,
+      "end_ix": 1689,
+      "text": "\nPolice released incident reports showing officers had been to Smith\u2019s home or had dealings with him several times since 2017, some for alleged domestic violence involving a woman identified in the reports as his wife, Candace Smith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1689,
+      "end_ix": 1752,
+      "text": "\nAuthorities said he was wounded and was treated at a hospital.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1752,
+      "end_ix": 1971,
+      "text": "\nIn a Nov. 29 incident, Candace Smith, 33, went to a police station and asked about protection orders because she said she and her husband weren\u2019t getting along and she discovered she had a sexually transmitted disease.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1971,
+      "end_ix": 2119,
+      "text": "\nShe also told police that when she \u201cthreatens to leave Quentin, he tells her that he would kill her, their daughter, and himself,\u201d the report said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2119,
+      "end_ix": 2336,
+      "text": "\nCandace Smith told police her husband \u201chas a gun that he carries all of the time, and if it isn\u2019t on him, it is close by.\u201d Police were called to the home later that night to investigate a report of domestic violence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2336,
+      "end_ix": 2440,
+      "text": "\n[More]\nAnyhow, they have now released a different photo (above)and it is the same guy, and he is black.",
+      "new_text": "\n[More]\nAnyhow, they have now released a different photo (above)and it is the same guy, and he is black.",
+      "prop_spans": [
+        [
+          2434,
+          2439,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2440,
+      "end_ix": 2698,
+      "text": "\nThis goes in our \"Black Murders Of White Cops\" category, and also in our \"Not Reporting Race\" category, since except for the photograph, there's no mention of the race issue.Officers Anthony Morelli and Eric Joering are dead, and Smith is alive in hospital.",
+      "new_text": "\nThis goes in our \"Black Murders Of White Cops\" category, and also in our \"Not Reporting Race\" category, since except for the photograph, there's no mention of the race issue.Officers Anthony Morelli and Eric Joering are dead, and Smith is alive in hospital.",
+      "prop_spans": [
+        [
+          2458,
+          2488,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2698,
+      "end_ix": 2808,
+      "text": "\nIf these two men had survived, and Quentin Lamar Smith had died, you'd be hearing a lot about the race issue.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2699,
+          2807,
+          "Whataboutism"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      123,
+      128,
+      "Red_Herring"
+    ],
+    [
+      352,
+      357,
+      "Red_Herring"
+    ],
+    [
+      1370,
+      1393,
+      "Flag-Waving"
+    ],
+    [
+      2434,
+      2439,
+      "Red_Herring"
+    ],
+    [
+      2458,
+      2488,
+      "Loaded_Language"
+    ],
+    [
+      2699,
+      2807,
+      "Whataboutism"
+    ]
+  ]
+}

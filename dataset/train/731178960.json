@@ -1,0 +1,199 @@
+{
+  "article_id": "731178960",
+  "sentence offsets in original": [
+    0,
+    225,
+    300,
+    383,
+    439,
+    548,
+    689,
+    740,
+    858,
+    911,
+    1109,
+    1216,
+    1286,
+    1409,
+    1547,
+    1674,
+    1762,
+    1942,
+    2079
+  ],
+  "original sentences": [
+    "Solar Storm Will Strike Earth Tonight, \u2018Weak Power Grid Fluctuations\u2019 Possible\n\nThe NOAA Space Weather Prediction Center forecasts an aurora could light up the sky above areas in the United State including Michigan and Maine.",
+    "\nA solar storm, which occurred Monday, is expected to strike Earth tonight.",
+    "\nOn Monday, the sun spit out a slew of charged particles in a moderate solar flare.",
+    "\nThese particles are now making their way towards Earth.",
+    "\nThe planet\u2019s magnetic field will block most of the particles, but some will make it into Earth\u2019s atmosphere.",
+    "\nThe particles collect at the north and south poles and interact with atmospheric gases to create the aurora borealis or the Northern Lights.",
+    "\nAnd some say this show could be quite spectacular.",
+    "\nSolar flares have been known to cause power grid failures, but it looks like we\u2019ll only get the light show this time.",
+    "\nAlthough a grid failure is possible, it is unlikely.",
+    "\nAccording to Seeker, the forecast calls for a high probability of a G-1 or \u201cminor\u201d storm, which could strengthen to a G-2 or \u201cmoderate\u201d storm depending on how the stream of particles hit the Earth.",
+    "\nGeomagnetic storms are ranked on a scale, with G at the bottom, R in the middle, and S as the most severe.",
+    "\nForecasts now say the particles will give our planet a glancing blow.",
+    "\nAlthough this storm has been categorized as \u201cG-1,\u201d which means it is minor, it could still cause some havoc down on Earth.",
+    "\nSolar flares and particle ejections are associated with sunspots \u2014 dark areas on the sun\u2019s surface \u2014 that host intense magnetic activity.",
+    "\nAs the magnetic fields in a sunspot cross, NASA stated, this can cause a sudden energy explosion, also known as a solar flare.",
+    "\nThis sends radiation out into space, and that radiation can be hurled toward the Earth.",
+    "\nG1-level storms, such as Monday\u2019s, may affect migratory animals, and can cause \u201cweak power grid fluctuations.\u201d The barrage of particles may even have a minor impact on satellites.",
+    "\nA gird failure would almost immediately fling the United States into a state of panic, and it\u2019s always good to be prepared just in case.",
+    "\nBut it doesn\u2019t look like there will be any serious damage to the power grid because of this storm as of right now."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 225,
+      "text": "Solar Storm Will Strike Earth Tonight, \u2018Weak Power Grid Fluctuations\u2019 Possible\n\nThe NOAA Space Weather Prediction Center forecasts an aurora could light up the sky above areas in the United State including Michigan and Maine.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 225,
+      "end_ix": 300,
+      "text": "\nA solar storm, which occurred Monday, is expected to strike Earth tonight.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 300,
+      "end_ix": 383,
+      "text": "\nOn Monday, the sun spit out a slew of charged particles in a moderate solar flare.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 383,
+      "end_ix": 439,
+      "text": "\nThese particles are now making their way towards Earth.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 439,
+      "end_ix": 548,
+      "text": "\nThe planet\u2019s magnetic field will block most of the particles, but some will make it into Earth\u2019s atmosphere.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 548,
+      "end_ix": 689,
+      "text": "\nThe particles collect at the north and south poles and interact with atmospheric gases to create the aurora borealis or the Northern Lights.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 689,
+      "end_ix": 740,
+      "text": "\nAnd some say this show could be quite spectacular.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 740,
+      "end_ix": 858,
+      "text": "\nSolar flares have been known to cause power grid failures, but it looks like we\u2019ll only get the light show this time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 858,
+      "end_ix": 911,
+      "text": "\nAlthough a grid failure is possible, it is unlikely.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 911,
+      "end_ix": 1109,
+      "text": "\nAccording to Seeker, the forecast calls for a high probability of a G-1 or \u201cminor\u201d storm, which could strengthen to a G-2 or \u201cmoderate\u201d storm depending on how the stream of particles hit the Earth.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1109,
+      "end_ix": 1216,
+      "text": "\nGeomagnetic storms are ranked on a scale, with G at the bottom, R in the middle, and S as the most severe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1216,
+      "end_ix": 1286,
+      "text": "\nForecasts now say the particles will give our planet a glancing blow.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1286,
+      "end_ix": 1409,
+      "text": "\nAlthough this storm has been categorized as \u201cG-1,\u201d which means it is minor, it could still cause some havoc down on Earth.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1409,
+      "end_ix": 1547,
+      "text": "\nSolar flares and particle ejections are associated with sunspots \u2014 dark areas on the sun\u2019s surface \u2014 that host intense magnetic activity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1547,
+      "end_ix": 1674,
+      "text": "\nAs the magnetic fields in a sunspot cross, NASA stated, this can cause a sudden energy explosion, also known as a solar flare.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1674,
+      "end_ix": 1762,
+      "text": "\nThis sends radiation out into space, and that radiation can be hurled toward the Earth.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1762,
+      "end_ix": 1942,
+      "text": "\nG1-level storms, such as Monday\u2019s, may affect migratory animals, and can cause \u201cweak power grid fluctuations.\u201d The barrage of particles may even have a minor impact on satellites.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1942,
+      "end_ix": 2079,
+      "text": "\nA gird failure would almost immediately fling the United States into a state of panic, and it\u2019s always good to be prepared just in case.",
+      "new_text": "\nA gird failure would almost immediately set the country into a disorder, and it\u2019s always good to be prepared.",
+      "prop_spans": [
+        [
+          1943,
+          2079,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2079,
+      "end_ix": 2194,
+      "text": "\nBut it doesn\u2019t look like there will be any serious damage to the power grid because of this storm as of right now.",
+      "new_text": "\nBut it doesn\u2019t look like there will be any serious damage to the power grid because of this storm as of right now.",
+      "prop_spans": [
+        [
+          2079,
+          2079,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1943,
+      2079,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

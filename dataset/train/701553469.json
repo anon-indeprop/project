@@ -1,0 +1,441 @@
+{
+  "article_id": "701553469",
+  "sentence offsets in original": [
+    0,
+    106,
+    144,
+    220,
+    303,
+    457,
+    651,
+    930,
+    1089,
+    1196,
+    1312,
+    1711,
+    1845,
+    1942,
+    1981,
+    2156,
+    2456,
+    2664,
+    2832,
+    2993,
+    3122,
+    3247,
+    3363,
+    3600,
+    3654,
+    3814,
+    3942,
+    4128,
+    4170
+  ],
+  "original sentences": [
+    "Jewish and Pro-Israel Students Kicked Off University Board for Opposing BDS\n\nFirst they came for the Jews.",
+    "\nAnd then they came for everyone else.",
+    "\nJewish students have already faced plenty of harassment and hate at McGill.",
+    "\nThe latest incident at the Canadian university comes with a rather blatant agenda.",
+    "\nA Jewish student at McGill University has been kicked off the student government board for having \u201cconflicts of interest\u201d due to his pro-Israel activism.",
+    "\nThird-year student Noah Lew was one of 12 board members up for general assembly ratification on Monday evening following his victory as vice-president finance of the Arts Undergraduate Society.",
+    "\nThe ratification vote is typically a mere formality, but Monday\u2019s was different due to Democratize Student Society of McGill University (SSMU), an organization that was established to resist the university\u2019s ban of the Boycott, Divestment and Sanctions (BDS) movement on campus.",
+    "\nDemocratize SSMU was able to pass a motion that required each board member to be voted upon separately under the grounds that they weren\u2019t a fan of the names.",
+    "\nWhen it was Lew\u2019s turn, he was voted down, 105 to 73 with 12 abstaining, with applause following the vote.",
+    "\nTwo other students who had criticized BDS, Alexander Scheffel and Josephine Wright O\u2019Manique, were also voted down.",
+    "\nDemocratize SSMU had targeted Lew and the other two students on the board because they had connections to the Canadian Jewish Political Affairs Committee (CJPAC) and were involved in getting the BDS ban passed, which Democratize SSMU claimed were \u201cconflicts of interests.\u201d\nSomehow I don't think being a member of a Muslim student group and supporting BDS would be considered a conflict of interest.",
+    "\nBut the campus anti-Israel crowd has been working rather hard to intimidate and penalize anyone involved in pro-Israel organizations.",
+    "\nAnd to keep their racist boycott movement going by maintaining control over student governments.",
+    "\nLew shared the experience on Facebook.",
+    "\n\u201cI have no doubt from the information circulated about me and campaign run against me prior to this vote that this was about my Jewish identity, and nothing more,\u201d wrote Lew.",
+    "\n\u201cI was blocked from being able to participate in my student government because I am Jewish, because I have been affiliated with Jewish organizations, and because I believe in the right to Jewish self-determination.\u201d Lew added that the experience shows the inherent anti-Semitism in the BDS movement.",
+    "\n\u201cIf BDS is not anti-Semitic, why did a BDS-led campaign name and shame me for my affiliation with a Jewish organization, and call on students to remove me from student government for this reason?\u201d wrote Lew.",
+    "\n\u201cIf BDS is not anti-Semitic, why was I barred from participating in student government because of my Jewish identity?\u201d\nThere are some more details here and a petition.",
+    "\nOn Monday night, three students were removed from the Board of Directors of the Students\u2019 Society of McGill University (SSMU), McGill\u2019s main student government.",
+    "\nAll three were targeted for removal either because they are Jewish or have vocally opposed anti-Jewish discrimination on campus.",
+    "\nThis episode is utterly unacceptable, and is merely the latest in a long string of antisemitic incidents at your university.",
+    "\nIndeed, according to eyewitnesses, one of the members of the mob that removed the three directors was Igor Sadikov.",
+    "\nYou will remember Sadikov as the student politician who in February told his followers to \u201cpunch a Zionist today.\u201d It is unclear whether Sadikov has faced any disciplinary action for this incitement to violence from your administration.",
+    "\nAntisemitism at McGill does not emerge from a vacuum.",
+    "\nRather, it has been nurtured in part by a toxic campus press, especially the McGill Daily, a publication which openly refuses to publish any \u201cZionist\u201d content.",
+    "\nIn practice, this prevents McGill\u2019s Jewish community from defending itself against the absurd attacks to which it is subjected.",
+    "\nIf the Daily is committed to systematically excluding the voices of an ethno-religious community on campus, then it cannot continue to receive automatic student funding, as it does now.",
+    "\nThe double standard here is pretty clear.",
+    "\nAnd we know exactly what the reaction would be if a student paper refused to publish any pro-Islamist content."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 106,
+      "text": "Jewish and Pro-Israel Students Kicked Off University Board for Opposing BDS\n\nFirst they came for the Jews.",
+      "new_text": "Jewish and Pro-Israel Students removed from University Board for Opposing BDS",
+      "prop_spans": [
+        [
+          31,
+          42,
+          "Loaded_Language"
+        ],
+        [
+          77,
+          106,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 106,
+      "end_ix": 144,
+      "text": "\nAnd then they came for everyone else.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          106,
+          143,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 144,
+      "end_ix": 220,
+      "text": "\nJewish students have already faced plenty of harassment and hate at McGill.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 220,
+      "end_ix": 303,
+      "text": "\nThe latest incident at the Canadian university comes with a rather blatant agenda.",
+      "new_text": "\nThe latest incident at the Canadian university comes with a rather targeted approach.",
+      "prop_spans": [
+        [
+          288,
+          302,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 303,
+      "end_ix": 457,
+      "text": "\nA Jewish student at McGill University has been kicked off the student government board for having \u201cconflicts of interest\u201d due to his pro-Israel activism.",
+      "new_text": "\nA Jewish student at McGill University has been removed from the student government board for having \u201cconflicts of interest\u201d due to his pro-Israel activism.",
+      "prop_spans": [
+        [
+          351,
+          362,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 457,
+      "end_ix": 651,
+      "text": "\nThird-year student Noah Lew was one of 12 board members up for general assembly ratification on Monday evening following his victory as vice-president finance of the Arts Undergraduate Society.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 651,
+      "end_ix": 930,
+      "text": "\nThe ratification vote is typically a mere formality, but Monday\u2019s was different due to Democratize Student Society of McGill University (SSMU), an organization that was established to resist the university\u2019s ban of the Boycott, Divestment and Sanctions (BDS) movement on campus.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 930,
+      "end_ix": 1089,
+      "text": "\nDemocratize SSMU was able to pass a motion that required each board member to be voted upon separately under the grounds that they weren\u2019t a fan of the names.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1089,
+      "end_ix": 1196,
+      "text": "\nWhen it was Lew\u2019s turn, he was voted down, 105 to 73 with 12 abstaining, with applause following the vote.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1196,
+      "end_ix": 1312,
+      "text": "\nTwo other students who had criticized BDS, Alexander Scheffel and Josephine Wright O\u2019Manique, were also voted down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1312,
+      "end_ix": 1711,
+      "text": "\nDemocratize SSMU had targeted Lew and the other two students on the board because they had connections to the Canadian Jewish Political Affairs Committee (CJPAC) and were involved in getting the BDS ban passed, which Democratize SSMU claimed were \u201cconflicts of interests.\u201d\nSomehow I don't think being a member of a Muslim student group and supporting BDS would be considered a conflict of interest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1711,
+      "end_ix": 1845,
+      "text": "\nBut the campus anti-Israel crowd has been working rather hard to intimidate and penalize anyone involved in pro-Israel organizations.",
+      "new_text": "\nBut the campus opposition crowd has been working rather hard to intimidate and penalize anyone involved in pro-Israel organizations.",
+      "prop_spans": [
+        [
+          1716,
+          1745,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1845,
+      "end_ix": 1942,
+      "text": "\nAnd to keep their racist boycott movement going by maintaining control over student governments.",
+      "new_text": "\nAnd to keep their boycott movement going by maintaining control over student governments.",
+      "prop_spans": [
+        [
+          1864,
+          1888,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1942,
+      "end_ix": 1981,
+      "text": "\nLew shared the experience on Facebook.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1981,
+      "end_ix": 2156,
+      "text": "\n\u201cI have no doubt from the information circulated about me and campaign run against me prior to this vote that this was about my Jewish identity, and nothing more,\u201d wrote Lew.",
+      "new_text": "\n\u201cI have no doubt from the information circulated about me and campaign run against me prior to this vote that this was about my Jewish identity, and nothing more,\u201d wrote Lew.",
+      "prop_spans": [
+        [
+          1983,
+          2143,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2156,
+      "end_ix": 2456,
+      "text": "\n\u201cI was blocked from being able to participate in my student government because I am Jewish, because I have been affiliated with Jewish organizations, and because I believe in the right to Jewish self-determination.\u201d Lew added that the experience shows the inherent anti-Semitism in the BDS movement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2456,
+      "end_ix": 2664,
+      "text": "\n\u201cIf BDS is not anti-Semitic, why did a BDS-led campaign name and shame me for my affiliation with a Jewish organization, and call on students to remove me from student government for this reason?\u201d wrote Lew.",
+      "new_text": "\n\u201cIf BDS is not anti-Semitic, why did a BDS-led campaign name and shame me for my affiliation with a Jewish organization, and call on students to remove me from student government for this reason?\u201d wrote Lew.",
+      "prop_spans": [
+        [
+          2486,
+          2651,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2664,
+      "end_ix": 2832,
+      "text": "\n\u201cIf BDS is not anti-Semitic, why was I barred from participating in student government because of my Jewish identity?\u201d\nThere are some more details here and a petition.",
+      "new_text": "\n\u201cIf BDS is not anti-Semitic, why was I barred from participating in student government because of my Jewish identity?\u201d\nThere are some more details here and a petition.",
+      "prop_spans": [
+        [
+          2666,
+          2781,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2832,
+      "end_ix": 2993,
+      "text": "\nOn Monday night, three students were removed from the Board of Directors of the Students\u2019 Society of McGill University (SSMU), McGill\u2019s main student government.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2993,
+      "end_ix": 3122,
+      "text": "\nAll three were targeted for removal either because they are Jewish or have vocally opposed anti-Jewish discrimination on campus.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3122,
+      "end_ix": 3247,
+      "text": "\nThis episode is utterly unacceptable, and is merely the latest in a long string of antisemitic incidents at your university.",
+      "new_text": "\nThis episode is not just, and is merely the latest in a long string of antisemitic incidents at your university.",
+      "prop_spans": [
+        [
+          3139,
+          3159,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3139,
+          3159,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3247,
+      "end_ix": 3363,
+      "text": "\nIndeed, according to eyewitnesses, one of the members of the mob that removed the three directors was Igor Sadikov.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3363,
+      "end_ix": 3600,
+      "text": "\nYou will remember Sadikov as the student politician who in February told his followers to \u201cpunch a Zionist today.\u201d It is unclear whether Sadikov has faced any disciplinary action for this incitement to violence from your administration.",
+      "new_text": "\nYou will remember Sadikov as the student politician who in February told his followers to \u201cpunch a Zionist today.\u201d It is unclear whether Sadikov has faced any disciplinary action for this incitement to violence from your administration.",
+      "prop_spans": [
+        [
+          3455,
+          3476,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3600,
+      "end_ix": 3654,
+      "text": "\nAntisemitism at McGill does not emerge from a vacuum.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3654,
+      "end_ix": 3814,
+      "text": "\nRather, it has been nurtured in part by a toxic campus press, especially the McGill Daily, a publication which openly refuses to publish any \u201cZionist\u201d content.",
+      "new_text": "\nRather, it has been nurtured in part by a campus press, especially the McGill Daily, a publication which openly refuses to publish any \u201cZionist\u201d content.",
+      "prop_spans": [
+        [
+          3695,
+          3715,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3814,
+      "end_ix": 3942,
+      "text": "\nIn practice, this prevents McGill\u2019s Jewish community from defending itself against the absurd attacks to which it is subjected.",
+      "new_text": "\nIn practice, this prevents McGill\u2019s Jewish community from defending itself against the attacks to which it is subjected.",
+      "prop_spans": [
+        [
+          3898,
+          3917,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3942,
+      "end_ix": 4128,
+      "text": "\nIf the Daily is committed to systematically excluding the voices of an ethno-religious community on campus, then it cannot continue to receive automatic student funding, as it does now.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4128,
+      "end_ix": 4170,
+      "text": "\nThe double standard here is pretty clear.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4170,
+      "end_ix": 4281,
+      "text": "\nAnd we know exactly what the reaction would be if a student paper refused to publish any pro-Islamist content.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          4177,
+          4280,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      31,
+      42,
+      "Loaded_Language"
+    ],
+    [
+      77,
+      143,
+      "Slogans"
+    ],
+    [
+      288,
+      302,
+      "Loaded_Language"
+    ],
+    [
+      351,
+      362,
+      "Loaded_Language"
+    ],
+    [
+      1716,
+      1745,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1864,
+      1888,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1983,
+      2143,
+      "Causal_Oversimplification"
+    ],
+    [
+      2486,
+      2651,
+      "Doubt"
+    ],
+    [
+      2666,
+      2781,
+      "Doubt"
+    ],
+    [
+      3139,
+      3159,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3139,
+      3159,
+      "Loaded_Language"
+    ],
+    [
+      3455,
+      3476,
+      "Slogans"
+    ],
+    [
+      3695,
+      3715,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3898,
+      3917,
+      "Loaded_Language"
+    ],
+    [
+      4177,
+      4280,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

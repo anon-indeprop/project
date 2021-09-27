@@ -1,0 +1,236 @@
+{
+  "article_id": "769682854",
+  "sentence offsets in original": [
+    0,
+    284,
+    437,
+    584,
+    642,
+    731,
+    848,
+    1002,
+    1133,
+    1401,
+    1489,
+    1569,
+    1702,
+    2112,
+    2250,
+    2461,
+    2581,
+    2709,
+    2748
+  ],
+  "original sentences": [
+    "Texas teen says he had drink thrown at him at Whataburger because he was wearing pro-Trump hat\n\nA Texas teenager who supports President Trump says he was assaulted by a drink-throwing stranger at a Whataburger restaurant -- all because he was wearing a \u201cMake America Great Again\u201d hat.",
+    "\nThe incident, which was captured on video and has since gone viral, reportedly happened Tuesday at one of the burger chain\u2019s restaurants in San Antonio.",
+    "\n\u201cYou ain\u2019t supporting s--- n----!\u201d the man is heard saying on camera after tossing a large drink in the direction of the person filming the video.",
+    "\nWARNING: GRAPHIC LANGUAGE: Click here to watch the video.",
+    "\nThe individual, who has not been identified, then walks away while carrying the red hat.",
+    "\nThe man is heard muttering \"b---- a-- motherf------\" as one of the other teens sitting at the table appears stunned.",
+    "\nHunter Richard, the 16-year-old teen who says he was wearing the hat, told WOAI that some of his hair was ripped off as the man removed it from his head.",
+    "\n\"I support my President and, if you don\u2019t, let\u2019s have a conversation about it instead of ripping my hat off,\u201d he told the station.",
+    "\n\u201cI just think a conversation about politics is more productive for the entire whole rather than taking my hat and yelling subjective words to me.\u201d\nSan Antonio police told Fox News on Thursday they had received a complaint and detectives had been assigned to the case.",
+    "\nEarlier in the day, a police spokesperson said the department hadn't received a report.",
+    "\nWhataburger told Fox News that it is cooperating with the police investigation.",
+    "\n\u201cWe were shocked to see this video and certainly don\u2019t condone this type of customer behavior in our restaurants,\" the company said.",
+    "\n\"To be clear, no Whataburger employees were involved or witnessed the incident, and we ask that questions be directed to San Antonio PD as we continue supporting their efforts.\u201d\nVideo of the incident reportedly was posted on a Facebook page with a request for the public to help identify the \"scum bag of the year.\u201d It racked up more than two million views before being removed or hidden, according to KENS 5.",
+    "\nThe man in the video allegedly was fired from his part-time job at a San Antonio bar after the footage began circulating on social media.",
+    "\n\u201cIt came to our attention earlier this evening that a part-time employee was captured on cell phone video assaulting another person at a local eatery,\u201d the Rumble bar in San Antonio posted on its Facebook page.",
+    "\n\u201cThe assault took place, presumably, because this employee did not agree with the other individual\u2019s political stance.\"",
+    "\nIt continued: \u201cWe have since terminated this employee, as his actions go against everything that this establishment stands for.",
+    "\nTHIS BAR IS A SAFE SPACE FOR EVERYONE!",
+    "\nNo matter your race, creed, ethnicity, sexual identity, and political stance, you are welcomed here!\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 284,
+      "text": "Texas teen says he had drink thrown at him at Whataburger because he was wearing pro-Trump hat\n\nA Texas teenager who supports President Trump says he was assaulted by a drink-throwing stranger at a Whataburger restaurant -- all because he was wearing a \u201cMake America Great Again\u201d hat.",
+      "new_text": "Texas teen says he had drink thrown at him at Whataburger because he was wearing pro-Trump hat\n\nA Texas teenager who supports President Trump says he was assaulted by a drink-throwing stranger at a Whataburger restaurant -- which could be because he was wearing a \u201cMake America Great Again\u201d hat.",
+      "prop_spans": [
+        [
+          224,
+          235,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          253,
+          279,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 284,
+      "end_ix": 437,
+      "text": "\nThe incident, which was captured on video and has since gone viral, reportedly happened Tuesday at one of the burger chain\u2019s restaurants in San Antonio.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 437,
+      "end_ix": 584,
+      "text": "\n\u201cYou ain\u2019t supporting s--- n----!\u201d the man is heard saying on camera after tossing a large drink in the direction of the person filming the video.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 584,
+      "end_ix": 642,
+      "text": "\nWARNING: GRAPHIC LANGUAGE: Click here to watch the video.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 642,
+      "end_ix": 731,
+      "text": "\nThe individual, who has not been identified, then walks away while carrying the red hat.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 731,
+      "end_ix": 848,
+      "text": "\nThe man is heard muttering \"b---- a-- motherf------\" as one of the other teens sitting at the table appears stunned.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 848,
+      "end_ix": 1002,
+      "text": "\nHunter Richard, the 16-year-old teen who says he was wearing the hat, told WOAI that some of his hair was ripped off as the man removed it from his head.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1002,
+      "end_ix": 1133,
+      "text": "\n\"I support my President and, if you don\u2019t, let\u2019s have a conversation about it instead of ripping my hat off,\u201d he told the station.",
+      "new_text": "\n\"I support my President and, if you don\u2019t, let\u2019s have a conversation about it instead of ripping my hat off,\u201d he told the station.",
+      "prop_spans": [
+        [
+          1004,
+          1026,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1133,
+      "end_ix": 1401,
+      "text": "\n\u201cI just think a conversation about politics is more productive for the entire whole rather than taking my hat and yelling subjective words to me.\u201d\nSan Antonio police told Fox News on Thursday they had received a complaint and detectives had been assigned to the case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1401,
+      "end_ix": 1489,
+      "text": "\nEarlier in the day, a police spokesperson said the department hadn't received a report.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1489,
+      "end_ix": 1569,
+      "text": "\nWhataburger told Fox News that it is cooperating with the police investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1569,
+      "end_ix": 1702,
+      "text": "\n\u201cWe were shocked to see this video and certainly don\u2019t condone this type of customer behavior in our restaurants,\" the company said.",
+      "new_text": "\n\u201cWe were shocked to see this video and certainly don\u2019t condone this type of customer behavior in our restaurants,\" the company said.",
+      "prop_spans": [
+        [
+          1579,
+          1586,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1702,
+      "end_ix": 2112,
+      "text": "\n\"To be clear, no Whataburger employees were involved or witnessed the incident, and we ask that questions be directed to San Antonio PD as we continue supporting their efforts.\u201d\nVideo of the incident reportedly was posted on a Facebook page with a request for the public to help identify the \"scum bag of the year.\u201d It racked up more than two million views before being removed or hidden, according to KENS 5.",
+      "new_text": "\n\"To be clear, no Whataburger employees were involved or witnessed the incident, and we ask that questions be directed to San Antonio PD as we continue supporting their efforts.\u201d\nVideo of the incident reportedly was posted on a Facebook page with a request for the public to help identify the \"scum bag of the year.\u201d It racked up more than two million views before being removed or hidden, according to KENS 5.",
+      "prop_spans": [
+        [
+          1996,
+          2016,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2112,
+      "end_ix": 2250,
+      "text": "\nThe man in the video allegedly was fired from his part-time job at a San Antonio bar after the footage began circulating on social media.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2250,
+      "end_ix": 2461,
+      "text": "\n\u201cIt came to our attention earlier this evening that a part-time employee was captured on cell phone video assaulting another person at a local eatery,\u201d the Rumble bar in San Antonio posted on its Facebook page.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2461,
+      "end_ix": 2581,
+      "text": "\n\u201cThe assault took place, presumably, because this employee did not agree with the other individual\u2019s political stance.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2581,
+      "end_ix": 2709,
+      "text": "\nIt continued: \u201cWe have since terminated this employee, as his actions go against everything that this establishment stands for.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2709,
+      "end_ix": 2748,
+      "text": "\nTHIS BAR IS A SAFE SPACE FOR EVERYONE!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2748,
+      "end_ix": 2850,
+      "text": "\nNo matter your race, creed, ethnicity, sexual identity, and political stance, you are welcomed here!\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      224,
+      235,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      253,
+      279,
+      "Slogans"
+    ],
+    [
+      1004,
+      1026,
+      "Slogans"
+    ],
+    [
+      1579,
+      1586,
+      "Loaded_Language"
+    ],
+    [
+      1996,
+      2016,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

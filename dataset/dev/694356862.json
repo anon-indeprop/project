@@ -1,0 +1,418 @@
+{
+  "article_id": "694356862",
+  "sentence offsets in original": [
+    0,
+    254,
+    450,
+    599,
+    811,
+    1010,
+    1203,
+    1421,
+    1639,
+    1811,
+    1951,
+    2087,
+    2267,
+    2377,
+    2561,
+    2717,
+    2901,
+    3088,
+    3285,
+    3482,
+    3567,
+    3901,
+    4111,
+    4510,
+    4709,
+    4945,
+    4976,
+    5362,
+    5431
+  ],
+  "original sentences": [
+    "Israel Takes On the Shia Crescent\n\nDespite Israel's repeated warnings, Barack Obama's reckless appeasement of the Iranian regime has enabled its rise as a hegemonic threat in the Middle East region as well as a threat to international peace and security.",
+    "\nIn 2009, Obama turned his back on millions of dissidents in the streets of Tehran and other Iranian cities, who were peacefully protesting the rigged election of Mahmoud Ahmadinejad as president.",
+    "\nIn 2011, Obama precipitously removed the remaining U.S. combat troops from Iraq, giving rise to ISIS\u2019s re-emergence in Iraq from its bases in Syria.",
+    "\nThe radical Shiite Iranian regime purported to come to the \u201crescue\u201d of both countries from the Sunni terrorists, turning Iraq into a virtual vassal state of the largest state sponsor of terrorism in the process.",
+    "\nObama's disastrous nuclear deal with Iran legitimized Iran's path to eventually becoming a nuclear-armed state, while immediately filling its coffers with billions of dollars to fund its aggression.",
+    "\nMeanwhile, Syria has become ground zero for Iran's execution of its regional ambitions, which is to establish its Shiite Crescent connecting with its allies, including Iraq, Syria and Lebanon.",
+    "\nThis plan has included the establishment of a land route that Iranian-backed militias secured in June, beginning on Iran\u2019s border with Iraq and running across Iraq and Syria all the way to Syria\u2019s Mediterranean coast.",
+    "\nThis road makes Iran\u2019s job easier in supplying arms by land, as well as by air and sea, to prop up Syrian President Bashar al-Assad\u2019s regime and to equip Iran\u2019s own forces fighting inside of Syria in support of Assad.",
+    "\nThis helps explain why Iran has placed so much importance on helping the Syrian regime establish control over the Deir ez-Zor area in eastern Syria, near the Iraqi border.",
+    "\n\u201cEverything depends now on the Americans\u2019 willingness to stop this,\u201d said an Iraqi Kurdish official who was quoted in a New Yorker article.",
+    "\nHowever, U.S.-led coalition forces apparently have done next to nothing to stop this major advance in Iran\u2019s Shiite Crescent expansion.",
+    "\n\u201cObama ran down our options in Syria so thoroughly, by the time this administration took over,\u201d said Andrew Tabler, senior fellow at the Washington Institute for Near East Policy.",
+    "\n\u201cThe Iranian influence is spreading because they are so heavily involved in regime activities,\u201d Tabler added.",
+    "\n\u201cIt\u2019s a new monster.\u201d\nFurthermore, Iran has funded and armed its terrorist proxy Hezbollah, which has sent its militia from its home base of Lebanon to fight alongside Assad's forces.",
+    "\nAnd Iran has used Syria as a transit point for shipment of sophisticated rockets to Hezbollah in Lebanon for future use against Israeli population centers.",
+    "\nDespite the fact that Hezbollah has American blood on its hands, the U.S.-led coalition has chosen not to do anything about Hezbollah\u2019s presence in Syria, bought and paid for by Iran.",
+    "\nWhile Israel chose not to take sides in Syria's civil war with military intervention of its own, it has bombed weapons storage facilities and convoys inside Syria for its own protection.",
+    "\nJust recently, on September 7th, Israeli jets struck a Syrian weapons facility near Masyaf, which was reported to have been used for the production of chemical weapons and the storage of missiles.",
+    "\nIsrael will also do what is necessary to repel Iranian-backed forces if they edge too close to areas near the Golan Heights, shrinking the buffer between Israel and Iranian controlled territories.",
+    "\nHowever, such tactical measures may not be enough to thwart Iran\u2019s larger ambitions.",
+    "\nIn light of intelligence reports that Assad may be ready to invite Iran to set up military bases in Syria, Israeli leaders have concluded that they cannot wait until the Trump administration decides to deal more forcefully with Iran's growing use of Syria as a staging area for carrying out its expansionist Shiite Crescent strategy.",
+    "\n\u201cTheir overriding concern in Syria is the free reign that all the major players there seem willing to afford Iran and its various proxies in the country,\u201d wrote Jonathan Spyer in an article for Foreign Policy.",
+    "\nAs long as nobody else is addressing the concern Iran\u2019s growing control raises in a satisfactory manner, \u201cIsrael is determined to continue addressing it on its own.\u201d\nAt least, Israel has a more sympathetic ear in the Trump administration than it did in the Obama administration for raising its concerns about Iran\u2019s growing threat, not only to Israel but to U.S. interests in the region and beyond.",
+    "\nPresident Trump\u2019s sharp denunciation of the Iranian regime during his address to the UN General Assembly represented a welcome departure from the Obama administration\u2019s milquetoast approach to Iran.",
+    "\nAs the U.S.-led coalition continues to drive ISIS from its bases of operation in Syria, the Trump administration has proclaimed its intention not to allow Iran to turn Syria into its own satellite, as Iran has essentially done in Iraq.",
+    "\nNational Security Adviser H.R.",
+    "\nMcMaster said that the \u201cso called liberation of areas by Assad\u2019s forces and Iranian proxies could actually accelerate the cycle of violence and perpetuate conflict rather than get us to a sustainable outcome.\u201d He claimed that the Trump administration\u2019s \u201cobjectives are to weaken Iranian influence across the region broadly,\u201d without discussing the means to accomplish those objectives.",
+    "\nWhether the Trump administration follows through remains to be seen.",
+    "\nIn the meantime, Israel will have to deal with the fallout of Iran\u2019s ambitions in Syria itself."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 254,
+      "text": "Israel Takes On the Shia Crescent\n\nDespite Israel's repeated warnings, Barack Obama's reckless appeasement of the Iranian regime has enabled its rise as a hegemonic threat in the Middle East region as well as a threat to international peace and security.",
+      "new_text": "Israel Takes On the Shia Crescent\n\nDespite Israel's repeated warnings, Barack Obama's appeasement of the Iranians has contributed its rise as a new form of power in the Middle East region as well as a threat to international peace and security.",
+      "prop_spans": [
+        [
+          71,
+          171,
+          "Causal_Oversimplification"
+        ],
+        [
+          86,
+          106,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 254,
+      "end_ix": 450,
+      "text": "\nIn 2009, Obama turned his back on millions of dissidents in the streets of Tehran and other Iranian cities, who were peacefully protesting the rigged election of Mahmoud Ahmadinejad as president.",
+      "new_text": "\nIn 2009, Obama ignored the dissidents in the streets of Tehran and other Iranian cities, who were peacefully protesting the rigged election of Mahmoud Ahmadinejad as president.",
+      "prop_spans": [
+        [
+          270,
+          311,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 450,
+      "end_ix": 599,
+      "text": "\nIn 2011, Obama precipitously removed the remaining U.S. combat troops from Iraq, giving rise to ISIS\u2019s re-emergence in Iraq from its bases in Syria.",
+      "new_text": "\nIn 2011, Obama precipitously removed the remaining U.S. combat troops from Iraq, which may have contributed to ISIS\u2019s re-emergence in Iraq from its bases in Syria.",
+      "prop_spans": [
+        [
+          532,
+          574,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 599,
+      "end_ix": 811,
+      "text": "\nThe radical Shiite Iranian regime purported to come to the \u201crescue\u201d of both countries from the Sunni terrorists, turning Iraq into a virtual vassal state of the largest state sponsor of terrorism in the process.",
+      "new_text": "\nThe radical Shiite Iranian regime purported to come to the \u201crescue\u201d of both countries from the Sunni terrorists, turning Iraq into a virtual vassal state of Iran in the process.",
+      "prop_spans": [
+        [
+          713,
+          795,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          733,
+          747,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 811,
+      "end_ix": 1010,
+      "text": "\nObama's disastrous nuclear deal with Iran legitimized Iran's path to eventually becoming a nuclear-armed state, while immediately filling its coffers with billions of dollars to fund its aggression.",
+      "new_text": "\nObama's nuclear deal with Iran may have legitimized Iran's path to eventually becoming a nuclear-armed state, while immediately filling its coffers with billions of dollars to fund its aggression.",
+      "prop_spans": [
+        [
+          820,
+          830,
+          "Loaded_Language"
+        ],
+        [
+          854,
+          923,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1010,
+      "end_ix": 1203,
+      "text": "\nMeanwhile, Syria has become ground zero for Iran's execution of its regional ambitions, which is to establish its Shiite Crescent connecting with its allies, including Iraq, Syria and Lebanon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1203,
+      "end_ix": 1421,
+      "text": "\nThis plan has included the establishment of a land route that Iranian-backed militias secured in June, beginning on Iran\u2019s border with Iraq and running across Iraq and Syria all the way to Syria\u2019s Mediterranean coast.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1421,
+      "end_ix": 1639,
+      "text": "\nThis road makes Iran\u2019s job easier in supplying arms by land, as well as by air and sea, to prop up Syrian President Bashar al-Assad\u2019s regime and to equip Iran\u2019s own forces fighting inside of Syria in support of Assad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1639,
+      "end_ix": 1811,
+      "text": "\nThis helps explain why Iran has placed so much importance on helping the Syrian regime establish control over the Deir ez-Zor area in eastern Syria, near the Iraqi border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1811,
+      "end_ix": 1951,
+      "text": "\n\u201cEverything depends now on the Americans\u2019 willingness to stop this,\u201d said an Iraqi Kurdish official who was quoted in a New Yorker article.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1951,
+      "end_ix": 2087,
+      "text": "\nHowever, U.S.-led coalition forces apparently have done next to nothing to stop this major advance in Iran\u2019s Shiite Crescent expansion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2087,
+      "end_ix": 2267,
+      "text": "\n\u201cObama ran down our options in Syria so thoroughly, by the time this administration took over,\u201d said Andrew Tabler, senior fellow at the Washington Institute for Near East Policy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2267,
+      "end_ix": 2377,
+      "text": "\n\u201cThe Iranian influence is spreading because they are so heavily involved in regime activities,\u201d Tabler added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2377,
+      "end_ix": 2561,
+      "text": "\n\u201cIt\u2019s a new monster.\u201d\nFurthermore, Iran has funded and armed its terrorist proxy Hezbollah, which has sent its militia from its home base of Lebanon to fight alongside Assad's forces.",
+      "new_text": "\nFurthermore, Iran has funded and armed its terrorist proxy Hezbollah, which has sent its militia from its home base of Lebanon to fight alongside Assad's forces.",
+      "prop_spans": [
+        [
+          2377,
+          2400,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2561,
+      "end_ix": 2717,
+      "text": "\nAnd Iran has used Syria as a transit point for shipment of sophisticated rockets to Hezbollah in Lebanon for future use against Israeli population centers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2717,
+      "end_ix": 2901,
+      "text": "\nDespite the fact that Hezbollah has American blood on its hands, the U.S.-led coalition has chosen not to do anything about Hezbollah\u2019s presence in Syria, bought and paid for by Iran.",
+      "new_text": "\nDespite the fact that Hezbollah has blood on its hands, the U.S.-led coalition has chosen not to do anything about Hezbollah\u2019s presence in Syria, bought and paid for by Iran.",
+      "prop_spans": [
+        [
+          2754,
+          2768,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2901,
+      "end_ix": 3088,
+      "text": "\nWhile Israel chose not to take sides in Syria's civil war with military intervention of its own, it has bombed weapons storage facilities and convoys inside Syria for its own protection.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3088,
+      "end_ix": 3285,
+      "text": "\nJust recently, on September 7th, Israeli jets struck a Syrian weapons facility near Masyaf, which was reported to have been used for the production of chemical weapons and the storage of missiles.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3285,
+      "end_ix": 3482,
+      "text": "\nIsrael will also do what is necessary to repel Iranian-backed forces if they edge too close to areas near the Golan Heights, shrinking the buffer between Israel and Iranian controlled territories.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3482,
+      "end_ix": 3567,
+      "text": "\nHowever, such tactical measures may not be enough to thwart Iran\u2019s larger ambitions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3567,
+      "end_ix": 3901,
+      "text": "\nIn light of intelligence reports that Assad may be ready to invite Iran to set up military bases in Syria, Israeli leaders have concluded that they cannot wait until the Trump administration decides to deal more forcefully with Iran's growing use of Syria as a staging area for carrying out its expansionist Shiite Crescent strategy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3901,
+      "end_ix": 4111,
+      "text": "\n\u201cTheir overriding concern in Syria is the free reign that all the major players there seem willing to afford Iran and its various proxies in the country,\u201d wrote Jonathan Spyer in an article for Foreign Policy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4111,
+      "end_ix": 4510,
+      "text": "\nAs long as nobody else is addressing the concern Iran\u2019s growing control raises in a satisfactory manner, \u201cIsrael is determined to continue addressing it on its own.\u201d\nAt least, Israel has a more sympathetic ear in the Trump administration than it did in the Obama administration for raising its concerns about Iran\u2019s growing threat, not only to Israel but to U.S. interests in the region and beyond.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4510,
+      "end_ix": 4709,
+      "text": "\nPresident Trump\u2019s sharp denunciation of the Iranian regime during his address to the UN General Assembly represented a welcome departure from the Obama administration\u2019s milquetoast approach to Iran.",
+      "new_text": "\nPresident Trump\u2019s sharp denunciation of the Iranian regime during his address to the UN General Assembly represented a welcome departure from the Obama administration\u2019s casual approach to Iran.",
+      "prop_spans": [
+        [
+          4680,
+          4691,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4709,
+      "end_ix": 4945,
+      "text": "\nAs the U.S.-led coalition continues to drive ISIS from its bases of operation in Syria, the Trump administration has proclaimed its intention not to allow Iran to turn Syria into its own satellite, as Iran has essentially done in Iraq.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4945,
+      "end_ix": 4976,
+      "text": "\nNational Security Adviser H.R.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4976,
+      "end_ix": 5362,
+      "text": "\nMcMaster said that the \u201cso called liberation of areas by Assad\u2019s forces and Iranian proxies could actually accelerate the cycle of violence and perpetuate conflict rather than get us to a sustainable outcome.\u201d He claimed that the Trump administration\u2019s \u201cobjectives are to weaken Iranian influence across the region broadly,\u201d without discussing the means to accomplish those objectives.",
+      "new_text": "\nMcMaster said that the \u201cso called liberation of areas by Assad\u2019s forces and Iranian proxies could actually accelerate the cycle of violence and perpetuate conflict rather than get us to a sustainable outcome.\u201d He claimed that the Trump administration\u2019s \u201cobjectives are to weaken Iranian influence across the region broadly,\u201d without discussing the means to accomplish those objectives.",
+      "prop_spans": [
+        [
+          5069,
+          5185,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5362,
+      "end_ix": 5431,
+      "text": "\nWhether the Trump administration follows through remains to be seen.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          5363,
+          5431,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5431,
+      "end_ix": 5527,
+      "text": "\nIn the meantime, Israel will have to deal with the fallout of Iran\u2019s ambitions in Syria itself.",
+      "new_text": "\nIn the meantime, Israel will have to deal with the fallout of Iran\u2019s ambitions in Syria itself.",
+      "prop_spans": [
+        [
+          5431,
+          5431,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      71,
+      171,
+      "Causal_Oversimplification"
+    ],
+    [
+      86,
+      106,
+      "Loaded_Language"
+    ],
+    [
+      270,
+      311,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      532,
+      574,
+      "Causal_Oversimplification"
+    ],
+    [
+      713,
+      795,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      733,
+      747,
+      "Loaded_Language"
+    ],
+    [
+      820,
+      830,
+      "Loaded_Language"
+    ],
+    [
+      854,
+      923,
+      "Causal_Oversimplification"
+    ],
+    [
+      2377,
+      2400,
+      "Loaded_Language"
+    ],
+    [
+      2754,
+      2768,
+      "Flag-Waving"
+    ],
+    [
+      4680,
+      4691,
+      "Loaded_Language"
+    ],
+    [
+      5069,
+      5185,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      5363,
+      5431,
+      "Doubt"
+    ]
+  ]
+}

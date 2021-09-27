@@ -1,0 +1,385 @@
+{
+  "article_id": "999001323",
+  "sentence offsets in original": [
+    0,
+    189,
+    391,
+    444,
+    567,
+    663,
+    813,
+    943,
+    1082,
+    1249,
+    1332,
+    1487,
+    1597,
+    1792,
+    1907,
+    2105,
+    2231,
+    2474,
+    2799,
+    2973,
+    3159,
+    3329,
+    3523,
+    3774,
+    3982,
+    4042,
+    4217,
+    4418,
+    4577,
+    4660,
+    4833
+  ],
+  "original sentences": [
+    "Court orders White House to restore CNN correspondent Jim Acosta\u2019s press credential\n\nCNN has won the first round of its legal battle to get correspondent Jim Acosta back in the White House.",
+    "\nU.S. District Court Judge Timothy Kelly granted the cable news network\u2019s request for a temporary restraining order and preliminary injunction Friday that restored Acosta\u2019s White House press credential.",
+    "\nKelly ordered that Acosta be reinstated immediately.",
+    "\nHe did not rule on CNN\u2019s claim that the revocation of the journalist\u2019s pass violated his rights under the First Amendment.",
+    "\nBut he said the White House did not provide Acosta with due process to legally remove his pass.",
+    "\nThe ruling followed a court hearing held Wednesday in Washington, where lawyers for CNN and the White House faced off over the issue of press access.",
+    "\nCNN had the broad support of other news organizations that believed the White House\u2019s actions posed a challenge to press freedom.",
+    "\n\u201cWe are gratified with this result and we look forward to a full resolution in the coming days,\u201d a CNN representative said in a statement.",
+    "\n\u201cOur sincere thanks to all who have supported not just CNN, but a free, strong and independent American press.\u201d\nThe White House said it would abide by Kelly\u2019s ruling.",
+    "\n\u201cToday, the court made clear there is no absolute right to access the White House.",
+    "\nIn response to the court, we will temporarily reinstate the reporter\u2019s hard pass,\u201d White House press secretary Sarah Huckabee Sanders said in a statement.",
+    "\n\u201cWe will also further develop rules and processes to ensure fair and orderly press conferences in the future.",
+    "\nThere must be decorum in the White House.\u201d\nAcosta\u2019s press credential was revoked by the White House on Nov. 7 after a testy exchange with President Donald Trump at a White House news conference.",
+    "\nAt one point, Acosta refused to relinquish the microphone to a White House aide who tried to retrieve it from him.",
+    "\nIt was the latest in a series of public confrontations between Acosta and Trump, who has repeatedly characterized CNN\u2019s critical coverage of him as \u201cfake news\u201d since the 2016 presidential campaign.",
+    "\nCNN\u2019s suit filed Tuesday says the suspension of Acosta\u2019s credential violates the First Amendment\u2019s protection of free speech.",
+    "\nIt also says the way the administration revoked the pass, with no direct notice to Acosta or a written explanation detailing the decision, violated the Fifth Amendment\u2019s protection of due process and the federal Administrative Procedures Act.",
+    "\n\u201cThis severe and unprecedented punishment is the culmination of years of hostility by President Trump against CNN and Acosta based on the contents of their reporting \u2014 an unabashed attempt to censor the press and exclude reporters from the White House who challenge and dispute the president\u2019s point of view,\u201d the suit says.",
+    "\nResponding to the CNN suit, lawyers for the White House said the Trump administration had broad discretion to regulate access to journalists and other members of the public.",
+    "\n\u201cIf the president wants to exclude all reporters from the White House grounds, he has the authority to do that,\u201d Deputy Assistant Attorney General James Burnham said during the hearing.",
+    "\n\u201cThere\u2019s no First Amendment right.\u201d\nThe White House argued that Acosta\u2019s behavior, which it described as rude and aggressive, was the reason for revoking his credential.",
+    "\nMark Lukasiewicz, dean of The Lawrence Herbert School of Communication at Hofstra University and a former network news executive, praised the judge\u2019s decision, which he said was not a surprise.",
+    "\n\u201cThe White House has lots of other ways to deal with the behavior of reporters if that\u2019s their concern, but closing the gate to a news organization is not one of these ways, and it\u2019s important that the court stood up and said that,\u201d Lukasiewicz said.",
+    "\n\u201cIt\u2019s not the first time a reporter has behaved in a way that a president doesn\u2019t like.\u201d\nLukasiewicz believed CNN would reach a compromise with the White House rather than engage in a prolonged court battle.",
+    "\n\u201cThe law and the Constitution is very clear here,\u201d he said.",
+    "\nCNN\u2019s suit received the support of more than a dozen news organizations including Fox News, where commentators have often echoed Trump\u2019s criticisms of the network\u2019s coverage.",
+    "\nRival news organizations came to the defense of Fox News in 2009 when the Obama administration attempted to exclude its reporters from interviews with officials that were offered to all other outlets.",
+    "\nFox News commentators were President Barack Obama\u2019s harshest critics during his eight years in office, and he often complained about it in public and private.",
+    "\nBut the press credentials for its conservative-leaning network were never revoked.",
+    "\nFox News, The Washington Post, NBC News, The Associated Press and the Los Angeles Times are among the entities that have said they will file amicus briefs on behalf of CNN.",
+    "\n\u2014 Stephen Battaglio\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 189,
+      "text": "Court orders White House to restore CNN correspondent Jim Acosta\u2019s press credential\n\nCNN has won the first round of its legal battle to get correspondent Jim Acosta back in the White House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 189,
+      "end_ix": 391,
+      "text": "\nU.S. District Court Judge Timothy Kelly granted the cable news network\u2019s request for a temporary restraining order and preliminary injunction Friday that restored Acosta\u2019s White House press credential.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 391,
+      "end_ix": 444,
+      "text": "\nKelly ordered that Acosta be reinstated immediately.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 444,
+      "end_ix": 567,
+      "text": "\nHe did not rule on CNN\u2019s claim that the revocation of the journalist\u2019s pass violated his rights under the First Amendment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 567,
+      "end_ix": 663,
+      "text": "\nBut he said the White House did not provide Acosta with due process to legally remove his pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 663,
+      "end_ix": 813,
+      "text": "\nThe ruling followed a court hearing held Wednesday in Washington, where lawyers for CNN and the White House faced off over the issue of press access.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 813,
+      "end_ix": 943,
+      "text": "\nCNN had the broad support of other news organizations that believed the White House\u2019s actions posed a challenge to press freedom.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 943,
+      "end_ix": 1082,
+      "text": "\n\u201cWe are gratified with this result and we look forward to a full resolution in the coming days,\u201d a CNN representative said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1082,
+      "end_ix": 1249,
+      "text": "\n\u201cOur sincere thanks to all who have supported not just CNN, but a free, strong and independent American press.\u201d\nThe White House said it would abide by Kelly\u2019s ruling.",
+      "new_text": "\n\u201cOur sincere thanks to all who have supported not just CNN, but a free, strong and independent American press.\u201d\nThe White House said it would abide by Kelly\u2019s ruling.",
+      "prop_spans": [
+        [
+          1149,
+          1177,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1178,
+          1192,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1249,
+      "end_ix": 1332,
+      "text": "\n\u201cToday, the court made clear there is no absolute right to access the White House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1332,
+      "end_ix": 1487,
+      "text": "\nIn response to the court, we will temporarily reinstate the reporter\u2019s hard pass,\u201d White House press secretary Sarah Huckabee Sanders said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1487,
+      "end_ix": 1597,
+      "text": "\n\u201cWe will also further develop rules and processes to ensure fair and orderly press conferences in the future.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1597,
+      "end_ix": 1792,
+      "text": "\nThere must be decorum in the White House.\u201d\nAcosta\u2019s press credential was revoked by the White House on Nov. 7 after a testy exchange with President Donald Trump at a White House news conference.",
+      "new_text": "\nThere must be decorum in the White House.\u201d\nAcosta\u2019s press credential was revoked by the White House on Nov. 7 after a grumpy exchange with President Donald Trump at a White House news conference.",
+      "prop_spans": [
+        [
+          1716,
+          1721,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1792,
+      "end_ix": 1907,
+      "text": "\nAt one point, Acosta refused to relinquish the microphone to a White House aide who tried to retrieve it from him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1907,
+      "end_ix": 2105,
+      "text": "\nIt was the latest in a series of public confrontations between Acosta and Trump, who has repeatedly characterized CNN\u2019s critical coverage of him as \u201cfake news\u201d since the 2016 presidential campaign.",
+      "new_text": "\nIt was the latest in a series of public confrontations between Acosta and Trump, who has repeatedly characterized CNN\u2019s critical coverage of him as fake news since the 2016 presidential campaign.",
+      "prop_spans": [
+        [
+          2056,
+          2067,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2105,
+      "end_ix": 2231,
+      "text": "\nCNN\u2019s suit filed Tuesday says the suspension of Acosta\u2019s credential violates the First Amendment\u2019s protection of free speech.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2231,
+      "end_ix": 2474,
+      "text": "\nIt also says the way the administration revoked the pass, with no direct notice to Acosta or a written explanation detailing the decision, violated the Fifth Amendment\u2019s protection of due process and the federal Administrative Procedures Act.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2474,
+      "end_ix": 2799,
+      "text": "\n\u201cThis severe and unprecedented punishment is the culmination of years of hostility by President Trump against CNN and Acosta based on the contents of their reporting \u2014 an unabashed attempt to censor the press and exclude reporters from the White House who challenge and dispute the president\u2019s point of view,\u201d the suit says.",
+      "new_text": "\n\u201cThis severe and unprecedented punishment is the culmination of years of hostility by President Trump against CNN and Acosta based on the contents of their reporting \u2014 an unabashed attempt to censor the press and exclude reporters from the White House who challenge and dispute the president\u2019s point of view,\u201d the suit says.",
+      "prop_spans": [
+        [
+          2481,
+          2487,
+          "Loaded_Language"
+        ],
+        [
+          2492,
+          2505,
+          "Loaded_Language"
+        ],
+        [
+          2646,
+          2655,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2799,
+      "end_ix": 2973,
+      "text": "\nResponding to the CNN suit, lawyers for the White House said the Trump administration had broad discretion to regulate access to journalists and other members of the public.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2973,
+      "end_ix": 3159,
+      "text": "\n\u201cIf the president wants to exclude all reporters from the White House grounds, he has the authority to do that,\u201d Deputy Assistant Attorney General James Burnham said during the hearing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3159,
+      "end_ix": 3329,
+      "text": "\n\u201cThere\u2019s no First Amendment right.\u201d\nThe White House argued that Acosta\u2019s behavior, which it described as rude and aggressive, was the reason for revoking his credential.",
+      "new_text": "\n\u201cThere\u2019s no First Amendment right.\u201d\nThe White House argued that Acosta\u2019s behavior, which it described as rude and hostile, was the reason for revoking his credential.",
+      "prop_spans": [
+        [
+          3265,
+          3269,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3274,
+          3284,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3329,
+      "end_ix": 3523,
+      "text": "\nMark Lukasiewicz, dean of The Lawrence Herbert School of Communication at Hofstra University and a former network news executive, praised the judge\u2019s decision, which he said was not a surprise.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3523,
+      "end_ix": 3774,
+      "text": "\n\u201cThe White House has lots of other ways to deal with the behavior of reporters if that\u2019s their concern, but closing the gate to a news organization is not one of these ways, and it\u2019s important that the court stood up and said that,\u201d Lukasiewicz said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3774,
+      "end_ix": 3982,
+      "text": "\n\u201cIt\u2019s not the first time a reporter has behaved in a way that a president doesn\u2019t like.\u201d\nLukasiewicz believed CNN would reach a compromise with the White House rather than engage in a prolonged court battle.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3982,
+      "end_ix": 4042,
+      "text": "\n\u201cThe law and the Constitution is very clear here,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4042,
+      "end_ix": 4217,
+      "text": "\nCNN\u2019s suit received the support of more than a dozen news organizations including Fox News, where commentators have often echoed Trump\u2019s criticisms of the network\u2019s coverage.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4217,
+      "end_ix": 4418,
+      "text": "\nRival news organizations came to the defense of Fox News in 2009 when the Obama administration attempted to exclude its reporters from interviews with officials that were offered to all other outlets.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4418,
+      "end_ix": 4577,
+      "text": "\nFox News commentators were President Barack Obama\u2019s harshest critics during his eight years in office, and he often complained about it in public and private.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4577,
+      "end_ix": 4660,
+      "text": "\nBut the press credentials for its conservative-leaning network were never revoked.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4660,
+      "end_ix": 4833,
+      "text": "\nFox News, The Washington Post, NBC News, The Associated Press and the Los Angeles Times are among the entities that have said they will file amicus briefs on behalf of CNN.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4833,
+      "end_ix": 4944,
+      "text": "\n\u2014 Stephen Battaglio\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1149,
+      1177,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1178,
+      1192,
+      "Flag-Waving"
+    ],
+    [
+      1716,
+      1721,
+      "Loaded_Language"
+    ],
+    [
+      2056,
+      2067,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2481,
+      2487,
+      "Loaded_Language"
+    ],
+    [
+      2492,
+      2505,
+      "Loaded_Language"
+    ],
+    [
+      2646,
+      2655,
+      "Loaded_Language"
+    ],
+    [
+      3265,
+      3269,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3274,
+      3284,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "article_id": "788273361",
+  "sentence offsets in original": [
+    0,
+    309,
+    367,
+    467,
+    529,
+    591,
+    746,
+    828,
+    856,
+    919,
+    1157,
+    1245,
+    1257,
+    1464,
+    1659,
+    1791,
+    1971,
+    2053,
+    2183,
+    2397,
+    2501,
+    2561,
+    2628,
+    2680,
+    3003,
+    3595,
+    3669,
+    3731,
+    3761,
+    3848,
+    3945,
+    4048
+  ],
+  "original sentences": [
+    "Keith Ellison Domestic Violence Accuser: Democratic Party Doesn\u2019t Believe My Story\n\nKaren Monahan, the woman who accused Keith Ellison of domestic abuse, says Democrats don\u2019t believe her and are turning a blind eye and ear toward her claims \u2014 yet curiously, finding time and cause to go after Brett Kavanaugh.",
+    "\nDemocrats, they do pick their \u201cvictims\u201d well, don\u2019t they?",
+    "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nMonahan is Ellison\u2019s former girlfriend, and she came forward a month ago to say the Democrat, now seeking an attorney general\u2019s slot in Minnesota, sent her threatening text messages and physically hurt her in one of their confrontations.",
+    "\nYet Democrats don\u2019t think his accuser meets the same threshhold as Kavanaugh\u2019s accuser?",
+    "\nApparently.",
+    "\nMore, from Fox News:\nThe woman who accused Minnesota Democratic Rep. Keith Ellison of domestic abuse said on Monday that Democrats don\u2019t believe her story and threatened to isolate her over the allegations.",
+    "\nKaren Monahan, a former girlfriend, came forward last month alleging that Ellison sent her threatening text messages and once screamed obscenities at her as he dragged her off a bed by her feet.",
+    "\nEllison has denied the accusations, saying he \u201cnever behaved this way.\u201d He did acknowledge he was in a relationship with the woman.",
+    "\nThe allegations didn\u2019t lead to any immediate action against the congressman, except for the announcement that the Democratic National Committee (DNC) would review the accusations.",
+    "\nHe went on to win the Democratic primary election for Minnesota attorney general.",
+    "\nMonahan slammed the Democratic Party for its response to her allegations when compared to its treatment of Christine Blasey Ford.",
+    "\nFord has accused Supreme Court nominee Brett Kavanaugh of attempting to force himself onto her during at a high school party nearly four decades ago, prompting prominent Democrats to get behind Ford\u2019s allegations.",
+    "\n\u201cNo, they don\u2019t,\u201d Monahan tweeted in response to a question whether the party believes women\u2019s stories.",
+    "\n\u201cI\u2019ve been smeared, threatened, isolated from my own party.",
+    "\nI provided medical records from 2017, stating on two different Dr.",
+    "\nVisits, I told them about the abuse and who did it.",
+    "\nMy therapist released records stating I have been dealing and healing from the abuse.\u201d She added: \u201cFour people, including my supervisor at the time, stated that I came to them after and shared the exact story I shared publicly, I shared multiple text between me and Keith, where I discuss the abuse with him and much more.",
+    "\nAs I said before, I knew I wouldn\u2019t be believed.\u201d Her comment came after another user pointed to comments made by Peter Daou, a Democratic strategist and former advisor to Hillary Clinton and John Kerry, who wrote in a tweet that the Kavanaugh accuser will be \u201cattacked, smeared, and demonized\u201d and that people must \u201cbelieve women.\u201d Many other Democrats and progressives \u2013 who stayed silent when the accusations against Ellison emerged \u2013 came out in support of Ford, including Vermont Sen. Bernie Sanders and Tom Perez, chairman of the DNC, who urged to investigate the claims and Kavanaugh.",
+    "\nMonahan went to reiterate that her story has nothing to do with politics.",
+    "\n\u201cI have nothing to prove to anyone, I simply shared my story.",
+    "\nPeople can believe it or not.",
+    "\nI don\u2019t need anyone to affirm my humanity, I affirmed it,\u201d she wrote in another tweet.",
+    "\n\u201cThe fact that both parties only care if it scores political points is hypocritical,\u201d she added.",
+    "\n\u201cDo you think a person who has dealt with any form of abuse by politicians is thinking about politics?",
+    "\nNo, we & are families are trying to heal.\u201d\nArticle posted with permission from Pamela Geller"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 309,
+      "text": "Keith Ellison Domestic Violence Accuser: Democratic Party Doesn\u2019t Believe My Story\n\nKaren Monahan, the woman who accused Keith Ellison of domestic abuse, says Democrats don\u2019t believe her and are turning a blind eye and ear toward her claims \u2014 yet curiously, finding time and cause to go after Brett Kavanaugh.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 309,
+      "end_ix": 367,
+      "text": "\nDemocrats, they do pick their \u201cvictims\u201d well, don\u2019t they?",
+      "new_text": "\nDemocrats, they do pick their \u201cvictims\u201d well, don\u2019t they?",
+      "prop_spans": [
+        [
+          310,
+          367,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 367,
+      "end_ix": 467,
+      "text": "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "prop_spans": [
+        [
+          367,
+          368,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 467,
+      "end_ix": 529,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 529,
+      "end_ix": 591,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 591,
+      "end_ix": 746,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 746,
+      "end_ix": 828,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 828,
+      "end_ix": 856,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 856,
+      "end_ix": 919,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 919,
+      "end_ix": 1157,
+      "text": "\nMonahan is Ellison\u2019s former girlfriend, and she came forward a month ago to say the Democrat, now seeking an attorney general\u2019s slot in Minnesota, sent her threatening text messages and physically hurt her in one of their confrontations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1157,
+      "end_ix": 1245,
+      "text": "\nYet Democrats don\u2019t think his accuser meets the same threshhold as Kavanaugh\u2019s accuser?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1245,
+      "end_ix": 1257,
+      "text": "\nApparently.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1257,
+      "end_ix": 1464,
+      "text": "\nMore, from Fox News:\nThe woman who accused Minnesota Democratic Rep. Keith Ellison of domestic abuse said on Monday that Democrats don\u2019t believe her story and threatened to isolate her over the allegations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1464,
+      "end_ix": 1659,
+      "text": "\nKaren Monahan, a former girlfriend, came forward last month alleging that Ellison sent her threatening text messages and once screamed obscenities at her as he dragged her off a bed by her feet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1659,
+      "end_ix": 1791,
+      "text": "\nEllison has denied the accusations, saying he \u201cnever behaved this way.\u201d He did acknowledge he was in a relationship with the woman.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1791,
+      "end_ix": 1971,
+      "text": "\nThe allegations didn\u2019t lead to any immediate action against the congressman, except for the announcement that the Democratic National Committee (DNC) would review the accusations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1971,
+      "end_ix": 2053,
+      "text": "\nHe went on to win the Democratic primary election for Minnesota attorney general.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2053,
+      "end_ix": 2183,
+      "text": "\nMonahan slammed the Democratic Party for its response to her allegations when compared to its treatment of Christine Blasey Ford.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2183,
+      "end_ix": 2397,
+      "text": "\nFord has accused Supreme Court nominee Brett Kavanaugh of attempting to force himself onto her during at a high school party nearly four decades ago, prompting prominent Democrats to get behind Ford\u2019s allegations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2397,
+      "end_ix": 2501,
+      "text": "\n\u201cNo, they don\u2019t,\u201d Monahan tweeted in response to a question whether the party believes women\u2019s stories.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2501,
+      "end_ix": 2561,
+      "text": "\n\u201cI\u2019ve been smeared, threatened, isolated from my own party.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2561,
+      "end_ix": 2628,
+      "text": "\nI provided medical records from 2017, stating on two different Dr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2628,
+      "end_ix": 2680,
+      "text": "\nVisits, I told them about the abuse and who did it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2680,
+      "end_ix": 3003,
+      "text": "\nMy therapist released records stating I have been dealing and healing from the abuse.\u201d She added: \u201cFour people, including my supervisor at the time, stated that I came to them after and shared the exact story I shared publicly, I shared multiple text between me and Keith, where I discuss the abuse with him and much more.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3003,
+      "end_ix": 3595,
+      "text": "\nAs I said before, I knew I wouldn\u2019t be believed.\u201d Her comment came after another user pointed to comments made by Peter Daou, a Democratic strategist and former advisor to Hillary Clinton and John Kerry, who wrote in a tweet that the Kavanaugh accuser will be \u201cattacked, smeared, and demonized\u201d and that people must \u201cbelieve women.\u201d Many other Democrats and progressives \u2013 who stayed silent when the accusations against Ellison emerged \u2013 came out in support of Ford, including Vermont Sen. Bernie Sanders and Tom Perez, chairman of the DNC, who urged to investigate the claims and Kavanaugh.",
+      "new_text": "\nAs I said before, I knew I wouldn\u2019t be believed.\u201d Her comment came after another user pointed to comments made by Peter Daou, a Democratic strategist and former advisor to Hillary Clinton and John Kerry, who wrote in a tweet that the Kavanaugh accuser will be \u201cattacked, smeared, and demonized\u201d and that people must \u201cbelieve women.\u201d Many other Democrats and progressives \u2013 who stayed silent when the accusations against Ellison emerged \u2013 came out in support of Ford, including Vermont Sen. Bernie Sanders and Tom Perez, chairman of the DNC, who urged to investigate the claims and Kavanaugh.",
+      "prop_spans": [
+        [
+          3288,
+          3297,
+          "Loaded_Language"
+        ],
+        [
+          3320,
+          3336,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3595,
+      "end_ix": 3669,
+      "text": "\nMonahan went to reiterate that her story has nothing to do with politics.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3669,
+      "end_ix": 3731,
+      "text": "\n\u201cI have nothing to prove to anyone, I simply shared my story.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3731,
+      "end_ix": 3761,
+      "text": "\nPeople can believe it or not.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3761,
+      "end_ix": 3848,
+      "text": "\nI don\u2019t need anyone to affirm my humanity, I affirmed it,\u201d she wrote in another tweet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3848,
+      "end_ix": 3945,
+      "text": "\n\u201cThe fact that both parties only care if it scores political points is hypocritical,\u201d she added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3945,
+      "end_ix": 4048,
+      "text": "\n\u201cDo you think a person who has dealt with any form of abuse by politicians is thinking about politics?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4048,
+      "end_ix": 4141,
+      "text": "\nNo, we & are families are trying to heal.\u201d\nArticle posted with permission from Pamela Geller",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      310,
+      368,
+      "Loaded_Language"
+    ],
+    [
+      3288,
+      3297,
+      "Loaded_Language"
+    ],
+    [
+      3320,
+      3336,
+      "Slogans"
+    ]
+  ]
+}

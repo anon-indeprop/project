@@ -1,0 +1,401 @@
+{
+  "article_id": "724095467",
+  "sentence offsets in original": [
+    0,
+    208,
+    538,
+    711,
+    870,
+    1156,
+    1226,
+    1426,
+    1659,
+    1887,
+    2349,
+    2594,
+    2732,
+    2858,
+    3033,
+    3157,
+    3310,
+    3369,
+    3430,
+    3687,
+    3708,
+    3724,
+    3784,
+    3857,
+    3878,
+    3931
+  ],
+  "original sentences": [
+    "PROOF: The LVMPD And FBI Failed To Catalog At Least One Deceased Las Vegas Massacre Victim As Death Toll Rises\n\nIn what can only be described as gross negligence or a massive cover-up of the truth, the F.B.I.",
+    "\nand LVMPD have failed to record the death of at least one shooting victim killed in the massacre\nLAS VEGAS (INTELLIHUB) \u2014 The Las Vegas Metropolitan Police Department and the Federal Bureau of Investigation have failed to catalogue at least one deceased victim of the 1 October massacre which reportedly only left 58 people dead.",
+    "\nThe 59th victim, who is currently unnamed by the completely botched investigation and cover-up, was shot and killed in the parking lot of nearby business during the attack.",
+    "\nThe woman\u2019s lifeless body can be seen being drug across the parking lot by several men who placed the body behind a pick-up truck while the gunfire continued.",
+    "\nThe event was reported by Intellihub\u2019s Shepard Ambellas on Nov. 11, 2017, in the article titled Private surveillance footage reveals \u201chelicopter hovering overhead\u201d at time of Las Vegas Massacre, FBI never asked for tape, after an excerpt of the footage aired on Tucker Carlson Tonight.",
+    "\nAt 10:16 p.m., two men drag a \u201cfallen victim\u201d across the parking lot.",
+    "\nThe men position the victim behind a Ford pickup truck, presumably to shield themselves and the victim from taking any further incoming rounds as they attempted to give the victim medical assistance.",
+    "\n\u201cLater at ten-twenty-four p.m., one of the men places his shirt across the victim\u2019s face and then at ten-thirty-two a man places what appears to be a blanket or towel over the body after they had given up hope,\u201d Tucker Carlson said.",
+    "\n\u201cPolice only arrive in this area for the first time around ten-forty-five p.m. when the body is still there.\u201d The victim\u2019s body was eventually was loaded into the back of a Ford Raptor pickup truck at 11:50 p.m. and taken away.",
+    "\nAstonishingly, between the times of 10:13 p.m. and 10:16 p.m. a good amount of debris can be seen being pushed downward and sideways in front of the camera which Carlson claims is from a \u201chelicopter hovering overhead.\u201d A quick review of flight records during that time reveals that a squadron of EC-130 Eurocopters departed from Maverick Leasing LLC at 10:12 p.m., several of which appear to have overflown the parking lot where the victim and debris were seen.",
+    "\nHowever, the departure of the choppers and the fact that several of them overflew the parking lot does not explain all of the debris being kicked up from by a heavy downdraft, prop wash, possibly from a helicopter hovering in place much closer.",
+    "\nIn fact, the downdraft appears to be constant from 10:13-10:16 p.m. and not intermittent as if several choppers had just passed overhead.",
+    "\nAccording to Carlson, the owner of the tape maintains that law enforcement investigators have never asked to see the footage.",
+    "\nA preliminary report on the shooting released by the LVMPD on Friday only lists seven victims as being \u201cplaced\u201d outside of the venue, two of which were over a half mile away.",
+    "\nHowever, the official report failed to catalogue the dead woman who was shot in the parking lot of a Haven Street business.",
+    "\nThe following image is taken from page 34 of the LVMPD preliminary report which shows the seven victims and their locations of death numbered in yellow.",
+    "\nThe next photo shows where the unnamed victim was located.",
+    "\nThe victim can be seen being dragged in the following video.",
+    "\nThe following day, several men, one of which presumably was Fox News anchor Sean Hannity (who was heavily guarded by a five-man security team), received mobile haircuts in the very same parking lot, in nearly the same spot the victim\u2019s body was dragged to.",
+    "\nWho was this victim?",
+    "\nWill the F.B.I.",
+    "\nand LVMPD please explain what in the Hell is going on here?",
+    "\nHow was this victim overlooked by investigators but known by Intellihub?",
+    "\nWho was this victim?",
+    "\nWhy were people getting haircuts at the crime scene?",
+    "\nHow many more victims went ignored by investigators?"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 208,
+      "text": "PROOF: The LVMPD And FBI Failed To Catalog At Least One Deceased Las Vegas Massacre Victim As Death Toll Rises\n\nIn what can only be described as gross negligence or a massive cover-up of the truth, the F.B.I.",
+      "new_text": "PROOF: The LVMPD And FBI Failed To Catalog At Least One Deceased Las Vegas Massacre Victim As Death Toll Rises\n\nIn what can only be described as negligence or a cover-up, the F.B.I.",
+      "prop_spans": [
+        [
+          145,
+          161,
+          "Loaded_Language"
+        ],
+        [
+          165,
+          208,
+          "Doubt"
+        ],
+        [
+          165,
+          197,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 208,
+      "end_ix": 538,
+      "text": "\nand LVMPD have failed to record the death of at least one shooting victim killed in the massacre\nLAS VEGAS (INTELLIHUB) \u2014 The Las Vegas Metropolitan Police Department and the Federal Bureau of Investigation have failed to catalogue at least one deceased victim of the 1 October massacre which reportedly only left 58 people dead.",
+      "new_text": "\nand LVMPD have failed to record the death of at least one shooting victim killed in the massacre\nLAS VEGAS (INTELLIHUB) \u2014 The Las Vegas Metropolitan Police Department and the Federal Bureau of Investigation have failed to catalogue at least one deceased victim of the 1 October massacre which reportedly only left 58 people dead.",
+      "prop_spans": [
+        [
+          208,
+          218,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 538,
+      "end_ix": 711,
+      "text": "\nThe 59th victim, who is currently unnamed by the completely botched investigation and cover-up, was shot and killed in the parking lot of nearby business during the attack.",
+      "new_text": "\nThe 59th victim, who is currently unnamed by the allegedly poor investigation and cover-up, was shot and killed in the parking lot of nearby business during the attack.",
+      "prop_spans": [
+        [
+          599,
+          620,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 711,
+      "end_ix": 870,
+      "text": "\nThe woman\u2019s lifeless body can be seen being drug across the parking lot by several men who placed the body behind a pick-up truck while the gunfire continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 870,
+      "end_ix": 1156,
+      "text": "\nThe event was reported by Intellihub\u2019s Shepard Ambellas on Nov. 11, 2017, in the article titled Private surveillance footage reveals \u201chelicopter hovering overhead\u201d at time of Las Vegas Massacre, FBI never asked for tape, after an excerpt of the footage aired on Tucker Carlson Tonight.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1156,
+      "end_ix": 1226,
+      "text": "\nAt 10:16 p.m., two men drag a \u201cfallen victim\u201d across the parking lot.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1226,
+      "end_ix": 1426,
+      "text": "\nThe men position the victim behind a Ford pickup truck, presumably to shield themselves and the victim from taking any further incoming rounds as they attempted to give the victim medical assistance.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1426,
+      "end_ix": 1659,
+      "text": "\n\u201cLater at ten-twenty-four p.m., one of the men places his shirt across the victim\u2019s face and then at ten-thirty-two a man places what appears to be a blanket or towel over the body after they had given up hope,\u201d Tucker Carlson said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1659,
+      "end_ix": 1887,
+      "text": "\n\u201cPolice only arrive in this area for the first time around ten-forty-five p.m. when the body is still there.\u201d The victim\u2019s body was eventually was loaded into the back of a Ford Raptor pickup truck at 11:50 p.m. and taken away.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1887,
+      "end_ix": 2349,
+      "text": "\nAstonishingly, between the times of 10:13 p.m. and 10:16 p.m. a good amount of debris can be seen being pushed downward and sideways in front of the camera which Carlson claims is from a \u201chelicopter hovering overhead.\u201d A quick review of flight records during that time reveals that a squadron of EC-130 Eurocopters departed from Maverick Leasing LLC at 10:12 p.m., several of which appear to have overflown the parking lot where the victim and debris were seen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2349,
+      "end_ix": 2594,
+      "text": "\nHowever, the departure of the choppers and the fact that several of them overflew the parking lot does not explain all of the debris being kicked up from by a heavy downdraft, prop wash, possibly from a helicopter hovering in place much closer.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2594,
+      "end_ix": 2732,
+      "text": "\nIn fact, the downdraft appears to be constant from 10:13-10:16 p.m. and not intermittent as if several choppers had just passed overhead.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2732,
+      "end_ix": 2858,
+      "text": "\nAccording to Carlson, the owner of the tape maintains that law enforcement investigators have never asked to see the footage.",
+      "new_text": "\nAccording to Carlson, the owner of the tape maintains that law enforcement investigators have never asked to see the footage.",
+      "prop_spans": [
+        [
+          2792,
+          2858,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2858,
+      "end_ix": 3033,
+      "text": "\nA preliminary report on the shooting released by the LVMPD on Friday only lists seven victims as being \u201cplaced\u201d outside of the venue, two of which were over a half mile away.",
+      "new_text": "\nA preliminary report on the shooting released by the LVMPD on Friday only lists seven victims as being \u201cplaced\u201d outside of the venue, two of which were over a half mile away.",
+      "prop_spans": [
+        [
+          2858,
+          2859,
+          "Doubt"
+        ],
+        [
+          2963,
+          2970,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3033,
+      "end_ix": 3157,
+      "text": "\nHowever, the official report failed to catalogue the dead woman who was shot in the parking lot of a Haven Street business.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3157,
+      "end_ix": 3310,
+      "text": "\nThe following image is taken from page 34 of the LVMPD preliminary report which shows the seven victims and their locations of death numbered in yellow.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3310,
+      "end_ix": 3369,
+      "text": "\nThe next photo shows where the unnamed victim was located.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3369,
+      "end_ix": 3430,
+      "text": "\nThe victim can be seen being dragged in the following video.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3430,
+      "end_ix": 3687,
+      "text": "\nThe following day, several men, one of which presumably was Fox News anchor Sean Hannity (who was heavily guarded by a five-man security team), received mobile haircuts in the very same parking lot, in nearly the same spot the victim\u2019s body was dragged to.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3687,
+      "end_ix": 3708,
+      "text": "\nWho was this victim?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3708,
+      "end_ix": 3724,
+      "text": "\nWill the F.B.I.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3709,
+          3724,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3724,
+      "end_ix": 3784,
+      "text": "\nand LVMPD please explain what in the Hell is going on here?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3724,
+          3784,
+          "Doubt"
+        ],
+        [
+          3735,
+          3766,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3784,
+      "end_ix": 3857,
+      "text": "\nHow was this victim overlooked by investigators but known by Intellihub?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3784,
+          3784,
+          "Doubt"
+        ],
+        [
+          3785,
+          3857,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3857,
+      "end_ix": 3878,
+      "text": "\nWho was this victim?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3857,
+          3878,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3878,
+      "end_ix": 3931,
+      "text": "\nWhy were people getting haircuts at the crime scene?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3878,
+          3879,
+          "Doubt"
+        ],
+        [
+          3883,
+          3931,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3931,
+      "end_ix": 3984,
+      "text": "\nHow many more victims went ignored by investigators?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3931,
+          3931,
+          "Doubt"
+        ],
+        [
+          3932,
+          3984,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      145,
+      161,
+      "Loaded_Language"
+    ],
+    [
+      165,
+      218,
+      "Doubt"
+    ],
+    [
+      165,
+      197,
+      "Loaded_Language"
+    ],
+    [
+      599,
+      620,
+      "Loaded_Language"
+    ],
+    [
+      2792,
+      2859,
+      "Doubt"
+    ],
+    [
+      2963,
+      2970,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3709,
+      3784,
+      "Doubt"
+    ],
+    [
+      3735,
+      3766,
+      "Loaded_Language"
+    ],
+    [
+      3785,
+      3879,
+      "Doubt"
+    ],
+    [
+      3883,
+      3931,
+      "Doubt"
+    ],
+    [
+      3932,
+      3985,
+      "Doubt"
+    ]
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "article_id": "706636401",
+  "sentence offsets in original": [
+    0,
+    363,
+    629,
+    903,
+    1181,
+    1350,
+    1480,
+    1768,
+    1874,
+    2117,
+    2362,
+    2500,
+    2653,
+    2870,
+    3315,
+    3723
+  ],
+  "original sentences": [
+    "Newly Released Private Surveillance Footage From The Las Vegas Massacre Shows \u201cHelicopter Hovering Overhead\u201d During The Attack\n\nNewly released footage of the Las Vegas Massacre, captured by a private surveillance camera and recently released by Fox News host Tucker Carlson, has once again ignited the theory that helicopters were used during the horrific attack.",
+    "\nOver the last month multiple videos have been released that many believe show helicopters either conducting an attack on the Vegas Strip or attempting to stop those that were and now, with this latest evidence release, that possibility seems all the more plausible.",
+    "\nAs Shepard Ambellas reported for Intellihub, \u201cThe [footage] is presumed to have been captured by a nearby business\u2019s southward facing security camera which is located approximately 780 feet due east of the venue where the Route 91 Harvest Music Festival was held on Oct. 1.",
+    "\nThe tape was given to Fox News by an attorney who represents several shooting victims.\u201d\nAmazingly, the surveillance camera captured what seems to show a \u201clarge amount\u201d of wind and debris being kicked up by a nearby helicopter hovering above the attack and or taking part in it.",
+    "\n\u201cAstonishingly, between the times of 10:13 and 10:16 a good amount of debris can be seen being pushed downward and sideways in front of the camera,\u201d Ambellas continued.",
+    "\n\u201cBy 10:14 much larger crowds of people can be seen streaming through the area to escape the massacre going on,\u201d Carlson reported.",
+    "\n\u201cYou can see a large amount of wind and debris, apparently that is due to a helicopter hovering overhead.\u201d\nThe footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",
+    "\nAmbellas also reported on what his research indicates were documented helicopters in the air at the time.",
+    "\nA quick review of flight records during that time reveals that a squadron of EC-130 Eurocopters departed from Maverick Leasing LLC at 10:12 p.m., several of which appear to have overflown the parking lot where the victim and debris were seen.",
+    "\nHowever, the departure of the choppers and the fact that several of them overflew the parking lot does not explain all of the debris being kicked up from by a heavy downdraft, prop wash, possibly from a helicopter hovering in place much closer.",
+    "\nIn fact, the downdraft appears to be constant from 10:13-10:16 p.m. and not intermittent as if several choppers had just passed overhead.",
+    "\nAs I have reported in the past, multiple other videos taken on the night of the attack also seem to point to helicopters being used throughout the city.",
+    "\n\u201cFootage has emerged that may show muzzle flashes coming from the helicopter in what looks to be evidence that a team was firing into the crowd from the air on that fateful night,\u201d read a report in The Daily Sheeple.",
+    "\n\u201cDespite claims by some that these are \u201cstrobes\u201d it remains unlikely that this is the case, especially when you consider other footage of the helicopter taken on the night as well as research by a group of investigators who believe the first attack on October 1st was carried out from the air.\u201d\nIt is also important to keep in mind that there is footage of a still unidentified team loading up gear in a helicopter near the scene of the attack.",
+    "\n\u201cIn what can only be described as a \u201cWTF video\u201d the following footage seems to literally show a team of unknown soldiers gearing up next to a helicopter near the Route 91 concert.\u201d\nAdditionally, Carlson also noted during the initial broadcast of the private surveillance footage that the owner of the camera was never approached by the FBI, who have so far never seen the footage, much less investigated it.",
+    "\nWhile we may never know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven, time and time again, to be absolutely false and in fact nothing more than a pathetic attempt at a cover-up."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 363,
+      "text": "Newly Released Private Surveillance Footage From The Las Vegas Massacre Shows \u201cHelicopter Hovering Overhead\u201d During The Attack\n\nNewly released footage of the Las Vegas Massacre, captured by a private surveillance camera and recently released by Fox News host Tucker Carlson, has once again ignited the theory that helicopters were used during the horrific attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 363,
+      "end_ix": 629,
+      "text": "\nOver the last month multiple videos have been released that many believe show helicopters either conducting an attack on the Vegas Strip or attempting to stop those that were and now, with this latest evidence release, that possibility seems all the more plausible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 629,
+      "end_ix": 903,
+      "text": "\nAs Shepard Ambellas reported for Intellihub, \u201cThe [footage] is presumed to have been captured by a nearby business\u2019s southward facing security camera which is located approximately 780 feet due east of the venue where the Route 91 Harvest Music Festival was held on Oct. 1.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 903,
+      "end_ix": 1181,
+      "text": "\nThe tape was given to Fox News by an attorney who represents several shooting victims.\u201d\nAmazingly, the surveillance camera captured what seems to show a \u201clarge amount\u201d of wind and debris being kicked up by a nearby helicopter hovering above the attack and or taking part in it.",
+      "new_text": "\nThe tape was given to Fox News by an attorney who represents several shooting victims.\u201d\nThe surveillance camera captured what seems to show a \u201clarge amount\u201d of wind and debris being kicked up by a nearby helicopter hovering above the attack and or taking part in it.",
+      "prop_spans": [
+        [
+          992,
+          1002,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1181,
+      "end_ix": 1350,
+      "text": "\n\u201cAstonishingly, between the times of 10:13 and 10:16 a good amount of debris can be seen being pushed downward and sideways in front of the camera,\u201d Ambellas continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1350,
+      "end_ix": 1480,
+      "text": "\n\u201cBy 10:14 much larger crowds of people can be seen streaming through the area to escape the massacre going on,\u201d Carlson reported.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1480,
+      "end_ix": 1768,
+      "text": "\n\u201cYou can see a large amount of wind and debris, apparently that is due to a helicopter hovering overhead.\u201d\nThe footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1768,
+      "end_ix": 1874,
+      "text": "\nAmbellas also reported on what his research indicates were documented helicopters in the air at the time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1874,
+      "end_ix": 2117,
+      "text": "\nA quick review of flight records during that time reveals that a squadron of EC-130 Eurocopters departed from Maverick Leasing LLC at 10:12 p.m., several of which appear to have overflown the parking lot where the victim and debris were seen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2117,
+      "end_ix": 2362,
+      "text": "\nHowever, the departure of the choppers and the fact that several of them overflew the parking lot does not explain all of the debris being kicked up from by a heavy downdraft, prop wash, possibly from a helicopter hovering in place much closer.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2362,
+      "end_ix": 2500,
+      "text": "\nIn fact, the downdraft appears to be constant from 10:13-10:16 p.m. and not intermittent as if several choppers had just passed overhead.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2500,
+      "end_ix": 2653,
+      "text": "\nAs I have reported in the past, multiple other videos taken on the night of the attack also seem to point to helicopters being used throughout the city.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2653,
+      "end_ix": 2870,
+      "text": "\n\u201cFootage has emerged that may show muzzle flashes coming from the helicopter in what looks to be evidence that a team was firing into the crowd from the air on that fateful night,\u201d read a report in The Daily Sheeple.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2870,
+      "end_ix": 3315,
+      "text": "\n\u201cDespite claims by some that these are \u201cstrobes\u201d it remains unlikely that this is the case, especially when you consider other footage of the helicopter taken on the night as well as research by a group of investigators who believe the first attack on October 1st was carried out from the air.\u201d\nIt is also important to keep in mind that there is footage of a still unidentified team loading up gear in a helicopter near the scene of the attack.",
+      "new_text": "\n\u201cDespite claims by some that these are \u201cstrobes\u201d it remains unlikely that this is the case, especially when you consider other footage of the helicopter taken on the night as well as research by a group of investigators who believe the first attack on October 1st was carried out from the air.\u201d\nIt is also important to keep in mind that there is footage of a still unidentified team loading up gear in a helicopter near the scene of the attack.",
+      "prop_spans": [
+        [
+          2911,
+          2939,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3315,
+      "end_ix": 3723,
+      "text": "\n\u201cIn what can only be described as a \u201cWTF video\u201d the following footage seems to literally show a team of unknown soldiers gearing up next to a helicopter near the Route 91 concert.\u201d\nAdditionally, Carlson also noted during the initial broadcast of the private surveillance footage that the owner of the camera was never approached by the FBI, who have so far never seen the footage, much less investigated it.",
+      "new_text": "\n\u201cIn what can only be described as a \u201cWTF video\u201d the following footage seems to literally show a team of unknown soldiers gearing up next to a helicopter near the Route 91 concert.\u201d\nAdditionally, Carlson also noted during the initial broadcast of the private surveillance footage that the owner of the camera was never approached by the FBI, who have so far never seen the footage, much less investigated it.",
+      "prop_spans": [
+        [
+          3353,
+          3363,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3723,
+      "end_ix": 3967,
+      "text": "\nWhile we may never know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven, time and time again, to be absolutely false and in fact nothing more than a pathetic attempt at a cover-up.",
+      "new_text": "\nWhile we do not know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven to be false and in fact nothing more than an attempt at a cover-up.",
+      "prop_spans": [
+        [
+          3724,
+          3747,
+          "Doubt"
+        ],
+        [
+          3802,
+          3967,
+          "Doubt"
+        ],
+        [
+          3934,
+          3952,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      992,
+      1002,
+      "Doubt"
+    ],
+    [
+      2911,
+      2939,
+      "Doubt"
+    ],
+    [
+      3353,
+      3363,
+      "Loaded_Language"
+    ],
+    [
+      3724,
+      3747,
+      "Doubt"
+    ],
+    [
+      3802,
+      3968,
+      "Doubt"
+    ],
+    [
+      3934,
+      3952,
+      "Loaded_Language"
+    ]
+  ]
+}

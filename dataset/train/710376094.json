@@ -1,0 +1,168 @@
+{
+  "article_id": "710376094",
+  "sentence offsets in original": [
+    0,
+    204,
+    337,
+    555,
+    711,
+    769,
+    941,
+    1119,
+    1259,
+    1330,
+    1440,
+    1562,
+    1659,
+    1780,
+    1882
+  ],
+  "original sentences": [
+    "Asteroid Will Skim By Earth Days Before Christmas: It Is \u2018Potentially Hazardous\u2019\n\nAn asteroid called 3200 Phaethon will skim past the Earth just days before many will celebrate with Christmas festivities.",
+    "\nThe three-mile-wide asteroid is expected to miss the Earth, but it\u2019s still labeled as \u201cpotentially hazardous,\u201d and for good reasons.",
+    "\nWith a diameter of about 3 miles, the asteroid named 3200 Phaethon (after the Greek demi-god who, according to legend, nearly set the Earth on fire) is classified as \u201cpotentially hazardous\u201d by the Minor Planet Center.",
+    "\nThe asteroid will pass within 6.5 million miles of the Earth, which is relatively close in space terms, but still around 27 times the distance of the moon.",
+    "\nMuch closer flybys have occurred in the very recent past.",
+    "\nScientists at NASA\u2019s Jet Propulsion Laboratory are planning to use the opportunity to obtain a detailed 3D model of the asteroid, which has a particularly irregular shape.",
+    "\nFirst detected in December 2007, 3200 Phaethon is widely thought to be the parent body for the Geminid meteor shower, which is due to peak this year on the night of December 13.",
+    "\nThis would make the Geminids one of only two major meteor showers not originating from a comet; the other being the Quadrantids in January.",
+    "\nThe main difference between asteroids and comets is their composition.",
+    "\nAsteroids are made up of metals and rocky material, while comets are made up of ice, dust and rocky material.",
+    "\nComets which approach the Sun lose material with each orbit because some of their ice melts and vaporizes to form a tail.",
+    "\nBut the real question is will anyone be able to see the asteroid\u2019s close approach to our planet.",
+    "\nAccording to NASA, 3200 Phaethon will be visible in small telescopes for experienced observers in areas with dark skies.",
+    "\nIt is potentially detectable for three weeks but will be at its brightest between December 11 and 21.",
+    "\nIf you don\u2019t see the asteroid itself, be sure to look out for the Geminid meteor shower, which is set to provide a spectacular show over the course of 10 nights in December, with as many as 100 shooting stars every hour."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 204,
+      "text": "Asteroid Will Skim By Earth Days Before Christmas: It Is \u2018Potentially Hazardous\u2019\n\nAn asteroid called 3200 Phaethon will skim past the Earth just days before many will celebrate with Christmas festivities.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 204,
+      "end_ix": 337,
+      "text": "\nThe three-mile-wide asteroid is expected to miss the Earth, but it\u2019s still labeled as \u201cpotentially hazardous,\u201d and for good reasons.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 337,
+      "end_ix": 555,
+      "text": "\nWith a diameter of about 3 miles, the asteroid named 3200 Phaethon (after the Greek demi-god who, according to legend, nearly set the Earth on fire) is classified as \u201cpotentially hazardous\u201d by the Minor Planet Center.",
+      "new_text": "\nWith a diameter of about 3 miles, the asteroid named 3200 Phaethon (after the Greek demi-god who, according to legend, nearly set the Earth on fire) is classified as \u201cpotentially hazardous\u201d by the Minor Planet Center.",
+      "prop_spans": [
+        [
+          505,
+          526,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 555,
+      "end_ix": 711,
+      "text": "\nThe asteroid will pass within 6.5 million miles of the Earth, which is relatively close in space terms, but still around 27 times the distance of the moon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 711,
+      "end_ix": 769,
+      "text": "\nMuch closer flybys have occurred in the very recent past.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 769,
+      "end_ix": 941,
+      "text": "\nScientists at NASA\u2019s Jet Propulsion Laboratory are planning to use the opportunity to obtain a detailed 3D model of the asteroid, which has a particularly irregular shape.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 941,
+      "end_ix": 1119,
+      "text": "\nFirst detected in December 2007, 3200 Phaethon is widely thought to be the parent body for the Geminid meteor shower, which is due to peak this year on the night of December 13.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1119,
+      "end_ix": 1259,
+      "text": "\nThis would make the Geminids one of only two major meteor showers not originating from a comet; the other being the Quadrantids in January.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1259,
+      "end_ix": 1330,
+      "text": "\nThe main difference between asteroids and comets is their composition.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1330,
+      "end_ix": 1440,
+      "text": "\nAsteroids are made up of metals and rocky material, while comets are made up of ice, dust and rocky material.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1440,
+      "end_ix": 1562,
+      "text": "\nComets which approach the Sun lose material with each orbit because some of their ice melts and vaporizes to form a tail.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1562,
+      "end_ix": 1659,
+      "text": "\nBut the real question is will anyone be able to see the asteroid\u2019s close approach to our planet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1659,
+      "end_ix": 1780,
+      "text": "\nAccording to NASA, 3200 Phaethon will be visible in small telescopes for experienced observers in areas with dark skies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1780,
+      "end_ix": 1882,
+      "text": "\nIt is potentially detectable for three weeks but will be at its brightest between December 11 and 21.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1882,
+      "end_ix": 2103,
+      "text": "\nIf you don\u2019t see the asteroid itself, be sure to look out for the Geminid meteor shower, which is set to provide a spectacular show over the course of 10 nights in December, with as many as 100 shooting stars every hour.",
+      "new_text": "\nIf you don\u2019t see the asteroid itself, be sure to look out for the Geminid meteor shower, which is set to provide a show over the course of 10 nights in December, with as many as 100 shooting stars every hour.",
+      "prop_spans": [
+        [
+          1996,
+          2015,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      505,
+      526,
+      "Repetition"
+    ],
+    [
+      1996,
+      2015,
+      "Loaded_Language"
+    ]
+  ]
+}

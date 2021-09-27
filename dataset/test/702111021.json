@@ -1,0 +1,336 @@
+{
+  "article_id": "702111021",
+  "sentence offsets in original": [
+    0,
+    28,
+    72,
+    310,
+    564,
+    875,
+    1104,
+    1156,
+    1367,
+    1453,
+    1559,
+    1760,
+    1867,
+    2393,
+    2592,
+    2836,
+    2978,
+    3076,
+    3117,
+    3163,
+    3993,
+    4139
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nKritarch Patti Saris is in the news again.",
+    "\nShe is one of many Federal District Court Judges who want to run immigration policy, despite the fact that the Constitution gives authority over immigration to Congress, and Congress has allocated considerable authority to the President.",
+    "\nThis writer exposed her attempted violation of the Constitution after she initially stopped the deportation of a number of Indonesians back to Indonesia as she saw it unjust and decided to substitute her moral judgment for the laws of the United States.",
+    "\nKritarch Patti Saris\nFederal courts do not have direct authority over immigration matters, which are handled by the Executive Office for Immigration Review, but Chief Judge Patti Saris of the US District Court in Boston wrote in a court filing on Wednesday that she has a say over the terms of his confinement.",
+    "\nUS Judge Rejects Bid to Dismiss Indonesian Immigrant's Lawsuit, Jakarta Globe/Reuters, October 25, 2017\n\"The district court holds jurisdiction to review habeas [corpus] challenges to unlawful immigration detention,\" Saris wrote.",
+    "\nWrits of habeas corpus challenge illegal detention.",
+    "\nAt a Friday hearing, Saris expressed concern that ICE had broken its word with Rombot after telling him in 2015 that he would \"be given an opportunity to prepare for an orderly departure\" before being deported.",
+    "\nShe also expressed concern he was being held alongside potentially violent criminals.",
+    "\nHer problem though was that the law and precedent are on the side of the continued deportation of aliens.",
+    "\nKritarch Saris has apparently seen the SCOTUS writing on the wall, and perhaps had an attack of her legal conscience and decided that she will acquiesce on the major issue, but fight on a minor issue.",
+    "\nCommonly this the pattern of Judges who don't want to be overruled as frequently as 9th Circuit Judges do.",
+    "\nSaris has apparently decided to bend to the inevitable in the case of Indonesians, who had years of hearings and appeals, all to naught, but do a little sabotage instead.However, she will not let it go quietly into the night.What we have here is that Saris realized she has no authority over the deportation of illegal aliens, but she will do her best to throw a wrench in the works by attempting to get illegal aliens released from custody, so they can then disappear into the United States and consequently not be deported.",
+    "\n(a) Arrest, detention, and release On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States.",
+    "\nExcept as provided in subsection (c) and pending such decision, the Attorney General\u2014(1) may continue to detain the arrested alien\nOne of the immigrants, Terry Helmuth Rombot, has been in federal custody since appearing for an August check-in.",
+    "\nLawyers submitted a letter to him from ICE saying that as part of the 2010 deal he would be allowed to leave the country in an \u201corderly\u201d way.",
+    "\n\u201cICE decided that the most orderly way for him to depart was for us to remove him,\u201d Stevens said.",
+    "\nSaris expressed a dim view of that move.",
+    "\n\u201cThe government broke a promise,\u201d Saris said.",
+    "\n\u201cThat\u2019s the thing I\u2018m concerned about here.\u201d U.S. Judge Wrestles With Issue Of Indonesian Immigrants, by Scott Malone, Reuters, October 20, 2017\nHowever, the law is quite clear, the United States has the authority to detain illegal aliens; T itle 8 of the United States Code, Section 1226, Arrest And Detention Of Aliens , gives such authority to the Executive Branch.And despite her realization that she has no authority over immigration policy, or that she will just be overruled, Saris again reaches, basing her assumption of authority over immigration based on the past Obama Regime Administrative Amnesty , when illegal aliens weren't deported.Kritarch Saris is in the wrong on both counts; she has neither authority over the detention of illegal aliens nor any authority to continue the Obama Regime Administrative Amnesty.",
+    "\nShe is like Derrick Kahala Watson , a treasonous kritarch, unwilling to submit her hunger for power and ideology to the Constitution and the law.",
+    "\nImpeachment for her and Watson is the solution."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 72,
+      "text": "\n\nKritarch Patti Saris is in the news again.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 72,
+      "end_ix": 310,
+      "text": "\nShe is one of many Federal District Court Judges who want to run immigration policy, despite the fact that the Constitution gives authority over immigration to Congress, and Congress has allocated considerable authority to the President.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 310,
+      "end_ix": 564,
+      "text": "\nThis writer exposed her attempted violation of the Constitution after she initially stopped the deportation of a number of Indonesians back to Indonesia as she saw it unjust and decided to substitute her moral judgment for the laws of the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 564,
+      "end_ix": 875,
+      "text": "\nKritarch Patti Saris\nFederal courts do not have direct authority over immigration matters, which are handled by the Executive Office for Immigration Review, but Chief Judge Patti Saris of the US District Court in Boston wrote in a court filing on Wednesday that she has a say over the terms of his confinement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 875,
+      "end_ix": 1104,
+      "text": "\nUS Judge Rejects Bid to Dismiss Indonesian Immigrant's Lawsuit, Jakarta Globe/Reuters, October 25, 2017\n\"The district court holds jurisdiction to review habeas [corpus] challenges to unlawful immigration detention,\" Saris wrote.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1104,
+      "end_ix": 1156,
+      "text": "\nWrits of habeas corpus challenge illegal detention.",
+      "new_text": "\nWrits of habeas corpus challenge illegal detention.",
+      "prop_spans": [
+        [
+          1114,
+          1127,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1156,
+      "end_ix": 1367,
+      "text": "\nAt a Friday hearing, Saris expressed concern that ICE had broken its word with Rombot after telling him in 2015 that he would \"be given an opportunity to prepare for an orderly departure\" before being deported.",
+      "new_text": "\nAt a Friday hearing, Saris expressed concern that ICE had broken its word with Rombot after telling him in 2015 that he would \"be given an opportunity to prepare for an orderly departure\" before being deported.",
+      "prop_spans": [
+        [
+          1284,
+          1344,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1367,
+      "end_ix": 1453,
+      "text": "\nShe also expressed concern he was being held alongside potentially violent criminals.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1453,
+      "end_ix": 1559,
+      "text": "\nHer problem though was that the law and precedent are on the side of the continued deportation of aliens.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1559,
+      "end_ix": 1760,
+      "text": "\nKritarch Saris has apparently seen the SCOTUS writing on the wall, and perhaps had an attack of her legal conscience and decided that she will acquiesce on the major issue, but fight on a minor issue.",
+      "new_text": "\nKritarch Saris has apparently seen the SCOTUS writing on the wall, and perhaps had an attack of her conscience and decided that she will acquiesce on the major issue, but fight on a minor issue.",
+      "prop_spans": [
+        [
+          1639,
+          1676,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1760,
+      "end_ix": 1867,
+      "text": "\nCommonly this the pattern of Judges who don't want to be overruled as frequently as 9th Circuit Judges do.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1867,
+      "end_ix": 2393,
+      "text": "\nSaris has apparently decided to bend to the inevitable in the case of Indonesians, who had years of hearings and appeals, all to naught, but do a little sabotage instead.However, she will not let it go quietly into the night.What we have here is that Saris realized she has no authority over the deportation of illegal aliens, but she will do her best to throw a wrench in the works by attempting to get illegal aliens released from custody, so they can then disappear into the United States and consequently not be deported.",
+      "new_text": "\nSaris has apparently decided to bend to the inevitable in the case of Indonesians, who had years of hearings and appeals, all to naught, but do a little sabotage instead.However, she will not let it go quietly into the night.What we have here is that Saris realized she has no authority over the deportation of immigrants, but she will do her best to throw a wrench in the works by attempting to get immigrants released from custody, so they can then disappear into the United States and consequently not be deported.",
+      "prop_spans": [
+        [
+          2047,
+          2093,
+          "Loaded_Language"
+        ],
+        [
+          2179,
+          2194,
+          "Repetition"
+        ],
+        [
+          2223,
+          2238,
+          "Loaded_Language"
+        ],
+        [
+          2272,
+          2286,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2393,
+      "end_ix": 2592,
+      "text": "\n(a) Arrest, detention, and release On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2592,
+      "end_ix": 2836,
+      "text": "\nExcept as provided in subsection (c) and pending such decision, the Attorney General\u2014(1) may continue to detain the arrested alien\nOne of the immigrants, Terry Helmuth Rombot, has been in federal custody since appearing for an August check-in.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2836,
+      "end_ix": 2978,
+      "text": "\nLawyers submitted a letter to him from ICE saying that as part of the 2010 deal he would be allowed to leave the country in an \u201corderly\u201d way.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2978,
+      "end_ix": 3076,
+      "text": "\n\u201cICE decided that the most orderly way for him to depart was for us to remove him,\u201d Stevens said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3076,
+      "end_ix": 3117,
+      "text": "\nSaris expressed a dim view of that move.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3117,
+      "end_ix": 3163,
+      "text": "\n\u201cThe government broke a promise,\u201d Saris said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3163,
+      "end_ix": 3993,
+      "text": "\n\u201cThat\u2019s the thing I\u2018m concerned about here.\u201d U.S. Judge Wrestles With Issue Of Indonesian Immigrants, by Scott Malone, Reuters, October 20, 2017\nHowever, the law is quite clear, the United States has the authority to detain illegal aliens; T itle 8 of the United States Code, Section 1226, Arrest And Detention Of Aliens , gives such authority to the Executive Branch.And despite her realization that she has no authority over immigration policy, or that she will just be overruled, Saris again reaches, basing her assumption of authority over immigration based on the past Obama Regime Administrative Amnesty , when illegal aliens weren't deported.Kritarch Saris is in the wrong on both counts; she has neither authority over the detention of illegal aliens nor any authority to continue the Obama Regime Administrative Amnesty.",
+      "new_text": "\n\u201cThat\u2019s the thing I\u2018m concerned about here.\u201d U.S. Judge Wrestles With Issue Of Indonesian Immigrants, by Scott Malone, Reuters, October 20, 2017\nHowever, the law is quite clear, the United States has the authority to detain immigrants; T itle 8 of the United States Code, Section 1226, Arrest And Detention Of Aliens , gives such authority to the Executive Branch.And despite her realization that she has no authority over immigration policy, or that she will just be overruled, Saris again reaches, basing her assumption of authority over immigration based on the past Obama Regime Administrative Amnesty , when illegal aliens weren't deported.Kritarch Saris is in the wrong on both counts; she has neither authority over the detention of immigrants nor any authority to continue the Obama Regime Administrative Amnesty.",
+      "prop_spans": [
+        [
+          3388,
+          3403,
+          "Repetition"
+        ],
+        [
+          3668,
+          3773,
+          "Appeal_to_Authority"
+        ],
+        [
+          3908,
+          3922,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3993,
+      "end_ix": 4139,
+      "text": "\nShe is like Derrick Kahala Watson , a treasonous kritarch, unwilling to submit her hunger for power and ideology to the Constitution and the law.",
+      "new_text": "\nShe is unwilling to submit her hunger for power and ideology to the Constitution and the law.",
+      "prop_spans": [
+        [
+          3994,
+          4052,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4139,
+      "end_ix": 4187,
+      "text": "\nImpeachment for her and Watson is the solution.",
+      "new_text": "\nImpeachment for her and Watson might be the solution.",
+      "prop_spans": [
+        [
+          4140,
+          4186,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1114,
+      1127,
+      "Repetition"
+    ],
+    [
+      1284,
+      1344,
+      "Obfuscation,Intentional_Vagueness,Confusion"
+    ],
+    [
+      1639,
+      1676,
+      "Loaded_Language"
+    ],
+    [
+      2047,
+      2093,
+      "Loaded_Language"
+    ],
+    [
+      2179,
+      2194,
+      "Repetition"
+    ],
+    [
+      2223,
+      2238,
+      "Loaded_Language"
+    ],
+    [
+      2272,
+      2286,
+      "Repetition"
+    ],
+    [
+      3388,
+      3403,
+      "Repetition"
+    ],
+    [
+      3668,
+      3773,
+      "Appeal_to_Authority"
+    ],
+    [
+      3908,
+      3922,
+      "Repetition"
+    ],
+    [
+      3994,
+      4052,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4140,
+      4186,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

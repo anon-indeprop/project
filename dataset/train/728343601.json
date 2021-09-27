@@ -1,0 +1,473 @@
+{
+  "article_id": "728343601",
+  "sentence offsets in original": [
+    0,
+    260,
+    406,
+    523,
+    597,
+    733,
+    772,
+    918,
+    1149,
+    1386,
+    1508,
+    1746,
+    1901,
+    2080,
+    2281,
+    2365,
+    2413,
+    2527,
+    2801,
+    2890,
+    2970,
+    3048,
+    3084,
+    3280,
+    3330,
+    3353,
+    3369,
+    3514,
+    3559,
+    3578,
+    3606,
+    3641,
+    3669,
+    4025,
+    4147,
+    4274,
+    4336,
+    4453,
+    4609,
+    4769,
+    4925
+  ],
+  "original sentences": [
+    "Chile 'cover-up' letter contradicts Pope\n\n\u00a9 EPA Pope Francis's trip to Chile and Peru was overshadowed by he row\nA victim of a paedophile priest in Chile has revealed he wrote to the Pope in 2015 about an alleged cover-up after Francis denied getting evidence.",
+    "\nJuan Carlos Cruz, a victim of cleric Fernando Karadima in the 1980s, accused fellow priest Juan Barros of witnessing the abuse and doing nothing.",
+    "\nThe Pope caused outrage after a visit to Chile last month by defending Bishop Barros, who was made a bishop in 2015.",
+    "\nThe Vatican refused to comment on the letter when approached by BBC News.",
+    "\nPope Francis has said in the past that dealing with abuse is vital for the Church's credibility and perpetrators must face \"sanctions\".",
+    "\nWhat allegations does the letter make?",
+    "\nMr Cruz sent the text of his letter (written in Spanish) to BBC News, showing it was addressed personally to Pope Francis and dated 3 March 2015.",
+    "\nThat was more than two weeks before the bishop's ordination in the south Chilean city of Osorno, an event dramatically disrupted by hundreds of protesters accusing Bishop Barros of covering up Karadima's sex attacks on young boys.",
+    "\nThe bishop has denied ever knowing about \"the serious abuses\" committed by Karadima, who was never prosecuted in Chile because so much time had passed but was convicted and sentenced by the Vatican to a lifetime of \"penance and prayer\".",
+    "\n\"Holy Father, I decided to write this letter to you because I'm tired of fighting, crying and suffering,\" Mr Cruz writes.",
+    "\n\u00a9 AFP Cardinal O'Malley (centre) accompanied the Pope in Latin America\n\"Our story is well known and there's no point reminding you of it, except to tell you of the horror of having experienced this abuse and how I wanted to kill myself.\"",
+    "\nIn his letter, he also attaches the full text of a previous letter written a month earlier to the Vatican's top diplomat in Chile, Archbishop Ivo Scapolo.",
+    "\nIn that letter, Mr Cruz accuses Bishop Barros of \"doing all the dirty work of Fernando Karadima\", and describes the abuse he suffered and which Bishop Barros allegedly witnessed.",
+    "\n\"When we were in a room with Karadima and Juan Barros, if he [Barros] wasn't kissing Karadima, he watched as one of us, the youngest, was touched by Karadima and forced to give him kisses,\" he writes.",
+    "\n\"Karadima would say to me: 'Put your mouth next to mine and stick out your tongue.'",
+    "\nHe'd stick out his and kiss us with his tongue.",
+    "\nJuan Barros witnessed all of this on countless occasions, not just in my case but in the case of others as well.\"",
+    "\nAddressing himself to Pope Francis, Mr Cruz says: \"Holy Father, Juan Barros says he saw nothing and yet, there are dozens of us who can testify to the fact that not only was he present when Karadima abused us, but that he, too, kissed Karadima and they touched each other.\"",
+    "\nHe concludes the letter with this appeal: \"Please Holy Father, don't be like the others.",
+    "\nThere are so many of us who despite everything think that you can do something.",
+    "\nI treasure my faith, it's what sustains me, but it is slipping away from me.\"",
+    "\nHasn't the Pope already apologised?",
+    "\n\u00a9 AFP Karadima was only punished by the Vatican\nThe remarks that the Pope had made in January that caused such offence were: \"The day they bring me proof against Bishop Barros, then I will speak.",
+    "\nThere is not a single piece of proof against him.",
+    "\nEverything is slander.",
+    "\nIs this clear?\"",
+    "\nThe Pope later apologised for hurting victims' feelings \"without meaning to\" but continued to insist there was \"no evidence\" against the bishop.",
+    "\n\"In Barros's case, it was studied,\" he said.",
+    "\n\"It was restudied.",
+    "\nAnd there is no evidence...",
+    "\nI don't have evidence to convict.\"",
+    "\nHow far did the letter get?",
+    "\n\u00a9 Reuters Bishop Barros (centre) was greeted by angry protesters at his ordination\nMembers of the Pope's own Commission for the Protection of Minors, set up in 2014 as part of efforts to counter sex abuse by clergy, have told the Associated Press they hand-delivered the letter to Francis's top adviser on sex abuse, Cardinal Sean O'Malley, in April 2015.",
+    "\nA photo in the AP report shows Marie Collins, a member of the commission at the time, handing the letter to the cardinal.",
+    "\n\"When we gave him the letter for the Pope, he assured us he would give it to the Pope and speak of the concerns,\" she told AP.",
+    "\n\"And at a later date, he assured us that that had been done.\"",
+    "\nMr Cruz told the BBC that Cardinal O'Malley had called him later in 2015 to say he had given the letter to the Pope.",
+    "\nCardinal O'Malley, whose spokesman referred requests for comment to the Vatican, has earned respect for his work in tackling sex abuse by clergy in Boston.",
+    "\nCardinal O'Malley's disgraced predecessor, the late Cardinal Bernard Law, had moved paedophile priests between parishes rather than addressing victims' claims.",
+    "\nIn an unusual step, Cardinal O'Malley openly criticised the Pope last month for his initial remarks in Chile, saying he had left victims feeling abandoned.",
+    "\nPope Francis announced last week he was sending the Vatican's top expert on sexual abuse, Archbishop Charles Scicluna, to Chile to investigate the accusations against Bishop Barros."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 260,
+      "text": "Chile 'cover-up' letter contradicts Pope\n\n\u00a9 EPA Pope Francis's trip to Chile and Peru was overshadowed by he row\nA victim of a paedophile priest in Chile has revealed he wrote to the Pope in 2015 about an alleged cover-up after Francis denied getting evidence.",
+      "new_text": "Chile 'cover-up' letter contradicts Pope\n\n\u00a9 EPA Pope Francis's trip to Chile and Peru was overshadowed by he row\nA victim of a paedophile in Chile has revealed he wrote to the Pope in 2015 about an alleged cover-up after Francis denied getting evidence.",
+      "prop_spans": [
+        [
+          125,
+          144,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 260,
+      "end_ix": 406,
+      "text": "\nJuan Carlos Cruz, a victim of cleric Fernando Karadima in the 1980s, accused fellow priest Juan Barros of witnessing the abuse and doing nothing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 406,
+      "end_ix": 523,
+      "text": "\nThe Pope caused outrage after a visit to Chile last month by defending Bishop Barros, who was made a bishop in 2015.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 523,
+      "end_ix": 597,
+      "text": "\nThe Vatican refused to comment on the letter when approached by BBC News.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 597,
+      "end_ix": 733,
+      "text": "\nPope Francis has said in the past that dealing with abuse is vital for the Church's credibility and perpetrators must face \"sanctions\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 733,
+      "end_ix": 772,
+      "text": "\nWhat allegations does the letter make?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 772,
+      "end_ix": 918,
+      "text": "\nMr Cruz sent the text of his letter (written in Spanish) to BBC News, showing it was addressed personally to Pope Francis and dated 3 March 2015.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 918,
+      "end_ix": 1149,
+      "text": "\nThat was more than two weeks before the bishop's ordination in the south Chilean city of Osorno, an event dramatically disrupted by hundreds of protesters accusing Bishop Barros of covering up Karadima's sex attacks on young boys.",
+      "new_text": "\nThat was more than two weeks before the bishop's ordination in the south Chilean city of Osorno, an event disrupted by hundreds of protesters accusing Bishop Barros of covering up Karadima's sex attacks on young boys.",
+      "prop_spans": [
+        [
+          1025,
+          1047,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1149,
+      "end_ix": 1386,
+      "text": "\nThe bishop has denied ever knowing about \"the serious abuses\" committed by Karadima, who was never prosecuted in Chile because so much time had passed but was convicted and sentenced by the Vatican to a lifetime of \"penance and prayer\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1386,
+      "end_ix": 1508,
+      "text": "\n\"Holy Father, I decided to write this letter to you because I'm tired of fighting, crying and suffering,\" Mr Cruz writes.",
+      "new_text": "\n\"Holy Father, I decided to write this letter to you because I'm tired of fighting, crying and suffering,\" Mr Cruz writes.",
+      "prop_spans": [
+        [
+          1451,
+          1492,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1508,
+      "end_ix": 1746,
+      "text": "\n\u00a9 AFP Cardinal O'Malley (centre) accompanied the Pope in Latin America\n\"Our story is well known and there's no point reminding you of it, except to tell you of the horror of having experienced this abuse and how I wanted to kill myself.\"",
+      "new_text": "\n\u00a9 AFP Cardinal O'Malley (centre) accompanied the Pope in Latin America\n\"Our story is well known and there's no point reminding you of it, except to tell you of the horror of having experienced this abuse and how I wanted to kill myself.\"",
+      "prop_spans": [
+        [
+          1673,
+          1744,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1746,
+      "end_ix": 1901,
+      "text": "\nIn his letter, he also attaches the full text of a previous letter written a month earlier to the Vatican's top diplomat in Chile, Archbishop Ivo Scapolo.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1901,
+      "end_ix": 2080,
+      "text": "\nIn that letter, Mr Cruz accuses Bishop Barros of \"doing all the dirty work of Fernando Karadima\", and describes the abuse he suffered and which Bishop Barros allegedly witnessed.",
+      "new_text": "\nIn that letter, Mr Cruz accuses Bishop Barros of \"doing all the dirty work of Fernando Karadima\", and describes the abuse he suffered and which Bishop Barros allegedly witnessed.",
+      "prop_spans": [
+        [
+          1952,
+          1976,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2080,
+      "end_ix": 2281,
+      "text": "\n\"When we were in a room with Karadima and Juan Barros, if he [Barros] wasn't kissing Karadima, he watched as one of us, the youngest, was touched by Karadima and forced to give him kisses,\" he writes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2281,
+      "end_ix": 2365,
+      "text": "\n\"Karadima would say to me: 'Put your mouth next to mine and stick out your tongue.'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2365,
+      "end_ix": 2413,
+      "text": "\nHe'd stick out his and kiss us with his tongue.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2413,
+      "end_ix": 2527,
+      "text": "\nJuan Barros witnessed all of this on countless occasions, not just in my case but in the case of others as well.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2527,
+      "end_ix": 2801,
+      "text": "\nAddressing himself to Pope Francis, Mr Cruz says: \"Holy Father, Juan Barros says he saw nothing and yet, there are dozens of us who can testify to the fact that not only was he present when Karadima abused us, but that he, too, kissed Karadima and they touched each other.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2801,
+      "end_ix": 2890,
+      "text": "\nHe concludes the letter with this appeal: \"Please Holy Father, don't be like the others.",
+      "new_text": "\nHe concludes the letter with this appeal: \"Please Holy Father, don't be like the others.",
+      "prop_spans": [
+        [
+          2865,
+          2890,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2890,
+      "end_ix": 2970,
+      "text": "\nThere are so many of us who despite everything think that you can do something.",
+      "new_text": "\nThere are so many of us who despite everything think that you can do something.",
+      "prop_spans": [
+        [
+          2890,
+          2890,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2970,
+      "end_ix": 3048,
+      "text": "\nI treasure my faith, it's what sustains me, but it is slipping away from me.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3048,
+      "end_ix": 3084,
+      "text": "\nHasn't the Pope already apologised?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3084,
+      "end_ix": 3280,
+      "text": "\n\u00a9 AFP Karadima was only punished by the Vatican\nThe remarks that the Pope had made in January that caused such offence were: \"The day they bring me proof against Bishop Barros, then I will speak.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3280,
+      "end_ix": 3330,
+      "text": "\nThere is not a single piece of proof against him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3330,
+      "end_ix": 3353,
+      "text": "\nEverything is slander.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3353,
+      "end_ix": 3369,
+      "text": "\nIs this clear?\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3369,
+      "end_ix": 3514,
+      "text": "\nThe Pope later apologised for hurting victims' feelings \"without meaning to\" but continued to insist there was \"no evidence\" against the bishop.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3514,
+      "end_ix": 3559,
+      "text": "\n\"In Barros's case, it was studied,\" he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3559,
+      "end_ix": 3578,
+      "text": "\n\"It was restudied.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3578,
+      "end_ix": 3606,
+      "text": "\nAnd there is no evidence...",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3606,
+      "end_ix": 3641,
+      "text": "\nI don't have evidence to convict.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3641,
+      "end_ix": 3669,
+      "text": "\nHow far did the letter get?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3669,
+      "end_ix": 4025,
+      "text": "\n\u00a9 Reuters Bishop Barros (centre) was greeted by angry protesters at his ordination\nMembers of the Pope's own Commission for the Protection of Minors, set up in 2014 as part of efforts to counter sex abuse by clergy, have told the Associated Press they hand-delivered the letter to Francis's top adviser on sex abuse, Cardinal Sean O'Malley, in April 2015.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4025,
+      "end_ix": 4147,
+      "text": "\nA photo in the AP report shows Marie Collins, a member of the commission at the time, handing the letter to the cardinal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4147,
+      "end_ix": 4274,
+      "text": "\n\"When we gave him the letter for the Pope, he assured us he would give it to the Pope and speak of the concerns,\" she told AP.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4274,
+      "end_ix": 4336,
+      "text": "\n\"And at a later date, he assured us that that had been done.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4336,
+      "end_ix": 4453,
+      "text": "\nMr Cruz told the BBC that Cardinal O'Malley had called him later in 2015 to say he had given the letter to the Pope.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4453,
+      "end_ix": 4609,
+      "text": "\nCardinal O'Malley, whose spokesman referred requests for comment to the Vatican, has earned respect for his work in tackling sex abuse by clergy in Boston.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4609,
+      "end_ix": 4769,
+      "text": "\nCardinal O'Malley's disgraced predecessor, the late Cardinal Bernard Law, had moved paedophile priests between parishes rather than addressing victims' claims.",
+      "new_text": "\nCardinal O'Malley's dpredecessor, the late Cardinal Bernard Law, had moved paedophiles between parishes rather than addressing victims' claims.",
+      "prop_spans": [
+        [
+          4630,
+          4652,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4694,
+          4712,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4769,
+      "end_ix": 4925,
+      "text": "\nIn an unusual step, Cardinal O'Malley openly criticised the Pope last month for his initial remarks in Chile, saying he had left victims feeling abandoned.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4925,
+      "end_ix": 5107,
+      "text": "\nPope Francis announced last week he was sending the Vatican's top expert on sexual abuse, Archbishop Charles Scicluna, to Chile to investigate the accusations against Bishop Barros.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      125,
+      144,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1025,
+      1047,
+      "Loaded_Language"
+    ],
+    [
+      1451,
+      1492,
+      "Loaded_Language"
+    ],
+    [
+      1673,
+      1744,
+      "Loaded_Language"
+    ],
+    [
+      1952,
+      1976,
+      "Loaded_Language"
+    ],
+    [
+      2865,
+      2890,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      4630,
+      4652,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4694,
+      4712,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

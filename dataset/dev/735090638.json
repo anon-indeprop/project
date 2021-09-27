@@ -1,0 +1,265 @@
+{
+  "article_id": "735090638",
+  "sentence offsets in original": [
+    0,
+    238,
+    453,
+    619,
+    808,
+    1362,
+    1398,
+    1607,
+    1868,
+    2105,
+    2287,
+    2466,
+    2485,
+    2533
+  ],
+  "original sentences": [
+    "DOJ May Hit #Resistance Mayor Who Warned Illegal Criminals w/Obstruction of Justice\n\nICE had already called out Oakland's radical leftist boss for helping criminals and endangering ICE personnel by tipping them off that a raid was coming.",
+    "\nHer actions were quite clearly illegal, though she claimed that she had cleared her actions with lawyers beforehand, And now, a member of the #Resistance may actually end up fighting obstruction of justice charges.",
+    "\nThomas Homan, the acting director of ICE, slammed Mayor Schaaf, who on Saturday night released an unprecedented warning that ICE was about to begin arresting people.",
+    "\nSchaaf said she issued the alert after receiving confidential tips from \u201ccredible sources,\u201d and conferring with attorneys to make sure she wasn\u2019t opening herself up to federal prosecution.",
+    "\nThe mayor\u2019s move endangered ICE officers and alerted their targets, Homan asserted, \u201cmaking clear that this reckless decision was based on her political agenda.\u201d He said 864 \u201ccriminal aliens and public safety threats remain at large in the community, and I have to believe that some of them were able to elude us thanks to the mayor\u2019s irresponsible decision.\u201d Fox News, which was given a ride-along with ICE officers during the operation, reported that agency officials were asking the Department of Justice to investigate whether Schaaf broke any laws.",
+    "\nNow the DOJ is looking into Schaaf.",
+    "\nThe Department of Justice is looking into whether Oakland Mayor Libby Schaaf obstructed justice by warning Northern California residents of an impending raid by U.S. Immigration and Customs Enforcement (ICE).",
+    "\nThe agency\u2019s acting director, Thomas Homan, told \u201cFox & Friends\u201d Wednesday morning that the DOJ is \u201creviewing\u201d whether Schaaf broke any laws by telling her constituents ICE would be raiding the area in order to arrest people violating federal immigration laws.",
+    "\nSchaaf, a Democrat, posted the warning to Twitter Saturday, writing that \u201cmultiple credible sources\u201d told her the immigration agency was \u201cpreparing to conduct an operation in the Bay Area, including Oakland, starting as soon as\u201d Sunday.",
+    "\n\u201cWhat she did is no better than a gang lookout yelling \u2018police\u2019 when a police cruiser comes in the neighborhood, except she did it to a whole community,\u201d Homan told \"Fox & Friends.\"",
+    "\n\"There's over 800 significant public safety threat criminals ... that we are unable to locate because of that warning, so that community's a lot less safe than it would've been.\"",
+    "\nThat's exactly it.",
+    "\nAnd Dems have become honorary members of MS-13.",
+    "\nAnd those who collaborate with illegal alien gang members should face the consequences."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 238,
+      "text": "DOJ May Hit #Resistance Mayor Who Warned Illegal Criminals w/Obstruction of Justice\n\nICE had already called out Oakland's radical leftist boss for helping criminals and endangering ICE personnel by tipping them off that a raid was coming.",
+      "new_text": "DOJ May Hit #Resistance Mayor Who Warned Illegal Criminals w/Obstruction of Justice\n\nICE had already called out Oakland's boss for helping criminals and endangering ICE personnel by tipping them off that a raid was coming.",
+      "prop_spans": [
+        [
+          122,
+          142,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 238,
+      "end_ix": 453,
+      "text": "\nHer actions were quite clearly illegal, though she claimed that she had cleared her actions with lawyers beforehand, And now, a member of the #Resistance may actually end up fighting obstruction of justice charges.",
+      "new_text": "\nHer actions were illegal, though she claimed that she had cleared her actions with lawyers beforehand, And now, a member of the #Resistance may actually end up fighting obstruction of justice charges.",
+      "prop_spans": [
+        [
+          256,
+          269,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 453,
+      "end_ix": 619,
+      "text": "\nThomas Homan, the acting director of ICE, slammed Mayor Schaaf, who on Saturday night released an unprecedented warning that ICE was about to begin arresting people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 619,
+      "end_ix": 808,
+      "text": "\nSchaaf said she issued the alert after receiving confidential tips from \u201ccredible sources,\u201d and conferring with attorneys to make sure she wasn\u2019t opening herself up to federal prosecution.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 808,
+      "end_ix": 1362,
+      "text": "\nThe mayor\u2019s move endangered ICE officers and alerted their targets, Homan asserted, \u201cmaking clear that this reckless decision was based on her political agenda.\u201d He said 864 \u201ccriminal aliens and public safety threats remain at large in the community, and I have to believe that some of them were able to elude us thanks to the mayor\u2019s irresponsible decision.\u201d Fox News, which was given a ride-along with ICE officers during the operation, reported that agency officials were asking the Department of Justice to investigate whether Schaaf broke any laws.",
+      "new_text": "\nThe mayor\u2019s move endangered ICE officers and alerted their targets, Homan asserted, \u201cmaking clear that this reckless decision was based on her political agenda.\u201d He said 864 \u201ccriminal aliens and public safety threats remain at large in the community, and I have to believe that some of them were able to elude us thanks to the mayor\u2019s irresponsible decision.\u201d Fox News, which was given a ride-along with ICE officers during the operation, reported that agency officials were asking the Department of Justice to investigate whether Schaaf broke any laws.",
+      "prop_spans": [
+        [
+          893,
+          970,
+          "Appeal_to_Authority"
+        ],
+        [
+          912,
+          934,
+          "Loaded_Language"
+        ],
+        [
+          1087,
+          1168,
+          "Appeal_to_Authority"
+        ],
+        [
+          1144,
+          1166,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1362,
+      "end_ix": 1398,
+      "text": "\nNow the DOJ is looking into Schaaf.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1398,
+      "end_ix": 1607,
+      "text": "\nThe Department of Justice is looking into whether Oakland Mayor Libby Schaaf obstructed justice by warning Northern California residents of an impending raid by U.S. Immigration and Customs Enforcement (ICE).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1607,
+      "end_ix": 1868,
+      "text": "\nThe agency\u2019s acting director, Thomas Homan, told \u201cFox & Friends\u201d Wednesday morning that the DOJ is \u201creviewing\u201d whether Schaaf broke any laws by telling her constituents ICE would be raiding the area in order to arrest people violating federal immigration laws.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1868,
+      "end_ix": 2105,
+      "text": "\nSchaaf, a Democrat, posted the warning to Twitter Saturday, writing that \u201cmultiple credible sources\u201d told her the immigration agency was \u201cpreparing to conduct an operation in the Bay Area, including Oakland, starting as soon as\u201d Sunday.",
+      "new_text": "\nSchaaf, posted the warning to Twitter Saturday, writing that \u201cmultiple credible sources\u201d told her the immigration agency was \u201cpreparing to conduct an operation in the Bay Area, including Oakland, starting as soon as\u201d Sunday.",
+      "prop_spans": [
+        [
+          1877,
+          1888,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2105,
+      "end_ix": 2287,
+      "text": "\n\u201cWhat she did is no better than a gang lookout yelling \u2018police\u2019 when a police cruiser comes in the neighborhood, except she did it to a whole community,\u201d Homan told \"Fox & Friends.\"",
+      "new_text": "\n\u201cWhat she did is no better than a gang lookout yelling \u2018police\u2019 when a police cruiser comes in the neighborhood, except she did it to a whole community,\u201d Homan told \"Fox & Friends.\"",
+      "prop_spans": [
+        [
+          2138,
+          2169,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2287,
+      "end_ix": 2466,
+      "text": "\n\"There's over 800 significant public safety threat criminals ... that we are unable to locate because of that warning, so that community's a lot less safe than it would've been.\"",
+      "new_text": "\n\"There's over 800 significant public safety threat criminals ... that we are unable to locate because of that warning, so that community's a lot less safe than it would've been.\"",
+      "prop_spans": [
+        [
+          2415,
+          2466,
+          "Appeal_to_Authority"
+        ],
+        [
+          2415,
+          2466,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2466,
+      "end_ix": 2485,
+      "text": "\nThat's exactly it.",
+      "new_text": "\nThat's exactly it.",
+      "prop_spans": [
+        [
+          2466,
+          2466,
+          "Appeal_to_Authority"
+        ],
+        [
+          2466,
+          2466,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2485,
+      "end_ix": 2533,
+      "text": "\nAnd Dems have become honorary members of MS-13.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2486,
+          2532,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2533,
+      "end_ix": 2621,
+      "text": "\nAnd those who collaborate with illegal alien gang members should face the consequences.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      122,
+      142,
+      "Name_Calling,Labeling"
+    ],
+    [
+      256,
+      269,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      893,
+      970,
+      "Appeal_to_Authority"
+    ],
+    [
+      912,
+      934,
+      "Loaded_Language"
+    ],
+    [
+      1087,
+      1168,
+      "Appeal_to_Authority"
+    ],
+    [
+      1144,
+      1166,
+      "Loaded_Language"
+    ],
+    [
+      1877,
+      1888,
+      "Red_Herring"
+    ],
+    [
+      2138,
+      2169,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2415,
+      2466,
+      "Appeal_to_Authority"
+    ],
+    [
+      2415,
+      2466,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2486,
+      2532,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

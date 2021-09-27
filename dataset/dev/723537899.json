@@ -1,0 +1,603 @@
+{
+  "article_id": "723537899",
+  "sentence offsets in original": [
+    0,
+    28,
+    193,
+    376,
+    504,
+    672,
+    816,
+    937,
+    1067,
+    1184,
+    1391,
+    1436,
+    1628,
+    1688,
+    1752,
+    1933,
+    2125,
+    2227,
+    2301,
+    2342,
+    2473,
+    2686,
+    2924,
+    3075,
+    3124,
+    3327,
+    3515,
+    3776,
+    3887,
+    3961,
+    4027,
+    4086,
+    4186,
+    4343,
+    4464,
+    4585,
+    4691,
+    4828
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nThe war for dominance in the Middle East, following the crushing of ISIS, appears about to commence in Syria\u2014with NATO allies America and Turkey on opposing sides.",
+    "\nTurkey is moving armor and troops south to Syria's border enclave of Afrin, occupied by Kurds, to drive them out, and then drive the Syrian Kurds out of Manbij further south as well.",
+    "\nSays President Recep Tayyip Erdogan, \" We will destroy all terror nests, one by one, in Syria, starting from Afrin and Manbij.\"",
+    "\nFor Erdogan, the Kurdish YPG, the major U.S. ally in Syria, is an arm of the Kurdish PKK in Turkey, which we and the Turks have designated as a terrorist organization.",
+    "\nWhile the Kurds were our most effective allies against ISIS in Syria, Turkey views them as a mortal peril and intends to deal with that threat.",
+    "\nIf Erdogan is serious, a clash with the U.S. is coming, as our Kurdish allies occupy most of Syria's border with Turkey.",
+    "\nMoreover, the U.S. has announced plans to create a 30,000-man Border Security Force of Kurds and Arabs to keep ISIS out of Syria.",
+    "\nErdogan has branded this BSF a \"terror army,\" and President Bashar Assad of Syria has called BSF members \"traitors.\"",
+    "\nThis U.S. plan to create a BSF inside Syria, Damascus declared , \"represents a blatant attack on the sovereignty and territorial integrity and unity of Syria, and a flagrant violation of international law.\"",
+    "\nDoes not the Syrian government have a point?",
+    "\nNow that ISIS has been driven out of Raqqa and Syria, by what authority do U.S. forces remain to arm troops to keep the Damascus government from reimposing its authority on its own territory?",
+    "\nSecretary of State Tillerson gave Syria the news Wednesday.",
+    "\nThe U.S. troop commitment to Syria, he said, is now open-ended.",
+    "\nOur goals: Guarantee al-Qaida and ISIS do not return and set up sanctuary; cope with rising Iranian influence in Damascus; and pursue the removal of Bashar Assad's ruthless regime.",
+    "\nBut who authorized this strategic commitment, of indefinite duration, in Syria, when near two decades in Afghanistan have failed to secure that nation against the return of al-Qaida and ISIS?",
+    "\nAgain and again, the American people have said they do not want to be dragged into Syria's civil war.",
+    "\nDonald Trump won the presidency on a promise of no more unnecessary wars.",
+    "\nHave the American people been had again?",
+    "\nWill they support a clash with NATO ally Turkey, to keep armed Kurds on Turkey's border, when the Turks regard them as terrorists?",
+    "\nAre we prepared for a shooting war with a Syrian army, backed by Russia, Iran, Hezbollah and Shiite militias from Iraq, Afghanistan and Pakistan, to hold onto a fourth of Syria's territory in alliance with Kurds?",
+    "\nThe U.S. coalition in Syria said this week the BSF will be built up \"over the next several years\" and \"be stationed along the borders ... to include portions of the Euphrates river valley and international borders to the east and north.\"",
+    "\nRemarkable: A U.S.-created border army is going to occupy and control long stretches of Syria's borders with Turkey and Iraq, over Syria's objections.",
+    "\nAnd the U.S. military will stand behind the BSF.",
+    "\nAre the 2,000 U.S. troops in Syria really up to that task, should the Turks decide to cleanse the Syrian border of Kurds, or should the Syrian regime decide to take back territory occupied by the Kurds?",
+    "\nWho sanctioned this commitment to a new army, which, if Syria and its Russian and Iranian allies, and the Turks, do not all back down, risks a major U.S. war with no allies but the Kurds?",
+    "\nAs for Syria's Kurds casting their lot with the Americans, one wonders: Did they not observe what happened when their Iraqi cousins, after helping us drive ISIS out of Mosul, were themselves driven out of Kirkuk by the Iraqi army, as their U.S. allies watched?",
+    "\nIn the six-year Syrian civil war, which may be about to enter a new phase, America faces a familiar situation.",
+    "\nWhile our \"allies\" and adversaries have vital interests there, we do not.",
+    "\nThe Assads have been in power for the lifetime of most Americans.",
+    "\nAnd we Americans have never shown a desire to fight there.",
+    "\nAssad has a vital interest: preservation of his family regime and the reunification of his country.",
+    "\nThe Turks have a vital interest in keeping armed Kurds out of their border regions adjacent to their own Kurdish minority, which seeks greater independence.",
+    "\nThe Israelis and Saudi royals want the U.S. to keep Iran from securing a land bridge from Tehran to Damascus to Lebanon.",
+    "\nThe U.S. War Party wants us to smash Iran and remain in the Middle East forever to assure the hegemony of its favorites.",
+    "\nHave the generals taking us into Syria told the president how and when, if ever, they plan to get us out?",
+    "\nCOPYRIGHT 2018 CREATORS.COM\nPatrick J. Buchanan needs no introduction to VDARE.COM readers; his books\nand\nare available from Amazon.com.",
+    "\nPatrick J. Buchanan is the author of\nHis latest book, published May 9, is"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 193,
+      "text": "\n\nThe war for dominance in the Middle East, following the crushing of ISIS, appears about to commence in Syria\u2014with NATO allies America and Turkey on opposing sides.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 193,
+      "end_ix": 376,
+      "text": "\nTurkey is moving armor and troops south to Syria's border enclave of Afrin, occupied by Kurds, to drive them out, and then drive the Syrian Kurds out of Manbij further south as well.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 376,
+      "end_ix": 504,
+      "text": "\nSays President Recep Tayyip Erdogan, \" We will destroy all terror nests, one by one, in Syria, starting from Afrin and Manbij.\"",
+      "new_text": "\nSays President Recep Tayyip Erdogan, \" We will destroy all these, one by one, in Syria, starting from Afrin and Manbij.\"",
+      "prop_spans": [
+        [
+          436,
+          449,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 504,
+      "end_ix": 672,
+      "text": "\nFor Erdogan, the Kurdish YPG, the major U.S. ally in Syria, is an arm of the Kurdish PKK in Turkey, which we and the Turks have designated as a terrorist organization.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 672,
+      "end_ix": 816,
+      "text": "\nWhile the Kurds were our most effective allies against ISIS in Syria, Turkey views them as a mortal peril and intends to deal with that threat.",
+      "new_text": "\nWhile the Kurds were our most effective allies against ISIS in Syria, Turkey views them as an enemy and intends to deal with that threat.",
+      "prop_spans": [
+        [
+          766,
+          779,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 816,
+      "end_ix": 937,
+      "text": "\nIf Erdogan is serious, a clash with the U.S. is coming, as our Kurdish allies occupy most of Syria's border with Turkey.",
+      "new_text": "\nIf Erdogan is serious, a confrontation with the U.S. is probable, as our Kurdish allies occupy most of Syria's border with Turkey.",
+      "prop_spans": [
+        [
+          817,
+          872,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 937,
+      "end_ix": 1067,
+      "text": "\nMoreover, the U.S. has announced plans to create a 30,000-man Border Security Force of Kurds and Arabs to keep ISIS out of Syria.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1067,
+      "end_ix": 1184,
+      "text": "\nErdogan has branded this BSF a \"terror army,\" and President Bashar Assad of Syria has called BSF members \"traitors.\"",
+      "new_text": "\nErdogan has branded this BSF a \"terror army,\" and President Bashar Assad of Syria has called BSF members \"traitors.\"",
+      "prop_spans": [
+        [
+          1100,
+          1113,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1174,
+          1184,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1184,
+      "end_ix": 1391,
+      "text": "\nThis U.S. plan to create a BSF inside Syria, Damascus declared , \"represents a blatant attack on the sovereignty and territorial integrity and unity of Syria, and a flagrant violation of international law.\"",
+      "new_text": "\nThis U.S. plan to create a BSF inside Syria, Damascus declared , \"represents an attack on the sovereignty, integrity and unity of Syria, and a violation of international law.\"",
+      "prop_spans": [
+        [
+          1184,
+          1185,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1264,
+          1323,
+          "Loaded_Language"
+        ],
+        [
+          1350,
+          1391,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1391,
+      "end_ix": 1436,
+      "text": "\nDoes not the Syrian government have a point?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1391,
+          1391,
+          "Loaded_Language"
+        ],
+        [
+          1392,
+          1436,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1436,
+      "end_ix": 1628,
+      "text": "\nNow that ISIS has been driven out of Raqqa and Syria, by what authority do U.S. forces remain to arm troops to keep the Damascus government from reimposing its authority on its own territory?",
+      "new_text": "\nNow that ISIS has been driven out of Raqqa and Syria, why U.S. remain to arm troops to keep the Damascus government from reimposing its authority on its territory?",
+      "prop_spans": [
+        [
+          1436,
+          1437,
+          "Doubt"
+        ],
+        [
+          1491,
+          1628,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1628,
+      "end_ix": 1688,
+      "text": "\nSecretary of State Tillerson gave Syria the news Wednesday.",
+      "new_text": "\nSecretary of State Tillerson gave Syria the news Wednesday.",
+      "prop_spans": [
+        [
+          1628,
+          1629,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1688,
+      "end_ix": 1752,
+      "text": "\nThe U.S. troop commitment to Syria, he said, is now open-ended.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1752,
+      "end_ix": 1933,
+      "text": "\nOur goals: Guarantee al-Qaida and ISIS do not return and set up sanctuary; cope with rising Iranian influence in Damascus; and pursue the removal of Bashar Assad's ruthless regime.",
+      "new_text": "\nOur goals: Guarantee al-Qaida and ISIS do not return and set up sanctuary; cope with rising Iranian influence in Damascus; and pursue the removal of Bashar Assad's regime.",
+      "prop_spans": [
+        [
+          1917,
+          1925,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1933,
+      "end_ix": 2125,
+      "text": "\nBut who authorized this strategic commitment, of indefinite duration, in Syria, when near two decades in Afghanistan have failed to secure that nation against the return of al-Qaida and ISIS?",
+      "new_text": "But who authorized this strategic commitment, of indefinite duration, in Syria, when near two decades in Afghanistan have failed to secure that nation against the return of al-Qaida and ISIS?",
+      "prop_spans": [
+        [
+          1934,
+          1979,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2125,
+      "end_ix": 2227,
+      "text": "\nAgain and again, the American people have said they do not want to be dragged into Syria's civil war.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2227,
+      "end_ix": 2301,
+      "text": "\nDonald Trump won the presidency on a promise of no more unnecessary wars.",
+      "new_text": "\nDonald Trump won the presidency on one of the promises of no more unnecessary wars.",
+      "prop_spans": [
+        [
+          2228,
+          2301,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2301,
+      "end_ix": 2342,
+      "text": "\nHave the American people been had again?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2301,
+          2302,
+          "Causal_Oversimplification"
+        ],
+        [
+          2302,
+          2342,
+          "Flag-Waving"
+        ],
+        [
+          2302,
+          2342,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2342,
+      "end_ix": 2473,
+      "text": "\nWill they support a clash with NATO ally Turkey, to keep armed Kurds on Turkey's border, when the Turks regard them as terrorists?",
+      "new_text": "\nWill they support a clash with NATO ally Turkey, to keep armed Kurds on Turkey's border, when the Turks regard them as terrorists?",
+      "prop_spans": [
+        [
+          2342,
+          2343,
+          "Flag-Waving"
+        ],
+        [
+          2342,
+          2343,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2473,
+      "end_ix": 2686,
+      "text": "\nAre we prepared for a shooting war with a Syrian army, backed by Russia, Iran, Hezbollah and Shiite militias from Iraq, Afghanistan and Pakistan, to hold onto a fourth of Syria's territory in alliance with Kurds?",
+      "new_text": "\nAre we prepared for a conflict with a Syrian army and its allies to hold onto a fourth of Syria's territory in alliance with Kurds?",
+      "prop_spans": [
+        [
+          2474,
+          2686,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2686,
+      "end_ix": 2924,
+      "text": "\nThe U.S. coalition in Syria said this week the BSF will be built up \"over the next several years\" and \"be stationed along the borders ... to include portions of the Euphrates river valley and international borders to the east and north.\"",
+      "new_text": "\nThe U.S. coalition in Syria said this week the BSF will be built up \"over the next several years\" and \"be stationed along the borders ... to include portions of the Euphrates river valley and international borders to the east and north.\"",
+      "prop_spans": [
+        [
+          2686,
+          2687,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2924,
+      "end_ix": 3075,
+      "text": "\nRemarkable: A U.S.-created border army is going to occupy and control long stretches of Syria's borders with Turkey and Iraq, over Syria's objections.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3075,
+      "end_ix": 3124,
+      "text": "\nAnd the U.S. military will stand behind the BSF.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3124,
+      "end_ix": 3327,
+      "text": "\nAre the 2,000 U.S. troops in Syria really up to that task, should the Turks decide to cleanse the Syrian border of Kurds, or should the Syrian regime decide to take back territory occupied by the Kurds?",
+      "new_text": "\nThe 2,000 U.S. troops in Syria should be up to that task, if the Turks decide to cleanse the Syrian border of Kurds, or should the Syrian regime decide to take back territory occupied by the Kurds.",
+      "prop_spans": [
+        [
+          3125,
+          3183,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3327,
+      "end_ix": 3515,
+      "text": "\nWho sanctioned this commitment to a new army, which, if Syria and its Russian and Iranian allies, and the Turks, do not all back down, risks a major U.S. war with no allies but the Kurds?",
+      "new_text": "\nWho sanctioned this commitment to a new army, which, if Syria and its Russian and Iranian allies, and the Turks, do not all back down, risks the U.S. a war with no allies but the Kurds?",
+      "prop_spans": [
+        [
+          3463,
+          3515,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3515,
+      "end_ix": 3776,
+      "text": "\nAs for Syria's Kurds casting their lot with the Americans, one wonders: Did they not observe what happened when their Iraqi cousins, after helping us drive ISIS out of Mosul, were themselves driven out of Kirkuk by the Iraqi army, as their U.S. allies watched?",
+      "new_text": "\nAs for Syria's Kurds casting their lot with the Americans, one wonders: Did they not observe what happened when their Iraqi cousins, after helping us drive ISIS out of Mosul, were themselves driven out of Kirkuk by the Iraqi army, as their U.S. allies watched?",
+      "prop_spans": [
+        [
+          3515,
+          3515,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3776,
+      "end_ix": 3887,
+      "text": "\nIn the six-year Syrian civil war, which may be about to enter a new phase, America faces a familiar situation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3887,
+      "end_ix": 3961,
+      "text": "\nWhile our \"allies\" and adversaries have vital interests there, we do not.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3961,
+      "end_ix": 4027,
+      "text": "\nThe Assads have been in power for the lifetime of most Americans.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4027,
+      "end_ix": 4086,
+      "text": "\nAnd we Americans have never shown a desire to fight there.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4086,
+      "end_ix": 4186,
+      "text": "\nAssad has a vital interest: preservation of his family regime and the reunification of his country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4186,
+      "end_ix": 4343,
+      "text": "\nThe Turks have a vital interest in keeping armed Kurds out of their border regions adjacent to their own Kurdish minority, which seeks greater independence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4343,
+      "end_ix": 4464,
+      "text": "\nThe Israelis and Saudi royals want the U.S. to keep Iran from securing a land bridge from Tehran to Damascus to Lebanon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4464,
+      "end_ix": 4585,
+      "text": "\nThe U.S. War Party wants us to smash Iran and remain in the Middle East forever to assure the hegemony of its favorites.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4585,
+      "end_ix": 4691,
+      "text": "\nHave the generals taking us into Syria told the president how and when, if ever, they plan to get us out?",
+      "new_text": "The generals taking us into Syria should tell the president how and when, if needed, they plan to get us out.",
+      "prop_spans": [
+        [
+          4586,
+          4691,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4691,
+      "end_ix": 4828,
+      "text": "\nCOPYRIGHT 2018 CREATORS.COM\nPatrick J. Buchanan needs no introduction to VDARE.COM readers; his books\nand\nare available from Amazon.com.",
+      "new_text": "\nCOPYRIGHT 2018 CREATORS.COM\nPatrick J. Buchanan needs no introduction to VDARE.COM readers; his books\nand\nare available from Amazon.com.",
+      "prop_spans": [
+        [
+          4691,
+          4692,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4828,
+      "end_ix": 4902,
+      "text": "\nPatrick J. Buchanan is the author of\nHis latest book, published May 9, is",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      436,
+      449,
+      "Name_Calling,Labeling"
+    ],
+    [
+      766,
+      779,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      817,
+      872,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1100,
+      1113,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1174,
+      1185,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1264,
+      1323,
+      "Loaded_Language"
+    ],
+    [
+      1350,
+      1391,
+      "Loaded_Language"
+    ],
+    [
+      1392,
+      1437,
+      "Doubt"
+    ],
+    [
+      1491,
+      1629,
+      "Doubt"
+    ],
+    [
+      1917,
+      1925,
+      "Loaded_Language"
+    ],
+    [
+      1934,
+      1979,
+      "Doubt"
+    ],
+    [
+      2228,
+      2302,
+      "Causal_Oversimplification"
+    ],
+    [
+      2302,
+      2343,
+      "Flag-Waving"
+    ],
+    [
+      2302,
+      2343,
+      "Doubt"
+    ],
+    [
+      2474,
+      2687,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3125,
+      3183,
+      "Doubt"
+    ],
+    [
+      3463,
+      3515,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      4586,
+      4692,
+      "Doubt"
+    ]
+  ]
+}

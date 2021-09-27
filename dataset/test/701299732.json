@@ -1,0 +1,300 @@
+{
+  "article_id": "701299732",
+  "sentence offsets in original": [
+    0,
+    164,
+    300,
+    478,
+    629,
+    681,
+    827,
+    1053,
+    1248,
+    1377,
+    1440,
+    1504,
+    1556,
+    1666,
+    1758,
+    1935,
+    2036,
+    2235
+  ],
+  "original sentences": [
+    "It\u2019s Airborne: Officials Warn That The \u201cBlack Death\u201d Plague Could Spread Rapidly\n\nThe fears that the \u201cblack death\u201d would spread from Madagascar have now taken hold.",
+    "\nAs nations grapple with the outbreak of the bubonic plague, nine countries are sounding warnings that the disease is spreading rapidly.",
+    "\nThe deadly plague outbreak that has struck Madagascar\u2019s major cities has yet to \u201cpeak\u201d and that could make the spread of this infection into the surrounding regions more likely.",
+    "\nDr. Ashok Chopra, a professor of microbiology and immunology at the University of Texas, told The Sun Online the crisis in Madagascar had yet to peak.",
+    "\nHe also sounded the alarm to neighboring countries.",
+    "\nSince there are regular flights in and out of Madagascar and this outbreak has so far, been impossible to contain, other nations are now at risk.",
+    "\nSpeaking from Madagascar, Christine South, head of IFRC\u2019s (International Federation of Red Cross) emergency operations, said: \u201cWith anything like this there is a possibility that somebody could be infected and get on a plane.",
+    "\nWe have done preparedness support to some of the neighboring countries.\u201d Tourists have been warned to stay out of Madagascar until doctors can get the plague under control to prevent its spread.",
+    "\nThe outbreak is considered a much bigger threat to the region than in previous years because it has taken on its pneumonic form.",
+    "\nThat means it is airborne and spread by sneezing and coughing.",
+    "\nNot only that, but the plague has a very short incubation time.",
+    "\nOnce exposed, some people will die within 24 hours.",
+    "\nExperts say the epidemic could still worsen as the death tolls hit 124 and more than 1,300 are left infected.",
+    "\nThe World Health Organization (WHO) has now issued alarming warnings in nine countries too.",
+    "\n\u201cIf they are traveling shorter distances and they\u2019re still in the incubation period, and they have the pneumonic (form) then they could spread it to other places,\u201d said Chopra.",
+    "\n\u201cWe don\u2019t want to have a situation where the disease spreads so fast it sort of gets out of control.",
+    "\nMost of the cases in the past have been of the bubonic plague but if you look at this particular outbreak, 70 percent of the cases are pneumonic plague, which is the most deadly form of the disease.",
+    "\nIf the treatment is not given in a very short period of time these people will end up dying.\u201d\nBoth forms of the plague can be cured with antibiotics, but getting treatment quickly is the key to survival."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 164,
+      "text": "It\u2019s Airborne: Officials Warn That The \u201cBlack Death\u201d Plague Could Spread Rapidly\n\nThe fears that the \u201cblack death\u201d would spread from Madagascar have now taken hold.",
+      "new_text": "It\u2019s Airborne: Officials Warn That The \u201cBlack Death\u201d Plague Could Spread Rapidly\n\nThe fears that the \u201cblack death\u201d would spread from Madagascar have now taken hold.",
+      "prop_spans": [
+        [
+          0,
+          13,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          39,
+          52,
+          "Name_Calling,Labeling"
+        ],
+        [
+          60,
+          80,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          101,
+          114,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 164,
+      "end_ix": 300,
+      "text": "\nAs nations grapple with the outbreak of the bubonic plague, nine countries are sounding warnings that the disease is spreading rapidly.",
+      "new_text": "\nAs nations grapple with the outbreak of the bubonic plague, nine countries are sounding warnings that the disease is spreading.",
+      "prop_spans": [
+        [
+          244,
+          299,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 300,
+      "end_ix": 478,
+      "text": "\nThe deadly plague outbreak that has struck Madagascar\u2019s major cities has yet to \u201cpeak\u201d and that could make the spread of this infection into the surrounding regions more likely.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 478,
+      "end_ix": 629,
+      "text": "\nDr. Ashok Chopra, a professor of microbiology and immunology at the University of Texas, told The Sun Online the crisis in Madagascar had yet to peak.",
+      "new_text": "\nDr. Ashok Chopra, a professor of microbiology and immunology at the University of Texas, told The Sun Online the crisis in Madagascar had yet to peak.",
+      "prop_spans": [
+        [
+          588,
+          628,
+          "Appeal_to_Authority"
+        ],
+        [
+          588,
+          628,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 629,
+      "end_ix": 681,
+      "text": "\nHe also sounded the alarm to neighboring countries.",
+      "new_text": "\nHe also sounded the alarm to neighboring countries.",
+      "prop_spans": [
+        [
+          638,
+          655,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 681,
+      "end_ix": 827,
+      "text": "\nSince there are regular flights in and out of Madagascar and this outbreak has so far, been impossible to contain, other nations are now at risk.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 827,
+      "end_ix": 1053,
+      "text": "\nSpeaking from Madagascar, Christine South, head of IFRC\u2019s (International Federation of Red Cross) emergency operations, said: \u201cWith anything like this there is a possibility that somebody could be infected and get on a plane.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1053,
+      "end_ix": 1248,
+      "text": "\nWe have done preparedness support to some of the neighboring countries.\u201d Tourists have been warned to stay out of Madagascar until doctors can get the plague under control to prevent its spread.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1248,
+      "end_ix": 1377,
+      "text": "\nThe outbreak is considered a much bigger threat to the region than in previous years because it has taken on its pneumonic form.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1377,
+      "end_ix": 1440,
+      "text": "\nThat means it is airborne and spread by sneezing and coughing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1440,
+      "end_ix": 1504,
+      "text": "\nNot only that, but the plague has a very short incubation time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1504,
+      "end_ix": 1556,
+      "text": "\nOnce exposed, some people will die within 24 hours.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1556,
+      "end_ix": 1666,
+      "text": "\nExperts say the epidemic could still worsen as the death tolls hit 124 and more than 1,300 are left infected.",
+      "new_text": "\nExperts say the epidemic could worsen as the death tolls hit 124 and more than 1,300 are left infected.",
+      "prop_spans": [
+        [
+          1569,
+          1600,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1666,
+      "end_ix": 1758,
+      "text": "\nThe World Health Organization (WHO) has now issued alarming warnings in nine countries too.",
+      "new_text": "\nThe World Health Organization (WHO) has now issued warnings in nine countries too.",
+      "prop_spans": [
+        [
+          1718,
+          1735,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1758,
+      "end_ix": 1935,
+      "text": "\n\u201cIf they are traveling shorter distances and they\u2019re still in the incubation period, and they have the pneumonic (form) then they could spread it to other places,\u201d said Chopra.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1935,
+      "end_ix": 2036,
+      "text": "\n\u201cWe don\u2019t want to have a situation where the disease spreads so fast it sort of gets out of control.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2036,
+      "end_ix": 2235,
+      "text": "\nMost of the cases in the past have been of the bubonic plague but if you look at this particular outbreak, 70 percent of the cases are pneumonic plague, which is the most deadly form of the disease.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2235,
+      "end_ix": 2439,
+      "text": "\nIf the treatment is not given in a very short period of time these people will end up dying.\u201d\nBoth forms of the plague can be cured with antibiotics, but getting treatment quickly is the key to survival.",
+      "new_text": "\nIf the treatment is not given in a very short period of time these people will end up dying.\u201d\nBoth forms of the plague can be cured with antibiotics, but getting treatment quickly is the key to survival.",
+      "prop_spans": [
+        [
+          2236,
+          2327,
+          "Appeal_to_Authority"
+        ],
+        [
+          2297,
+          2327,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      13,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      39,
+      52,
+      "Name_Calling,Labeling"
+    ],
+    [
+      60,
+      80,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      101,
+      114,
+      "Name_Calling,Labeling"
+    ],
+    [
+      244,
+      299,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      588,
+      628,
+      "Appeal_to_Authority"
+    ],
+    [
+      588,
+      628,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      638,
+      655,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1569,
+      1600,
+      "Appeal_to_Authority"
+    ],
+    [
+      1718,
+      1735,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2236,
+      2327,
+      "Appeal_to_Authority"
+    ],
+    [
+      2297,
+      2327,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

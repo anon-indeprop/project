@@ -1,0 +1,233 @@
+{
+  "article_id": "696735702",
+  "sentence offsets in original": [
+    0,
+    276,
+    575,
+    742,
+    954,
+    1099,
+    1368,
+    1502,
+    1615,
+    1808,
+    1869,
+    2010,
+    2176,
+    2686,
+    2733,
+    2877,
+    3023,
+    3110,
+    3177,
+    3474,
+    3551
+  ],
+  "original sentences": [
+    "New Las Vegas Shooter Theory: \u201cRushed And Unprepared\u2026 Could Have Led To Accident Like Shooting Himself In The Head\u201d\n\nIt should be clear by now that the entire official narrative surrounding the Las Vegas shooting that left 59 people dead and hundreds injured is falling apart.",
+    "\nFrom shooter Paddock\u2019s check-in date and the existence of a second person in his room, to possible connections to a terrorist organization, as well as the the actual timeline of events, everything being disseminated by law enforcement and the mainstream media should now come under public scrutiny.",
+    "\nIn the last 24 hours the Sheriff\u2019s Department has significantly revised the event timeline and a key incident involving the shooting of a Mandalay Bay security guard.",
+    "\nOriginally, as highlighted by The Daily Sheeple, the security guard was hailed as being responsible for preventing the shooter from continuing his massacre because he interrupted him in the middle of the attack.",
+    "\nAs it turns out, security guard Jesus Campos was actually shot BEFORE Paddock opened fire on the concert crowd below his 32nd floor hotel suite.",
+    "\nAs part of the constantly changing story, officials are now saying that police officers who rushed to the hotel room when the shooting began didn\u2019t know a hotel security guard had been shot \u201cuntil they met him in the hallway after exiting the elevator,\u201d Lombardo said.",
+    "\nThe security guard, Jesus Campos, was struck in the leg as the gunman, from behind his door, shot into the hallway on the 32nd floor.",
+    "\nPaddock apparently detected Campos via surveillance cameras he set up outside his hotel suite, police have said.",
+    "\nPaddock shot the guard at 9:59 p.m. local time, Lombardo said, shortly before raining down bullets on the Route 91 Harvest festival in an attack that began at 10:05 p.m. and lasted 10 minutes.",
+    "\nPolice officers found Campos when they arrived on the floor.",
+    "\nAnd Campos did not summon police to the 32nd floor of the Mandalay Bay hotel, according to the timeline recently updated by the authorities.",
+    "\nWhat\u2019s also incredibly interesting, is that eyewitnesses claim to have seen security guards chasing another security guard in the minutes leading up to the massacre.",
+    "\nThe hotel guest in the room next to Paddock also saw \u201cmultiple gunmen.\u201d The Full Report: The Ever-Changing Vegas Narrative: Gunman Shot Security Guard Before Massacre\nAs of today, here is the revised timeline, as outlined by the Los Angeles Times:\nThe new timeline has left investigators and researchers with new questions, two of which are extremely important:\nWhat happened during the 6 minutes between Campos being shot and Paddock opening fire, and why weren\u2019t the police rushing to the scene immediately?",
+    "\nWhy did shooter Stephen Paddock stop shooting?",
+    "\nPaddock had already shot the security guard, waited six minutes before opening fire on the concert crowd, and then shot for a full ten minutes.",
+    "\nPolice didn\u2019t arrive for two additional minutes after the shooting stopped \u2013 which is a full 18 minutes from the moment Campos was initially hit.",
+    "\nMoreover, did he stop shooting because he was planning his escape from the 32nd floor?",
+    "\nOr is it possible that Paddock was rushed and in a state of panic?",
+    "\nAccording to links and information shared by Thomas Wictor and a timeline assessment by Twitter user Mr. Alex, the plausibility of Paddock accidentally killing himself amid the confusion, adrenaline and panic is quite high:\nLatest LV Sheriff: Saying they still don\u2019t know why he stopped shooting.",
+    "\n@drawandstrike theory looking plausiblehttps://t.co/CQF3MZLHaN \u2014 Mr Alex ???",
+    "\n(@New_England_) October 10, 2017\nWhile we may never know the exact circumstances surrounding what transpired in the shooter\u2019s hotel room, the information being released not just by law enforcement, but witnesses to the event who recorded hundreds of cumulative hours of video and audio, now calls the entirety official story into question."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 276,
+      "text": "New Las Vegas Shooter Theory: \u201cRushed And Unprepared\u2026 Could Have Led To Accident Like Shooting Himself In The Head\u201d\n\nIt should be clear by now that the entire official narrative surrounding the Las Vegas shooting that left 59 people dead and hundreds injured is falling apart.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 276,
+      "end_ix": 575,
+      "text": "\nFrom shooter Paddock\u2019s check-in date and the existence of a second person in his room, to possible connections to a terrorist organization, as well as the the actual timeline of events, everything being disseminated by law enforcement and the mainstream media should now come under public scrutiny.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 575,
+      "end_ix": 742,
+      "text": "\nIn the last 24 hours the Sheriff\u2019s Department has significantly revised the event timeline and a key incident involving the shooting of a Mandalay Bay security guard.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 742,
+      "end_ix": 954,
+      "text": "\nOriginally, as highlighted by The Daily Sheeple, the security guard was hailed as being responsible for preventing the shooter from continuing his massacre because he interrupted him in the middle of the attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 954,
+      "end_ix": 1099,
+      "text": "\nAs it turns out, security guard Jesus Campos was actually shot BEFORE Paddock opened fire on the concert crowd below his 32nd floor hotel suite.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1099,
+      "end_ix": 1368,
+      "text": "\nAs part of the constantly changing story, officials are now saying that police officers who rushed to the hotel room when the shooting began didn\u2019t know a hotel security guard had been shot \u201cuntil they met him in the hallway after exiting the elevator,\u201d Lombardo said.",
+      "new_text": "\nAs part of the evolving story, officials are now saying that police officers who rushed to the hotel room when the shooting began didn\u2019t know a hotel security guard had been shot \u201cuntil they met him in the hallway after exiting the elevator,\u201d Lombardo said.",
+      "prop_spans": [
+        [
+          1115,
+          1141,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1368,
+      "end_ix": 1502,
+      "text": "\nThe security guard, Jesus Campos, was struck in the leg as the gunman, from behind his door, shot into the hallway on the 32nd floor.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1502,
+      "end_ix": 1615,
+      "text": "\nPaddock apparently detected Campos via surveillance cameras he set up outside his hotel suite, police have said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1615,
+      "end_ix": 1808,
+      "text": "\nPaddock shot the guard at 9:59 p.m. local time, Lombardo said, shortly before raining down bullets on the Route 91 Harvest festival in an attack that began at 10:05 p.m. and lasted 10 minutes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1808,
+      "end_ix": 1869,
+      "text": "\nPolice officers found Campos when they arrived on the floor.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1869,
+      "end_ix": 2010,
+      "text": "\nAnd Campos did not summon police to the 32nd floor of the Mandalay Bay hotel, according to the timeline recently updated by the authorities.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2010,
+      "end_ix": 2176,
+      "text": "\nWhat\u2019s also incredibly interesting, is that eyewitnesses claim to have seen security guards chasing another security guard in the minutes leading up to the massacre.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2176,
+      "end_ix": 2686,
+      "text": "\nThe hotel guest in the room next to Paddock also saw \u201cmultiple gunmen.\u201d The Full Report: The Ever-Changing Vegas Narrative: Gunman Shot Security Guard Before Massacre\nAs of today, here is the revised timeline, as outlined by the Los Angeles Times:\nThe new timeline has left investigators and researchers with new questions, two of which are extremely important:\nWhat happened during the 6 minutes between Campos being shot and Paddock opening fire, and why weren\u2019t the police rushing to the scene immediately?",
+      "new_text": "\nThe hotel guest in the room next to Paddock also saw \u201cmultiple gunmen.\u201d The Full Report: The Ever-Changing Vegas Narrative: Gunman Shot Security Guard Before Massacre\nAs of today, here is the revised timeline, as outlined by the Los Angeles Times:\nThe new timeline has left investigators and researchers with new questions, two of which are extremely important:\nWhat happened during the 6 minutes between Campos being shot and Paddock opening fire, and why weren't the police on to the scene immediately?",
+      "prop_spans": [
+        [
+          2630,
+          2685,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2686,
+      "end_ix": 2733,
+      "text": "\nWhy did shooter Stephen Paddock stop shooting?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2733,
+      "end_ix": 2877,
+      "text": "\nPaddock had already shot the security guard, waited six minutes before opening fire on the concert crowd, and then shot for a full ten minutes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2877,
+      "end_ix": 3023,
+      "text": "\nPolice didn\u2019t arrive for two additional minutes after the shooting stopped \u2013 which is a full 18 minutes from the moment Campos was initially hit.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3023,
+      "end_ix": 3110,
+      "text": "\nMoreover, did he stop shooting because he was planning his escape from the 32nd floor?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3110,
+      "end_ix": 3177,
+      "text": "\nOr is it possible that Paddock was rushed and in a state of panic?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3177,
+      "end_ix": 3474,
+      "text": "\nAccording to links and information shared by Thomas Wictor and a timeline assessment by Twitter user Mr. Alex, the plausibility of Paddock accidentally killing himself amid the confusion, adrenaline and panic is quite high:\nLatest LV Sheriff: Saying they still don\u2019t know why he stopped shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3474,
+      "end_ix": 3551,
+      "text": "\n@drawandstrike theory looking plausiblehttps://t.co/CQF3MZLHaN \u2014 Mr Alex ???",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3551,
+      "end_ix": 3891,
+      "text": "\n(@New_England_) October 10, 2017\nWhile we may never know the exact circumstances surrounding what transpired in the shooter\u2019s hotel room, the information being released not just by law enforcement, but witnesses to the event who recorded hundreds of cumulative hours of video and audio, now calls the entirety official story into question.",
+      "new_text": "\n(@New_England_) October 10, 2017\nWhile we do not know the exact circumstances surrounding what transpired in the shooter\u2019s hotel room, the information being released not just by law enforcement, but witnesses to the event who recorded hundreds of cumulative hours of video and audio, now calls the entirety official story into question.",
+      "prop_spans": [
+        [
+          3585,
+          3632,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1115,
+      1141,
+      "Doubt"
+    ],
+    [
+      2630,
+      2685,
+      "Doubt"
+    ],
+    [
+      3585,
+      3632,
+      "Doubt"
+    ]
+  ]
+}

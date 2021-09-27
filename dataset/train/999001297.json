@@ -1,0 +1,359 @@
+{
+  "article_id": "999001297",
+  "sentence offsets in original": [
+    0,
+    154,
+    309,
+    529,
+    618,
+    669,
+    720,
+    758,
+    809,
+    816,
+    848,
+    933,
+    1015,
+    1043,
+    1106,
+    1160,
+    1281,
+    1384,
+    1439,
+    1762,
+    2066,
+    2142,
+    2237,
+    2327,
+    2402,
+    2496,
+    2716,
+    2819,
+    2901,
+    3001,
+    3035,
+    3146,
+    3253,
+    3352,
+    3386
+  ],
+  "original sentences": [
+    "Migrant Caravan Reach Border & Climb Atop Fencing Effortlessly (Video)\n\nMembers from one of the migrant caravans finally reached the US border on Tuesday.",
+    "\nVideos were captured and Border Patrol agents were on the scene as they were witnessed climbing effortlessly up the wall and standing and sitting atop it.",
+    "\nFox 5 reports:\nSAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.",
+    "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nSeveral people scaled the fence and sat on top of it.",
+    "\nA few jumped or crawled to openings in the fence onto U.S. soil but quickly ran back as Border Patrol agents approached.",
+    "\nSeveral border agents were seen patrolling the area in trucks, 4-wheelers, a helicopter and on horses.",
+    "\nVideo of the migrants was captured in various reports.",
+    "\nThe caravan is here, illegally entering America This is a national disgrace Arrest and deport them all back to their home country pic.twitter.com/zmAvbC13eL \u2014 Charlie Kirk (@charliekirk11) November 14, 2018\nIncreased activity at the U.S.-Mexico border after part of the Central American migrant caravan arrived in Tijuana.",
+    "\nBorder Patrol has not confirmed whether this group is part of the caravan.STORY: http://via.kswbtv.com/Ky5E4 Posted by FOX 5 San Diego on Tuesday, November 13, 2018\nUS Customs and Border Patrol San Diego tweeted, \"The first group of the migrant caravan arrived at the Tijuana border yesterday afternoon.",
+    "\n# CBP has deployed resources to safely secure the area near Imperial Beach.",
+    "\nAll seeking entry into the U.S. are urged to present themselves at an official Port of Entry.\"",
+    "\nThe first group of the migrant caravan arrived at the Tijuana border yesterday afternoon.",
+    "\n#CBP has deployed resources to safely secure the area near Imperial Beach.",
+    "\nAll seeking entry into the U.S. are urged to present themselves at an official Port of Entry.",
+    "\n#USBP pic.twitter.com/uGWUKjxJkj \u2014 CBP San Diego (@CBPSanDiego) November 14, 2018\nSecretary of Homeland Security Kirstjen Nielsen said, \"Border security is national security, and @ DHSgov will enforce our nation's laws.",
+    "\nToday, I am at the # Texas border talking with @ CBP officials on how we are securing ports of entry.\"",
+    "\nBorder security is national security, and @DHSgov will enforce our nation's laws.",
+    "\nToday, I am at the #Texas border talking with @CBP officials on how we are securing ports of entry.",
+    "\npic.twitter.com/fOlIQNF5pW \u2014 Sec.",
+    "\nKirstjen Nielsen (@SecNielsen) November 14, 2018\nShe also met with Secretary of Defense James Mattis in Texas.",
+    "\nI met with #SecDef in #Texas today to highlight the work that we are doing together to secure our borders.",
+    "\nI want to thank @DeptofDefense for their partnership across the full spectrum of @DHSgov missions.",
+    "\npic.twitter.com/eGyzwyXDw9 \u2014 Sec.",
+    "\nKirstjen Nielsen (@SecNielsen) November 14, 2018\nSo far, we are being told that authorities are keeping an eye on the migrants as they celebrate their journey, but no reports have been issued saying they have actually crossed over yet."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 154,
+      "text": "Migrant Caravan Reach Border & Climb Atop Fencing Effortlessly (Video)\n\nMembers from one of the migrant caravans finally reached the US border on Tuesday.",
+      "new_text": "Migrant Caravan Reach Border & Climb Atop Fencing (Video)\n\nMembers from one of the migrant caravans finally reached the US border on Tuesday.",
+      "prop_spans": [
+        [
+          31,
+          63,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 154,
+      "end_ix": 309,
+      "text": "\nVideos were captured and Border Patrol agents were on the scene as they were witnessed climbing effortlessly up the wall and standing and sitting atop it.",
+      "new_text": "\nVideos were captured and Border Patrol agents were on the scene as they were witnessed climbing up the wall and standing and sitting atop it.",
+      "prop_spans": [
+        [
+          242,
+          264,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 309,
+      "end_ix": 529,
+      "text": "\nFox 5 reports:\nSAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 529,
+      "end_ix": 618,
+      "text": "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 618,
+      "end_ix": 669,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 669,
+      "end_ix": 720,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 720,
+      "end_ix": 758,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 758,
+      "end_ix": 809,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 809,
+      "end_ix": 816,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 816,
+      "end_ix": 848,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 848,
+      "end_ix": 933,
+      "text": "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 933,
+      "end_ix": 1015,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1015,
+      "end_ix": 1043,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1043,
+      "end_ix": 1106,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1106,
+      "end_ix": 1160,
+      "text": "\nSeveral people scaled the fence and sat on top of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1160,
+      "end_ix": 1281,
+      "text": "\nA few jumped or crawled to openings in the fence onto U.S. soil but quickly ran back as Border Patrol agents approached.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1281,
+      "end_ix": 1384,
+      "text": "\nSeveral border agents were seen patrolling the area in trucks, 4-wheelers, a helicopter and on horses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1384,
+      "end_ix": 1439,
+      "text": "\nVideo of the migrants was captured in various reports.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1439,
+      "end_ix": 1762,
+      "text": "\nThe caravan is here, illegally entering America This is a national disgrace Arrest and deport them all back to their home country pic.twitter.com/zmAvbC13eL \u2014 Charlie Kirk (@charliekirk11) November 14, 2018\nIncreased activity at the U.S.-Mexico border after part of the Central American migrant caravan arrived in Tijuana.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1762,
+      "end_ix": 2066,
+      "text": "\nBorder Patrol has not confirmed whether this group is part of the caravan.STORY: http://via.kswbtv.com/Ky5E4 Posted by FOX 5 San Diego on Tuesday, November 13, 2018\nUS Customs and Border Patrol San Diego tweeted, \"The first group of the migrant caravan arrived at the Tijuana border yesterday afternoon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2066,
+      "end_ix": 2142,
+      "text": "\n# CBP has deployed resources to safely secure the area near Imperial Beach.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2142,
+      "end_ix": 2237,
+      "text": "\nAll seeking entry into the U.S. are urged to present themselves at an official Port of Entry.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2237,
+      "end_ix": 2327,
+      "text": "\nThe first group of the migrant caravan arrived at the Tijuana border yesterday afternoon.",
+      "new_text": "\nThe first group of the caravan arrived at the Tijuana border yesterday afternoon.",
+      "prop_spans": [
+        [
+          2257,
+          2277,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2327,
+      "end_ix": 2402,
+      "text": "\n#CBP has deployed resources to safely secure the area near Imperial Beach.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2402,
+      "end_ix": 2496,
+      "text": "\nAll seeking entry into the U.S. are urged to present themselves at an official Port of Entry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2496,
+      "end_ix": 2716,
+      "text": "\n#USBP pic.twitter.com/uGWUKjxJkj \u2014 CBP San Diego (@CBPSanDiego) November 14, 2018\nSecretary of Homeland Security Kirstjen Nielsen said, \"Border security is national security, and @ DHSgov will enforce our nation's laws.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2716,
+      "end_ix": 2819,
+      "text": "\nToday, I am at the # Texas border talking with @ CBP officials on how we are securing ports of entry.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2819,
+      "end_ix": 2901,
+      "text": "\nBorder security is national security, and @DHSgov will enforce our nation's laws.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2901,
+      "end_ix": 3001,
+      "text": "\nToday, I am at the #Texas border talking with @CBP officials on how we are securing ports of entry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3001,
+      "end_ix": 3035,
+      "text": "\npic.twitter.com/fOlIQNF5pW \u2014 Sec.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3035,
+      "end_ix": 3146,
+      "text": "\nKirstjen Nielsen (@SecNielsen) November 14, 2018\nShe also met with Secretary of Defense James Mattis in Texas.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3146,
+      "end_ix": 3253,
+      "text": "\nI met with #SecDef in #Texas today to highlight the work that we are doing together to secure our borders.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3253,
+      "end_ix": 3352,
+      "text": "\nI want to thank @DeptofDefense for their partnership across the full spectrum of @DHSgov missions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3352,
+      "end_ix": 3386,
+      "text": "\npic.twitter.com/eGyzwyXDw9 \u2014 Sec.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3386,
+      "end_ix": 3622,
+      "text": "\nKirstjen Nielsen (@SecNielsen) November 14, 2018\nSo far, we are being told that authorities are keeping an eye on the migrants as they celebrate their journey, but no reports have been issued saying they have actually crossed over yet.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      31,
+      63,
+      "Loaded_Language"
+    ],
+    [
+      242,
+      264,
+      "Loaded_Language"
+    ],
+    [
+      2257,
+      2277,
+      "Repetition"
+    ]
+  ]
+}

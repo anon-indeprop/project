@@ -1,0 +1,235 @@
+{
+  "article_id": "723844295",
+  "sentence offsets in original": [
+    0,
+    114,
+    182,
+    274,
+    443,
+    581,
+    787,
+    914,
+    1113,
+    1285,
+    1462,
+    1565,
+    1913,
+    2076,
+    2123,
+    2350,
+    2444
+  ],
+  "original sentences": [
+    "Lawmaker makes shocking claim about the Vegas massacre (video)\n\nPersonal Liberty Poll Exercise your right to vote.",
+    "\nAmericans still have no idea what happened in Las Vegas in October.",
+    "\nAnd one lawmaker is hinting that the government is covering up a big story about terrorism.",
+    "\nDuring an appearance with Tucker Carlson on Fox, Rep. Scott Perry (R-Pa.) said he\u2019s seen credible evidence that ISIS was involved in the devastating Las Vegas shooting.",
+    "\nISIS terrorists, he said, infiltrated the U.S. via the southern border prior to the attack blamed on alleged lone gunman Stephen Paddock.",
+    "\n\u201cRecently I have been made aware of what I believe to be credible evidence, credible information regarding potential terrorist infiltration through the southern border regarding this incident,\u201d Perry said.",
+    "\nPerry added that ISIS warnings of a forthcoming attack on Las Vegas prior to the shooting make a terror link even more likely.",
+    "\n\u201cWell, they could be\u2013lets face it, ISIS twice before the attack, ISIS warned the United States that they would attack Las Vegas in June and August after the attack claimed responsibility four times.",
+    "\nMeanwhile, the local law enforcement investigative services are telling us there is no terrorist connection\u2013lone gunman, again, something is not adding up,\u201d Perry replied.",
+    "\nAn incredulous Carlson asked fellow guest Catherine Lombardo, a lawyer representing families affected by the tragedy, about the law enforcement investigation into the shooting.",
+    "\n\u201cThe FBI and the Las Vegas metro police department have been conducting the investigation, \u201d she said.",
+    "\n\u201cWe\u2019ve seen no evidence of a terrorist attack, and I will ask with all due respect, congressman, unless have you specific evidence to back that up, it seems a bit irresponsible to make that allegation so, if you do, or make that assertion, if do you have any evidence of that, I\u2019m asking you right now to share it with us and tell us what that is.",
+    "\nMy clients\u2026 victims, all 22,000 people have been waiting and waiting and waiting for evidence.\u201d\nPerry noted that all Americans are still lacking all the evidence.",
+    "\n\u201cWe\u2019ve all been waiting, and I\u2019m waiting, too.",
+    "\nLike I said, nothing adds up, but I\u2019m just telling you, I have received what I feel to be and believe to be credible evidence of a possible terrorist nexus, and we\u2019re gonna have to wait\u2026 until the situation develops,\u201d he said.",
+    "\nThe lawmaker said he wants the nation\u2019s counterterror agencies involved in the investigation.",
+    "\n\u201cIf ISIS warns about an attack and then an attack occurs and claims responsibility after the fact, it seems to me that at a minimum, they should have some portion of the investigation to clearly debunk that claim and, yet, it hasn\u2019t happened,\u201d he said."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 114,
+      "text": "Lawmaker makes shocking claim about the Vegas massacre (video)\n\nPersonal Liberty Poll Exercise your right to vote.",
+      "new_text": "Lawmaker makes claim about the Vegas massacre (video)\n\nPersonal Liberty Poll Exercise your right to vote.",
+      "prop_spans": [
+        [
+          15,
+          29,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 114,
+      "end_ix": 182,
+      "text": "\nAmericans still have no idea what happened in Las Vegas in October.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 182,
+      "end_ix": 274,
+      "text": "\nAnd one lawmaker is hinting that the government is covering up a big story about terrorism.",
+      "new_text": "\nAnd one lawmaker is suggests that the government is covering up a big story about terrorism.",
+      "prop_spans": [
+        [
+          220,
+          274,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 274,
+      "end_ix": 443,
+      "text": "\nDuring an appearance with Tucker Carlson on Fox, Rep. Scott Perry (R-Pa.) said he\u2019s seen credible evidence that ISIS was involved in the devastating Las Vegas shooting.",
+      "new_text": "\nDuring an appearance with Tucker Carlson on Fox, Rep. Scott Perry (R-Pa.) said he\u2019s seen credible evidence that ISIS was involved in the devastating Las Vegas shooting.",
+      "prop_spans": [
+        [
+          274,
+          275,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 443,
+      "end_ix": 581,
+      "text": "\nISIS terrorists, he said, infiltrated the U.S. via the southern border prior to the attack blamed on alleged lone gunman Stephen Paddock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 581,
+      "end_ix": 787,
+      "text": "\n\u201cRecently I have been made aware of what I believe to be credible evidence, credible information regarding potential terrorist infiltration through the southern border regarding this incident,\u201d Perry said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 787,
+      "end_ix": 914,
+      "text": "\nPerry added that ISIS warnings of a forthcoming attack on Las Vegas prior to the shooting make a terror link even more likely.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 914,
+      "end_ix": 1113,
+      "text": "\n\u201cWell, they could be\u2013lets face it, ISIS twice before the attack, ISIS warned the United States that they would attack Las Vegas in June and August after the attack claimed responsibility four times.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1113,
+      "end_ix": 1285,
+      "text": "\nMeanwhile, the local law enforcement investigative services are telling us there is no terrorist connection\u2013lone gunman, again, something is not adding up,\u201d Perry replied.",
+      "new_text": "\nMeanwhile, the local law enforcement investigative services are telling us there is no terrorist connection\u2013lone gunman, again, something is not adding up,\u201d Perry replied.",
+      "prop_spans": [
+        [
+          1242,
+          1270,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1285,
+      "end_ix": 1462,
+      "text": "\nAn incredulous Carlson asked fellow guest Catherine Lombardo, a lawyer representing families affected by the tragedy, about the law enforcement investigation into the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1462,
+      "end_ix": 1565,
+      "text": "\n\u201cThe FBI and the Las Vegas metro police department have been conducting the investigation, \u201d she said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1565,
+      "end_ix": 1913,
+      "text": "\n\u201cWe\u2019ve seen no evidence of a terrorist attack, and I will ask with all due respect, congressman, unless have you specific evidence to back that up, it seems a bit irresponsible to make that allegation so, if you do, or make that assertion, if do you have any evidence of that, I\u2019m asking you right now to share it with us and tell us what that is.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1913,
+      "end_ix": 2076,
+      "text": "\nMy clients\u2026 victims, all 22,000 people have been waiting and waiting and waiting for evidence.\u201d\nPerry noted that all Americans are still lacking all the evidence.",
+      "new_text": "\nMy clients\u2026 victims, all 22,000 people have been waiting and waiting and waiting for evidence.\u201d\nPerry noted that all people are still lacking all the evidence.",
+      "prop_spans": [
+        [
+          1963,
+          1994,
+          "Repetition"
+        ],
+        [
+          2027,
+          2040,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2076,
+      "end_ix": 2123,
+      "text": "\n\u201cWe\u2019ve all been waiting, and I\u2019m waiting, too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2123,
+      "end_ix": 2350,
+      "text": "\nLike I said, nothing adds up, but I\u2019m just telling you, I have received what I feel to be and believe to be credible evidence of a possible terrorist nexus, and we\u2019re gonna have to wait\u2026 until the situation develops,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2350,
+      "end_ix": 2444,
+      "text": "\nThe lawmaker said he wants the nation\u2019s counterterror agencies involved in the investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2444,
+      "end_ix": 2697,
+      "text": "\n\u201cIf ISIS warns about an attack and then an attack occurs and claims responsibility after the fact, it seems to me that at a minimum, they should have some portion of the investigation to clearly debunk that claim and, yet, it hasn\u2019t happened,\u201d he said.",
+      "new_text": "\n\u201cIf ISIS warns about an attack and then an attack occurs and claims responsibility after the fact, it seems to me that at a minimum, they should have some portion of the investigation to clearly debunk that claim and, yet, it hasn\u2019t happened,\u201d he said.",
+      "prop_spans": [
+        [
+          2445,
+          2697,
+          "Causal_Oversimplification"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      15,
+      29,
+      "Loaded_Language"
+    ],
+    [
+      220,
+      275,
+      "Doubt"
+    ],
+    [
+      1242,
+      1270,
+      "Doubt"
+    ],
+    [
+      1963,
+      1994,
+      "Repetition"
+    ],
+    [
+      2027,
+      2040,
+      "Flag-Waving"
+    ],
+    [
+      2445,
+      2699,
+      "Causal_Oversimplification"
+    ]
+  ]
+}

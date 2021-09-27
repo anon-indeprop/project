@@ -1,0 +1,199 @@
+{
+  "article_id": "781847297",
+  "sentence offsets in original": [
+    0,
+    259,
+    417,
+    637,
+    724,
+    1088,
+    1253,
+    1344
+  ],
+  "original sentences": [
+    "Trump expresses sympathy for Reality Winner, whose mom asks for pardon\n\nATLANTA \u2014 The record-setting prison sentence given to Reality Winner has caught the attention of President Donald Trump, who used it to take another dig at Attorney General Jeff Sessions.",
+    "\nIn an early Friday post on Twitter, Trump wrote that her sentence of 63 months in federal prison was unfair and accused Sessions of having a double standard.",
+    "\n\u201cGee, this is \u2018small potatoes\u2019 compared to what Hillary Clinton did!\u201d he tweeted about Winner, a former National Security Agency contractor who leaked a document about Russian meddling in the 2016 presidential election.",
+    "\n\u201cSo unfair Jeff, Double Standard.\u201d\nThe tweet drew no immediate response from Sessions.",
+    "\nBut Winner\u2019s mother had a blunt reply: \u201cPlease pardon my daughter Reality Winner.\u201d\nThe Twitter exchange marks a bizarre twist in the story of the 26-year-old former U.S. Air Force linguist, who on Thursday apologized to a federal judge and said she takes \u201cfull responsibility for my actions.\u201d\nBefore her arrest, Winner called Trump an \u201corange fascist\u201d on Twitter.",
+    "\nHer disillusionment about his election was part of her reason for leaving the Air Force, her mother told the Atlanta Journal-Constitution in an interview last year.",
+    "\n\u201cSomething she said, she didn\u2019t like her new boss,\u201d Billie Winner-Davis said in June 2017.",
+    "\n\u201cShe was not going to serve in his military.\u201d\nMeanwhile, Trump continued pounding Sessions in other tweets, saying he needed to investigate \u201cdeleted Emails, Comey lies & leaks, Mueller conflicts, McCabe, Strzok, Page, Ohr\u2026the Clinton Foundation, illegal surveillance of Trump Campaign, Russian collusion by Dems \u2014 and so much more.\u201d\n\u2014 Johnny Edwards\nThe Atlanta Journal-Constitution\n\u2014\u2014\u2014\n\u00a92018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 259,
+      "text": "Trump expresses sympathy for Reality Winner, whose mom asks for pardon\n\nATLANTA \u2014 The record-setting prison sentence given to Reality Winner has caught the attention of President Donald Trump, who used it to take another dig at Attorney General Jeff Sessions.",
+      "new_text": "Trump expresses sympathy for Reality Winner, whose mom asks for pardon\n\nATLANTA \u2014 The huge prison sentence given to Reality Winner has caught the attention of President Donald Trump, who used it to take another jab at Attorney General Jeff Sessions.",
+      "prop_spans": [
+        [
+          82,
+          117,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          205,
+          225,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 259,
+      "end_ix": 417,
+      "text": "\nIn an early Friday post on Twitter, Trump wrote that her sentence of 63 months in federal prison was unfair and accused Sessions of having a double standard.",
+      "new_text": "\nIn an early Friday post on Twitter, Trump wrote that her sentence of 63 months in federal prison was unfair and accused Sessions of having a double standard.",
+      "prop_spans": [
+        [
+          313,
+          416,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 417,
+      "end_ix": 637,
+      "text": "\n\u201cGee, this is \u2018small potatoes\u2019 compared to what Hillary Clinton did!\u201d he tweeted about Winner, a former National Security Agency contractor who leaked a document about Russian meddling in the 2016 presidential election.",
+      "new_text": "\n\u201cGee, this is \u2018small potatoes\u2019 compared to what Hillary Clinton did!\u201d he tweeted about Winner, a former National Security Agency contractor who leaked a document about Russian meddling in the 2016 presidential election.",
+      "prop_spans": [
+        [
+          419,
+          485,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 637,
+      "end_ix": 724,
+      "text": "\n\u201cSo unfair Jeff, Double Standard.\u201d\nThe tweet drew no immediate response from Sessions.",
+      "new_text": "\n\u201cSo unfair Jeff, Double Standard.\u201d\nThe tweet drew no immediate response from Sessions.",
+      "prop_spans": [
+        [
+          639,
+          670,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 724,
+      "end_ix": 1088,
+      "text": "\nBut Winner\u2019s mother had a blunt reply: \u201cPlease pardon my daughter Reality Winner.\u201d\nThe Twitter exchange marks a bizarre twist in the story of the 26-year-old former U.S. Air Force linguist, who on Thursday apologized to a federal judge and said she takes \u201cfull responsibility for my actions.\u201d\nBefore her arrest, Winner called Trump an \u201corange fascist\u201d on Twitter.",
+      "new_text": "\nBut Winner\u2019s mother had a blunt reply: \u201cPlease pardon my daughter Reality Winner.\u201d\nThe Twitter exchange marks a strange twist in the story of the 26-year-old former U.S. Air Force linguist, who on Thursday apologized to a federal judge and said she takes \u201cfull responsibility for my actions.\u201d\nBefore her arrest, Winner called Trump an \u201corange fascist\u201d on Twitter.",
+      "prop_spans": [
+        [
+          835,
+          851,
+          "Loaded_Language"
+        ],
+        [
+          1057,
+          1075,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1088,
+      "end_ix": 1253,
+      "text": "\nHer disillusionment about his election was part of her reason for leaving the Air Force, her mother told the Atlanta Journal-Constitution in an interview last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1253,
+      "end_ix": 1344,
+      "text": "\n\u201cSomething she said, she didn\u2019t like her new boss,\u201d Billie Winner-Davis said in June 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1344,
+      "end_ix": 1830,
+      "text": "\n\u201cShe was not going to serve in his military.\u201d\nMeanwhile, Trump continued pounding Sessions in other tweets, saying he needed to investigate \u201cdeleted Emails, Comey lies & leaks, Mueller conflicts, McCabe, Strzok, Page, Ohr\u2026the Clinton Foundation, illegal surveillance of Trump Campaign, Russian collusion by Dems \u2014 and so much more.\u201d\n\u2014 Johnny Edwards\nThe Atlanta Journal-Constitution\n\u2014\u2014\u2014\n\u00a92018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",
+      "new_text": "\n\u201cShe was not going to serve in his military.\u201d\nMeanwhile, Trump continued attacking Sessions in other tweets, saying he needed to investigate \u201cdeleted Emails, Comey lies & leaks, Mueller conflicts, McCabe, Strzok, Page, Ohr\u2026the Clinton Foundation, illegal surveillance of Trump Campaign, Russian collusion by Dems \u2014 and so much more.\u201d\n\u2014 Johnny Edwards\nThe Atlanta Journal-Constitution\n\u2014\u2014\u2014\n\u00a92018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",
+      "prop_spans": [
+        [
+          1408,
+          1427,
+          "Loaded_Language"
+        ],
+        [
+          1502,
+          1520,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1652,
+          1657,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1659,
+          1675,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      82,
+      117,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      205,
+      225,
+      "Loaded_Language"
+    ],
+    [
+      313,
+      416,
+      "Doubt"
+    ],
+    [
+      419,
+      485,
+      "Whataboutism"
+    ],
+    [
+      639,
+      670,
+      "Doubt"
+    ],
+    [
+      835,
+      851,
+      "Loaded_Language"
+    ],
+    [
+      1057,
+      1075,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1408,
+      1427,
+      "Loaded_Language"
+    ],
+    [
+      1502,
+      1520,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1652,
+      1657,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1659,
+      1675,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

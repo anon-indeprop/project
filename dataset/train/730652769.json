@@ -1,0 +1,73 @@
+{
+  "article_id": "730652769",
+  "sentence offsets in original": [
+    0,
+    198,
+    319,
+    405,
+    544,
+    656,
+    780
+  ],
+  "original sentences": [
+    "60 Illegal Aliens Apprehended In Texas Stash Houses\n\nRIO GRANDE CITY, Texas \u2013 In separate incidents, Border Patrol agents disrupt two stash houses resulting in the apprehension of 60 illegal aliens.",
+    "\nOn Saturday, February 10, Rio Grande City Border Patrol agents responded to a residence to assist local law enforcement.",
+    "\nA welfare check at the residence yielded 35 illegal aliens from Mexico and Guatemala.",
+    "\nOn Sunday, February 11, the Rio Grande City Station received a call from a concerned citizen regarding suspicious activity at a residence.",
+    "\nAgents and local law enforcement responded and discovered 25 illegal aliens from Mexico, Guatemala, and Brazil.",
+    "\nHomeland Security Investigations (HSI) McAllen Office arrested one individual in connection to Sunday\u2019s enforcement action.",
+    "\nNo further details were released."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 198,
+      "text": "60 Illegal Aliens Apprehended In Texas Stash Houses\n\nRIO GRANDE CITY, Texas \u2013 In separate incidents, Border Patrol agents disrupt two stash houses resulting in the apprehension of 60 illegal aliens.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 198,
+      "end_ix": 319,
+      "text": "\nOn Saturday, February 10, Rio Grande City Border Patrol agents responded to a residence to assist local law enforcement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 319,
+      "end_ix": 405,
+      "text": "\nA welfare check at the residence yielded 35 illegal aliens from Mexico and Guatemala.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 405,
+      "end_ix": 544,
+      "text": "\nOn Sunday, February 11, the Rio Grande City Station received a call from a concerned citizen regarding suspicious activity at a residence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 544,
+      "end_ix": 656,
+      "text": "\nAgents and local law enforcement responded and discovered 25 illegal aliens from Mexico, Guatemala, and Brazil.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 656,
+      "end_ix": 780,
+      "text": "\nHomeland Security Investigations (HSI) McAllen Office arrested one individual in connection to Sunday\u2019s enforcement action.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 780,
+      "end_ix": 814,
+      "text": "\nNo further details were released.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

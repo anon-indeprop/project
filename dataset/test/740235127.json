@@ -1,0 +1,570 @@
+{
+  "article_id": "740235127",
+  "sentence offsets in original": [
+    0,
+    228,
+    472,
+    726,
+    844,
+    861,
+    916,
+    1066,
+    1189,
+    1238,
+    1362,
+    1430,
+    1475,
+    1496,
+    1498,
+    1500,
+    1552,
+    1672,
+    1721,
+    1753,
+    1785,
+    1947,
+    2121,
+    2173,
+    2228,
+    2292,
+    2322,
+    2467,
+    2644,
+    2732,
+    2860,
+    2934,
+    2962,
+    3006,
+    3090,
+    3114
+  ],
+  "original sentences": [
+    "Rand Paul: I'll Do \"Whatever It Takes\" To Block Haspel & Pompeo\n\nSenator Rand Paul (R-KY) has expressed some of my thoughts when it comes to the newly nominated Secretary of State and director of the Central Intelligence Agency.",
+    "\nPaul told CNN\u2019s \u201cState of the Union\u201d and CBS News\u2019 \u201cFace the Nation\u201d on Sunday that he would do \"whatever it takes,\" including a filibuster, to block the confirmations of Mike Pompeo to head the State Department and Gina Haspel to run the CIA.",
+    "\n\u201cYou really want a diplomat to be in charge of the State Department, not someone who is advocating for war,\u201d he told \u201cFace the Nation.\u201d\n\u201cI frankly think that Pompeo\u2019s positions are too much of an advocate for regime change, really everywhere,\u201d he added.",
+    "\n\"I don't think our policy ought to be for regime change, so I think Pompeo really isn't a good fit to be a diplomat.\"",
+    "\nHe's right, too.",
+    "\nPompeo has advocated for regime change in North Korea.",
+    "\nWe've seen exactly what happens when the US gets involved in such types of regime changes, and the truth is that they really don't work out too well.",
+    "\nAs for Haspel, Paul told \"Face The Nation,\" \"She oversaw an illegal black ops operation in Thailand that included torture.",
+    "\nI don't think torture is what America is about.\"",
+    "\nOn \"State of the Union,\" Paul added, \"I'll do whatever it takes, and that includes filibuster\" to block their confirmation.",
+    "\n\"I don't have the power to stop her nomination,\" he said of Haspel.",
+    "\n\"There's enough votes she'll eventually win.",
+    "\nFew things in life .",
+    "\n.",
+    "\n.",
+    "\n[are] worth standing up saying 'enough is enough.'\"",
+    "\n\"We are not a people that should be so fearful or vengeful that we think that torture is somehow acceptable,\" he added.",
+    "\n\"On what level could torture ever be acceptable?",
+    "\nWe should make a stand on this.",
+    "\nShe should never lead the CIA.\"",
+    "\nBoth nominations may face tough confirmation hearings, but it seems that many Americans are just fine with these types of people being in these types of offices.",
+    "\nThe only thing I can think for that kind of reasoning is that people do not know their Constitution and understand exactly what Senator Paul is trying to warn America about.",
+    "\nInstead, people are acting out of emotion and fear.",
+    "\nDo I believe we should be concerned about North Korea?",
+    "\nSure, but I'm hardly worried that they will actually attack us.",
+    "\nAm I concerned about jihadis?",
+    "\nYep, but I'm not sure I've seen any real hard evidence that torturing them has produced any information that has led to stopping terror attacks.",
+    "\nAnd before you tell me about the media reports and CIA involvement, just keep in mind that a former journalist, who is now dead, told the world that the media lies for the CIA.",
+    "\nSo, I'm wary of media reports that claim there have been results from the tactics used.",
+    "\nTrump has obviously had praise for both Pompeo and Haspel, but then again, his administration has quite a bit of turn over too.",
+    "\nMike Pompeo, Director of the CIA, will become our new Secretary of State.",
+    "\nHe will do a fantastic job!",
+    "\nThank you to Rex Tillerson for his service!",
+    "\nGina Haspel will become the new Director of the CIA, and the first woman so chosen.",
+    "\nCongratulations to all!",
+    "\n\u2014 Donald J. Trump (@realDonaldTrump) March 13, 2018\nWe'll see how things turn out and I'm sure Senator Paul is not issuing an empty threat in the matter."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 228,
+      "text": "Rand Paul: I'll Do \"Whatever It Takes\" To Block Haspel & Pompeo\n\nSenator Rand Paul (R-KY) has expressed some of my thoughts when it comes to the newly nominated Secretary of State and director of the Central Intelligence Agency.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 228,
+      "end_ix": 472,
+      "text": "\nPaul told CNN\u2019s \u201cState of the Union\u201d and CBS News\u2019 \u201cFace the Nation\u201d on Sunday that he would do \"whatever it takes,\" including a filibuster, to block the confirmations of Mike Pompeo to head the State Department and Gina Haspel to run the CIA.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 472,
+      "end_ix": 726,
+      "text": "\n\u201cYou really want a diplomat to be in charge of the State Department, not someone who is advocating for war,\u201d he told \u201cFace the Nation.\u201d\n\u201cI frankly think that Pompeo\u2019s positions are too much of an advocate for regime change, really everywhere,\u201d he added.",
+      "new_text": "\n\u201cYou really want a diplomat to be in charge of the State Department, not someone who is advocating for war,\u201d he told \u201cFace the Nation.\u201d\n\u201cI frankly think that Pompeo\u2019s positions are too much of an advocate for regime change, really everywhere,\u201d he added.",
+      "prop_spans": [
+        [
+          474,
+          579,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 726,
+      "end_ix": 844,
+      "text": "\n\"I don't think our policy ought to be for regime change, so I think Pompeo really isn't a good fit to be a diplomat.\"",
+      "new_text": "\n\"I don't think our policy ought to be for regime change, so I think Pompeo really isn't a good fit to be a diplomat.\"",
+      "prop_spans": [
+        [
+          795,
+          842,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 844,
+      "end_ix": 861,
+      "text": "\nHe's right, too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 861,
+      "end_ix": 916,
+      "text": "\nPompeo has advocated for regime change in North Korea.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 916,
+      "end_ix": 1066,
+      "text": "\nWe've seen exactly what happens when the US gets involved in such types of regime changes, and the truth is that they really don't work out too well.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1066,
+      "end_ix": 1189,
+      "text": "\nAs for Haspel, Paul told \"Face The Nation,\" \"She oversaw an illegal black ops operation in Thailand that included torture.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1189,
+      "end_ix": 1238,
+      "text": "\nI don't think torture is what America is about.\"",
+      "new_text": "\nI don't think torture is what America is about.\"",
+      "prop_spans": [
+        [
+          1190,
+          1238,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1238,
+      "end_ix": 1362,
+      "text": "\nOn \"State of the Union,\" Paul added, \"I'll do whatever it takes, and that includes filibuster\" to block their confirmation.",
+      "new_text": "\nOn \"State of the Union,\" Paul added, \"I'll do whatever it takes, and that includes filibuster\" to block their confirmation.",
+      "prop_spans": [
+        [
+          1238,
+          1239,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1362,
+      "end_ix": 1430,
+      "text": "\n\"I don't have the power to stop her nomination,\" he said of Haspel.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1430,
+      "end_ix": 1475,
+      "text": "\n\"There's enough votes she'll eventually win.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1475,
+      "end_ix": 1496,
+      "text": "\nFew things in life .",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1476,
+          1496,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1496,
+      "end_ix": 1498,
+      "text": "\n.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1496,
+          1498,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1498,
+      "end_ix": 1500,
+      "text": "\n.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1498,
+          1500,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1500,
+      "end_ix": 1552,
+      "text": "\n[are] worth standing up saying 'enough is enough.'\"",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1500,
+          1525,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          1533,
+          1552,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1552,
+      "end_ix": 1672,
+      "text": "\n\"We are not a people that should be so fearful or vengeful that we think that torture is somehow acceptable,\" he added.",
+      "new_text": "\n\"We are not a people that should be so fearful or vengeful that we think that torture is somehow acceptable,\" he added.",
+      "prop_spans": [
+        [
+          1552,
+          1552,
+          "Slogans"
+        ],
+        [
+          1554,
+          1662,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1672,
+      "end_ix": 1721,
+      "text": "\n\"On what level could torture ever be acceptable?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1721,
+      "end_ix": 1753,
+      "text": "\nWe should make a stand on this.",
+      "new_text": "\nWe should make a stand on this.",
+      "prop_spans": [
+        [
+          1722,
+          1753,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1722,
+          1752,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1753,
+      "end_ix": 1785,
+      "text": "\nShe should never lead the CIA.\"",
+      "new_text": "\nShe should never lead the CIA.\"",
+      "prop_spans": [
+        [
+          1753,
+          1785,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1785,
+      "end_ix": 1947,
+      "text": "\nBoth nominations may face tough confirmation hearings, but it seems that many Americans are just fine with these types of people being in these types of offices.",
+      "new_text": "\nBoth nominations may face tough confirmation hearings, but it seems that several Americans are fine with these types of people being in these types of offices.",
+      "prop_spans": [
+        [
+          1785,
+          1786,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1859,
+          1947,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1947,
+      "end_ix": 2121,
+      "text": "\nThe only thing I can think for that kind of reasoning is that people do not know their Constitution and understand exactly what Senator Paul is trying to warn America about.",
+      "new_text": "\nThe only thing I can think for that kind of reasoning is that people do not know their Constitution and understand exactly what Senator Paul is trying to warn us about.",
+      "prop_spans": [
+        [
+          1947,
+          1947,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2010,
+          2121,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2121,
+      "end_ix": 2173,
+      "text": "\nInstead, people are acting out of emotion and fear.",
+      "new_text": "\nInstead, people are acting out of emotion and fear.",
+      "prop_spans": [
+        [
+          2121,
+          2121,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2173,
+      "end_ix": 2228,
+      "text": "\nDo I believe we should be concerned about North Korea?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2228,
+      "end_ix": 2292,
+      "text": "\nSure, but I'm hardly worried that they will actually attack us.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2292,
+      "end_ix": 2322,
+      "text": "\nAm I concerned about jihadis?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2322,
+      "end_ix": 2467,
+      "text": "\nYep, but I'm not sure I've seen any real hard evidence that torturing them has produced any information that has led to stopping terror attacks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2467,
+      "end_ix": 2644,
+      "text": "\nAnd before you tell me about the media reports and CIA involvement, just keep in mind that a former journalist, who is now dead, told the world that the media lies for the CIA.",
+      "new_text": "\nAnd before you tell me about the media reports and CIA involvement, just keep in mind that a former journalist told the world that the media lies for the CIA.",
+      "prop_spans": [
+        [
+          2559,
+          2644,
+          "Causal_Oversimplification"
+        ],
+        [
+          2580,
+          2596,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2644,
+      "end_ix": 2732,
+      "text": "\nSo, I'm wary of media reports that claim there have been results from the tactics used.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2644,
+          2732,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2732,
+      "end_ix": 2860,
+      "text": "\nTrump has obviously had praise for both Pompeo and Haspel, but then again, his administration has quite a bit of turn over too.",
+      "new_text": "\nTrump has had praise for both Pompeo and Haspel, but then again, his administration has quite a bit of turn over too.",
+      "prop_spans": [
+        [
+          2732,
+          2732,
+          "Causal_Oversimplification"
+        ],
+        [
+          2733,
+          2860,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2860,
+      "end_ix": 2934,
+      "text": "\nMike Pompeo, Director of the CIA, will become our new Secretary of State.",
+      "new_text": "\nMike Pompeo, Director of the CIA, will become our new Secretary of State.",
+      "prop_spans": [
+        [
+          2860,
+          2860,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2934,
+      "end_ix": 2962,
+      "text": "\nHe will do a fantastic job!",
+      "new_text": "\nHe will do a great job!",
+      "prop_spans": [
+        [
+          2935,
+          2962,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2935,
+          2961,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2962,
+      "end_ix": 3006,
+      "text": "\nThank you to Rex Tillerson for his service!",
+      "new_text": "\nThank you to Rex Tillerson for his service!",
+      "prop_spans": [
+        [
+          2962,
+          2962,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3006,
+      "end_ix": 3090,
+      "text": "\nGina Haspel will become the new Director of the CIA, and the first woman so chosen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3090,
+      "end_ix": 3114,
+      "text": "\nCongratulations to all!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3114,
+      "end_ix": 3268,
+      "text": "\n\u2014 Donald J. Trump (@realDonaldTrump) March 13, 2018\nWe'll see how things turn out and I'm sure Senator Paul is not issuing an empty threat in the matter.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      474,
+      579,
+      "Appeal_to_Authority"
+    ],
+    [
+      795,
+      842,
+      "Doubt"
+    ],
+    [
+      1190,
+      1239,
+      "Flag-Waving"
+    ],
+    [
+      1476,
+      1525,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1533,
+      1552,
+      "Slogans"
+    ],
+    [
+      1554,
+      1662,
+      "Flag-Waving"
+    ],
+    [
+      1722,
+      1786,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1722,
+      1752,
+      "Appeal_to_Authority"
+    ],
+    [
+      1859,
+      1947,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2010,
+      2121,
+      "Flag-Waving"
+    ],
+    [
+      2559,
+      2732,
+      "Causal_Oversimplification"
+    ],
+    [
+      2580,
+      2596,
+      "Red_Herring"
+    ],
+    [
+      2733,
+      2860,
+      "Whataboutism"
+    ],
+    [
+      2935,
+      2962,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2935,
+      2961,
+      "Appeal_to_Authority"
+    ]
+  ]
+}

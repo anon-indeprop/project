@@ -1,0 +1,409 @@
+{
+  "article_id": "737457870",
+  "sentence offsets in original": [
+    0,
+    122,
+    290,
+    462,
+    563,
+    621,
+    753,
+    888,
+    982,
+    1130,
+    1194,
+    1252,
+    1328,
+    1409,
+    1437,
+    1479,
+    1572,
+    1605,
+    1714,
+    1767,
+    1950,
+    2100,
+    2195,
+    2301,
+    2465,
+    2654,
+    2729,
+    2849,
+    2880,
+    2927
+  ],
+  "original sentences": [
+    "3rd Highest Ranked Dem Civil Rights Hero Appeared w/Farrakhan, Won't Condemn\n\nThe media's Farrakhan embargo is collapsing.",
+    "\nAnd that's due to the hard work of committed conservative journalists who stayed on this story, especially at the Daily Caller, which got the Rep. Davis quotes, twice.",
+    "\nSome credit also goes to Jake Tapper at CNN and Glenn Kessler at the Washington Post for a willingness to discuss the subject even when their media outlets didn't want to.",
+    "\nThe debate over the ties between Women's March leaders and Farrakhan made into a debate on the View.",
+    "\nAnd that debate involved none other than Valerie Jarrett.",
+    "\nThe New York Times has now run its own explainer piece on Farrakhan and the Dems which mentions the infamous Obama-Farrakhan photo.",
+    "\nThere's also a quote from an Obama spokeswoman claiming that, \u201cPresident Obama has denounced racism and anti-Semitism his entire life.",
+    "\nThat includes his public and repeated repudiations of Louis Farrakhan\u2019s views over the years.",
+    "\nToday is no different \u2013 he still rejects the harmful and divisive views Farrakhan continues to espouse.\u201d\nThat fails to explain why he met with him.",
+    "\nAnd maybe one of these days someone will ask him that question.",
+    "\nAnd then Obama can give a new remix of his Wright speech.",
+    "\n\"I can no more disavow Calypso Louie than I can my dead white grandmother.\"",
+    "\nRep. Danny Davis, after defending Farrakhan, now has a statement condemning him.",
+    "\nBut we've seen that before.",
+    "\nSo it likely doesn't represent his views.",
+    "\nAfter a previous statement, Rep. Davis made an infamous comment about the \"Jewish question\".",
+    "\nSo it probably still isn't over.",
+    "\nThe statement though is full of conspiracy theories and blames everyone else for Davis' behavior except him.",
+    "\nAnd now on to \"civil rights hero\" (TM) Rep. Clyburn.",
+    "\nSouth Carolina Rep. James Clyburn attended a 2011 event with Farrakhan and shared the stage with him, even after Jewish groups voiced their opposition to Clyburn attending the event.",
+    "\nClyburn told the Final Call, a Nation of Islam publication, that he was \u201cnot bothered in the least bit\u201d by criticisms of his attendance at the event.",
+    "\nAs the assistant Democratic leader, Clyburn is the third-highest ranked Democrat in the House.",
+    "\nHe declined to condemn Farrakhan in a statement released to The Daily Caller News Foundation on Thursday.",
+    "\n\u201cI have fought all my life to advance the cause of social justice and equality, and I have always opposed bigotry in all its forms,\u201d Clyburn said in the statement.",
+    "\nHis office declined repeated inquiries regarding whether the congressman is willing to condemn Farrakhan, and whether he stood by his decision in 2011 to shrug off criticisms of Farrakhan.",
+    "\nClyburn is now the eighth House Democrat to have direct ties to Farrakhan.",
+    "\nThe Republican Jewish Coalition has already called on the seven other Democrats to resign over their ties to Farrakhan.",
+    "\nObviously not going to happen.",
+    "\nBut the story is breaking through the embargo.",
+    "\nWe're starting to have that \"national dialogue\" about racism that the left keeps wanting us to have."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 122,
+      "text": "3rd Highest Ranked Dem Civil Rights Hero Appeared w/Farrakhan, Won't Condemn\n\nThe media's Farrakhan embargo is collapsing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 122,
+      "end_ix": 290,
+      "text": "\nAnd that's due to the hard work of committed conservative journalists who stayed on this story, especially at the Daily Caller, which got the Rep. Davis quotes, twice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 290,
+      "end_ix": 462,
+      "text": "\nSome credit also goes to Jake Tapper at CNN and Glenn Kessler at the Washington Post for a willingness to discuss the subject even when their media outlets didn't want to.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 462,
+      "end_ix": 563,
+      "text": "\nThe debate over the ties between Women's March leaders and Farrakhan made into a debate on the View.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 563,
+      "end_ix": 621,
+      "text": "\nAnd that debate involved none other than Valerie Jarrett.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 621,
+      "end_ix": 753,
+      "text": "\nThe New York Times has now run its own explainer piece on Farrakhan and the Dems which mentions the infamous Obama-Farrakhan photo.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 753,
+      "end_ix": 888,
+      "text": "\nThere's also a quote from an Obama spokeswoman claiming that, \u201cPresident Obama has denounced racism and anti-Semitism his entire life.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 888,
+      "end_ix": 982,
+      "text": "\nThat includes his public and repeated repudiations of Louis Farrakhan\u2019s views over the years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 982,
+      "end_ix": 1130,
+      "text": "\nToday is no different \u2013 he still rejects the harmful and divisive views Farrakhan continues to espouse.\u201d\nThat fails to explain why he met with him.",
+      "new_text": "\nToday is no different \u2013 he still rejects the harmful and divisive views Farrakhan continues to espouse.\u201d\nThat fails to explain why he met with him.",
+      "prop_spans": [
+        [
+          1024,
+          1054,
+          "Loaded_Language"
+        ],
+        [
+          1093,
+          1130,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1130,
+      "end_ix": 1194,
+      "text": "\nAnd maybe one of these days someone will ask him that question.",
+      "new_text": "\nAnd maybe one of these days someone will ask him that question.",
+      "prop_spans": [
+        [
+          1130,
+          1130,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1194,
+      "end_ix": 1252,
+      "text": "\nAnd then Obama can give a new remix of his Wright speech.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1252,
+      "end_ix": 1328,
+      "text": "\n\"I can no more disavow Calypso Louie than I can my dead white grandmother.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1328,
+      "end_ix": 1409,
+      "text": "\nRep. Danny Davis, after defending Farrakhan, now has a statement condemning him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1409,
+      "end_ix": 1437,
+      "text": "\nBut we've seen that before.",
+      "new_text": "\nBut we've seen that before.",
+      "prop_spans": [
+        [
+          1410,
+          1437,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1437,
+      "end_ix": 1479,
+      "text": "\nSo it likely doesn't represent his views.",
+      "new_text": "\nSo it possibly doesn't represent his views.",
+      "prop_spans": [
+        [
+          1437,
+          1479,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1479,
+      "end_ix": 1572,
+      "text": "\nAfter a previous statement, Rep. Davis made an infamous comment about the \"Jewish question\".",
+      "new_text": "\nAfter a previous statement, Rep. Davis made an infamous comment about the \"Jewish question\".",
+      "prop_spans": [
+        [
+          1479,
+          1479,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1572,
+      "end_ix": 1605,
+      "text": "\nSo it probably still isn't over.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1605,
+      "end_ix": 1714,
+      "text": "\nThe statement though is full of conspiracy theories and blames everyone else for Davis' behavior except him.",
+      "new_text": "\nThe statement though is probably full of conspiracy theories and blames everyone else for Davis' behavior except him.",
+      "prop_spans": [
+        [
+          1606,
+          1714,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1714,
+      "end_ix": 1767,
+      "text": "\nAnd now on to \"civil rights hero\" (TM) Rep. Clyburn.",
+      "new_text": "\nAnd now on to Rep. Clyburn.",
+      "prop_spans": [
+        [
+          1714,
+          1715,
+          "Causal_Oversimplification"
+        ],
+        [
+          1730,
+          1747,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1767,
+      "end_ix": 1950,
+      "text": "\nSouth Carolina Rep. James Clyburn attended a 2011 event with Farrakhan and shared the stage with him, even after Jewish groups voiced their opposition to Clyburn attending the event.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1950,
+      "end_ix": 2100,
+      "text": "\nClyburn told the Final Call, a Nation of Islam publication, that he was \u201cnot bothered in the least bit\u201d by criticisms of his attendance at the event.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2100,
+      "end_ix": 2195,
+      "text": "\nAs the assistant Democratic leader, Clyburn is the third-highest ranked Democrat in the House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2195,
+      "end_ix": 2301,
+      "text": "\nHe declined to condemn Farrakhan in a statement released to The Daily Caller News Foundation on Thursday.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2196,
+          2301,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2301,
+      "end_ix": 2465,
+      "text": "\n\u201cI have fought all my life to advance the cause of social justice and equality, and I have always opposed bigotry in all its forms,\u201d Clyburn said in the statement.",
+      "new_text": "\n\u201cI have fought all my life to advance the cause of social justice and equality, and I have always opposed bigotry in all its forms,\u201d Clyburn said in the statement.",
+      "prop_spans": [
+        [
+          2301,
+          2465,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2465,
+      "end_ix": 2654,
+      "text": "\nHis office declined repeated inquiries regarding whether the congressman is willing to condemn Farrakhan, and whether he stood by his decision in 2011 to shrug off criticisms of Farrakhan.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2465,
+          2465,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2654,
+      "end_ix": 2729,
+      "text": "\nClyburn is now the eighth House Democrat to have direct ties to Farrakhan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2729,
+      "end_ix": 2849,
+      "text": "\nThe Republican Jewish Coalition has already called on the seven other Democrats to resign over their ties to Farrakhan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2849,
+      "end_ix": 2880,
+      "text": "\nObviously not going to happen.",
+      "new_text": "\nMostly not goint to happen.",
+      "prop_spans": [
+        [
+          2850,
+          2880,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2880,
+      "end_ix": 2927,
+      "text": "\nBut the story is breaking through the embargo.",
+      "new_text": "\nBut the story is breaking through the embargo.",
+      "prop_spans": [
+        [
+          2880,
+          2880,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2927,
+      "end_ix": 3028,
+      "text": "\nWe're starting to have that \"national dialogue\" about racism that the left keeps wanting us to have.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2928,
+          3028,
+          "Red_Herring"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1024,
+      1054,
+      "Loaded_Language"
+    ],
+    [
+      1093,
+      1130,
+      "Doubt"
+    ],
+    [
+      1410,
+      1479,
+      "Doubt"
+    ],
+    [
+      1606,
+      1715,
+      "Causal_Oversimplification"
+    ],
+    [
+      1730,
+      1747,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2196,
+      2465,
+      "Red_Herring"
+    ],
+    [
+      2850,
+      2880,
+      "Doubt"
+    ],
+    [
+      2928,
+      3029,
+      "Red_Herring"
+    ]
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "article_id": "785331076",
+  "sentence offsets in original": [
+    0,
+    215,
+    349,
+    385,
+    544,
+    665,
+    967,
+    1029,
+    1091,
+    1246,
+    1328,
+    1356,
+    1419,
+    1601,
+    1708,
+    1827,
+    1892,
+    1978,
+    2051,
+    2108,
+    2221,
+    2323,
+    2449,
+    2592,
+    2765,
+    2965,
+    3088,
+    3208,
+    3245,
+    3549,
+    3648,
+    3798,
+    3922
+  ],
+  "original sentences": [
+    "Texas: Cop Walks Into Home She Thought Was Hers, Kills Innocent Homeowner\u2014Not Arrested\n\nDallas, TX \u2014 Highlighting the sheer insane state of law enforcement in America today is a tragic story out of Dallas this week.",
+    "\nAn off-duty police officer walked into the wrong home after getting off shift, thought the homeowner was an intruder, and killed him.",
+    "\nAnd, she has not yet been arrested.",
+    "\nThe victim was 26-year-old Bothan Shem Jean who was most likely startled by someone coming into his home at 10:00 pm when the unnamed officer opened his door.",
+    "\nWhile the details surrounding how Jean was killed are unclear, according to police, the officer admitted to killing him.",
+    "\nIn a statement released on Friday, Dallas police said their officer called them after shooting Jean and told responding officers that \u201cshe entered the victim\u2019s apartment believing that it was her own.\u201d\ntake our poll - story continues below Who should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nOn September 6, 2018 at about 9:59 p.m., an off duty Dallas Police officer called police dispatch and said she was involved in a shooting at the apartments located at 1210 S. Lamar.",
+    "\nPreliminary information suggests that the officer arrived home in full uniform after working a full shift.",
+    "\nThe officer reported to the responding officers that she entered the victim\u2019s apartment believing that it was her own.",
+    "\nAt some point, the officer fired her weapon striking the victim.",
+    "\nResponding officers administered aid to the victim, a 26-year-old male, at the scene.",
+    "\nThe victim was then transported to the hospital and pronounced deceased.",
+    "\nNext of kin notification has not been made at this time.",
+    "\nThe officer was not injured and will be placed on administrative leave pending the outcome of the investigation.",
+    "\nThe Dallas Police Department is conducting a joint investigation with the District Attorney\u2019s Office.",
+    "\nThis investigation is ongoing and we will release additional details as they become available and it is appropriate to do so.",
+    "\nIf an average citizen walked into the wrong home and shot and killed an innocent homeowner, rest assured that they would be in jail\u2014right now.",
+    "\nHowever, instead of immediately arresting the officer for trespassing and murder, she was simply placed on administrative leave\u2014a glaring function of blue privilege indeed.",
+    "\n\u201cSuper scary because the police are supposed to protect you and then they come home and, you know, you\u2019re just hanging out in your own house and then they come home thinking they\u2019re home or whatever.",
+    "\nI don\u2019t know if she was tired but that\u2019s pretty scary,\u201d Richard Healy Nelson, who lives in the complex, said to reporters.",
+    "\nNBC News spoke with Jean\u2019s mother in a phone interview from her home in St. Lucia who was stunned to hear of his death.",
+    "\n\u201cHe did no one any wrong,\u201d she said.",
+    "\nWhile the Free Thought Project consistently reports on police officers entering the wrong home during raids and killing, maiming, or traumatizing entirely innocent people, this is the first time we\u2019ve reported a story of an off-duty cop going into the wrong home, on their way home, and killing someone.",
+    "\nThe details of how or why this officer would walk into an apartment that was not hers are unclear.",
+    "\nHowever, what is entirely clear is the fact that a mother and father are now and will be grieving for the rest of their lives because of her actions.",
+    "\nAnd, in a slap to the face of Jean\u2019s parents, the person who admitted to killing their innocent son has yet to be arrested.",
+    "\nArticle posted with permission from The Free Thought Project"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 215,
+      "text": "Texas: Cop Walks Into Home She Thought Was Hers, Kills Innocent Homeowner\u2014Not Arrested\n\nDallas, TX \u2014 Highlighting the sheer insane state of law enforcement in America today is a tragic story out of Dallas this week.",
+      "new_text": "Texas: Cop Walks Into Home She Thought Was Hers, Kills Homeowner\u2014Not Arrested\n\nDallas, TX \u2014 Highlighting the sheer crazy state of law enforcement in America today is a sad story out of Dallas this week.",
+      "prop_spans": [
+        [
+          55,
+          63,
+          "Name_Calling,Labeling"
+        ],
+        [
+          124,
+          130,
+          "Loaded_Language"
+        ],
+        [
+          178,
+          184,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 215,
+      "end_ix": 349,
+      "text": "\nAn off-duty police officer walked into the wrong home after getting off shift, thought the homeowner was an intruder, and killed him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 349,
+      "end_ix": 385,
+      "text": "\nAnd, she has not yet been arrested.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 385,
+      "end_ix": 544,
+      "text": "\nThe victim was 26-year-old Bothan Shem Jean who was most likely startled by someone coming into his home at 10:00 pm when the unnamed officer opened his door.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 544,
+      "end_ix": 665,
+      "text": "\nWhile the details surrounding how Jean was killed are unclear, according to police, the officer admitted to killing him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 665,
+      "end_ix": 967,
+      "text": "\nIn a statement released on Friday, Dallas police said their officer called them after shooting Jean and told responding officers that \u201cshe entered the victim\u2019s apartment believing that it was her own.\u201d\ntake our poll - story continues below Who should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 967,
+      "end_ix": 1029,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1029,
+      "end_ix": 1091,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1091,
+      "end_ix": 1246,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1246,
+      "end_ix": 1328,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1328,
+      "end_ix": 1356,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1356,
+      "end_ix": 1419,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1419,
+      "end_ix": 1601,
+      "text": "\nOn September 6, 2018 at about 9:59 p.m., an off duty Dallas Police officer called police dispatch and said she was involved in a shooting at the apartments located at 1210 S. Lamar.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1601,
+      "end_ix": 1708,
+      "text": "\nPreliminary information suggests that the officer arrived home in full uniform after working a full shift.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1708,
+      "end_ix": 1827,
+      "text": "\nThe officer reported to the responding officers that she entered the victim\u2019s apartment believing that it was her own.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1827,
+      "end_ix": 1892,
+      "text": "\nAt some point, the officer fired her weapon striking the victim.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1892,
+      "end_ix": 1978,
+      "text": "\nResponding officers administered aid to the victim, a 26-year-old male, at the scene.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1978,
+      "end_ix": 2051,
+      "text": "\nThe victim was then transported to the hospital and pronounced deceased.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2051,
+      "end_ix": 2108,
+      "text": "\nNext of kin notification has not been made at this time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2108,
+      "end_ix": 2221,
+      "text": "\nThe officer was not injured and will be placed on administrative leave pending the outcome of the investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2221,
+      "end_ix": 2323,
+      "text": "\nThe Dallas Police Department is conducting a joint investigation with the District Attorney\u2019s Office.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2323,
+      "end_ix": 2449,
+      "text": "\nThis investigation is ongoing and we will release additional details as they become available and it is appropriate to do so.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2449,
+      "end_ix": 2592,
+      "text": "\nIf an average citizen walked into the wrong home and shot and killed an innocent homeowner, rest assured that they would be in jail\u2014right now.",
+      "new_text": "\nIf an average citizen walked into the wrong home and shot and killed a homeowner, rest assured that they would be in jail\u2014right now.",
+      "prop_spans": [
+        [
+          2522,
+          2530,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2592,
+      "end_ix": 2765,
+      "text": "\nHowever, instead of immediately arresting the officer for trespassing and murder, she was simply placed on administrative leave\u2014a glaring function of blue privilege indeed.",
+      "new_text": "\nHowever, instead of immediately arresting the officer for trespassing and murder, she was simply placed on administrative leave\u2014a function of police privilege.",
+      "prop_spans": [
+        [
+          2723,
+          2730,
+          "Loaded_Language"
+        ],
+        [
+          2743,
+          2757,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2765,
+      "end_ix": 2965,
+      "text": "\n\u201cSuper scary because the police are supposed to protect you and then they come home and, you know, you\u2019re just hanging out in your own house and then they come home thinking they\u2019re home or whatever.",
+      "new_text": "\n\u201cSuper scary because the police are supposed to protect you and then they come home and, you know, you\u2019re just hanging out in your own house and then they come home thinking they\u2019re home or whatever.",
+      "prop_spans": [
+        [
+          2767,
+          2778,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2965,
+      "end_ix": 3088,
+      "text": "\nI don\u2019t know if she was tired but that\u2019s pretty scary,\u201d Richard Healy Nelson, who lives in the complex, said to reporters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3088,
+      "end_ix": 3208,
+      "text": "\nNBC News spoke with Jean\u2019s mother in a phone interview from her home in St. Lucia who was stunned to hear of his death.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3208,
+      "end_ix": 3245,
+      "text": "\n\u201cHe did no one any wrong,\u201d she said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3245,
+      "end_ix": 3549,
+      "text": "\nWhile the Free Thought Project consistently reports on police officers entering the wrong home during raids and killing, maiming, or traumatizing entirely innocent people, this is the first time we\u2019ve reported a story of an off-duty cop going into the wrong home, on their way home, and killing someone.",
+      "new_text": "\nWhile the Free Thought Project consistently reports on police officers entering the wrong home during raids and killing, injuring, or distressing people, this is the first time we\u2019ve reported a story of an off-duty cop going into the wrong home, on their way home, and killing someone.",
+      "prop_spans": [
+        [
+          3367,
+          3374,
+          "Loaded_Language"
+        ],
+        [
+          3379,
+          3391,
+          "Loaded_Language"
+        ],
+        [
+          3392,
+          3409,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3401,
+          3410,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3549,
+      "end_ix": 3648,
+      "text": "\nThe details of how or why this officer would walk into an apartment that was not hers are unclear.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3648,
+      "end_ix": 3798,
+      "text": "\nHowever, what is entirely clear is the fact that a mother and father are now and will be grieving for the rest of their lives because of her actions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3798,
+      "end_ix": 3922,
+      "text": "\nAnd, in a slap to the face of Jean\u2019s parents, the person who admitted to killing their innocent son has yet to be arrested.",
+      "new_text": "\nAnd, in a slap to the face of Jean\u2019s parents, the person who admitted to killing their son has yet to be arrested.",
+      "prop_spans": [
+        [
+          3886,
+          3894,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3922,
+      "end_ix": 3983,
+      "text": "\nArticle posted with permission from The Free Thought Project",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      55,
+      63,
+      "Name_Calling,Labeling"
+    ],
+    [
+      124,
+      130,
+      "Loaded_Language"
+    ],
+    [
+      178,
+      184,
+      "Loaded_Language"
+    ],
+    [
+      2522,
+      2530,
+      "Repetition"
+    ],
+    [
+      2723,
+      2730,
+      "Loaded_Language"
+    ],
+    [
+      2743,
+      2757,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2767,
+      2778,
+      "Loaded_Language"
+    ],
+    [
+      3367,
+      3374,
+      "Loaded_Language"
+    ],
+    [
+      3379,
+      3391,
+      "Loaded_Language"
+    ],
+    [
+      3392,
+      3409,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3401,
+      3410,
+      "Repetition"
+    ],
+    [
+      3886,
+      3894,
+      "Repetition"
+    ]
+  ]
+}

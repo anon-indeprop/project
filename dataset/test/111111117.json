@@ -1,0 +1,91 @@
+{
+  "article_id": "111111117",
+  "sentence offsets in original": [
+    0,
+    204,
+    332,
+    401,
+    617,
+    754,
+    918
+  ],
+  "original sentences": [
+    "Trump formally nominates Gina Haspel to be next CIA director\n\nWASHINGTON \u2014 President Donald Trump formally notified Congress on Tuesday that deputy CIA director Gina Haspel is his pick to lead the agency.",
+    "\n\nTrump tweeted last month that he had selected Haspel to replace Mike Pompeo, who is being considered to be secretary of state.",
+    "\nBut the president had not sent the formal paperwork to Capitol Hill.",
+    "\n\nLogistical issues, including an FBI background check that took longer than expected, was to blame, according to a U.S. official, who was not authorized to discuss the issue and spoke only on condition of anonymity.",
+    "\n\nStill, the delay prompted critics to speculate that the delay signaled the White House was having second thoughts about the nomination.",
+    "\nSome lawmakers and human rights groups oppose Haspel\u2019s nomination because of her role in the CIA\u2019s detention and harsh interrogation of terror suspects after 9/11.",
+    "\n\nThe Senate intelligence committee is expected to have a confirmation hearing for Haspel in coming weeks, followed by a vote in the full Senate."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 204,
+      "text": "Trump formally nominates Gina Haspel to be next CIA director\n\nWASHINGTON \u2014 President Donald Trump formally notified Congress on Tuesday that deputy CIA director Gina Haspel is his pick to lead the agency.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 204,
+      "end_ix": 332,
+      "text": "\n\nTrump tweeted last month that he had selected Haspel to replace Mike Pompeo, who is being considered to be secretary of state.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 332,
+      "end_ix": 401,
+      "text": "\nBut the president had not sent the formal paperwork to Capitol Hill.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 401,
+      "end_ix": 617,
+      "text": "\n\nLogistical issues, including an FBI background check that took longer than expected, was to blame, according to a U.S. official, who was not authorized to discuss the issue and spoke only on condition of anonymity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 617,
+      "end_ix": 754,
+      "text": "\n\nStill, the delay prompted critics to speculate that the delay signaled the White House was having second thoughts about the nomination.",
+      "new_text": "\n\nStill, the delay prompted critics to speculate that the delay could have signaled the White House was having second thoughts about the nomination.",
+      "prop_spans": [
+        [
+          671,
+          754,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 754,
+      "end_ix": 918,
+      "text": "\nSome lawmakers and human rights groups oppose Haspel\u2019s nomination because of her role in the CIA\u2019s detention and harsh interrogation of terror suspects after 9/11.",
+      "new_text": "\nSome lawmakers and human rights groups oppose Haspel\u2019s nomination because of her role in the CIA\u2019s detention and harsh interrogation of terror suspects after 9/11.",
+      "prop_spans": [
+        [
+          754,
+          754,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 918,
+      "end_ix": 1063,
+      "text": "\n\nThe Senate intelligence committee is expected to have a confirmation hearing for Haspel in coming weeks, followed by a vote in the full Senate.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      671,
+      754,
+      "Causal_Oversimplification"
+    ]
+  ]
+}

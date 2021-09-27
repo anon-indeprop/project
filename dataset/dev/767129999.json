@@ -1,0 +1,310 @@
+{
+  "article_id": "767129999",
+  "sentence offsets in original": [
+    0,
+    79,
+    236,
+    335,
+    575,
+    678,
+    743,
+    808,
+    1008,
+    1090,
+    1118,
+    1181,
+    1201,
+    1406,
+    1528,
+    1679,
+    1738,
+    1905,
+    2057,
+    2299,
+    2429,
+    2598,
+    2721
+  ],
+  "original sentences": [
+    "President Donald Trump Proposes \"Simple Immigration Plan\": Illegals Have To Go!",
+    "\n\nOn Monday, President Donald Trump proposed what he sees as an ideal immigration plan during a meeting with the King and Queen of Jordan at the White House.",
+    "\n\u201cWe want a system where when people come in illegally, they have to go out,\u201d Trump told reporters.",
+    "\n\u201cA nice simple system that works.\u201d\nTrump said that the system that Mexico uses to deal with illegals by holding them a few hours and then sending them away is preferable to how the long, drawn out process in the united States is conducted.",
+    "\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nI completely agree.",
+    "\nIn fact, I've often said if we catch people close to the border, we should not even bring them into the system if they are not citizens, but walk them back over the border and make sure they keep walking.",
+    "\nOften, by putting illegals into the system, it takes years to deport them, which costs the American people lots of money.",
+    "\nThat system would require more judges to handle more illegals and Trump ripped the calls for more judges in favor of a more \"simple immigration plan.\"",
+    "\n\u201cWe want strong borders and we want no crime,\u201d Trump said.",
+    "\n\u201cThe Democrats want open borders and they don\u2019t care about crime.\u201d\nTrump then called on Congress to correct the problems created by legislation with more legislation.",
+    "\n\u201cThe laws are obsolete, the laws are horrible, having to do with the border, both in terms of security and in terms of taking care of people,\u201d he said.",
+    "\n\u201cWe want children staying together,\u201d Trump said, blasting the New York Times report that said he didn't really want to sign his executive order last week that would keep families together in detention while they awaited the judicial process.",
+    "\nOf course, Trump has inherited a problem that has existed for several administrations, both Republican and Democrat, for decades.",
+    "\nIt is time that Congress sure up things so that America's tax dollars are not bound up in a worthless judicial process when people are clearly in the country illegally.",
+    "\nSadly, too many people want more amnesty which begs the question if any of them take the law seriously in the first place.",
+    "\nArticle posted with permission from Sons Of Liberty Media"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 79,
+      "text": "President Donald Trump Proposes \"Simple Immigration Plan\": Illegals Have To Go!",
+      "new_text": "President Donald Trump Proposes \"Simple Immigration Plan\"",
+      "prop_spans": [
+        [
+          59,
+          79,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 79,
+      "end_ix": 236,
+      "text": "\n\nOn Monday, President Donald Trump proposed what he sees as an ideal immigration plan during a meeting with the King and Queen of Jordan at the White House.",
+      "new_text": "\n\nOn Monday, President Donald Trump proposed what he sees as an ideal immigration plan during a meeting with the King and Queen of Jordan at the White House.",
+      "prop_spans": [
+        [
+          79,
+          79,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 236,
+      "end_ix": 335,
+      "text": "\n\u201cWe want a system where when people come in illegally, they have to go out,\u201d Trump told reporters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 335,
+      "end_ix": 575,
+      "text": "\n\u201cA nice simple system that works.\u201d\nTrump said that the system that Mexico uses to deal with illegals by holding them a few hours and then sending them away is preferable to how the long, drawn out process in the united States is conducted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 575,
+      "end_ix": 678,
+      "text": "\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 678,
+      "end_ix": 743,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 743,
+      "end_ix": 808,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 808,
+      "end_ix": 1008,
+      "text": "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1008,
+      "end_ix": 1090,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1090,
+      "end_ix": 1118,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1118,
+      "end_ix": 1181,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1181,
+      "end_ix": 1201,
+      "text": "\nI completely agree.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1201,
+      "end_ix": 1406,
+      "text": "\nIn fact, I've often said if we catch people close to the border, we should not even bring them into the system if they are not citizens, but walk them back over the border and make sure they keep walking.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1406,
+      "end_ix": 1528,
+      "text": "\nOften, by putting illegals into the system, it takes years to deport them, which costs the American people lots of money.",
+      "new_text": "\nOften, by putting illegals into the system, it takes years to deport them, which costs the people lots of money.",
+      "prop_spans": [
+        [
+          1498,
+          1513,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1528,
+      "end_ix": 1679,
+      "text": "\nThat system would require more judges to handle more illegals and Trump ripped the calls for more judges in favor of a more \"simple immigration plan.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1679,
+      "end_ix": 1738,
+      "text": "\n\u201cWe want strong borders and we want no crime,\u201d Trump said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1738,
+      "end_ix": 1905,
+      "text": "\n\u201cThe Democrats want open borders and they don\u2019t care about crime.\u201d\nTrump then called on Congress to correct the problems created by legislation with more legislation.",
+      "new_text": "\n\u201cThe Democrats want open borders and they don\u2019t care about crime.\u201d\nTrump then called on Congress to correct the problems created by legislation with more legislation.",
+      "prop_spans": [
+        [
+          1738,
+          1806,
+          "Straw_Men"
+        ],
+        [
+          1738,
+          1806,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1905,
+      "end_ix": 2057,
+      "text": "\n\u201cThe laws are obsolete, the laws are horrible, having to do with the border, both in terms of security and in terms of taking care of people,\u201d he said.",
+      "new_text": "\n\u201cThe laws are obsolete, the laws are horrible, having to do with the border, both in terms of security and in terms of taking care of people,\u201d he said.",
+      "prop_spans": [
+        [
+          1943,
+          1951,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2057,
+      "end_ix": 2299,
+      "text": "\n\u201cWe want children staying together,\u201d Trump said, blasting the New York Times report that said he didn't really want to sign his executive order last week that would keep families together in detention while they awaited the judicial process.",
+      "new_text": "\n\u201cWe want children staying together,\u201d Trump said, blasting the New York Times report that said he didn't really want to sign his executive order last week that would keep families together in detention while they awaited the judicial process.",
+      "prop_spans": [
+        [
+          2058,
+          2094,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2299,
+      "end_ix": 2429,
+      "text": "\nOf course, Trump has inherited a problem that has existed for several administrations, both Republican and Democrat, for decades.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2429,
+      "end_ix": 2598,
+      "text": "\nIt is time that Congress sure up things so that America's tax dollars are not bound up in a worthless judicial process when people are clearly in the country illegally.",
+      "new_text": "\nIt is time that Congress sure up things so that our tax dollars are not bound up in a judicial process when people are clearly in the country illegally.",
+      "prop_spans": [
+        [
+          2478,
+          2499,
+          "Flag-Waving"
+        ],
+        [
+          2522,
+          2531,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2598,
+      "end_ix": 2721,
+      "text": "\nSadly, too many people want more amnesty which begs the question if any of them take the law seriously in the first place.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2721,
+      "end_ix": 2779,
+      "text": "\nArticle posted with permission from Sons Of Liberty Media",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      59,
+      79,
+      "Slogans"
+    ],
+    [
+      1498,
+      1513,
+      "Flag-Waving"
+    ],
+    [
+      1738,
+      1806,
+      "Straw_Men"
+    ],
+    [
+      1738,
+      1806,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1943,
+      1951,
+      "Loaded_Language"
+    ],
+    [
+      2058,
+      2094,
+      "Slogans"
+    ],
+    [
+      2478,
+      2499,
+      "Flag-Waving"
+    ],
+    [
+      2522,
+      2531,
+      "Loaded_Language"
+    ]
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "article_id": "738028498",
+  "sentence offsets in original": [
+    0,
+    32,
+    207,
+    370,
+    573,
+    649,
+    739,
+    840,
+    985,
+    1120,
+    1165,
+    1290,
+    1320,
+    1485,
+    1583,
+    1657,
+    1827,
+    2281
+  ],
+  "original sentences": [
+    "Humanity\u2019s WIPEOUT Foreshadowed?",
+    "\nWorld Health Chief: Global Pandemic Imminent\n\nAccording to a World Health Organization doctor, a global pandemic is imminent, and no one will be prepared for it when it hits.",
+    "\nDr. Tedros Adhanom, director-general for WHO, has said that the next outbreak that will hit us will be a \u201cterrible\u201d one, causing a large death all over the world.",
+    "\n\u201cHumanity is more vulnerable in the face of epidemics because we are much more connected and we travel around much more quickly than before,\u201d said WHO specialist in infectious diseases Dr. Sylvie Brand.",
+    "\n\u201cWe know that it is coming, but we have no way of stopping it,\u201d said Brand.",
+    "\nAccording to Dr. Tedros, the flu is extremely dangerous to everyone living on the planet.",
+    "\nThis fear was also promoted by experts at the World Economic Forum in Davos, Switzerland last month.",
+    "\nThe claims came exactly 100 years after the 1918 Spanish flu that claimed 50 million lives and killed three times as many people as World War I.",
+    "\nA mutated strain is the most likely contender to wipe out millions because it can join together with other strains to become deadlier.",
+    "\n\u201cThis is not some future nightmare scenario.",
+    "\nA devastating epidemic could start in any country at any time and kill millions of people because we are still not prepared.",
+    "\nThe world remains vulnerable.",
+    "\nWe do not know where and when the next global pandemic will occur, but we know it will take a terrible toll both on human life and on the economy,\u201d said Dr. Tedros.",
+    "\n\u201cHidden underneath this fear-mongering message of a global pandemic is a far more sinister W.H.O.",
+    "\nagenda,\u201d warns Mike Adams, the Health Ranger, publisher of Medicine.news.",
+    "\n\u201cThe real agenda is a global push for blind, fear-based acceptance of unsafe, unproven vaccines that will be rolled out alongside the next global pandemic,\u201d Adams warns.",
+    "\n\u201cFear circumvents rational thinking, which is why the vaccine-pharma cartels routinely turn to irrational fear propaganda to demand absolute and unquestioning acceptance of risky medical interventions that should always be scrutinized for safety and efficacy.\u201d \u2013Natural News\nDr. Tedros\u2019 comments come on the heels of the plague outbreak in Madagascar, which was the most recent epidemic to receive international aid attention amid fears it would spread.",
+    "\nMore than 200 people were killed during the outbreak that ravaged the island over the winter, which prompted 10 nearby African countries to be placed on high alert."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 32,
+      "text": "Humanity\u2019s WIPEOUT Foreshadowed?",
+      "new_text": "Humanity\u2019s WIPEOUT Foreshadowed?",
+      "prop_spans": [
+        [
+          0,
+          32,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 32,
+      "end_ix": 207,
+      "text": "\nWorld Health Chief: Global Pandemic Imminent\n\nAccording to a World Health Organization doctor, a global pandemic is imminent, and no one will be prepared for it when it hits.",
+      "new_text": "\nWorld Health Chief: Global Pandemic Imminent\n\nAccording to a World Health Organization doctor, a global pandemic is imminent, and no one might be prepared for it when it hits.",
+      "prop_spans": [
+        [
+          32,
+          32,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          53,
+          77,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          130,
+          158,
+          "Appeal_to_Authority"
+        ],
+        [
+          130,
+          207,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 207,
+      "end_ix": 370,
+      "text": "\nDr. Tedros Adhanom, director-general for WHO, has said that the next outbreak that will hit us will be a \u201cterrible\u201d one, causing a large death all over the world.",
+      "new_text": "\nDr. Tedros Adhanom, director-general for WHO, has said that the next outbreak that will hit us will be a \u201cterrible\u201d one, causing a large death all over the world.",
+      "prop_spans": [
+        [
+          207,
+          207,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          313,
+          322,
+          "Loaded_Language"
+        ],
+        [
+          314,
+          322,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 370,
+      "end_ix": 573,
+      "text": "\n\u201cHumanity is more vulnerable in the face of epidemics because we are much more connected and we travel around much more quickly than before,\u201d said WHO specialist in infectious diseases Dr. Sylvie Brand.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 573,
+      "end_ix": 649,
+      "text": "\n\u201cWe know that it is coming, but we have no way of stopping it,\u201d said Brand.",
+      "new_text": "\n\u201cWe know that it is coming, but we have no way of stopping it,\u201d said Brand.",
+      "prop_spans": [
+        [
+          575,
+          635,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 649,
+      "end_ix": 739,
+      "text": "\nAccording to Dr. Tedros, the flu is extremely dangerous to everyone living on the planet.",
+      "new_text": "\nAccording to Dr. Tedros, the flu is extremely dangerous.",
+      "prop_spans": [
+        [
+          675,
+          738,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 739,
+      "end_ix": 840,
+      "text": "\nThis fear was also promoted by experts at the World Economic Forum in Davos, Switzerland last month.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 840,
+      "end_ix": 985,
+      "text": "\nThe claims came exactly 100 years after the 1918 Spanish flu that claimed 50 million lives and killed three times as many people as World War I.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 985,
+      "end_ix": 1120,
+      "text": "\nA mutated strain is the most likely contender to wipe out millions because it can join together with other strains to become deadlier.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1120,
+      "end_ix": 1165,
+      "text": "\n\u201cThis is not some future nightmare scenario.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1165,
+      "end_ix": 1290,
+      "text": "\nA devastating epidemic could start in any country at any time and kill millions of people because we are still not prepared.",
+      "new_text": "\nA devastating epidemic could start in any country at any time and kill people because we are still not prepared.",
+      "prop_spans": [
+        [
+          1166,
+          1290,
+          "Appeal_to_Authority"
+        ],
+        [
+          1168,
+          1179,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1290,
+      "end_ix": 1320,
+      "text": "\nThe world remains vulnerable.",
+      "new_text": "\nThe world remains vulnerable.",
+      "prop_spans": [
+        [
+          1290,
+          1320,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1320,
+      "end_ix": 1485,
+      "text": "\nWe do not know where and when the next global pandemic will occur, but we know it will take a terrible toll both on human life and on the economy,\u201d said Dr. Tedros.",
+      "new_text": "\nWe do not know where and when the next global pandemic will occur, but we know it will take a terrible toll both on human life and on the economy,\u201d said Dr. Tedros.",
+      "prop_spans": [
+        [
+          1320,
+          1467,
+          "Appeal_to_Authority"
+        ],
+        [
+          1400,
+          1466,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1485,
+      "end_ix": 1583,
+      "text": "\n\u201cHidden underneath this fear-mongering message of a global pandemic is a far more sinister W.H.O.",
+      "new_text": "\n\u201cHidden underneath this fear-mongering message of a global pandemic is a far more sinister W.H.O.",
+      "prop_spans": [
+        [
+          1510,
+          1524,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1583,
+      "end_ix": 1657,
+      "text": "\nagenda,\u201d warns Mike Adams, the Health Ranger, publisher of Medicine.news.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1657,
+      "end_ix": 1827,
+      "text": "\n\u201cThe real agenda is a global push for blind, fear-based acceptance of unsafe, unproven vaccines that will be rolled out alongside the next global pandemic,\u201d Adams warns.",
+      "new_text": "\n\u201cThe real agenda is a global push for blind, fear-based acceptance of unsafe, unproven vaccines that will be rolled out alongside the next global pandemic,\u201d Adams warns.",
+      "prop_spans": [
+        [
+          1659,
+          1814,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1827,
+      "end_ix": 2281,
+      "text": "\n\u201cFear circumvents rational thinking, which is why the vaccine-pharma cartels routinely turn to irrational fear propaganda to demand absolute and unquestioning acceptance of risky medical interventions that should always be scrutinized for safety and efficacy.\u201d \u2013Natural News\nDr. Tedros\u2019 comments come on the heels of the plague outbreak in Madagascar, which was the most recent epidemic to receive international aid attention amid fears it would spread.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2281,
+      "end_ix": 2446,
+      "text": "\nMore than 200 people were killed during the outbreak that ravaged the island over the winter, which prompted 10 nearby African countries to be placed on high alert.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      32,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      53,
+      77,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      130,
+      158,
+      "Appeal_to_Authority"
+    ],
+    [
+      130,
+      207,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      313,
+      322,
+      "Loaded_Language"
+    ],
+    [
+      314,
+      322,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      575,
+      635,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      675,
+      738,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1166,
+      1467,
+      "Appeal_to_Authority"
+    ],
+    [
+      1168,
+      1179,
+      "Loaded_Language"
+    ],
+    [
+      1400,
+      1466,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1510,
+      1524,
+      "Loaded_Language"
+    ],
+    [
+      1659,
+      1814,
+      "Doubt"
+    ]
+  ]
+}

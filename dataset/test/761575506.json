@@ -1,0 +1,150 @@
+{
+  "article_id": "761575506",
+  "sentence offsets in original": [
+    0,
+    113,
+    234,
+    452,
+    530,
+    604,
+    633,
+    700,
+    723,
+    757,
+    835,
+    1001,
+    1635
+  ],
+  "original sentences": [
+    "Bill Clinton: 'Public apology to Monica Lewinsky was enough'\n\n'I felt terrible then and I came to grips with it.'",
+    "\nFormer President Bill Clinton said his public apology for his affair with White House intern Monica Lewinsky was enough.",
+    "\nNBC\u2019s \u201cToday\u201d show correspondent Craig Melvin asked Clinton in an interview aired Monday if he had ever apologized to Lewinsky, who was 22 and Clinton\u2019s subordinate when they began an affair more than two decades ago.",
+    "\n\u201cI apologized to everybody in the world,\u201d Clinton said of his public apology.",
+    "\nMelvin followed up by asking Clinton if he had ever apologized privately.",
+    "\n\u201cI have never talked to her.",
+    "\nBut I did say publicly on more than one occasion that I was sorry.",
+    "\nThat\u2019s very different.",
+    "\nThe apology was public,\u201d he said.",
+    "\nClinton made his public apology in 1998 during the National Prayer Breakfast.",
+    "\n\u05e6\u05d9\u05dc\u05d5\u05dd: Reuters Clinton whispers to first lady Hillary Clinton during White House event\n\u201cI don\u2019t think there is a fancy way to say that I have sinned,\u201d he said there.",
+    "\n\u201cIt is important to me that everybody who has been hurt know that the sorrow I feel is genuine \u2014 first and most important, my family, also my friends, my staff, my Cabinet, Monica Lewinsky and her family, and the American people.\u201d\nClinton told Melvin that at the time the affair became public, \u201cI felt terrible then and I came to grips with it.\u201d He said later in the interview: \u201cI dealt with it 20 years ago plus \u2026 I\u2019ve tried to do a good job since then with my life and my work.\u201d\nClinton also said that he did not regret his decision to fight impeachment, and noted that he left the White House $16 million in debt from his defense.",
+    "\nClinton and author James Patterson appeared on \u201cToday\u201d to promote their jointly authored novel \u201cThe President is Missing.\u201d\nIn an apparent response to the \u201cToday\u201d interview, Lewinsky tweeted Monday that she is \u201cgrateful to the myriad people who have helped me evolve + gain perspective in the past 20 years.\u201d\nShe also tweeted a link to a personal essay she wrote in February for Vanity Fair on the 20th anniversary of the investigation into the affair, in which she admitted that she suffers from PTSD over the fallout from the investigation and publicity, and that the #MeToo movement had changed her perspective on the affair and its aftermath."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 113,
+      "text": "Bill Clinton: 'Public apology to Monica Lewinsky was enough'\n\n'I felt terrible then and I came to grips with it.'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 113,
+      "end_ix": 234,
+      "text": "\nFormer President Bill Clinton said his public apology for his affair with White House intern Monica Lewinsky was enough.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 234,
+      "end_ix": 452,
+      "text": "\nNBC\u2019s \u201cToday\u201d show correspondent Craig Melvin asked Clinton in an interview aired Monday if he had ever apologized to Lewinsky, who was 22 and Clinton\u2019s subordinate when they began an affair more than two decades ago.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 452,
+      "end_ix": 530,
+      "text": "\n\u201cI apologized to everybody in the world,\u201d Clinton said of his public apology.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 530,
+      "end_ix": 604,
+      "text": "\nMelvin followed up by asking Clinton if he had ever apologized privately.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 604,
+      "end_ix": 633,
+      "text": "\n\u201cI have never talked to her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 633,
+      "end_ix": 700,
+      "text": "\nBut I did say publicly on more than one occasion that I was sorry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 700,
+      "end_ix": 723,
+      "text": "\nThat\u2019s very different.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 723,
+      "end_ix": 757,
+      "text": "\nThe apology was public,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 757,
+      "end_ix": 835,
+      "text": "\nClinton made his public apology in 1998 during the National Prayer Breakfast.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 835,
+      "end_ix": 1001,
+      "text": "\n\u05e6\u05d9\u05dc\u05d5\u05dd: Reuters Clinton whispers to first lady Hillary Clinton during White House event\n\u201cI don\u2019t think there is a fancy way to say that I have sinned,\u201d he said there.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1001,
+      "end_ix": 1635,
+      "text": "\n\u201cIt is important to me that everybody who has been hurt know that the sorrow I feel is genuine \u2014 first and most important, my family, also my friends, my staff, my Cabinet, Monica Lewinsky and her family, and the American people.\u201d\nClinton told Melvin that at the time the affair became public, \u201cI felt terrible then and I came to grips with it.\u201d He said later in the interview: \u201cI dealt with it 20 years ago plus \u2026 I\u2019ve tried to do a good job since then with my life and my work.\u201d\nClinton also said that he did not regret his decision to fight impeachment, and noted that he left the White House $16 million in debt from his defense.",
+      "new_text": "\n\u201cIt is important to me that everybody who has been hurt know that the sorrow I feel is genuine \u2014 first and most important, my family, also my friends, my staff, my Cabinet, Monica Lewinsky and her family, and the American people.\u201d\nClinton told Melvin that at the time the affair became public, \u201cI felt terrible then and I came to grips with it.\u201d He said later in the interview: \u201cI dealt with it 20 years ago plus \u2026 I\u2019ve tried to do a good job since then with my life and my work.\u201d\nClinton also said that he did not regret his decision to fight impeachment, and noted that he left the White House $16 million in debt from his defense.",
+      "prop_spans": [
+        [
+          1215,
+          1230,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1635,
+      "end_ix": 2281,
+      "text": "\nClinton and author James Patterson appeared on \u201cToday\u201d to promote their jointly authored novel \u201cThe President is Missing.\u201d\nIn an apparent response to the \u201cToday\u201d interview, Lewinsky tweeted Monday that she is \u201cgrateful to the myriad people who have helped me evolve + gain perspective in the past 20 years.\u201d\nShe also tweeted a link to a personal essay she wrote in February for Vanity Fair on the 20th anniversary of the investigation into the affair, in which she admitted that she suffers from PTSD over the fallout from the investigation and publicity, and that the #MeToo movement had changed her perspective on the affair and its aftermath.",
+      "new_text": "\nClinton and author James Patterson appeared on \u201cToday\u201d to promote their jointly authored novel \u201cThe President is Missing.\u201d\nIn an apparent response to the \u201cToday\u201d interview, Lewinsky tweeted Monday that she is \u201cgrateful to the myriad people who have helped me evolve + gain perspective in the past 20 years.\u201d\nShe also tweeted a link to a personal essay she wrote in February for Vanity Fair on the 20th anniversary of the investigation into the affair, in which she admitted that she suffers from PTSD over the fallout from the investigation and publicity, and that the #MeToo movement had changed her perspective on the affair and its aftermath.",
+      "prop_spans": [
+        [
+          2205,
+          2211,
+          "Slogans"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1215,
+      1230,
+      "Flag-Waving"
+    ],
+    [
+      2205,
+      2211,
+      "Slogans"
+    ]
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "article_id": "999001259",
+  "sentence offsets in original": [
+    0,
+    72,
+    87,
+    107,
+    129,
+    331,
+    429,
+    527,
+    658,
+    709,
+    760,
+    798,
+    849,
+    856,
+    888,
+    970,
+    1052,
+    1080,
+    1143,
+    1246,
+    1351,
+    1445,
+    1619,
+    1731,
+    1824,
+    2028,
+    2150,
+    2294,
+    2386,
+    2557,
+    2712,
+    2824,
+    3057,
+    3164,
+    3371,
+    3527,
+    3765,
+    4025,
+    4089,
+    4230
+  ],
+  "original sentences": [
+    "Obama Judge Rules To Upend Georgia Election\n\nWho didn\u2019t see this coming?",
+    "\nThe fix is in.",
+    "\nThey stole Arizona.",
+    "\nOne down three to go.",
+    "\nA federal judge on Monday ordered Georgia take steps to protect provisional ballots and to wait until Friday to certify the results of the midterm elections that include an unsettled race for governor.",
+    "\nLauren Groh-Wargo, Abrams campaign manager, announced Judge Amy Totenberg\u2019s decision late Monday.",
+    "\nWSBTV.com reported that the judge\u2019s 56-page ruling could affect thousands of provisional ballots.",
+    "\nGroh-Wargo called the ruling \u201cgood news.\u201d\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nBrian Kemp, her Republican challenger, issued a statement a day earlier calling for Abrams to concede.",
+    "\nKemp has declared victory and said it is \u201cmathematically impossible\u201d for her campaign to force a runoff.",
+    "\nAbrams\u2019 campaign did not immediately respond to a phone call from Fox News late Monday night.",
+    "\nAbrams, 44, a Democrat, has maintained that she will not concede until every vote has been counted, and pointed to the 5,000 votes tallied over the weekend that favored her.",
+    "\nTotenberg, who was appointed by President Obama, ruled in connection to Common Cause\u2019s lawsuit filed on Nov. 5.",
+    "\nTotenberg\u2019s order doesn\u2019t change the Tuesday deadline for counties to certify their results.",
+    "\nCommon Cause, a nonpartisan group, claimed in the suit that Kemp, while secretary of state, failed to maintain \u201cthe security of voter information despite known vulnerabilities\u201d leading up to the midterm.",
+    "\nThe suit blasted the state\u2019s \u201cprovisional ballot scheme,\u201d that could disenfranchise a registered voter at the ballot box.",
+    "\nThe suit pointed out cases where voters were turned around after computer glitches and cases where voters were not offered provisional ballots.",
+    "\nOne man voted for decades and was \u201cdisturbed\u201d to learn his registration history was erased.",
+    "\nThe court ruled that the secretary of state\u2019s office must establish a hotline and publicize it on its website for voters to see if their provisional ballots were counted.",
+    "\nTotenberg also ruled that Georgia must not certify the election results before Friday at 5 p.m., which falls before the Nov. 20 deadline set by state law.",
+    "\n\u201cI am fighting to make sure our democracy works for and represents everyone who has ever put their faith in it.",
+    "\nI am fighting for every Georgian who cast a ballot with the promise that their vote would count,\u201d Abrams said in a statement explaining her refusal to end her bid to become the first black woman elected governor in American history.",
+    "\nA total of 21,190 provisional ballots were cast in the state during the midterm, 12,151 were cast in 2014.",
+    "\nFour Democratic-leaning counties with the largest number of provisional ballots \u2014 Cobb, DeKalb, Fulton, and Gwinnett \u2013 \u201chad not yet reported their numbers to the secretary as of November 11,\u201d the suit said.",
+    "\nThe lawsuit also asked that provisional ballots cast by a voter registered in another county be counted as if the voter had shown up at the wrong precinct.",
+    "\nThe lawsuit says that of the 1,556 provisional ballots Fulton County reported having rejected by Nov. 9, nearly 1,000 were disqualified because they were cast by voters whose registration records showed them registered in another county.",
+    "\nEdgardo Cortes, who currently works as an election security adviser at New York University, said these uncounted provisional ballots could sway the election and, despite Kemp\u2019s claims, his unofficial vote total is so close to 50 percent, a runoff is possible.",
+    "\nKemp was up 50.2 percent to Abrams\u2019 48.7 percent early Tuesday.",
+    "\nMore than 3.9 million votes were cast in the election, and Abrams would need to acquire more than 20,000 additional votes to force a runoff.",
+    "\nAbrams\u2019 campaign filed a lawsuit Sunday asking a federal court to push the deadline for counties to certify their results to Wednesday, while also requiring that elections authorities count certain provisional and absentee ballots that have been or would be rejected for \u201carbitrary reasons.\u201d\n\u201cThis ruling is a victory for the voters of Georgia because we are all stronger when every eligible voter is allowed to participate in our elections,\u201d Sara Henderson, executive director for Common Cause Georgia, which filed the lawsuit, told AJC.com."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 72,
+      "text": "Obama Judge Rules To Upend Georgia Election\n\nWho didn\u2019t see this coming?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 72,
+      "end_ix": 87,
+      "text": "\nThe fix is in.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 87,
+      "end_ix": 107,
+      "text": "\nThey stole Arizona.",
+      "new_text": "\nThey took away Arizona.",
+      "prop_spans": [
+        [
+          88,
+          107,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 107,
+      "end_ix": 129,
+      "text": "\nOne down three to go.",
+      "new_text": "\nOne down three to go.",
+      "prop_spans": [
+        [
+          107,
+          107,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 129,
+      "end_ix": 331,
+      "text": "\nA federal judge on Monday ordered Georgia take steps to protect provisional ballots and to wait until Friday to certify the results of the midterm elections that include an unsettled race for governor.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 331,
+      "end_ix": 429,
+      "text": "\nLauren Groh-Wargo, Abrams campaign manager, announced Judge Amy Totenberg\u2019s decision late Monday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 429,
+      "end_ix": 527,
+      "text": "\nWSBTV.com reported that the judge\u2019s 56-page ruling could affect thousands of provisional ballots.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 527,
+      "end_ix": 658,
+      "text": "\nGroh-Wargo called the ruling \u201cgood news.\u201d\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 658,
+      "end_ix": 709,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 709,
+      "end_ix": 760,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 760,
+      "end_ix": 798,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 798,
+      "end_ix": 849,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 849,
+      "end_ix": 856,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 856,
+      "end_ix": 888,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 888,
+      "end_ix": 970,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 970,
+      "end_ix": 1052,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1052,
+      "end_ix": 1080,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1080,
+      "end_ix": 1143,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1143,
+      "end_ix": 1246,
+      "text": "\nBrian Kemp, her Republican challenger, issued a statement a day earlier calling for Abrams to concede.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1246,
+      "end_ix": 1351,
+      "text": "\nKemp has declared victory and said it is \u201cmathematically impossible\u201d for her campaign to force a runoff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1351,
+      "end_ix": 1445,
+      "text": "\nAbrams\u2019 campaign did not immediately respond to a phone call from Fox News late Monday night.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1445,
+      "end_ix": 1619,
+      "text": "\nAbrams, 44, a Democrat, has maintained that she will not concede until every vote has been counted, and pointed to the 5,000 votes tallied over the weekend that favored her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1619,
+      "end_ix": 1731,
+      "text": "\nTotenberg, who was appointed by President Obama, ruled in connection to Common Cause\u2019s lawsuit filed on Nov. 5.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1731,
+      "end_ix": 1824,
+      "text": "\nTotenberg\u2019s order doesn\u2019t change the Tuesday deadline for counties to certify their results.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1824,
+      "end_ix": 2028,
+      "text": "\nCommon Cause, a nonpartisan group, claimed in the suit that Kemp, while secretary of state, failed to maintain \u201cthe security of voter information despite known vulnerabilities\u201d leading up to the midterm.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2028,
+      "end_ix": 2150,
+      "text": "\nThe suit blasted the state\u2019s \u201cprovisional ballot scheme,\u201d that could disenfranchise a registered voter at the ballot box.",
+      "new_text": "\nThe suit got rid of the state\u2019s \u201cprovisional ballot scheme,\u201d that could disenfranchise a registered voter at the ballot box.",
+      "prop_spans": [
+        [
+          2029,
+          2150,
+          "Doubt"
+        ],
+        [
+          2038,
+          2046,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2150,
+      "end_ix": 2294,
+      "text": "\nThe suit pointed out cases where voters were turned around after computer glitches and cases where voters were not offered provisional ballots.",
+      "new_text": "\nThe suit pointed out cases where voters were possibly turned around after computer glitches and cases where voters were not offered provisional ballots.",
+      "prop_spans": [
+        [
+          2150,
+          2294,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2294,
+      "end_ix": 2386,
+      "text": "\nOne man voted for decades and was \u201cdisturbed\u201d to learn his registration history was erased.",
+      "new_text": "\nOne man voted for decades and was \u201cdisturbed\u201d to learn his registration history was erased.",
+      "prop_spans": [
+        [
+          2294,
+          2385,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2386,
+      "end_ix": 2557,
+      "text": "\nThe court ruled that the secretary of state\u2019s office must establish a hotline and publicize it on its website for voters to see if their provisional ballots were counted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2557,
+      "end_ix": 2712,
+      "text": "\nTotenberg also ruled that Georgia must not certify the election results before Friday at 5 p.m., which falls before the Nov. 20 deadline set by state law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2712,
+      "end_ix": 2824,
+      "text": "\n\u201cI am fighting to make sure our democracy works for and represents everyone who has ever put their faith in it.",
+      "new_text": "\n\u201cI am fighting to make sure our democracy works for and represents everyone who has ever put their faith in it.",
+      "prop_spans": [
+        [
+          2714,
+          2824,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2824,
+      "end_ix": 3057,
+      "text": "\nI am fighting for every Georgian who cast a ballot with the promise that their vote would count,\u201d Abrams said in a statement explaining her refusal to end her bid to become the first black woman elected governor in American history.",
+      "new_text": "\nI am fighting for every Georgian who cast a ballot with the promise that their vote would count,\u201d Abrams said in a statement explaining her refusal to end her bid to become the first black woman elected governor in American history.",
+      "prop_spans": [
+        [
+          2824,
+          2920,
+          "Flag-Waving"
+        ],
+        [
+          2827,
+          2839,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3057,
+      "end_ix": 3164,
+      "text": "\nA total of 21,190 provisional ballots were cast in the state during the midterm, 12,151 were cast in 2014.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3164,
+      "end_ix": 3371,
+      "text": "\nFour Democratic-leaning counties with the largest number of provisional ballots \u2014 Cobb, DeKalb, Fulton, and Gwinnett \u2013 \u201chad not yet reported their numbers to the secretary as of November 11,\u201d the suit said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3371,
+      "end_ix": 3527,
+      "text": "\nThe lawsuit also asked that provisional ballots cast by a voter registered in another county be counted as if the voter had shown up at the wrong precinct.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3527,
+      "end_ix": 3765,
+      "text": "\nThe lawsuit says that of the 1,556 provisional ballots Fulton County reported having rejected by Nov. 9, nearly 1,000 were disqualified because they were cast by voters whose registration records showed them registered in another county.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3765,
+      "end_ix": 4025,
+      "text": "\nEdgardo Cortes, who currently works as an election security adviser at New York University, said these uncounted provisional ballots could sway the election and, despite Kemp\u2019s claims, his unofficial vote total is so close to 50 percent, a runoff is possible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4025,
+      "end_ix": 4089,
+      "text": "\nKemp was up 50.2 percent to Abrams\u2019 48.7 percent early Tuesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4089,
+      "end_ix": 4230,
+      "text": "\nMore than 3.9 million votes were cast in the election, and Abrams would need to acquire more than 20,000 additional votes to force a runoff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4230,
+      "end_ix": 4773,
+      "text": "\nAbrams\u2019 campaign filed a lawsuit Sunday asking a federal court to push the deadline for counties to certify their results to Wednesday, while also requiring that elections authorities count certain provisional and absentee ballots that have been or would be rejected for \u201carbitrary reasons.\u201d\n\u201cThis ruling is a victory for the voters of Georgia because we are all stronger when every eligible voter is allowed to participate in our elections,\u201d Sara Henderson, executive director for Common Cause Georgia, which filed the lawsuit, told AJC.com.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      88,
+      107,
+      "Flag-Waving"
+    ],
+    [
+      2029,
+      2385,
+      "Doubt"
+    ],
+    [
+      2038,
+      2046,
+      "Loaded_Language"
+    ],
+    [
+      2714,
+      2920,
+      "Flag-Waving"
+    ],
+    [
+      2827,
+      2839,
+      "Repetition"
+    ]
+  ]
+}

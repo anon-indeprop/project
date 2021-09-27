@@ -1,0 +1,406 @@
+{
+  "article_id": "765029945",
+  "sentence offsets in original": [
+    0,
+    115,
+    118,
+    246,
+    330,
+    333,
+    401,
+    491,
+    698,
+    740,
+    886,
+    898,
+    966,
+    1033,
+    1130,
+    1163,
+    1193,
+    1267,
+    1286,
+    1402,
+    1501,
+    1562
+  ],
+  "original sentences": [
+    "Stop Comparing Immigration Enforcement to the Holocaust\n\nThe media has 2 very simple rules for Holocaust analogies.",
+    "\n1.",
+    "\nThe Muslim Brotherhood's leaders praising Hitler, calling for another Holocaust and killing Jews is nothing like the Holocaust.",
+    "\nAnd only shameless Zionists would attempt to equate killing Jews with killing Jews.",
+    "\n2.",
+    "\nAnything a Republican president does is exactly like the Holocaust.",
+    "\nA former CIA director compared US immigration policy to Nazi Germany in an ominous Tweet.",
+    "\n\u201cOther governments have separated mothers and children,\u201d Former CIA and NSA chief Michael Hayden wrote on Saturday, along with a black and white photo of the Birkenau concentration and death-camp in Poland.",
+    "\nThen Hayden doubled down on that analogy.",
+    "\nIt's particularly stupid of Michael Hayden to make that analogy because during the Bush years, the agencies he ran were compared to Nazi Germany.",
+    "\nRepeatedly.",
+    "\nYou might think that would have cured him of facile Nazi analogies.",
+    "\nBut instead it seems to have whetted his appetite for making them.",
+    "\nYes, the Nazi arrested people, asked them for ID, split up families and... then killed them all.",
+    "\nThat's the really relevant part.",
+    "\nEvery country arrests people.",
+    "\nJust about every country splits up families when they arrest the parents.",
+    "\nThat's not unique.",
+    "\nSelecting the Jews, based on race, for extermination is more of the reason why the term Nazi is not a positive one.",
+    "\nHayden's thoughtless tweet can just as easily be used to delegitimize any and all law enforcement.",
+    "\nThe attacks here are motivated by a desire for open borders.",
+    "\nChildren are being used as human shields in a campaign to end national security forever."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 115,
+      "text": "Stop Comparing Immigration Enforcement to the Holocaust\n\nThe media has 2 very simple rules for Holocaust analogies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 115,
+      "end_ix": 118,
+      "text": "\n1.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 118,
+      "end_ix": 246,
+      "text": "\nThe Muslim Brotherhood's leaders praising Hitler, calling for another Holocaust and killing Jews is nothing like the Holocaust.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 246,
+      "end_ix": 330,
+      "text": "\nAnd only shameless Zionists would attempt to equate killing Jews with killing Jews.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          251,
+          330,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          256,
+          265,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 330,
+      "end_ix": 333,
+      "text": "\n2.",
+      "new_text": "\n2.",
+      "prop_spans": [
+        [
+          330,
+          331,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 333,
+      "end_ix": 401,
+      "text": "\nAnything a Republican president does is exactly like the Holocaust.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          334,
+          401,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 401,
+      "end_ix": 491,
+      "text": "\nA former CIA director compared US immigration policy to Nazi Germany in an ominous Tweet.",
+      "new_text": "\nA former CIA director decried US immigration policy in an ominous Tweet.",
+      "prop_spans": [
+        [
+          401,
+          402,
+          "Reductio_ad_hitlerum"
+        ],
+        [
+          424,
+          470,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 491,
+      "end_ix": 698,
+      "text": "\n\u201cOther governments have separated mothers and children,\u201d Former CIA and NSA chief Michael Hayden wrote on Saturday, along with a black and white photo of the Birkenau concentration and death-camp in Poland.",
+      "new_text": "\n\u201cOther governments have separated mothers and children,\u201d Former CIA and NSA chief Michael Hayden wrote on Saturday, along with a black and white photo of the Birkenau concentration camp in Poland.",
+      "prop_spans": [
+        [
+          677,
+          687,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 698,
+      "end_ix": 740,
+      "text": "\nThen Hayden doubled down on that analogy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 740,
+      "end_ix": 886,
+      "text": "\nIt's particularly stupid of Michael Hayden to make that analogy because during the Bush years, the agencies he ran were compared to Nazi Germany.",
+      "new_text": "\nIt's illogical of Michael Hayden to make that analogy because during the Bush years, the agencies he ran were compared to former Germany.",
+      "prop_spans": [
+        [
+          746,
+          765,
+          "Loaded_Language"
+        ],
+        [
+          873,
+          877,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 886,
+      "end_ix": 898,
+      "text": "\nRepeatedly.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 898,
+      "end_ix": 966,
+      "text": "\nYou might think that would have cured him of facile Nazi analogies.",
+      "new_text": "\nYou might think that would have cured him of facile analogies.",
+      "prop_spans": [
+        [
+          951,
+          955,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 966,
+      "end_ix": 1033,
+      "text": "\nBut instead it seems to have whetted his appetite for making them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1033,
+      "end_ix": 1130,
+      "text": "\nYes, the Nazi arrested people, asked them for ID, split up families and... then killed them all.",
+      "new_text": "\nYes, the Nazi arrested people, asked them for ID, split up families and... then performed genocide.",
+      "prop_spans": [
+        [
+          1043,
+          1047,
+          "Repetition"
+        ],
+        [
+          1114,
+          1129,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1130,
+      "end_ix": 1163,
+      "text": "\nThat's the really relevant part.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1163,
+      "end_ix": 1193,
+      "text": "\nEvery country arrests people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1193,
+      "end_ix": 1267,
+      "text": "\nJust about every country splits up families when they arrest the parents.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1267,
+      "end_ix": 1286,
+      "text": "\nThat's not unique.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1286,
+      "end_ix": 1402,
+      "text": "\nSelecting the Jews, based on race, for extermination is more of the reason why the term Nazi is not a positive one.",
+      "new_text": "\nSelecting the Jews, based on race, for genocide is more of the reason why the term Nazi is not a positive one.",
+      "prop_spans": [
+        [
+          1326,
+          1339,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1375,
+          1379,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1402,
+      "end_ix": 1501,
+      "text": "\nHayden's thoughtless tweet can just as easily be used to delegitimize any and all law enforcement.",
+      "new_text": "\nHayden's illogical tweet can just as easily be used to delegitimize any and all law enforcement.",
+      "prop_spans": [
+        [
+          1412,
+          1423,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1501,
+      "end_ix": 1562,
+      "text": "\nThe attacks here are motivated by a desire for open borders.",
+      "new_text": "\nThe attacks here are probably motivated by a desire for open borders.",
+      "prop_spans": [
+        [
+          1502,
+          1562,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1562,
+      "end_ix": 1651,
+      "text": "\nChildren are being used as human shields in a campaign to end national security forever.",
+      "new_text": "\nChildren are being used as pawns in a campaign to harm national security.",
+      "prop_spans": [
+        [
+          1562,
+          1562,
+          "Causal_Oversimplification"
+        ],
+        [
+          1590,
+          1603,
+          "Loaded_Language"
+        ],
+        [
+          1618,
+          1642,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1643,
+          1651,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      251,
+      331,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      256,
+      265,
+      "Name_Calling,Labeling"
+    ],
+    [
+      334,
+      402,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      424,
+      470,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      677,
+      687,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      746,
+      765,
+      "Loaded_Language"
+    ],
+    [
+      873,
+      877,
+      "Repetition"
+    ],
+    [
+      951,
+      955,
+      "Repetition"
+    ],
+    [
+      1043,
+      1047,
+      "Repetition"
+    ],
+    [
+      1114,
+      1129,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1326,
+      1339,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1375,
+      1379,
+      "Repetition"
+    ],
+    [
+      1412,
+      1423,
+      "Loaded_Language"
+    ],
+    [
+      1502,
+      1562,
+      "Causal_Oversimplification"
+    ],
+    [
+      1590,
+      1603,
+      "Loaded_Language"
+    ],
+    [
+      1618,
+      1642,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1643,
+      1653,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

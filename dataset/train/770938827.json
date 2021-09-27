@@ -1,0 +1,379 @@
+{
+  "article_id": "770938827",
+  "sentence offsets in original": [
+    0,
+    187,
+    257,
+    347,
+    410,
+    440,
+    507,
+    653,
+    819,
+    962,
+    1218,
+    1281,
+    1418,
+    1435,
+    1719,
+    1827,
+    2004,
+    2084,
+    2224,
+    2337,
+    2387,
+    2493,
+    2600
+  ],
+  "original sentences": [
+    "The Hammond Pardons Bring Justice to Obama's Victims\n\nThe media very deliberately misreported the Bundy standoff, ridiculing the men involved and shrugging at the murder of LaVoy Finicum.",
+    "\nWhen the court case completely collapsed, the media buried the story.",
+    "\nJust as it failed to provide any meaningful information about the background of the case.",
+    "\nThat was in part because it would have been damaging to Obama.",
+    "\nAnd because they didn't care.",
+    "\nBut President Trump listened to the voices asking him for justice.",
+    "\nToday, President Donald J. Trump signed Executive Grants of Clemency (Full Pardons) for Dwight Lincoln Hammond, Jr., and his son, Steven Hammond.",
+    "\nThe Hammonds are multi-generation cattle ranchers in Oregon imprisoned in connection with a fire that leaked onto a small portion of neighboring public grazing land.",
+    "\nThe evidence at trial regarding the Hammonds\u2019 responsibility for the fire was conflicting, and the jury acquitted them on most of the charges.",
+    "\nAt the Hammonds\u2019 original sentencing, the judge noted that they are respected in the community and that imposing the mandatory minimum, 5-year prison sentence would \u201cshock the conscience\u201d and be \u201cgrossly disproportionate to the severity\u201d of their conduct.",
+    "\nAs a result, the judge imposed significantly lesser sentences.",
+    "\nThe previous administration, however, filed an overzealous appeal that resulted in the Hammonds being sentenced to five years in prison.",
+    "\nThis was unjust.",
+    "\nDwight Hammond is now 76 years old and has served approximately three years in prison\nThe same administration that was against mandatory minimums for its drug dealers and gang members went to court to defend mandatory minimums under the Antiterrorism and Effective Death Penalty Act.",
+    "\nWhile Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",
+    "\nBoth men are currently in prison on five-year sentences, thanks in part to a 1996 antiterrorism law that imposed a mandatory minimum sentence on certain crimes on federal land.",
+    "\nThe length of their prison terms, in part, fueled outrage at their convictions.",
+    "\nFederal Judge Michael Robert Hogan originally gave the Hammonds reduced sentences in 2012, arguing that the mandatory minimums were unjust.",
+    "\nBut the Obama administration appealed, and federal Judge Ann Aiken in 2015 imposed the full five-year sentences.",
+    "\nHogan was a Bush appointee who respected the law.",
+    "\nAiken was a Dem fundraiser, her husband was the chair of the Oregon Dem party, appointed by Bill Clinton.",
+    "\nAiken was unqualified for her role, except in the ways that mattered to the Clintons and their Dem allies.",
+    "\nThese pardons cleanse another stain from our nation's history in the dark years of Obama."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 187,
+      "text": "The Hammond Pardons Bring Justice to Obama's Victims\n\nThe media very deliberately misreported the Bundy standoff, ridiculing the men involved and shrugging at the murder of LaVoy Finicum.",
+      "new_text": "The Hammond Pardons Bring Justice to Victims\n\nThe media very deliberately misreported the Bundy standoff, mocking the men involved and shrugging at the murder of LaVoy Finicum.",
+      "prop_spans": [
+        [
+          37,
+          52,
+          "Name_Calling,Labeling"
+        ],
+        [
+          114,
+          124,
+          "Loaded_Language"
+        ],
+        [
+          163,
+          169,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 187,
+      "end_ix": 257,
+      "text": "\nWhen the court case completely collapsed, the media buried the story.",
+      "new_text": "\nWhen the court case collapsed, the media buried the story.",
+      "prop_spans": [
+        [
+          208,
+          228,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 257,
+      "end_ix": 347,
+      "text": "\nJust as it failed to provide any meaningful information about the background of the case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 347,
+      "end_ix": 410,
+      "text": "\nThat was in part because it would have been damaging to Obama.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 410,
+      "end_ix": 440,
+      "text": "\nAnd because they didn't care.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 440,
+      "end_ix": 507,
+      "text": "\nBut President Trump listened to the voices asking him for justice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 507,
+      "end_ix": 653,
+      "text": "\nToday, President Donald J. Trump signed Executive Grants of Clemency (Full Pardons) for Dwight Lincoln Hammond, Jr., and his son, Steven Hammond.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 653,
+      "end_ix": 819,
+      "text": "\nThe Hammonds are multi-generation cattle ranchers in Oregon imprisoned in connection with a fire that leaked onto a small portion of neighboring public grazing land.",
+      "new_text": "\nThe Hammonds are multi-generation cattle ranchers in Oregon imprisoned in connection with a fire that leaked onto a portion of neighboring public grazing land.",
+      "prop_spans": [
+        [
+          770,
+          775,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 819,
+      "end_ix": 962,
+      "text": "\nThe evidence at trial regarding the Hammonds\u2019 responsibility for the fire was conflicting, and the jury acquitted them on most of the charges.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 962,
+      "end_ix": 1218,
+      "text": "\nAt the Hammonds\u2019 original sentencing, the judge noted that they are respected in the community and that imposing the mandatory minimum, 5-year prison sentence would \u201cshock the conscience\u201d and be \u201cgrossly disproportionate to the severity\u201d of their conduct.",
+      "new_text": "\nAt the Hammonds\u2019 original sentencing, the judge noted that they are respected in the community and that imposing the mandatory minimum, 5-year prison sentence would \u201cshock the conscience\u201d and be \u201cgrossly disproportionate to the severity\u201d of their conduct.",
+      "prop_spans": [
+        [
+          1129,
+          1149,
+          "Loaded_Language"
+        ],
+        [
+          1159,
+          1199,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1218,
+      "end_ix": 1281,
+      "text": "\nAs a result, the judge imposed significantly lesser sentences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1281,
+      "end_ix": 1418,
+      "text": "\nThe previous administration, however, filed an overzealous appeal that resulted in the Hammonds being sentenced to five years in prison.",
+      "new_text": "\nThe previous administration, however, filed a fanatical appeal that resulted in the Hammonds being sentenced to five years in prison.",
+      "prop_spans": [
+        [
+          1329,
+          1340,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1418,
+      "end_ix": 1435,
+      "text": "\nThis was unjust.",
+      "new_text": "\nThis was unjust.",
+      "prop_spans": [
+        [
+          1428,
+          1434,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1435,
+      "end_ix": 1719,
+      "text": "\nDwight Hammond is now 76 years old and has served approximately three years in prison\nThe same administration that was against mandatory minimums for its drug dealers and gang members went to court to defend mandatory minimums under the Antiterrorism and Effective Death Penalty Act.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1719,
+      "end_ix": 1827,
+      "text": "\nWhile Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1827,
+      "end_ix": 2004,
+      "text": "\nBoth men are currently in prison on five-year sentences, thanks in part to a 1996 antiterrorism law that imposed a mandatory minimum sentence on certain crimes on federal land.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2004,
+      "end_ix": 2084,
+      "text": "\nThe length of their prison terms, in part, fueled outrage at their convictions.",
+      "new_text": "\nThe length of their prison terms, in part, anger at their convictions.",
+      "prop_spans": [
+        [
+          2048,
+          2062,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2084,
+      "end_ix": 2224,
+      "text": "\nFederal Judge Michael Robert Hogan originally gave the Hammonds reduced sentences in 2012, arguing that the mandatory minimums were unjust.",
+      "new_text": "\nFederal Judge Michael Robert Hogan originally gave the Hammonds reduced sentences in 2012, arguing that the mandatory minimums were unjust.",
+      "prop_spans": [
+        [
+          2217,
+          2223,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2224,
+      "end_ix": 2337,
+      "text": "\nBut the Obama administration appealed, and federal Judge Ann Aiken in 2015 imposed the full five-year sentences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2337,
+      "end_ix": 2387,
+      "text": "\nHogan was a Bush appointee who respected the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2387,
+      "end_ix": 2493,
+      "text": "\nAiken was a Dem fundraiser, her husband was the chair of the Oregon Dem party, appointed by Bill Clinton.",
+      "new_text": "\nAiken was a fundraiser, her husband was the chair of the Oregon Dem party, appointed by Bill Clinton.",
+      "prop_spans": [
+        [
+          2400,
+          2414,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2493,
+      "end_ix": 2600,
+      "text": "\nAiken was unqualified for her role, except in the ways that mattered to the Clintons and their Dem allies.",
+      "new_text": "\nAiken was not qualified for her role, except in the ways that mattered to the Clintons and their Dem allies.",
+      "prop_spans": [
+        [
+          2504,
+          2515,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2600,
+      "end_ix": 2690,
+      "text": "\nThese pardons cleanse another stain from our nation's history in the dark years of Obama.",
+      "new_text": "\nThese pardons cleanse another stain from our history in the years of Obama.",
+      "prop_spans": [
+        [
+          2642,
+          2662,
+          "Flag-Waving"
+        ],
+        [
+          2670,
+          2680,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      37,
+      52,
+      "Name_Calling,Labeling"
+    ],
+    [
+      114,
+      124,
+      "Loaded_Language"
+    ],
+    [
+      163,
+      169,
+      "Loaded_Language"
+    ],
+    [
+      208,
+      228,
+      "Loaded_Language"
+    ],
+    [
+      770,
+      775,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1129,
+      1149,
+      "Loaded_Language"
+    ],
+    [
+      1159,
+      1199,
+      "Loaded_Language"
+    ],
+    [
+      1329,
+      1340,
+      "Loaded_Language"
+    ],
+    [
+      1428,
+      1434,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2048,
+      2062,
+      "Loaded_Language"
+    ],
+    [
+      2217,
+      2223,
+      "Repetition"
+    ],
+    [
+      2400,
+      2414,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2504,
+      2515,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2642,
+      2662,
+      "Flag-Waving"
+    ],
+    [
+      2670,
+      2680,
+      "Loaded_Language"
+    ]
+  ]
+}

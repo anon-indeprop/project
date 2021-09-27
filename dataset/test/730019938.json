@@ -1,0 +1,214 @@
+{
+  "article_id": "730019938",
+  "sentence offsets in original": [
+    0,
+    28,
+    305,
+    412,
+    541,
+    617,
+    668,
+    727,
+    824,
+    914,
+    1172,
+    1538,
+    1622,
+    1747,
+    1901,
+    1981,
+    2011,
+    2140,
+    2617
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nPolice identify suspect in death of 2 Ohio police officers by SARAH WYNN, WSYX/WTTE Saturday, February 10th 2018 COLUMBUS, Ohio (WSYX/WTTE) - The Westerville Division of Police has identified the suspect in the death of two Westerville police officers as Quentin Lamar Smith.",
+    "\nAccording to police, a call came into the Westerville Emergency Dispatch 911 center Saturday as a hang-up.",
+    "\nWhen officers responded to Cross Wind Drive, shots were fired at them, killing Officer Anthony Morelli and Officer Eric Joering.",
+    "\nThe Westerville city manager said Joering, 39, spent 17 years on the force.",
+    "\nMorelli, 54, had 30 years with Westerville police.",
+    "\nThe City of #Westerville suffered a tremendous loss today.",
+    "\n@WestervillePD Officer Anthony Morelli and Officer Eric Joering were killed in the line of duty.",
+    "\nPlease keep our first responders and the officers\u2019 families in your thoughts and prayers.",
+    "\n#WestervilleStrong pic.twitter.com/GcN3Y4FRvr \u2014 City of Westerville (@tellwesterville) February 11, 2018\nTwo white police officers were murdered when they went to a domestic violence call--someone had called 911, and the call had been cut off in the middle.",
+    "\nThe Latest: Police identify suspect in 2 officers' shootings By The Associated Press WESTERVILLE, Ohio \u2014 Feb 10, 2018 Police in Ohio have identified a 30-year-old man as a suspect in the fatal shooting of two police officers in a Columbus suburb, and released reports showing authorities have had several dealings with him, some involving alleged domestic violence.",
+    "\nWesterville police late Saturday confirmed that the suspect is Quentin Lamar Smith.",
+    "\nAuthorities released incident reports showing police had been to his home or had dealings with him several times since 2017.",
+    "\nIn a Nov. 29 incident, police say his wife, 33-year-old Candace Smith, asked about protection orders because she and Quentin Smith weren't getting along.",
+    "\nShe accused her husband of threatening to kill her, their daughter and himself.",
+    "\nShe told police he had a gun.",
+    "\nPolice say officers Eric Joering and Anthony Morelli were shot around noon after responding to a \"potential domestic situation.\"",
+    "\n[More]\nThe suspect, alive and injured, has been named as Quentin Lamar Smith:Neither the police nor the AP has published a picture of Quentin Lamar Smith, but internet detectives have found this guy as the likely perp:\nArrest Information:\nName: Quentin Lamar Smith\nLocation: Westerville, Ohio\nAge: 30 years\nProcessing Date: 06-22-2017\nBooking Charge:\nPROHIBITED ACTS\nA reminder that the Associated Press has an official policy of \"not reporting race\" when it's not \"relevant\".",
+    "\nI can't think of anything less irrelevant than a black gunman shooting two white cops--after five years of the \"Blacks Lives Matter\" movement."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 305,
+      "text": "\n\nPolice identify suspect in death of 2 Ohio police officers by SARAH WYNN, WSYX/WTTE Saturday, February 10th 2018 COLUMBUS, Ohio (WSYX/WTTE) - The Westerville Division of Police has identified the suspect in the death of two Westerville police officers as Quentin Lamar Smith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 305,
+      "end_ix": 412,
+      "text": "\nAccording to police, a call came into the Westerville Emergency Dispatch 911 center Saturday as a hang-up.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 412,
+      "end_ix": 541,
+      "text": "\nWhen officers responded to Cross Wind Drive, shots were fired at them, killing Officer Anthony Morelli and Officer Eric Joering.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 541,
+      "end_ix": 617,
+      "text": "\nThe Westerville city manager said Joering, 39, spent 17 years on the force.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 617,
+      "end_ix": 668,
+      "text": "\nMorelli, 54, had 30 years with Westerville police.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 668,
+      "end_ix": 727,
+      "text": "\nThe City of #Westerville suffered a tremendous loss today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 727,
+      "end_ix": 824,
+      "text": "\n@WestervillePD Officer Anthony Morelli and Officer Eric Joering were killed in the line of duty.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 824,
+      "end_ix": 914,
+      "text": "\nPlease keep our first responders and the officers\u2019 families in your thoughts and prayers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 914,
+      "end_ix": 1172,
+      "text": "\n#WestervilleStrong pic.twitter.com/GcN3Y4FRvr \u2014 City of Westerville (@tellwesterville) February 11, 2018\nTwo white police officers were murdered when they went to a domestic violence call--someone had called 911, and the call had been cut off in the middle.",
+      "new_text": "\n#WestervilleStrong pic.twitter.com/GcN3Y4FRvr \u2014 City of Westerville (@tellwesterville) February 11, 2018\nTwo police officers were murdered when they went to a domestic violence call--someone had called 911, and the call had been cut off in the middle.",
+      "prop_spans": [
+        [
+          1024,
+          1029,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1172,
+      "end_ix": 1538,
+      "text": "\nThe Latest: Police identify suspect in 2 officers' shootings By The Associated Press WESTERVILLE, Ohio \u2014 Feb 10, 2018 Police in Ohio have identified a 30-year-old man as a suspect in the fatal shooting of two police officers in a Columbus suburb, and released reports showing authorities have had several dealings with him, some involving alleged domestic violence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1538,
+      "end_ix": 1622,
+      "text": "\nWesterville police late Saturday confirmed that the suspect is Quentin Lamar Smith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1622,
+      "end_ix": 1747,
+      "text": "\nAuthorities released incident reports showing police had been to his home or had dealings with him several times since 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1747,
+      "end_ix": 1901,
+      "text": "\nIn a Nov. 29 incident, police say his wife, 33-year-old Candace Smith, asked about protection orders because she and Quentin Smith weren't getting along.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1901,
+      "end_ix": 1981,
+      "text": "\nShe accused her husband of threatening to kill her, their daughter and himself.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1981,
+      "end_ix": 2011,
+      "text": "\nShe told police he had a gun.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2011,
+      "end_ix": 2140,
+      "text": "\nPolice say officers Eric Joering and Anthony Morelli were shot around noon after responding to a \"potential domestic situation.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2140,
+      "end_ix": 2617,
+      "text": "\n[More]\nThe suspect, alive and injured, has been named as Quentin Lamar Smith:Neither the police nor the AP has published a picture of Quentin Lamar Smith, but internet detectives have found this guy as the likely perp:\nArrest Information:\nName: Quentin Lamar Smith\nLocation: Westerville, Ohio\nAge: 30 years\nProcessing Date: 06-22-2017\nBooking Charge:\nPROHIBITED ACTS\nA reminder that the Associated Press has an official policy of \"not reporting race\" when it's not \"relevant\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2617,
+      "end_ix": 2760,
+      "text": "\nI can't think of anything less irrelevant than a black gunman shooting two white cops--after five years of the \"Blacks Lives Matter\" movement.",
+      "new_text": "\nI can't think of anything less irrelevant than a black gunman shooting two white cops--after five years of the \"Blacks Lives Matter\" movement.",
+      "prop_spans": [
+        [
+          2618,
+          2760,
+          "Loaded_Language"
+        ],
+        [
+          2665,
+          2703,
+          "Whataboutism"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1024,
+      1029,
+      "Red_Herring"
+    ],
+    [
+      2618,
+      2761,
+      "Loaded_Language"
+    ],
+    [
+      2665,
+      2703,
+      "Whataboutism"
+    ]
+  ]
+}

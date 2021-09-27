@@ -1,0 +1,394 @@
+{
+  "article_id": "778730964",
+  "sentence offsets in original": [
+    0,
+    327,
+    402,
+    499,
+    532,
+    618,
+    635,
+    729,
+    785,
+    841,
+    870,
+    900,
+    981,
+    1063,
+    1091,
+    1154,
+    1547,
+    1724,
+    1899,
+    1942,
+    2105,
+    2184,
+    2305
+  ],
+  "original sentences": [
+    "Imam Whose Son Was Training School Shooters Blasts Reporters On New Mexico Compound: \u201cThey Hate Islam\u201d\n\nIt\u2019s noteworthy that AP would carry this story at all; certainly, neither AP nor the rest of the establishment media is ever so solicitous of those whom they smear as \u201canti-Muslim\u201d to allow us to tell our side of the story.",
+    "\nBut the imam Siraj Wahhaj is here engaging in some \u201cwar is deceit\u201d action.",
+    "\nHis son was on the radar of counterterror officials for 13 years on suspicion of jihad activity.",
+    "\nHe was training school shooters.",
+    "\nBut of course, it\u2019s all because of journalists who supposedly hate Islam and Muslims.",
+    "\nEver the victim.",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u201cThe Latest: Compound incident called anti-Muslim propaganda,\u201d Associated Press, August 10, 2018 (thanks to the Geller Report):\nTAOS, N.M. (AP) \u2014 The Latest on 11 children found living in a filthy, makeshift compound in New Mexico (all times local): 4 p.m. A representative of a New York mosque says the raid of a ramshackle compound in New Mexico is being used as propaganda against Muslims.",
+    "\nAli Abdul-Karim Judan, a spokesman for the mosque, said in a video posted Thursday on Facebook that the incident was a domestic situation that has nothing to do with extremism.",
+    "\nThe grandfather of a severely disabled boy, who authorities say was kidnapped by his father and taken to the compound, has said remains found there are those of his grandson.",
+    "\nThe man is an imam at the New York mosque.",
+    "\nJudan also cast doubt on a contention by prosecutors that children found at the site were being trained to use assault rifles in preparation for school shootings.",
+    "\nHe said authorities should not have made that claim without stronger evidence.",
+    "\nThe mosque has attracted radicals over the years, including a man who later helped bomb the World Trade Center in 1993\u2026.",
+    "\nArticle posted with permission from Robert Spencer"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 327,
+      "text": "Imam Whose Son Was Training School Shooters Blasts Reporters On New Mexico Compound: \u201cThey Hate Islam\u201d\n\nIt\u2019s noteworthy that AP would carry this story at all; certainly, neither AP nor the rest of the establishment media is ever so solicitous of those whom they smear as \u201canti-Muslim\u201d to allow us to tell our side of the story.",
+      "new_text": "Imam Criticizes Reporters On New Mexico Compound: \u201cThey Hate Islam\u201d\n\nIt\u2019s noteworthy that AP would carry this story at all; certainly, neither AP nor the rest of the establishment media is ever so solicitous of those whom they defame as \u201canti-Muslim\u201d to allow us to tell our side of the story.",
+      "prop_spans": [
+        [
+          0,
+          44,
+          "Name_Calling,Labeling"
+        ],
+        [
+          44,
+          51,
+          "Loaded_Language"
+        ],
+        [
+          86,
+          101,
+          "Slogans"
+        ],
+        [
+          262,
+          268,
+          "Loaded_Language"
+        ],
+        [
+          272,
+          283,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 327,
+      "end_ix": 402,
+      "text": "\nBut the imam Siraj Wahhaj is here engaging in some \u201cwar is deceit\u201d action.",
+      "new_text": "\nBut the imam Siraj Wahhaj is here engaging in some \u201cwar is deceit\u201d action.",
+      "prop_spans": [
+        [
+          362,
+          401,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 402,
+      "end_ix": 499,
+      "text": "\nHis son was on the radar of counterterror officials for 13 years on suspicion of jihad activity.",
+      "new_text": "\nHis son was on the radar of counterterror officials for 13 years on suspicion of jihad activity.",
+      "prop_spans": [
+        [
+          484,
+          498,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 499,
+      "end_ix": 532,
+      "text": "\nHe was training school shooters.",
+      "new_text": "\nHe was training school shooters.",
+      "prop_spans": [
+        [
+          516,
+          531,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 532,
+      "end_ix": 618,
+      "text": "\nBut of course, it\u2019s all because of journalists who supposedly hate Islam and Muslims.",
+      "new_text": "\nBut of course, it\u2019s all because of journalists.",
+      "prop_spans": [
+        [
+          533,
+          617,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 618,
+      "end_ix": 635,
+      "text": "\nEver the victim.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          619,
+          634,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 635,
+      "end_ix": 729,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 729,
+      "end_ix": 785,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 785,
+      "end_ix": 841,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 841,
+      "end_ix": 870,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 870,
+      "end_ix": 900,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 900,
+      "end_ix": 981,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 981,
+      "end_ix": 1063,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1063,
+      "end_ix": 1091,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1091,
+      "end_ix": 1154,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1154,
+      "end_ix": 1547,
+      "text": "\n\u201cThe Latest: Compound incident called anti-Muslim propaganda,\u201d Associated Press, August 10, 2018 (thanks to the Geller Report):\nTAOS, N.M. (AP) \u2014 The Latest on 11 children found living in a filthy, makeshift compound in New Mexico (all times local): 4 p.m. A representative of a New York mosque says the raid of a ramshackle compound in New Mexico is being used as propaganda against Muslims.",
+      "new_text": "\n\u201cThe Latest: Compound incident called anti-Muslim propaganda,\u201d Associated Press, August 10, 2018 (thanks to the Geller Report):\nTAOS, N.M. (AP) \u2014 The Latest on 11 children found living in a compound in New Mexico (all times local): 4 p.m. A representative of a New York mosque says the raid of a compound in New Mexico is being used as propaganda against Muslims.",
+      "prop_spans": [
+        [
+          1193,
+          1215,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1343,
+          1386,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1467,
+          1503,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1547,
+      "end_ix": 1724,
+      "text": "\nAli Abdul-Karim Judan, a spokesman for the mosque, said in a video posted Thursday on Facebook that the incident was a domestic situation that has nothing to do with extremism.",
+      "new_text": "\nAli Abdul-Karim Judan, a spokesman for the mosque, said in a video posted Thursday on Facebook that the incident was a domestic situation unrelated to extremism.",
+      "prop_spans": [
+        [
+          1648,
+          1723,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1724,
+      "end_ix": 1899,
+      "text": "\nThe grandfather of a severely disabled boy, who authorities say was kidnapped by his father and taken to the compound, has said remains found there are those of his grandson.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1899,
+      "end_ix": 1942,
+      "text": "\nThe man is an imam at the New York mosque.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1942,
+      "end_ix": 2105,
+      "text": "\nJudan also cast doubt on a contention by prosecutors that children found at the site were being trained to use assault rifles in preparation for school shootings.",
+      "new_text": "\nJudan also cast doubt on a contention by prosecutors that children found at the site were being trained to use assault rifles in preparation for school shootings.",
+      "prop_spans": [
+        [
+          1943,
+          2105,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2105,
+      "end_ix": 2184,
+      "text": "\nHe said authorities should not have made that claim without stronger evidence.",
+      "new_text": "\nHe said authorities' claim required stronger evidence.",
+      "prop_spans": [
+        [
+          2105,
+          2183,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2184,
+      "end_ix": 2305,
+      "text": "\nThe mosque has attracted radicals over the years, including a man who later helped bomb the World Trade Center in 1993\u2026.",
+      "new_text": "\nThe mosque has attracted radicals over the years.",
+      "prop_spans": [
+        [
+          2185,
+          2303,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2305,
+      "end_ix": 2356,
+      "text": "\nArticle posted with permission from Robert Spencer",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      44,
+      "Name_Calling,Labeling"
+    ],
+    [
+      44,
+      51,
+      "Loaded_Language"
+    ],
+    [
+      86,
+      101,
+      "Slogans"
+    ],
+    [
+      262,
+      268,
+      "Loaded_Language"
+    ],
+    [
+      272,
+      283,
+      "Name_Calling,Labeling"
+    ],
+    [
+      362,
+      401,
+      "Loaded_Language"
+    ],
+    [
+      484,
+      498,
+      "Loaded_Language"
+    ],
+    [
+      516,
+      531,
+      "Name_Calling,Labeling"
+    ],
+    [
+      533,
+      617,
+      "Causal_Oversimplification"
+    ],
+    [
+      619,
+      634,
+      "Loaded_Language"
+    ],
+    [
+      1193,
+      1215,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1343,
+      1386,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1467,
+      1503,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1648,
+      1723,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1943,
+      2183,
+      "Doubt"
+    ],
+    [
+      2185,
+      2303,
+      "Reductio_ad_hitlerum"
+    ]
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "article_id": "795691173",
+  "sentence offsets in original": [
+    0,
+    436,
+    706,
+    838,
+    1072,
+    1245,
+    1337,
+    1527,
+    1779,
+    1921,
+    2268,
+    2373,
+    2508,
+    2758,
+    2856
+  ],
+  "original sentences": [
+    "In first public rebuke by the White House, Mnuchin pulls out of Saudi investment conference to protest Khashoggi case\n\nWASHINGTON \u2014 Treasury Secretary Steven T. Mnuchin said Thursday he was pulling out of a major Saudi investment conference, known as Davos in the Desert, in the first public rebuke by the White House of the Saudi regime over the disappearance and suspected murder of a dissident Saudi journalist who lived in Virginia.",
+    "\nTrade and finance ministers from Britain, France, Holland and other countries, the head of the International Monetary Fund, as well as CEOs of multiple major companies already had withdrawn in protest, and Mnuchin was under growing pressure to add his name to the list.",
+    "\nMnuchin tweeted the decision after meeting with President Donald Trump and Secretary of State Michael R. Pompeo at the White House.",
+    "\nPompeo later told reporters that he had urged the president to give the Saudi government \u201ca few more days\u201d to explain what happened to Jamal Khashoggi, who vanished after he entered the Saudi Consulate in Istanbul, Turkey, on Oct. 2.",
+    "\nTurkish authorities and media have said audio recordings show that Khashoggi was tortured and beheaded inside the consulate, although the recordings have not been released.",
+    "\nKhashoggi wrote opinion columns for the Washington Post critical of the Saudi royal family.",
+    "\nSaudi King Salman and his son, Crown Prince Mohammed bin Salman, the country\u2019s de facto ruler, have denied to both Trump and Pompeo any knowledge of the alleged murder or having ordered it.",
+    "\nPompeo returned Wednesday night from meetings with Saudi and Turkish leaders in Riyadh and Ankara and went to the White House Thursday morning to brief Trump, who has come under mounting pressure from Congress and rights groups to punish Saudi Arabia.",
+    "\nPompeo said the Saudis \u201cunderstand the serious nature\u201d of Khashoggi\u2019s disappearance, and would conduct a thorough and \u201ctimely\u201d investigation.",
+    "\nTheir findings, Pompeo said, \u201cwill be transparent for everyone to see, to ask questions about, to inquire with respect to its thoroughness.\u201d\nHe said he told the president \u201cthat we ought to give them a few more days to complete that so that we too have a complete understanding of the facts\u201d before making decisions on how the U.S. should respond.",
+    "\nTurkey is conducting its own probe, and Pompeo said those results will also be taken into consideration.",
+    "\nHe again stressed the importance of Saudi Arabia as a strategic ally, in a relationship, he noted, that dates back more than 80 years.",
+    "\nThe administration\u2019s reluctance to condemn the Saudi government has fueled criticism from Democrats and Republicans in Congress, from diplomats and from even some corporations that long have profited from close relations with the Saudi royal family.",
+    "\n\u201cWe just are going to allow the process to move forward, allow the facts to unfold,\u201d Pompeo said.",
+    "\n\u201cAnd as they unfold, as we make a determination for ourselves about what happened there, based on the facts that are presented to us, the United States will determine what the appropriate response might be.\u201d\n\u2014 Tracy Wilkinson\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 436,
+      "text": "In first public rebuke by the White House, Mnuchin pulls out of Saudi investment conference to protest Khashoggi case\n\nWASHINGTON \u2014 Treasury Secretary Steven T. Mnuchin said Thursday he was pulling out of a major Saudi investment conference, known as Davos in the Desert, in the first public rebuke by the White House of the Saudi regime over the disappearance and suspected murder of a dissident Saudi journalist who lived in Virginia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 436,
+      "end_ix": 706,
+      "text": "\nTrade and finance ministers from Britain, France, Holland and other countries, the head of the International Monetary Fund, as well as CEOs of multiple major companies already had withdrawn in protest, and Mnuchin was under growing pressure to add his name to the list.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 706,
+      "end_ix": 838,
+      "text": "\nMnuchin tweeted the decision after meeting with President Donald Trump and Secretary of State Michael R. Pompeo at the White House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 838,
+      "end_ix": 1072,
+      "text": "\nPompeo later told reporters that he had urged the president to give the Saudi government \u201ca few more days\u201d to explain what happened to Jamal Khashoggi, who vanished after he entered the Saudi Consulate in Istanbul, Turkey, on Oct. 2.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1072,
+      "end_ix": 1245,
+      "text": "\nTurkish authorities and media have said audio recordings show that Khashoggi was tortured and beheaded inside the consulate, although the recordings have not been released.",
+      "new_text": "\nTurkish authorities and media have said audio recordings show that Khashoggi was executed inside the consulate, although the recordings have not been released.",
+      "prop_spans": [
+        [
+          1154,
+          1175,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1245,
+      "end_ix": 1337,
+      "text": "\nKhashoggi wrote opinion columns for the Washington Post critical of the Saudi royal family.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1337,
+      "end_ix": 1527,
+      "text": "\nSaudi King Salman and his son, Crown Prince Mohammed bin Salman, the country\u2019s de facto ruler, have denied to both Trump and Pompeo any knowledge of the alleged murder or having ordered it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1527,
+      "end_ix": 1779,
+      "text": "\nPompeo returned Wednesday night from meetings with Saudi and Turkish leaders in Riyadh and Ankara and went to the White House Thursday morning to brief Trump, who has come under mounting pressure from Congress and rights groups to punish Saudi Arabia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1779,
+      "end_ix": 1921,
+      "text": "\nPompeo said the Saudis \u201cunderstand the serious nature\u201d of Khashoggi\u2019s disappearance, and would conduct a thorough and \u201ctimely\u201d investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1921,
+      "end_ix": 2268,
+      "text": "\nTheir findings, Pompeo said, \u201cwill be transparent for everyone to see, to ask questions about, to inquire with respect to its thoroughness.\u201d\nHe said he told the president \u201cthat we ought to give them a few more days to complete that so that we too have a complete understanding of the facts\u201d before making decisions on how the U.S. should respond.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2268,
+      "end_ix": 2373,
+      "text": "\nTurkey is conducting its own probe, and Pompeo said those results will also be taken into consideration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2373,
+      "end_ix": 2508,
+      "text": "\nHe again stressed the importance of Saudi Arabia as a strategic ally, in a relationship, he noted, that dates back more than 80 years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2508,
+      "end_ix": 2758,
+      "text": "\nThe administration\u2019s reluctance to condemn the Saudi government has fueled criticism from Democrats and Republicans in Congress, from diplomats and from even some corporations that long have profited from close relations with the Saudi royal family.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2758,
+      "end_ix": 2856,
+      "text": "\n\u201cWe just are going to allow the process to move forward, allow the facts to unfold,\u201d Pompeo said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2856,
+      "end_ix": 3173,
+      "text": "\n\u201cAnd as they unfold, as we make a determination for ourselves about what happened there, based on the facts that are presented to us, the United States will determine what the appropriate response might be.\u201d\n\u2014 Tracy Wilkinson\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.",
+      "new_text": "\n\u201cAnd as they unfold, as we make a determination for ourselves about what happened there, based on the facts that are presented to us, the country will determine what the appropriate response might be.\u201d\n\u2014 Tracy Wilkinson\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.",
+      "prop_spans": [
+        [
+          2991,
+          3008,
+          "Flag-Waving"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1154,
+      1175,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2991,
+      3008,
+      "Flag-Waving"
+    ]
+  ]
+}

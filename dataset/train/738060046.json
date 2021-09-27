@@ -1,0 +1,390 @@
+{
+  "article_id": "738060046",
+  "sentence offsets in original": [
+    0,
+    317,
+    432,
+    790,
+    859,
+    934,
+    977,
+    1091,
+    1270,
+    1443,
+    1514,
+    1543,
+    1574,
+    1632,
+    1828,
+    1886,
+    1940,
+    2022,
+    2149,
+    2276
+  ],
+  "original sentences": [
+    "UK Bans Free Speech Activists While Admitting Numerous Preachers Of Jihad Violence, Hatred & Sharia\n\nThe banning of free speech activists Martin Sellner and Brittany Pettibone from the UK is just the latest of many, many examples of how the British government bans foes of jihad terror while admitting its proponents.",
+    "\nPamela Geller and I are banned from entering the country for the crime of telling the truth about Islam and jihad.",
+    "\nAccording to Breitbart, \u201cSellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.\u201d\nThat\u2019s just what they claimed about Pamela Geller and me: that our visit could cause violence and disrupt community cohesion.",
+    "\nBut we, of course, have never advocated or approved of any violence.",
+    "\nThe UK Home Office meant that our visit could cause violence from Muslims.",
+    "\nThey were bowing to jihadist intimidation.",
+    "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers without a moment of hesitation.",
+    "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+    "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+    "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+    "\nSecond \u2013 burn them to death.",
+    "\nThird \u2013 throw \u2019em off a cliff.",
+    "\nFourth \u2013 tear down a wall on them so they die under that.",
+    "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s relentlessly appeasement-minded government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+    "\nOne of them was welcomed by the Archbishop of Canterbury.",
+    "\nNor does the UK admit only preachers of jihad terror.",
+    "\nIt admits jihad terrorists as well, even when it knows they are jihad terrorists.",
+    "\nThe Muslim migrant teen who bombed the London Tube told border officials that he was trained by ISIS, but was admitted anyway.",
+    "\nMeanwhile, the UK banned three bishops from areas of Iraq and Syria where Christians are persecuted from entering the country.",
+    "\nArticle posted with permission from Robert Spencer"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 317,
+      "text": "UK Bans Free Speech Activists While Admitting Numerous Preachers Of Jihad Violence, Hatred & Sharia\n\nThe banning of free speech activists Martin Sellner and Brittany Pettibone from the UK is just the latest of many, many examples of how the British government bans foes of jihad terror while admitting its proponents.",
+      "new_text": "UK Bans Free Speech Activists\n\nThe banning of free speech activists Martin Sellner and Brittany Pettibone from the UK is just the latest of many, many examples of how the British government bans foes of jihad terror.",
+      "prop_spans": [
+        [
+          0,
+          83,
+          "Whataboutism"
+        ],
+        [
+          241,
+          317,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 317,
+      "end_ix": 432,
+      "text": "\nPamela Geller and I are banned from entering the country for the crime of telling the truth about Islam and jihad.",
+      "new_text": "\nPamela Geller and I are banned from entering the country for the crime of telling the truth about Islam and jihad.",
+      "prop_spans": [
+        [
+          317,
+          317,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 432,
+      "end_ix": 790,
+      "text": "\nAccording to Breitbart, \u201cSellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.\u201d\nThat\u2019s just what they claimed about Pamela Geller and me: that our visit could cause violence and disrupt community cohesion.",
+      "new_text": "\nAccording to Breitbart, \u201cSellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.\u201d\nThat\u2019s just what they claimed about Pamela Geller and me: that our visit could cause violence and disrupt community cohesion.",
+      "prop_spans": [
+        [
+          553,
+          662,
+          "Appeal_to_Authority"
+        ],
+        [
+          665,
+          789,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 790,
+      "end_ix": 859,
+      "text": "\nBut we, of course, have never advocated or approved of any violence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 859,
+      "end_ix": 934,
+      "text": "\nThe UK Home Office meant that our visit could cause violence from Muslims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 934,
+      "end_ix": 977,
+      "text": "\nThey were bowing to jihadist intimidation.",
+      "new_text": "\nThey were maybe bowing to jihadist intimidation.",
+      "prop_spans": [
+        [
+          935,
+          977,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 977,
+      "end_ix": 1091,
+      "text": "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers without a moment of hesitation.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          977,
+          978,
+          "Causal_Oversimplification"
+        ],
+        [
+          978,
+          1091,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1091,
+      "end_ix": 1270,
+      "text": "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+      "new_text": "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+      "prop_spans": [
+        [
+          1091,
+          1092,
+          "Whataboutism"
+        ],
+        [
+          1119,
+          1157,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1270,
+      "end_ix": 1443,
+      "text": "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+      "new_text": "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+      "prop_spans": [
+        [
+          1379,
+          1443,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1443,
+      "end_ix": 1514,
+      "text": "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+      "new_text": "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+      "prop_spans": [
+        [
+          1443,
+          1514,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1444,
+          1514,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1514,
+      "end_ix": 1543,
+      "text": "\nSecond \u2013 burn them to death.",
+      "new_text": "\nSecond \u2013 burn them to death.",
+      "prop_spans": [
+        [
+          1514,
+          1543,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1514,
+          1543,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1543,
+      "end_ix": 1574,
+      "text": "\nThird \u2013 throw \u2019em off a cliff.",
+      "new_text": "\nThird \u2013 throw \u2019em off a cliff.",
+      "prop_spans": [
+        [
+          1543,
+          1574,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1543,
+          1574,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1574,
+      "end_ix": 1632,
+      "text": "\nFourth \u2013 tear down a wall on them so they die under that.",
+      "new_text": "\nFourth \u2013 tear down a wall on them so they die under that.",
+      "prop_spans": [
+        [
+          1574,
+          1632,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1574,
+          1632,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1632,
+      "end_ix": 1828,
+      "text": "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s relentlessly appeasement-minded government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+      "new_text": "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+      "prop_spans": [
+        [
+          1632,
+          1670,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1632,
+          1667,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1684,
+          1726,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1684,
+          1716,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1828,
+      "end_ix": 1886,
+      "text": "\nOne of them was welcomed by the Archbishop of Canterbury.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1886,
+      "end_ix": 1940,
+      "text": "\nNor does the UK admit only preachers of jihad terror.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1940,
+      "end_ix": 2022,
+      "text": "\nIt admits jihad terrorists as well, even when it knows they are jihad terrorists.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2022,
+      "end_ix": 2149,
+      "text": "\nThe Muslim migrant teen who bombed the London Tube told border officials that he was trained by ISIS, but was admitted anyway.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2149,
+      "end_ix": 2276,
+      "text": "\nMeanwhile, the UK banned three bishops from areas of Iraq and Syria where Christians are persecuted from entering the country.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2150,
+          2276,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2276,
+      "end_ix": 2327,
+      "text": "\nArticle posted with permission from Robert Spencer",
+      "new_text": "\nArticle posted with permission from Robert Spencer",
+      "prop_spans": [
+        [
+          2276,
+          2277,
+          "Whataboutism"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      83,
+      "Whataboutism"
+    ],
+    [
+      241,
+      317,
+      "Whataboutism"
+    ],
+    [
+      553,
+      662,
+      "Appeal_to_Authority"
+    ],
+    [
+      665,
+      789,
+      "Appeal_to_Authority"
+    ],
+    [
+      935,
+      978,
+      "Causal_Oversimplification"
+    ],
+    [
+      978,
+      1092,
+      "Whataboutism"
+    ],
+    [
+      1119,
+      1157,
+      "Loaded_Language"
+    ],
+    [
+      1379,
+      1670,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      1444,
+      1667,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1684,
+      1726,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1684,
+      1716,
+      "Loaded_Language"
+    ],
+    [
+      2150,
+      2277,
+      "Whataboutism"
+    ]
+  ]
+}

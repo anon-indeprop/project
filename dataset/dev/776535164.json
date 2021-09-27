@@ -1,0 +1,116 @@
+{
+  "article_id": "776535164",
+  "sentence offsets in original": [
+    0,
+    439,
+    559,
+    1025,
+    1237,
+    1445,
+    1656,
+    1931
+  ],
+  "original sentences": [
+    "Catholic bishop purges the names of his predecessors from church buildings for failing to protect children\n\nOn Wednesday, Bishop Ronald Gainer of the Catholic diocese of Harrisburg, Pennsylvania, ordered that the names of all previous Harrisburg bishops from the past seven decades be removed from church buildings and rooms, because they collectively failed to protect children from dozens of predators priests and other Catholic leaders.",
+    "\nNo other Catholic prelate has conducted such a blanket purge of his predecessors' legacies, The New York Times reports.",
+    "\n\u00a9 Claudio Reyes/AFP/Getty Images Catholic Church deals with sex abuse fallout\nAt the same time, Gainer released the names of 71 clergy and seminarians who've been credibly accused of sexual misconduct involving children dating back to 1947, apologized on behalf of the diocese and himself, waived any confidentiality agreements abuse survivors may have signed in legal settlements with the diocese, and released new guidelines for protecting children in the church.",
+    "\nGrainer said he wanted to release the list of accused predators earlier but was asked to wait until a state grand jury inquiry into abuse in six Pennsylvania Catholic diocese, including Harrisburg, was complete.",
+    "\nA spokesman for Pennsylvania Attorney General Josh Shapiro, who ordered the two-year investigation of Catholic sex abuse, said the Harrisburg diocese had pushed to end the grand jury investigation last year.",
+    "\nThe grand jury's findings, including allegations against more than 300 priests accused of sexual abuse dating back to 1947, will likely be released this month after the state Supreme Court gave the green light.",
+    "\nThe Catholic Church is already reeling over the revelations that former Washington Archbishop Theodore McCormick, who resigned as a cardinal over the weekend after being sanctioned by Pope Francis, has been credibly accused of sexually abusing at least two boys decades ago.",
+    "\nMcCarrick, 88, faces a trial at the Vatican and has been barred from saying public Mass."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 439,
+      "text": "Catholic bishop purges the names of his predecessors from church buildings for failing to protect children\n\nOn Wednesday, Bishop Ronald Gainer of the Catholic diocese of Harrisburg, Pennsylvania, ordered that the names of all previous Harrisburg bishops from the past seven decades be removed from church buildings and rooms, because they collectively failed to protect children from dozens of predators priests and other Catholic leaders.",
+      "new_text": "Catholic bishop deprecates the names of his predecessors from church buildings for failing to protect children\n\nOn Wednesday, Bishop Ronald Gainer of the Catholic diocese of Harrisburg, Pennsylvania, ordered that the names of all previous Harrisburg bishops from the past seven decades be removed from church buildings and rooms, because they collectively failed to protect children from dozens of predators priests and other Catholic leaders.",
+      "prop_spans": [
+        [
+          16,
+          33,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 439,
+      "end_ix": 559,
+      "text": "\nNo other Catholic prelate has conducted such a blanket purge of his predecessors' legacies, The New York Times reports.",
+      "new_text": "\nNo other Catholic prelate has conducted such a dismissal of his predecessors' legacies, The New York Times reports.",
+      "prop_spans": [
+        [
+          485,
+          501,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 559,
+      "end_ix": 1025,
+      "text": "\n\u00a9 Claudio Reyes/AFP/Getty Images Catholic Church deals with sex abuse fallout\nAt the same time, Gainer released the names of 71 clergy and seminarians who've been credibly accused of sexual misconduct involving children dating back to 1947, apologized on behalf of the diocese and himself, waived any confidentiality agreements abuse survivors may have signed in legal settlements with the diocese, and released new guidelines for protecting children in the church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1025,
+      "end_ix": 1237,
+      "text": "\nGrainer said he wanted to release the list of accused predators earlier but was asked to wait until a state grand jury inquiry into abuse in six Pennsylvania Catholic diocese, including Harrisburg, was complete.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1237,
+      "end_ix": 1445,
+      "text": "\nA spokesman for Pennsylvania Attorney General Josh Shapiro, who ordered the two-year investigation of Catholic sex abuse, said the Harrisburg diocese had pushed to end the grand jury investigation last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1445,
+      "end_ix": 1656,
+      "text": "\nThe grand jury's findings, including allegations against more than 300 priests accused of sexual abuse dating back to 1947, will likely be released this month after the state Supreme Court gave the green light.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1656,
+      "end_ix": 1931,
+      "text": "\nThe Catholic Church is already reeling over the revelations that former Washington Archbishop Theodore McCormick, who resigned as a cardinal over the weekend after being sanctioned by Pope Francis, has been credibly accused of sexually abusing at least two boys decades ago.",
+      "new_text": "\nThe Catholic Church is already wavering from the revelations that former Washington Archbishop Theodore McCormick, who resigned as a cardinal over the weekend after being sanctioned by Pope Francis, has been credibly accused of sexually abusing at least two boys decades ago.",
+      "prop_spans": [
+        [
+          1688,
+          1701,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1931,
+      "end_ix": 2020,
+      "text": "\nMcCarrick, 88, faces a trial at the Vatican and has been barred from saying public Mass.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      16,
+      33,
+      "Loaded_Language"
+    ],
+    [
+      485,
+      501,
+      "Loaded_Language"
+    ],
+    [
+      1688,
+      1701,
+      "Loaded_Language"
+    ]
+  ]
+}

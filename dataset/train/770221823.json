@@ -1,0 +1,243 @@
+{
+  "article_id": "770221823",
+  "sentence offsets in original": [
+    0,
+    36,
+    99,
+    175,
+    268,
+    532,
+    626,
+    682,
+    738,
+    767,
+    797,
+    879,
+    961,
+    989,
+    1052,
+    1243,
+    1368,
+    1603,
+    1751
+  ],
+  "original sentences": [
+    "What Happens After Islamic Conquest?",
+    "\n\nConstantinople fell to the warriors of jihad on May 29, 1453.",
+    "\nUsually after reporting that, Western historians turn their attention away.",
+    "\nBut in my new book The History of Jihad From Muhammad to ISIS , I detail what happened next.",
+    "\nThe Byzantine scholar Bessarion wrote to the Doge of Venice two months after the conquest, in July 1453, saying that Constantinople had been\n\u2026sacked by the most inhuman barbarians and the most savage enemies of the Christian faith, by the fiercest of wild beasts.",
+    "\ntake our poll - story continues below Will Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThe public treasure has been consumed, private wealth has been destroyed, the temples have been stripped of gold, silver, jewels, the relics of the saints, and other most precious ornaments.",
+    "\nMen have been butchered like cattle, women abducted, virgins ravished, and children snatched from the arms of their parents.",
+    "\nSo much for the much-vaunted Islamic \u201ctolerance\u201d in Europe, the tales of which Islamic scholar Akbar Ahmed is using to fool gullible Westerners today, and soften their resistance to mass Muslim migration into Europe and North America.",
+    "\nDon\u2019t allow yourself to be fooled: arm yourself with the truth by preordering The History of Jihad From Muhammad to ISIS \u2014 click here to do so now.",
+    "\nArticle posted with permission from Robert Spencer"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 36,
+      "text": "What Happens After Islamic Conquest?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 36,
+      "end_ix": 99,
+      "text": "\n\nConstantinople fell to the warriors of jihad on May 29, 1453.",
+      "new_text": "\n\nConstantinople fell to the jihadi warriors on May 29, 1453.",
+      "prop_spans": [
+        [
+          61,
+          83,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 99,
+      "end_ix": 175,
+      "text": "\nUsually after reporting that, Western historians turn their attention away.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 175,
+      "end_ix": 268,
+      "text": "\nBut in my new book The History of Jihad From Muhammad to ISIS , I detail what happened next.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 268,
+      "end_ix": 532,
+      "text": "\nThe Byzantine scholar Bessarion wrote to the Doge of Venice two months after the conquest, in July 1453, saying that Constantinople had been\n\u2026sacked by the most inhuman barbarians and the most savage enemies of the Christian faith, by the fiercest of wild beasts.",
+      "new_text": "\nThe Byzantine scholar Bessarion wrote to the Doge of Venice two months after the conquest, in July 1453, saying that Constantinople had been\n\u2026taken by the most inhuman barbarians and the most savage enemies of the Christian faith, by the fiercest of wild beasts.",
+      "prop_spans": [
+        [
+          411,
+          418,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 532,
+      "end_ix": 626,
+      "text": "\ntake our poll - story continues below Will Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 626,
+      "end_ix": 682,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 682,
+      "end_ix": 738,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 738,
+      "end_ix": 767,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 767,
+      "end_ix": 797,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 797,
+      "end_ix": 879,
+      "text": "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 879,
+      "end_ix": 961,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 961,
+      "end_ix": 989,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 989,
+      "end_ix": 1052,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1052,
+      "end_ix": 1243,
+      "text": "\nThe public treasure has been consumed, private wealth has been destroyed, the temples have been stripped of gold, silver, jewels, the relics of the saints, and other most precious ornaments.",
+      "new_text": "\nThe public treasure has been consumed, private wealth has been destroyed, the temples have been stripped of gold, silver, jewels, the relics of the saints, and other precious ornaments.",
+      "prop_spans": [
+        [
+          1053,
+          1243,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1243,
+      "end_ix": 1368,
+      "text": "\nMen have been butchered like cattle, women abducted, virgins ravished, and children snatched from the arms of their parents.",
+      "new_text": "\nMen have been killed, women abducted and ravished, and children snatched from the arms of their parents.",
+      "prop_spans": [
+        [
+          1243,
+          1367,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1368,
+      "end_ix": 1603,
+      "text": "\nSo much for the much-vaunted Islamic \u201ctolerance\u201d in Europe, the tales of which Islamic scholar Akbar Ahmed is using to fool gullible Westerners today, and soften their resistance to mass Muslim migration into Europe and North America.",
+      "new_text": "\nSo much for the much-vaunted Islamic \u201ctolerance\u201d in Europe, the tales of which Islamic scholar Akbar Ahmed is using to fool Westerners today, and soften their resistance to mass Muslim migration into Europe and North America.",
+      "prop_spans": [
+        [
+          1493,
+          1513,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1603,
+      "end_ix": 1751,
+      "text": "\nDon\u2019t allow yourself to be fooled: arm yourself with the truth by preordering The History of Jihad From Muhammad to ISIS \u2014 click here to do so now.",
+      "new_text": "\nDon\u2019t allow yourself to be fooled: try to arm yourself with the truth by preordering The History of Jihad From Muhammad to ISIS \u2014 click here to do so now.",
+      "prop_spans": [
+        [
+          1604,
+          1725,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1751,
+      "end_ix": 1802,
+      "text": "\nArticle posted with permission from Robert Spencer",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      61,
+      83,
+      "Name_Calling,Labeling"
+    ],
+    [
+      411,
+      418,
+      "Loaded_Language"
+    ],
+    [
+      1053,
+      1367,
+      "Loaded_Language"
+    ],
+    [
+      1493,
+      1513,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1604,
+      1725,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

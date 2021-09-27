@@ -1,0 +1,377 @@
+{
+  "article_id": "771655795",
+  "sentence offsets in original": [
+    0,
+    122,
+    259,
+    383,
+    499,
+    668,
+    897,
+    923,
+    1207,
+    1297,
+    1466,
+    1485,
+    1679,
+    1945,
+    2162,
+    2205,
+    2396,
+    2670,
+    2816,
+    3042,
+    3216,
+    3547,
+    3654,
+    3704
+  ],
+  "original sentences": [
+    "Gun Control Is Now Truly Impossible\n\nGun control is the dream of every wannabe statist dictator and naive do-gooder alike.",
+    "\nThe latter think that removing guns will suddenly force humanity to stop all animosity toward one another, hold hands, and sing Kumbaya.",
+    "\nThe former recognizes that an armed populace is a threat to any tyrant and pushes for gun control out of self-preservation.",
+    "\nHowever, a new ruling in a court case over 3-D printer files of guns has now made gun control virtually impossible.",
+    "\nFIVE YEARS AGO, 25-year-old radical libertarian Cody Wilson stood on a remote central Texas gun range and pulled the trigger on the world\u2019s first fully 3-D-printed gun.",
+    "\nWhen, to his relief, his plastic invention fired a .380-caliber bullet into a berm of dirt without jamming or exploding in his hands, he drove back to Austin and uploaded the blueprints for the pistol to his website, Defcad.com.",
+    "\nDefend Yourself: A Com...",
+    "\nRob Pincus Best Price: $2.00 Buy New $17.99 (as of 03:35 EDT - Details) He\u2019d launched the site months earlier along with an anarchist video manifesto, declaring that gun control would never be the same in an era when anyone can download and print their own firearm with a few clicks.",
+    "\nIn the days after that first test-firing, his gun was downloaded more than 100,000 times.",
+    "\nWilson made the decision to go all in on the project, dropping out of law school at the University of Texas, as if to confirm his belief that technology supersedes law.",
+    "\nThe law caught up.",
+    "\nLess than a week later, Wilson received a letter from the US State Department demanding that he take down his printable-gun blueprints or face prosecution for violating federal export controls.",
+    "\nUnder an obscure set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license, just as if he\u2019d shipped his plastic gun to Mexico rather than put a digital version of it on the internet.",
+    "\nHe took Defcad.com offline, but his lawyer warned him that he still potentially faced millions of dollars in fines and years in prison simply for having made the file available to overseas downloaders for a few days.",
+    "\n\u201cI thought my life was over,\u201d Wilson says.",
+    "\n\u2026\nTwo months ago, the Department of Justice quietly offered Wilson a settlement to end a lawsuit he and a group of co-plaintiffs have pursued since 2015 against the United States government.",
+    "\nWilson and his team of lawyers focused their legal argument on a free speech claim: They pointed out that by forbidding Wilson from posting his 3-D-printable data, the State Department was not only violating his right to bear arms but his right to freely share information.",
+    "\nBy blurring the line between a gun and a digital file, Wilson had also successfully blurred the lines between the Second Amendment and the First.",
+    "\nStraight Talk on Armed... Best Price: $13.95 Buy New $13.95 (as of 03:40 EDT - Details)\n\u201cIf code is speech, the constitutional contradictions are evident,\u201d Wilson explained to WIRED when he first launched the lawsuit in 2015.",
+    "\n\u201cSo what if this code is a gun?\u201d\nThe Department of Justice\u2019s surprising settlement, confirmed in court documents earlier this month, essentially surrenders to that argument.",
+    "\nIt promises to change the export control rules surrounding any firearm below .50 caliber\u2014with a few exceptions like fully automatic weapons and rare gun designs that use caseless ammunition\u2014and move their regulation to the Commerce Department, which won\u2019t try to police technical data about the guns posted on the public internet.",
+    "\nIn the meantime, it gives Wilson a unique license to publish data about those weapons anywhere he chooses.",
+    "\n\u201cI consider it a truly grand thing,\u201d Wilson says.",
+    "\n\u201cIt will be an irrevocable part of political life that guns are downloadable, and we helped to do that.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 122,
+      "text": "Gun Control Is Now Truly Impossible\n\nGun control is the dream of every wannabe statist dictator and naive do-gooder alike.",
+      "new_text": "Gun Control Is Now Very Difficult to Achieve\n\nGun control is the dream of every statist and naive person.",
+      "prop_spans": [
+        [
+          0,
+          35,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          71,
+          116,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 122,
+      "end_ix": 259,
+      "text": "\nThe latter think that removing guns will suddenly force humanity to stop all animosity toward one another, hold hands, and sing Kumbaya.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          123,
+          258,
+          "Causal_Oversimplification"
+        ],
+        [
+          230,
+          258,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 259,
+      "end_ix": 383,
+      "text": "\nThe former recognizes that an armed populace is a threat to any tyrant and pushes for gun control out of self-preservation.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          260,
+          382,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 383,
+      "end_ix": 499,
+      "text": "\nHowever, a new ruling in a court case over 3-D printer files of guns has now made gun control virtually impossible.",
+      "new_text": "\nHowever, a new ruling in a court case over 3-D printer files of guns has now made gun control possibly very difficult.",
+      "prop_spans": [
+        [
+          453,
+          498,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 499,
+      "end_ix": 668,
+      "text": "\nFIVE YEARS AGO, 25-year-old radical libertarian Cody Wilson stood on a remote central Texas gun range and pulled the trigger on the world\u2019s first fully 3-D-printed gun.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 668,
+      "end_ix": 897,
+      "text": "\nWhen, to his relief, his plastic invention fired a .380-caliber bullet into a berm of dirt without jamming or exploding in his hands, he drove back to Austin and uploaded the blueprints for the pistol to his website, Defcad.com.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 897,
+      "end_ix": 923,
+      "text": "\nDefend Yourself: A Com...",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 923,
+      "end_ix": 1207,
+      "text": "\nRob Pincus Best Price: $2.00 Buy New $17.99 (as of 03:35 EDT - Details) He\u2019d launched the site months earlier along with an anarchist video manifesto, declaring that gun control would never be the same in an era when anyone can download and print their own firearm with a few clicks.",
+      "new_text": "\nRob Pincus Best Price: $2.00 Buy New $17.99 (as of 03:35 EDT - Details) He\u2019d launched the site months earlier along with a video manifesto, declaring that gun control would never be the same in an era when people can download and print their own firearm.",
+      "prop_spans": [
+        [
+          1045,
+          1073,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1090,
+          1206,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1207,
+      "end_ix": 1297,
+      "text": "\nIn the days after that first test-firing, his gun was downloaded more than 100,000 times.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1297,
+      "end_ix": 1466,
+      "text": "\nWilson made the decision to go all in on the project, dropping out of law school at the University of Texas, as if to confirm his belief that technology supersedes law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1466,
+      "end_ix": 1485,
+      "text": "\nThe law caught up.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1485,
+      "end_ix": 1679,
+      "text": "\nLess than a week later, Wilson received a letter from the US State Department demanding that he take down his printable-gun blueprints or face prosecution for violating federal export controls.",
+      "new_text": "\nLess than a week later, Wilson received a letter from the US State Department demanding that he stop his printable-gun blueprints or will possibly face prosecution for violating federal export controls.",
+      "prop_spans": [
+        [
+          1564,
+          1678,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1679,
+      "end_ix": 1945,
+      "text": "\nUnder an obscure set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license, just as if he\u2019d shipped his plastic gun to Mexico rather than put a digital version of it on the internet.",
+      "new_text": "\nUnder a set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license.",
+      "prop_spans": [
+        [
+          1689,
+          1719,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1780,
+          1944,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1945,
+      "end_ix": 2162,
+      "text": "\nHe took Defcad.com offline, but his lawyer warned him that he still potentially faced millions of dollars in fines and years in prison simply for having made the file available to overseas downloaders for a few days.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2162,
+      "end_ix": 2205,
+      "text": "\n\u201cI thought my life was over,\u201d Wilson says.",
+      "new_text": "\n\u201cI thought my life was over,\u201d Wilson says.",
+      "prop_spans": [
+        [
+          2164,
+          2190,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2205,
+      "end_ix": 2396,
+      "text": "\n\u2026\nTwo months ago, the Department of Justice quietly offered Wilson a settlement to end a lawsuit he and a group of co-plaintiffs have pursued since 2015 against the United States government.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2396,
+      "end_ix": 2670,
+      "text": "\nWilson and his team of lawyers focused their legal argument on a free speech claim: They pointed out that by forbidding Wilson from posting his 3-D-printable data, the State Department was not only violating his right to bear arms but his right to freely share information.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2670,
+      "end_ix": 2816,
+      "text": "\nBy blurring the line between a gun and a digital file, Wilson had also successfully blurred the lines between the Second Amendment and the First.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2816,
+      "end_ix": 3042,
+      "text": "\nStraight Talk on Armed... Best Price: $13.95 Buy New $13.95 (as of 03:40 EDT - Details)\n\u201cIf code is speech, the constitutional contradictions are evident,\u201d Wilson explained to WIRED when he first launched the lawsuit in 2015.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3042,
+      "end_ix": 3216,
+      "text": "\n\u201cSo what if this code is a gun?\u201d\nThe Department of Justice\u2019s surprising settlement, confirmed in court documents earlier this month, essentially surrenders to that argument.",
+      "new_text": "\n\u201cSo what if this code is a gun?\u201d\nThe Department of Justice\u2019s surprising settlement, confirmed in court documents earlier this month, essentially surrenders to that argument.",
+      "prop_spans": [
+        [
+          3044,
+          3073,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3216,
+      "end_ix": 3547,
+      "text": "\nIt promises to change the export control rules surrounding any firearm below .50 caliber\u2014with a few exceptions like fully automatic weapons and rare gun designs that use caseless ammunition\u2014and move their regulation to the Commerce Department, which won\u2019t try to police technical data about the guns posted on the public internet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3547,
+      "end_ix": 3654,
+      "text": "\nIn the meantime, it gives Wilson a unique license to publish data about those weapons anywhere he chooses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3654,
+      "end_ix": 3704,
+      "text": "\n\u201cI consider it a truly grand thing,\u201d Wilson says.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3704,
+      "end_ix": 3809,
+      "text": "\n\u201cIt will be an irrevocable part of political life that guns are downloadable, and we helped to do that.\u201d",
+      "new_text": "\n\u201cIt will be an irrevocable part of political life that guns are downloadable, and we helped to do that.\u201d",
+      "prop_spans": [
+        [
+          3706,
+          3807,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      35,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      71,
+      116,
+      "Name_Calling,Labeling"
+    ],
+    [
+      123,
+      258,
+      "Causal_Oversimplification"
+    ],
+    [
+      230,
+      258,
+      "Loaded_Language"
+    ],
+    [
+      260,
+      382,
+      "Causal_Oversimplification"
+    ],
+    [
+      453,
+      498,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1045,
+      1073,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1090,
+      1206,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1564,
+      1678,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1689,
+      1719,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1780,
+      1944,
+      "Straw_Men"
+    ],
+    [
+      2164,
+      2190,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3044,
+      3073,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      3706,
+      3807,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

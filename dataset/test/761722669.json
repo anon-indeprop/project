@@ -1,0 +1,405 @@
+{
+  "article_id": "761722669",
+  "sentence offsets in original": [
+    0,
+    324,
+    393,
+    433,
+    501,
+    583,
+    794,
+    1677,
+    1840,
+    1900,
+    2102,
+    2309,
+    2800,
+    3009,
+    3063,
+    3094,
+    3247,
+    3378,
+    3412,
+    3462,
+    3746,
+    3874,
+    3904,
+    3923,
+    3946,
+    3979,
+    3994,
+    4012,
+    4063,
+    4118,
+    4217,
+    4255,
+    4411
+  ],
+  "original sentences": [
+    "Bill Clinton insists he doesn't owe Monica Lewinsky an apology\n\nFormer President Bill Clinton insisted in a weekend interview that he doesn't owe a personal apology to Monica Lewinsky, the former White House intern whose adult life has been defined by their inappropriate sexual affair and the global scrutiny that followed.",
+    "\n'No,' he told NBC in an interview airing Monday on the 'Today' show.",
+    "\n'I do not \u2013 I have never talked to her.",
+    "\nBut I did say publicly on more than one occasion that I was sorry.'",
+    "\n'I apologized to everybody in the world,' Clinton said, implying that was enough.",
+    "\nAnd the flustered former president, more famous for his Don Juan-like seductions than for his policy legacy, portrayed himself, not Lewinsky, as history's victim in the mass-media's retelling of the 1990s saga.",
+    "\nSCROLL DOWN FOR VIDEOS\nFormer President Bill Clinton said in an NBC interview airing Monday that he's never personally apologized to Monica Lewinsky for how their sexual affair turned her life upside down \u2013 and he doesn't owe her a mea-culpa\nThe former president carried on a lengthy affair with Lewinsky, often trysting with her just steps from the Oval Office\nWatch part one of @craigmelvin's interview with Bill Clinton and James Patterson pic.twitter.com/UC8KAQw8Ge \u2014 TODAY (@TODAYshow) June 4, 2018\nHer too: Lewinsky has emerged as an anti-bullying activist and now says Clinton engaged in a 'gross abuse of power' by seducing her\n'A lot of the facts have been omitted to make the story work,' he declared, 'I think partly because they're frustrated that they got all these serious allegations against the current occupant of the Oval Office and his voters don't seem to care.'",
+    "\nAnd Clinton complained in the interview that he left the presidency financially ruined because of the costs associated with the legal consequences of his actions.",
+    "\n'Nobody believes that I got out of that for free,' he said.",
+    "\n'I left the White House $16 million in debt,'\nHe's worth about $80 million today, aided by an aggressive schedule of speaking events \u2013 many of which paid him six-figure fees for individual appearances.",
+    "\nIn a March essay for Vanity Fair magazine, Lewinsky wrote that 'what transpired between Bill Clinton and myself was not sexual assault, although we now recognize that it constituted a gross abuse of power.'",
+    "\nClinton is now on a book tour with co-author James Patterson but got pointed questions from NBC in an interview that aired Monday morning\nClinton, pictured denying his May-December affair when he was president, was already noted at the time for his lothario habits\nBut decades later, she's still traumatized by the aftermath of being identifed globally as the your woman the President of the United States kept on the side and used for his own pleasure just a few feet from the Oval Office.",
+    "\n'I\u2019m sorry to say I don\u2019t have a definitive answer yet on the meaning of all of the events that led to the 1998 investigation,' Lewinsky wrote of the public humiliation that played out in seeming slow motion.",
+    "\n'I am unpacking and reprocessing what happened to me.",
+    "\nOver and over and over again.'",
+    "\nClinton is launching a book tour to promote 'The President is Missing,' a fictional political thriller co-written with the famed author James Patterson.",
+    "\nHe accused interviewed Craig Melvin of 'ignor[ing] gaping facts in describing this, and I bet you don't know you don't know them.'",
+    "\n'This was litigated 20 years ago.",
+    "\nTwo-thirds of the American people sided with me.'",
+    "\nLewinsky is pictured on September 21, 1998 meeting with then-president Bill Clinton at a White House function\nIf he were president today, he said later, his most famous extramarital affair wouldn't 'be an issue, because people would be using the facts instead of the imagined facts.'",
+    "\nPatterson, too, defended Clinton \u2013 by comparing his sexual affairs in office with those of two preceding Democratic presidents.",
+    "\n'It's 20 years ago, come on!'",
+    "\nhe blasted Melvin.",
+    "\n'Let's talk about JFK.",
+    "\nLet's talk about, you know, LBJ.",
+    "\nStop already!'",
+    "\nClinton piled on.",
+    "\n'You think President Kennedy should have resigned?",
+    "\nDo you believe President Johnson should have resigned?",
+    "\nSomeone should ask you these questions because of the way you formulate the questions,' he jabbed.",
+    "\n'I dealt with it 20 years ago, plus.'",
+    "\nSuddenly philosophical and seeming to take a longer view of history, Clinton said: 'I have tried to do a good job since then with my life and with my work.",
+    "\nThat's all I have to say to you.'"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 324,
+      "text": "Bill Clinton insists he doesn't owe Monica Lewinsky an apology\n\nFormer President Bill Clinton insisted in a weekend interview that he doesn't owe a personal apology to Monica Lewinsky, the former White House intern whose adult life has been defined by their inappropriate sexual affair and the global scrutiny that followed.",
+      "new_text": "Bill Clinton insists he doesn't owe Monica Lewinsky an apology\n\nFormer President Bill Clinton insisted in a weekend interview that he doesn't owe a personal apology to Monica Lewinsky, the former White House intern whose adult life has been defined by their unprofessional sexual affair and the global scrutiny that followed.",
+      "prop_spans": [
+        [
+          258,
+          271,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 324,
+      "end_ix": 393,
+      "text": "\n'No,' he told NBC in an interview airing Monday on the 'Today' show.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 393,
+      "end_ix": 433,
+      "text": "\n'I do not \u2013 I have never talked to her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 433,
+      "end_ix": 501,
+      "text": "\nBut I did say publicly on more than one occasion that I was sorry.'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 501,
+      "end_ix": 583,
+      "text": "\n'I apologized to everybody in the world,' Clinton said, implying that was enough.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 583,
+      "end_ix": 794,
+      "text": "\nAnd the flustered former president, more famous for his Don Juan-like seductions than for his policy legacy, portrayed himself, not Lewinsky, as history's victim in the mass-media's retelling of the 1990s saga.",
+      "new_text": "\nAnd the flustered former president, more famous for his seductions than for his policy legacy, portrayed himself, not Lewinsky, as history's victim in the mass-media's retelling of the 1990s saga.",
+      "prop_spans": [
+        [
+          640,
+          664,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 794,
+      "end_ix": 1677,
+      "text": "\nSCROLL DOWN FOR VIDEOS\nFormer President Bill Clinton said in an NBC interview airing Monday that he's never personally apologized to Monica Lewinsky for how their sexual affair turned her life upside down \u2013 and he doesn't owe her a mea-culpa\nThe former president carried on a lengthy affair with Lewinsky, often trysting with her just steps from the Oval Office\nWatch part one of @craigmelvin's interview with Bill Clinton and James Patterson pic.twitter.com/UC8KAQw8Ge \u2014 TODAY (@TODAYshow) June 4, 2018\nHer too: Lewinsky has emerged as an anti-bullying activist and now says Clinton engaged in a 'gross abuse of power' by seducing her\n'A lot of the facts have been omitted to make the story work,' he declared, 'I think partly because they're frustrated that they got all these serious allegations against the current occupant of the Oval Office and his voters don't seem to care.'",
+      "new_text": "\nSCROLL DOWN FOR VIDEOS\nFormer President Bill Clinton said in an NBC interview airing Monday that he's never personally apologized to Monica Lewinsky for how their sexual affair turned her life upside down \u2013 and he doesn't owe her a mea-culpa\nThe former president carried on a lengthy affair with Lewinsky, often trysting with her just steps from the Oval Office\nWatch part one of @craigmelvin's interview with Bill Clinton and James Patterson pic.twitter.com/UC8KAQw8Ge \u2014 TODAY (@TODAYshow) June 4, 2018\nHer too: Lewinsky has emerged as an anti-bullying activist and now says Clinton engaged in a 'gross abuse of power' by seducing her\n'A lot of the facts have been omitted to make the story work,' he declared, 'I think partly because they're frustrated that they got all these serious allegations against the current occupant of the Oval Office and his voters don't seem to care.'",
+      "prop_spans": [
+        [
+          1392,
+          1414,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1677,
+      "end_ix": 1840,
+      "text": "\nAnd Clinton complained in the interview that he left the presidency financially ruined because of the costs associated with the legal consequences of his actions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1840,
+      "end_ix": 1900,
+      "text": "\n'Nobody believes that I got out of that for free,' he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1900,
+      "end_ix": 2102,
+      "text": "\n'I left the White House $16 million in debt,'\nHe's worth about $80 million today, aided by an aggressive schedule of speaking events \u2013 many of which paid him six-figure fees for individual appearances.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2102,
+      "end_ix": 2309,
+      "text": "\nIn a March essay for Vanity Fair magazine, Lewinsky wrote that 'what transpired between Bill Clinton and myself was not sexual assault, although we now recognize that it constituted a gross abuse of power.'",
+      "new_text": "\nIn a March essay for Vanity Fair magazine, Lewinsky wrote that 'what transpired between Bill Clinton and myself was not sexual assault, although we now recognize that it constituted a gross abuse of power.'",
+      "prop_spans": [
+        [
+          2223,
+          2237,
+          "Loaded_Language"
+        ],
+        [
+          2287,
+          2307,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2309,
+      "end_ix": 2800,
+      "text": "\nClinton is now on a book tour with co-author James Patterson but got pointed questions from NBC in an interview that aired Monday morning\nClinton, pictured denying his May-December affair when he was president, was already noted at the time for his lothario habits\nBut decades later, she's still traumatized by the aftermath of being identifed globally as the your woman the President of the United States kept on the side and used for his own pleasure just a few feet from the Oval Office.",
+      "new_text": "\nClinton is now on a book tour with co-author James Patterson but got pointed questions from NBC in an interview that aired Monday morning\nClinton, pictured denying his May-December affair when he was president, was already noted at the time for his habits\nBut decades later, she's still hurt by the aftermath of being identifed globally as the your woman the President of the United States kept on the side and used for his own pleasure just a few feet from the Oval Office.",
+      "prop_spans": [
+        [
+          2559,
+          2567,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2606,
+          2617,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2800,
+      "end_ix": 3009,
+      "text": "\n'I\u2019m sorry to say I don\u2019t have a definitive answer yet on the meaning of all of the events that led to the 1998 investigation,' Lewinsky wrote of the public humiliation that played out in seeming slow motion.",
+      "new_text": "\n'I\u2019m sorry to say I don\u2019t have a definitive answer yet on the meaning of all of the events that led to the 1998 investigation,' Lewinsky wrote of the humiliation that played out in seeming slow motion.",
+      "prop_spans": [
+        [
+          2951,
+          2969,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3009,
+      "end_ix": 3063,
+      "text": "\n'I am unpacking and reprocessing what happened to me.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3063,
+      "end_ix": 3094,
+      "text": "\nOver and over and over again.'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3094,
+      "end_ix": 3247,
+      "text": "\nClinton is launching a book tour to promote 'The President is Missing,' a fictional political thriller co-written with the famed author James Patterson.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3247,
+      "end_ix": 3378,
+      "text": "\nHe accused interviewed Craig Melvin of 'ignor[ing] gaping facts in describing this, and I bet you don't know you don't know them.'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3378,
+      "end_ix": 3412,
+      "text": "\n'This was litigated 20 years ago.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3412,
+      "end_ix": 3462,
+      "text": "\nTwo-thirds of the American people sided with me.'",
+      "new_text": "\nTwo-thirds of the American people sided with me.'",
+      "prop_spans": [
+        [
+          3427,
+          3446,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3462,
+      "end_ix": 3746,
+      "text": "\nLewinsky is pictured on September 21, 1998 meeting with then-president Bill Clinton at a White House function\nIf he were president today, he said later, his most famous extramarital affair wouldn't 'be an issue, because people would be using the facts instead of the imagined facts.'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3746,
+      "end_ix": 3874,
+      "text": "\nPatterson, too, defended Clinton \u2013 by comparing his sexual affairs in office with those of two preceding Democratic presidents.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3874,
+      "end_ix": 3904,
+      "text": "\n'It's 20 years ago, come on!'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3904,
+      "end_ix": 3923,
+      "text": "\nhe blasted Melvin.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3923,
+      "end_ix": 3946,
+      "text": "\n'Let's talk about JFK.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3946,
+      "end_ix": 3979,
+      "text": "\nLet's talk about, you know, LBJ.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3979,
+      "end_ix": 3994,
+      "text": "\nStop already!'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3994,
+      "end_ix": 4012,
+      "text": "\nClinton piled on.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4012,
+      "end_ix": 4063,
+      "text": "\n'You think President Kennedy should have resigned?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4063,
+      "end_ix": 4118,
+      "text": "\nDo you believe President Johnson should have resigned?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4118,
+      "end_ix": 4217,
+      "text": "\nSomeone should ask you these questions because of the way you formulate the questions,' he jabbed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4217,
+      "end_ix": 4255,
+      "text": "\n'I dealt with it 20 years ago, plus.'",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4255,
+      "end_ix": 4411,
+      "text": "\nSuddenly philosophical and seeming to take a longer view of history, Clinton said: 'I have tried to do a good job since then with my life and with my work.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4411,
+      "end_ix": 4445,
+      "text": "\nThat's all I have to say to you.'",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      258,
+      271,
+      "Loaded_Language"
+    ],
+    [
+      640,
+      664,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1392,
+      1414,
+      "Loaded_Language"
+    ],
+    [
+      2223,
+      2237,
+      "Loaded_Language"
+    ],
+    [
+      2287,
+      2307,
+      "Loaded_Language"
+    ],
+    [
+      2559,
+      2567,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2606,
+      2617,
+      "Loaded_Language"
+    ],
+    [
+      2951,
+      2969,
+      "Loaded_Language"
+    ],
+    [
+      3427,
+      3446,
+      "Flag-Waving"
+    ]
+  ]
+}

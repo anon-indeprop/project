@@ -1,0 +1,182 @@
+{
+  "article_id": "763761219",
+  "sentence offsets in original": [
+    0,
+    189,
+    443,
+    597,
+    845,
+    1158,
+    1197,
+    1283,
+    1375,
+    1408,
+    1791,
+    2066,
+    2279
+  ],
+  "original sentences": [
+    "Conference of Mayors passes resolutions favoring gun control\n\n\u201cPolicies like background checks on all gun sales and Red Flag Laws save lives,\u201d said Karen Freeman-Wilson, mayor of Gary, Ind.",
+    "\n| M. Spencer Green/AP Photo Conference of Mayors passes resolutions favoring gun control\nThe bipartisan U.S. Conference of Mayors passed a series of resolutions calling for more gun control measures during the group's annual meeting in Boston this week.",
+    "\nThe conference is advocating measures to strengthen the regulation of gun sales and dealers, as well as ban assault weapons and large-capacity magazines.",
+    "\nStory Continued Below\n\u201cThe U.S. Conference has a 50-year history of formally adopting and aggressively promoting strong policies to reduce gun violence, all consistent with its support for the Second Amendment to the Constitution,\u201d the group said.",
+    "\nAdditionally, the group called for steps it said would protect young people \u2014 like opposing letting teachers and other non-law enforcement personnel be armed in K-12 schools \u2014 and cited incidents like February\u2019s mass shooting at Marjory Stoneman Douglas High School in Parkland, Florida, as impetus for its push.",
+    "\nThe most reliable politics newsletter.",
+    "\nSign up for POLITICO Playbook and get the latest news, every morning \u2014 in your inbox.",
+    "\nEmail Sign Up By signing up you agree to receive email newsletters or alerts from POLITICO.",
+    "\nYou can unsubscribe at any time.",
+    "\nThe group also passed a resolution backing red flag laws that allow \u201cfamily members and law enforcement to seek court permission to temporarily remove guns from a person in crisis.\u201d\n\u201cPolicies like background checks on all gun sales and Red Flag Laws save lives,\u201d said Karen Freeman-Wilson, mayor of Gary, Indiana, and chair of the conference\u2019s criminal and social justice committee.",
+    "\n\u201cThe U.S. Conference of Mayors will continue doing everything in our power to keep our communities safe so that children and families are able to live free of the fear of being gunned down.\u201d\nGun control advocates including the group Everytown for Gun Safety lauded the move.",
+    "\n\u201cMayors are on the frontlines of America\u2019s gun violence crisis, so it\u2019s no surprise they\u2019re also leading the charge to pass common-sense, life-saving laws,\u201d Everytown President John Fienblatt said in a statement.",
+    "\n\u201cIt\u2019s time for our leaders in Washington to follow the lead of America\u2019s mayors and put public safety over NRA priorities.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 189,
+      "text": "Conference of Mayors passes resolutions favoring gun control\n\n\u201cPolicies like background checks on all gun sales and Red Flag Laws save lives,\u201d said Karen Freeman-Wilson, mayor of Gary, Ind.",
+      "new_text": "Conference of Mayors passes resolutions favoring gun control\n\n\u201cPolicies like background checks on all gun sales and Red Flag Laws save lives,\u201d said Karen Freeman-Wilson, mayor of Gary, Ind.",
+      "prop_spans": [
+        [
+          116,
+          140,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 189,
+      "end_ix": 443,
+      "text": "\n| M. Spencer Green/AP Photo Conference of Mayors passes resolutions favoring gun control\nThe bipartisan U.S. Conference of Mayors passed a series of resolutions calling for more gun control measures during the group's annual meeting in Boston this week.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 443,
+      "end_ix": 597,
+      "text": "\nThe conference is advocating measures to strengthen the regulation of gun sales and dealers, as well as ban assault weapons and large-capacity magazines.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 597,
+      "end_ix": 845,
+      "text": "\nStory Continued Below\n\u201cThe U.S. Conference has a 50-year history of formally adopting and aggressively promoting strong policies to reduce gun violence, all consistent with its support for the Second Amendment to the Constitution,\u201d the group said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 845,
+      "end_ix": 1158,
+      "text": "\nAdditionally, the group called for steps it said would protect young people \u2014 like opposing letting teachers and other non-law enforcement personnel be armed in K-12 schools \u2014 and cited incidents like February\u2019s mass shooting at Marjory Stoneman Douglas High School in Parkland, Florida, as impetus for its push.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1158,
+      "end_ix": 1197,
+      "text": "\nThe most reliable politics newsletter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1197,
+      "end_ix": 1283,
+      "text": "\nSign up for POLITICO Playbook and get the latest news, every morning \u2014 in your inbox.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1283,
+      "end_ix": 1375,
+      "text": "\nEmail Sign Up By signing up you agree to receive email newsletters or alerts from POLITICO.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1375,
+      "end_ix": 1408,
+      "text": "\nYou can unsubscribe at any time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1408,
+      "end_ix": 1791,
+      "text": "\nThe group also passed a resolution backing red flag laws that allow \u201cfamily members and law enforcement to seek court permission to temporarily remove guns from a person in crisis.\u201d\n\u201cPolicies like background checks on all gun sales and Red Flag Laws save lives,\u201d said Karen Freeman-Wilson, mayor of Gary, Indiana, and chair of the conference\u2019s criminal and social justice committee.",
+      "new_text": "\nThe group also passed a resolution backing these laws that allow \u201cfamily members and law enforcement to seek court permission to temporarily remove guns from a person in crisis.\u201d\n\u201cPolicies like background checks on all gun sales and Red Flag Laws save lives,\u201d said Karen Freeman-Wilson, mayor of Gary, Indiana, and chair of the conference\u2019s criminal and social justice committee.",
+      "prop_spans": [
+        [
+          1452,
+          1465,
+          "Repetition"
+        ],
+        [
+          1645,
+          1658,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1791,
+      "end_ix": 2066,
+      "text": "\n\u201cThe U.S. Conference of Mayors will continue doing everything in our power to keep our communities safe so that children and families are able to live free of the fear of being gunned down.\u201d\nGun control advocates including the group Everytown for Gun Safety lauded the move.",
+      "new_text": "\n\u201cThe U.S. Conference of Mayors will continue doing everything in our power to keep our communities safe so that children and families are able to live free of the fear of being gunned down.\u201d\nGun control advocates including the group Everytown for Gun Safety lauded the move.",
+      "prop_spans": [
+        [
+          1875,
+          1890,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2066,
+      "end_ix": 2279,
+      "text": "\n\u201cMayors are on the frontlines of America\u2019s gun violence crisis, so it\u2019s no surprise they\u2019re also leading the charge to pass common-sense, life-saving laws,\u201d Everytown President John Fienblatt said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2279,
+      "end_ix": 2403,
+      "text": "\n\u201cIt\u2019s time for our leaders in Washington to follow the lead of America\u2019s mayors and put public safety over NRA priorities.\u201d",
+      "new_text": "\n\u201cIt\u2019s time for our leaders in Washington to follow the lead of America\u2019s mayors and put public safety over NRA priorities.\u201d",
+      "prop_spans": [
+        [
+          2295,
+          2306,
+          "Flag-Waving"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      116,
+      140,
+      "Slogans"
+    ],
+    [
+      1452,
+      1465,
+      "Repetition"
+    ],
+    [
+      1645,
+      1658,
+      "Repetition"
+    ],
+    [
+      1875,
+      1890,
+      "Flag-Waving"
+    ],
+    [
+      2295,
+      2306,
+      "Flag-Waving"
+    ]
+  ]
+}

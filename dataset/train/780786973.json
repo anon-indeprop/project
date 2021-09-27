@@ -1,0 +1,352 @@
+{
+  "article_id": "780786973",
+  "sentence offsets in original": [
+    0,
+    585,
+    777,
+    1108,
+    1775,
+    2010,
+    2112,
+    2368,
+    2521,
+    2545,
+    2969
+  ],
+  "original sentences": [
+    "Mueller is \u2018looking for trouble,\u2019 Trump says cryptically\n\nWASHINGTON \u2014 President Donald Trump continued bashing Robert S. Mueller III\u2019s Russia investigation, saying cryptically Monday the special counsel is \u201clooking for trouble.\u201d\nTrump alleged in a morning tweet series that the former FBI director is \u201cDisgraced and discredited,\u201d claiming his staff amounts to nothing more than a \u201cgroup of Angry Democrat Thugs.\u201d\nThat came hours after a Sunday tweet in which he referred to the special counsel team as a \u201cgang.\u201d Both are words with loaded meanings for his conservative political base.",
+    "\nThe president\u2019s Sunday and Monday attacks on Mueller and his team came after reports that White House Counsel Donald McGahn was interviewed by Mueller and his team for more than one full day.",
+    "\nTrump contends he signed off on the testimony; George W. Bush-era White House counsel and attorney general Alberto Gonzales, however, told CNN Monday morning that a sitting White House counsel would be required to fully cooperate with a federal investigation because he is a government lawyer, not a president\u2019s personal attorney.",
+    "\nBut Trump on Monday morning tweeted that McGahn spoke with the special counsel team for \u201cover 30 hours with the White House Councel, only with my approval, for purposes of transparency.\u201d (The tweet included a misspelling of \u201ccounsel.\u201d)\nThe length of the Mueller-McGahn sessions led Trump to the conclusion the special counsel is \u201clooking for trouble\u201d because they \u201cthey know there is no Russian Collusion.\u201d\nBut Mueller reportedly is keenly interested in a widely studied June 2016 Trump Tower meeting arranged by Donald Trump Jr., which included a Russian attorney who promised to hand over negative information about Democratic presidential nominee Hillary Clinton.",
+    "\nThe session also was attended by then-campaign chairman Paul Manafort and Trump son-in-law Jared Kushner; the president dictated a misleading statement about it a year later and it remains murky just when he learned about the meeting.",
+    "\nAs Roll Call has reported, Trump was in the tower at the time of the session with the Russian lawyer.",
+    "\nThe president also continued to push a line first floated by his attorney, former New York mayor and U.S. attorney Rudolph Giuliani, tweeting that campaign collusion with Russia would be a \u201cphony crime.\u201d He\u2019s right, there is no specific collusion statute.",
+    "\nBut legal experts say anyone in Trump\u2019s orbit would be charged with conspiracy, making false statements to federal investigators or obstructing justice.",
+    "\nAll are federal crimes.",
+    "\nTrump also continued to cast himself as a victim in the matter, saying when he attempts to \u201cFIGHT BACK or say anything bad about the Rigged Witch Hunt,\u201d his critics \u201cscream Obstruction!\u201d\nMueller also is looking at whether some of Trump\u2019s actions like firing then-FBI Director James B. Comey or statements about the Russia probe since taking office amount to an attempt to interfere illegally with the special counsel probe.",
+    "\n\u2014 John T. Bennett\nCQ-Roll Call\n\u2014\u2014\u2014\n\u00a92018 CQ-Roll Call, Inc., All Rights Reserved, Distributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 585,
+      "text": "Mueller is \u2018looking for trouble,\u2019 Trump says cryptically\n\nWASHINGTON \u2014 President Donald Trump continued bashing Robert S. Mueller III\u2019s Russia investigation, saying cryptically Monday the special counsel is \u201clooking for trouble.\u201d\nTrump alleged in a morning tweet series that the former FBI director is \u201cDisgraced and discredited,\u201d claiming his staff amounts to nothing more than a \u201cgroup of Angry Democrat Thugs.\u201d\nThat came hours after a Sunday tweet in which he referred to the special counsel team as a \u201cgang.\u201d Both are words with loaded meanings for his conservative political base.",
+      "new_text": "Mueller is \u2018looking for trouble,\u2019 Trump says\n\nWASHINGTON \u2014 President Donald Trump continued opposition against Robert S. Mueller III\u2019s Russia investigation, saying on Monday the special counsel is \u201clooking for trouble.\u201d\nTrump alleged in a morning tweet series that the former FBI director is \u201cDisgraced and discredited,\u201d claiming his staff amounts to a \u201cgroup of Angry Democrat Thugs.\u201d\nThat came hours after a Sunday tweet in which he referred to the special counsel team as a \u201cgang.\u201d Both are words with loaded meanings for his conservative political base.",
+      "prop_spans": [
+        [
+          12,
+          31,
+          "Loaded_Language"
+        ],
+        [
+          45,
+          56,
+          "Loaded_Language"
+        ],
+        [
+          104,
+          112,
+          "Loaded_Language"
+        ],
+        [
+          158,
+          177,
+          "Loaded_Language"
+        ],
+        [
+          208,
+          227,
+          "Loaded_Language"
+        ],
+        [
+          303,
+          328,
+          "Name_Calling,Labeling"
+        ],
+        [
+          340,
+          411,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          379,
+          411,
+          "Name_Calling,Labeling"
+        ],
+        [
+          503,
+          510,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 585,
+      "end_ix": 777,
+      "text": "\nThe president\u2019s Sunday and Monday attacks on Mueller and his team came after reports that White House Counsel Donald McGahn was interviewed by Mueller and his team for more than one full day.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 777,
+      "end_ix": 1108,
+      "text": "\nTrump contends he signed off on the testimony; George W. Bush-era White House counsel and attorney general Alberto Gonzales, however, told CNN Monday morning that a sitting White House counsel would be required to fully cooperate with a federal investigation because he is a government lawyer, not a president\u2019s personal attorney.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1108,
+      "end_ix": 1775,
+      "text": "\nBut Trump on Monday morning tweeted that McGahn spoke with the special counsel team for \u201cover 30 hours with the White House Councel, only with my approval, for purposes of transparency.\u201d (The tweet included a misspelling of \u201ccounsel.\u201d)\nThe length of the Mueller-McGahn sessions led Trump to the conclusion the special counsel is \u201clooking for trouble\u201d because they \u201cthey know there is no Russian Collusion.\u201d\nBut Mueller reportedly is keenly interested in a widely studied June 2016 Trump Tower meeting arranged by Donald Trump Jr., which included a Russian attorney who promised to hand over negative information about Democratic presidential nominee Hillary Clinton.",
+      "new_text": "\nBut Trump on Monday morning tweeted that McGahn spoke with the special counsel team for \u201cover 30 hours with the White House Councel, only with my approval, for purposes of transparency.\u201d\nThe length of the Mueller-McGahn sessions led Trump to the conclusion the special counsel is \u201clooking for trouble\u201d because they \u201cthey know there is no Russian Collusion.\u201d\nBut Mueller reportedly is keenly interested in a widely studied June 2016 Trump Tower meeting arranged by Donald Trump Jr., which included a Russian attorney who promised to hand over negative information about Democratic presidential nominee Hillary Clinton.",
+      "prop_spans": [
+        [
+          1297,
+          1341,
+          "Red_Herring"
+        ],
+        [
+          1439,
+          1458,
+          "Loaded_Language"
+        ],
+        [
+          1474,
+          1513,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1775,
+      "end_ix": 2010,
+      "text": "\nThe session also was attended by then-campaign chairman Paul Manafort and Trump son-in-law Jared Kushner; the president dictated a misleading statement about it a year later and it remains murky just when he learned about the meeting.",
+      "new_text": "\nThe session also was attended by then-campaign chairman Paul Manafort and Trump son-in-law Jared Kushner; the president dictated a statement about it a year later and it remains unknown as to when he learned about the meeting.",
+      "prop_spans": [
+        [
+          1882,
+          2009,
+          "Doubt"
+        ],
+        [
+          1957,
+          1971,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2010,
+      "end_ix": 2112,
+      "text": "\nAs Roll Call has reported, Trump was in the tower at the time of the session with the Russian lawyer.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2112,
+      "end_ix": 2368,
+      "text": "\nThe president also continued to push a line first floated by his attorney, former New York mayor and U.S. attorney Rudolph Giuliani, tweeting that campaign collusion with Russia would be a \u201cphony crime.\u201d He\u2019s right, there is no specific collusion statute.",
+      "new_text": "\nThe president also continued to push a line earlier mentioned by his attorney, former New York mayor and U.S. attorney Rudolph Giuliani, tweeting that campaign collusion with Russia would be a \u201cphony crime.\u201d He\u2019s right, there is no specific collusion statute.",
+      "prop_spans": [
+        [
+          2157,
+          2171,
+          "Loaded_Language"
+        ],
+        [
+          2300,
+          2314,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2303,
+          2314,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2368,
+      "end_ix": 2521,
+      "text": "\nBut legal experts say anyone in Trump\u2019s orbit would be charged with conspiracy, making false statements to federal investigators or obstructing justice.",
+      "new_text": "\nBut some legal experts are of the opinion that anyone in Trump\u2019s orbit would be charged with conspiracy, making false statements to federal investigators or obstructing justice.",
+      "prop_spans": [
+        [
+          2369,
+          2521,
+          "Doubt"
+        ],
+        [
+          2398,
+          2415,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2521,
+      "end_ix": 2545,
+      "text": "\nAll are federal crimes.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2521,
+          2544,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2545,
+      "end_ix": 2969,
+      "text": "\nTrump also continued to cast himself as a victim in the matter, saying when he attempts to \u201cFIGHT BACK or say anything bad about the Rigged Witch Hunt,\u201d his critics \u201cscream Obstruction!\u201d\nMueller also is looking at whether some of Trump\u2019s actions like firing then-FBI Director James B. Comey or statements about the Russia probe since taking office amount to an attempt to interfere illegally with the special counsel probe.",
+      "new_text": "\nTrump also states himself as a victim in the matter, saying when he attempts to \u201cFIGHT BACK or say anything bad about the Rigged Witch Hunt,\u201d his critics allegedly term it as obstruction.\nMueller also is looking at whether some of Trump\u2019s actions like firing then-FBI Director James B. Comey or statements about the Russia probe since taking office amount to an attempt to interfere illegally with the special counsel probe.",
+      "prop_spans": [
+        [
+          2546,
+          2730,
+          "Doubt"
+        ],
+        [
+          2638,
+          2649,
+          "Loaded_Language"
+        ],
+        [
+          2675,
+          2696,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2712,
+          2730,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2969,
+      "end_ix": 3095,
+      "text": "\n\u2014 John T. Bennett\nCQ-Roll Call\n\u2014\u2014\u2014\n\u00a92018 CQ-Roll Call, Inc., All Rights Reserved, Distributed by Tribune Content Agency, LLC.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      12,
+      31,
+      "Loaded_Language"
+    ],
+    [
+      45,
+      56,
+      "Loaded_Language"
+    ],
+    [
+      104,
+      112,
+      "Loaded_Language"
+    ],
+    [
+      158,
+      177,
+      "Loaded_Language"
+    ],
+    [
+      208,
+      227,
+      "Loaded_Language"
+    ],
+    [
+      303,
+      328,
+      "Name_Calling,Labeling"
+    ],
+    [
+      340,
+      411,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      379,
+      411,
+      "Name_Calling,Labeling"
+    ],
+    [
+      503,
+      510,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1297,
+      1341,
+      "Red_Herring"
+    ],
+    [
+      1439,
+      1458,
+      "Loaded_Language"
+    ],
+    [
+      1474,
+      1513,
+      "Causal_Oversimplification"
+    ],
+    [
+      1882,
+      2009,
+      "Doubt"
+    ],
+    [
+      1957,
+      1971,
+      "Loaded_Language"
+    ],
+    [
+      2157,
+      2171,
+      "Loaded_Language"
+    ],
+    [
+      2300,
+      2314,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2303,
+      2314,
+      "Loaded_Language"
+    ],
+    [
+      2369,
+      2544,
+      "Doubt"
+    ],
+    [
+      2398,
+      2415,
+      "Loaded_Language"
+    ],
+    [
+      2546,
+      2730,
+      "Doubt"
+    ],
+    [
+      2638,
+      2649,
+      "Loaded_Language"
+    ],
+    [
+      2675,
+      2696,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2712,
+      2730,
+      "Loaded_Language"
+    ]
+  ]
+}

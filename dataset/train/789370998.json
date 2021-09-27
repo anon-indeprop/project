@@ -1,0 +1,388 @@
+{
+  "article_id": "789370998",
+  "sentence offsets in original": [
+    0,
+    263,
+    572,
+    685,
+    881,
+    1065,
+    1118,
+    1205,
+    1256,
+    1409,
+    1446,
+    1523,
+    1625,
+    1703,
+    1738,
+    2075,
+    2299,
+    2390,
+    2536,
+    2564,
+    2698,
+    2875,
+    2961,
+    3151,
+    3240,
+    3422,
+    3581,
+    3867,
+    4151,
+    4188
+  ],
+  "original sentences": [
+    "The Left\u2019s Show Trial for Kavanaugh\n\nTwo more women accusing Judge Brett Kavanaugh of dubious improprieties materialized out of thin air late Sunday, throwing Senate Republicans\u2019 hope of finally confirming the Supreme Court nominee this week even more into doubt.",
+    "\nThe new allegations came yesterday amid reports that Senate Judiciary Committee chairman Chuck Grassley (R-Iowa) tentatively scheduled a hearing for this Thursday to take testimony from Christine Blasey Ford, 51, who claims Kavanaugh, 53, sexually assaulted her decades ago when he was a high school student.",
+    "\nSuspiciously, Ford can\u2019t \u2013or won\u2019t\u2014 say when or where the alleged incident happened and can provide few details.",
+    "\nAs Paul Sperry writes at the New York Post, working with Sen. Dianne Feinstein (D-Calif.) and backed financially by George Soros\u2019s money, Ford\u2019s lawyers spent the last few days gaming the system.",
+    "\nAfter stalling Grassley and getting repeated extensions, the attorneys got the chairman to cave on various demands, such as that Kavanaugh not be in the room when Ford gives evidence.",
+    "\nRepublicans never seem to learn from their mistakes.",
+    "\nAs usual, Republicans\u2019 seeming reasonableness is rewarded with more abuse by the Left.",
+    "\nGive left-wingers an inch and they\u2019ll take a mile.",
+    "\nDemocrats, it turns out, used the extra time created through their delaying tactics to produce two new women with questionable claims against Kavanaugh.",
+    "\nMore accusers could be on their way.",
+    "\nPresident Trump continues to support Kavanaugh, who maintains his innocence.",
+    "\n\u201cThis alleged event from 35 years ago did not happen,\u201d the nominee said Sunday of Ford\u2019s accusations.",
+    "\n\u201cThe people who knew me then know that this did not happen, and have said so.",
+    "\nThis is a smear, plain and simple.",
+    "\nI look forward to testifying on Thursday about the truth, and defending my good name \u2014 and the reputation for character and integrity I have spent a lifetime building \u2014 against these last-minute allegations.\u201d\nIf Kavanaugh isn\u2019t on the bench on October 1, the Supreme Court will be shorthanded as it begins hearing cases in its new term.",
+    "\nThe high court normally has a complement of nine justices but with Associate Justice Anthony Kennedy\u2019s retirement July 31, which cleared the way for Kavanaugh\u2019s nomination, there have only been only eight justices in place.",
+    "\nRoughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.",
+    "\nDemocrats would prefer to drag the confirmation process into the next Congress where they stand a good chance of taking control from Republicans.",
+    "\nElection Day is November 6.",
+    "\nThe GOP currently controls the Senate, which has the final say on judicial nominations, by an uncomfortably close margin of 51 to 49.",
+    "\nMeanwhile, the New Yorker magazine reported Sunday that Deborah Ramirez, 53, suddenly claims to have been assaulted by Kavanaugh at a drunken party decades ago at Yale College.",
+    "\nRamirez claims Kavanaugh exposed himself to her and brushed his genitals against her.",
+    "\nAlso on Sunday, media-savvy sleazeball lawyer Michael Avenatti, who represents porn star Stormy Daniels, tweeted that he represents another woman who plans to accuse Kavanaugh of something.",
+    "\n\u201cI represent a woman with credible information regarding Judge Kavanaugh and Mark Judge.",
+    "\nWe will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,\u201d Avenatti wrote on Twitter.",
+    "\n\u201cMy client is not Deborah Ramirez.\u201d\nWashington insiders still believe Kavanaugh will be confirmed, or at least they did before the two new accusers popped up.",
+    "\nFor example, at a Friday afternoon preview of upcoming cases in the Supreme Court\u2019s approaching October term that was hosted by the Federalist Society, panelist Thomas C. Goldstein of the law firm of Goldstein & Russell predicted that the high court would have nine members again soon.",
+    "\n\u201cThere is exactly a zero percent chance that [Senate Majority Leader] Mitch McConnell and Chuck Grassley will allow this thing to get past the lame-duck\u201d congressional session after Election Day, said the co-founder of SCOTUSblog who has appeared before the Supreme Court many times.",
+    "\n\u201cI think we ought to recognize that.",
+    "\nThe prospect that the Democrats will take the Senate, albeit thin, is realistic, and so they will do whatever is necessary in order to make sure that there is a ninth member of the court there by the time a Democratic majority could take over in the Senate in January.\u201d\nWe\u2019ll see soon enough if Goldstein\u2019s prediction comes true."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 263,
+      "text": "The Left\u2019s Show Trial for Kavanaugh\n\nTwo more women accusing Judge Brett Kavanaugh of dubious improprieties materialized out of thin air late Sunday, throwing Senate Republicans\u2019 hope of finally confirming the Supreme Court nominee this week even more into doubt.",
+      "new_text": "The Left\u2019s Trial for Kavanaugh\n\nTwo more women accusing Judge Brett Kavanaugh of dubious improprieties appeared suddenly late Sunday, throwing Senate Republicans\u2019 hope of finally confirming the Supreme Court nominee this week even more into doubt.",
+      "prop_spans": [
+        [
+          4,
+          22,
+          "Name_Calling,Labeling"
+        ],
+        [
+          108,
+          137,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 263,
+      "end_ix": 572,
+      "text": "\nThe new allegations came yesterday amid reports that Senate Judiciary Committee chairman Chuck Grassley (R-Iowa) tentatively scheduled a hearing for this Thursday to take testimony from Christine Blasey Ford, 51, who claims Kavanaugh, 53, sexually assaulted her decades ago when he was a high school student.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 572,
+      "end_ix": 685,
+      "text": "\nSuspiciously, Ford can\u2019t \u2013or won\u2019t\u2014 say when or where the alleged incident happened and can provide few details.",
+      "new_text": "Ford can\u2019t \u2013or won\u2019t\u2014 say when or where the alleged incident happened and can provide few details.",
+      "prop_spans": [
+        [
+          573,
+          684,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 685,
+      "end_ix": 881,
+      "text": "\nAs Paul Sperry writes at the New York Post, working with Sen. Dianne Feinstein (D-Calif.) and backed financially by George Soros\u2019s money, Ford\u2019s lawyers spent the last few days gaming the system.",
+      "new_text": "\nAs Paul Sperry writes at the New York Post, working with Sen. Dianne Feinstein (D-Calif.) and backed financially by George Soros\u2019s money, Ford\u2019s lawyers spent the last few days manipulating the system.",
+      "prop_spans": [
+        [
+          863,
+          880,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 881,
+      "end_ix": 1065,
+      "text": "\nAfter stalling Grassley and getting repeated extensions, the attorneys got the chairman to cave on various demands, such as that Kavanaugh not be in the room when Ford gives evidence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1065,
+      "end_ix": 1118,
+      "text": "\nRepublicans never seem to learn from their mistakes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1118,
+      "end_ix": 1205,
+      "text": "\nAs usual, Republicans\u2019 seeming reasonableness is rewarded with more abuse by the Left.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1205,
+      "end_ix": 1256,
+      "text": "\nGive left-wingers an inch and they\u2019ll take a mile.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1206,
+          1255,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1211,
+          1224,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1256,
+      "end_ix": 1409,
+      "text": "\nDemocrats, it turns out, used the extra time created through their delaying tactics to produce two new women with questionable claims against Kavanaugh.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1409,
+      "end_ix": 1446,
+      "text": "\nMore accusers could be on their way.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1446,
+      "end_ix": 1523,
+      "text": "\nPresident Trump continues to support Kavanaugh, who maintains his innocence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1523,
+      "end_ix": 1625,
+      "text": "\n\u201cThis alleged event from 35 years ago did not happen,\u201d the nominee said Sunday of Ford\u2019s accusations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1625,
+      "end_ix": 1703,
+      "text": "\n\u201cThe people who knew me then know that this did not happen, and have said so.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1703,
+      "end_ix": 1738,
+      "text": "\nThis is a smear, plain and simple.",
+      "new_text": "\nThis is a defamation, plain and simple.",
+      "prop_spans": [
+        [
+          1714,
+          1719,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1738,
+      "end_ix": 2075,
+      "text": "\nI look forward to testifying on Thursday about the truth, and defending my good name \u2014 and the reputation for character and integrity I have spent a lifetime building \u2014 against these last-minute allegations.\u201d\nIf Kavanaugh isn\u2019t on the bench on October 1, the Supreme Court will be shorthanded as it begins hearing cases in its new term.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2075,
+      "end_ix": 2299,
+      "text": "\nThe high court normally has a complement of nine justices but with Associate Justice Anthony Kennedy\u2019s retirement July 31, which cleared the way for Kavanaugh\u2019s nomination, there have only been only eight justices in place.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2299,
+      "end_ix": 2390,
+      "text": "\nRoughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2390,
+      "end_ix": 2536,
+      "text": "\nDemocrats would prefer to drag the confirmation process into the next Congress where they stand a good chance of taking control from Republicans.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2536,
+      "end_ix": 2564,
+      "text": "\nElection Day is November 6.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2564,
+      "end_ix": 2698,
+      "text": "\nThe GOP currently controls the Senate, which has the final say on judicial nominations, by an uncomfortably close margin of 51 to 49.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2698,
+      "end_ix": 2875,
+      "text": "\nMeanwhile, the New Yorker magazine reported Sunday that Deborah Ramirez, 53, suddenly claims to have been assaulted by Kavanaugh at a drunken party decades ago at Yale College.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2875,
+      "end_ix": 2961,
+      "text": "\nRamirez claims Kavanaugh exposed himself to her and brushed his genitals against her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2961,
+      "end_ix": 3151,
+      "text": "\nAlso on Sunday, media-savvy sleazeball lawyer Michael Avenatti, who represents porn star Stormy Daniels, tweeted that he represents another woman who plans to accuse Kavanaugh of something.",
+      "new_text": "\nAlso on Sunday, media-savvy immoral lawyer Michael Avenatti, who represents porn star Stormy Daniels, tweeted that he represents another woman who plans to accuse Kavanaugh of something.",
+      "prop_spans": [
+        [
+          2978,
+          3008,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3151,
+      "end_ix": 3240,
+      "text": "\n\u201cI represent a woman with credible information regarding Judge Kavanaugh and Mark Judge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3240,
+      "end_ix": 3422,
+      "text": "\nWe will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,\u201d Avenatti wrote on Twitter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3422,
+      "end_ix": 3581,
+      "text": "\n\u201cMy client is not Deborah Ramirez.\u201d\nWashington insiders still believe Kavanaugh will be confirmed, or at least they did before the two new accusers popped up.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3581,
+      "end_ix": 3867,
+      "text": "\nFor example, at a Friday afternoon preview of upcoming cases in the Supreme Court\u2019s approaching October term that was hosted by the Federalist Society, panelist Thomas C. Goldstein of the law firm of Goldstein & Russell predicted that the high court would have nine members again soon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3867,
+      "end_ix": 4151,
+      "text": "\n\u201cThere is exactly a zero percent chance that [Senate Majority Leader] Mitch McConnell and Chuck Grassley will allow this thing to get past the lame-duck\u201d congressional session after Election Day, said the co-founder of SCOTUSblog who has appeared before the Supreme Court many times.",
+      "new_text": "\n\u201cThere is exactly a zero percent chance that [Senate Majority Leader] Mitch McConnell and Chuck Grassley will allow this thing to get past the lame-duck\u201d congressional session after Election Day, said the co-founder of SCOTUSblog who has appeared before the Supreme Court many times.",
+      "prop_spans": [
+        [
+          3878,
+          3908,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          4007,
+          4020,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4151,
+      "end_ix": 4188,
+      "text": "\n\u201cI think we ought to recognize that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4188,
+      "end_ix": 4518,
+      "text": "\nThe prospect that the Democrats will take the Senate, albeit thin, is realistic, and so they will do whatever is necessary in order to make sure that there is a ninth member of the court there by the time a Democratic majority could take over in the Senate in January.\u201d\nWe\u2019ll see soon enough if Goldstein\u2019s prediction comes true.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      4,
+      22,
+      "Name_Calling,Labeling"
+    ],
+    [
+      108,
+      137,
+      "Loaded_Language"
+    ],
+    [
+      573,
+      684,
+      "Doubt"
+    ],
+    [
+      863,
+      880,
+      "Loaded_Language"
+    ],
+    [
+      1206,
+      1255,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1211,
+      1224,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1714,
+      1719,
+      "Loaded_Language"
+    ],
+    [
+      2978,
+      3008,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3878,
+      3908,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      4007,
+      4020,
+      "Loaded_Language"
+    ]
+  ]
+}

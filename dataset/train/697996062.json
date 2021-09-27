@@ -1,0 +1,141 @@
+{
+  "article_id": "697996062",
+  "sentence offsets in original": [
+    0,
+    125,
+    283,
+    336,
+    404,
+    470,
+    517,
+    540,
+    773,
+    903,
+    1039,
+    1085
+  ],
+  "original sentences": [
+    "Two DREAMERs Caught Smuggling Illegal Aliens\n\nOr rather, \"Two illegal aliens caught smuggling less glamorous illegal aliens.\"",
+    "\nThe distinction between the illegal aliens who benefited from Obama's illegal amnesty and other illegals has always been a matter of rhetoric, not substance.",
+    "\nAnd illegal aliens are not a racial or ethnic group.",
+    "\nThey're an industry: an economic industry and a political industry.",
+    "\nIf you legalize them, you move closer to legalizing all illegals.",
+    "\nMeanwhile DREAMERs continue violating the law.",
+    "\nIn more ways than one.",
+    "\nCustoms and Border Protection said the first smuggling attempt was broken up on Oct. 4, after Border Patrol agents stopped a car at a checkpoint on Interstate 35 and discovered two illegal immigrants from Brazil hiding in the trunk.",
+    "\nThe driver of the car was from Guatemala, a juvenile who had been approved by the Obama administration for a DACA permit in 2016.",
+    "\nThree days later the same checkpoint snared another DACA recipient from Mexico smuggling an illegal immigrant from Mexico in his trunk.",
+    "\nNeither of the Dreamers\u2019 names were released.",
+    "\nThey and the illegal immigrants they were trying to smuggle are all being processed for deportation, CBP said."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 125,
+      "text": "Two DREAMERs Caught Smuggling Illegal Aliens\n\nOr rather, \"Two illegal aliens caught smuggling less glamorous illegal aliens.\"",
+      "new_text": "Two DREAMERs Caught Smuggling Illegal Aliens\n\nOr rather, \"Two illegal aliens caught smuggling illegal aliens.\"",
+      "prop_spans": [
+        [
+          94,
+          108,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 125,
+      "end_ix": 283,
+      "text": "\nThe distinction between the illegal aliens who benefited from Obama's illegal amnesty and other illegals has always been a matter of rhetoric, not substance.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 283,
+      "end_ix": 336,
+      "text": "\nAnd illegal aliens are not a racial or ethnic group.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 336,
+      "end_ix": 404,
+      "text": "\nThey're an industry: an economic industry and a political industry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 404,
+      "end_ix": 470,
+      "text": "\nIf you legalize them, you move closer to legalizing all illegals.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          427,
+          469,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 470,
+      "end_ix": 517,
+      "text": "\nMeanwhile DREAMERs continue violating the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 517,
+      "end_ix": 540,
+      "text": "\nIn more ways than one.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 540,
+      "end_ix": 773,
+      "text": "\nCustoms and Border Protection said the first smuggling attempt was broken up on Oct. 4, after Border Patrol agents stopped a car at a checkpoint on Interstate 35 and discovered two illegal immigrants from Brazil hiding in the trunk.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 773,
+      "end_ix": 903,
+      "text": "\nThe driver of the car was from Guatemala, a juvenile who had been approved by the Obama administration for a DACA permit in 2016.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 903,
+      "end_ix": 1039,
+      "text": "\nThree days later the same checkpoint snared another DACA recipient from Mexico smuggling an illegal immigrant from Mexico in his trunk.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1039,
+      "end_ix": 1085,
+      "text": "\nNeither of the Dreamers\u2019 names were released.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1085,
+      "end_ix": 1196,
+      "text": "\nThey and the illegal immigrants they were trying to smuggle are all being processed for deportation, CBP said.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      94,
+      108,
+      "Name_Calling,Labeling"
+    ],
+    [
+      427,
+      469,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

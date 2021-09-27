@@ -1,0 +1,137 @@
+{
+  "article_id": "736757214",
+  "sentence offsets in original": [
+    0,
+    114,
+    168,
+    387,
+    678,
+    796,
+    964,
+    1148
+  ],
+  "original sentences": [
+    "Sanctuary City Mayor Protected Illegal Alien Mexican Rapist\n\nOakland Mayor Libby Schaaf claims to fight for women.",
+    "\nExcept when she's fighting for their rapists instead.",
+    "\nA Democratic mayor\u2019s warning to illegal immigrants of an incoming ICE raid in northern California may have led to a number of illegal immigrants with violent and sex-related convictions evading capture and deportation.",
+    "\nOakland Mayor Libby Schaaf tweeted out an impending warning of the four-day raid last week, alerting targeted individuals to the imminent arrests, and infuriating Immigrations and Customs Enforcement (ICE) officials, who say that many more could have been caught if they hadn't been warned.",
+    "\nA spokesperson for ICE gave Fox News examples of some of the unsavory characters who evaded officals during the raid.",
+    "\nOne Mexican citizen had convictions for unlawful sexual intercourse with a minor and a conviction for driving under the influence (DUI), and had been deported in 2003.",
+    "\nAnother who evaded capture had a conviction for sodomizing a drugged victim in 2012, as well as a DUI from this year -- that Mexican citizen had also been previously deported in 2013.",
+    "\nAnother illegal immigrant from Mexico, previously deported in 2014 for a conviction for armed robbery, also evaded capture."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 114,
+      "text": "Sanctuary City Mayor Protected Illegal Alien Mexican Rapist\n\nOakland Mayor Libby Schaaf claims to fight for women.",
+      "new_text": "Sanctuary City Mayor Protected Undocumented Immigrant Mexican Rapist\n\nOakland Mayor Libby Schaaf claims to fight for women.",
+      "prop_spans": [
+        [
+          0,
+          59,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          0,
+          9,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 114,
+      "end_ix": 168,
+      "text": "\nExcept when she's fighting for their rapists instead.",
+      "new_text": "\nExcept when she's fighting for their violators instead.",
+      "prop_spans": [
+        [
+          115,
+          167,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 168,
+      "end_ix": 387,
+      "text": "\nA Democratic mayor\u2019s warning to illegal immigrants of an incoming ICE raid in northern California may have led to a number of illegal immigrants with violent and sex-related convictions evading capture and deportation.",
+      "new_text": "\nA mayor\u2019s warning to illegal immigrants of an incoming ICE raid in northern California may have led to a number of illegal immigrants with violent and sex-related convictions evading capture and deportation.",
+      "prop_spans": [
+        [
+          171,
+          181,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 387,
+      "end_ix": 678,
+      "text": "\nOakland Mayor Libby Schaaf tweeted out an impending warning of the four-day raid last week, alerting targeted individuals to the imminent arrests, and infuriating Immigrations and Customs Enforcement (ICE) officials, who say that many more could have been caught if they hadn't been warned.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 678,
+      "end_ix": 796,
+      "text": "\nA spokesperson for ICE gave Fox News examples of some of the unsavory characters who evaded officals during the raid.",
+      "new_text": "\nA spokesperson for ICE gave Fox News examples of some of the people who evaded officals during the raid.",
+      "prop_spans": [
+        [
+          740,
+          759,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 796,
+      "end_ix": 964,
+      "text": "\nOne Mexican citizen had convictions for unlawful sexual intercourse with a minor and a conviction for driving under the influence (DUI), and had been deported in 2003.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 964,
+      "end_ix": 1148,
+      "text": "\nAnother who evaded capture had a conviction for sodomizing a drugged victim in 2012, as well as a DUI from this year -- that Mexican citizen had also been previously deported in 2013.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1148,
+      "end_ix": 1272,
+      "text": "\nAnother illegal immigrant from Mexico, previously deported in 2014 for a conviction for armed robbery, also evaded capture.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      59,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      0,
+      9,
+      "Name_Calling,Labeling"
+    ],
+    [
+      115,
+      167,
+      "Loaded_Language"
+    ],
+    [
+      171,
+      181,
+      "Red_Herring"
+    ],
+    [
+      740,
+      759,
+      "Loaded_Language"
+    ]
+  ]
+}

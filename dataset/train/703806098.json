@@ -1,0 +1,176 @@
+{
+  "article_id": "703806098",
+  "sentence offsets in original": [
+    0,
+    479,
+    715,
+    1020,
+    1114,
+    1326,
+    1721,
+    1942,
+    2666
+  ],
+  "original sentences": [
+    "There Were \u201cActive Shooters On The Runway\u201d Bombshell Air Traffic Control Audio From The Night Of The Las Vegas Massacre Reveals\n\nIn yet another striking example of a widespread cover-up currently underway regarding the worst mass shooting in American history, new air traffic control audio has been released that details the fact that there were multiple active shooters on the airports property which is extremely close to the venue where at least part of the attack took place.",
+    "\nThe audio recordings, taken from the night of the October 1st massacre that left 58 dead and over 500 injured, are further proof that multiple shooters were used throughout the area, a fact that directly contradicts the official story.",
+    "\nDuring the air traffic control recordings, which were released by political strategist and co-founder of \u201cThe New Right\u201d Mike Tokes, one of the dispatchers is heard telling an incoming plane that landing might not be a good idea because there were multiple active shooters on the airport property itself.",
+    "\n\u201cShutting down might not be a good idea, there\u2019s active shooters on the runway,\u201d he declared.",
+    "\n\u201cThe 19s are closed, we are in the process of trying to round them up, they are on the airport property.\u201d\nAir traffic control tapes on the night of the Las Vegas shooting: \u201cThere\u2019s active shooters on the runway.",
+    "\nThey\u2019re on the airport property\u201d pic.twitter.com/HZf3LBeAgk \u2014 Mike Tokes (@MikeTokes) October 29, 2017\nThis stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.",
+    "\nWhile there have been countless stories since the attack that raise the very real possibility that this was a false flag, one has stood out due to the fact that the person who released the information died shortly after.",
+    "\nAs Shepard Ambellas reported in a now viral article, \u201cKymberley Suchomel, who posted her eyewitness account of the Las Vegas massacre in astonishingly vivid detail to her Facebook page on Oct. 4, subsequently passed away in her home on Oct. 9 from what reports are claiming are natural causes.\u201d\n\u201cShockingly, just days before her death, Suchomel posted key details about the shooting to Facebook that contradicted the official narrative which claims that Stephen Paddock was the lone gunman.\u201d\nFrom dozens of eyewitness reports, including Suchomel\u2019s, that clearly indicate the presence of multiple shooters, to the possibility of helicopters being used in the attack, the American people are clearly not being told the truth.",
+    "\nIt is also important to keep in mind that multiple investigative reports conducted by other alternative media outlets have actually named government officials and private companies that may be behind the attack and so far there has been no official denial from either."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 479,
+      "text": "There Were \u201cActive Shooters On The Runway\u201d Bombshell Air Traffic Control Audio From The Night Of The Las Vegas Massacre Reveals\n\nIn yet another striking example of a widespread cover-up currently underway regarding the worst mass shooting in American history, new air traffic control audio has been released that details the fact that there were multiple active shooters on the airports property which is extremely close to the venue where at least part of the attack took place.",
+      "new_text": "There Were \u201cActive Shooters On The Runway\u201d Bombshell Air Traffic Control Audio From The Night Of The Las Vegas Massacre Reveals\n\nIn yet another example of an alleged cover-up currently underway regarding the worst mass shooting in American history, new air traffic control audio has been released that details the fact that there were multiple active shooters on the airports property which is extremely close to the venue where at least part of the attack took place.",
+      "prop_spans": [
+        [
+          144,
+          160,
+          "Loaded_Language"
+        ],
+        [
+          166,
+          185,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 479,
+      "end_ix": 715,
+      "text": "\nThe audio recordings, taken from the night of the October 1st massacre that left 58 dead and over 500 injured, are further proof that multiple shooters were used throughout the area, a fact that directly contradicts the official story.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 715,
+      "end_ix": 1020,
+      "text": "\nDuring the air traffic control recordings, which were released by political strategist and co-founder of \u201cThe New Right\u201d Mike Tokes, one of the dispatchers is heard telling an incoming plane that landing might not be a good idea because there were multiple active shooters on the airport property itself.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1020,
+      "end_ix": 1114,
+      "text": "\n\u201cShutting down might not be a good idea, there\u2019s active shooters on the runway,\u201d he declared.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1114,
+      "end_ix": 1326,
+      "text": "\n\u201cThe 19s are closed, we are in the process of trying to round them up, they are on the airport property.\u201d\nAir traffic control tapes on the night of the Las Vegas shooting: \u201cThere\u2019s active shooters on the runway.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1326,
+      "end_ix": 1721,
+      "text": "\nThey\u2019re on the airport property\u201d pic.twitter.com/HZf3LBeAgk \u2014 Mike Tokes (@MikeTokes) October 29, 2017\nThis stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.",
+      "new_text": "\nThey\u2019re on the airport property\u201d pic.twitter.com/HZf3LBeAgk \u2014 Mike Tokes (@MikeTokes) October 29, 2017\nThis tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel may not be true and that authorities may be covering up what really happened.",
+      "prop_spans": [
+        [
+          1435,
+          1455,
+          "Loaded_Language"
+        ],
+        [
+          1605,
+          1622,
+          "Loaded_Language"
+        ],
+        [
+          1632,
+          1698,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1721,
+      "end_ix": 1942,
+      "text": "\nWhile there have been countless stories since the attack that raise the very real possibility that this was a false flag, one has stood out due to the fact that the person who released the information died shortly after.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1942,
+      "end_ix": 2666,
+      "text": "\nAs Shepard Ambellas reported in a now viral article, \u201cKymberley Suchomel, who posted her eyewitness account of the Las Vegas massacre in astonishingly vivid detail to her Facebook page on Oct. 4, subsequently passed away in her home on Oct. 9 from what reports are claiming are natural causes.\u201d\n\u201cShockingly, just days before her death, Suchomel posted key details about the shooting to Facebook that contradicted the official narrative which claims that Stephen Paddock was the lone gunman.\u201d\nFrom dozens of eyewitness reports, including Suchomel\u2019s, that clearly indicate the presence of multiple shooters, to the possibility of helicopters being used in the attack, the American people are clearly not being told the truth.",
+      "new_text": "\nAs Shepard Ambellas reported in a now viral article, \u201cKymberley Suchomel, who posted her eyewitness account of the Las Vegas massacre in astonishingly vivid detail to her Facebook page on Oct. 4, subsequently passed away in her home on Oct. 9 from what reports are claiming are natural causes.\u201d\n\u201cShockingly, just days before her death, Suchomel posted key details about the shooting to Facebook that contradicted the official narrative which claims that Stephen Paddock was the lone gunman.\u201d\nFrom dozens of eyewitness reports, including Suchomel\u2019s, that clearly indicate the presence of multiple shooters, to the possibility of helicopters being used in the attack, the people may not be informed of the truth.",
+      "prop_spans": [
+        [
+          2609,
+          2666,
+          "Doubt"
+        ],
+        [
+          2609,
+          2666,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2666,
+      "end_ix": 2935,
+      "text": "\nIt is also important to keep in mind that multiple investigative reports conducted by other alternative media outlets have actually named government officials and private companies that may be behind the attack and so far there has been no official denial from either.",
+      "new_text": "\nIt is also important to keep in mind that multiple investigative reports conducted by other alternative media outlets have actually named government officials and private companies that may be behind the attack and so far there has been no official denial from either.",
+      "prop_spans": [
+        [
+          2666,
+          2667,
+          "Doubt"
+        ],
+        [
+          2666,
+          2667,
+          "Flag-Waving"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      144,
+      160,
+      "Loaded_Language"
+    ],
+    [
+      166,
+      185,
+      "Loaded_Language"
+    ],
+    [
+      1435,
+      1455,
+      "Loaded_Language"
+    ],
+    [
+      1605,
+      1622,
+      "Loaded_Language"
+    ],
+    [
+      1632,
+      1698,
+      "Doubt"
+    ],
+    [
+      2609,
+      2667,
+      "Doubt"
+    ],
+    [
+      2609,
+      2667,
+      "Flag-Waving"
+    ]
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "article_id": "999001188",
+  "sentence offsets in original": [
+    0,
+    165,
+    202,
+    242,
+    334,
+    438,
+    698,
+    830,
+    957,
+    1136,
+    1152,
+    1266,
+    1312,
+    1373,
+    1409,
+    1459,
+    1491,
+    1569,
+    1704,
+    1766,
+    1822,
+    1887,
+    1902,
+    2079,
+    2163,
+    2208,
+    2269,
+    2354,
+    2393,
+    2532,
+    2570
+  ],
+  "original sentences": [
+    "Dear Illegal Alien \u2018Caravan\u2019: Say, \u2018Hola\u2019 To Trump\u2019s RAZOR Wire\n\nRemember those photos of migrants taunting security forces while sitting on top of the border fence?",
+    "\nThey won\u2019t be doing any of that now.",
+    "\nIn fact, It\u2019s got a whole new look now.",
+    "\nWe won\u2019t be seeing anything near the same bravado with people scaling up and over this one.",
+    "\nNot with the changes they\u2019ve made in response to the border-crashers that pushed their way into Mexico.",
+    "\nTrending: WATCH: Lingerie Clad Hottie Attempts \u2018The Cannonball\u2019 On Lake In The Dead Of Winter \u2013 Pain Ensues\nHere\u2019s the new look:\nHere\u2019s what the President said with the photo:\n\u201cThe Fake News is showing old footage of people climbing over our Ocean Area Fence.",
+    "\nThis is what it really looks like \u2013 no climbers anymore under our Administration!\u201d\nHere\u2019s some footage of that razor wire going up.",
+    "\nHere\u2019s what the military was REALLY up to, when CNN and the rest had their little fever dreams about cross-border gun battles.",
+    "\nIf Congress insists on dragging its feet with the building and funding of a permanent solution, Trump will find other ways to secure our Southern border as he had promised to do.",
+    "\nLike Razorwire.",
+    "\nThe Trumpinator: every time his rivals think they\u2019ve got him down and out, he stands back up and keeps on coming.",
+    "\nThey laughed when he announced his candidacy.",
+    "\nThey thought he was just some kind of a circus sideshow act.",
+    "\nThey couldn\u2019t have been more wrong.",
+    "\nHe survived the primaries and got the nomination.",
+    "\nHe knocked out Crooked Hillary.",
+    "\nHe beat CNN at their own game, and their ratings are now circling the toilet.",
+    "\nMueller and the Dossier aren\u2019t just coming up empty, they\u2019re exposing the misdeeds of Brennan, Comey, McCabe, Strzok and all the rest.",
+    "\nAnd Trump is still keeping promises, and getting things done.",
+    "\nThe economy is doing exactly what he promised it would.",
+    "\n#PromisesKept\nAnd in 2020, The Trumpinator is gonna do it again.",
+    "\nHe\u2019ll be back.",
+    "\nBy the way, since Facebook has unpublished ClashDaily\u2019s page, your best bet to keep in the loop is to Subscribe to our ClashDaily Newsletter right here:\nBecome a Clash Insider!",
+    "\nSign up for our free email newsletter, and we\u2019ll make sure to keep you in the loop.",
+    "\nWe\u2019re also moving onto a new platform, MeWe.",
+    "\nIt\u2019s like Facebook without the data breaches and censorship.",
+    "\nSign up and you can still get all the ClashDaily goodness by joining our MeWe group.",
+    "\nDo you love what we\u2019re doing at Clash?",
+    "\nDo you want to kick in to our \u2018war chest\u2019 so that we Happy Warriors can maximize the size of the footprint we leave on Leftism\u2019s backside?",
+    "\nHere\u2019s a link for ya to do just that.",
+    "\nStay Rowdy!"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 165,
+      "text": "Dear Illegal Alien \u2018Caravan\u2019: Say, \u2018Hola\u2019 To Trump\u2019s RAZOR Wire\n\nRemember those photos of migrants taunting security forces while sitting on top of the border fence?",
+      "new_text": "Dear Illegal Alien \u2018Caravan\u2019: Say, \u2018Hola\u2019 To Trump\u2019s RAZOR Wire\n\nRemember those photos of migrants taunting security forces while sitting on top of the border fence?",
+      "prop_spans": [
+        [
+          30,
+          63,
+          "Loaded_Language"
+        ],
+        [
+          90,
+          124,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 165,
+      "end_ix": 202,
+      "text": "\nThey won\u2019t be doing any of that now.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 202,
+      "end_ix": 242,
+      "text": "\nIn fact, It\u2019s got a whole new look now.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 242,
+      "end_ix": 334,
+      "text": "\nWe won\u2019t be seeing anything near the same bravado with people scaling up and over this one.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 334,
+      "end_ix": 438,
+      "text": "\nNot with the changes they\u2019ve made in response to the border-crashers that pushed their way into Mexico.",
+      "new_text": "\nNot with the changes they\u2019ve made in response to the migrants that pushed their way into Mexico.",
+      "prop_spans": [
+        [
+          384,
+          404,
+          "Name_Calling,Labeling"
+        ],
+        [
+          388,
+          404,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 438,
+      "end_ix": 698,
+      "text": "\nTrending: WATCH: Lingerie Clad Hottie Attempts \u2018The Cannonball\u2019 On Lake In The Dead Of Winter \u2013 Pain Ensues\nHere\u2019s the new look:\nHere\u2019s what the President said with the photo:\n\u201cThe Fake News is showing old footage of people climbing over our Ocean Area Fence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 698,
+      "end_ix": 830,
+      "text": "\nThis is what it really looks like \u2013 no climbers anymore under our Administration!\u201d\nHere\u2019s some footage of that razor wire going up.",
+      "new_text": "\nThis is what it really looks like \u2013 no climbers anymore under our Administration!\u201d\nHere\u2019s some footage of that razor wire going up.",
+      "prop_spans": [
+        [
+          735,
+          779,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 830,
+      "end_ix": 957,
+      "text": "\nHere\u2019s what the military was REALLY up to, when CNN and the rest had their little fever dreams about cross-border gun battles.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 957,
+      "end_ix": 1136,
+      "text": "\nIf Congress insists on dragging its feet with the building and funding of a permanent solution, Trump will find other ways to secure our Southern border as he had promised to do.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1136,
+      "end_ix": 1152,
+      "text": "\nLike Razorwire.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1152,
+      "end_ix": 1266,
+      "text": "\nThe Trumpinator: every time his rivals think they\u2019ve got him down and out, he stands back up and keeps on coming.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1266,
+      "end_ix": 1312,
+      "text": "\nThey laughed when he announced his candidacy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1312,
+      "end_ix": 1373,
+      "text": "\nThey thought he was just some kind of a circus sideshow act.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1373,
+      "end_ix": 1409,
+      "text": "\nThey couldn\u2019t have been more wrong.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1374,
+          1408,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1409,
+      "end_ix": 1459,
+      "text": "\nHe survived the primaries and got the nomination.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1459,
+      "end_ix": 1491,
+      "text": "\nHe knocked out Crooked Hillary.",
+      "new_text": "\nHe defeated Hillary.",
+      "prop_spans": [
+        [
+          1463,
+          1475,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1491,
+      "end_ix": 1569,
+      "text": "\nHe beat CNN at their own game, and their ratings are now circling the toilet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1569,
+      "end_ix": 1704,
+      "text": "\nMueller and the Dossier aren\u2019t just coming up empty, they\u2019re exposing the misdeeds of Brennan, Comey, McCabe, Strzok and all the rest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1704,
+      "end_ix": 1766,
+      "text": "\nAnd Trump is still keeping promises, and getting things done.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1766,
+      "end_ix": 1822,
+      "text": "\nThe economy is doing exactly what he promised it would.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1822,
+      "end_ix": 1887,
+      "text": "\n#PromisesKept\nAnd in 2020, The Trumpinator is gonna do it again.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1887,
+      "end_ix": 1902,
+      "text": "\nHe\u2019ll be back.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1888,
+          1902,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1902,
+      "end_ix": 2079,
+      "text": "\nBy the way, since Facebook has unpublished ClashDaily\u2019s page, your best bet to keep in the loop is to Subscribe to our ClashDaily Newsletter right here:\nBecome a Clash Insider!",
+      "new_text": "\nBy the way, since Facebook has unpublished ClashDaily\u2019s page, your best bet to keep in the loop is to Subscribe to our ClashDaily Newsletter right here:\nBecome a Clash Insider!",
+      "prop_spans": [
+        [
+          1902,
+          1902,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2079,
+      "end_ix": 2163,
+      "text": "\nSign up for our free email newsletter, and we\u2019ll make sure to keep you in the loop.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2163,
+      "end_ix": 2208,
+      "text": "\nWe\u2019re also moving onto a new platform, MeWe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2208,
+      "end_ix": 2269,
+      "text": "\nIt\u2019s like Facebook without the data breaches and censorship.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2269,
+      "end_ix": 2354,
+      "text": "\nSign up and you can still get all the ClashDaily goodness by joining our MeWe group.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2354,
+      "end_ix": 2393,
+      "text": "\nDo you love what we\u2019re doing at Clash?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2393,
+      "end_ix": 2532,
+      "text": "\nDo you want to kick in to our \u2018war chest\u2019 so that we Happy Warriors can maximize the size of the footprint we leave on Leftism\u2019s backside?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2532,
+      "end_ix": 2570,
+      "text": "\nHere\u2019s a link for ya to do just that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2570,
+      "end_ix": 2582,
+      "text": "\nStay Rowdy!",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      30,
+      63,
+      "Loaded_Language"
+    ],
+    [
+      90,
+      124,
+      "Loaded_Language"
+    ],
+    [
+      384,
+      404,
+      "Name_Calling,Labeling"
+    ],
+    [
+      388,
+      404,
+      "Loaded_Language"
+    ],
+    [
+      735,
+      779,
+      "Slogans"
+    ],
+    [
+      1374,
+      1408,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1463,
+      1475,
+      "Loaded_Language"
+    ],
+    [
+      1888,
+      1902,
+      "Thought-terminating_Cliches"
+    ]
+  ]
+}

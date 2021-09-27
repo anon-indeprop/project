@@ -1,0 +1,375 @@
+{
+  "article_id": "727174208",
+  "sentence offsets in original": [
+    0,
+    279,
+    429,
+    546,
+    623,
+    649,
+    799,
+    852,
+    988,
+    1143,
+    1310,
+    1415,
+    1509,
+    1723,
+    1925,
+    2018,
+    2155,
+    2231,
+    2336,
+    2406,
+    2554,
+    2727,
+    2808,
+    2907,
+    3127,
+    3223,
+    3349,
+    3635,
+    3837,
+    3978,
+    4043,
+    4145,
+    4344,
+    4385,
+    4577,
+    4662,
+    4699,
+    4802
+  ],
+  "original sentences": [
+    "Lawyer: Ammo dealer saw nothing suspicious in Vegas gunman\n\nAn Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",
+    "\nDouglas Haig had no reason to believe Stephen Paddock would launch the Oct. 1 shooting in Las Vegas that killed 58 people, attorney Marc Victor said.",
+    "\nHe said Haig wishes he could have figured out the intentions of Paddock but defends the sale of ammunition as legal.",
+    "\n\"He wishes there was some clue that could have identified him,\" Victor said.",
+    "\n\"There was just nothing.\"",
+    "\nMeanwhile, the coroner in Las Vegas started releasing redacted autopsy records about the 58 people killed in the mass shooting at an outdoor concert.",
+    "\nRecords relating to Paddock were not being provided.",
+    "\nThe records were released Wednesday in response to a public records lawsuit filed by The Associated Press and Las Vegas Review-Journal.",
+    "\nHaig was named as a \"person of interest\" in the investigation by mistake Tuesday when court documents were released nearly four months after the shooting.",
+    "\nThe documents did not disclose why authorities considered Haig a person of interest, and officials haven't said whether he has since been cleared of that designation.",
+    "\nVictor said his client sold ammunition to Paddock once and doesn't believe they have communicated since.",
+    "\n\"He is as connected (to Paddock) as the guy who sold him a hamburger for lunch,\" Victor said.",
+    "\nLas Vegas police and officials with the FBI, U.S. attorney's office in Nevada and the federal Bureau of Alcohol, Tobacco, Firearms and Explosives each declined Wednesday to comment about Haig or the investigation.",
+    "\nA law enforcement official told The Associated Press in October that Paddock bought 1,000 rounds of tracer ammunition from a private seller he met at a Phoenix gun show three weeks before the shooting.",
+    "\nThe official spoke anonymously because they weren't authorized to disclose case information.",
+    "\nTracer bullets contain a pyrotechnic charge that illuminates the path of fired bullets so shooters can see whether their aim is correct.",
+    "\nHaig told the AP on Tuesday that he sold unspecified ammunition to Paddock.",
+    "\nHe also told \"CBS This Morning\" on Wednesday that he sold more than 700 rounds of ammunition to Paddock.",
+    "\n\"I couldn't detect anything wrong with this guy,\" he said of Paddock.",
+    "\nThe ammunition sale took place at Haig's home in Mesa, because he didn't have all the ammunition on hand that Paddock wanted while at the gun show.",
+    "\nVictor said a box that Paddock used to carry ammunition out of Haig's house and bore his client's name was later found in the Las Vegas hotel where the attack was launched.",
+    "\nIt's unknown whether the ammunition Haig sold to Paddock was used in the attack.",
+    "\nThe lawyer said the type and quantity of ammunition Paddock bought from his client wasn't unusual.",
+    "\nRobert Spitzer, an expert on firearms and the Second Amendment, said by and large there are no restrictions on the amount of ammunition a person can buy, but a large sale of tracer ammunition would certainly be unusual.",
+    "\nOnly six states in the U.S. have laws requiring that ammunition buyers pass a background check.",
+    "\nArizona and Nevada do not have such a requirement, nor do they mandate that dealers keep a record of ammunition transactions.",
+    "\n\"If you are in the business of selling anything, you are usually happy to make the sale, and there's nothing that says you need to write down this person's name or report the sale,\" said Spitzer, who is the chairman of political science at the State University of New York at Cortland.",
+    "\nVictor said his client has cooperated with investigators who contacted him within 24 hours of the shooting and has spoken to them probably four or five times, though he hasn't talked to them in months.",
+    "\nHaig describes himself as a senior engineer for Honeywell Aerospace in his biography on the professional and social media platform LinkedIn.",
+    "\nRecords show Haig also owns Specialized Military Ammunition LLC.",
+    "\nThe company's website says it sold tracer and incendiary ammunition but is now \"closed indefinitely.\"",
+    "\nHaig's name was blacked out in the more than 270 pages of search warrant records released by a Nevada judge to the AP, but remained on one page of documents provided to the Las Vegas Review-Journal.",
+    "\nThe newspaper published the name online.",
+    "\nClark County District Court Judge Elissa Cadish later ordered the full document not be published without redactions, but she acknowledged she couldn't order the newspaper to retract the name.",
+    "\nHaig plans to hold a news conference Friday to discuss his interaction with Paddock.",
+    "\nGarcia Cano reported from Las Vegas.",
+    "\nAssociated Press writers Ken Ritter in Las Vegas and Anita Snow in Phoenix contributed to this report.",
+    "\nBilleaud reported from Phoenix."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 279,
+      "text": "Lawyer: Ammo dealer saw nothing suspicious in Vegas gunman\n\nAn Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",
+      "new_text": "Lawyer: Ammo dealer saw nothing suspicious in Vegas gunman\n\nAn Arizona man who sold ammunition to the gunman in the mass shooting was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",
+      "prop_spans": [
+        [
+          112,
+          163,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 279,
+      "end_ix": 429,
+      "text": "\nDouglas Haig had no reason to believe Stephen Paddock would launch the Oct. 1 shooting in Las Vegas that killed 58 people, attorney Marc Victor said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 429,
+      "end_ix": 546,
+      "text": "\nHe said Haig wishes he could have figured out the intentions of Paddock but defends the sale of ammunition as legal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 546,
+      "end_ix": 623,
+      "text": "\n\"He wishes there was some clue that could have identified him,\" Victor said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 623,
+      "end_ix": 649,
+      "text": "\n\"There was just nothing.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 649,
+      "end_ix": 799,
+      "text": "\nMeanwhile, the coroner in Las Vegas started releasing redacted autopsy records about the 58 people killed in the mass shooting at an outdoor concert.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 799,
+      "end_ix": 852,
+      "text": "\nRecords relating to Paddock were not being provided.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 852,
+      "end_ix": 988,
+      "text": "\nThe records were released Wednesday in response to a public records lawsuit filed by The Associated Press and Las Vegas Review-Journal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 988,
+      "end_ix": 1143,
+      "text": "\nHaig was named as a \"person of interest\" in the investigation by mistake Tuesday when court documents were released nearly four months after the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1143,
+      "end_ix": 1310,
+      "text": "\nThe documents did not disclose why authorities considered Haig a person of interest, and officials haven't said whether he has since been cleared of that designation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1310,
+      "end_ix": 1415,
+      "text": "\nVictor said his client sold ammunition to Paddock once and doesn't believe they have communicated since.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1415,
+      "end_ix": 1509,
+      "text": "\n\"He is as connected (to Paddock) as the guy who sold him a hamburger for lunch,\" Victor said.",
+      "new_text": "\n\"He is as connected (to Paddock) as the guy who sold him a hamburger for lunch,\" Victor said.",
+      "prop_spans": [
+        [
+          1452,
+          1494,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1509,
+      "end_ix": 1723,
+      "text": "\nLas Vegas police and officials with the FBI, U.S. attorney's office in Nevada and the federal Bureau of Alcohol, Tobacco, Firearms and Explosives each declined Wednesday to comment about Haig or the investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1723,
+      "end_ix": 1925,
+      "text": "\nA law enforcement official told The Associated Press in October that Paddock bought 1,000 rounds of tracer ammunition from a private seller he met at a Phoenix gun show three weeks before the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1925,
+      "end_ix": 2018,
+      "text": "\nThe official spoke anonymously because they weren't authorized to disclose case information.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2018,
+      "end_ix": 2155,
+      "text": "\nTracer bullets contain a pyrotechnic charge that illuminates the path of fired bullets so shooters can see whether their aim is correct.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2155,
+      "end_ix": 2231,
+      "text": "\nHaig told the AP on Tuesday that he sold unspecified ammunition to Paddock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2231,
+      "end_ix": 2336,
+      "text": "\nHe also told \"CBS This Morning\" on Wednesday that he sold more than 700 rounds of ammunition to Paddock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2336,
+      "end_ix": 2406,
+      "text": "\n\"I couldn't detect anything wrong with this guy,\" he said of Paddock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2406,
+      "end_ix": 2554,
+      "text": "\nThe ammunition sale took place at Haig's home in Mesa, because he didn't have all the ammunition on hand that Paddock wanted while at the gun show.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2554,
+      "end_ix": 2727,
+      "text": "\nVictor said a box that Paddock used to carry ammunition out of Haig's house and bore his client's name was later found in the Las Vegas hotel where the attack was launched.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2727,
+      "end_ix": 2808,
+      "text": "\nIt's unknown whether the ammunition Haig sold to Paddock was used in the attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2808,
+      "end_ix": 2907,
+      "text": "\nThe lawyer said the type and quantity of ammunition Paddock bought from his client wasn't unusual.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2907,
+      "end_ix": 3127,
+      "text": "\nRobert Spitzer, an expert on firearms and the Second Amendment, said by and large there are no restrictions on the amount of ammunition a person can buy, but a large sale of tracer ammunition would certainly be unusual.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3127,
+      "end_ix": 3223,
+      "text": "\nOnly six states in the U.S. have laws requiring that ammunition buyers pass a background check.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3223,
+      "end_ix": 3349,
+      "text": "\nArizona and Nevada do not have such a requirement, nor do they mandate that dealers keep a record of ammunition transactions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3349,
+      "end_ix": 3635,
+      "text": "\n\"If you are in the business of selling anything, you are usually happy to make the sale, and there's nothing that says you need to write down this person's name or report the sale,\" said Spitzer, who is the chairman of political science at the State University of New York at Cortland.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3635,
+      "end_ix": 3837,
+      "text": "\nVictor said his client has cooperated with investigators who contacted him within 24 hours of the shooting and has spoken to them probably four or five times, though he hasn't talked to them in months.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3837,
+      "end_ix": 3978,
+      "text": "\nHaig describes himself as a senior engineer for Honeywell Aerospace in his biography on the professional and social media platform LinkedIn.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3978,
+      "end_ix": 4043,
+      "text": "\nRecords show Haig also owns Specialized Military Ammunition LLC.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4043,
+      "end_ix": 4145,
+      "text": "\nThe company's website says it sold tracer and incendiary ammunition but is now \"closed indefinitely.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4145,
+      "end_ix": 4344,
+      "text": "\nHaig's name was blacked out in the more than 270 pages of search warrant records released by a Nevada judge to the AP, but remained on one page of documents provided to the Las Vegas Review-Journal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4344,
+      "end_ix": 4385,
+      "text": "\nThe newspaper published the name online.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4385,
+      "end_ix": 4577,
+      "text": "\nClark County District Court Judge Elissa Cadish later ordered the full document not be published without redactions, but she acknowledged she couldn't order the newspaper to retract the name.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4577,
+      "end_ix": 4662,
+      "text": "\nHaig plans to hold a news conference Friday to discuss his interaction with Paddock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4662,
+      "end_ix": 4699,
+      "text": "\nGarcia Cano reported from Las Vegas.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4699,
+      "end_ix": 4802,
+      "text": "\nAssociated Press writers Ken Ritter in Las Vegas and Anita Snow in Phoenix contributed to this report.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4802,
+      "end_ix": 4834,
+      "text": "\nBilleaud reported from Phoenix.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      112,
+      163,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1452,
+      1494,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

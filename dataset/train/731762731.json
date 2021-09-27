@@ -1,0 +1,318 @@
+{
+  "article_id": "731762731",
+  "sentence offsets in original": [
+    0,
+    339,
+    509,
+    772,
+    917,
+    974,
+    1027,
+    1061,
+    1240,
+    1378,
+    1789,
+    1886,
+    1888,
+    1890,
+    2039,
+    2354,
+    2518,
+    2727,
+    2836,
+    3170,
+    3366,
+    3550,
+    3839,
+    3984
+  ],
+  "original sentences": [
+    "Cardinal O\u2019Malley will head revived Vatican abuse panel\n\nCardinal Sean O\u2019Malley has been reappointed as the head of a Vatican commission on child sex abuse, as Pope Francis on Saturday revived the panel in the wake of widespread condemnation last month of the pontiff\u2019s defense of a Chilean bishop accused of witnessing and ignoring abuse.",
+    "\nThe Pontifical Commission for the Protection of Minors lapsed in December, when its members\u2019 terms expired, prompting concerns that the advisory body could be disbanded.",
+    "\nIn addition to O\u2019Malley\u2019s return as the panel\u2019s president, Pope Francis named seven returning members and nine new members representing countries around the world, including Brazil, the Netherlands, Ethiopia, and India, according to a statement from the Vatican.",
+    "\nAdvertisement\nSome members are themselves survivors of abuse, according to the statement, but they were not identified to protect their privacy.",
+    "\nGet Fast Forward in your inbox: Forget yesterday's news.",
+    "\nGet what you need today in this early-morning email.",
+    "\nSign Up Thank you for signing up!",
+    "\nSign up for more newsletters here\nO\u2019Malley, the archbishop of Boston, said in the statement that the pope had \u201cgiven much prayerful consideration\u201d to the membership of the panel.",
+    "\n\u201cThe newly appointed members will add to the Commission\u2019s global perspective in the protection of minors and vulnerable adults,\u201d he said.",
+    "\n\u201cThe Holy Father has ensured continuity in the work of our Commission, which is to assist local churches throughout the world in their efforts to safeguard all children, young people, and vulnerable adults from harm.\u201d\nLocal survivors of abuse greeted the announcement warily, hopeful that there could be positive change in the church but saying the panel accomplished little under its first three-year mandate.",
+    "\n\u201cThe objectives of the commission when it was first announced, when it was just getting started.",
+    "\n.",
+    "\n.",
+    "\nwere never fulfilled,\u201d said Phil Saviano, an abuse survivor who founded the New England chapter of the Survivors Network of those Abused by Priests.",
+    "\nAdvertisement\nSaviano said the commission is \u201ca good idea,\u201d and added, \u201cI\u2019m not particularly optimistic that much will get accomplished, but a commission is better than no commission.\u201d\nGiven his long experience witnessing the church\u2019s inertia on the issue, Saviano said, he has set his expectations at rock bottom.",
+    "\n\u201cThat\u2019s kind of my attitude now: If I don\u2019t expect the Catholic Church to do anything, then I won\u2019t be too disappointed when they don\u2019t do anything,\u201d he continued.",
+    "\nJim Scanlan, another survivor, said \u201cthe timing of it is too perfect\u201d given the controversy last month surrounding Pope Francis\u2019s remarks that accused victims of a notorious Chilean pedophile priest, the Rev.",
+    "\nFernando Karadima, of \u201cslander\u201d against Bishop Juan Barros, who the victims say was complicit in a cover up.",
+    "\nThe pope said he had seen no proof of Barros\u2019s guilt, but the Associated Press reported that O\u2019Malley and other members of the commission had in 2015 hand-delivered to him an eight-page letter from a survivor that graphically detailed his abuse and said Barros and other clergy had witnessed him being fondled but had not intervened.",
+    "\nAdvertisement\nScanlan said his reaction to hearing that Francis has revived the commission was \u201chopeful but cynical.\u201d Like Saviano, he said the panel accomplished little in its first incarnation.",
+    "\n\u201cMy expectation is it will probably have the same outcome, because the church is the church, and they do it for appearance, but they\u2019re still going to go by their own rules,\u201d he said.",
+    "\n\u201cI\u2019ve seen little that has changed.\u201d\nScanlan said Pope Francis has given him hope for progress on some issues in the church, but on sexual abuse, he \u201ccontinues to be blind to what the church has done.\u201d\nLast month, O\u2019Malley denounced the pope\u2019s controversial defense of the Chilean bishop.",
+    "\nDespite distancing himself from Pope Francis\u2019s comments, O\u2019Malley said that he has witnessed the pontiff\u2019s genuine compassion for abuse victims.",
+    "\n\u201cThe Pope\u2019s statements that there is no place in the life of the Church for those who would abuse children and that we must adhere to zero tolerance for these crimes are genuine,\u201d O\u2019Malley said, \u201cand they are his commitment.\u201d\nJeremy C. Fox can be reached at jeremy.fox@globe.com"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 339,
+      "text": "Cardinal O\u2019Malley will head revived Vatican abuse panel\n\nCardinal Sean O\u2019Malley has been reappointed as the head of a Vatican commission on child sex abuse, as Pope Francis on Saturday revived the panel in the wake of widespread condemnation last month of the pontiff\u2019s defense of a Chilean bishop accused of witnessing and ignoring abuse.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 339,
+      "end_ix": 509,
+      "text": "\nThe Pontifical Commission for the Protection of Minors lapsed in December, when its members\u2019 terms expired, prompting concerns that the advisory body could be disbanded.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 509,
+      "end_ix": 772,
+      "text": "\nIn addition to O\u2019Malley\u2019s return as the panel\u2019s president, Pope Francis named seven returning members and nine new members representing countries around the world, including Brazil, the Netherlands, Ethiopia, and India, according to a statement from the Vatican.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 772,
+      "end_ix": 917,
+      "text": "\nAdvertisement\nSome members are themselves survivors of abuse, according to the statement, but they were not identified to protect their privacy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 917,
+      "end_ix": 974,
+      "text": "\nGet Fast Forward in your inbox: Forget yesterday's news.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 974,
+      "end_ix": 1027,
+      "text": "\nGet what you need today in this early-morning email.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1027,
+      "end_ix": 1061,
+      "text": "\nSign Up Thank you for signing up!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1061,
+      "end_ix": 1240,
+      "text": "\nSign up for more newsletters here\nO\u2019Malley, the archbishop of Boston, said in the statement that the pope had \u201cgiven much prayerful consideration\u201d to the membership of the panel.",
+      "new_text": "\nSign up for more newsletters here\nO\u2019Malley, the archbishop of Boston, said in the statement that the pope had \u201cgiven much prayerful consideration\u201d to the membership of the panel.",
+      "prop_spans": [
+        [
+          1184,
+          1208,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1240,
+      "end_ix": 1378,
+      "text": "\n\u201cThe newly appointed members will add to the Commission\u2019s global perspective in the protection of minors and vulnerable adults,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1378,
+      "end_ix": 1789,
+      "text": "\n\u201cThe Holy Father has ensured continuity in the work of our Commission, which is to assist local churches throughout the world in their efforts to safeguard all children, young people, and vulnerable adults from harm.\u201d\nLocal survivors of abuse greeted the announcement warily, hopeful that there could be positive change in the church but saying the panel accomplished little under its first three-year mandate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1789,
+      "end_ix": 1886,
+      "text": "\n\u201cThe objectives of the commission when it was first announced, when it was just getting started.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1886,
+      "end_ix": 1888,
+      "text": "\n.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1888,
+      "end_ix": 1890,
+      "text": "\n.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1890,
+      "end_ix": 2039,
+      "text": "\nwere never fulfilled,\u201d said Phil Saviano, an abuse survivor who founded the New England chapter of the Survivors Network of those Abused by Priests.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2039,
+      "end_ix": 2354,
+      "text": "\nAdvertisement\nSaviano said the commission is \u201ca good idea,\u201d and added, \u201cI\u2019m not particularly optimistic that much will get accomplished, but a commission is better than no commission.\u201d\nGiven his long experience witnessing the church\u2019s inertia on the issue, Saviano said, he has set his expectations at rock bottom.",
+      "new_text": "\nAdvertisement\nSaviano said the commission is \u201ca good idea,\u201d and added, \u201cI\u2019m not particularly optimistic that much will get accomplished, but a commission is better than no commission.\u201d\nGiven his long experience witnessing the church\u2019s lack of action on the issue, Saviano said, he has set his expectations very low.",
+      "prop_spans": [
+        [
+          2262,
+          2296,
+          "Doubt"
+        ],
+        [
+          2311,
+          2354,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2354,
+      "end_ix": 2518,
+      "text": "\n\u201cThat\u2019s kind of my attitude now: If I don\u2019t expect the Catholic Church to do anything, then I won\u2019t be too disappointed when they don\u2019t do anything,\u201d he continued.",
+      "new_text": "\n\u201cThat\u2019s kind of my attitude now: If I don\u2019t expect the Catholic Church to do anything, then I won\u2019t be too disappointed when they don\u2019t do anything,\u201d he continued.",
+      "prop_spans": [
+        [
+          2354,
+          2355,
+          "Loaded_Language"
+        ],
+        [
+          2388,
+          2502,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2518,
+      "end_ix": 2727,
+      "text": "\nJim Scanlan, another survivor, said \u201cthe timing of it is too perfect\u201d given the controversy last month surrounding Pope Francis\u2019s remarks that accused victims of a notorious Chilean pedophile priest, the Rev.",
+      "new_text": "\nJim Scanlan, another survivor, said \u201cthe timing of it is too perfect\u201d given the controversy last month surrounding Pope Francis\u2019s remarks that accused victims of a pedophile priest, the Rev.",
+      "prop_spans": [
+        [
+          2683,
+          2718,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2727,
+      "end_ix": 2836,
+      "text": "\nFernando Karadima, of \u201cslander\u201d against Bishop Juan Barros, who the victims say was complicit in a cover up.",
+      "new_text": "\nFernando Karadima, of \u201cslander\u201d against Bishop Juan Barros, who the victims say was complicit in a cover up.",
+      "prop_spans": [
+        [
+          2751,
+          2758,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2836,
+      "end_ix": 3170,
+      "text": "\nThe pope said he had seen no proof of Barros\u2019s guilt, but the Associated Press reported that O\u2019Malley and other members of the commission had in 2015 hand-delivered to him an eight-page letter from a survivor that graphically detailed his abuse and said Barros and other clergy had witnessed him being fondled but had not intervened.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3170,
+      "end_ix": 3366,
+      "text": "\nAdvertisement\nScanlan said his reaction to hearing that Francis has revived the commission was \u201chopeful but cynical.\u201d Like Saviano, he said the panel accomplished little in its first incarnation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3366,
+      "end_ix": 3550,
+      "text": "\n\u201cMy expectation is it will probably have the same outcome, because the church is the church, and they do it for appearance, but they\u2019re still going to go by their own rules,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3550,
+      "end_ix": 3839,
+      "text": "\n\u201cI\u2019ve seen little that has changed.\u201d\nScanlan said Pope Francis has given him hope for progress on some issues in the church, but on sexual abuse, he \u201ccontinues to be blind to what the church has done.\u201d\nLast month, O\u2019Malley denounced the pope\u2019s controversial defense of the Chilean bishop.",
+      "new_text": "\n\u201cI\u2019ve seen little that has changed.\u201d\nScanlan said Pope Francis has given him hope for progress on some issues in the church, but on sexual abuse, he \u201ccontinues to be blind to what the church has done.\u201d\nLast month, O\u2019Malley denounced the pope\u2019s controversial defense of the Chilean bishop.",
+      "prop_spans": [
+        [
+          3552,
+          3585,
+          "Doubt"
+        ],
+        [
+          3701,
+          3752,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3839,
+      "end_ix": 3984,
+      "text": "\nDespite distancing himself from Pope Francis\u2019s comments, O\u2019Malley said that he has witnessed the pontiff\u2019s genuine compassion for abuse victims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3984,
+      "end_ix": 4263,
+      "text": "\n\u201cThe Pope\u2019s statements that there is no place in the life of the Church for those who would abuse children and that we must adhere to zero tolerance for these crimes are genuine,\u201d O\u2019Malley said, \u201cand they are his commitment.\u201d\nJeremy C. Fox can be reached at jeremy.fox@globe.com",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1184,
+      1208,
+      "Loaded_Language"
+    ],
+    [
+      2262,
+      2296,
+      "Doubt"
+    ],
+    [
+      2311,
+      2355,
+      "Loaded_Language"
+    ],
+    [
+      2388,
+      2502,
+      "Causal_Oversimplification"
+    ],
+    [
+      2683,
+      2718,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2751,
+      2758,
+      "Loaded_Language"
+    ],
+    [
+      3552,
+      3585,
+      "Doubt"
+    ],
+    [
+      3701,
+      3752,
+      "Loaded_Language"
+    ]
+  ]
+}

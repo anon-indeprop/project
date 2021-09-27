@@ -1,0 +1,415 @@
+{
+  "article_id": "729348908",
+  "sentence offsets in original": [
+    0,
+    297,
+    375,
+    589,
+    684,
+    741,
+    912,
+    992,
+    1168,
+    1221,
+    1345,
+    1456,
+    1507,
+    1595,
+    1668,
+    1848,
+    1903,
+    2019,
+    2111,
+    2178,
+    2227,
+    2462,
+    2529,
+    2672,
+    2794,
+    2887,
+    2992,
+    3081,
+    3224,
+    3390,
+    3572,
+    3668,
+    3813,
+    3939
+  ],
+  "original sentences": [
+    "Virginia man who wanted to join ISIS pleads guilty to lying about overseas trip\n\nNORFOLK, Va. \u2014 While texting with an FBI informant in September 2016, a Williamsburg man expressed admiration for a U.S. Army officer who shot and killed 13 soldiers on Fort Hood, Texas, according to court documents.",
+    "\nLater that year, Shivam Patel, 28, tried to join the U.S. Army and Air Force.",
+    "\nAnd in the application process, he lied to military recruiters about a recent trip he'd taken to Jordan in a failed attempt to make contact with the Islamic State and join a \"real Muslim Army,\" the documents said.",
+    "\nPatel pleaded guilty Thursday in U.S. District Court to two counts of making false statements.",
+    "\nHe faces up to 15 years in prison when sentenced June 4.",
+    "\nAccording to court documents and prosecutors, Patel \u2013 who was raised Hindu before converting to Islam several years ago \u2013 traveled to China in July 2016 to teach English.",
+    "\nWhile there, however, he grew displeased with how that country treated Muslims.",
+    "\nHis employer arranged for Patel to fly back to Virginia on Aug. 23, 2016, but instead Patel chose to travel to Jordan, a statement of facts filed with his plea agreement said.",
+    "\nJordanian officials arrested Patel a few days later.",
+    "\nIt's unclear why, but court documents say Patel told taxi drivers and others in Jordan that he supported the Islamic State.",
+    "\nA search of Patel's computer also showed he researched how to join the Islamic State before he left for China.",
+    "\nJordanian officials moved for Patel's deportation.",
+    "\nOn Sept. 2, 2016, he boarded a flight to Chicago, and the next day, he flew to Detroit.",
+    "\nThere, he met an FBI source and started talking about the Islamic State.",
+    "\nHe explained he went to Jordan in part to find like-minded Muslims, and because he wanted to do something \u201cbigger, better, and more purposeful\u201d \u2013 like dying in the cause of Allah.",
+    "\nBut, he said, he was afraid of making his parents sad.",
+    "\nIn the course of their conversations, Patel discussed his desire to see a holy war between Muslims and non-Muslims.",
+    "\nHe also sang an Islamic State fight song and recalled making a replica of the group\u2019s flag.",
+    "\nHe said he wanted to replace his neighbor\u2019s American flag with it.",
+    "\nPatel returned to Williamsburg on Sept. 6, 2016.",
+    "\nShortly thereafter, he moved into a motel his parents owned and started applying for jobs with the military, as well as some paramilitary organizations \u2013 like police and fire departments, correctional facilities and probation offices.",
+    "\nWhile back in Virginia, Patel stayed in touch with the FBI source.",
+    "\nHe texted the source on Sept. 23, 2016, and expressed support for Maj. Nidal Hasan, who killed 13 soldiers in 2009 while serving at Fort Hood.",
+    "\nIn the process, however, he misidentified Hasan as Nidal Hussein and said the shooting happened at Fort Knox in Kentucky.",
+    "\nHe also said Hasan had died a martyr, though in fact he remains alive on military death row.",
+    "\nCourt documents show Patel began saying in late 2016 that he did not actually support the Islamic State.",
+    "\nSimply expressing support for a terrorist organization or attack is not against the law.",
+    "\nPatel's crime was failing to disclose his trips to Jordan when he was trying to join the Army and Air Force in December 2016 and January 2017.",
+    "\nCourt documents say Patel lied about his travel history, saying his only time out of the country in the past seven years was a family trip to India in 2011 and 2012.",
+    "\nBefore Patel signed the Army application, a recruiter asked him specifically about the travel question and reminded him providing false information could result in criminal charges.",
+    "\nDuring the interview, the recruiter asked to see Patel's passport to confirm his travel claims.",
+    "\nPatel agreed to bring it by, but two days later he told the State Department he had accidentally thrown it away in October and needed a new one.",
+    "\nAfter Patel's arrest in July, investigators found his passport \"near\" the motel room where he was living, the documents said.",
+    "\n\u00a92018 The Virginian-Pilot (Norfolk, Va.)\nVisit The Virginian-Pilot at pilotonline.com\nDistributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 297,
+      "text": "Virginia man who wanted to join ISIS pleads guilty to lying about overseas trip\n\nNORFOLK, Va. \u2014 While texting with an FBI informant in September 2016, a Williamsburg man expressed admiration for a U.S. Army officer who shot and killed 13 soldiers on Fort Hood, Texas, according to court documents.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 297,
+      "end_ix": 375,
+      "text": "\nLater that year, Shivam Patel, 28, tried to join the U.S. Army and Air Force.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 375,
+      "end_ix": 589,
+      "text": "\nAnd in the application process, he lied to military recruiters about a recent trip he'd taken to Jordan in a failed attempt to make contact with the Islamic State and join a \"real Muslim Army,\" the documents said.",
+      "new_text": "\nAnd in the application process, he lied to military recruiters about a recent trip he'd taken to Jordan in a failed attempt to make contact with the Islamic State and join a \"real Muslim Army,\" the documents said.",
+      "prop_spans": [
+        [
+          380,
+          567,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 589,
+      "end_ix": 684,
+      "text": "\nPatel pleaded guilty Thursday in U.S. District Court to two counts of making false statements.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 684,
+      "end_ix": 741,
+      "text": "\nHe faces up to 15 years in prison when sentenced June 4.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 741,
+      "end_ix": 912,
+      "text": "\nAccording to court documents and prosecutors, Patel \u2013 who was raised Hindu before converting to Islam several years ago \u2013 traveled to China in July 2016 to teach English.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 912,
+      "end_ix": 992,
+      "text": "\nWhile there, however, he grew displeased with how that country treated Muslims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 992,
+      "end_ix": 1168,
+      "text": "\nHis employer arranged for Patel to fly back to Virginia on Aug. 23, 2016, but instead Patel chose to travel to Jordan, a statement of facts filed with his plea agreement said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1168,
+      "end_ix": 1221,
+      "text": "\nJordanian officials arrested Patel a few days later.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1221,
+      "end_ix": 1345,
+      "text": "\nIt's unclear why, but court documents say Patel told taxi drivers and others in Jordan that he supported the Islamic State.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1345,
+      "end_ix": 1456,
+      "text": "\nA search of Patel's computer also showed he researched how to join the Islamic State before he left for China.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1456,
+      "end_ix": 1507,
+      "text": "\nJordanian officials moved for Patel's deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1507,
+      "end_ix": 1595,
+      "text": "\nOn Sept. 2, 2016, he boarded a flight to Chicago, and the next day, he flew to Detroit.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1595,
+      "end_ix": 1668,
+      "text": "\nThere, he met an FBI source and started talking about the Islamic State.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1668,
+      "end_ix": 1848,
+      "text": "\nHe explained he went to Jordan in part to find like-minded Muslims, and because he wanted to do something \u201cbigger, better, and more purposeful\u201d \u2013 like dying in the cause of Allah.",
+      "new_text": "\nHe explained he went to Jordan in part to find like-minded Muslims, and because he wanted to do something \u201cbigger, better, and more purposeful\u201d.",
+      "prop_spans": [
+        [
+          1749,
+          1847,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1848,
+      "end_ix": 1903,
+      "text": "\nBut, he said, he was afraid of making his parents sad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1903,
+      "end_ix": 2019,
+      "text": "\nIn the course of their conversations, Patel discussed his desire to see a holy war between Muslims and non-Muslims.",
+      "new_text": "\nIn the course of their conversations, Patel discussed his desire to see a holy war between Muslims and non-Muslims.",
+      "prop_spans": [
+        [
+          1976,
+          2018,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1976,
+          2018,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2019,
+      "end_ix": 2111,
+      "text": "\nHe also sang an Islamic State fight song and recalled making a replica of the group\u2019s flag.",
+      "new_text": "\nHe also sang an Islamic State fight song and recalled making a replica of the group\u2019s flag.",
+      "prop_spans": [
+        [
+          2020,
+          2111,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2111,
+      "end_ix": 2178,
+      "text": "\nHe said he wanted to replace his neighbor\u2019s American flag with it.",
+      "new_text": "\nHe said he wanted to replace his neighbor\u2019s American flag with it.",
+      "prop_spans": [
+        [
+          2111,
+          2177,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2178,
+      "end_ix": 2227,
+      "text": "\nPatel returned to Williamsburg on Sept. 6, 2016.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2227,
+      "end_ix": 2462,
+      "text": "\nShortly thereafter, he moved into a motel his parents owned and started applying for jobs with the military, as well as some paramilitary organizations \u2013 like police and fire departments, correctional facilities and probation offices.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2462,
+      "end_ix": 2529,
+      "text": "\nWhile back in Virginia, Patel stayed in touch with the FBI source.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2529,
+      "end_ix": 2672,
+      "text": "\nHe texted the source on Sept. 23, 2016, and expressed support for Maj. Nidal Hasan, who killed 13 soldiers in 2009 while serving at Fort Hood.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2672,
+      "end_ix": 2794,
+      "text": "\nIn the process, however, he misidentified Hasan as Nidal Hussein and said the shooting happened at Fort Knox in Kentucky.",
+      "new_text": "\nIn the process, however, he misidentified Hasan as Nidal Hussein and said the shooting happened at Fort Knox in Kentucky.",
+      "prop_spans": [
+        [
+          2673,
+          2794,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2794,
+      "end_ix": 2887,
+      "text": "\nHe also said Hasan had died a martyr, though in fact he remains alive on military death row.",
+      "new_text": "\nHe also said Hasan had died a martyr, though in fact he remains alive on military death row.",
+      "prop_spans": [
+        [
+          2794,
+          2886,
+          "Doubt"
+        ],
+        [
+          2823,
+          2831,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2887,
+      "end_ix": 2992,
+      "text": "\nCourt documents show Patel began saying in late 2016 that he did not actually support the Islamic State.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2992,
+      "end_ix": 3081,
+      "text": "\nSimply expressing support for a terrorist organization or attack is not against the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3081,
+      "end_ix": 3224,
+      "text": "\nPatel's crime was failing to disclose his trips to Jordan when he was trying to join the Army and Air Force in December 2016 and January 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3224,
+      "end_ix": 3390,
+      "text": "\nCourt documents say Patel lied about his travel history, saying his only time out of the country in the past seven years was a family trip to India in 2011 and 2012.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3390,
+      "end_ix": 3572,
+      "text": "\nBefore Patel signed the Army application, a recruiter asked him specifically about the travel question and reminded him providing false information could result in criminal charges.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3572,
+      "end_ix": 3668,
+      "text": "\nDuring the interview, the recruiter asked to see Patel's passport to confirm his travel claims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3668,
+      "end_ix": 3813,
+      "text": "\nPatel agreed to bring it by, but two days later he told the State Department he had accidentally thrown it away in October and needed a new one.",
+      "new_text": "\nPatel agreed to bring it by, but two days later he told the State Department he had accidentally thrown it away in October and needed a new one.",
+      "prop_spans": [
+        [
+          3669,
+          3812,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3813,
+      "end_ix": 3939,
+      "text": "\nAfter Patel's arrest in July, investigators found his passport \"near\" the motel room where he was living, the documents said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3939,
+      "end_ix": 4069,
+      "text": "\n\u00a92018 The Virginian-Pilot (Norfolk, Va.)\nVisit The Virginian-Pilot at pilotonline.com\nDistributed by Tribune Content Agency, LLC.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      380,
+      567,
+      "Doubt"
+    ],
+    [
+      1749,
+      1847,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1976,
+      2018,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1976,
+      2018,
+      "Loaded_Language"
+    ],
+    [
+      2020,
+      2177,
+      "Flag-Waving"
+    ],
+    [
+      2673,
+      2886,
+      "Doubt"
+    ],
+    [
+      2823,
+      2831,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3669,
+      3812,
+      "Doubt"
+    ]
+  ]
+}

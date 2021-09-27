@@ -1,0 +1,351 @@
+{
+  "article_id": "999001293",
+  "sentence offsets in original": [
+    0,
+    194,
+    428,
+    536,
+    625,
+    676,
+    727,
+    765,
+    816,
+    823,
+    855,
+    940,
+    1022,
+    1050,
+    1113,
+    1128,
+    1201,
+    1507,
+    1638,
+    1889,
+    1919,
+    2178,
+    2451,
+    2502,
+    2800,
+    2993
+  ],
+  "original sentences": [
+    "Top Florida County Election Official Illegally Let People Vote Over Fax & Email\n\nThis happened in \u201cheavily Republican Bay County,\u201d and Democrat gubernatorial candidate Andrew Gillum is outraged.",
+    "\nMeanwhile, Democrat election officials are marking ballots themselves and \u201cfinding\u201d boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, \u201cEvery vote must be counted.\u201d\nThis is a disgrace.",
+    "\nHave you ever heard of a close election in which a recount and \u201cfound\u201d ballots gave the Republican victory?",
+    "\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nOf course not.",
+    "\nThis massive Democrat voter fraud could be the end of our free republic.",
+    "\n\u201cTop FL County Election Official Illegally Let People Vote Over Fax, Email,\u201d by Randy DeSoto, Western Journal, November 13, 2018 (thanks to Mark):\nThe top election official in heavily Republican Bay County allowed residents displaced by Hurricane Michael to vote by email and fax, contrary to Florida law.",
+    "\nDemocratic gubernatorial candidate Andrew Gillum and others are expressing outrage at the special provision made for these voters.",
+    "\nThe Miami Herald reported that Bay County Supervisor of Elections Mark Andersen said on Monday that 11 ballots were accepted by email and 147 were faxed in, though Florida law only permits those serving in the military overseas to use these methods\u2026.",
+    "\nAccording to the Herald, Gov.",
+    "\nRick Scott issued an executive order on Oct. 18 allowing election supervisors in Bay County and other counties impacted by the storm to extend early voting days and designate more early voting locations, but did not make provision for voting by fax or email.",
+    "\nSpeaking at an African American church in Boynton Beach in Palm Beach County, north of Miami, on Monday night, Gillum expressed outrage that Anderson broke election laws and allowed these approximately 150 Floridians to vote by fax or email, The Associated Press reported.",
+    "\n\u201cThese are the stories that we know,\u201d Gillum said.",
+    "\n\u201cImagine the ones that we don\u2019t.\u201d Meanwhile, Gillum along with Florida Democratic Sen. Bill Nelson continue to call for all the votes to be counted in heavily Democratic Broward and Palm Beach counties, despite election officials in both missing state mandated deadlines in providing vote tallies.",
+    "\nPresident Donald Trump tweeted late last week, \u201cMayor Gillum conceded on Election Day and now Broward County has put him \u2018back in play.\u2019 Bill Nelson conceded Election \u2014 now he\u2019s back in play!?",
+    "\nThis is an embarrassment to our County and to Democracy!\u201d\nArticle posted with permission from Pamela Geller"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 194,
+      "text": "Top Florida County Election Official Illegally Let People Vote Over Fax & Email\n\nThis happened in \u201cheavily Republican Bay County,\u201d and Democrat gubernatorial candidate Andrew Gillum is outraged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 194,
+      "end_ix": 428,
+      "text": "\nMeanwhile, Democrat election officials are marking ballots themselves and \u201cfinding\u201d boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, \u201cEvery vote must be counted.\u201d\nThis is a disgrace.",
+      "new_text": "\nMeanwhile, Democrat election officials are marking ballots themselves and \u201cfinding\u201d boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, \u201cEvery vote must be counted.\"",
+      "prop_spans": [
+        [
+          380,
+          406,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          409,
+          427,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          409,
+          427,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 428,
+      "end_ix": 536,
+      "text": "\nHave you ever heard of a close election in which a recount and \u201cfound\u201d ballots gave the Republican victory?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          429,
+          535,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 536,
+      "end_ix": 625,
+      "text": "\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 625,
+      "end_ix": 676,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 676,
+      "end_ix": 727,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 727,
+      "end_ix": 765,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 765,
+      "end_ix": 816,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 816,
+      "end_ix": 823,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 823,
+      "end_ix": 855,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 855,
+      "end_ix": 940,
+      "text": "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 940,
+      "end_ix": 1022,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1022,
+      "end_ix": 1050,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1050,
+      "end_ix": 1113,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1113,
+      "end_ix": 1128,
+      "text": "\nOf course not.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1128,
+      "end_ix": 1201,
+      "text": "\nThis massive Democrat voter fraud could be the end of our free republic.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1129,
+          1200,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1129,
+          1200,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1201,
+      "end_ix": 1507,
+      "text": "\n\u201cTop FL County Election Official Illegally Let People Vote Over Fax, Email,\u201d by Randy DeSoto, Western Journal, November 13, 2018 (thanks to Mark):\nThe top election official in heavily Republican Bay County allowed residents displaced by Hurricane Michael to vote by email and fax, contrary to Florida law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1507,
+      "end_ix": 1638,
+      "text": "\nDemocratic gubernatorial candidate Andrew Gillum and others are expressing outrage at the special provision made for these voters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1638,
+      "end_ix": 1889,
+      "text": "\nThe Miami Herald reported that Bay County Supervisor of Elections Mark Andersen said on Monday that 11 ballots were accepted by email and 147 were faxed in, though Florida law only permits those serving in the military overseas to use these methods\u2026.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1889,
+      "end_ix": 1919,
+      "text": "\nAccording to the Herald, Gov.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1919,
+      "end_ix": 2178,
+      "text": "\nRick Scott issued an executive order on Oct. 18 allowing election supervisors in Bay County and other counties impacted by the storm to extend early voting days and designate more early voting locations, but did not make provision for voting by fax or email.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2178,
+      "end_ix": 2451,
+      "text": "\nSpeaking at an African American church in Boynton Beach in Palm Beach County, north of Miami, on Monday night, Gillum expressed outrage that Anderson broke election laws and allowed these approximately 150 Floridians to vote by fax or email, The Associated Press reported.",
+      "new_text": "\nSpeaking at an African American church in Boynton Beach in Palm Beach County, north of Miami, on Monday night, Gillum expressed outrage that Anderson broke election laws and allowed these approximately 150 Floridians to vote by fax or email, The Associated Press reported.",
+      "prop_spans": [
+        [
+          2307,
+          2315,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2451,
+      "end_ix": 2502,
+      "text": "\n\u201cThese are the stories that we know,\u201d Gillum said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2502,
+      "end_ix": 2800,
+      "text": "\n\u201cImagine the ones that we don\u2019t.\u201d Meanwhile, Gillum along with Florida Democratic Sen. Bill Nelson continue to call for all the votes to be counted in heavily Democratic Broward and Palm Beach counties, despite election officials in both missing state mandated deadlines in providing vote tallies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2800,
+      "end_ix": 2993,
+      "text": "\nPresident Donald Trump tweeted late last week, \u201cMayor Gillum conceded on Election Day and now Broward County has put him \u2018back in play.\u2019 Bill Nelson conceded Election \u2014 now he\u2019s back in play!?",
+      "new_text": "\nPresident Donald Trump tweeted late last week, \u201cMayor Gillum conceded on Election Day and now Broward County has put him \u2018back in play.\u2019 Bill Nelson conceded Election \u2014 now he\u2019s back in play!?",
+      "prop_spans": [
+        [
+          2849,
+          2991,
+          "Doubt"
+        ],
+        [
+          2923,
+          2935,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2993,
+      "end_ix": 3101,
+      "text": "\nThis is an embarrassment to our County and to Democracy!\u201d\nArticle posted with permission from Pamela Geller",
+      "new_text": "\nThis is an embarrassment to our County and to Democracy!\u201d\nArticle posted with permission from Pamela Geller",
+      "prop_spans": [
+        [
+          2994,
+          3049,
+          "Flag-Waving"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      380,
+      406,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      409,
+      427,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      409,
+      427,
+      "Loaded_Language"
+    ],
+    [
+      429,
+      535,
+      "Doubt"
+    ],
+    [
+      1129,
+      1200,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1129,
+      1200,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2307,
+      2315,
+      "Repetition"
+    ],
+    [
+      2849,
+      2991,
+      "Doubt"
+    ],
+    [
+      2923,
+      2935,
+      "Loaded_Language"
+    ],
+    [
+      2994,
+      3049,
+      "Flag-Waving"
+    ]
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "article_id": "999001296",
+  "sentence offsets in original": [
+    0,
+    118,
+    255,
+    371,
+    465,
+    561,
+    934,
+    1023,
+    1074,
+    1125,
+    1163,
+    1214,
+    1221,
+    1253,
+    1334,
+    1416,
+    1444,
+    1507,
+    1705,
+    1845,
+    2021,
+    2238,
+    2309,
+    2508,
+    2713,
+    2827,
+    2945,
+    3078,
+    3342,
+    3370,
+    3554,
+    3605,
+    3684,
+    3772,
+    3957,
+    4376,
+    4480,
+    4670
+  ],
+  "original sentences": [
+    "Altered Election Documents Tied To Florida Democrats Reviewed By Federal Prosecutors\n\nIt is high time that this begin.",
+    "\nThe Democrats are committing voter fraud on a massive scale, and not only in Florida, but in Arizona, Georgia, California and elsewhere.",
+    "\nIn Arizona, it is already over, and a pro-jihad Marxist Democrat who lost the election will be going to the Senate.",
+    "\nIn Florida, the Democrats are likewise working feverishly to overturn the will of the people.",
+    "\nThey are insane in their lust for power, and will destroy even our democratic system to get it.",
+    "\n\u201cFederal prosecutors reviewing altered election documents tied to Florida Democrats,\u201d by Matt Dixon, Politico, November 14, 2018:\nTALLAHASSEE \u2014 The Florida Department of State last week asked federal prosecutors to investigate dates that were changed on official state election documents, the first voting \u201cirregularities\u201d it has flagged in the wake of the 2018 elections.",
+    "\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThe concerns, which the department says can be tied to the Florida Democratic Party, center around date changes on forms used to fix vote-by-mail ballots sent with incorrect or missing information.",
+    "\nKnown as \u201ccure affidavits,\u201d those documents used to fix mail ballots were due no later than 5 p.m. on Nov. 5 \u2014 the day before the election.",
+    "\nBut affidavits released on Tuesday by the DOS show that documents from four different counties said the ballots could be returned by 5 p.m. on Thursday, which is not accurate.",
+    "\nAudio of a Florida Democratic Party caller leaving a voicemail message asking a Palm Beach County voter to fix their vote by mail ballot after Election Day, which is not allowed, was also sent to POLITICO separately.",
+    "\nIt was not part of the information turned over to federal prosecutors.",
+    "\nAmong the counties in question is Broward, which emerged as the epicenter of controversy as three statewide races and three local legislative races went into recounts following the Nov. 6 elections.",
+    "\nRepublicans have pointed to embattled Broward Elections chief Brenda Snipes\u2019 record of past election gaffes in arguing that the largely Democratic country is tilted against them \u2014 perhaps fraudulently so.",
+    "\nDOS officials have repeatedly told the media that the monitors they sent to Broward County saw no election fraud.",
+    "\nIt wasn\u2019t until Tuesday that the office revealed publicly that it had turned over information to federal prosecutors.",
+    "\nThe information was sent on Nov. 9 by Bradley McVay, DOS\u2019 interim general counsel, who asked that the altered dates be investigated.",
+    "\n\u201cAltering a form in a manner that provides the incorrect date for a voter to cure a defect \u2026 imposes a burden on the voter significant enough to frustrate the voter\u2019s ability to vote,\u201d McVay wrote in a letter that was sent Nov. 9 and released publicly on Tuesday.",
+    "\nThe letter was sent to U.S.",
+    "\nAttorneys Christopher P. Canova of the Northern District of Florida, Maria Chapa Lopez of the Middle District of Florida and Ariana Fajardo Orshan in the Southern District of Florida.",
+    "\nThe records released by DOS, which is part of Gov.",
+    "\nRick Scott\u2019s administration, point the finger at the Florida Democratic Party.",
+    "\nPolitical parties can get daily lists of people who had their mail-in ballots rejected.",
+    "\nPolitical parties \u2014 or anyone else \u2014 can also get the publicly available cure affidavits and send them to voters who had a mail-in ballot rejected to encourage them to fix the ballots.",
+    "\nIn an email chain released as part of the Department of State\u2019s Tuesday document dump, Citrus County Supervisor of Elections Susan Gill last week told DOS officials that a voter who received one of the cure affidavits with the wrong date had also received a call from a number identified as the Tallahassee office of the Florida Democratic Party, an indication the party was reaching out about her vote by mail ballot.",
+    "\n\u201cWhen I called it, it is the Democratic Party of Florida,\u201d she said in a Nov. 8 email to DOS officials.",
+    "\nShe went on to write that she thinks the incorrect date was used because whoever sent the cure affidavit mixed up the deadline for cure affidavits with the deadline for provisional ballots.",
+    "\nBut, she said, \u201ca bigger problem is the fact they actually changed one of the DOE forms.\u201d\u2026"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 118,
+      "text": "Altered Election Documents Tied To Florida Democrats Reviewed By Federal Prosecutors\n\nIt is high time that this begin.",
+      "new_text": "Altered Election Documents Tied To Florida Democrats Reviewed By Federal Prosecutors\n\nIt might be an appropriate time that this begin.",
+      "prop_spans": [
+        [
+          86,
+          102,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 118,
+      "end_ix": 255,
+      "text": "\nThe Democrats are committing voter fraud on a massive scale, and not only in Florida, but in Arizona, Georgia, California and elsewhere.",
+      "new_text": "\nThe Democrats are committing voter fraud, and not only in Florida, but in Arizona, Georgia, California and elsewhere.",
+      "prop_spans": [
+        [
+          160,
+          178,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          165,
+          173,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 255,
+      "end_ix": 371,
+      "text": "\nIn Arizona, it is already over, and a pro-jihad Marxist Democrat who lost the election will be going to the Senate.",
+      "new_text": "\nIn Arizona, it is already over, and a Democrat who lost the election will be going to the Senate.",
+      "prop_spans": [
+        [
+          292,
+          321,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 371,
+      "end_ix": 465,
+      "text": "\nIn Florida, the Democrats are likewise working feverishly to overturn the will of the people.",
+      "new_text": "\nIn Florida, the Democrats are allegedly involved to overturn the will of the people.",
+      "prop_spans": [
+        [
+          384,
+          464,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 465,
+      "end_ix": 561,
+      "text": "\nThey are insane in their lust for power, and will destroy even our democratic system to get it.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          466,
+          560,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          475,
+          482,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 561,
+      "end_ix": 934,
+      "text": "\n\u201cFederal prosecutors reviewing altered election documents tied to Florida Democrats,\u201d by Matt Dixon, Politico, November 14, 2018:\nTALLAHASSEE \u2014 The Florida Department of State last week asked federal prosecutors to investigate dates that were changed on official state election documents, the first voting \u201cirregularities\u201d it has flagged in the wake of the 2018 elections.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 934,
+      "end_ix": 1023,
+      "text": "\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1023,
+      "end_ix": 1074,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1074,
+      "end_ix": 1125,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1125,
+      "end_ix": 1163,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1163,
+      "end_ix": 1214,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1214,
+      "end_ix": 1221,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1221,
+      "end_ix": 1253,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1253,
+      "end_ix": 1334,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1334,
+      "end_ix": 1416,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1416,
+      "end_ix": 1444,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1444,
+      "end_ix": 1507,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1507,
+      "end_ix": 1705,
+      "text": "\nThe concerns, which the department says can be tied to the Florida Democratic Party, center around date changes on forms used to fix vote-by-mail ballots sent with incorrect or missing information.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1705,
+      "end_ix": 1845,
+      "text": "\nKnown as \u201ccure affidavits,\u201d those documents used to fix mail ballots were due no later than 5 p.m. on Nov. 5 \u2014 the day before the election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1845,
+      "end_ix": 2021,
+      "text": "\nBut affidavits released on Tuesday by the DOS show that documents from four different counties said the ballots could be returned by 5 p.m. on Thursday, which is not accurate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2021,
+      "end_ix": 2238,
+      "text": "\nAudio of a Florida Democratic Party caller leaving a voicemail message asking a Palm Beach County voter to fix their vote by mail ballot after Election Day, which is not allowed, was also sent to POLITICO separately.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2238,
+      "end_ix": 2309,
+      "text": "\nIt was not part of the information turned over to federal prosecutors.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2309,
+      "end_ix": 2508,
+      "text": "\nAmong the counties in question is Broward, which emerged as the epicenter of controversy as three statewide races and three local legislative races went into recounts following the Nov. 6 elections.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2508,
+      "end_ix": 2713,
+      "text": "\nRepublicans have pointed to embattled Broward Elections chief Brenda Snipes\u2019 record of past election gaffes in arguing that the largely Democratic country is tilted against them \u2014 perhaps fraudulently so.",
+      "new_text": "\nRepublicans have pointed to Broward Elections chief Brenda Snipes\u2019 record of past election gaffes in arguing that the country is tilted against them.",
+      "prop_spans": [
+        [
+          2509,
+          2712,
+          "Doubt"
+        ],
+        [
+          2537,
+          2584,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2596,
+          2617,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2713,
+      "end_ix": 2827,
+      "text": "\nDOS officials have repeatedly told the media that the monitors they sent to Broward County saw no election fraud.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2827,
+      "end_ix": 2945,
+      "text": "\nIt wasn\u2019t until Tuesday that the office revealed publicly that it had turned over information to federal prosecutors.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2945,
+      "end_ix": 3078,
+      "text": "\nThe information was sent on Nov. 9 by Bradley McVay, DOS\u2019 interim general counsel, who asked that the altered dates be investigated.",
+      "new_text": "\nThe information was sent on Nov. 9 by Bradley McVay, DOS\u2019 interim general counsel, who asked that the altered dates be investigated.",
+      "prop_spans": [
+        [
+          2946,
+          3078,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3078,
+      "end_ix": 3342,
+      "text": "\n\u201cAltering a form in a manner that provides the incorrect date for a voter to cure a defect \u2026 imposes a burden on the voter significant enough to frustrate the voter\u2019s ability to vote,\u201d McVay wrote in a letter that was sent Nov. 9 and released publicly on Tuesday.",
+      "new_text": "\n\u201cAltering a form in a manner that provides the incorrect date for a voter to cure a defect \u2026 imposes a burden on the voter significant enough to frustrate the voter\u2019s ability to vote,\u201d McVay wrote in a letter that was sent Nov. 9 and released publicly on Tuesday.",
+      "prop_spans": [
+        [
+          3078,
+          3341,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3342,
+      "end_ix": 3370,
+      "text": "\nThe letter was sent to U.S.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3370,
+      "end_ix": 3554,
+      "text": "\nAttorneys Christopher P. Canova of the Northern District of Florida, Maria Chapa Lopez of the Middle District of Florida and Ariana Fajardo Orshan in the Southern District of Florida.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3554,
+      "end_ix": 3605,
+      "text": "\nThe records released by DOS, which is part of Gov.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3605,
+      "end_ix": 3684,
+      "text": "\nRick Scott\u2019s administration, point the finger at the Florida Democratic Party.",
+      "new_text": "\nRick Scott\u2019s administration, directed at the Florida Democratic Party.",
+      "prop_spans": [
+        [
+          3635,
+          3652,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3684,
+      "end_ix": 3772,
+      "text": "\nPolitical parties can get daily lists of people who had their mail-in ballots rejected.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3772,
+      "end_ix": 3957,
+      "text": "\nPolitical parties \u2014 or anyone else \u2014 can also get the publicly available cure affidavits and send them to voters who had a mail-in ballot rejected to encourage them to fix the ballots.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3957,
+      "end_ix": 4376,
+      "text": "\nIn an email chain released as part of the Department of State\u2019s Tuesday document dump, Citrus County Supervisor of Elections Susan Gill last week told DOS officials that a voter who received one of the cure affidavits with the wrong date had also received a call from a number identified as the Tallahassee office of the Florida Democratic Party, an indication the party was reaching out about her vote by mail ballot.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4376,
+      "end_ix": 4480,
+      "text": "\n\u201cWhen I called it, it is the Democratic Party of Florida,\u201d she said in a Nov. 8 email to DOS officials.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4480,
+      "end_ix": 4670,
+      "text": "\nShe went on to write that she thinks the incorrect date was used because whoever sent the cure affidavit mixed up the deadline for cure affidavits with the deadline for provisional ballots.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4670,
+      "end_ix": 4761,
+      "text": "\nBut, she said, \u201ca bigger problem is the fact they actually changed one of the DOE forms.\u201d\u2026",
+      "new_text": "\nBut, she said, \u201ca bigger problem is the fact they actually changed one of the DOE forms.\u201d\u2026",
+      "prop_spans": [
+        [
+          4687,
+          4758,
+          "Whataboutism"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      86,
+      102,
+      "Loaded_Language"
+    ],
+    [
+      160,
+      178,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      165,
+      173,
+      "Loaded_Language"
+    ],
+    [
+      292,
+      321,
+      "Name_Calling,Labeling"
+    ],
+    [
+      384,
+      464,
+      "Flag-Waving"
+    ],
+    [
+      466,
+      560,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      475,
+      482,
+      "Loaded_Language"
+    ],
+    [
+      2509,
+      2712,
+      "Doubt"
+    ],
+    [
+      2537,
+      2584,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2596,
+      2617,
+      "Loaded_Language"
+    ],
+    [
+      2946,
+      3341,
+      "Appeal_to_Authority"
+    ],
+    [
+      3635,
+      3652,
+      "Loaded_Language"
+    ],
+    [
+      4687,
+      4758,
+      "Whataboutism"
+    ]
+  ]
+}

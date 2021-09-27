@@ -1,0 +1,208 @@
+{
+  "article_id": "111111134",
+  "sentence offsets in original": [
+    0,
+    320,
+    384,
+    587,
+    666,
+    899,
+    1053,
+    1130,
+    1224,
+    1370,
+    1604,
+    1813,
+    1943,
+    2090,
+    2146,
+    2323,
+    2373
+  ],
+  "original sentences": [
+    "Paul Manafort Secretly Met With Julian Assange Shortly Before Joining Trump's Presidential Campaign: Report\n\nA British newspaper alleges that Paul Manafort secretly met WikiLeaks founder Julian Assange at the Ecuadorean Embassy in London within days or weeks of being brought aboard Donald Trump\u2019s presidential campaign.",
+    "\nLawyers for Assange and Manafort denounced the report as false.",
+    "\n\nIf confirmed, the report Tuesday would suggest a direct connection between the Trump campaign and WikiLeaks, which released tens of thousands of emails stolen by Russian spies during the 2016 election.",
+    "\nThe campaign seized on the emails to undermine Trump\u2019s rival, Hillary Clinton.",
+    "\n\nThe Guardian, which did not identify the sources for its reporting, said that Manafort met with Assange \u201caround March 2016\u201d \u2014 the same month that Russian hackers began their all-out effort to steal emails from the Clinton campaign.",
+    "\n\n\nIn a statement, Manafort called the story \u201ctotally false and deliberately libelous\u201d and said he was considering his legal options against the Guardian.",
+    "\n\u201cI have never met Julian Assange or anyone connected to him,\u201d Manafort said.",
+    "\n\u201cI have never been contacted by anyone connected to WikiLeaks, either directly or indirectly.",
+    "\nI have never reached out to Assange or WikiLeaks on any matter.\u201d\n\nAssange\u2019s Ecuadorean lawyer, Carlos Poveda, said the Guardian report was false.",
+    "\n\nAnd WikiLeaks said on Twitter that it was \u201cwilling to bet the Guardian a million dollars and its editor\u2019s head that Manafort never met Assange.\u201d It later tweeted that Assange had instructed his lawyers to sue the Guardian for libel.",
+    "\n\nThe Guardian cited two unidentified sources as saying Manafort first met Assange at the embassy in 2013, a year after Assange took refuge there to avoid being extradited to Sweden over sex crime allegations.",
+    "\nThe Guardian said Manafort returned there in 2015 and 2016 and said its sources had \u201ctentatively dated\u201d the final visit to March.",
+    "\nThe newspaper added that Manafort\u2019s visit was not entered into the embassy\u2019s log book and cited a source as saying Manafort left after 40 minutes.",
+    "\n\nThere was no detail on what might have been discussed.",
+    "\n\nThe Trump campaign announced Manafort\u2019s hire on March 29, 2016, and he served as the convention manager tasked with lining up delegates for the Republican National Convention.",
+    "\nHe was promoted to campaign chairman in May 2016.",
+    "\n\nAn AP investigation into Russian hacking shows that government-aligned cyberspies began an aggressive effort to penetrate the Clinton campaign\u2019s email accounts on March 10, 2016."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 320,
+      "text": "Paul Manafort Secretly Met With Julian Assange Shortly Before Joining Trump's Presidential Campaign: Report\n\nA British newspaper alleges that Paul Manafort secretly met WikiLeaks founder Julian Assange at the Ecuadorean Embassy in London within days or weeks of being brought aboard Donald Trump\u2019s presidential campaign.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 320,
+      "end_ix": 384,
+      "text": "\nLawyers for Assange and Manafort denounced the report as false.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 384,
+      "end_ix": 587,
+      "text": "\n\nIf confirmed, the report Tuesday would suggest a direct connection between the Trump campaign and WikiLeaks, which released tens of thousands of emails stolen by Russian spies during the 2016 election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 587,
+      "end_ix": 666,
+      "text": "\nThe campaign seized on the emails to undermine Trump\u2019s rival, Hillary Clinton.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 666,
+      "end_ix": 899,
+      "text": "\n\nThe Guardian, which did not identify the sources for its reporting, said that Manafort met with Assange \u201caround March 2016\u201d \u2014 the same month that Russian hackers began their all-out effort to steal emails from the Clinton campaign.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 899,
+      "end_ix": 1053,
+      "text": "\n\n\nIn a statement, Manafort called the story \u201ctotally false and deliberately libelous\u201d and said he was considering his legal options against the Guardian.",
+      "new_text": "\n\n\nIn a statement, Manafort called the story \u201ctotally false and deliberately libelous\u201d and said he was considering his legal options against the Guardian.",
+      "prop_spans": [
+        [
+          945,
+          984,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1053,
+      "end_ix": 1130,
+      "text": "\n\u201cI have never met Julian Assange or anyone connected to him,\u201d Manafort said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1130,
+      "end_ix": 1224,
+      "text": "\n\u201cI have never been contacted by anyone connected to WikiLeaks, either directly or indirectly.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1224,
+      "end_ix": 1370,
+      "text": "\nI have never reached out to Assange or WikiLeaks on any matter.\u201d\n\nAssange\u2019s Ecuadorean lawyer, Carlos Poveda, said the Guardian report was false.",
+      "new_text": "\nI have never reached out to Assange or WikiLeaks on any matter.\u201d\n\nAssange\u2019s Ecuadorean lawyer, Carlos Poveda, said the Guardian report was false.",
+      "prop_spans": [
+        [
+          1225,
+          1238,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1370,
+      "end_ix": 1604,
+      "text": "\n\nAnd WikiLeaks said on Twitter that it was \u201cwilling to bet the Guardian a million dollars and its editor\u2019s head that Manafort never met Assange.\u201d It later tweeted that Assange had instructed his lawyers to sue the Guardian for libel.",
+      "new_text": "\n\nAnd WikiLeaks said on Twitter that it was \u201cwilling to bet the Guardian a million dollars and its editor\u2019s head that Manafort never met Assange.\u201d It later tweeted that Assange had instructed his lawyers to sue the Guardian for libel.",
+      "prop_spans": [
+        [
+          1415,
+          1514,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1604,
+      "end_ix": 1813,
+      "text": "\n\nThe Guardian cited two unidentified sources as saying Manafort first met Assange at the embassy in 2013, a year after Assange took refuge there to avoid being extradited to Sweden over sex crime allegations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1813,
+      "end_ix": 1943,
+      "text": "\nThe Guardian said Manafort returned there in 2015 and 2016 and said its sources had \u201ctentatively dated\u201d the final visit to March.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1943,
+      "end_ix": 2090,
+      "text": "\nThe newspaper added that Manafort\u2019s visit was not entered into the embassy\u2019s log book and cited a source as saying Manafort left after 40 minutes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2090,
+      "end_ix": 2146,
+      "text": "\n\nThere was no detail on what might have been discussed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2146,
+      "end_ix": 2323,
+      "text": "\n\nThe Trump campaign announced Manafort\u2019s hire on March 29, 2016, and he served as the convention manager tasked with lining up delegates for the Republican National Convention.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2323,
+      "end_ix": 2373,
+      "text": "\nHe was promoted to campaign chairman in May 2016.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2373,
+      "end_ix": 2553,
+      "text": "\n\nAn AP investigation into Russian hacking shows that government-aligned cyberspies began an aggressive effort to penetrate the Clinton campaign\u2019s email accounts on March 10, 2016.",
+      "new_text": "\n\nAn AP investigation into Russian hacking shows that government affiliated actors began an aggressive effort to penetrate the Clinton campaign\u2019s email accounts on March 10, 2016.",
+      "prop_spans": [
+        [
+          2427,
+          2457,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      945,
+      984,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1225,
+      1238,
+      "Repetition"
+    ],
+    [
+      1415,
+      1514,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2427,
+      2457,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

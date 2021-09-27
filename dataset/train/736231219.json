@@ -1,0 +1,351 @@
+{
+  "article_id": "736231219",
+  "sentence offsets in original": [
+    0,
+    385,
+    600,
+    806,
+    988,
+    1017,
+    1042,
+    1178,
+    1753
+  ],
+  "original sentences": [
+    "Farrakhan Speech: 'Jews Are My Enemy,' 'White Folks Are Going Down'\n\nWith the leftist media entirely focused on the push to ban AR-15s and repeal the Second Amendment, practically no one noticed Louis Farrakhan's Saviours\u2019 Day 2018 Address in which he told an approving audience that \"powerful Jews are my enemy,\" and \"white folks are going down,\" according to The Washington Examiner.",
+    "\nFarrakhan, of course, is the raging anti-Semite and race-monger who leads the Nation of Islam, the loony, militant, black nationalist organization whose mission is to throw off the yoke of the inferior white devil.",
+    "\nThis is the same Farrakhan with whom then-Sen. Barack Obama took a photo at a 2005 Congressional Black Caucus meeting, a photo that was subsequently suppressed in order to protect Obama's political future.",
+    "\n\u201cJews were responsible for all of this filth and degenerate behavior that Hollywood is putting out, turning men into women and women into men,\u201d Farrakhan said in his keynote speech.",
+    "\n\u201cWhite folks are going down.",
+    "\nAnd Satan is going down.",
+    "\nAnd Farrakhan, by God\u2019s grace, has pulled a cover off of that Satanic Jew, and I\u2019m here to say your time is up, your world is through.\"",
+    "\nAfter Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other \"alt-reich\" leaders because he \u201chas a much larger following and elected officials meet with him openly.\u201d His Twitter thread begins here:\nSomehow the openly racist and anti-Semitic Farrakhan and his hateful organization have managed for decades to avoid being harshly denounced as such by the news media, which instead has spent the last two years attempting to smear Donald Trump as the new Hitler.",
+    "\nFor more on Farrakhan, check out his profile here at Discover the Networks, the Horowitz Freedom Center's resource site of the left."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 385,
+      "text": "Farrakhan Speech: 'Jews Are My Enemy,' 'White Folks Are Going Down'\n\nWith the leftist media entirely focused on the push to ban AR-15s and repeal the Second Amendment, practically no one noticed Louis Farrakhan's Saviours\u2019 Day 2018 Address in which he told an approving audience that \"powerful Jews are my enemy,\" and \"white folks are going down,\" according to The Washington Examiner.",
+      "new_text": "Farrakhan Speech: 'Jews Are My Enemy,' 'White Folks Are Going Down'\n\nWith the media entirely focused on the push to ban AR-15s and repeal the Second Amendment, practically no one noticed Louis Farrakhan's Saviours\u2019 Day 2018 Address in which he told an approving audience that \"powerful Jews are my enemy,\" and \"white folks are going down,\" according to The Washington Examiner.",
+      "prop_spans": [
+        [
+          17,
+          39,
+          "Slogans"
+        ],
+        [
+          40,
+          51,
+          "Name_Calling,Labeling"
+        ],
+        [
+          78,
+          91,
+          "Name_Calling,Labeling"
+        ],
+        [
+          285,
+          313,
+          "Slogans"
+        ],
+        [
+          319,
+          330,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 385,
+      "end_ix": 600,
+      "text": "\nFarrakhan, of course, is the raging anti-Semite and race-monger who leads the Nation of Islam, the loony, militant, black nationalist organization whose mission is to throw off the yoke of the inferior white devil.",
+      "new_text": "\nFarrakhan, who leads the Nation of Islam, whose mission is to throw off the yoke of the whites.",
+      "prop_spans": [
+        [
+          415,
+          449,
+          "Name_Calling,Labeling"
+        ],
+        [
+          485,
+          532,
+          "Name_Calling,Labeling"
+        ],
+        [
+          575,
+          600,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 600,
+      "end_ix": 806,
+      "text": "\nThis is the same Farrakhan with whom then-Sen. Barack Obama took a photo at a 2005 Congressional Black Caucus meeting, a photo that was subsequently suppressed in order to protect Obama's political future.",
+      "new_text": "\nThis is the same Farrakhan with whom then-Sen. Barack Obama took a photo at a 2005 Congressional Black Caucus meeting.",
+      "prop_spans": [
+        [
+          600,
+          600,
+          "Name_Calling,Labeling"
+        ],
+        [
+          720,
+          806,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 806,
+      "end_ix": 988,
+      "text": "\n\u201cJews were responsible for all of this filth and degenerate behavior that Hollywood is putting out, turning men into women and women into men,\u201d Farrakhan said in his keynote speech.",
+      "new_text": "\n\u201cJews were responsible for all of this filth and degenerate behavior that Hollywood is putting out, turning men into women and women into men,\u201d Farrakhan said in his keynote speech.",
+      "prop_spans": [
+        [
+          806,
+          807,
+          "Red_Herring"
+        ],
+        [
+          846,
+          875,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 988,
+      "end_ix": 1017,
+      "text": "\n\u201cWhite folks are going down.",
+      "new_text": "\n\u201cWhite folks are going down.",
+      "prop_spans": [
+        [
+          990,
+          1017,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1017,
+      "end_ix": 1042,
+      "text": "\nAnd Satan is going down.",
+      "new_text": "\nAnd Satan is going down.",
+      "prop_spans": [
+        [
+          1017,
+          1042,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1042,
+      "end_ix": 1178,
+      "text": "\nAnd Farrakhan, by God\u2019s grace, has pulled a cover off of that Satanic Jew, and I\u2019m here to say your time is up, your world is through.\"",
+      "new_text": "\nAnd Farrakhan, by God\u2019s grace, has pulled a cover off of that Satanic Jew, and I\u2019m here to say your time is up, your world is through.\"",
+      "prop_spans": [
+        [
+          1042,
+          1042,
+          "Loaded_Language"
+        ],
+        [
+          1105,
+          1117,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1138,
+          1178,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1138,
+          1178,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1178,
+      "end_ix": 1753,
+      "text": "\nAfter Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other \"alt-reich\" leaders because he \u201chas a much larger following and elected officials meet with him openly.\u201d His Twitter thread begins here:\nSomehow the openly racist and anti-Semitic Farrakhan and his hateful organization have managed for decades to avoid being harshly denounced as such by the news media, which instead has spent the last two years attempting to smear Donald Trump as the new Hitler.",
+      "new_text": "\nAfter Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other \"alt-reich\" leaders because he \u201chas a much larger following and elected officials meet with him openly.\u201d His Twitter thread begins here:\nSomehow the openly racist and anti-Semitic Farrakhan and his hateful organization have managed for decades to avoid being harshly denounced as such by the news media, which instead has spent the last two years attempting to smear Donald Trump as the new Hitler.",
+      "prop_spans": [
+        [
+          1178,
+          1179,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1178,
+          1179,
+          "Loaded_Language"
+        ],
+        [
+          1356,
+          1374,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1383,
+          1459,
+          "Bandwagon"
+        ],
+        [
+          1504,
+          1544,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1553,
+          1573,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1614,
+          1631,
+          "Loaded_Language"
+        ],
+        [
+          1659,
+          1753,
+          "Red_Herring"
+        ],
+        [
+          1713,
+          1753,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1753,
+      "end_ix": 1886,
+      "text": "\nFor more on Farrakhan, check out his profile here at Discover the Networks, the Horowitz Freedom Center's resource site of the left.",
+      "new_text": "\nFor more on Farrakhan, check out his profile here at Discover the Networks, the Horowitz Freedom Center's resource site of the left.",
+      "prop_spans": [
+        [
+          1753,
+          1754,
+          "Red_Herring"
+        ],
+        [
+          1753,
+          1754,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      17,
+      39,
+      "Slogans"
+    ],
+    [
+      40,
+      51,
+      "Name_Calling,Labeling"
+    ],
+    [
+      78,
+      91,
+      "Name_Calling,Labeling"
+    ],
+    [
+      285,
+      313,
+      "Slogans"
+    ],
+    [
+      319,
+      330,
+      "Name_Calling,Labeling"
+    ],
+    [
+      415,
+      449,
+      "Name_Calling,Labeling"
+    ],
+    [
+      485,
+      532,
+      "Name_Calling,Labeling"
+    ],
+    [
+      575,
+      600,
+      "Name_Calling,Labeling"
+    ],
+    [
+      720,
+      807,
+      "Red_Herring"
+    ],
+    [
+      846,
+      875,
+      "Loaded_Language"
+    ],
+    [
+      990,
+      1042,
+      "Loaded_Language"
+    ],
+    [
+      1105,
+      1117,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1138,
+      1179,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1138,
+      1179,
+      "Loaded_Language"
+    ],
+    [
+      1356,
+      1374,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1383,
+      1459,
+      "Bandwagon"
+    ],
+    [
+      1504,
+      1544,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1553,
+      1573,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1614,
+      1631,
+      "Loaded_Language"
+    ],
+    [
+      1659,
+      1754,
+      "Red_Herring"
+    ],
+    [
+      1713,
+      1754,
+      "Reductio_ad_hitlerum"
+    ]
+  ]
+}

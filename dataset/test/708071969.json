@@ -1,0 +1,396 @@
+{
+  "article_id": "708071969",
+  "sentence offsets in original": [
+    0,
+    337,
+    552,
+    718,
+    846,
+    888,
+    943,
+    1188,
+    1356,
+    1512,
+    1678,
+    1903,
+    2066,
+    2203,
+    2285,
+    2454,
+    2589
+  ],
+  "original sentences": [
+    "Shock: Black Death Patients Are ESCAPING The Hospital Over Fear Of Needles As Officials Worry Plague Could Spread\n\nPatients in Madagascar who are currently suffering from the plague have \u201cescaped\u201d multiple hospitals in the area over fears of needles and hospital treatment as a whole, according to a shocking report in The Sun newspaper.",
+    "\nSecurity guards with at least one hospital have been tasked with forcefully keeping black death patients in the hospital as well as following the strict safety procedures set up in an attempt to quell the outbreak.",
+    "\nThe Sun reported:\nOfficials at the hospital say the main reason why patients run away is that they are scared of needles and don\u2019t have much experience of hospitals.",
+    "\nJean Benoit Manhes, the deputy representative of Unicef, told the Irish Times: \u201cSome escaped because they\u2019re afraid of needles.",
+    "\nPeople here are not used to the hospital.",
+    "\n\u201cThe problem of plague is not just a medical response.",
+    "\nYou can have hospitals but if people don\u2019t come it isn\u2019t enough.\u201d Such incidents have prompted fears that the plague could spread even further with each confirmed case requiring 20 people have been in contact with to be treated as a precaution.",
+    "\nMalagasy people have also been told not to carry out their traditional burial tradition of Famidihana which involves digging up their dead relatives every seven years.",
+    "\nIt means \u2018turning the bones\u2019 and sees families cleaning the remains, rewrapping them and reburying them while other family members perform a special dance.",
+    "\nThe African island\u2019s government has told citizens to pause the tradition for fear the plague bacteria is still active in the corpses and can be spread to the living.",
+    "\nNews of infected patients running away from hospitals comes on the heels of reports that it is only a matter of time before the plague becomes resistant to the antibiotics that are currently being used to treat the outbreak.",
+    "\nMac Slavo recently reported for SHTFplan:\nThe newest warning about the outbreak of the airborne pneumonic plague, or black death, in Madagascar has been released.",
+    "\nOfficials warn that it\u2019s inevitable that this bacterial infection that\u2019s infected over 2000 people will become resistant to antibiotics.",
+    "\nThe only way to treat a person who has contracted the plague is with antibiotics.",
+    "\nBut experts now warn that because they are being used so much to treat the infection, antibiotics resistance is inevitable and making this disease much more terrifying.",
+    "\nOnce the bacteria is resistant, the Madagascar healthcare system will be overwhelmed, and the disease will have control of the nation.",
+    "\nAs Slavo noted, should the disease spread to the African mainland, one can assume that it will be all but impossible to control, thus increasing the likelihood of global pandemic."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 337,
+      "text": "Shock: Black Death Patients Are ESCAPING The Hospital Over Fear Of Needles As Officials Worry Plague Could Spread\n\nPatients in Madagascar who are currently suffering from the plague have \u201cescaped\u201d multiple hospitals in the area over fears of needles and hospital treatment as a whole, according to a shocking report in The Sun newspaper.",
+      "new_text": "Patients Are Fleeing The Hospital Over Fear Of Needles As Officials Worry Plague Could Spread\n\nPatients in Madagascar who are currently suffering from the plague have \u201cescaped\u201d multiple hospitals in the area over hospital treatment as a whole, according to a shocking report in The Sun newspaper.",
+      "prop_spans": [
+        [
+          7,
+          18,
+          "Name_Calling,Labeling"
+        ],
+        [
+          32,
+          40,
+          "Loaded_Language"
+        ],
+        [
+          32,
+          40,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          78,
+          113,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          115,
+          215,
+          "Appeal_to_Authority"
+        ],
+        [
+          228,
+          249,
+          "Causal_Oversimplification"
+        ],
+        [
+          300,
+          308,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 337,
+      "end_ix": 552,
+      "text": "\nSecurity guards with at least one hospital have been tasked with forcefully keeping black death patients in the hospital as well as following the strict safety procedures set up in an attempt to quell the outbreak.",
+      "new_text": "\nSecurity guards with at least one hospital have been tasked with forcefully keeping patients in the hospital as well as following the strict safety procedures set up in an attempt to quell the outbreak.",
+      "prop_spans": [
+        [
+          422,
+          433,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 552,
+      "end_ix": 718,
+      "text": "\nThe Sun reported:\nOfficials at the hospital say the main reason why patients run away is that they are scared of needles and don\u2019t have much experience of hospitals.",
+      "new_text": "\nThe Sun reported:\nOfficials at the hospital say the main reason why patients run away is that they are scared and don\u2019t have much experience of hospitals.",
+      "prop_spans": [
+        [
+          647,
+          673,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 718,
+      "end_ix": 846,
+      "text": "\nJean Benoit Manhes, the deputy representative of Unicef, told the Irish Times: \u201cSome escaped because they\u2019re afraid of needles.",
+      "new_text": "\nJean Benoit Manhes, the deputy representative of Unicef, told the Irish Times: \u201cSome escaped because they\u2019re afraid of needles.",
+      "prop_spans": [
+        [
+          804,
+          845,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 846,
+      "end_ix": 888,
+      "text": "\nPeople here are not used to the hospital.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 888,
+      "end_ix": 943,
+      "text": "\n\u201cThe problem of plague is not just a medical response.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 943,
+      "end_ix": 1188,
+      "text": "\nYou can have hospitals but if people don\u2019t come it isn\u2019t enough.\u201d Such incidents have prompted fears that the plague could spread even further with each confirmed case requiring 20 people have been in contact with to be treated as a precaution.",
+      "new_text": "\nYou can have hospitals but if people don\u2019t come it isn\u2019t enough.\u201d Such incidents have prompted fears that the plague could spread further with each confirmed case requiring 20 people have been in contact with to be treated as a precaution.",
+      "prop_spans": [
+        [
+          1054,
+          1111,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1188,
+      "end_ix": 1356,
+      "text": "\nMalagasy people have also been told not to carry out their traditional burial tradition of Famidihana which involves digging up their dead relatives every seven years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1356,
+      "end_ix": 1512,
+      "text": "\nIt means \u2018turning the bones\u2019 and sees families cleaning the remains, rewrapping them and reburying them while other family members perform a special dance.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1512,
+      "end_ix": 1678,
+      "text": "\nThe African island\u2019s government has told citizens to pause the tradition for fear the plague bacteria is still active in the corpses and can be spread to the living.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1678,
+      "end_ix": 1903,
+      "text": "\nNews of infected patients running away from hospitals comes on the heels of reports that it is only a matter of time before the plague becomes resistant to the antibiotics that are currently being used to treat the outbreak.",
+      "new_text": "\nNews of infected patients running away from hospitals comes on the heels of reports that it is only a matter of time before the plague becomes resistant to the antibiotics that are currently being used to treat the outbreak.",
+      "prop_spans": [
+        [
+          1768,
+          1850,
+          "Appeal_to_Authority"
+        ],
+        [
+          1768,
+          1850,
+          "Repetition"
+        ],
+        [
+          1768,
+          1850,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1903,
+      "end_ix": 2066,
+      "text": "\nMac Slavo recently reported for SHTFplan:\nThe newest warning about the outbreak of the airborne pneumonic plague, or black death, in Madagascar has been released.",
+      "new_text": "\nMac Slavo recently reported for SHTFplan:\nThe newest warning about the outbreak of the airborne pneumonic plague, or black death, in Madagascar has been released.",
+      "prop_spans": [
+        [
+          2021,
+          2032,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2066,
+      "end_ix": 2203,
+      "text": "\nOfficials warn that it\u2019s inevitable that this bacterial infection that\u2019s infected over 2000 people will become resistant to antibiotics.",
+      "new_text": "\nOfficials warn that it\u2019s inevitable that this bacterial infection that\u2019s infected over 2000 people might become resistant to antibiotics.",
+      "prop_spans": [
+        [
+          2159,
+          2203,
+          "Appeal_to_Authority"
+        ],
+        [
+          2159,
+          2203,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2203,
+      "end_ix": 2285,
+      "text": "\nThe only way to treat a person who has contracted the plague is with antibiotics.",
+      "new_text": "\nThe only way to treat a person who has contracted the plague is with antibiotics.",
+      "prop_spans": [
+        [
+          2203,
+          2203,
+          "Appeal_to_Authority"
+        ],
+        [
+          2203,
+          2203,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2285,
+      "end_ix": 2454,
+      "text": "\nBut experts now warn that because they are being used so much to treat the infection, antibiotics resistance is inevitable and making this disease much more terrifying.",
+      "new_text": "\nBut experts now warn that because they are being used so much to treat the infection, antibiotics resistance might be inevitable and making this disease much more terrifying.",
+      "prop_spans": [
+        [
+          2372,
+          2409,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          2372,
+          2408,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2454,
+      "end_ix": 2589,
+      "text": "\nOnce the bacteria is resistant, the Madagascar healthcare system will be overwhelmed, and the disease will have control of the nation.",
+      "new_text": "\nOnce the bacteria is resistant, the Madagascar healthcare system will be overwhelmed, and the disease will have control of the nation.",
+      "prop_spans": [
+        [
+          2455,
+          2485,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2589,
+      "end_ix": 2769,
+      "text": "\nAs Slavo noted, should the disease spread to the African mainland, one can assume that it will be all but impossible to control, thus increasing the likelihood of global pandemic.",
+      "new_text": "\nAs Slavo noted, should the disease spread to the African mainland, one can assume that it will be all but impossible to control, thus increasing the likelihood of global pandemic.",
+      "prop_spans": [
+        [
+          2724,
+          2768,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      7,
+      18,
+      "Name_Calling,Labeling"
+    ],
+    [
+      32,
+      40,
+      "Loaded_Language"
+    ],
+    [
+      32,
+      40,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      78,
+      113,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      115,
+      215,
+      "Appeal_to_Authority"
+    ],
+    [
+      228,
+      249,
+      "Causal_Oversimplification"
+    ],
+    [
+      300,
+      308,
+      "Loaded_Language"
+    ],
+    [
+      422,
+      433,
+      "Name_Calling,Labeling"
+    ],
+    [
+      647,
+      673,
+      "Causal_Oversimplification"
+    ],
+    [
+      804,
+      845,
+      "Causal_Oversimplification"
+    ],
+    [
+      1054,
+      1111,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1768,
+      1850,
+      "Appeal_to_Authority"
+    ],
+    [
+      1768,
+      1850,
+      "Repetition"
+    ],
+    [
+      1768,
+      1850,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2021,
+      2032,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2159,
+      2203,
+      "Appeal_to_Authority"
+    ],
+    [
+      2159,
+      2203,
+      "Repetition"
+    ],
+    [
+      2372,
+      2409,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2372,
+      2408,
+      "Repetition"
+    ],
+    [
+      2455,
+      2485,
+      "Repetition"
+    ],
+    [
+      2724,
+      2768,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

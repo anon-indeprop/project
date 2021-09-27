@@ -1,0 +1,206 @@
+{
+  "article_id": "739091070",
+  "sentence offsets in original": [
+    0,
+    46,
+    217,
+    355,
+    460,
+    528,
+    647,
+    820,
+    988,
+    1103,
+    1226,
+    1386,
+    1477,
+    1956,
+    2039
+  ],
+  "original sentences": [
+    "Did Oakland Mayor Tip Off La Raza to ICE Raid?",
+    "\n\nThe story of the Oakland mayor who tipped off illegal alien criminals to ICE raids resulting in rapists and child sex offenders escaping arrest just keeps getting worse.",
+    "\nOakland Mayor Libby Schaaf shocked the nation when she issued a tweet and press release on February 24 warning about impending ICE raids.",
+    "\nSchaaf refuses to say how she learned about the ICE raids, only saying it was not from official sources.",
+    "\n\u201cI felt that it was my duty to share the information,\u201d Schaaf said.",
+    "\nWhatever the leak pipeline looked like, it's good odds that it began with Obama holdovers ensconced in the government.",
+    "\nIn emails we obtained through a public records request, we didn\u2019t find out who her sources were, but we do know who she was talking to before she made her big announcement.",
+    "\nEmails reveal that hours before the announcement, a group called Centro Legal de la Raza sent the mayor information on what employers should do in case of an ICE raid.",
+    "\nHours before the public was warned about ICE raids, some Oakland businesses got a head start, thanks to the mayor.",
+    "\nAccording to emails, the Oakland Indie Alliance, a group of independent businesses, got a message saying \u201cImportant Alert!",
+    "\nCredible information ICE Raids in Oakland Sunday 2/25 and Monday 2/26\u201d and \u201cThis information comes directly from the Mayor.\u201d\nNow that last part is significant.",
+    "\nBecause there is no doubt that businesses employing illegal aliens are committing a crime.",
+    "\nIt is unlawful to hire an alien, to recruit an alien, or to refer an alien for a fee, knowing the alien is unauthorized to work in the United States.. An employer can be convicted of the felony of harboring illegal aliens who are his employees if he takes actions in reckless disregard of their illegal status, such as ordering them to obtain false documents, altering records, obstructing INS inspections, or taking other actions that facilitate the alien\u2019s illegal employment.",
+    "\nAny business that tips off illegal aliens admits that it is aware of their status.",
+    "\nBy passing along the warning, Mayor Schaaf was tipping off criminals committing a felony."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 46,
+      "text": "Did Oakland Mayor Tip Off La Raza to ICE Raid?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 46,
+      "end_ix": 217,
+      "text": "\n\nThe story of the Oakland mayor who tipped off illegal alien criminals to ICE raids resulting in rapists and child sex offenders escaping arrest just keeps getting worse.",
+      "new_text": "\n\nThe story of the Oakland mayor who tipped off illegal alien criminals to ICE raids resulting in rapists and child sex offenders escaping arrest keeps worsening.",
+      "prop_spans": [
+        [
+          192,
+          217,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 217,
+      "end_ix": 355,
+      "text": "\nOakland Mayor Libby Schaaf shocked the nation when she issued a tweet and press release on February 24 warning about impending ICE raids.",
+      "new_text": "\nOakland Mayor Libby Schaaf disturbed the nation when she issued a tweet and press release on February 24 warning about impending ICE raids.",
+      "prop_spans": [
+        [
+          217,
+          217,
+          "Loaded_Language"
+        ],
+        [
+          245,
+          252,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 355,
+      "end_ix": 460,
+      "text": "\nSchaaf refuses to say how she learned about the ICE raids, only saying it was not from official sources.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 460,
+      "end_ix": 528,
+      "text": "\n\u201cI felt that it was my duty to share the information,\u201d Schaaf said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 528,
+      "end_ix": 647,
+      "text": "\nWhatever the leak pipeline looked like, it's good odds that it began with Obama holdovers ensconced in the government.",
+      "new_text": "\nWhatever the leak pipeline looked like, it's possible that it began with Obama holdovers in the government.",
+      "prop_spans": [
+        [
+          569,
+          644,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 647,
+      "end_ix": 820,
+      "text": "\nIn emails we obtained through a public records request, we didn\u2019t find out who her sources were, but we do know who she was talking to before she made her big announcement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 820,
+      "end_ix": 988,
+      "text": "\nEmails reveal that hours before the announcement, a group called Centro Legal de la Raza sent the mayor information on what employers should do in case of an ICE raid.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 988,
+      "end_ix": 1103,
+      "text": "\nHours before the public was warned about ICE raids, some Oakland businesses got a head start, thanks to the mayor.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1103,
+      "end_ix": 1226,
+      "text": "\nAccording to emails, the Oakland Indie Alliance, a group of independent businesses, got a message saying \u201cImportant Alert!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1226,
+      "end_ix": 1386,
+      "text": "\nCredible information ICE Raids in Oakland Sunday 2/25 and Monday 2/26\u201d and \u201cThis information comes directly from the Mayor.\u201d\nNow that last part is significant.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1386,
+      "end_ix": 1477,
+      "text": "\nBecause there is no doubt that businesses employing illegal aliens are committing a crime.",
+      "new_text": "\nBecause probably businesses employing undocumented immigrants are committing a crime.",
+      "prop_spans": [
+        [
+          1395,
+          1476,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1477,
+      "end_ix": 1956,
+      "text": "\nIt is unlawful to hire an alien, to recruit an alien, or to refer an alien for a fee, knowing the alien is unauthorized to work in the United States.. An employer can be convicted of the felony of harboring illegal aliens who are his employees if he takes actions in reckless disregard of their illegal status, such as ordering them to obtain false documents, altering records, obstructing INS inspections, or taking other actions that facilitate the alien\u2019s illegal employment.",
+      "new_text": "\nIt is unlawful to hire an alien, to recruit an alien, or to refer an alien for a fee, knowing the alien is unauthorized to work in the United States.. An employer can be convicted of the felony of harboring illegal aliens who are his employees if he takes actions in disregard of their illegal status, such as ordering them to obtain false documents, altering records, obstructing INS inspections, or taking other actions that facilitate the alien\u2019s illegal employment.",
+      "prop_spans": [
+        [
+          1745,
+          1763,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1956,
+      "end_ix": 2039,
+      "text": "\nAny business that tips off illegal aliens admits that it is aware of their status.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2039,
+      "end_ix": 2129,
+      "text": "\nBy passing along the warning, Mayor Schaaf was tipping off criminals committing a felony.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      192,
+      217,
+      "Loaded_Language"
+    ],
+    [
+      245,
+      252,
+      "Loaded_Language"
+    ],
+    [
+      569,
+      644,
+      "Appeal_to_Authority"
+    ],
+    [
+      1395,
+      1476,
+      "Loaded_Language"
+    ],
+    [
+      1745,
+      1763,
+      "Loaded_Language"
+    ]
+  ]
+}

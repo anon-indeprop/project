@@ -1,0 +1,112 @@
+{
+  "article_id": "701933838",
+  "sentence offsets in original": [
+    0,
+    247,
+    426,
+    617,
+    734,
+    812,
+    862,
+    960,
+    1154,
+    1218
+  ],
+  "original sentences": [
+    "ICE removes Guatemalan national wanted for murder\n\nNEW YORK \u2014 U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) removed a Guatemalan citizen Wednesday who was wanted in his home country on charges of homicide.",
+    "\nRigoberto Gonzalez-Aragon, 66, was returned to Guatemala City, via an ICE Air Operations charter flight, and transferred to the custody of Guatemalan law enforcement authorities.",
+    "\nOn March 9, ERO New York received a lead from the ICE Assistant Attach\u00e9 for Removals in Guatemala that Gonzalez-Aragon was wanted for homicide and residing in the New York metropolitan area.",
+    "\nOn June 8, ERO deportation officers arrested Gonzalez-Aragon in Spring Valley, New York, for immigration violations.",
+    "\nHe had previously entered the country unlawfully at an unknown date and time.",
+    "\nHe had been in ICE custody since his June arrest.",
+    "\nIn September, he was ordered removed by an immigration judge, paving the way for his deportation.",
+    "\nSince Oct. 1, 2009, ERO has removed more than 1,700 foreign fugitives from the United States who were sought in their native countries for serious crimes, including kidnapping, rape and murder.",
+    "\nIn fiscal year 2016, ICE conducted 240,255 removals nationwide.",
+    "\nNinety-two percent of individuals removed from the interior of the United States had previously been convicted of a criminal offense."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 247,
+      "text": "ICE removes Guatemalan national wanted for murder\n\nNEW YORK \u2014 U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) removed a Guatemalan citizen Wednesday who was wanted in his home country on charges of homicide.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 247,
+      "end_ix": 426,
+      "text": "\nRigoberto Gonzalez-Aragon, 66, was returned to Guatemala City, via an ICE Air Operations charter flight, and transferred to the custody of Guatemalan law enforcement authorities.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 426,
+      "end_ix": 617,
+      "text": "\nOn March 9, ERO New York received a lead from the ICE Assistant Attach\u00e9 for Removals in Guatemala that Gonzalez-Aragon was wanted for homicide and residing in the New York metropolitan area.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 617,
+      "end_ix": 734,
+      "text": "\nOn June 8, ERO deportation officers arrested Gonzalez-Aragon in Spring Valley, New York, for immigration violations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 734,
+      "end_ix": 812,
+      "text": "\nHe had previously entered the country unlawfully at an unknown date and time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 812,
+      "end_ix": 862,
+      "text": "\nHe had been in ICE custody since his June arrest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 862,
+      "end_ix": 960,
+      "text": "\nIn September, he was ordered removed by an immigration judge, paving the way for his deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 960,
+      "end_ix": 1154,
+      "text": "\nSince Oct. 1, 2009, ERO has removed more than 1,700 foreign fugitives from the United States who were sought in their native countries for serious crimes, including kidnapping, rape and murder.",
+      "new_text": "\nSince Oct. 1, 2009, ERO has removed more than 1,700 foreign fugitives from the United States who were sought in their native countries for serious crimes, including kidnapping, rape and murder.",
+      "prop_spans": [
+        [
+          981,
+          1153,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1154,
+      "end_ix": 1218,
+      "text": "\nIn fiscal year 2016, ICE conducted 240,255 removals nationwide.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1218,
+      "end_ix": 1352,
+      "text": "\nNinety-two percent of individuals removed from the interior of the United States had previously been convicted of a criminal offense.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      981,
+      1153,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

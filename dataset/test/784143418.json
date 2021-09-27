@@ -1,0 +1,395 @@
+{
+  "article_id": "784143418",
+  "sentence offsets in original": [
+    0,
+    150,
+    187,
+    379,
+    625,
+    725,
+    787,
+    849,
+    1000,
+    1082,
+    1110,
+    1173,
+    1485,
+    1710,
+    1790,
+    1803,
+    2134,
+    2406,
+    2735,
+    2981,
+    3293,
+    3597,
+    3994,
+    4074,
+    4259,
+    4318
+  ],
+  "original sentences": [
+    "FBI: Muslim Teen From NM Islamic Compound Trained For Jihad: \"Raise An Army\" \"Killing Non-Believers On Behalf Of Allah\"\n\nIt was a jihad training camp.",
+    "\nRaising an army for jihad slaughter.",
+    "\nAnd their defense is \u201cfreedom of religion,\u201d calling this prosecution \u201cislamophobia.\u201d\nThe enemedia is scrubbing and censoring this story \u2013 but it is just as we have warned/predicted for years.",
+    "\nIn an affidavit filed in support of a criminal complaint, an FBI special agent wrote that Leveille\u2019s 13-year-old son told investigators that his mother\u2019s boyfriend, Siraj Ibn Wahhaj, 40, wanted to \u201cget an army together\u201d and train them for jihad.",
+    "\ntake our poll - story continues below Who should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThe boy told agents that Ibn Wahhaj trained him and another of Leveille\u2019s teenage sons in firearms and military techniques, including rapid reloads and hand-to-hand combat, and told them jihad meant killing non-believers on behalf of Allah, according to the affidavit filed in U.S. District Court in New Mexico.",
+    "\n[\u2026] Defense lawyers have said that the five adults were exercising their constitutional rights to practice their religion and own firearms, and that the group is being discriminated against because they are black and Muslim.",
+    "\nThe defense attorneys could not immediately be reached for comment on Saturday.",
+    "\nThere it is.",
+    "\nTEEN FROM NEW MEXICO COMPOUND SAYS HE WAS TRAINED FOR JIHAD: FBI TAOS, N.M. (REUTERS) \u2013 A 13-YEAR-OLD BOY WHO WAS PART OF GROUP TAKEN INTO CUSTODY AT A SQUALID NEW MEXICO COMPOUND LAST MONTH HAS TOLD FBI AGENTS HIS MOTHER\u2019S BOYFRIEND WAS TRAINING HIM TO CONDUCT \u201cJIHAD\u201d AGAINST NON-BELIEVERS, ACCORDING TO FEDERAL COURT DOCUMENTS.",
+    "\nBy Andrew Hay, Reuters, September 2, 2018: The boy was among 11 children and five adults living at the compound in Taos County when it was raided on Aug. 3 by local sheriff\u2019s deputies who discovered a cache of firearms and the children living without food or clean water.",
+    "\nThe dead body of a three-year-old boy was found buried at the site later They initially faced state charges, then on Friday, the five adults including a Haitian woman described as the group\u2019s leader, 35-year-old Jany Leveille, were arrested by the Federal Bureau of Investigation and accused of conspiracy and firearms offenses.",
+    "\nIn an affidavit filed in support of a criminal complaint, an FBI special agent wrote that Leveille\u2019s 13-year-old son told investigators that his mother\u2019s boyfriend, Siraj Ibn Wahhaj, 40, wanted to \u201cget an army together\u201d and train them for jihad.",
+    "\nThe boy told agents that Ibn Wahhaj trained him and another of Leveille\u2019s teenage sons in firearms and military techniques, including rapid reloads and hand-to-hand combat, and told them jihad meant killing non-believers on behalf of Allah, according to the affidavit filed in U.S. District Court in New Mexico.",
+    "\nThe 13-year-old also told the FBI that his mother believed she received messages from God, and that he watched her and Ibn Wahhaj perform supposed \u201cexorcism\u201d rituals over the three-year-old boy, including one during which the boy choked and his heart stopped, according to the special agent\u2019s affidavit.",
+    "\nThe teenager said his mother and others at the compound told him not to talk to anyone about the three-year-old ever being at the compound because they would \u201call go to jail.\u201d Defense lawyers have said that the five adults were exercising their constitutional rights to practice their religion and own firearms, and that the group is being discriminated against because they are black and Muslim.",
+    "\nThe defense attorneys could not immediately be reached for comment on Saturday.",
+    "\nThe five defendants came under FBI surveillance in May after Leveille wrote a letter to Ibn Wahhaj\u2019s brother asking him to join them and become a \u201cmartyr,\u201d state prosecutors have said.",
+    "\nThey are due to appear in court in Albuquerque on Tuesday.",
+    "\nArticle posted with permission from Pamela Geller"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 150,
+      "text": "FBI: Muslim Teen From NM Islamic Compound Trained For Jihad: \"Raise An Army\" \"Killing Non-Believers On Behalf Of Allah\"\n\nIt was a jihad training camp.",
+      "new_text": "FBI: Muslim Teen From NM Islamic Compound Trained For Jihad: \"Raise An Army\" \"Killing Non-Believers On Behalf Of Allah\"\n\nIt was a training camp.",
+      "prop_spans": [
+        [
+          62,
+          118,
+          "Loaded_Language"
+        ],
+        [
+          128,
+          149,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 150,
+      "end_ix": 187,
+      "text": "\nRaising an army for jihad slaughter.",
+      "new_text": "\nRaising an army for jihad massacre.",
+      "prop_spans": [
+        [
+          151,
+          186,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 187,
+      "end_ix": 379,
+      "text": "\nAnd their defense is \u201cfreedom of religion,\u201d calling this prosecution \u201cislamophobia.\u201d\nThe enemedia is scrubbing and censoring this story \u2013 but it is just as we have warned/predicted for years.",
+      "new_text": "\nAnd their defense is \u201cfreedom of religion,\u201d calling this prosecution \u201cislamophobia.\u201d\nThe enemedia is censoring this story \u2013 but it is just as we have warned/predicted for years.",
+      "prop_spans": [
+        [
+          286,
+          324,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 379,
+      "end_ix": 625,
+      "text": "\nIn an affidavit filed in support of a criminal complaint, an FBI special agent wrote that Leveille\u2019s 13-year-old son told investigators that his mother\u2019s boyfriend, Siraj Ibn Wahhaj, 40, wanted to \u201cget an army together\u201d and train them for jihad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 625,
+      "end_ix": 725,
+      "text": "\ntake our poll - story continues below Who should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 725,
+      "end_ix": 787,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 787,
+      "end_ix": 849,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 849,
+      "end_ix": 1000,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1000,
+      "end_ix": 1082,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1082,
+      "end_ix": 1110,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1110,
+      "end_ix": 1173,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1173,
+      "end_ix": 1485,
+      "text": "\nThe boy told agents that Ibn Wahhaj trained him and another of Leveille\u2019s teenage sons in firearms and military techniques, including rapid reloads and hand-to-hand combat, and told them jihad meant killing non-believers on behalf of Allah, according to the affidavit filed in U.S. District Court in New Mexico.",
+      "new_text": "\nThe boy told agents that Ibn Wahhaj trained him and another of Leveille\u2019s teenage sons in firearms and military techniques, including rapid reloads and hand-to-hand combat, and told them jihad meant killing non-believers on behalf of Allah, according to the affidavit filed in U.S. District Court in New Mexico.",
+      "prop_spans": [
+        [
+          1361,
+          1413,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1485,
+      "end_ix": 1710,
+      "text": "\n[\u2026] Defense lawyers have said that the five adults were exercising their constitutional rights to practice their religion and own firearms, and that the group is being discriminated against because they are black and Muslim.",
+      "new_text": "\n[\u2026] Defense lawyers have said that the five adults were exercising their constitutional rights to practice their religion and own firearms, and that the group is being discriminated against because they are of a different race and religion.",
+      "prop_spans": [
+        [
+          1693,
+          1709,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1710,
+      "end_ix": 1790,
+      "text": "\nThe defense attorneys could not immediately be reached for comment on Saturday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1790,
+      "end_ix": 1803,
+      "text": "\nThere it is.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1803,
+      "end_ix": 2134,
+      "text": "\nTEEN FROM NEW MEXICO COMPOUND SAYS HE WAS TRAINED FOR JIHAD: FBI TAOS, N.M. (REUTERS) \u2013 A 13-YEAR-OLD BOY WHO WAS PART OF GROUP TAKEN INTO CUSTODY AT A SQUALID NEW MEXICO COMPOUND LAST MONTH HAS TOLD FBI AGENTS HIS MOTHER\u2019S BOYFRIEND WAS TRAINING HIM TO CONDUCT \u201cJIHAD\u201d AGAINST NON-BELIEVERS, ACCORDING TO FEDERAL COURT DOCUMENTS.",
+      "new_text": "\nTEEN FROM NEW MEXICO COMPOUND SAYS HE WAS TRAINED FOR JIHAD: FBI TAOS, N.M. (REUTERS) \u2013 A 13-YEAR-OLD BOY WHO WAS PART OF GROUP TAKEN INTO CUSTODY AT A SQUALID NEW MEXICO COMPOUND LAST MONTH HAS TOLD FBI AGENTS HIS MOTHER\u2019S BOYFRIEND WAS TRAINING HIM TO CONDUCT JIHAD AGAINST NON-BELIEVERS, ACCORDING TO FEDERAL COURT DOCUMENTS.",
+      "prop_spans": [
+        [
+          2038,
+          2095,
+          "Loaded_Language"
+        ],
+        [
+          2067,
+          2072,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2134,
+      "end_ix": 2406,
+      "text": "\nBy Andrew Hay, Reuters, September 2, 2018: The boy was among 11 children and five adults living at the compound in Taos County when it was raided on Aug. 3 by local sheriff\u2019s deputies who discovered a cache of firearms and the children living without food or clean water.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2406,
+      "end_ix": 2735,
+      "text": "\nThe dead body of a three-year-old boy was found buried at the site later They initially faced state charges, then on Friday, the five adults including a Haitian woman described as the group\u2019s leader, 35-year-old Jany Leveille, were arrested by the Federal Bureau of Investigation and accused of conspiracy and firearms offenses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2735,
+      "end_ix": 2981,
+      "text": "\nIn an affidavit filed in support of a criminal complaint, an FBI special agent wrote that Leveille\u2019s 13-year-old son told investigators that his mother\u2019s boyfriend, Siraj Ibn Wahhaj, 40, wanted to \u201cget an army together\u201d and train them for jihad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2981,
+      "end_ix": 3293,
+      "text": "\nThe boy told agents that Ibn Wahhaj trained him and another of Leveille\u2019s teenage sons in firearms and military techniques, including rapid reloads and hand-to-hand combat, and told them jihad meant killing non-believers on behalf of Allah, according to the affidavit filed in U.S. District Court in New Mexico.",
+      "new_text": "\nThe boy told agents that Ibn Wahhaj trained him and another of Leveille\u2019s teenage sons in firearms and military techniques, including rapid reloads and hand-to-hand combat, according to the affidavit filed in U.S. District Court in New Mexico.",
+      "prop_spans": [
+        [
+          3169,
+          3221,
+          "Loaded_Language"
+        ],
+        [
+          3181,
+          3221,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3293,
+      "end_ix": 3597,
+      "text": "\nThe 13-year-old also told the FBI that his mother believed she received messages from God, and that he watched her and Ibn Wahhaj perform supposed \u201cexorcism\u201d rituals over the three-year-old boy, including one during which the boy choked and his heart stopped, according to the special agent\u2019s affidavit.",
+      "new_text": "\nThe 13-year-old also told the FBI that his mother believed she received messages from God, and that he watched her and Ibn Wahhaj perform supposed \u201cexorcism\u201d rituals over the three-year-old boy, including one during which the boy choked and his heart stopped, according to the special agent\u2019s affidavit.",
+      "prop_spans": [
+        [
+          3442,
+          3460,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3597,
+      "end_ix": 3994,
+      "text": "\nThe teenager said his mother and others at the compound told him not to talk to anyone about the three-year-old ever being at the compound because they would \u201call go to jail.\u201d Defense lawyers have said that the five adults were exercising their constitutional rights to practice their religion and own firearms, and that the group is being discriminated against because they are black and Muslim.",
+      "new_text": "\nThe teenager said his mother and others at the compound told him not to talk about the three-year-old being at the compound because they would \u201call go to jail.\u201d Defense lawyers have said that the five adults were exercising their constitutional rights to practice their religion and own firearms, and that the group is being discriminated against because they are of a different race and religion.",
+      "prop_spans": [
+        [
+          3598,
+          3771,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3977,
+          3993,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3994,
+      "end_ix": 4074,
+      "text": "\nThe defense attorneys could not immediately be reached for comment on Saturday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4074,
+      "end_ix": 4259,
+      "text": "\nThe five defendants came under FBI surveillance in May after Leveille wrote a letter to Ibn Wahhaj\u2019s brother asking him to join them and become a \u201cmartyr,\u201d state prosecutors have said.",
+      "new_text": "\nThe five defendants came under FBI surveillance in May after Leveille wrote a letter to Ibn Wahhaj\u2019s brother asking him to join them and become a martyr, state prosecutors have said.",
+      "prop_spans": [
+        [
+          4219,
+          4228,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4259,
+      "end_ix": 4318,
+      "text": "\nThey are due to appear in court in Albuquerque on Tuesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4318,
+      "end_ix": 4368,
+      "text": "\nArticle posted with permission from Pamela Geller",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      62,
+      118,
+      "Loaded_Language"
+    ],
+    [
+      128,
+      149,
+      "Name_Calling,Labeling"
+    ],
+    [
+      151,
+      186,
+      "Loaded_Language"
+    ],
+    [
+      286,
+      324,
+      "Loaded_Language"
+    ],
+    [
+      1361,
+      1413,
+      "Loaded_Language"
+    ],
+    [
+      1693,
+      1709,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2038,
+      2095,
+      "Loaded_Language"
+    ],
+    [
+      2067,
+      2072,
+      "Repetition"
+    ],
+    [
+      3169,
+      3221,
+      "Loaded_Language"
+    ],
+    [
+      3181,
+      3221,
+      "Repetition"
+    ],
+    [
+      3442,
+      3460,
+      "Loaded_Language"
+    ],
+    [
+      3598,
+      3771,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3977,
+      3993,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4219,
+      4228,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

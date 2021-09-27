@@ -1,0 +1,534 @@
+{
+  "article_id": "778358096",
+  "sentence offsets in original": [
+    0,
+    325,
+    373,
+    467,
+    595,
+    741,
+    835,
+    891,
+    947,
+    976,
+    1006,
+    1088,
+    1170,
+    1198,
+    1261,
+    1479,
+    1529,
+    1613,
+    1723,
+    1943,
+    2099,
+    2133,
+    2161,
+    2210,
+    2367,
+    2538,
+    2692,
+    2811,
+    2879,
+    2917,
+    3047,
+    3230,
+    3343,
+    3526,
+    3642,
+    3895,
+    3975,
+    4139,
+    4229,
+    4349
+  ],
+  "original sentences": [
+    "Grandfather & NY Imam Confirms Remains At New Mexico Compound Were Missing Boy\n\nA New York mosque imam claims that after speaking with family members, the remains found earlier this week a New Mexico compound where children were being held by Muslims and trained to engage in mass school shootings, are those of his grandson.",
+    "\nAbdul-ghani Wahhaj, would have turned 4 Monday.",
+    "\nAccording to prosecutors, he was kidnapped from his mother in December in Jonesboro, Georgia.",
+    "\nRemains found at the New Mexico compound this week were believed to be the boy's since his father was arrested at the compound.",
+    "\nWhile New Mexico authorities have said they had yet to identify the remains, Siraj Wahhaj, the boy's grandfather claims they are those of Wahhaj.",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nFox News reports:\nThe missing boy's grandfather, Siraj Wahhaj, a Muslim cleric who leads a well-known New York City mosque, told reporters he had learned from other family members that the remains were his grandson's.",
+    "\nThe imam said he did not know the cause of death.",
+    "\n\"Whoever is responsible, then that person should be held accountable,\" Wahhaj said.",
+    "\nA Georgia arrest warrant accused the boy's father, Siraj Ibn Wahhaj, the imam's son, of kidnapping the child.",
+    "\nAuthorities said the father at some point told his wife he wanted to perform an exorcism on the boy, who cannot walk, suffers seizures and requires constant attention because of a lack of oxygen and blood flow at birth.",
+    "\nThe imam said he was unaware of the training of the children for school shootings, but his mosque has been known to attract Islamic jihadis over the years.",
+    "\n\"It sounds to me it sounds crazy.",
+    "\nBut I don't know,\" he said.",
+    "\n\"I make no judgments yet because we don't know.\"",
+    "\nAgain Fox adds, \"The imam's mosque has attracted a number of radicals over the years, including a man who later helped bomb the World Trade Center in 1993.\"",
+    "\nMosque spokesman Ali Abdul-Karim Judan claims that the narrative is being changed because Muslims are involved and that this was nothing more than a \"domestic situation.\"",
+    "\n\"None of the charges had anything to do with anybody teaching anybody shooting to commit acts of terrorism or to go in and shoot up any school,\" he said.",
+    "\n\"Because it's a Muslim and the circumstances that are surrounding their situation, they want to change the narrative.\"",
+    "\nEleven children were found in terrible conditions in that compound.",
+    "\nThat's hardly a \"domestic situation.\"",
+    "\nFurthermore, as I reported on Wednesday, both the Associated Press and the Atlanta Constitution-Journal reported on the training.",
+    "\nThe documents claim Siraj Ibn Wahhaj and his co-defendants conducted weapons training at the camp where they were found Friday with 11 children in allegedly \u201cthird world\u201d conditions.",
+    "\nWahhaj is also wanted in Clayton County in a child abduction case involving his missing son, Abdul-Ghani Wahhaj.",
+    "\nThe documents, which suggest all the adults were involved in the training, say a person serving as a foster parent caring for one of the kids revealed the details about the training.",
+    "\nBREAKING: Court documents say man arrested at New Mexico compound was training children to commit school shootings.",
+    "\n\u2014 The Associated Press (@AP) August 8, 2018\nPeople can continue to put their heads in the sand all they want to because they know \"nice\" Muslim people, but the fact of the matter is that the history of Islam is anything but nice, polite, just or holy .",
+    "\nIt is a totalitarian, religious/political construct that is full of oppression.",
+    "\nWhen you have those that actually believe the Koran and follow in the footsteps of the desert nomad Muhammad , then you will not find radicals, but devout Muslims.",
+    "\nThis appears to be exactly what Siraj Ibn Wahhaj and others arrested at the compound are.",
+    "\nIn either case, it is very sad that a little boy lost his life, possibly at the hands of his Islamic father and others.",
+    "\nJustice should be served swift, and I don't mean a lengthy jail term."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 325,
+      "text": "Grandfather & NY Imam Confirms Remains At New Mexico Compound Were Missing Boy\n\nA New York mosque imam claims that after speaking with family members, the remains found earlier this week a New Mexico compound where children were being held by Muslims and trained to engage in mass school shootings, are those of his grandson.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 325,
+      "end_ix": 373,
+      "text": "\nAbdul-ghani Wahhaj, would have turned 4 Monday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 373,
+      "end_ix": 467,
+      "text": "\nAccording to prosecutors, he was kidnapped from his mother in December in Jonesboro, Georgia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 467,
+      "end_ix": 595,
+      "text": "\nRemains found at the New Mexico compound this week were believed to be the boy's since his father was arrested at the compound.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 595,
+      "end_ix": 741,
+      "text": "\nWhile New Mexico authorities have said they had yet to identify the remains, Siraj Wahhaj, the boy's grandfather claims they are those of Wahhaj.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 741,
+      "end_ix": 835,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 835,
+      "end_ix": 891,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 891,
+      "end_ix": 947,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 947,
+      "end_ix": 976,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 976,
+      "end_ix": 1006,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1006,
+      "end_ix": 1088,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1088,
+      "end_ix": 1170,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1170,
+      "end_ix": 1198,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1198,
+      "end_ix": 1261,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1261,
+      "end_ix": 1479,
+      "text": "\nFox News reports:\nThe missing boy's grandfather, Siraj Wahhaj, a Muslim cleric who leads a well-known New York City mosque, told reporters he had learned from other family members that the remains were his grandson's.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1479,
+      "end_ix": 1529,
+      "text": "\nThe imam said he did not know the cause of death.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1529,
+      "end_ix": 1613,
+      "text": "\n\"Whoever is responsible, then that person should be held accountable,\" Wahhaj said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1613,
+      "end_ix": 1723,
+      "text": "\nA Georgia arrest warrant accused the boy's father, Siraj Ibn Wahhaj, the imam's son, of kidnapping the child.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1723,
+      "end_ix": 1943,
+      "text": "\nAuthorities said the father at some point told his wife he wanted to perform an exorcism on the boy, who cannot walk, suffers seizures and requires constant attention because of a lack of oxygen and blood flow at birth.",
+      "new_text": "\nAuthorities said the father at some point told his wife he wanted to perform a cleansing on the boy, who cannot walk, suffers seizures and requires constant attention because of a lack of oxygen and blood flow at birth.",
+      "prop_spans": [
+        [
+          1790,
+          1823,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1943,
+      "end_ix": 2099,
+      "text": "\nThe imam said he was unaware of the training of the children for school shootings, but his mosque has been known to attract Islamic jihadis over the years.",
+      "new_text": "\nThe imam said he was unaware of the training of the children for school shootings, but his mosque has been known to attract jihadis over the years.",
+      "prop_spans": [
+        [
+          2068,
+          2084,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2099,
+      "end_ix": 2133,
+      "text": "\n\"It sounds to me it sounds crazy.",
+      "new_text": "\n\"It sounds to me it sounds crazy.",
+      "prop_spans": [
+        [
+          2117,
+          2132,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2133,
+      "end_ix": 2161,
+      "text": "\nBut I don't know,\" he said.",
+      "new_text": "\nBut I don't know,\" he said.",
+      "prop_spans": [
+        [
+          2138,
+          2161,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2161,
+      "end_ix": 2210,
+      "text": "\n\"I make no judgments yet because we don't know.\"",
+      "new_text": "\n\"I make no judgments yet because we don't know.\"",
+      "prop_spans": [
+        [
+          2161,
+          2208,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2210,
+      "end_ix": 2367,
+      "text": "\nAgain Fox adds, \"The imam's mosque has attracted a number of radicals over the years, including a man who later helped bomb the World Trade Center in 1993.\"",
+      "new_text": "\nAgain Fox adds, \"The imam's mosque has attracted a number of radicals over the years, including a man who later helped bomb the World Trade Center in 1993.\"",
+      "prop_spans": [
+        [
+          2228,
+          2365,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2367,
+      "end_ix": 2538,
+      "text": "\nMosque spokesman Ali Abdul-Karim Judan claims that the narrative is being changed because Muslims are involved and that this was nothing more than a \"domestic situation.\"",
+      "new_text": "\nMosque spokesman Ali Abdul-Karim Judan claims that the narrative is being changed because Muslims are involved and that this was nothing more than a \"domestic situation.\"",
+      "prop_spans": [
+        [
+          2488,
+          2536,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2538,
+      "end_ix": 2692,
+      "text": "\n\"None of the charges had anything to do with anybody teaching anybody shooting to commit acts of terrorism or to go in and shoot up any school,\" he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2692,
+      "end_ix": 2811,
+      "text": "\n\"Because it's a Muslim and the circumstances that are surrounding their situation, they want to change the narrative.\"",
+      "new_text": "\n\"Because it's a Muslim and the circumstances that are surrounding their situation, they want to change the narrative.\"",
+      "prop_spans": [
+        [
+          2694,
+          2809,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2811,
+      "end_ix": 2879,
+      "text": "\nEleven children were found in terrible conditions in that compound.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2879,
+      "end_ix": 2917,
+      "text": "\nThat's hardly a \"domestic situation.\"",
+      "new_text": "\nThat's hardly a \"domestic situation.\"",
+      "prop_spans": [
+        [
+          2894,
+          2915,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2917,
+      "end_ix": 3047,
+      "text": "\nFurthermore, as I reported on Wednesday, both the Associated Press and the Atlanta Constitution-Journal reported on the training.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3047,
+      "end_ix": 3230,
+      "text": "\nThe documents claim Siraj Ibn Wahhaj and his co-defendants conducted weapons training at the camp where they were found Friday with 11 children in allegedly \u201cthird world\u201d conditions.",
+      "new_text": "\nThe documents claim Siraj Ibn Wahhaj and his co-defendants conducted weapons training at the camp where they were found Friday with 11 children in allegedly \u201cthird world\u201d conditions.",
+      "prop_spans": [
+        [
+          3206,
+          3229,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3230,
+      "end_ix": 3343,
+      "text": "\nWahhaj is also wanted in Clayton County in a child abduction case involving his missing son, Abdul-Ghani Wahhaj.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3343,
+      "end_ix": 3526,
+      "text": "\nThe documents, which suggest all the adults were involved in the training, say a person serving as a foster parent caring for one of the kids revealed the details about the training.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3526,
+      "end_ix": 3642,
+      "text": "\nBREAKING: Court documents say man arrested at New Mexico compound was training children to commit school shootings.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3642,
+      "end_ix": 3895,
+      "text": "\n\u2014 The Associated Press (@AP) August 8, 2018\nPeople can continue to put their heads in the sand all they want to because they know \"nice\" Muslim people, but the fact of the matter is that the history of Islam is anything but nice, polite, just or holy .",
+      "new_text": "\n\u2014 The Associated Press (@AP) August 8, 2018\nThe history of Islam is majorly not nice, polite, just or holy .",
+      "prop_spans": [
+        [
+          3687,
+          3895,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3710,
+          3738,
+          "Loaded_Language"
+        ],
+        [
+          3774,
+          3793,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3895,
+      "end_ix": 3975,
+      "text": "\nIt is a totalitarian, religious/political construct that is full of oppression.",
+      "new_text": "\nIt is oppressive.",
+      "prop_spans": [
+        [
+          3895,
+          3974,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3896,
+          3974,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3975,
+      "end_ix": 4139,
+      "text": "\nWhen you have those that actually believe the Koran and follow in the footsteps of the desert nomad Muhammad , then you will not find radicals, but devout Muslims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4139,
+      "end_ix": 4229,
+      "text": "\nThis appears to be exactly what Siraj Ibn Wahhaj and others arrested at the compound are.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4229,
+      "end_ix": 4349,
+      "text": "\nIn either case, it is very sad that a little boy lost his life, possibly at the hands of his Islamic father and others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4349,
+      "end_ix": 4419,
+      "text": "\nJustice should be served swift, and I don't mean a lengthy jail term.",
+      "new_text": "\nJustice should be served swift.",
+      "prop_spans": [
+        [
+          4350,
+          4418,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1790,
+      1823,
+      "Loaded_Language"
+    ],
+    [
+      2068,
+      2084,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2117,
+      2132,
+      "Loaded_Language"
+    ],
+    [
+      2138,
+      2208,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2228,
+      2365,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      2488,
+      2536,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2694,
+      2809,
+      "Causal_Oversimplification"
+    ],
+    [
+      2894,
+      2915,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3206,
+      3229,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3687,
+      3974,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3710,
+      3738,
+      "Loaded_Language"
+    ],
+    [
+      3774,
+      3793,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3896,
+      3974,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4350,
+      4418,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

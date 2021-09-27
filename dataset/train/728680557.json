@@ -1,0 +1,169 @@
+{
+  "article_id": "728680557",
+  "sentence offsets in original": [
+    0,
+    332,
+    392,
+    597,
+    645,
+    968,
+    1094,
+    1265,
+    1538,
+    1811,
+    2367
+  ],
+  "original sentences": [
+    "Tenth bishop signs \u2018Profession of Immutable Truths\u2019 in defense of marriage\n\nNewsCatholic Church, Family, Marriage\nROME, February 6, 2018 (LifeSiteNews) \u2013 His Excellency Elmar Fischer, bishop emeritus of Feldkirch, Austria, has signed the \u201cProfession of Immutable Truths about Sacramental Marriage,\u201d LifeSiteNews confirmed on Monday.",
+    "\nBishop Fischer is the tenth prelate to sign the profession.",
+    "\nAs has been widely reported, three bishops in Kazakhstan \u2013 Tomash Peta, Jan Pawel Lenga, and Athanasius Schneider \u2013 issued a Profession of the Immutable Truths about Sacramental Marriage on Dec. 31, 2017.",
+    "\nThe profession was made public on Jan. 2, 2018.",
+    "\nIn the document, the three bishops solemnly professed the Church\u2019s received teaching and discipline regarding sacramental marriage and the limited conditions (see Familiaris Consortio, n. 84) under which Catholics who are civilly divorced and joined in a second union may receive sacramental absolution and Holy Communion.",
+    "\nOrdained to the priesthood in 1961, Fischer headed the Marriage and Family Centre of the Feldkirch diocese from 1979 to 1990.",
+    "\nAfter serving as vicar general of the diocese from 1989, in 2005 Pope Benedict XVI appointed him bishop of Felkirch where he served until 2011, retiring at the age of 75.",
+    "\nBishop Fischer\u2019s support of the profession comes one week after Bishop Athanasius Schneider, auxiliary of Astana, Kazakstan, invited the world\u2019s bishops to sign the document and join in raising a common voice in defense of the sanctity and the indissolubility of marriage.",
+    "\n\u201cGod decides the time, and the time will come when the Pope and the episcopacy again will proclaim, with all clarity, unambiguity and beauty, the sanctity of marriage, and of the family, and of the Eucharist,\u201d Schneider told LifesiteNews in an exclusive Jan. 15 interview.",
+    "\nSchneider said greater public support of the document from the world\u2019s 5,000 bishops would be \u201ca stronger voice for professing the constant truths of the Church, and it would be a beautiful common voice defending the sanctity and the indissolubility of marriage in the midst of a real neo-pagan society where divorce has become a plague and where sexual depravity is increasingly spreading.\u201d\nBishop Fischer\u2019s public support of the Profession of Immutable Truths about Sacramental Marriage brings the number of signatories to nine bishops and one cardinal.",
+    "\nTo date, in addition to the three original signatories from Kazakstan, the following prelates have signed the profession:\n\u2022 Cardinal Janis Pujats, Emeritus Archbishop Metropolitan of Riga, Latvia\n\u2022 Archbishop Carlo Maria Vigan\u00f2 of Italy and former apostolic nuncio to the United States\n\u2022 His Excellency Luigi Negri, Archbishop emeritus of Ferrara-Comacchio, Italy\n\u2022 Bishop Andreas Laun, Emeritus Auxiliary of Salzburg, Austria\n\u2022 His Excellency Rene Gracida, Bishop emeritus of Corpus Christi, Texas, USA\n\u2022 His Excellency Marian Eleganti, auxiliary bishop of Chur, Switzerland\n\u2022 His Excellency Elmar Fischer, Bishop emeritus of Feldkirch, Austria."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 332,
+      "text": "Tenth bishop signs \u2018Profession of Immutable Truths\u2019 in defense of marriage\n\nNewsCatholic Church, Family, Marriage\nROME, February 6, 2018 (LifeSiteNews) \u2013 His Excellency Elmar Fischer, bishop emeritus of Feldkirch, Austria, has signed the \u201cProfession of Immutable Truths about Sacramental Marriage,\u201d LifeSiteNews confirmed on Monday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 332,
+      "end_ix": 392,
+      "text": "\nBishop Fischer is the tenth prelate to sign the profession.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 392,
+      "end_ix": 597,
+      "text": "\nAs has been widely reported, three bishops in Kazakhstan \u2013 Tomash Peta, Jan Pawel Lenga, and Athanasius Schneider \u2013 issued a Profession of the Immutable Truths about Sacramental Marriage on Dec. 31, 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 597,
+      "end_ix": 645,
+      "text": "\nThe profession was made public on Jan. 2, 2018.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 645,
+      "end_ix": 968,
+      "text": "\nIn the document, the three bishops solemnly professed the Church\u2019s received teaching and discipline regarding sacramental marriage and the limited conditions (see Familiaris Consortio, n. 84) under which Catholics who are civilly divorced and joined in a second union may receive sacramental absolution and Holy Communion.",
+      "new_text": "\nIn the document, the three bishops professed the Church\u2019s received teaching and discipline regarding sacramental marriage and the limited conditions (see Familiaris Consortio, n. 84) under which Catholics who are civilly divorced and joined in a second union may receive sacramental absolution and Holy Communion.",
+      "prop_spans": [
+        [
+          663,
+          699,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 968,
+      "end_ix": 1094,
+      "text": "\nOrdained to the priesthood in 1961, Fischer headed the Marriage and Family Centre of the Feldkirch diocese from 1979 to 1990.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1094,
+      "end_ix": 1265,
+      "text": "\nAfter serving as vicar general of the diocese from 1989, in 2005 Pope Benedict XVI appointed him bishop of Felkirch where he served until 2011, retiring at the age of 75.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1265,
+      "end_ix": 1538,
+      "text": "\nBishop Fischer\u2019s support of the profession comes one week after Bishop Athanasius Schneider, auxiliary of Astana, Kazakstan, invited the world\u2019s bishops to sign the document and join in raising a common voice in defense of the sanctity and the indissolubility of marriage.",
+      "new_text": "\nBishop Fischer\u2019s support of the profession comes one week after Bishop Athanasius Schneider, auxiliary of Astana, Kazakstan, invited the world\u2019s bishops to sign the document and join in raising a common voice in defense of the sanctity of marriage.",
+      "prop_spans": [
+        [
+          1475,
+          1538,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1538,
+      "end_ix": 1811,
+      "text": "\n\u201cGod decides the time, and the time will come when the Pope and the episcopacy again will proclaim, with all clarity, unambiguity and beauty, the sanctity of marriage, and of the family, and of the Eucharist,\u201d Schneider told LifesiteNews in an exclusive Jan. 15 interview.",
+      "new_text": "\n\u201cGod decides the time, and the time will come when the Pope and the episcopacy again will proclaim, with all clarity, unambiguity and beauty, the sanctity of marriage, and of the family, and of the Eucharist,\u201d Schneider told LifesiteNews in an exclusive Jan. 15 interview.",
+      "prop_spans": [
+        [
+          1538,
+          1539,
+          "Loaded_Language"
+        ],
+        [
+          1624,
+          1748,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1811,
+      "end_ix": 2367,
+      "text": "\nSchneider said greater public support of the document from the world\u2019s 5,000 bishops would be \u201ca stronger voice for professing the constant truths of the Church, and it would be a beautiful common voice defending the sanctity and the indissolubility of marriage in the midst of a real neo-pagan society where divorce has become a plague and where sexual depravity is increasingly spreading.\u201d\nBishop Fischer\u2019s public support of the Profession of Immutable Truths about Sacramental Marriage brings the number of signatories to nine bishops and one cardinal.",
+      "new_text": "\nSchneider said greater public support of the document from the world\u2019s 5,000 bishops would be \u201ca stronger voice for professing the constant truths of the Church, and it would be a beautiful common voice defending the sanctity and the indissolubility of marriage in the midst of a real neo-pagan society where divorce has become a plague and where sexual depravity is increasingly spreading.\u201d\nBishop Fischer\u2019s public support of the Profession of Immutable Truths about Sacramental Marriage brings the number of signatories to nine bishops and one cardinal.",
+      "prop_spans": [
+        [
+          1990,
+          2204,
+          "Loaded_Language"
+        ],
+        [
+          1990,
+          2204,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2367,
+      "end_ix": 3014,
+      "text": "\nTo date, in addition to the three original signatories from Kazakstan, the following prelates have signed the profession:\n\u2022 Cardinal Janis Pujats, Emeritus Archbishop Metropolitan of Riga, Latvia\n\u2022 Archbishop Carlo Maria Vigan\u00f2 of Italy and former apostolic nuncio to the United States\n\u2022 His Excellency Luigi Negri, Archbishop emeritus of Ferrara-Comacchio, Italy\n\u2022 Bishop Andreas Laun, Emeritus Auxiliary of Salzburg, Austria\n\u2022 His Excellency Rene Gracida, Bishop emeritus of Corpus Christi, Texas, USA\n\u2022 His Excellency Marian Eleganti, auxiliary bishop of Chur, Switzerland\n\u2022 His Excellency Elmar Fischer, Bishop emeritus of Feldkirch, Austria.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      663,
+      699,
+      "Loaded_Language"
+    ],
+    [
+      1475,
+      1539,
+      "Loaded_Language"
+    ],
+    [
+      1624,
+      1748,
+      "Loaded_Language"
+    ],
+    [
+      1990,
+      2204,
+      "Loaded_Language"
+    ],
+    [
+      1990,
+      2204,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

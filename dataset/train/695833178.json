@@ -1,0 +1,327 @@
+{
+  "article_id": "695833178",
+  "sentence offsets in original": [
+    0,
+    102,
+    316,
+    489,
+    836,
+    955,
+    1094,
+    1188,
+    1329,
+    1591,
+    1729,
+    1991,
+    2104,
+    2245,
+    2364,
+    2594,
+    2715,
+    2827,
+    2856
+  ],
+  "original sentences": [
+    "Confirmed: Authorities LIED About Las Vegas Shooter\u2019s Hotel Check-In Date \u2013 What Else Are They Hiding?",
+    "\n\nOver the last few days the alternative media has spent countless hours conducting their own investigations into what actually happened during the mass shooting in Las Vegas that left 59 dead and over 500 injured.",
+    "\nFrom reports of multiple shooters to officials seemingly covering up the ISIS connection, many different theories have been put forth that counter the mainstream narrative.",
+    "\nNow, new information released by investigative reporter Laura Loomer proves that authorities have directly lied to the American people about the case at least once by claiming that supposed shooter Stephen Paddock checked into the Mandalay Bay Hotel on September 28th when valet records (with photos) prove he actually arrived three days earlier.",
+    "\nAccording to Loomer, she obtained the image from a source which shows that Paddock\u2019s car first arrived September 25th.",
+    "\nThe photo even has a handwritten note that was reportedly written by an FBI agent \u2013 proving that the FBI specifically lied to the country.",
+    "\nThe picture \u201cproves FBI misled public about #StephenPaddock\u2019s check in date,\u201d Loomer Tweeted.",
+    "\nEXCLUSIVE PICS: LV Shooter\u2019s car; @FBI note inside @MandalayBay valet center proves FBI misled public about #StephenPaddock\u2018s check in date.",
+    "\npic.twitter.com/sotjwX3o0i \u2014 Laura Loomer (@LauraLoomer) October 6, 2017\nShockingly, another Tweet by Loomer also revealed that the license plate numbers given out by police after the horrific shooting DO NOT match the actual license plate of Paddock\u2019s vehicle.",
+    "\nLaw enforcement and @FBI misled the public about #Paddock\u2018s check in date and also provided public & media w/ wrong license plate number.",
+    "\npic.twitter.com/y9hS6GqdKI \u2014 Laura Loomer (@LauraLoomer) October 6, 2017\nThat\u2019s right, photographic evidence from inside the hotel parking garage has confirmed that the FBI, along with state and local police, specifically lied about key details of the shooting.",
+    "\nThis throws their entire narrative into question and makes one wonder what else is being hidden from the public?",
+    "\nKeep in mind that at least four videos from the scene of the shooting have already been released that indicate there were multiple shooters.",
+    "\nIn fact, there are so many unanswered questions that the Drudge Report even linked to an article asking them directly.",
+    "\nAs noted above, at this point literally every piece of so-called evidence put forth by authorities and then regurgitated by the mainstream media cannot be trusted and should be considered as disinformation until proven otherwise.",
+    "\nAnd if Paddock really did act alone and this evidence is some sort of mistake, there is surely video footage proving so.",
+    "\nNotice #StephenPaddock\u2018s van was last parked right next to a security camera inside \u201cGarage East\u201d @MandalayBay.",
+    "\nThere is definitely footage.",
+    "\nhttps://t.co/L1caGn6uqw \u2014 Laura Loomer (@LauraLoomer) October 6, 2017\nIt is also important to note that Paddock\u2019s brother Eric has conducted a series of bizarre interviews that have led to even more questions about what actually happened in Las Vegas and what Paddock\u2019s role was in the worst mass shooting in American history."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 102,
+      "text": "Confirmed: Authorities LIED About Las Vegas Shooter\u2019s Hotel Check-In Date \u2013 What Else Are They Hiding?",
+      "new_text": "Confirmed: Authorities LIED About Las Vegas Shooter\u2019s Hotel Check-In Date",
+      "prop_spans": [
+        [
+          76,
+          102,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 102,
+      "end_ix": 316,
+      "text": "\n\nOver the last few days the alternative media has spent countless hours conducting their own investigations into what actually happened during the mass shooting in Las Vegas that left 59 dead and over 500 injured.",
+      "new_text": "\n\nOver the last few days the alternative media has spent countless hours conducting their own investigations into what actually happened during the mass shooting in Las Vegas that left 59 dead and over 500 injured.",
+      "prop_spans": [
+        [
+          102,
+          103,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 316,
+      "end_ix": 489,
+      "text": "\nFrom reports of multiple shooters to officials seemingly covering up the ISIS connection, many different theories have been put forth that counter the mainstream narrative.",
+      "new_text": "\nFrom reports of multiple shooters to officials allegedly covering up the ISIS connection, many different theories have been put forth that counter the mainstream narrative.",
+      "prop_spans": [
+        [
+          364,
+          405,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 489,
+      "end_ix": 836,
+      "text": "\nNow, new information released by investigative reporter Laura Loomer proves that authorities have directly lied to the American people about the case at least once by claiming that supposed shooter Stephen Paddock checked into the Mandalay Bay Hotel on September 28th when valet records (with photos) prove he actually arrived three days earlier.",
+      "new_text": "\nNow, new information released by investigative reporter Laura Loomer points out that authorities have directly lied to the American people about the case at least once by claiming that supposed shooter Stephen Paddock checked into the Mandalay Bay Hotel on September 28th when valet records (with photos) prove he actually arrived three days earlier.",
+      "prop_spans": [
+        [
+          546,
+          625,
+          "Appeal_to_Authority"
+        ],
+        [
+          597,
+          624,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 836,
+      "end_ix": 955,
+      "text": "\nAccording to Loomer, she obtained the image from a source which shows that Paddock\u2019s car first arrived September 25th.",
+      "new_text": "\nAccording to Loomer, she obtained the image from an alleged source which that Paddock\u2019s car first arrived September 25th.",
+      "prop_spans": [
+        [
+          837,
+          955,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 955,
+      "end_ix": 1094,
+      "text": "\nThe photo even has a handwritten note that was reportedly written by an FBI agent \u2013 proving that the FBI specifically lied to the country.",
+      "new_text": "\nThe photo even has a handwritten note that was reportedly written by an FBI agent \u2013 which may lead to the point that the FBI specifically lied to the country.",
+      "prop_spans": [
+        [
+          955,
+          955,
+          "Appeal_to_Authority"
+        ],
+        [
+          1040,
+          1094,
+          "Repetition"
+        ],
+        [
+          1074,
+          1094,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1094,
+      "end_ix": 1188,
+      "text": "\nThe picture \u201cproves FBI misled public about #StephenPaddock\u2019s check in date,\u201d Loomer Tweeted.",
+      "new_text": "\nThe picture \u201cproves FBI misled public about #StephenPaddock\u2019s check in date,\u201d Loomer Tweeted.",
+      "prop_spans": [
+        [
+          1094,
+          1095,
+          "Repetition"
+        ],
+        [
+          1094,
+          1095,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1188,
+      "end_ix": 1329,
+      "text": "\nEXCLUSIVE PICS: LV Shooter\u2019s car; @FBI note inside @MandalayBay valet center proves FBI misled public about #StephenPaddock\u2018s check in date.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1329,
+      "end_ix": 1591,
+      "text": "\npic.twitter.com/sotjwX3o0i \u2014 Laura Loomer (@LauraLoomer) October 6, 2017\nShockingly, another Tweet by Loomer also revealed that the license plate numbers given out by police after the horrific shooting DO NOT match the actual license plate of Paddock\u2019s vehicle.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1591,
+      "end_ix": 1729,
+      "text": "\nLaw enforcement and @FBI misled the public about #Paddock\u2018s check in date and also provided public & media w/ wrong license plate number.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1729,
+      "end_ix": 1991,
+      "text": "\npic.twitter.com/y9hS6GqdKI \u2014 Laura Loomer (@LauraLoomer) October 6, 2017\nThat\u2019s right, photographic evidence from inside the hotel parking garage has confirmed that the FBI, along with state and local police, specifically lied about key details of the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1991,
+      "end_ix": 2104,
+      "text": "\nThis throws their entire narrative into question and makes one wonder what else is being hidden from the public?",
+      "new_text": "\nThis raises doubt to the entire narrative into question and the chance that something else is being hidden from the public.",
+      "prop_spans": [
+        [
+          1992,
+          2104,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2104,
+      "end_ix": 2245,
+      "text": "\nKeep in mind that at least four videos from the scene of the shooting have already been released that indicate there were multiple shooters.",
+      "new_text": "\nKeep in mind that at least four videos from the scene of the shooting have already been released that indicate there were multiple shooters.",
+      "prop_spans": [
+        [
+          2104,
+          2105,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2245,
+      "end_ix": 2364,
+      "text": "\nIn fact, there are so many unanswered questions that the Drudge Report even linked to an article asking them directly.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2364,
+      "end_ix": 2594,
+      "text": "\nAs noted above, at this point literally every piece of so-called evidence put forth by authorities and then regurgitated by the mainstream media cannot be trusted and should be considered as disinformation until proven otherwise.",
+      "new_text": "\nAs noted above, at this point literally every piece of alleged evidence put forth by authorities and then regurgitated by the mainstream media may not be trusted and can possibly be considered as disinformation until proven otherwise.",
+      "prop_spans": [
+        [
+          2420,
+          2439,
+          "Doubt"
+        ],
+        [
+          2420,
+          2438,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2510,
+          2570,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2594,
+      "end_ix": 2715,
+      "text": "\nAnd if Paddock really did act alone and this evidence is some sort of mistake, there is surely video footage proving so.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2715,
+      "end_ix": 2827,
+      "text": "\nNotice #StephenPaddock\u2018s van was last parked right next to a security camera inside \u201cGarage East\u201d @MandalayBay.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2827,
+      "end_ix": 2856,
+      "text": "\nThere is definitely footage.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2856,
+      "end_ix": 3183,
+      "text": "\nhttps://t.co/L1caGn6uqw \u2014 Laura Loomer (@LauraLoomer) October 6, 2017\nIt is also important to note that Paddock\u2019s brother Eric has conducted a series of bizarre interviews that have led to even more questions about what actually happened in Las Vegas and what Paddock\u2019s role was in the worst mass shooting in American history.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      76,
+      103,
+      "Doubt"
+    ],
+    [
+      364,
+      405,
+      "Doubt"
+    ],
+    [
+      546,
+      625,
+      "Appeal_to_Authority"
+    ],
+    [
+      597,
+      624,
+      "Flag-Waving"
+    ],
+    [
+      837,
+      955,
+      "Appeal_to_Authority"
+    ],
+    [
+      1040,
+      1095,
+      "Repetition"
+    ],
+    [
+      1074,
+      1095,
+      "Flag-Waving"
+    ],
+    [
+      1992,
+      2105,
+      "Doubt"
+    ],
+    [
+      2420,
+      2439,
+      "Doubt"
+    ],
+    [
+      2420,
+      2438,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2510,
+      2570,
+      "Doubt"
+    ]
+  ]
+}

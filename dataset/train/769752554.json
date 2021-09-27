@@ -1,0 +1,385 @@
+{
+  "article_id": "769752554",
+  "sentence offsets in original": [
+    0,
+    189,
+    272,
+    439,
+    545,
+    638,
+    939,
+    1143,
+    1288,
+    1346,
+    1447,
+    1634,
+    1728,
+    1917,
+    2025,
+    2204,
+    2335
+  ],
+  "original sentences": [
+    "Texas Mom: My Son Was Attacked For Wearing A MAGA Hat At Whataburger\n\nA Texas mother\u2019s teenage son was allegedly attacked at a Whataburger for wearing a MAGA (Make America Great Again) hat.",
+    "\nThe mother posted the video of the incident on Facebook as evidence of her claims.",
+    "\nThe woman claimed a man became extremely angry at her teenage son and his group of friends because one of them wore a \u201cMake American Great Again\u201d hat, KENS5 reported.",
+    "\nThe hats have become noticeable and are often an outward expression of support of President Donald Trump.",
+    "\nThe video shows the man throwing his fountain drink at the table and shouting a racial slur.",
+    "\nAccording to Breitbart, in the mother\u2019s post on Facebook, which has since been taken down, Patricia Spittler asks for help in identifying the man she called \u201cscum bag of the year.\u201d The San Antonio CBS affiliate reported that Spittler wrote: \u201cHis friend was wearing a patriotic hat, and this happened!",
+    "\nIt would be nice to know who he is for someone to let him know his actions are not okay!\u201d Spittler added: \u201cReal tough guy\u2026 approaches a group of teenagers minding their own business just having a burger!",
+    "\nHe kept his hat, too.\u201d\nThe video found it\u2019s way to Twitter, and it is slightly violent, so err on the side of caution if watching near children.",
+    "\nAlso be aware that there a few racial slurs in the video.",
+    "\nDisturbing video of young Trump Supporter having his MAGA hat stolen and a drink thrown in his face.",
+    "\nThe civility of the Left on full display\u2026 pic.twitter.com/gUzBVRpP7X \u2014 The Columbia Bugle \ud83c\uddfa\ud83c\uddf8 (@ColumbiaBugle) July 5, 2018\nAs the video begins, the man says, \u201c\u2026 supporting the president.",
+    "\nYou ain\u2019t supporting shit nigga,\u201d and then throws the drink in the face of a 16-year-old boy.",
+    "\nWith MAGA hat in hand, the man walks away saying \u201cBitch ass motherf**ker.\u201d\nThe boy, Hunter Richard, said the man also pulled his hair while taking the hat, according to reports by News4SA.",
+    "\n\u201cI support my President and if you don\u2019t, let\u2019s have a conversation about it instead of ripping my hat off.",
+    "\nI just think a conversation about politics is more productive for the entire whole rather than taking my hat and yelling subjective words to me,\u201d he told the local NBC affiliate.",
+    "\nA police report was filed and a man was fired for stealing the hat and the assault (throwing a drink in a Trump supporter\u2019s face.)",
+    "\nThe post below, claiming a person was fired for the actions against Richard, had been removed or made private, meaning some may not see it."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 189,
+      "text": "Texas Mom: My Son Was Attacked For Wearing A MAGA Hat At Whataburger\n\nA Texas mother\u2019s teenage son was allegedly attacked at a Whataburger for wearing a MAGA (Make America Great Again) hat.",
+      "new_text": "Texas Mom: My Son Was Attacked For Wearing A MAGA Hat At Whataburger\n\nA Texas mother\u2019s teenage son was allegedly attacked at a Whataburger for wearing a Make America Great Again hat.",
+      "prop_spans": [
+        [
+          45,
+          49,
+          "Slogans"
+        ],
+        [
+          153,
+          157,
+          "Repetition"
+        ],
+        [
+          159,
+          183,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 189,
+      "end_ix": 272,
+      "text": "\nThe mother posted the video of the incident on Facebook as evidence of her claims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 272,
+      "end_ix": 439,
+      "text": "\nThe woman claimed a man became extremely angry at her teenage son and his group of friends because one of them wore a \u201cMake American Great Again\u201d hat, KENS5 reported.",
+      "new_text": "\nThe woman claimed a man became very angry at her teenage son and his group of friends because one of them wore a \u201cMake American Great Again\u201d hat, KENS5 reported.",
+      "prop_spans": [
+        [
+          304,
+          313,
+          "Loaded_Language"
+        ],
+        [
+          392,
+          417,
+          "Slogans"
+        ],
+        [
+          392,
+          417,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 439,
+      "end_ix": 545,
+      "text": "\nThe hats have become noticeable and are often an outward expression of support of President Donald Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 545,
+      "end_ix": 638,
+      "text": "\nThe video shows the man throwing his fountain drink at the table and shouting a racial slur.",
+      "new_text": "\nThe video shows the man throwing his fountain drink at the table and shouting a slur.",
+      "prop_spans": [
+        [
+          626,
+          637,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 638,
+      "end_ix": 939,
+      "text": "\nAccording to Breitbart, in the mother\u2019s post on Facebook, which has since been taken down, Patricia Spittler asks for help in identifying the man she called \u201cscum bag of the year.\u201d The San Antonio CBS affiliate reported that Spittler wrote: \u201cHis friend was wearing a patriotic hat, and this happened!",
+      "new_text": "\nAccording to Breitbart, in the mother\u2019s post on Facebook, which has since been taken down, Patricia Spittler asks for help in identifying the man she called \u201cscum bag of the year.\u201d The San Antonio CBS affiliate reported that Spittler wrote: \u201cHis friend was wearing a patriotic hat, and this happened!",
+      "prop_spans": [
+        [
+          797,
+          817,
+          "Name_Calling,Labeling"
+        ],
+        [
+          797,
+          817,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          906,
+          915,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 939,
+      "end_ix": 1143,
+      "text": "\nIt would be nice to know who he is for someone to let him know his actions are not okay!\u201d Spittler added: \u201cReal tough guy\u2026 approaches a group of teenagers minding their own business just having a burger!",
+      "new_text": "\nIt would be nice to know who he is for someone to let him know his actions are not okay!\u201d Spittler added: \u201cReal tough guy\u2026 approaches a group of teenagers minding their own business just having a burger!",
+      "prop_spans": [
+        [
+          1047,
+          1061,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1143,
+      "end_ix": 1288,
+      "text": "\nHe kept his hat, too.\u201d\nThe video found it\u2019s way to Twitter, and it is slightly violent, so err on the side of caution if watching near children.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1288,
+      "end_ix": 1346,
+      "text": "\nAlso be aware that there a few racial slurs in the video.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1346,
+      "end_ix": 1447,
+      "text": "\nDisturbing video of young Trump Supporter having his MAGA hat stolen and a drink thrown in his face.",
+      "new_text": "\nDisturbing video of young boy having his MAGA hat stolen and a drink thrown in his face.",
+      "prop_spans": [
+        [
+          1347,
+          1357,
+          "Loaded_Language"
+        ],
+        [
+          1373,
+          1388,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1400,
+          1404,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1447,
+      "end_ix": 1634,
+      "text": "\nThe civility of the Left on full display\u2026 pic.twitter.com/gUzBVRpP7X \u2014 The Columbia Bugle \ud83c\uddfa\ud83c\uddf8 (@ColumbiaBugle) July 5, 2018\nAs the video begins, the man says, \u201c\u2026 supporting the president.",
+      "new_text": "\n\u2026 pic.twitter.com/gUzBVRpP7X \u2014 The Columbia Bugle \ud83c\uddfa\ud83c\uddf8 (@ColumbiaBugle) July 5, 2018\nAs the video begins, the man says, \u201c\u2026 supporting the president.",
+      "prop_spans": [
+        [
+          1448,
+          1488,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1634,
+      "end_ix": 1728,
+      "text": "\nYou ain\u2019t supporting shit nigga,\u201d and then throws the drink in the face of a 16-year-old boy.",
+      "new_text": "\nYou ain\u2019t supporting shit nigga,\u201d and then throws the drink in the face of a 16-year-old boy.",
+      "prop_spans": [
+        [
+          1658,
+          1668,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1728,
+      "end_ix": 1917,
+      "text": "\nWith MAGA hat in hand, the man walks away saying \u201cBitch ass motherf**ker.\u201d\nThe boy, Hunter Richard, said the man also pulled his hair while taking the hat, according to reports by News4SA.",
+      "new_text": "\nWith MAGA hat in hand, the man walks away saying \u201cBitch ass motherf**ker.\u201d\nThe boy, Hunter Richard, said the man also pulled his hair while taking the hat, according to reports by News4SA.",
+      "prop_spans": [
+        [
+          1736,
+          1740,
+          "Repetition"
+        ],
+        [
+          1781,
+          1803,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1917,
+      "end_ix": 2025,
+      "text": "\n\u201cI support my President and if you don\u2019t, let\u2019s have a conversation about it instead of ripping my hat off.",
+      "new_text": "\n\u201cI support my President and if you don\u2019t, let\u2019s have a conversation about it instead of ripping my hat off.",
+      "prop_spans": [
+        [
+          1921,
+          1943,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2025,
+      "end_ix": 2204,
+      "text": "\nI just think a conversation about politics is more productive for the entire whole rather than taking my hat and yelling subjective words to me,\u201d he told the local NBC affiliate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2204,
+      "end_ix": 2335,
+      "text": "\nA police report was filed and a man was fired for stealing the hat and the assault (throwing a drink in a Trump supporter\u2019s face.)",
+      "new_text": "\nA police report was filed and a man was fired for stealing the hat and the assault (throwing a drink in the boy's face.)",
+      "prop_spans": [
+        [
+          2313,
+          2329,
+          "Repetition"
+        ],
+        [
+          2313,
+          2328,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2335,
+      "end_ix": 2475,
+      "text": "\nThe post below, claiming a person was fired for the actions against Richard, had been removed or made private, meaning some may not see it.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      45,
+      49,
+      "Slogans"
+    ],
+    [
+      153,
+      157,
+      "Repetition"
+    ],
+    [
+      159,
+      183,
+      "Slogans"
+    ],
+    [
+      304,
+      313,
+      "Loaded_Language"
+    ],
+    [
+      392,
+      417,
+      "Slogans"
+    ],
+    [
+      392,
+      417,
+      "Repetition"
+    ],
+    [
+      626,
+      637,
+      "Loaded_Language"
+    ],
+    [
+      797,
+      817,
+      "Name_Calling,Labeling"
+    ],
+    [
+      797,
+      817,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      906,
+      915,
+      "Flag-Waving"
+    ],
+    [
+      1047,
+      1061,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1347,
+      1357,
+      "Loaded_Language"
+    ],
+    [
+      1373,
+      1388,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1400,
+      1404,
+      "Repetition"
+    ],
+    [
+      1448,
+      1488,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1658,
+      1668,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1736,
+      1740,
+      "Repetition"
+    ],
+    [
+      1781,
+      1803,
+      "Loaded_Language"
+    ],
+    [
+      1921,
+      1943,
+      "Slogans"
+    ],
+    [
+      2313,
+      2329,
+      "Repetition"
+    ],
+    [
+      2313,
+      2328,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

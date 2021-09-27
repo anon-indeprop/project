@@ -1,0 +1,286 @@
+{
+  "article_id": "712382330",
+  "sentence offsets in original": [
+    0,
+    441,
+    629,
+    1017,
+    1054,
+    1379,
+    1646,
+    1935,
+    2142,
+    2283,
+    2487,
+    2792,
+    2868,
+    3073,
+    3163,
+    3193,
+    3296,
+    3522,
+    3886,
+    3966,
+    4195,
+    4265,
+    4509
+  ],
+  "original sentences": [
+    "\ufeffCommunion to Adulterers Promulgated as \"Authentic Magisterium\"\n\nLast week, Acta Apostolicae Sedis (AAS)\u2014the Vatican's organ for promulgating the Official Acts of the Apostolic See\u2014published Pope Francis' October 2016 letter to the bishops of Buenos Aires in which he praised their episcopal guidelines allowing divorced and civilly remarried Catholics to receive Holy Communion in some cases while living in a state of objective mortal sin.",
+    "\nIf papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",
+    "\nConcerning these guidelines that allow \"the possibility of access to the sacraments of Reconciliation and the Eucharist\" in \"complex circumstances\" where \"limitations that lessen the responsibility and guilt\" permit adulterous couples to continue in adultery, the pope said in his letter:\n\"The document is very good and completely explains the meaning of chapter VIII of Amoris Laetitia.",
+    "\nThere are no other interpretations.\"",
+    "\nUntil now, the pope's letter to the Argentinian bishops had been considered a private letter with no binding force, whereas AAS has now elevated Pope Francis' letter to the official magisterial status of an \"Apostolic Letter,\" while including a special rescript as an addendum by Cardinal Pietro Parolin, Secretary of State.",
+    "\nThe rescript declares that Pope Francis expressly intends both documents\u2014the papal letter and the episcopal guidelines\u2014to bear the character of his \"authentic Magisterium,\" and that the pope has personally ordered their publication in AAS and on the Vatican website.",
+    "\nHence Amoris Laetitia VIII, which proposes that people living in adultery can be guiltless and thus be admitted to the sacraments of Confession and Communion when \"concrete circumstances\" make it difficult to renounce their adulterous state, is now declared \"magisterial\" by the Holy See.",
+    "\nThe problem with this is that heresy or sacrilege can never be declared magisterial, so that if it is, it not only has no binding force, but the faithful are obliged to resist and refute such a declaration.",
+    "\nSt. Thomas Aquinas says in his Summa Theologiae: \"If the faith were endangered, a subject ought to rebuke his prelate [pope] even publicly.\"",
+    "\nThe fact is that this latest promulgation is counter-magisterial, but the pope and his right-hand man now feel they have enough support from the dissenting left that enables them to come forward with it.",
+    "\nCardinal Parolin's rescript on the papal and episcopal documents reads as follows:\nRescript \"from an Audience with His Holiness\"\nThe Supreme Pontiff decreed that the two preceding documents be promulgated through publication on the Vatican website and in Acta Apostolicae Sedis, as authentic Magisterium.",
+    "\nFrom the Vatican Palace, on the day of June 5 in the year 2017\nPietro Card.",
+    "\nParolin\nSecretary of State\nThe Catholic Encyclopedia defines a papal rescript as follows: \"Rescripts are responses of the pope or a Sacred Congregation, in writing, to queries or petitions of individuals.",
+    "\nSome rescripts concern the granting of favors; others the administration of justice, e.g.",
+    "\nthe interpretation of a law.\"",
+    "\nIt appears then that Parolin's rescript constitutes a direct reply to the dubia of the Four Cardinals.",
+    "\nPope Francis' praise of the episcopal guidelines clearly answers the cardinals' query concerning his intention in Amoris Laetitia VIII, so will Cardinals Brandmuller and Burke now proceed to issue the formal correction of it?",
+    "\nAs reported in The Dictator Pope\u2014a remarkable new book which provides an inside look at the most tyrannical and unprincipled papacy of recent history\u2014English Cardinal Cormac Murphy O\u2019Connor who was largely responsible for the vote canvassing behind Francis' election told journalist Paul Valley in 2013, \"Four years of Bergoglio would be enough to change things.\"",
+    "\nEach day, we see new evidence that this might have been a gross understatement.",
+    "\nWe shouldn't rule out the possibility that Francis may come forward one day and declare \"ex-cathedra\" that the interpretation of Amoris Laetitia VIII, as now taught by the Holy See, is promulgated as \"extraordinary magisterium.\"",
+    "\nShould this happen, the Mystical Body would then be without its head.",
+    "\nIn an interview with Catholic World Report (CWR) in December 2016, Cardinal Raymond Burke, who is presently a member of the Apostolic Signatura, said that if a pope were to \"formally profess heresy he would cease, by that act, to be the Pope.\"",
+    "\nBurke was reiterating Church teaching, as expressed by famed canonist Franz Wernz in his Ius Canonicum: \"In sum, it needs to be said clearly that a [publicly] heretical Roman Pontiff loses his power upon the very fact.\""
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 441,
+      "text": "\ufeffCommunion to Adulterers Promulgated as \"Authentic Magisterium\"\n\nLast week, Acta Apostolicae Sedis (AAS)\u2014the Vatican's organ for promulgating the Official Acts of the Apostolic See\u2014published Pope Francis' October 2016 letter to the bishops of Buenos Aires in which he praised their episcopal guidelines allowing divorced and civilly remarried Catholics to receive Holy Communion in some cases while living in a state of objective mortal sin.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 441,
+      "end_ix": 629,
+      "text": "\nIf papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 629,
+      "end_ix": 1017,
+      "text": "\nConcerning these guidelines that allow \"the possibility of access to the sacraments of Reconciliation and the Eucharist\" in \"complex circumstances\" where \"limitations that lessen the responsibility and guilt\" permit adulterous couples to continue in adultery, the pope said in his letter:\n\"The document is very good and completely explains the meaning of chapter VIII of Amoris Laetitia.",
+      "new_text": "\nConcerning these guidelines that allow \"the possibility of access to the sacraments of Reconciliation and the Eucharist\" in \"complex circumstances\" where \"limitations that lessen the responsibility and guilt\" permit adulterous couples to continue in adultery, the pope said in his letter:\n\"The document is very good and completely explains the meaning of chapter VIII of Amoris Laetitia.",
+      "prop_spans": [
+        [
+          919,
+          1017,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1017,
+      "end_ix": 1054,
+      "text": "\nThere are no other interpretations.\"",
+      "new_text": "\nThere are no other interpretations.\"",
+      "prop_spans": [
+        [
+          1017,
+          1054,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1054,
+      "end_ix": 1379,
+      "text": "\nUntil now, the pope's letter to the Argentinian bishops had been considered a private letter with no binding force, whereas AAS has now elevated Pope Francis' letter to the official magisterial status of an \"Apostolic Letter,\" while including a special rescript as an addendum by Cardinal Pietro Parolin, Secretary of State.",
+      "new_text": "\nUntil now, the pope's letter to the Argentinian bishops had been considered a private letter with no binding force, whereas AAS has now elevated Pope Francis' letter to the official magisterial status of an \"Apostolic Letter,\" while including a special rescript as an addendum by Cardinal Pietro Parolin, Secretary of State.",
+      "prop_spans": [
+        [
+          1054,
+          1055,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1379,
+      "end_ix": 1646,
+      "text": "\nThe rescript declares that Pope Francis expressly intends both documents\u2014the papal letter and the episcopal guidelines\u2014to bear the character of his \"authentic Magisterium,\" and that the pope has personally ordered their publication in AAS and on the Vatican website.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1646,
+      "end_ix": 1935,
+      "text": "\nHence Amoris Laetitia VIII, which proposes that people living in adultery can be guiltless and thus be admitted to the sacraments of Confession and Communion when \"concrete circumstances\" make it difficult to renounce their adulterous state, is now declared \"magisterial\" by the Holy See.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1935,
+      "end_ix": 2142,
+      "text": "\nThe problem with this is that heresy or sacrilege can never be declared magisterial, so that if it is, it not only has no binding force, but the faithful are obliged to resist and refute such a declaration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2142,
+      "end_ix": 2283,
+      "text": "\nSt. Thomas Aquinas says in his Summa Theologiae: \"If the faith were endangered, a subject ought to rebuke his prelate [pope] even publicly.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2283,
+      "end_ix": 2487,
+      "text": "\nThe fact is that this latest promulgation is counter-magisterial, but the pope and his right-hand man now feel they have enough support from the dissenting left that enables them to come forward with it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2487,
+      "end_ix": 2792,
+      "text": "\nCardinal Parolin's rescript on the papal and episcopal documents reads as follows:\nRescript \"from an Audience with His Holiness\"\nThe Supreme Pontiff decreed that the two preceding documents be promulgated through publication on the Vatican website and in Acta Apostolicae Sedis, as authentic Magisterium.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2792,
+      "end_ix": 2868,
+      "text": "\nFrom the Vatican Palace, on the day of June 5 in the year 2017\nPietro Card.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2868,
+      "end_ix": 3073,
+      "text": "\nParolin\nSecretary of State\nThe Catholic Encyclopedia defines a papal rescript as follows: \"Rescripts are responses of the pope or a Sacred Congregation, in writing, to queries or petitions of individuals.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3073,
+      "end_ix": 3163,
+      "text": "\nSome rescripts concern the granting of favors; others the administration of justice, e.g.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3163,
+      "end_ix": 3193,
+      "text": "\nthe interpretation of a law.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3193,
+      "end_ix": 3296,
+      "text": "\nIt appears then that Parolin's rescript constitutes a direct reply to the dubia of the Four Cardinals.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3296,
+      "end_ix": 3522,
+      "text": "\nPope Francis' praise of the episcopal guidelines clearly answers the cardinals' query concerning his intention in Amoris Laetitia VIII, so will Cardinals Brandmuller and Burke now proceed to issue the formal correction of it?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3522,
+      "end_ix": 3886,
+      "text": "\nAs reported in The Dictator Pope\u2014a remarkable new book which provides an inside look at the most tyrannical and unprincipled papacy of recent history\u2014English Cardinal Cormac Murphy O\u2019Connor who was largely responsible for the vote canvassing behind Francis' election told journalist Paul Valley in 2013, \"Four years of Bergoglio would be enough to change things.\"",
+      "new_text": "\nAs reported in The Dictator Pope\u2014a remarkable new book which provides an inside look at the papacy of recent history\u2014English Cardinal Cormac Murphy O\u2019Connor who was largely responsible for the vote canvassing behind Francis' election told journalist Paul Valley in 2013, \"Four years of Bergoglio would be enough to change things.\"",
+      "prop_spans": [
+        [
+          3611,
+          3673,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3886,
+      "end_ix": 3966,
+      "text": "\nEach day, we see new evidence that this might have been a gross understatement.",
+      "new_text": "\nEach day, we see new evidence that this might have been an understatement.",
+      "prop_spans": [
+        [
+          3943,
+          3966,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3966,
+      "end_ix": 4195,
+      "text": "\nWe shouldn't rule out the possibility that Francis may come forward one day and declare \"ex-cathedra\" that the interpretation of Amoris Laetitia VIII, as now taught by the Holy See, is promulgated as \"extraordinary magisterium.\"",
+      "new_text": "\nWe shouldn't rule out the possibility that Francis may come forward one day and declare \"ex-cathedra\" that the interpretation of Amoris Laetitia VIII, as now taught by the Holy See, is promulgated as \"extraordinary magisterium.\"",
+      "prop_spans": [
+        [
+          3966,
+          3967,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4195,
+      "end_ix": 4265,
+      "text": "\nShould this happen, the Mystical Body would then be without its head.",
+      "new_text": "\nShould this happen, the Mystical Body would then be in possible trouble.",
+      "prop_spans": [
+        [
+          4216,
+          4265,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4265,
+      "end_ix": 4509,
+      "text": "\nIn an interview with Catholic World Report (CWR) in December 2016, Cardinal Raymond Burke, who is presently a member of the Apostolic Signatura, said that if a pope were to \"formally profess heresy he would cease, by that act, to be the Pope.\"",
+      "new_text": "\nIn an interview with Catholic World Report (CWR) in December 2016, Cardinal Raymond Burke, who is presently a member of the Apostolic Signatura, said that if a pope were to \"formally profess heresy he would cease, by that act, to be the Pope.\"",
+      "prop_spans": [
+        [
+          4265,
+          4265,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4509,
+      "end_ix": 4729,
+      "text": "\nBurke was reiterating Church teaching, as expressed by famed canonist Franz Wernz in his Ius Canonicum: \"In sum, it needs to be said clearly that a [publicly] heretical Roman Pontiff loses his power upon the very fact.\"",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      919,
+      1055,
+      "Appeal_to_Authority"
+    ],
+    [
+      3611,
+      3673,
+      "Loaded_Language"
+    ],
+    [
+      3943,
+      3967,
+      "Loaded_Language"
+    ],
+    [
+      4216,
+      4265,
+      "Loaded_Language"
+    ]
+  ]
+}

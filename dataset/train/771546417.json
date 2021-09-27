@@ -1,0 +1,314 @@
+{
+  "article_id": "771546417",
+  "sentence offsets in original": [
+    0,
+    313,
+    387,
+    484,
+    602,
+    724,
+    769,
+    944,
+    1086,
+    1187,
+    1211,
+    1312,
+    1510,
+    1574,
+    1706,
+    1740,
+    1991
+  ],
+  "original sentences": [
+    "Teen Who Had MAGA Hat Ripped Off Head Gets New One Signed By Trump\n\nSixteen-year-old Hunter Richard was wearing a \u201cMake America Great Again\u201d hat while enjoying a calm dinner at a Whataburger in Texas when a stranger, now identified as 30-year-old Kino Jimenez, yanked it off his head and threw a soda in his face.",
+    "\nBut Richard now has a new hat, and it was signed by Donald Trump himself!",
+    "\n*Please note that the below video contains racial slurs and could be considered violent to some.",
+    "\n\ufeff\nJimenez was later arrested and shortly thereafter fired from his job for ripping off Richard\u2019s hat and stealing it.",
+    "\n\u201cThis is gonna go right in my f**king fireplace, b***h,\u201d Jimenez said, acting like a bully for stealing a teenager\u2019s hat.",
+    "\nJimenez also threw a soda in Richard\u2019s face.",
+    "\nRichard\u2019s hat appeared to be gone for good until the video of the incident went viral and he received a new MAGA hat signed by the president himself, reported The Daily Wire.",
+    "\nAmong those who commented on the video\u2019s original posting was Donald Trump Jr., who retweeted a story about the assault against the teenager.",
+    "\n\u201cIf someone can get me this young man\u2019s information I\u2019ll get him a new #maga hat\u2026 SIGNED by #potus!!",
+    "\n!\u201d he wrote on Twitter.",
+    "\nIf someone can get me this young man\u2019s information I\u2019ll get him a new #maga hat\u2026 SIGNED by #potus!!!",
+    "\nhttps://t.co/zHBz4gKpkf \u2014 Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018\n\u201cTeen who made national news after having #MAGA hat stolen at a San Antonio fast food restaurant just got this in the mail.",
+    "\nA hat signed by @realDonaldTrump,\u201d Joe Gallow wrote on Twitter.",
+    "\n#Update: Teen who made national news after having #MAGA hat stolen at a San Antonio fast food restaurant just got this in the mail.",
+    "\nA hat signed by @realDonaldTrump.",
+    "\nSee the video: https://t.co/LAUcjERTNc @News4SA @KABBFOX29 pic.twitter.com/akzNSp4ps8 \u2014 Joe Galli (@JoeGalliNews) July 11, 2018\nRichard told media outlets that he\u2019s been a bit surprised by everything that\u2019s happened since the video was posted online.",
+    "\n\u201cI didn\u2019t think it was going to generate the amount like what people are doing, I was looking at the comments by some people and \u2018they are like this is uncalled for\u2019 and other people are like mixed opinions but I didn\u2019t think it would blow up to what it is now,\u201d he said to News-4 San Antonio."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 313,
+      "text": "Teen Who Had MAGA Hat Ripped Off Head Gets New One Signed By Trump\n\nSixteen-year-old Hunter Richard was wearing a \u201cMake America Great Again\u201d hat while enjoying a calm dinner at a Whataburger in Texas when a stranger, now identified as 30-year-old Kino Jimenez, yanked it off his head and threw a soda in his face.",
+      "new_text": "Teen Who Had MAGA Hat Ripped Off Head Gets New One Signed By Trump\n\nSixteen-year-old Hunter Richard was wearing a \u201cMake America Great Again\u201d hat while enjoying a calm dinner at a Whataburger in Texas when a stranger, now identified as 30-year-old Kino Jimenez, yanked it off his head and threw a soda in his face.",
+      "prop_spans": [
+        [
+          13,
+          17,
+          "Slogans"
+        ],
+        [
+          114,
+          140,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 313,
+      "end_ix": 387,
+      "text": "\nBut Richard now has a new hat, and it was signed by Donald Trump himself!",
+      "new_text": "\nBut Richard now has a new hat, and it was signed by Donald Trump!",
+      "prop_spans": [
+        [
+          356,
+          386,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 387,
+      "end_ix": 484,
+      "text": "\n*Please note that the below video contains racial slurs and could be considered violent to some.",
+      "new_text": "\n*Please note that the below video contains racial slurs and could be considered violent to some.",
+      "prop_spans": [
+        [
+          431,
+          443,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 484,
+      "end_ix": 602,
+      "text": "\n\ufeff\nJimenez was later arrested and shortly thereafter fired from his job for ripping off Richard\u2019s hat and stealing it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 602,
+      "end_ix": 724,
+      "text": "\n\u201cThis is gonna go right in my f**king fireplace, b***h,\u201d Jimenez said, acting like a bully for stealing a teenager\u2019s hat.",
+      "new_text": "\n\u201cThis is gonna go right in my f**king fireplace, b***h,\u201d Jimenez said, acting like an intimidator for stealing a teenager\u2019s hat.",
+      "prop_spans": [
+        [
+          633,
+          640,
+          "Loaded_Language"
+        ],
+        [
+          652,
+          657,
+          "Loaded_Language"
+        ],
+        [
+          688,
+          693,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 724,
+      "end_ix": 769,
+      "text": "\nJimenez also threw a soda in Richard\u2019s face.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 769,
+      "end_ix": 944,
+      "text": "\nRichard\u2019s hat appeared to be gone for good until the video of the incident went viral and he received a new MAGA hat signed by the president himself, reported The Daily Wire.",
+      "new_text": "\nRichard\u2019s hat appeared to be gone for good until the video of the incident went viral and he received a new similar hat, reported The Daily Wire.",
+      "prop_spans": [
+        [
+          878,
+          882,
+          "Repetition"
+        ],
+        [
+          887,
+          918,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 944,
+      "end_ix": 1086,
+      "text": "\nAmong those who commented on the video\u2019s original posting was Donald Trump Jr., who retweeted a story about the assault against the teenager.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1086,
+      "end_ix": 1187,
+      "text": "\n\u201cIf someone can get me this young man\u2019s information I\u2019ll get him a new #maga hat\u2026 SIGNED by #potus!!",
+      "new_text": "\n\u201cIf someone can get me this young man\u2019s information I\u2019ll get him a new #maga hat\u2026 SIGNED by #potus!!",
+      "prop_spans": [
+        [
+          1158,
+          1163,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1187,
+      "end_ix": 1211,
+      "text": "\n!\u201d he wrote on Twitter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1211,
+      "end_ix": 1312,
+      "text": "\nIf someone can get me this young man\u2019s information I\u2019ll get him a new #maga hat\u2026 SIGNED by #potus!!!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1312,
+      "end_ix": 1510,
+      "text": "\nhttps://t.co/zHBz4gKpkf \u2014 Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018\n\u201cTeen who made national news after having #MAGA hat stolen at a San Antonio fast food restaurant just got this in the mail.",
+      "new_text": "\nhttps://t.co/zHBz4gKpkf \u2014 Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018\n\u201cTeen who made national news after having #MAGA hat stolen at a San Antonio fast food restaurant just got this in the mail.",
+      "prop_spans": [
+        [
+          1429,
+          1434,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1510,
+      "end_ix": 1574,
+      "text": "\nA hat signed by @realDonaldTrump,\u201d Joe Gallow wrote on Twitter.",
+      "new_text": "\nA hat signed by @realDonaldTrump,\u201d Joe Gallow wrote on Twitter.",
+      "prop_spans": [
+        [
+          1517,
+          1543,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1574,
+      "end_ix": 1706,
+      "text": "\n#Update: Teen who made national news after having #MAGA hat stolen at a San Antonio fast food restaurant just got this in the mail.",
+      "new_text": "\n#Update: Teen who made national news after having #MAGA hat stolen at a San Antonio fast food restaurant just got this in the mail.",
+      "prop_spans": [
+        [
+          1625,
+          1630,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1706,
+      "end_ix": 1740,
+      "text": "\nA hat signed by @realDonaldTrump.",
+      "new_text": "\nA hat signed by @realDonaldTrump.",
+      "prop_spans": [
+        [
+          1713,
+          1739,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1740,
+      "end_ix": 1991,
+      "text": "\nSee the video: https://t.co/LAUcjERTNc @News4SA @KABBFOX29 pic.twitter.com/akzNSp4ps8 \u2014 Joe Galli (@JoeGalliNews) July 11, 2018\nRichard told media outlets that he\u2019s been a bit surprised by everything that\u2019s happened since the video was posted online.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1991,
+      "end_ix": 2285,
+      "text": "\n\u201cI didn\u2019t think it was going to generate the amount like what people are doing, I was looking at the comments by some people and \u2018they are like this is uncalled for\u2019 and other people are like mixed opinions but I didn\u2019t think it would blow up to what it is now,\u201d he said to News-4 San Antonio.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      13,
+      17,
+      "Slogans"
+    ],
+    [
+      114,
+      140,
+      "Slogans"
+    ],
+    [
+      356,
+      386,
+      "Repetition"
+    ],
+    [
+      431,
+      443,
+      "Loaded_Language"
+    ],
+    [
+      633,
+      640,
+      "Loaded_Language"
+    ],
+    [
+      652,
+      657,
+      "Loaded_Language"
+    ],
+    [
+      688,
+      693,
+      "Name_Calling,Labeling"
+    ],
+    [
+      878,
+      882,
+      "Repetition"
+    ],
+    [
+      887,
+      918,
+      "Repetition"
+    ],
+    [
+      1158,
+      1163,
+      "Slogans"
+    ],
+    [
+      1429,
+      1434,
+      "Repetition"
+    ],
+    [
+      1517,
+      1543,
+      "Repetition"
+    ],
+    [
+      1625,
+      1630,
+      "Repetition"
+    ],
+    [
+      1713,
+      1739,
+      "Repetition"
+    ]
+  ]
+}

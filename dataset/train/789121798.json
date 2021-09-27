@@ -1,0 +1,638 @@
+{
+  "article_id": "789121798",
+  "sentence offsets in original": [
+    0,
+    310,
+    401,
+    440,
+    555,
+    618,
+    708,
+    830,
+    909,
+    1081,
+    1165,
+    1431,
+    1493,
+    1555,
+    1707,
+    1789,
+    1817,
+    1880,
+    1951,
+    2061,
+    2329,
+    2417,
+    2468,
+    2759,
+    2932,
+    3086,
+    3097,
+    3311,
+    3347,
+    3487,
+    3576,
+    3654,
+    3757,
+    3792,
+    3911,
+    3983,
+    4203,
+    4248,
+    4269,
+    4293
+  ],
+  "original sentences": [
+    "Being Skeptical Of Documented Liars Attacking a Supreme Court Nominee Is A Good Thing - Here's Why\n\nIf you don\u2019t like President Trump and can\u2019t understand how anyone could, look no further than the past week for an excellent example of what on Earth could\u2019ve made a man promising to Drain the Swamp so popular.",
+    "\nThe Washington establishment politicians act like children when they can\u2019t have their way.",
+    "\nThey kick and scream and lie and pout.",
+    "\nPresident Trump is the anti-politician and when Congress continues to behave like this, he only gets more popular.",
+    "\nPresident Trump nominated Bret Kavanaugh to the supreme court.",
+    "\nHe\u2019s a pro-life judge and his vote will certainly tip the scales of justice to the right.",
+    "\nThe power that the Supreme Court has, some would argue, is greater in certain aspects than that of the president himself.",
+    "\nPerhaps that\u2019s why the 2016 election loss was so devastating to the Democrats.",
+    "\nTrump potentially has the ability to nominate 3 Supreme Court justices during his presidency, thus shaping the laws and morals of this country for about the next 30 years.",
+    "\nPersonally, I trust very, very few politicians no matter the party that they claim.",
+    "\nSo, when a bunch of well-documented liars come out with yet another sexual assault allegation against a Trump appointee, let\u2019s just say I\u2019m skeptical and here\u2019s why:\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nTiming\nThe most suspicious part of this whole situation is the timing.",
+    "\nChristine Ford recalled the incident in 2006\nShe's known about this for over ten years, why come forward now?",
+    "\nShe's affiliated with the democratic party and the \u201cresist\u201d movement\nShe hired a Clinton attorney, Lisa Banks\nShe can produce exactly zero witnesses\nAny one of these (and dozens of other) circumstances by themselves are not enough to dismiss this allegation outright.",
+    "\nHowever, taken together as a whole, it\u2019s far too suspicious to lend it any credibility.",
+    "\nLadies, you demand to be believed, no matter what.",
+    "\nWell, when every time there's a man that you don't like running for public office or being nominated for a position, some woman crawls out from a line of protesters and makes an ambiguous-at-best claim about unwanted sexual advances, it becomes increasingly difficult to take you seriously.",
+    "\nNo, an accusation against a man who has been investigated by the FBI six times prior and has 75 women publicly vouching for his character is not going to stop this process.",
+    "\nAnd guess what, next time a man is nominated to a position who really has committed a crime, people will be that much less likely to believe his accuser.",
+    "\nWay to go!",
+    "\nBy attempting to derail this process with such a pathetic attempt at a smear campaign, you have successfully made it much easier for a real sex offender to point back at this and say, \u201clook, this is what they do\"!",
+    "\nWomen everywhere should be furious.",
+    "\nAs an outsider, a regular Joe American, this is what I see: Trump nominates a very well known, well-established judge to the supreme court.",
+    "\nImmediately every Democrat publicly stated that they would vote No for his confirmation.",
+    "\nOn the other hand, every Republican publicly stated that they would vote Yes.",
+    "\nCurrently, there's more Republicans in Congress than Democrats, which means the guy will be confirmed.",
+    "\nThere's an election 2 months away.",
+    "\nThe Democrats think that they'll take back the majority of Congress and will thus be able to block Trump's nomination.",
+    "\nAll they have to do is delay the confirmation until after the election.",
+    "\nSo, they dig up some Trump-hating woman from Kavanaugh\u2019s past and convince her to say that he assaulted her thinking that such an allegation will surely delay the vote long enough for them to regain control of Congress.",
+    "\nIt\u2019s not difficult to see through this plan.",
+    "\nThese are the facts.",
+    "\nThis is not my opinion.",
+    "\nEverything else is just noise."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 310,
+      "text": "Being Skeptical Of Documented Liars Attacking a Supreme Court Nominee Is A Good Thing - Here's Why\n\nIf you don\u2019t like President Trump and can\u2019t understand how anyone could, look no further than the past week for an excellent example of what on Earth could\u2019ve made a man promising to Drain the Swamp so popular.",
+      "new_text": "Being Skeptical Of Liars Attacking a Supreme Court Nominee Is A Good Thing - Here's Why\n\nIf you don\u2019t like President Trump and can\u2019t understand how anyone could, look no further than the past week for an excellent example of what could\u2019ve made a man promising to Drain the Swamp so popular.",
+      "prop_spans": [
+        [
+          19,
+          36,
+          "Name_Calling,Labeling"
+        ],
+        [
+          236,
+          250,
+          "Loaded_Language"
+        ],
+        [
+          264,
+          299,
+          "Name_Calling,Labeling"
+        ],
+        [
+          283,
+          299,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 310,
+      "end_ix": 401,
+      "text": "\nThe Washington establishment politicians act like children when they can\u2019t have their way.",
+      "new_text": "\nThe Washington establishment politicians act childishly when they can\u2019t have their way.",
+      "prop_spans": [
+        [
+          352,
+          370,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 401,
+      "end_ix": 440,
+      "text": "\nThey kick and scream and lie and pout.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          402,
+          439,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 440,
+      "end_ix": 555,
+      "text": "\nPresident Trump is the anti-politician and when Congress continues to behave like this, he only gets more popular.",
+      "new_text": "\nPresident Trump is the anti-politician and when Congress continues to behave like this, he only gets more popular.",
+      "prop_spans": [
+        [
+          441,
+          480,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 555,
+      "end_ix": 618,
+      "text": "\nPresident Trump nominated Bret Kavanaugh to the supreme court.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 618,
+      "end_ix": 708,
+      "text": "\nHe\u2019s a pro-life judge and his vote will certainly tip the scales of justice to the right.",
+      "new_text": "\nHe\u2019s a pro-life person and his vote will certainly tip the scales of justice to the right.",
+      "prop_spans": [
+        [
+          626,
+          641,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 708,
+      "end_ix": 830,
+      "text": "\nThe power that the Supreme Court has, some would argue, is greater in certain aspects than that of the president himself.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 830,
+      "end_ix": 909,
+      "text": "\nPerhaps that\u2019s why the 2016 election loss was so devastating to the Democrats.",
+      "new_text": "\nPerhaps that\u2019s why the 2016 election loss was so damaging to the Democrats.",
+      "prop_spans": [
+        [
+          880,
+          892,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 909,
+      "end_ix": 1081,
+      "text": "\nTrump potentially has the ability to nominate 3 Supreme Court justices during his presidency, thus shaping the laws and morals of this country for about the next 30 years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1081,
+      "end_ix": 1165,
+      "text": "\nPersonally, I trust very, very few politicians no matter the party that they claim.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1082,
+          1164,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1165,
+      "end_ix": 1431,
+      "text": "\nSo, when a bunch of well-documented liars come out with yet another sexual assault allegation against a Trump appointee, let\u2019s just say I\u2019m skeptical and here\u2019s why:\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": "\nSo, when some liars come out with yet another sexual assault allegation against a Trump appointee, let\u2019s just say I\u2019m skeptical and here\u2019s why:\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "prop_spans": [
+        [
+          1175,
+          1208,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1431,
+      "end_ix": 1493,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1493,
+      "end_ix": 1555,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1555,
+      "end_ix": 1707,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1707,
+      "end_ix": 1789,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1789,
+      "end_ix": 1817,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1817,
+      "end_ix": 1880,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1880,
+      "end_ix": 1951,
+      "text": "\nTiming\nThe most suspicious part of this whole situation is the timing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1951,
+      "end_ix": 2061,
+      "text": "\nChristine Ford recalled the incident in 2006\nShe's known about this for over ten years, why come forward now?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2061,
+      "end_ix": 2329,
+      "text": "\nShe's affiliated with the democratic party and the \u201cresist\u201d movement\nShe hired a Clinton attorney, Lisa Banks\nShe can produce exactly zero witnesses\nAny one of these (and dozens of other) circumstances by themselves are not enough to dismiss this allegation outright.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2329,
+      "end_ix": 2417,
+      "text": "\nHowever, taken together as a whole, it\u2019s far too suspicious to lend it any credibility.",
+      "new_text": "\nHowever, taken together as a whole, it\u2019s far too suspicious to lend it any credibility.",
+      "prop_spans": [
+        [
+          2339,
+          2416,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2417,
+      "end_ix": 2468,
+      "text": "\nLadies, you demand to be believed, no matter what.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2468,
+      "end_ix": 2759,
+      "text": "\nWell, when every time there's a man that you don't like running for public office or being nominated for a position, some woman crawls out from a line of protesters and makes an ambiguous-at-best claim about unwanted sexual advances, it becomes increasingly difficult to take you seriously.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2480,
+          2701,
+          "Causal_Oversimplification"
+        ],
+        [
+          2597,
+          2608,
+          "Loaded_Language"
+        ],
+        [
+          2647,
+          2665,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2759,
+      "end_ix": 2932,
+      "text": "\nNo, an accusation against a man who has been investigated by the FBI six times prior and has 75 women publicly vouching for his character is not going to stop this process.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2932,
+      "end_ix": 3086,
+      "text": "\nAnd guess what, next time a man is nominated to a position who really has committed a crime, people will be that much less likely to believe his accuser.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2949,
+          3085,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3086,
+      "end_ix": 3097,
+      "text": "\nWay to go!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3087,
+          3096,
+          "Loaded_Language"
+        ],
+        [
+          3087,
+          3096,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3097,
+      "end_ix": 3311,
+      "text": "\nBy attempting to derail this process with such a pathetic attempt at a smear campaign, you have successfully made it much easier for a real sex offender to point back at this and say, \u201clook, this is what they do\"!",
+      "new_text": "\nBy attempting to derail this process with a smear campaign, you have successfully made it much easier for a real sex offender to point back at this and say, \u201clook, this is what they do\"!",
+      "prop_spans": [
+        [
+          3140,
+          3183,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3311,
+      "end_ix": 3347,
+      "text": "\nWomen everywhere should be furious.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3312,
+          3346,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3312,
+          3346,
+          "Bandwagon"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3347,
+      "end_ix": 3487,
+      "text": "\nAs an outsider, a regular Joe American, this is what I see: Trump nominates a very well known, well-established judge to the supreme court.",
+      "new_text": "\nAs an outsider, this is what I see: Trump nominates a very well known, well-established judge to the supreme court.",
+      "prop_spans": [
+        [
+          3366,
+          3386,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3487,
+      "end_ix": 3576,
+      "text": "\nImmediately every Democrat publicly stated that they would vote No for his confirmation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3576,
+      "end_ix": 3654,
+      "text": "\nOn the other hand, every Republican publicly stated that they would vote Yes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3654,
+      "end_ix": 3757,
+      "text": "\nCurrently, there's more Republicans in Congress than Democrats, which means the guy will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3757,
+      "end_ix": 3792,
+      "text": "\nThere's an election 2 months away.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3792,
+      "end_ix": 3911,
+      "text": "\nThe Democrats think that they'll take back the majority of Congress and will thus be able to block Trump's nomination.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3911,
+      "end_ix": 3983,
+      "text": "\nAll they have to do is delay the confirmation until after the election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3983,
+      "end_ix": 4203,
+      "text": "\nSo, they dig up some Trump-hating woman from Kavanaugh\u2019s past and convince her to say that he assaulted her thinking that such an allegation will surely delay the vote long enough for them to regain control of Congress.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3988,
+          4202,
+          "Causal_Oversimplification"
+        ],
+        [
+          4005,
+          4024,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4203,
+      "end_ix": 4248,
+      "text": "\nIt\u2019s not difficult to see through this plan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4248,
+      "end_ix": 4269,
+      "text": "\nThese are the facts.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4269,
+      "end_ix": 4293,
+      "text": "\nThis is not my opinion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4293,
+      "end_ix": 4324,
+      "text": "\nEverything else is just noise.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          4294,
+          4323,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      19,
+      36,
+      "Name_Calling,Labeling"
+    ],
+    [
+      236,
+      250,
+      "Loaded_Language"
+    ],
+    [
+      264,
+      299,
+      "Name_Calling,Labeling"
+    ],
+    [
+      283,
+      299,
+      "Slogans"
+    ],
+    [
+      352,
+      370,
+      "Loaded_Language"
+    ],
+    [
+      402,
+      439,
+      "Loaded_Language"
+    ],
+    [
+      441,
+      480,
+      "Name_Calling,Labeling"
+    ],
+    [
+      626,
+      641,
+      "Name_Calling,Labeling"
+    ],
+    [
+      880,
+      892,
+      "Loaded_Language"
+    ],
+    [
+      1082,
+      1164,
+      "Red_Herring"
+    ],
+    [
+      1175,
+      1208,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2339,
+      2416,
+      "Doubt"
+    ],
+    [
+      2480,
+      2701,
+      "Causal_Oversimplification"
+    ],
+    [
+      2597,
+      2608,
+      "Loaded_Language"
+    ],
+    [
+      2647,
+      2665,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2949,
+      3085,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3087,
+      3096,
+      "Loaded_Language"
+    ],
+    [
+      3087,
+      3096,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      3140,
+      3183,
+      "Loaded_Language"
+    ],
+    [
+      3312,
+      3346,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3312,
+      3346,
+      "Bandwagon"
+    ],
+    [
+      3366,
+      3386,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3988,
+      4202,
+      "Causal_Oversimplification"
+    ],
+    [
+      4005,
+      4024,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4294,
+      4323,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

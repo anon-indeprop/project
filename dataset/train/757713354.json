@@ -1,0 +1,722 @@
+{
+  "article_id": "757713354",
+  "sentence offsets in original": [
+    0,
+    154,
+    299,
+    406,
+    517,
+    664,
+    720,
+    953,
+    1080,
+    1381,
+    1738,
+    1806,
+    1847,
+    1957,
+    2036,
+    2217,
+    2330,
+    2349,
+    2401,
+    2406,
+    2547,
+    2633,
+    2715,
+    2837,
+    3025,
+    3136,
+    3204,
+    3354,
+    3400,
+    3489,
+    3547,
+    3584,
+    3598,
+    3621,
+    3715,
+    3816,
+    3886,
+    3974,
+    4175,
+    4341,
+    4375,
+    4441,
+    4477,
+    4595,
+    4684,
+    4766,
+    4805,
+    4857,
+    4888
+  ],
+  "original sentences": [
+    "Not So Fast\n\nIt\u2019s got to be either one of the stupidest acts that I can recall or a very wicked plan by Washington neocons to sabotage Korean peace talks.",
+    "\nHow else to describe the decision by Big Brother USA and junior sidekick South Korea to stage major air force exercises on North Korea\u2019s border.",
+    "\nThe prickly North Koreans had a fit, of course, as always when the US flexes its muscles on their borders.",
+    "\nContinuing South and North Korean peace talks scheduled this week were cancelled by the furious North Koreans.",
+    "\nThe much ballyhooed Singapore summit between US President Donald Trump and North Korea\u2019s Kim Jong-un is now threatened with cancellation or delay.",
+    "\nWho can blame the North Koreans for blowing their tops?",
+    "\nAs Trump administration mouthpieces were gabbing about peace and light, the US Air Force was getting ready to fly B-52 heavy bombers and F-22 Raptor stealth fighters around North Korea\u2019s borders and missile-armed subs lurked at sea.",
+    "\nThis provocation was the first of two major spring military exercises planned by the US and its reluctant South Korean satrap.",
+    "\nIn case North Korea failed to get the message, the second exercise is code-named \u2018Maximum Thunder.\u2019\nAmerican Raj: Liberati... Eric Margolis Best Price: $5.99 Buy New $45.86 (as of 09:30 EDT - Details) And this right after Trump and his neocon minions reneged on the sensible nuclear treaty with Iran.",
+    "\nIn a policy one could call \u2018eat sand and die,\u2019 Trump demanded that Iran not only give up any and all nuclear capacity (Iran has no nukes), but also junk its non-nuclear armed medium range missiles, stop backing the Palestinians, Hezbollah in Lebanon and the Houthis in Yemen, roll over and be good, don\u2019t do anything to upset Israel, and pull out of Syria.",
+    "\nIn short, a total surrender policy leading to future regime change.",
+    "\nHardly an encouragement for North Korea.",
+    "\nNorth Korea was right on target when it accused arch-neocon John Bolton of trying to sabotage the peace deal.",
+    "\nIn 2005-2006, Bolton served as the Bush administration\u2019s ambassador to the UN.",
+    "\nHe established a tradition for the post of being anti-Muslim, pro-Israel and anti-Russian, a policy continued to this day by the current US UN rep, loud-mouthed neocon Nikki Haley.",
+    "\nIn the 2005-2006 period, after years of negotiations, the US and North Korea were close to a nuclear/peace deal.",
+    "\nEnter John Bolton.",
+    "\nHe succeeded in sabotaging the US-North Korea deal.",
+    "\nWhy?",
+    "\nBecause Bolton, as an arch neocon, was fanatically pro-Israel and feared that North Korea might provide nuclear technology to Israel\u2019s foes.",
+    "\nAs usual with the neocons, Israel\u2019s interests came before those of the United States.",
+    "\nTrump\u2019s newly named Secretary of State, Michael Pompeo, is also an ardent neocon.",
+    "\nLast week, Bolton went onto US TV and actually suggested North Korea might follow the course set by Libya, of all places.",
+    "\nLibya\u2019s then ruler, Muammar Kadaffi, bought some nuclear equipment from Pakistan so he could hand it over to the US as a gesture of cooperation after the Bush administration invaded Iraq.",
+    "\nThe handover was done with much fanfare, then the US, France and Britain attacked Libya and overthrew Kadaffi.",
+    "\nThe hapless Libyan leader was eventually murdered by French agents.",
+    "\nWar at the Top of the ... Eric Margolis Best Price: $2.60 Buy New $24.57 (as of 09:00 EDT - Details)\nIs this what Bolton has in mind for North Korea?",
+    "\nThe Northerners certainly seemed to think so.",
+    "\nSome wondered if Bolton and perhaps Pompeo were trying to sabotage the North Korea deal.",
+    "\nOr were at least being incredibly obtuse and belligerent.",
+    "\nWas Trump involved in this intrigue?",
+    "\nHard to tell.",
+    "\nBut he can\u2019t be happy.",
+    "\nHis minions and bootlickers are promoting Trump for the Nobel Prize \u2013 rather ahead of events.",
+    "\nOr was the US military rattling its sabers and trying to protect its huge investments in North Asia?",
+    "\nThe Pentagon takes a dim view of the proposed Korean nuclear accords.",
+    "\nThe burst of sweetness and light coming from Pyongyang just sounds too good to be true.",
+    "\nVeteran Korea observers, this writer included, find it hard to believe Kim Jong-un will give up his nuclear weapons, particularly after seeing Trump\u2019s deceit in dealing with Iran and Kadaffi\u2019s murder.",
+    "\nSpeaking of de-nuclearization, why does North Korea not demand that the US get rid of its nuclear weapons based in South Korea, Okinawa, Guam and with the 7th Fleet?",
+    "\nMany are targeted on North Korea.",
+    "\nUS nuclear weapons are based on Diego Garcia in the Indian Ocean.",
+    "\nOthers are secretly based in Japan.",
+    "\nWhy not demand the US pull out all its 28,500 troops in South Korea and some 2,000 military technicians at air bases?",
+    "\nConclusively halt those spring and fall military maneuvers that raise the threat of war.",
+    "\nEnd the trade embargo of North Korea that amounts to high level economic warfare.",
+    "\nEstablish normal diplomatic relations.",
+    "\nPyongyang has not even begun to raise these issues.",
+    "\nSmiles and hugs are premature.",
+    "\nThe Best of Eric Margolis"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 154,
+      "text": "Not So Fast\n\nIt\u2019s got to be either one of the stupidest acts that I can recall or a very wicked plan by Washington neocons to sabotage Korean peace talks.",
+      "new_text": "Not So Fast\n\nIt\u2019s got to be either a foolish act that I can recall or a wicked plan by Washington neocons to sabotage Korean peace talks.",
+      "prop_spans": [
+        [
+          46,
+          55,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          84,
+          95,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 154,
+      "end_ix": 299,
+      "text": "\nHow else to describe the decision by Big Brother USA and junior sidekick South Korea to stage major air force exercises on North Korea\u2019s border.",
+      "new_text": "\nHow else to describe the decision by USA and South Korea to stage major air force exercises on North Korea\u2019s border.",
+      "prop_spans": [
+        [
+          192,
+          203,
+          "Name_Calling,Labeling"
+        ],
+        [
+          212,
+          227,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 299,
+      "end_ix": 406,
+      "text": "\nThe prickly North Koreans had a fit, of course, as always when the US flexes its muscles on their borders.",
+      "new_text": "\nThe North Koreans had a fit, of course, as always when the US flexes its muscles on their borders.",
+      "prop_spans": [
+        [
+          304,
+          311,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 406,
+      "end_ix": 517,
+      "text": "\nContinuing South and North Korean peace talks scheduled this week were cancelled by the furious North Koreans.",
+      "new_text": "\nContinuing South and North Korean peace talks scheduled this week were cancelled by the North Koreans.",
+      "prop_spans": [
+        [
+          495,
+          502,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 517,
+      "end_ix": 664,
+      "text": "\nThe much ballyhooed Singapore summit between US President Donald Trump and North Korea\u2019s Kim Jong-un is now threatened with cancellation or delay.",
+      "new_text": "\nThe Singapore summit between US President Donald Trump and North Korea\u2019s Kim Jong-un is now threatened with cancellation or delay.",
+      "prop_spans": [
+        [
+          522,
+          537,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 664,
+      "end_ix": 720,
+      "text": "\nWho can blame the North Koreans for blowing their tops?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 720,
+      "end_ix": 953,
+      "text": "\nAs Trump administration mouthpieces were gabbing about peace and light, the US Air Force was getting ready to fly B-52 heavy bombers and F-22 Raptor stealth fighters around North Korea\u2019s borders and missile-armed subs lurked at sea.",
+      "new_text": "\nAs Trump administration mouthpieces were talking about peace and light, the US Air Force was getting ready to fly B-52 heavy bombers and F-22 Raptor stealth fighters around North Korea\u2019s borders and missile-armed subs lurked at sea.",
+      "prop_spans": [
+        [
+          762,
+          769,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 953,
+      "end_ix": 1080,
+      "text": "\nThis provocation was the first of two major spring military exercises planned by the US and its reluctant South Korean satrap.",
+      "new_text": "\nThis was the first of two major spring military exercises planned by the US and its South Korean satrap.",
+      "prop_spans": [
+        [
+          959,
+          970,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1050,
+          1059,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1073,
+          1079,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1080,
+      "end_ix": 1381,
+      "text": "\nIn case North Korea failed to get the message, the second exercise is code-named \u2018Maximum Thunder.\u2019\nAmerican Raj: Liberati... Eric Margolis Best Price: $5.99 Buy New $45.86 (as of 09:30 EDT - Details) And this right after Trump and his neocon minions reneged on the sensible nuclear treaty with Iran.",
+      "new_text": "\nIn case North Korea failed to get the message, the second exercise is code-named \u2018Maximum Thunder.\u2019\nAmerican Raj: Liberati... Eric Margolis Best Price: $5.99 Buy New $45.86 (as of 09:30 EDT - Details) And this right after Trump and his associates reneged on the sensible nuclear treaty with Iran.",
+      "prop_spans": [
+        [
+          1317,
+          1330,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1381,
+      "end_ix": 1738,
+      "text": "\nIn a policy one could call \u2018eat sand and die,\u2019 Trump demanded that Iran not only give up any and all nuclear capacity (Iran has no nukes), but also junk its non-nuclear armed medium range missiles, stop backing the Palestinians, Hezbollah in Lebanon and the Houthis in Yemen, roll over and be good, don\u2019t do anything to upset Israel, and pull out of Syria.",
+      "new_text": "\nIn a policy one could call \u2018eat sand and die,\u2019 Trump demanded that Iran not only give up any and all nuclear capacity (Iran has no nukes), but also junk its non-nuclear armed medium range missiles, stop backing the Palestinians, Hezbollah in Lebanon and the Houthis in Yemen, don\u2019t do anything to upset Israel, and pull out of Syria.",
+      "prop_spans": [
+        [
+          1409,
+          1428,
+          "Loaded_Language"
+        ],
+        [
+          1658,
+          1679,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1738,
+      "end_ix": 1806,
+      "text": "\nIn short, a total surrender policy leading to future regime change.",
+      "new_text": "\nIn short, a surrender policy leading to future regime change.",
+      "prop_spans": [
+        [
+          1751,
+          1766,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1806,
+      "end_ix": 1847,
+      "text": "\nHardly an encouragement for North Korea.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1847,
+      "end_ix": 1957,
+      "text": "\nNorth Korea was right on target when it accused arch-neocon John Bolton of trying to sabotage the peace deal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1957,
+      "end_ix": 2036,
+      "text": "\nIn 2005-2006, Bolton served as the Bush administration\u2019s ambassador to the UN.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2036,
+      "end_ix": 2217,
+      "text": "\nHe established a tradition for the post of being anti-Muslim, pro-Israel and anti-Russian, a policy continued to this day by the current US UN rep, loud-mouthed neocon Nikki Haley.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2217,
+      "end_ix": 2330,
+      "text": "\nIn the 2005-2006 period, after years of negotiations, the US and North Korea were close to a nuclear/peace deal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2330,
+      "end_ix": 2349,
+      "text": "\nEnter John Bolton.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2349,
+      "end_ix": 2401,
+      "text": "\nHe succeeded in sabotaging the US-North Korea deal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2401,
+      "end_ix": 2406,
+      "text": "\nWhy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2406,
+      "end_ix": 2547,
+      "text": "\nBecause Bolton, as an arch neocon, was fanatically pro-Israel and feared that North Korea might provide nuclear technology to Israel\u2019s foes.",
+      "new_text": "\nBecause Bolton, as an arch neocon, was pro-Israel and feared that North Korea might provide nuclear technology to Israel\u2019s foes.",
+      "prop_spans": [
+        [
+          2446,
+          2457,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2547,
+      "end_ix": 2633,
+      "text": "\nAs usual with the neocons, Israel\u2019s interests came before those of the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2633,
+      "end_ix": 2715,
+      "text": "\nTrump\u2019s newly named Secretary of State, Michael Pompeo, is also an ardent neocon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2715,
+      "end_ix": 2837,
+      "text": "\nLast week, Bolton went onto US TV and actually suggested North Korea might follow the course set by Libya, of all places.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2837,
+      "end_ix": 3025,
+      "text": "\nLibya\u2019s then ruler, Muammar Kadaffi, bought some nuclear equipment from Pakistan so he could hand it over to the US as a gesture of cooperation after the Bush administration invaded Iraq.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3025,
+      "end_ix": 3136,
+      "text": "\nThe handover was done with much fanfare, then the US, France and Britain attacked Libya and overthrew Kadaffi.",
+      "new_text": "\nThe handover was done with display, then the US, France and Britain attacked Libya and overthrew Kadaffi.",
+      "prop_spans": [
+        [
+          3053,
+          3065,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3136,
+      "end_ix": 3204,
+      "text": "\nThe hapless Libyan leader was eventually murdered by French agents.",
+      "new_text": "\nThe Libyan leader was eventually murdered by French agents.",
+      "prop_spans": [
+        [
+          3141,
+          3148,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3204,
+      "end_ix": 3354,
+      "text": "\nWar at the Top of the ... Eric Margolis Best Price: $2.60 Buy New $24.57 (as of 09:00 EDT - Details)\nIs this what Bolton has in mind for North Korea?",
+      "new_text": "\nWar at the Top of the ... Eric Margolis Best Price: $2.60 Buy New $24.57 (as of 09:00 EDT - Details)\nThis is what Bolton has in mind for North Korea.",
+      "prop_spans": [
+        [
+          3306,
+          3354,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3354,
+      "end_ix": 3400,
+      "text": "\nThe Northerners certainly seemed to think so.",
+      "new_text": "\nThe Northerners certainly seemed to think so.",
+      "prop_spans": [
+        [
+          3354,
+          3354,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3400,
+      "end_ix": 3489,
+      "text": "\nSome wondered if Bolton and perhaps Pompeo were trying to sabotage the North Korea deal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3489,
+      "end_ix": 3547,
+      "text": "\nOr were at least being incredibly obtuse and belligerent.",
+      "new_text": "\nOr were at least being obtuse and belligerent.",
+      "prop_spans": [
+        [
+          3513,
+          3530,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3547,
+      "end_ix": 3584,
+      "text": "\nWas Trump involved in this intrigue?",
+      "new_text": "\nWas Trump involved in this intrigue?",
+      "prop_spans": [
+        [
+          3548,
+          3584,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3584,
+      "end_ix": 3598,
+      "text": "\nHard to tell.",
+      "new_text": "\nHard to tell.",
+      "prop_spans": [
+        [
+          3584,
+          3584,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3598,
+      "end_ix": 3621,
+      "text": "\nBut he can\u2019t be happy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3621,
+      "end_ix": 3715,
+      "text": "\nHis minions and bootlickers are promoting Trump for the Nobel Prize \u2013 rather ahead of events.",
+      "new_text": "\nHis subordinates are promoting Trump for the Nobel Prize \u2013 rather ahead of events.",
+      "prop_spans": [
+        [
+          3626,
+          3633,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3638,
+          3649,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3715,
+      "end_ix": 3816,
+      "text": "\nOr was the US military rattling its sabers and trying to protect its huge investments in North Asia?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3816,
+      "end_ix": 3886,
+      "text": "\nThe Pentagon takes a dim view of the proposed Korean nuclear accords.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3886,
+      "end_ix": 3974,
+      "text": "\nThe burst of sweetness and light coming from Pyongyang just sounds too good to be true.",
+      "new_text": "\nThe burst of sweetness and light coming from Pyongyang just sounds too right.",
+      "prop_spans": [
+        [
+          3954,
+          3973,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3974,
+      "end_ix": 4175,
+      "text": "\nVeteran Korea observers, this writer included, find it hard to believe Kim Jong-un will give up his nuclear weapons, particularly after seeing Trump\u2019s deceit in dealing with Iran and Kadaffi\u2019s murder.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4175,
+      "end_ix": 4341,
+      "text": "\nSpeaking of de-nuclearization, why does North Korea not demand that the US get rid of its nuclear weapons based in South Korea, Okinawa, Guam and with the 7th Fleet?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4341,
+      "end_ix": 4375,
+      "text": "\nMany are targeted on North Korea.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4375,
+      "end_ix": 4441,
+      "text": "\nUS nuclear weapons are based on Diego Garcia in the Indian Ocean.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4441,
+      "end_ix": 4477,
+      "text": "\nOthers are secretly based in Japan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4477,
+      "end_ix": 4595,
+      "text": "\nWhy not demand the US pull out all its 28,500 troops in South Korea and some 2,000 military technicians at air bases?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4595,
+      "end_ix": 4684,
+      "text": "\nConclusively halt those spring and fall military maneuvers that raise the threat of war.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4684,
+      "end_ix": 4766,
+      "text": "\nEnd the trade embargo of North Korea that amounts to high level economic warfare.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4766,
+      "end_ix": 4805,
+      "text": "\nEstablish normal diplomatic relations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4805,
+      "end_ix": 4857,
+      "text": "\nPyongyang has not even begun to raise these issues.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4857,
+      "end_ix": 4888,
+      "text": "\nSmiles and hugs are premature.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4888,
+      "end_ix": 4914,
+      "text": "\nThe Best of Eric Margolis",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      46,
+      55,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      84,
+      95,
+      "Loaded_Language"
+    ],
+    [
+      192,
+      203,
+      "Name_Calling,Labeling"
+    ],
+    [
+      212,
+      227,
+      "Name_Calling,Labeling"
+    ],
+    [
+      304,
+      311,
+      "Name_Calling,Labeling"
+    ],
+    [
+      495,
+      502,
+      "Loaded_Language"
+    ],
+    [
+      522,
+      537,
+      "Loaded_Language"
+    ],
+    [
+      762,
+      769,
+      "Loaded_Language"
+    ],
+    [
+      959,
+      970,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1050,
+      1059,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1073,
+      1079,
+      "Loaded_Language"
+    ],
+    [
+      1317,
+      1330,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1409,
+      1428,
+      "Loaded_Language"
+    ],
+    [
+      1658,
+      1679,
+      "Loaded_Language"
+    ],
+    [
+      1751,
+      1766,
+      "Loaded_Language"
+    ],
+    [
+      2446,
+      2457,
+      "Loaded_Language"
+    ],
+    [
+      3053,
+      3065,
+      "Loaded_Language"
+    ],
+    [
+      3141,
+      3148,
+      "Loaded_Language"
+    ],
+    [
+      3306,
+      3354,
+      "Doubt"
+    ],
+    [
+      3513,
+      3530,
+      "Loaded_Language"
+    ],
+    [
+      3548,
+      3584,
+      "Doubt"
+    ],
+    [
+      3626,
+      3633,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3638,
+      3649,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3954,
+      3973,
+      "Thought-terminating_Cliches"
+    ]
+  ]
+}

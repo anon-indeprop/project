@@ -1,0 +1,572 @@
+{
+  "article_id": "769962236",
+  "sentence offsets in original": [
+    0,
+    160,
+    217,
+    378,
+    491,
+    585,
+    641,
+    697,
+    726,
+    756,
+    837,
+    919,
+    947,
+    1010,
+    1074,
+    1130,
+    1433,
+    1670,
+    1726,
+    1935,
+    2086,
+    2185,
+    2224,
+    2464,
+    2531,
+    2649,
+    2724,
+    2885,
+    3082,
+    3204,
+    3259,
+    3279,
+    3520,
+    3644,
+    3818,
+    3839,
+    3967
+  ],
+  "original sentences": [
+    "Communist Door Boy Attacks Teen Trump Supporter\n\nDown in San Antonio, Texas the dangerous and violent predilections of the left reared its ugly head once again.",
+    "\nA \u201cman\u201d attacked a teenager who was wearing a #MAGA hat.",
+    "\nThe criminal attacker, one Kino Jimenez, took the boy\u2019s hat, yelled at him, and then threw a drink in the boy\u2019s face before walking off (and stealing\nthe hat ).",
+    "\nThe entire event was caught on camera (by the teen\u2019s friend who was with him), and the police are investigating.",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nHere\u2019s what happened:\nIs this the America Maxine Waters wanted?",
+    "\nWhere Trump supporters can't even have a meal in peace?",
+    "\nhttps://t.co/9g1BSiw8LS \u2014 The Columbia Bugle \ud83c\uddfa\ud83c\uddf8 (@ColumbiaBugle) July 5, 2018\nThe attack took place in a Whataburger restaurant, and the corporation was quick to condemn the man\u2019s actions:\n\u201cWe were shocked to see this video and certainly don\u2019t condone this type of customer behavior in our restaurants.",
+    "\nTo be clear, no Whataburger employees were involved or witnessed the incident, and we ask that questions be directed to San Antonio PD as we continue supporting their efforts.\u201d\nJimenez, who is 30, seems to have only had a part-time job.",
+    "\nHis employer was a San Antonio nightspot called Rumble.",
+    "\nImmediately upon learning of the altercation, the bar announced that it had fired Jimenez because they believed such behavior was immoral, uncalled for, and not in keeping with Rumble\u2019s welcoming personality.",
+    "\nOn their Facebook page, they wrote, \u201c\u2026We have since terminated this employee, as his actions go against everything that this establishment stands for.",
+    "\nRumble has, and always will be, a bar that is as inclusive as any establishment could possibly be.",
+    "\nTHIS BAR IS A SAFE SPACE FOR EVERYONE!",
+    "\nNo matter your race, creed, ethnicity, sexual identity, and political stance, you are welcomed here!\u201d Rumble said on Facebook that Jimenez worked as a \u201cpart-time door guy.\u201d They added, \u201cWe do not condone these types of actions or behavior.",
+    "\nIf you have any questions or concerns please message us privately.",
+    "\nWe support and appreciate your business.\u201d\nContrary to what you might believe about Jimenez\u2026 he is/was NOT a Democrat!",
+    "\nNo, he is further to the Left and was an active member of the Green Party.",
+    "\nHowever, upon learning of his behavior the local Green Party told the media that Jimenez had been cut off from the party for his uncalled for attack on a child.",
+    "\n\u201cWe all have different opinions of our president, but we don\u2019t take it out on innocent kids who just happen to have a hat on,\u201d Gavino Zarate, secretary of the Harris County Green Party told Heavy.",
+    "\n\u201cYou may not like the hat or you may not like the president, but you don\u2019t show that kind of aggression toward teenagers.",
+    "\nIt goes against everything the Green Party stands for.",
+    "\nWe are not violent.",
+    "\nWe do not take our aggression out on innocent young people.\u201d\nSome on the right have connected the attack to Maxine Waters\u2019 call for Democrats to confront members of the Trump administration whenever, and wherever they happened to find them.",
+    "\nLeftists have said the connection is unfair, because Waters\u2019 was only calling for accosting Trump administration officials.",
+    "\nMy question is; how big of a leap would it be for a normal, rational adult to go from confronting administration officials to attacking the people who elected them to power?",
+    "\nNot much in my mind.",
+    "\nThe reality is that the Democrats are as much to blame for the corrosive and ugly rhetoric in America today as Donald Trump is.",
+    "\nArticle posted with permission from Constitution.com"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 160,
+      "text": "Communist Door Boy Attacks Teen Trump Supporter\n\nDown in San Antonio, Texas the dangerous and violent predilections of the left reared its ugly head once again.",
+      "new_text": "Door Boy Attacks Teen\n\nDown in San Antonio, Texas the predilections of the left reared its head once again.",
+      "prop_spans": [
+        [
+          0,
+          9,
+          "Name_Calling,Labeling"
+        ],
+        [
+          32,
+          47,
+          "Name_Calling,Labeling"
+        ],
+        [
+          80,
+          89,
+          "Loaded_Language"
+        ],
+        [
+          94,
+          101,
+          "Loaded_Language"
+        ],
+        [
+          139,
+          143,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 160,
+      "end_ix": 217,
+      "text": "\nA \u201cman\u201d attacked a teenager who was wearing a #MAGA hat.",
+      "new_text": "\nA \u201cman\u201d confronted a teenager who was wearing a #MAGA hat.",
+      "prop_spans": [
+        [
+          163,
+          168,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          169,
+          177,
+          "Loaded_Language"
+        ],
+        [
+          206,
+          212,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 217,
+      "end_ix": 378,
+      "text": "\nThe criminal attacker, one Kino Jimenez, took the boy\u2019s hat, yelled at him, and then threw a drink in the boy\u2019s face before walking off (and stealing\nthe hat ).",
+      "new_text": "\nThe attacker, Kino Jimenez, took the boy\u2019s hat, yelled at him, and then threw a drink in the boy\u2019s face before walking off (and stealing\nthe hat ).",
+      "prop_spans": [
+        [
+          222,
+          239,
+          "Name_Calling,Labeling"
+        ],
+        [
+          241,
+          244,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 378,
+      "end_ix": 491,
+      "text": "\nThe entire event was caught on camera (by the teen\u2019s friend who was with him), and the police are investigating.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 491,
+      "end_ix": 585,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 585,
+      "end_ix": 641,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 641,
+      "end_ix": 697,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 697,
+      "end_ix": 726,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 726,
+      "end_ix": 756,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 756,
+      "end_ix": 837,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 837,
+      "end_ix": 919,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 919,
+      "end_ix": 947,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 947,
+      "end_ix": 1010,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1010,
+      "end_ix": 1074,
+      "text": "\nHere\u2019s what happened:\nIs this the America Maxine Waters wanted?",
+      "new_text": "\nHere\u2019s what happened:",
+      "prop_spans": [
+        [
+          1033,
+          1074,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1074,
+      "end_ix": 1130,
+      "text": "\nWhere Trump supporters can't even have a meal in peace?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1074,
+          1074,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1130,
+      "end_ix": 1433,
+      "text": "\nhttps://t.co/9g1BSiw8LS \u2014 The Columbia Bugle \ud83c\uddfa\ud83c\uddf8 (@ColumbiaBugle) July 5, 2018\nThe attack took place in a Whataburger restaurant, and the corporation was quick to condemn the man\u2019s actions:\n\u201cWe were shocked to see this video and certainly don\u2019t condone this type of customer behavior in our restaurants.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1433,
+      "end_ix": 1670,
+      "text": "\nTo be clear, no Whataburger employees were involved or witnessed the incident, and we ask that questions be directed to San Antonio PD as we continue supporting their efforts.\u201d\nJimenez, who is 30, seems to have only had a part-time job.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1670,
+      "end_ix": 1726,
+      "text": "\nHis employer was a San Antonio nightspot called Rumble.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1726,
+      "end_ix": 1935,
+      "text": "\nImmediately upon learning of the altercation, the bar announced that it had fired Jimenez because they believed such behavior was immoral, uncalled for, and not in keeping with Rumble\u2019s welcoming personality.",
+      "new_text": "\nImmediately upon learning of the altercation, the bar announced that it had fired Jimenez because they believed such behavior was uncalled for, and not in keeping with Rumble\u2019s welcoming personality.",
+      "prop_spans": [
+        [
+          1762,
+          1773,
+          "Loaded_Language"
+        ],
+        [
+          1859,
+          1866,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1935,
+      "end_ix": 2086,
+      "text": "\nOn their Facebook page, they wrote, \u201c\u2026We have since terminated this employee, as his actions go against everything that this establishment stands for.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2086,
+      "end_ix": 2185,
+      "text": "\nRumble has, and always will be, a bar that is as inclusive as any establishment could possibly be.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2185,
+      "end_ix": 2224,
+      "text": "\nTHIS BAR IS A SAFE SPACE FOR EVERYONE!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2202,
+          2224,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2224,
+      "end_ix": 2464,
+      "text": "\nNo matter your race, creed, ethnicity, sexual identity, and political stance, you are welcomed here!\u201d Rumble said on Facebook that Jimenez worked as a \u201cpart-time door guy.\u201d They added, \u201cWe do not condone these types of actions or behavior.",
+      "new_text": "\nNo matter your race, creed, ethnicity, sexual identity, and political stance, you are welcomed here!\u201d Rumble said on Facebook that Jimenez worked as a \u201cpart-time door guy.\u201d They added, \u201cWe do not condone these types of actions or behavior.",
+      "prop_spans": [
+        [
+          2224,
+          2225,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2464,
+      "end_ix": 2531,
+      "text": "\nIf you have any questions or concerns please message us privately.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2531,
+      "end_ix": 2649,
+      "text": "\nWe support and appreciate your business.\u201d\nContrary to what you might believe about Jimenez\u2026 he is/was NOT a Democrat!",
+      "new_text": "\nWe support and appreciate your business.\u201d\nContrary to what you might believe about Jimenez\u2026 he is/was not a Democrat!",
+      "prop_spans": [
+        [
+          2636,
+          2639,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2649,
+      "end_ix": 2724,
+      "text": "\nNo, he is further to the Left and was an active member of the Green Party.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2724,
+      "end_ix": 2885,
+      "text": "\nHowever, upon learning of his behavior the local Green Party told the media that Jimenez had been cut off from the party for his uncalled for attack on a child.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2885,
+      "end_ix": 3082,
+      "text": "\n\u201cWe all have different opinions of our president, but we don\u2019t take it out on innocent kids who just happen to have a hat on,\u201d Gavino Zarate, secretary of the Harris County Green Party told Heavy.",
+      "new_text": "\n\u201cWe all have different opinions of our president, but we don\u2019t take it out on innocent kids who just happen to have a hat on,\u201d Gavino Zarate, secretary of the Harris County Green Party told Heavy.",
+      "prop_spans": [
+        [
+          2923,
+          2936,
+          "Flag-Waving"
+        ],
+        [
+          2966,
+          2979,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3082,
+      "end_ix": 3204,
+      "text": "\n\u201cYou may not like the hat or you may not like the president, but you don\u2019t show that kind of aggression toward teenagers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3204,
+      "end_ix": 3259,
+      "text": "\nIt goes against everything the Green Party stands for.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3259,
+      "end_ix": 3279,
+      "text": "\nWe are not violent.",
+      "new_text": "\nWe are not violent.",
+      "prop_spans": [
+        [
+          3262,
+          3279,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3279,
+      "end_ix": 3520,
+      "text": "\nWe do not take our aggression out on innocent young people.\u201d\nSome on the right have connected the attack to Maxine Waters\u2019 call for Democrats to confront members of the Trump administration whenever, and wherever they happened to find them.",
+      "new_text": "\nWe do not take our aggression out on innocent young people.\u201d\nSome on the right have connected the attack to Maxine Waters\u2019 call for Democrats to confront members of the Trump administration whenever, and wherever they happened to find them.",
+      "prop_spans": [
+        [
+          3279,
+          3280,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3520,
+      "end_ix": 3644,
+      "text": "\nLeftists have said the connection is unfair, because Waters\u2019 was only calling for accosting Trump administration officials.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3644,
+      "end_ix": 3818,
+      "text": "\nMy question is; how big of a leap would it be for a normal, rational adult to go from confronting administration officials to attacking the people who elected them to power?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3818,
+      "end_ix": 3839,
+      "text": "\nNot much in my mind.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3839,
+      "end_ix": 3967,
+      "text": "\nThe reality is that the Democrats are as much to blame for the corrosive and ugly rhetoric in America today as Donald Trump is.",
+      "new_text": "\nThe reality is that the Democrats are as much to blame for the rhetoric in America today as Donald Trump is.",
+      "prop_spans": [
+        [
+          3905,
+          3914,
+          "Loaded_Language"
+        ],
+        [
+          3919,
+          3923,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3967,
+      "end_ix": 4020,
+      "text": "\nArticle posted with permission from Constitution.com",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      9,
+      "Name_Calling,Labeling"
+    ],
+    [
+      32,
+      47,
+      "Name_Calling,Labeling"
+    ],
+    [
+      80,
+      89,
+      "Loaded_Language"
+    ],
+    [
+      94,
+      101,
+      "Loaded_Language"
+    ],
+    [
+      139,
+      143,
+      "Loaded_Language"
+    ],
+    [
+      163,
+      168,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      169,
+      177,
+      "Loaded_Language"
+    ],
+    [
+      206,
+      212,
+      "Slogans"
+    ],
+    [
+      222,
+      239,
+      "Name_Calling,Labeling"
+    ],
+    [
+      241,
+      244,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1033,
+      1074,
+      "Flag-Waving"
+    ],
+    [
+      1762,
+      1773,
+      "Loaded_Language"
+    ],
+    [
+      1859,
+      1866,
+      "Loaded_Language"
+    ],
+    [
+      2202,
+      2225,
+      "Slogans"
+    ],
+    [
+      2636,
+      2639,
+      "Loaded_Language"
+    ],
+    [
+      2923,
+      2936,
+      "Flag-Waving"
+    ],
+    [
+      2966,
+      2979,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3262,
+      3280,
+      "Slogans"
+    ],
+    [
+      3905,
+      3914,
+      "Loaded_Language"
+    ],
+    [
+      3919,
+      3923,
+      "Loaded_Language"
+    ]
+  ]
+}

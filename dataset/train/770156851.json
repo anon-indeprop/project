@@ -1,0 +1,610 @@
+{
+  "article_id": "770156851",
+  "sentence offsets in original": [
+    0,
+    214,
+    294,
+    316,
+    436,
+    448,
+    522,
+    607,
+    663,
+    694,
+    727,
+    951,
+    1026,
+    1383,
+    1452,
+    1543,
+    1667,
+    1780,
+    1845,
+    1913,
+    1973,
+    2305,
+    2584,
+    2695,
+    2832,
+    3057,
+    3278,
+    3417,
+    3574,
+    3695,
+    3773,
+    3927,
+    4224,
+    4395,
+    4803,
+    4836,
+    5059,
+    5298
+  ],
+  "original sentences": [
+    "The Never-Trumpers Are Never Coming Back\n\nShop all books by Pat Buchanan\nWith never-Trump conservatives bailing on the GOP and crying out for the Party of Pelosi to save us, some painful truths need to be restated.",
+    "\nThe Republican Party of Bush I and II, of Bob Dole and John McCain, is history.",
+    "\nIt\u2019s not coming back.",
+    "\nUnlike the Bourbons after the Revolution and the Terror, after Napoleon and the Empire, no restoration is in the cards.",
+    "\nIt is over.",
+    "\nThe GOP\u2019s policies of recent decades \u2014 the New World Order of George H.W.",
+    "\nBush, the crusades for democracy of Bush II \u2014 failed, and are seen as having failed.",
+    "\nWith Trump\u2019s capture of the party they were repudiated.",
+    "\nThere will be no turning back.",
+    "\nWhat were the historic blunders?",
+    "\nNixonu2019s White Hous... Patrick J. Buchanan Best Price: $6.38 Buy New $10.01 (as of 10:15 EDT - Details)\nIt was not supporting tax cuts, deregulation, conservative judges and justices, or funding a defense second to none.",
+    "\nDonald Trump has delivered on these as well as any president since Reagan.",
+    "\nThe failures that killed the Bush party, and that represented departures from Reaganite traditionalism and conservatism, are:\nFirst, the hubristic drive, despite the warnings of statesmen like George Kennan, to exploit our Cold War victory and pursue a policy of permanent containment of a Russia that had lost a third of its territory and half its people.",
+    "\nWe moved NATO into Eastern Europe and the Baltic, onto her doorstep.",
+    "\nWe abrogated the ABM treaty Nixon had negotiated and moved defensive missiles into Poland.",
+    "\nJohn McCain pushed to bring Ukraine and Georgia into NATO, and even to send U.S. forces to face off against Russian troops.",
+    "\nThus we got a second Cold War that need never have begun and that our allies seem content to let us fight alone.",
+    "\nEurope today is not afraid of Vladimir Putin reaching the Rhine.",
+    "\nEurope is afraid of Africa and the Middle East reaching the Danube.",
+    "\nLet the Americans, who relish playing empire, pay for NATO.",
+    "\nSecond, in a reflexive response to 9/11, we invaded Afghanistan and Iraq, dumped over the regime in Libya, armed rebels to overthrow Bashar Assad in Syria, and backed Saudi intervention in a Yemeni civil war, creating a humanitarian crisis in that poorest of Arab countries that is exceeded in horrors only by the Syrian civil war.",
+    "\nThe Greatest Comeback:... Patrick J. Buchanan Best Price: $3.13 Buy New $6.00 (as of 08:50 EDT - Details)\nSince Y2K, hundreds of thousands in the Middle East have perished, the ancient Christian community has all but ceased to exist, and the refugees now number in the millions.",
+    "\nWhat are the gains for democracy from these wars, all backed enthusiastically by the Republican establishment?",
+    "\nWhy are the people responsible for these wars still being listened to, rather than confessing their sins at second-thoughts conferences?",
+    "\nThe GOP elite also played a crucial role in throwing open U.S. markets to China and ceding transnational corporations full freedom to move factories and jobs there and ship their Chinese-made goods back here, free of charge.",
+    "\nResult: In three decades, the U.S. has run up $12 trillion in merchandise trade deficits \u2014 $4 trillion with China \u2014 and Beijing\u2019s revenue from the USA has more than covered China\u2019s defense budget for most of those years.",
+    "\nBeijing swept past Italy, France, Britain, Germany and Japan to become the premier manufacturing power on earth and a geo-strategic rival.",
+    "\nNow, from East Africa to Sri Lanka in the Indian Ocean, and from the South and East China Sea to Taiwan, Beijing\u2019s expansionist ambitions have become clear.",
+    "\nAnd where are the Republicans responsible for building up this potentially malevolent power that thieves our technology?",
+    "\nTalking of building a Reagan-like Navy to contain the mammoth they nourished.",
+    "\nSince the Cold War, America\u2019s elites have been exhibiting symptoms of that congenital blindness associated since Rome with declining and falling empires.",
+    "\nChurchill, Hitler, and... Patrick J. Buchanan Best Price: $6.20 Buy New $6.00 (as of 12:40 EDT - Details)\nWhile GOP grass roots have begged for measures to control our bleeding southern border, they were regularly denounced as nativists by party elites, many of whom are now backing Trump\u2019s wall.",
+    "\nFor decades, America\u2019s elites failed to see that the transnational moment of the post-Cold War era was passing and an era of rising nationalism and tribalism was at hand.",
+    "\n\u201cWe live in a time,\u201d said U2\u2019s Bono this week, \u201cwhen institutions as vital to human progress as the United Nations are under attack.\u201d\nThe institutions Bono referenced \u2014 the U.N., EU, NATO \u2014 all trace their roots to the 1940s and 1950s, a time that bears little resemblance to the era we have entered, an era marked by a spreading and desperate desire of peoples everywhere to preserve who and what they are.",
+    "\nNo, Trump didn\u2019t start the fire.",
+    "\nThe world was ablaze with tribalism and was raising up authoritarians to realize nationalist ends \u2014 Xi Jinping, Putin, Narendra Modi in India, Erdogan in Turkey, Gen. el-Sissi in Egypt \u2014 before he came down that escalator.",
+    "\nAnd so the elites who were in charge when the fire broke out, and who failed to respond and refused even to recognize it, and who now denounce Trump for how he is coping with it, are unlikely to be called upon again to lead this republic.",
+    "\nThe Best of Patrick J. Buchanan"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 214,
+      "text": "The Never-Trumpers Are Never Coming Back\n\nShop all books by Pat Buchanan\nWith never-Trump conservatives bailing on the GOP and crying out for the Party of Pelosi to save us, some painful truths need to be restated.",
+      "new_text": "The Never-Trumpers Are Never Coming Back\n\nShop all books by Pat Buchanan\nWith never-Trump conservatives bailing on the GOP and crying out for the Party of Pelosi to save us, some truths need to be restated.",
+      "prop_spans": [
+        [
+          4,
+          18,
+          "Name_Calling,Labeling"
+        ],
+        [
+          78,
+          89,
+          "Name_Calling,Labeling"
+        ],
+        [
+          179,
+          186,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 214,
+      "end_ix": 294,
+      "text": "\nThe Republican Party of Bush I and II, of Bob Dole and John McCain, is history.",
+      "new_text": "\nThe Republican Party of Bush I and II, of Bob Dole and John McCain, is history.",
+      "prop_spans": [
+        [
+          283,
+          293,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 294,
+      "end_ix": 316,
+      "text": "\nIt\u2019s not coming back.",
+      "new_text": "\nIt\u2019s probably not coming back.",
+      "prop_spans": [
+        [
+          295,
+          315,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 316,
+      "end_ix": 436,
+      "text": "\nUnlike the Bourbons after the Revolution and the Terror, after Napoleon and the Empire, no restoration is in the cards.",
+      "new_text": "\nUnlike the Bourbons after the Revolution and the Terror, after Napoleon and the Empire, no restoration is in the cards.",
+      "prop_spans": [
+        [
+          362,
+          372,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 436,
+      "end_ix": 448,
+      "text": "\nIt is over.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          437,
+          447,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 448,
+      "end_ix": 522,
+      "text": "\nThe GOP\u2019s policies of recent decades \u2014 the New World Order of George H.W.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 522,
+      "end_ix": 607,
+      "text": "\nBush, the crusades for democracy of Bush II \u2014 failed, and are seen as having failed.",
+      "new_text": "\nBush, the crusades for democracy of Bush II \u2014 failed.",
+      "prop_spans": [
+        [
+          569,
+          575,
+          "Loaded_Language"
+        ],
+        [
+          600,
+          606,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 607,
+      "end_ix": 663,
+      "text": "\nWith Trump\u2019s capture of the party they were repudiated.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 663,
+      "end_ix": 694,
+      "text": "\nThere will be no turning back.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          664,
+          693,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          664,
+          693,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 694,
+      "end_ix": 727,
+      "text": "\nWhat were the historic blunders?",
+      "new_text": "\nWhat were the historic mistakes?",
+      "prop_spans": [
+        [
+          718,
+          726,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 727,
+      "end_ix": 951,
+      "text": "\nNixonu2019s White Hous... Patrick J. Buchanan Best Price: $6.38 Buy New $10.01 (as of 10:15 EDT - Details)\nIt was not supporting tax cuts, deregulation, conservative judges and justices, or funding a defense second to none.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 951,
+      "end_ix": 1026,
+      "text": "\nDonald Trump has delivered on these as well as any president since Reagan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1026,
+      "end_ix": 1383,
+      "text": "\nThe failures that killed the Bush party, and that represented departures from Reaganite traditionalism and conservatism, are:\nFirst, the hubristic drive, despite the warnings of statesmen like George Kennan, to exploit our Cold War victory and pursue a policy of permanent containment of a Russia that had lost a third of its territory and half its people.",
+      "new_text": "\nThe failures that destroyed the Bush party, and that represented departures from Reaganite traditionalism and conservatism, are:\nFirst, the hubristic drive, despite the warnings of statesmen like George Kennan, to exploit our Cold War victory and pursue a policy of permanent containment of a Russia that had lost a third of its territory and half its people.",
+      "prop_spans": [
+        [
+          1031,
+          1039,
+          "Loaded_Language"
+        ],
+        [
+          1045,
+          1051,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1383,
+      "end_ix": 1452,
+      "text": "\nWe moved NATO into Eastern Europe and the Baltic, onto her doorstep.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1452,
+      "end_ix": 1543,
+      "text": "\nWe abrogated the ABM treaty Nixon had negotiated and moved defensive missiles into Poland.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1543,
+      "end_ix": 1667,
+      "text": "\nJohn McCain pushed to bring Ukraine and Georgia into NATO, and even to send U.S. forces to face off against Russian troops.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1667,
+      "end_ix": 1780,
+      "text": "\nThus we got a second Cold War that need never have begun and that our allies seem content to let us fight alone.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1780,
+      "end_ix": 1845,
+      "text": "\nEurope today is not afraid of Vladimir Putin reaching the Rhine.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1845,
+      "end_ix": 1913,
+      "text": "\nEurope is afraid of Africa and the Middle East reaching the Danube.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1913,
+      "end_ix": 1973,
+      "text": "\nLet the Americans, who relish playing empire, pay for NATO.",
+      "new_text": "\nLet us, who relish playing empire, pay for NATO.",
+      "prop_spans": [
+        [
+          1918,
+          1931,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1973,
+      "end_ix": 2305,
+      "text": "\nSecond, in a reflexive response to 9/11, we invaded Afghanistan and Iraq, dumped over the regime in Libya, armed rebels to overthrow Bashar Assad in Syria, and backed Saudi intervention in a Yemeni civil war, creating a humanitarian crisis in that poorest of Arab countries that is exceeded in horrors only by the Syrian civil war.",
+      "new_text": "\nSecond, in a reflexive response to 9/11, we invaded Afghanistan and Iraq, dumped over the regime in Libya, armed rebels to overthrow Bashar Assad in Syria, and backed Saudi intervention in a Yemeni civil war, creating a crisis in that poorest of Arab countries that is exceeded in destructio only by the Syrian civil war.",
+      "prop_spans": [
+        [
+          2194,
+          2213,
+          "Loaded_Language"
+        ],
+        [
+          2268,
+          2275,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2305,
+      "end_ix": 2584,
+      "text": "\nThe Greatest Comeback:... Patrick J. Buchanan Best Price: $3.13 Buy New $6.00 (as of 08:50 EDT - Details)\nSince Y2K, hundreds of thousands in the Middle East have perished, the ancient Christian community has all but ceased to exist, and the refugees now number in the millions.",
+      "new_text": "\nThe Greatest Comeback:... Patrick J. Buchanan Best Price: $3.13 Buy New $6.00 (as of 08:50 EDT - Details)\nSince Y2K, hundreds of thousands in the Middle East have perished, the ancient Christian community has all but ceased to exist, and the refugees now huge umbers.",
+      "prop_spans": [
+        [
+          2561,
+          2583,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2584,
+      "end_ix": 2695,
+      "text": "\nWhat are the gains for democracy from these wars, all backed enthusiastically by the Republican establishment?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2695,
+      "end_ix": 2832,
+      "text": "\nWhy are the people responsible for these wars still being listened to, rather than confessing their sins at second-thoughts conferences?",
+      "new_text": "\nWhy are the people responsible for these wars still being listened to, rather than confessing their sins at second-thoughts conferences?",
+      "prop_spans": [
+        [
+          2696,
+          2765,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2832,
+      "end_ix": 3057,
+      "text": "\nThe GOP elite also played a crucial role in throwing open U.S. markets to China and ceding transnational corporations full freedom to move factories and jobs there and ship their Chinese-made goods back here, free of charge.",
+      "new_text": "\nThe GOP elite also played an important role in throwing open U.S. markets to China and ceding transnational corporations full freedom to move factories and jobs there and ship their Chinese-made goods back here, free of charge.",
+      "prop_spans": [
+        [
+          2861,
+          2868,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3057,
+      "end_ix": 3278,
+      "text": "\nResult: In three decades, the U.S. has run up $12 trillion in merchandise trade deficits \u2014 $4 trillion with China \u2014 and Beijing\u2019s revenue from the USA has more than covered China\u2019s defense budget for most of those years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3278,
+      "end_ix": 3417,
+      "text": "\nBeijing swept past Italy, France, Britain, Germany and Japan to become the premier manufacturing power on earth and a geo-strategic rival.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3417,
+      "end_ix": 3574,
+      "text": "\nNow, from East Africa to Sri Lanka in the Indian Ocean, and from the South and East China Sea to Taiwan, Beijing\u2019s expansionist ambitions have become clear.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3574,
+      "end_ix": 3695,
+      "text": "\nAnd where are the Republicans responsible for building up this potentially malevolent power that thieves our technology?",
+      "new_text": "\nAnd where are the Republicans responsible for building up this potentially spiteful power that steals our technology?",
+      "prop_spans": [
+        [
+          3650,
+          3660,
+          "Loaded_Language"
+        ],
+        [
+          3672,
+          3679,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3695,
+      "end_ix": 3773,
+      "text": "\nTalking of building a Reagan-like Navy to contain the mammoth they nourished.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3773,
+      "end_ix": 3927,
+      "text": "\nSince the Cold War, America\u2019s elites have been exhibiting symptoms of that congenital blindness associated since Rome with declining and falling empires.",
+      "new_text": "\nSince the Cold War, America\u2019s elites have been exhibiting symptoms of that blindness associated since Rome with declining and falling empires.",
+      "prop_spans": [
+        [
+          3849,
+          3869,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3927,
+      "end_ix": 4224,
+      "text": "\nChurchill, Hitler, and... Patrick J. Buchanan Best Price: $6.20 Buy New $6.00 (as of 12:40 EDT - Details)\nWhile GOP grass roots have begged for measures to control our bleeding southern border, they were regularly denounced as nativists by party elites, many of whom are now backing Trump\u2019s wall.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4224,
+      "end_ix": 4395,
+      "text": "\nFor decades, America\u2019s elites failed to see that the transnational moment of the post-Cold War era was passing and an era of rising nationalism and tribalism was at hand.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4395,
+      "end_ix": 4803,
+      "text": "\n\u201cWe live in a time,\u201d said U2\u2019s Bono this week, \u201cwhen institutions as vital to human progress as the United Nations are under attack.\u201d\nThe institutions Bono referenced \u2014 the U.N., EU, NATO \u2014 all trace their roots to the 1940s and 1950s, a time that bears little resemblance to the era we have entered, an era marked by a spreading and desperate desire of peoples everywhere to preserve who and what they are.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4803,
+      "end_ix": 4836,
+      "text": "\nNo, Trump didn\u2019t start the fire.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4836,
+      "end_ix": 5059,
+      "text": "\nThe world was ablaze with tribalism and was raising up authoritarians to realize nationalist ends \u2014 Xi Jinping, Putin, Narendra Modi in India, Erdogan in Turkey, Gen. el-Sissi in Egypt \u2014 before he came down that escalator.",
+      "new_text": "\nThe world was filled with tribalism and was raising up authoritarians to realize nationalist ends \u2014 Xi Jinping, Putin, Narendra Modi in India, Erdogan in Turkey, Gen. el-Sissi in Egypt \u2014 before he came down that escalator.",
+      "prop_spans": [
+        [
+          4851,
+          4872,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5059,
+      "end_ix": 5298,
+      "text": "\nAnd so the elites who were in charge when the fire broke out, and who failed to respond and refused even to recognize it, and who now denounce Trump for how he is coping with it, are unlikely to be called upon again to lead this republic.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5298,
+      "end_ix": 5330,
+      "text": "\nThe Best of Patrick J. Buchanan",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      4,
+      18,
+      "Name_Calling,Labeling"
+    ],
+    [
+      78,
+      89,
+      "Name_Calling,Labeling"
+    ],
+    [
+      179,
+      186,
+      "Loaded_Language"
+    ],
+    [
+      283,
+      293,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      295,
+      315,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      362,
+      372,
+      "Loaded_Language"
+    ],
+    [
+      437,
+      447,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      569,
+      575,
+      "Loaded_Language"
+    ],
+    [
+      600,
+      606,
+      "Repetition"
+    ],
+    [
+      664,
+      693,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      664,
+      693,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      718,
+      726,
+      "Loaded_Language"
+    ],
+    [
+      1031,
+      1039,
+      "Loaded_Language"
+    ],
+    [
+      1045,
+      1051,
+      "Loaded_Language"
+    ],
+    [
+      1918,
+      1931,
+      "Flag-Waving"
+    ],
+    [
+      2194,
+      2213,
+      "Loaded_Language"
+    ],
+    [
+      2268,
+      2275,
+      "Loaded_Language"
+    ],
+    [
+      2561,
+      2583,
+      "Loaded_Language"
+    ],
+    [
+      2696,
+      2765,
+      "Doubt"
+    ],
+    [
+      2861,
+      2868,
+      "Loaded_Language"
+    ],
+    [
+      3650,
+      3660,
+      "Loaded_Language"
+    ],
+    [
+      3672,
+      3679,
+      "Loaded_Language"
+    ],
+    [
+      3849,
+      3869,
+      "Loaded_Language"
+    ],
+    [
+      4851,
+      4872,
+      "Loaded_Language"
+    ]
+  ]
+}

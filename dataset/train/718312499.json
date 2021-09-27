@@ -1,0 +1,136 @@
+{
+  "article_id": "718312499",
+  "sentence offsets in original": [
+    0,
+    231,
+    367,
+    691,
+    871,
+    1083,
+    1156,
+    1339,
+    1485,
+    1619,
+    1772,
+    1960
+  ],
+  "original sentences": [
+    "New Footage From Las Vegas Massacre Reveals Possible Muzzle Flashes From Helicopters That May Have Conducted \u201cAir Assault\u201d\n\nDoes this new footage reveal muzzle flashes from helicopters, an air assault, on the night of the massacre?",
+    "\nWhat appears to be muzzle flashes emitting from multiple aircraft can be seen on numerous videos captured on the night of the massacre.",
+    "\nLAS VEGAS (INTELLIHUB) \u2014 Newly released footage of the October 1 massacre posted on YouTube by the NICK VEGAS channel appears to confirm what Intellihub\u2019s founder and editor-in-chief Shepard Ambellas pointed out in late October when he presented evidence of the strategic air assault on The Alex Jones Show in great detail.",
+    "\nThe video shows what appears to be muzzle flashes emanating from the airspace between the Delano Hotel and Mandalay Bay, an airspace that should be free of obstruction altogether.",
+    "\nA major analysis of this matter was done by Ambellas in mid-November which revealed that no aircraft should be occupying that airspace between the hours of 10:05 and 10:15 p.m. on the night of the shooting (i.e.",
+    "\nno aircraft are visible on the radar in that airspace during that time.)",
+    "\nNot to mention the fact that helicopters are not allowed to hover in the City of Las Vegas without a permit nor are they allowed to lurk behind buildings lower than their roof lines.",
+    "\nThe first of a series of muzzles flashes can be seen coming from several different elevations, possibly from as many as 3 aircraft (helicopters).",
+    "\nThe flashes which are not consistent with FAA required running lights in any way can be seen starting at 0:19 seconds into the video.",
+    "\nNote: To see the flashes you must view the video on \u20181080p\u2019 and set it to \u2018full screen\u2019 and look between the two hotels (adjust the video speed to 25%.)",
+    "\nThe exact same aircraft and apparent muzzles flashes can also be seen in the Arch Angel Studios \u201cFirst Shots\u201d video which was posted to YouTube on Oct. 2, just one day after the shooting.",
+    "\n#LasVegasShooting"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 231,
+      "text": "New Footage From Las Vegas Massacre Reveals Possible Muzzle Flashes From Helicopters That May Have Conducted \u201cAir Assault\u201d\n\nDoes this new footage reveal muzzle flashes from helicopters, an air assault, on the night of the massacre?",
+      "new_text": "New Footage From Las Vegas Massacre Reveals Possible Muzzle Flashes From Helicopters That May Have Conducted \u201cAir Assault\u201d",
+      "prop_spans": [
+        [
+          124,
+          231,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 231,
+      "end_ix": 367,
+      "text": "\nWhat appears to be muzzle flashes emitting from multiple aircraft can be seen on numerous videos captured on the night of the massacre.",
+      "new_text": "\nWhat appears to be muzzle flashes emitting from multiple aircraft can be seen on numerous videos captured on the night of the massacre.",
+      "prop_spans": [
+        [
+          231,
+          232,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 367,
+      "end_ix": 691,
+      "text": "\nLAS VEGAS (INTELLIHUB) \u2014 Newly released footage of the October 1 massacre posted on YouTube by the NICK VEGAS channel appears to confirm what Intellihub\u2019s founder and editor-in-chief Shepard Ambellas pointed out in late October when he presented evidence of the strategic air assault on The Alex Jones Show in great detail.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 691,
+      "end_ix": 871,
+      "text": "\nThe video shows what appears to be muzzle flashes emanating from the airspace between the Delano Hotel and Mandalay Bay, an airspace that should be free of obstruction altogether.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 871,
+      "end_ix": 1083,
+      "text": "\nA major analysis of this matter was done by Ambellas in mid-November which revealed that no aircraft should be occupying that airspace between the hours of 10:05 and 10:15 p.m. on the night of the shooting (i.e.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1083,
+      "end_ix": 1156,
+      "text": "\nno aircraft are visible on the radar in that airspace during that time.)",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1156,
+      "end_ix": 1339,
+      "text": "\nNot to mention the fact that helicopters are not allowed to hover in the City of Las Vegas without a permit nor are they allowed to lurk behind buildings lower than their roof lines.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1339,
+      "end_ix": 1485,
+      "text": "\nThe first of a series of muzzles flashes can be seen coming from several different elevations, possibly from as many as 3 aircraft (helicopters).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1485,
+      "end_ix": 1619,
+      "text": "\nThe flashes which are not consistent with FAA required running lights in any way can be seen starting at 0:19 seconds into the video.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1619,
+      "end_ix": 1772,
+      "text": "\nNote: To see the flashes you must view the video on \u20181080p\u2019 and set it to \u2018full screen\u2019 and look between the two hotels (adjust the video speed to 25%.)",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1772,
+      "end_ix": 1960,
+      "text": "\nThe exact same aircraft and apparent muzzles flashes can also be seen in the Arch Angel Studios \u201cFirst Shots\u201d video which was posted to YouTube on Oct. 2, just one day after the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1960,
+      "end_ix": 1978,
+      "text": "\n#LasVegasShooting",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      124,
+      232,
+      "Doubt"
+    ]
+  ]
+}

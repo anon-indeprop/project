@@ -1,0 +1,465 @@
+{
+  "article_id": "700387229",
+  "sentence offsets in original": [
+    0,
+    182,
+    277,
+    450,
+    655,
+    807,
+    920,
+    1134,
+    1261,
+    1389,
+    1509,
+    1583,
+    1656,
+    1806,
+    1951,
+    2089,
+    2218,
+    2278,
+    2479,
+    2621,
+    3027
+  ],
+  "original sentences": [
+    "Madagascar Hospitals On High Alert: \u2018No One Is Safe\u2019 From The Black Plague\n\nTravelers are being warned to keep their distance from areas of Madagascar affected by the bubonic plague.",
+    "\nAs the outbreak worsens, some doctors are even warning that \u201cno one is safe\u201d from the disease.",
+    "\nThe outbreak of the black plague in Madagascar has so far killed 97 people, and doctors are warning that it will be continuing to spread and worsen, meaning no one is safe.",
+    "\nHealth officials say the disease, which contributed to the deaths of more than 50 million people in Europe during the Middle Ages, has spread from rural areas to the more urban areas not usually affected.",
+    "\nHundreds of cases are reported on the tropical island every year, but experts are warning the epidemic is \u201cmuch more dangerous\u201d than in previous years.",
+    "\nOfficials have reported infections in 17 of the island nation\u2019s 22 regions since the outbreak started in August.",
+    "\nAnd the number of cases is growing by the day, said Elhadj As Sy, the secretary general of the International Federation of Red Cross and Red Crescent Societies (IFRC) as the nation put all hospitals on high alert.",
+    "\nThe hospitals have also begun implementing preventative measures with attempts to stall the spread of the bacterial infection.",
+    "\nThe IFRC said it\u2019s introducing the same \u201csafe and dignified\u201d burial methods used in West Africa during the 2014 Ebola epidemic.",
+    "\nThis helps cut the chain of transmission by preventing further infections through direct contact with infected corpses.",
+    "\nLast week, less than 60 people had died and around 600 had been infected.",
+    "\nNow, there are 911 confirmed cases in addition to the almost 100 deaths.",
+    "\nWhile cases of bubonic plague occur in Madagascar nearly every year, the much more dangerous and deadly pneumonic plague has never been so prevalent.",
+    "\nIt arrived earlier than expected this year, and has become much more contagious with it being transmitted from person to person through the air.",
+    "\nPneumonic plague is the most life-threatening form of the infection caused by the manifestation of a Yersinia pestis bacterial infection.",
+    "\nAlthough the black plague can be treated effectively with antibiotics, the incubation time of this bacteria is incredibly short.",
+    "\nDeath often occurs within 12-24 hours of becoming infected.",
+    "\nThe bubonic strain of the disease is spread through the bites of infected fleas, whereas the more contagious and deadly pneumonic type is spread through the coughing or sneezing of an infected person.",
+    "\nElhadj As Sy said that overcoming the epidemic would require long-term help, not \u201cjust intervening at the peak and then forgetting about it\u201d.",
+    "\nDr. Manitra Rakotoarivony, Madagascar\u2019s director of health promotion, said: \u201cNormally, people who catch the plague live in poor areas, but people in every place in society are catching the disease.\u201d\nJimmy Whitworth, professor of International Public Health at the London School of Hygiene and Tropical Medicine, told The Sun: \u201cIt has been a long time since we have seen the plague in an urban environment.",
+    "\nAlthough health officials have said that internationally, the threat is still fairly low, they\u2019ve also said no one in Madagascar is safe, including travelers, spiking concerns over a possible global pandemic."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 182,
+      "text": "Madagascar Hospitals On High Alert: \u2018No One Is Safe\u2019 From The Black Plague\n\nTravelers are being warned to keep their distance from areas of Madagascar affected by the bubonic plague.",
+      "new_text": "Madagascar Hospitals On High Alert: \u2018No One Is Safe\u2019 From The Black Plague\n\nTravelers are being warned to keep their distance from areas of Madagascar affected by the bubonic plague.",
+      "prop_spans": [
+        [
+          24,
+          34,
+          "Loaded_Language"
+        ],
+        [
+          37,
+          51,
+          "Appeal_to_Authority"
+        ],
+        [
+          37,
+          51,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          37,
+          51,
+          "Repetition"
+        ],
+        [
+          37,
+          51,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 182,
+      "end_ix": 277,
+      "text": "\nAs the outbreak worsens, some doctors are even warning that \u201cno one is safe\u201d from the disease.",
+      "new_text": "\nAs the outbreak worsens, some doctors are even warning that \u201cno one is safe\u201d from the disease.",
+      "prop_spans": [
+        [
+          242,
+          259,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          242,
+          259,
+          "Appeal_to_Authority"
+        ],
+        [
+          243,
+          259,
+          "Repetition"
+        ],
+        [
+          243,
+          259,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 277,
+      "end_ix": 450,
+      "text": "\nThe outbreak of the black plague in Madagascar has so far killed 97 people, and doctors are warning that it will be continuing to spread and worsen, meaning no one is safe.",
+      "new_text": "\nThe outbreak of the black plague in Madagascar has so far killed 97 people, and doctors are warning that it will be continuing to spread, meaning no one could be safe.",
+      "prop_spans": [
+        [
+          394,
+          425,
+          "Appeal_to_Authority"
+        ],
+        [
+          435,
+          449,
+          "Appeal_to_Authority"
+        ],
+        [
+          435,
+          450,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          435,
+          450,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 450,
+      "end_ix": 655,
+      "text": "\nHealth officials say the disease, which contributed to the deaths of more than 50 million people in Europe during the Middle Ages, has spread from rural areas to the more urban areas not usually affected.",
+      "new_text": "\nHealth officials say the disease, which contributed to the deaths of more than 50 million people in Europe during the Middle Ages, has spread from rural areas to the more urban areas not usually affected.",
+      "prop_spans": [
+        [
+          450,
+          450,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          450,
+          450,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 655,
+      "end_ix": 807,
+      "text": "\nHundreds of cases are reported on the tropical island every year, but experts are warning the epidemic is \u201cmuch more dangerous\u201d than in previous years.",
+      "new_text": "\nHundreds of cases are reported on the tropical island every year, but experts are warning the epidemic is \u201cmuch more dangerous\u201d than in previous years.",
+      "prop_spans": [
+        [
+          763,
+          782,
+          "Appeal_to_Authority"
+        ],
+        [
+          763,
+          782,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 807,
+      "end_ix": 920,
+      "text": "\nOfficials have reported infections in 17 of the island nation\u2019s 22 regions since the outbreak started in August.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 920,
+      "end_ix": 1134,
+      "text": "\nAnd the number of cases is growing by the day, said Elhadj As Sy, the secretary general of the International Federation of Red Cross and Red Crescent Societies (IFRC) as the nation put all hospitals on high alert.",
+      "new_text": "\nAnd the number of cases is growing, said Elhadj As Sy, as the nation put all hospitals on high alert.",
+      "prop_spans": [
+        [
+          925,
+          966,
+          "Appeal_to_Authority"
+        ],
+        [
+          1123,
+          1133,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1134,
+      "end_ix": 1261,
+      "text": "\nThe hospitals have also begun implementing preventative measures with attempts to stall the spread of the bacterial infection.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1261,
+      "end_ix": 1389,
+      "text": "\nThe IFRC said it\u2019s introducing the same \u201csafe and dignified\u201d burial methods used in West Africa during the 2014 Ebola epidemic.",
+      "new_text": "\nThe IFRC said it\u2019s introducing the same \u201csafe and dignified\u201d burial methods used in West Africa during the 2014 Ebola epidemic.",
+      "prop_spans": [
+        [
+          1303,
+          1321,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1389,
+      "end_ix": 1509,
+      "text": "\nThis helps cut the chain of transmission by preventing further infections through direct contact with infected corpses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1509,
+      "end_ix": 1583,
+      "text": "\nLast week, less than 60 people had died and around 600 had been infected.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1583,
+      "end_ix": 1656,
+      "text": "\nNow, there are 911 confirmed cases in addition to the almost 100 deaths.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1656,
+      "end_ix": 1806,
+      "text": "\nWhile cases of bubonic plague occur in Madagascar nearly every year, the much more dangerous and deadly pneumonic plague has never been so prevalent.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1806,
+      "end_ix": 1951,
+      "text": "\nIt arrived earlier than expected this year, and has become much more contagious with it being transmitted from person to person through the air.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1951,
+      "end_ix": 2089,
+      "text": "\nPneumonic plague is the most life-threatening form of the infection caused by the manifestation of a Yersinia pestis bacterial infection.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2089,
+      "end_ix": 2218,
+      "text": "\nAlthough the black plague can be treated effectively with antibiotics, the incubation time of this bacteria is incredibly short.",
+      "new_text": "\nAlthough the black plague can be treated effectively with antibiotics, the incubation time of this bacteria is short.",
+      "prop_spans": [
+        [
+          2201,
+          2211,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2218,
+      "end_ix": 2278,
+      "text": "\nDeath often occurs within 12-24 hours of becoming infected.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2278,
+      "end_ix": 2479,
+      "text": "\nThe bubonic strain of the disease is spread through the bites of infected fleas, whereas the more contagious and deadly pneumonic type is spread through the coughing or sneezing of an infected person.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2479,
+      "end_ix": 2621,
+      "text": "\nElhadj As Sy said that overcoming the epidemic would require long-term help, not \u201cjust intervening at the peak and then forgetting about it\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2621,
+      "end_ix": 3027,
+      "text": "\nDr. Manitra Rakotoarivony, Madagascar\u2019s director of health promotion, said: \u201cNormally, people who catch the plague live in poor areas, but people in every place in society are catching the disease.\u201d\nJimmy Whitworth, professor of International Public Health at the London School of Hygiene and Tropical Medicine, told The Sun: \u201cIt has been a long time since we have seen the plague in an urban environment.",
+      "new_text": "\nDr. Manitra Rakotoarivony, Madagascar\u2019s director of health promotion, said: \u201cNormally, people who catch the plague live in poor areas, but people in every place in society are catching the disease.\u201d\nJimmy Whitworth, professor of International Public Health at the London School of Hygiene and Tropical Medicine, told The Sun: \u201cIt has been a long time since we have seen the plague in an urban environment.",
+      "prop_spans": [
+        [
+          2761,
+          2818,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          2948,
+          3027,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3027,
+      "end_ix": 3236,
+      "text": "\nAlthough health officials have said that internationally, the threat is still fairly low, they\u2019ve also said no one in Madagascar is safe, including travelers, spiking concerns over a possible global pandemic.",
+      "new_text": "\nAlthough health officials have said that internationally, the threat is still fairly low, they\u2019ve also said no one in Madagascar could be safe, including travelers, spiking concerns over a possible global pandemic.",
+      "prop_spans": [
+        [
+          3027,
+          3028,
+          "Appeal_to_Authority"
+        ],
+        [
+          3136,
+          3165,
+          "Repetition"
+        ],
+        [
+          3136,
+          3165,
+          "Appeal_to_Authority"
+        ],
+        [
+          3136,
+          3164,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      24,
+      34,
+      "Loaded_Language"
+    ],
+    [
+      37,
+      51,
+      "Appeal_to_Authority"
+    ],
+    [
+      37,
+      51,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      37,
+      51,
+      "Repetition"
+    ],
+    [
+      37,
+      51,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      242,
+      259,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      242,
+      259,
+      "Appeal_to_Authority"
+    ],
+    [
+      243,
+      259,
+      "Repetition"
+    ],
+    [
+      243,
+      259,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      394,
+      425,
+      "Appeal_to_Authority"
+    ],
+    [
+      435,
+      449,
+      "Appeal_to_Authority"
+    ],
+    [
+      435,
+      450,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      435,
+      450,
+      "Repetition"
+    ],
+    [
+      763,
+      782,
+      "Appeal_to_Authority"
+    ],
+    [
+      763,
+      782,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      925,
+      966,
+      "Appeal_to_Authority"
+    ],
+    [
+      1123,
+      1133,
+      "Loaded_Language"
+    ],
+    [
+      1303,
+      1321,
+      "Appeal_to_Authority"
+    ],
+    [
+      2201,
+      2211,
+      "Loaded_Language"
+    ],
+    [
+      2761,
+      2818,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2948,
+      3028,
+      "Appeal_to_Authority"
+    ],
+    [
+      3136,
+      3165,
+      "Repetition"
+    ],
+    [
+      3136,
+      3165,
+      "Appeal_to_Authority"
+    ],
+    [
+      3136,
+      3164,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

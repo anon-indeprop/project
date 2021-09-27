@@ -1,0 +1,226 @@
+{
+  "article_id": "7618745059",
+  "sentence offsets in original": [
+    0,
+    227,
+    413,
+    559,
+    755,
+    991,
+    1247,
+    1400,
+    1684,
+    1873,
+    1904,
+    1977,
+    2142,
+    2242,
+    2311,
+    2454,
+    2709,
+    2819,
+    2876
+  ],
+  "original sentences": [
+    "Ex-Sailor Pardoned By Trump Says He\u2019s SUING Obama And Comey\n\nA former Navy sailor, who is one of five people to receive a pardon from President Donald Trump, is planning to file a lawsuit against Obama administration officials.",
+    "\nKristian Saucier, who served a year in federal prison for taking photos of classified sections of the submarine on which he worked, says he was subject to unequal protection of the law.",
+    "\nSaucier said that he realizes he had erred in taking the photos, which he said he wanted to show only to his family to show them where he worked.",
+    "\nHe has also lashed out at Obama officials, saying that his prosecution was politically motivated, prompted by sensitivity about classified information amid the scandal involving Clinton\u2019s emails.",
+    "\nAccording to Fox News, Saucier argues that the same officials who sought out punishment to Saucier for his actions chose to be lenient with Hillary Clinton in her use of a private email server and mishandling of classified information.",
+    "\nSaucier\u2019s lawyer, Ronald Daigle, told Fox News on Monday that the lawsuit, which he expects to file soon in Manhattan, will name the U.S. Department of Justice, former FBI Director James Comey and former President Barack Obama as defendants, among others.",
+    "\nSaucier, who lives in Vermont, pleaded guilty in 2016 to taking photos inside the USS Alexandria while it was stationed in Groton, Connecticut, in 2009.",
+    "\nHe said he only wanted service mementos, but federal prosecutors argued he was a disgruntled sailor who had put national security at risk by taking photos showing the submarine\u2019s propulsion system and reactor compartment and then obstructed justice by destroying a laptop and camera.",
+    "\n\u2013Fox News\n\u201cThey interpreted the law in my case to say it was criminal,\u201d Saucier told Fox News, referring to prosecuting authorities in his case, \u201cbut they didn\u2019t prosecute Hillary Clinton.",
+    "\nHillary is still walking free.",
+    "\nTwo guys on my ship did the same thing and weren\u2019t treated as criminals.",
+    "\nWe want them to correct the wrong.\u201d Daigle said that a notice about the pending lawsuit was sent to the Department of Justice and others included in it in December.",
+    "\nThere is usually a six-month period that must elapse before the lawsuit actually is actually filed.",
+    "\n\u201cMy case was usually something handled by military courts,\u201d he said.",
+    "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton,\u201d he continued, alleging his life was ruined for political reasons.",
+    "\n\u201cWith a pardon, there\u2019s no magic wand that gets waved and makes everything right,\u201d Saucier said, \u201cBut I try to stay positive and look forward.\u201d Saucier has had cars repossessed and is in debt due to the loss of income after having a felony on his record.",
+    "\nThe government actively destroyed his life an made it all but impossible for his family to get back on track.",
+    "\nBut Hillary Clinton is running around free, to this day.",
+    "\nAnd that is what Saucier is so burnt about, with good reason."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 227,
+      "text": "Ex-Sailor Pardoned By Trump Says He\u2019s SUING Obama And Comey\n\nA former Navy sailor, who is one of five people to receive a pardon from President Donald Trump, is planning to file a lawsuit against Obama administration officials.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 227,
+      "end_ix": 413,
+      "text": "\nKristian Saucier, who served a year in federal prison for taking photos of classified sections of the submarine on which he worked, says he was subject to unequal protection of the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 413,
+      "end_ix": 559,
+      "text": "\nSaucier said that he realizes he had erred in taking the photos, which he said he wanted to show only to his family to show them where he worked.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 559,
+      "end_ix": 755,
+      "text": "\nHe has also lashed out at Obama officials, saying that his prosecution was politically motivated, prompted by sensitivity about classified information amid the scandal involving Clinton\u2019s emails.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 755,
+      "end_ix": 991,
+      "text": "\nAccording to Fox News, Saucier argues that the same officials who sought out punishment to Saucier for his actions chose to be lenient with Hillary Clinton in her use of a private email server and mishandling of classified information.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 991,
+      "end_ix": 1247,
+      "text": "\nSaucier\u2019s lawyer, Ronald Daigle, told Fox News on Monday that the lawsuit, which he expects to file soon in Manhattan, will name the U.S. Department of Justice, former FBI Director James Comey and former President Barack Obama as defendants, among others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1247,
+      "end_ix": 1400,
+      "text": "\nSaucier, who lives in Vermont, pleaded guilty in 2016 to taking photos inside the USS Alexandria while it was stationed in Groton, Connecticut, in 2009.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1400,
+      "end_ix": 1684,
+      "text": "\nHe said he only wanted service mementos, but federal prosecutors argued he was a disgruntled sailor who had put national security at risk by taking photos showing the submarine\u2019s propulsion system and reactor compartment and then obstructed justice by destroying a laptop and camera.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1684,
+      "end_ix": 1873,
+      "text": "\n\u2013Fox News\n\u201cThey interpreted the law in my case to say it was criminal,\u201d Saucier told Fox News, referring to prosecuting authorities in his case, \u201cbut they didn\u2019t prosecute Hillary Clinton.",
+      "new_text": "\n\u2013Fox News\n\u201cThey interpreted the law in my case to say it was criminal,\u201d Saucier told Fox News, referring to prosecuting authorities in his case, \u201cbut they didn\u2019t prosecute Hillary Clinton.",
+      "prop_spans": [
+        [
+          1831,
+          1872,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1873,
+      "end_ix": 1904,
+      "text": "\nHillary is still walking free.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1904,
+      "end_ix": 1977,
+      "text": "\nTwo guys on my ship did the same thing and weren\u2019t treated as criminals.",
+      "new_text": "\nTwo guys on my ship did the same thing and weren\u2019t treated as criminals.",
+      "prop_spans": [
+        [
+          1925,
+          1976,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1977,
+      "end_ix": 2142,
+      "text": "\nWe want them to correct the wrong.\u201d Daigle said that a notice about the pending lawsuit was sent to the Department of Justice and others included in it in December.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2142,
+      "end_ix": 2242,
+      "text": "\nThere is usually a six-month period that must elapse before the lawsuit actually is actually filed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2242,
+      "end_ix": 2311,
+      "text": "\n\u201cMy case was usually something handled by military courts,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2311,
+      "end_ix": 2454,
+      "text": "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton,\u201d he continued, alleging his life was ruined for political reasons.",
+      "new_text": "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton,\u201d he continued, alleging his life was ruined for political reasons.",
+      "prop_spans": [
+        [
+          2312,
+          2388,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2454,
+      "end_ix": 2709,
+      "text": "\n\u201cWith a pardon, there\u2019s no magic wand that gets waved and makes everything right,\u201d Saucier said, \u201cBut I try to stay positive and look forward.\u201d Saucier has had cars repossessed and is in debt due to the loss of income after having a felony on his record.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2709,
+      "end_ix": 2819,
+      "text": "\nThe government actively destroyed his life an made it all but impossible for his family to get back on track.",
+      "new_text": "\nThe government destroyed his life an made it very difficult for his family to get back on track.",
+      "prop_spans": [
+        [
+          2725,
+          2782,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2819,
+      "end_ix": 2876,
+      "text": "\nBut Hillary Clinton is running around free, to this day.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2876,
+      "end_ix": 2938,
+      "text": "\nAnd that is what Saucier is so burnt about, with good reason.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1831,
+      1872,
+      "Whataboutism"
+    ],
+    [
+      1925,
+      1976,
+      "Whataboutism"
+    ],
+    [
+      2312,
+      2388,
+      "Causal_Oversimplification"
+    ],
+    [
+      2725,
+      2782,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

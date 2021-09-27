@@ -1,0 +1,732 @@
+{
+  "article_id": "999000312",
+  "sentence offsets in original": [
+    0,
+    27,
+    312,
+    510,
+    624,
+    742,
+    805,
+    825,
+    914,
+    974,
+    1007,
+    1091,
+    1172,
+    1311,
+    1355,
+    1381,
+    1676,
+    1794,
+    1948,
+    2127,
+    2331,
+    2607,
+    2856,
+    2952,
+    3145,
+    3173,
+    3219,
+    3268,
+    3354,
+    3535,
+    3567,
+    3901,
+    4107,
+    4182,
+    4388,
+    4701
+  ],
+  "original sentences": [
+    "Assange Never Met Manafort.",
+    "\nLuke Harding and the Guardian Publish Still More Blatant MI6 Lies\n\nThe right wing Ecuadorean government of President Moreno continues to churn out its production line of fake documents regarding Julian Assange, and channel them straight to MI6 mouthpiece Luke Harding of the Guardian.",
+    "\nAmazingly, more Ecuadorean Government documents have just been discovered for the Guardian, this time spy agency reports detailing visits of Paul Manafort and unspecified \u201cRussians\u201d to the Embassy.",
+    "\nBy a wonderful coincidence of timing, this is the day after Mueller announced that Manafort\u2019s plea deal was over.",
+    "\nThe problem with this latest fabrication is that Moreno had already released the visitor logs to the Mueller inquiry.",
+    "\nNeither Manafort nor these \u201cRussians\u201d are in the visitor logs.",
+    "\nThis is impossible.",
+    "\nThe visitor logs were not kept by Wikileaks, but by the very strict Ecuadorean security.",
+    "\nNobody was ever admitted without being entered in the logs.",
+    "\nThe procedure was very thorough.",
+    "\nTo go in, you had to submit your passport (no other type of document was accepted).",
+    "\nA copy of your passport was taken and the passport details entered into the log.",
+    "\nYour passport, along with your mobile phone and any other electronic equipment, was retained until you left, along with your bag and coat.",
+    "\nI feature in the logs every time I visited.",
+    "\nThere were no exceptions.",
+    "\nFor an exception to be made for Manafort and the \u201cRussians\u201d would have had to be a decision of the Government of Ecuador, not of Wikileaks, and that would be so exceptional the reason for it would surely have been noted in the now leaked supposed Ecuadorean \u201cintelligence report\u201d of the visits.",
+    "\nWhat possible motive would the Ecuadorean government have for facilitating secret unrecorded visits by Paul Manafort?",
+    "\nFurthermore it is impossible that the intelligence agency \u2013 who were in charge of the security \u2013 would not know the identity of these alleged \u201cRussians\u201d.",
+    "\nPreviously Harding and the Guardian have published documents faked by the Moreno government regarding a diplomatic appointment to Russia for Assange of which he had no knowledge.",
+    "\nNow they follow this up with more documents aimed to provide fictitious evidence to bolster Mueller\u2019s pathetically failed attempt to substantiate the story that Russia deprived Hillary of the Presidency.",
+    "\nMy friend William Binney, probably the world\u2019s greatest expert on electronic surveillance, former Technical Director of the NSA, has stated that it is impossible the DNC servers were hacked, the technical evidence shows it was a download to a directly connected memory stick.",
+    "\nI knew the US security services were conducting a fake investigation the moment it became clear that the FBI did not even themselves look at the DNC servers, instead accepting a report from the Clinton linked DNC \u201csecurity consultants\u201d Crowdstrike.",
+    "\nI would love to believe that the fact Julian has never met Manafort is bound to be established.",
+    "\nBut I fear that state control of propaganda may be such that this massive \u201cBig Lie\u201d will come to enter public consciousness in the same way as the non-existent Russian hack of the DNC servers.",
+    "\nAssange never met Manafort.",
+    "\nThe DNC emails were downloaded by an insider.",
+    "\nAssange never even considered fleeing to Russia.",
+    "\nThose are the facts, and I am in a position to give you a personal assurance of them.",
+    "\nI can also assure you that Luke Harding, the Guardian, Washington Post and New York Times have been publishing a stream of deliberate lies, in collusion with the security services.",
+    "\nI am not a fan of Donald Trump.",
+    "\nBut to see the partisans of the defeated candidate (and a particularly obnoxious defeated candidate) manipulate the security services and the media to create an entirely false public perception, in order to attempt to overturn the result of the US Presidential election, is the most astonishing thing I have witnessed in my lifetime.",
+    "\nPlainly the government of Ecuador is releasing lies about Assange to curry favour with the security establishment of the USA and UK, and to damage Assange\u2019s support prior to expelling him from the Embassy.",
+    "\nHe will then be extradited from London to the USA on charges of espionage.",
+    "\nAssange is not a whistleblower or a spy \u2013 he is the greatest publisher of his age, and has done more to bring the crimes of governments to light than the mainstream media will ever be motivated to achieve.",
+    "\nThat supposedly great newspaper titles like the Guardian, New York Times and Washington Post are involved in the spreading of lies to damage Assange, and are seeking his imprisonment for publishing state secrets, is clear evidence that the idea of the \u201cliberal media\u201d no longer exists in the new plutocratic age.",
+    "\nThe press are not on the side of the people, they are an instrument of elite control."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 27,
+      "text": "Assange Never Met Manafort.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27,
+      "end_ix": 312,
+      "text": "\nLuke Harding and the Guardian Publish Still More Blatant MI6 Lies\n\nThe right wing Ecuadorean government of President Moreno continues to churn out its production line of fake documents regarding Julian Assange, and channel them straight to MI6 mouthpiece Luke Harding of the Guardian.",
+      "new_text": "Luke Harding and the Guardian Publish Still More Blatant MI6 Lies\n\nThe Ecuadorean government of President Moreno continues to produce its line of documents regarding Julian Assange, and channel them straight to Luke Harding of the Guardian.",
+      "prop_spans": [
+        [
+          77,
+          93,
+          "Loaded_Language"
+        ],
+        [
+          95,
+          311,
+          "Doubt"
+        ],
+        [
+          165,
+          213,
+          "Loaded_Language"
+        ],
+        [
+          268,
+          283,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 312,
+      "end_ix": 510,
+      "text": "\nAmazingly, more Ecuadorean Government documents have just been discovered for the Guardian, this time spy agency reports detailing visits of Paul Manafort and unspecified \u201cRussians\u201d to the Embassy.",
+      "new_text": "\nAmazingly, more Ecuadorean Government documents have just been discovered for the Guardian, this time spy agency reports detailing visits of Paul Manafort and unspecified Russians to the Embassy.",
+      "prop_spans": [
+        [
+          472,
+          493,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 510,
+      "end_ix": 624,
+      "text": "\nBy a wonderful coincidence of timing, this is the day after Mueller announced that Manafort\u2019s plea deal was over.",
+      "new_text": "\nThis is the day after Mueller announced that Manafort\u2019s plea deal was over.",
+      "prop_spans": [
+        [
+          511,
+          547,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 624,
+      "end_ix": 742,
+      "text": "\nThe problem with this latest fabrication is that Moreno had already released the visitor logs to the Mueller inquiry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 742,
+      "end_ix": 805,
+      "text": "\nNeither Manafort nor these \u201cRussians\u201d are in the visitor logs.",
+      "new_text": "\nNeither Manafort nor these Russians are in the visitor logs.",
+      "prop_spans": [
+        [
+          771,
+          779,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 805,
+      "end_ix": 825,
+      "text": "\nThis is impossible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 825,
+      "end_ix": 914,
+      "text": "\nThe visitor logs were not kept by Wikileaks, but by the very strict Ecuadorean security.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 914,
+      "end_ix": 974,
+      "text": "\nNobody was ever admitted without being entered in the logs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 974,
+      "end_ix": 1007,
+      "text": "\nThe procedure was very thorough.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1007,
+      "end_ix": 1091,
+      "text": "\nTo go in, you had to submit your passport (no other type of document was accepted).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1091,
+      "end_ix": 1172,
+      "text": "\nA copy of your passport was taken and the passport details entered into the log.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1172,
+      "end_ix": 1311,
+      "text": "\nYour passport, along with your mobile phone and any other electronic equipment, was retained until you left, along with your bag and coat.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1311,
+      "end_ix": 1355,
+      "text": "\nI feature in the logs every time I visited.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1355,
+      "end_ix": 1381,
+      "text": "\nThere were no exceptions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1381,
+      "end_ix": 1676,
+      "text": "\nFor an exception to be made for Manafort and the \u201cRussians\u201d would have had to be a decision of the Government of Ecuador, not of Wikileaks, and that would be so exceptional the reason for it would surely have been noted in the now leaked supposed Ecuadorean \u201cintelligence report\u201d of the visits.",
+      "new_text": "\nFor an exception to be made for Manafort and the Russians would have had to be a decision of the Government of Ecuador, not of Wikileaks, and that would be so exceptional the reason for it would surely have been noted in the now leaked supposed Ecuadorean \u201cintelligence report\u201d of the visits.",
+      "prop_spans": [
+        [
+          1427,
+          1440,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1427,
+          1440,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1676,
+      "end_ix": 1794,
+      "text": "\nWhat possible motive would the Ecuadorean government have for facilitating secret unrecorded visits by Paul Manafort?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1794,
+      "end_ix": 1948,
+      "text": "\nFurthermore it is impossible that the intelligence agency \u2013 who were in charge of the security \u2013 would not know the identity of these alleged \u201cRussians\u201d.",
+      "new_text": "\nFurthermore it is impossible that the intelligence agency \u2013 who were in charge of the security \u2013 would not know the identity of these alleged Russians.",
+      "prop_spans": [
+        [
+          1938,
+          1946,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1948,
+      "end_ix": 2127,
+      "text": "\nPreviously Harding and the Guardian have published documents faked by the Moreno government regarding a diplomatic appointment to Russia for Assange of which he had no knowledge.",
+      "new_text": "\nPreviously Harding and the Guardian have published documents by the Moreno government regarding a diplomatic appointment to Russia for Assange of which he had no knowledge.",
+      "prop_spans": [
+        [
+          1949,
+          2127,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2127,
+      "end_ix": 2331,
+      "text": "\nNow they follow this up with more documents aimed to provide fictitious evidence to bolster Mueller\u2019s pathetically failed attempt to substantiate the story that Russia deprived Hillary of the Presidency.",
+      "new_text": "\nNow they follow this up with more documents aimed to provide unclear evidence to bolster Mueller\u2019s attempt to substantiate the story that Russia deprived Hillary of the Presidency!",
+      "prop_spans": [
+        [
+          2127,
+          2330,
+          "Doubt"
+        ],
+        [
+          2230,
+          2258,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2331,
+      "end_ix": 2607,
+      "text": "\nMy friend William Binney, probably the world\u2019s greatest expert on electronic surveillance, former Technical Director of the NSA, has stated that it is impossible the DNC servers were hacked, the technical evidence shows it was a download to a directly connected memory stick.",
+      "new_text": "\nMy friend William Binney, a big expert on electronic surveillance, former Technical Director of the NSA, has stated that it is impossible the DNC servers were hacked, the technical evidence shows it was a download to a directly connected memory stick.",
+      "prop_spans": [
+        [
+          2358,
+          2421,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2367,
+          2421,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2607,
+      "end_ix": 2856,
+      "text": "\nI knew the US security services were conducting a fake investigation the moment it became clear that the FBI did not even themselves look at the DNC servers, instead accepting a report from the Clinton linked DNC \u201csecurity consultants\u201d Crowdstrike.",
+      "new_text": "\nI suspected the US security services were conducting a counterfeit investigation the moment I felt that the FBI did not even themselves look at the DNC servers, instead accepting a report from the Clinton linked DNC \u201csecurity consultants\u201d Crowdstrike.",
+      "prop_spans": [
+        [
+          2608,
+          2855,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2856,
+      "end_ix": 2952,
+      "text": "\nI would love to believe that the fact Julian has never met Manafort is bound to be established.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2952,
+      "end_ix": 3145,
+      "text": "\nBut I fear that state control of propaganda may be such that this massive \u201cBig Lie\u201d will come to enter public consciousness in the same way as the non-existent Russian hack of the DNC servers.",
+      "new_text": "\nBut I feel that state control of propaganda may be such that this \u201cBig Lie\u201d will come to enter public consciousness in the same way as the made up Russian hack of the DNC servers.",
+      "prop_spans": [
+        [
+          2953,
+          3144,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3014,
+          3035,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3145,
+      "end_ix": 3173,
+      "text": "\nAssange never met Manafort.",
+      "new_text": "\nAssange never met Manafort.",
+      "prop_spans": [
+        [
+          3146,
+          3173,
+          "Causal_Oversimplification"
+        ],
+        [
+          3146,
+          3173,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3173,
+      "end_ix": 3219,
+      "text": "\nThe DNC emails were downloaded by an insider.",
+      "new_text": "\nThe DNC emails were downloaded by an insider.",
+      "prop_spans": [
+        [
+          3173,
+          3219,
+          "Causal_Oversimplification"
+        ],
+        [
+          3173,
+          3219,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3219,
+      "end_ix": 3268,
+      "text": "\nAssange never even considered fleeing to Russia.",
+      "new_text": "\nAssange never even considered fleeing to Russia.",
+      "prop_spans": [
+        [
+          3219,
+          3268,
+          "Causal_Oversimplification"
+        ],
+        [
+          3219,
+          3268,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3268,
+      "end_ix": 3354,
+      "text": "\nThose are the facts, and I am in a position to give you a personal assurance of them.",
+      "new_text": "\nThose are the facts.",
+      "prop_spans": [
+        [
+          3268,
+          3353,
+          "Causal_Oversimplification"
+        ],
+        [
+          3268,
+          3353,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3354,
+      "end_ix": 3535,
+      "text": "\nI can also assure you that Luke Harding, the Guardian, Washington Post and New York Times have been publishing a stream of deliberate lies, in collusion with the security services.",
+      "new_text": "\nI strongly feel that Luke Harding, the Guardian, Washington Post and New York Times have been publishing a stream of lies, in collusion with the security services.",
+      "prop_spans": [
+        [
+          3355,
+          3534,
+          "Appeal_to_Authority"
+        ],
+        [
+          3355,
+          3534,
+          "Causal_Oversimplification"
+        ],
+        [
+          3382,
+          3534,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3535,
+      "end_ix": 3567,
+      "text": "\nI am not a fan of Donald Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3567,
+      "end_ix": 3901,
+      "text": "\nBut to see the partisans of the defeated candidate (and a particularly obnoxious defeated candidate) manipulate the security services and the media to create an entirely false public perception, in order to attempt to overturn the result of the US Presidential election, is the most astonishing thing I have witnessed in my lifetime.",
+      "new_text": "\nBut to see the partisans of the defeated candidate manipulate the security services and the media to create a false public perception, in order to attempt to overturn the result of the US Presidential election, is very astonishing.",
+      "prop_spans": [
+        [
+          3568,
+          3900,
+          "Doubt"
+        ],
+        [
+          3579,
+          3619,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3624,
+          3667,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3842,
+          3900,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3901,
+      "end_ix": 4107,
+      "text": "\nPlainly the government of Ecuador is releasing lies about Assange to curry favour with the security establishment of the USA and UK, and to damage Assange\u2019s support prior to expelling him from the Embassy.",
+      "new_text": "\nIt is likely that the government of Ecuador is releasing lies about Assange to curry favour with the security establishment of the USA and UK, and to damage Assange\u2019s support prior to expelling him from the Embassy.",
+      "prop_spans": [
+        [
+          3902,
+          4107,
+          "Causal_Oversimplification"
+        ],
+        [
+          3968,
+          3984,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4107,
+      "end_ix": 4182,
+      "text": "\nHe will then be extradited from London to the USA on charges of espionage.",
+      "new_text": "\nHe could then be extradited from London to the USA on charges of espionage!",
+      "prop_spans": [
+        [
+          4107,
+          4181,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4182,
+      "end_ix": 4388,
+      "text": "\nAssange is not a whistleblower or a spy \u2013 he is the greatest publisher of his age, and has done more to bring the crimes of governments to light than the mainstream media will ever be motivated to achieve.",
+      "new_text": "\nAssange is not a spy- he is a great publisher, and has done a lot to bring the crimes of governments to light.",
+      "prop_spans": [
+        [
+          4198,
+          4223,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4231,
+          4264,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4231,
+          4264,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          4266,
+          4387,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4388,
+      "end_ix": 4701,
+      "text": "\nThat supposedly great newspaper titles like the Guardian, New York Times and Washington Post are involved in the spreading of lies to damage Assange, and are seeking his imprisonment for publishing state secrets, is clear evidence that the idea of the \u201cliberal media\u201d no longer exists in the new plutocratic age.",
+      "new_text": "\nNewspaper titles like the Guardian, New York Times and Washington Post are involved in the spreading of lies to damage Assange, and are seeking his imprisonment for publishing state secrets.",
+      "prop_spans": [
+        [
+          4389,
+          4701,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4701,
+      "end_ix": 4787,
+      "text": "\nThe press are not on the side of the people, they are an instrument of elite control.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          4701,
+          4786,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      77,
+      93,
+      "Loaded_Language"
+    ],
+    [
+      95,
+      311,
+      "Doubt"
+    ],
+    [
+      165,
+      213,
+      "Loaded_Language"
+    ],
+    [
+      268,
+      283,
+      "Name_Calling,Labeling"
+    ],
+    [
+      472,
+      493,
+      "Name_Calling,Labeling"
+    ],
+    [
+      511,
+      547,
+      "Loaded_Language"
+    ],
+    [
+      771,
+      779,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1427,
+      1440,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1427,
+      1440,
+      "Repetition"
+    ],
+    [
+      1938,
+      1946,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1949,
+      2330,
+      "Doubt"
+    ],
+    [
+      2230,
+      2258,
+      "Loaded_Language"
+    ],
+    [
+      2358,
+      2421,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2367,
+      2421,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2608,
+      2855,
+      "Doubt"
+    ],
+    [
+      2953,
+      3144,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3014,
+      3035,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3146,
+      3353,
+      "Causal_Oversimplification"
+    ],
+    [
+      3146,
+      3353,
+      "Appeal_to_Authority"
+    ],
+    [
+      3355,
+      3534,
+      "Appeal_to_Authority"
+    ],
+    [
+      3355,
+      3534,
+      "Causal_Oversimplification"
+    ],
+    [
+      3382,
+      3534,
+      "Doubt"
+    ],
+    [
+      3568,
+      3900,
+      "Doubt"
+    ],
+    [
+      3579,
+      3619,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3624,
+      3667,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3842,
+      3900,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3902,
+      4181,
+      "Causal_Oversimplification"
+    ],
+    [
+      3968,
+      3984,
+      "Loaded_Language"
+    ],
+    [
+      4198,
+      4223,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4231,
+      4264,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4231,
+      4264,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      4266,
+      4387,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      4389,
+      4786,
+      "Doubt"
+    ]
+  ]
+}

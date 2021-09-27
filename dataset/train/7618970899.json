@@ -1,0 +1,405 @@
+{
+  "article_id": "7618970899",
+  "sentence offsets in original": [
+    0,
+    427,
+    764,
+    885,
+    950,
+    1015,
+    1215,
+    1297,
+    1325,
+    1388,
+    1638,
+    1817,
+    1848,
+    1921,
+    2086,
+    2176,
+    2299,
+    2588,
+    3128,
+    3353,
+    3439,
+    3507,
+    3635,
+    3778,
+    3914,
+    4227,
+    4260,
+    4370,
+    4691,
+    4822
+  ],
+  "original sentences": [
+    "Former Navy Sailor Pardoned By Trump To Sue Obama & Comey\n\nKristian Saucier, a former Navy sailor who served a year in federal prison for taking photos of classified sections of the submarine he worked on but was later pardoned by President Donald Trump, says that he is going to pursue a lawsuit against several Obama administration members, including Former FBI Director James Comes and Barack Hussein Obama Soetoro Sobarkah.",
+    "\nThe same FBI that gave Hillary Clinton a pass for operating an illegal email server, which we have evidence for the fact that she sent and received classified documents through resulting in a national security breach and at least one death, but would not give the same leniency to Saucier who simply took some pictures of his submarine.",
+    "\nFox News reports:\ntake our poll - story continues below Whom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nHis lawyer, Ronald Daigle, told Fox News on Monday that the lawsuit, which he expects to file soon in Manhattan, will name the U.S. Department of Justice, former FBI Director James Comey and former President Barack Obama as defendants, among others.",
+    "\n\u201cThey interpreted the law in my case to say it was criminal,\u201d Saucier told Fox News, referring to prosecuting authorities in his case, \u201cbut they didn\u2019t prosecute Hillary Clinton.",
+    "\nHillary is still walking free.",
+    "\nTwo guys on my ship did the same thing and weren\u2019t treated as criminals.",
+    "\nWe want them to correct the wrong.\u201d Daigle said that a notice about the pending lawsuit was sent to the Department of Justice and others included in it in December.",
+    "\nThere is usually a six-month period that must lapse before the lawsuit actually is filed.",
+    "\n\u201cWe\u2019ll highlight the differences in the way Hillary Clinton was prosecuted and how my client was prosecuted,\u201d Daigle said.",
+    "\n\u201cWe\u2019re seeking to cast a light on this to show that there\u2019s a two-tier justice system and we want it to be corrected.\u201d\nSaucier's attorneys attempted to use the Hillary Clinton defense to get him out of hot water for taking pictures of classified systems aboard the USS Alexandria in 2009.",
+    "\nProsecutors sloughed off the defense, saying it was essentially \u201cgrasping at highly imaginative and speculative straws in trying to further draw a comparison to the matter of Secretary Hillary Clinton based upon virtually no understanding and knowledge of the facts involved, the information at issue, not to mention any issues if intent and knowledge.\u201d\nSaucier confessed to taking photos of the submarine back in 2009 when he served as a 22-year-old machinist mate, saying he wanted to show the pictures to his family and future children.",
+    "\nFollowing an interview with the FBI in 2012, he destroyed all evidence of the pictures, meaning the Naval Criminal Investigative Service could not confirm his claims that he did not share the photos with unauthorized people.",
+    "\n\u201cIt was a foolish mistake by a very young man,\u201d Saucier\u2019s lawyer, Greg Rinckey, said.",
+    "\n\u201cIt\u2019s a very sad case because Kristian Saucier is a fine young man.",
+    "\nWe don\u2019t believe this was really his true character.\u201d\n\u201cMy case was usually something handled by military courts,\u201d Saucier said.",
+    "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton,\u201d he continued, alleging his life was ruined for political reasons.",
+    "\nPresident Trump had spoken of his support of Saucier on the campaign trail and blasted the Obama administration's handling of his case.",
+    "\n\u201cWith a pardon, there\u2019s no magic wand that gets waved and makes everything right,\u201d Saucier said, \u201cBut I try to stay positive and look forward.\u201d\nThat's a good attitude considering he has had his cars repossessed and is in a tremendous amount of debt due to his incarceration and now having a felony on his record.",
+    "\nBut hey, Hillary is free, right?",
+    "\nThat's all that matters, cause after all, they're (Bill and Hillary) good people, aren't they, Mr. President?",
+    "\nI think it's great that Mr. Saucier has been pardoned, I really do, but I continue to ask what a lot of Americans continue to ask, why does the known criminal Hillary Clinton remain at large in our country with her corrupt foundation taking in billions, her trashing our Republic and continuing to have a national voice?",
+    "\nThe American people weren't promised pardons, we were promised a special counsel to dig into the Clintons and bring about justice.",
+    "\nIt's time that occurred."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 427,
+      "text": "Former Navy Sailor Pardoned By Trump To Sue Obama & Comey\n\nKristian Saucier, a former Navy sailor who served a year in federal prison for taking photos of classified sections of the submarine he worked on but was later pardoned by President Donald Trump, says that he is going to pursue a lawsuit against several Obama administration members, including Former FBI Director James Comes and Barack Hussein Obama Soetoro Sobarkah.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 427,
+      "end_ix": 764,
+      "text": "\nThe same FBI that gave Hillary Clinton a pass for operating an illegal email server, which we have evidence for the fact that she sent and received classified documents through resulting in a national security breach and at least one death, but would not give the same leniency to Saucier who simply took some pictures of his submarine.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 764,
+      "end_ix": 885,
+      "text": "\nFox News reports:\ntake our poll - story continues below Whom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 885,
+      "end_ix": 950,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 950,
+      "end_ix": 1015,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1015,
+      "end_ix": 1215,
+      "text": "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1215,
+      "end_ix": 1297,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1297,
+      "end_ix": 1325,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1325,
+      "end_ix": 1388,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1388,
+      "end_ix": 1638,
+      "text": "\nHis lawyer, Ronald Daigle, told Fox News on Monday that the lawsuit, which he expects to file soon in Manhattan, will name the U.S. Department of Justice, former FBI Director James Comey and former President Barack Obama as defendants, among others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1638,
+      "end_ix": 1817,
+      "text": "\n\u201cThey interpreted the law in my case to say it was criminal,\u201d Saucier told Fox News, referring to prosecuting authorities in his case, \u201cbut they didn\u2019t prosecute Hillary Clinton.",
+      "new_text": "\n\u201cThey interpreted the law in my case to say it was criminal,\u201d Saucier told Fox News, referring to prosecuting authorities in his case, \u201cbut they didn\u2019t prosecute Hillary Clinton.",
+      "prop_spans": [
+        [
+          1775,
+          1816,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1817,
+      "end_ix": 1848,
+      "text": "\nHillary is still walking free.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1848,
+      "end_ix": 1921,
+      "text": "\nTwo guys on my ship did the same thing and weren\u2019t treated as criminals.",
+      "new_text": "\nTwo guys on my ship did the same thing and weren\u2019t treated as criminals.",
+      "prop_spans": [
+        [
+          1849,
+          1921,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1921,
+      "end_ix": 2086,
+      "text": "\nWe want them to correct the wrong.\u201d Daigle said that a notice about the pending lawsuit was sent to the Department of Justice and others included in it in December.",
+      "new_text": "\nWe want them to correct the wrong.\u201d Daigle said that a notice about the pending lawsuit was sent to the Department of Justice and others included in it in December.",
+      "prop_spans": [
+        [
+          1921,
+          1921,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2086,
+      "end_ix": 2176,
+      "text": "\nThere is usually a six-month period that must lapse before the lawsuit actually is filed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2176,
+      "end_ix": 2299,
+      "text": "\n\u201cWe\u2019ll highlight the differences in the way Hillary Clinton was prosecuted and how my client was prosecuted,\u201d Daigle said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2299,
+      "end_ix": 2588,
+      "text": "\n\u201cWe\u2019re seeking to cast a light on this to show that there\u2019s a two-tier justice system and we want it to be corrected.\u201d\nSaucier's attorneys attempted to use the Hillary Clinton defense to get him out of hot water for taking pictures of classified systems aboard the USS Alexandria in 2009.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2588,
+      "end_ix": 3128,
+      "text": "\nProsecutors sloughed off the defense, saying it was essentially \u201cgrasping at highly imaginative and speculative straws in trying to further draw a comparison to the matter of Secretary Hillary Clinton based upon virtually no understanding and knowledge of the facts involved, the information at issue, not to mention any issues if intent and knowledge.\u201d\nSaucier confessed to taking photos of the submarine back in 2009 when he served as a 22-year-old machinist mate, saying he wanted to show the pictures to his family and future children.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3128,
+      "end_ix": 3353,
+      "text": "\nFollowing an interview with the FBI in 2012, he destroyed all evidence of the pictures, meaning the Naval Criminal Investigative Service could not confirm his claims that he did not share the photos with unauthorized people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3353,
+      "end_ix": 3439,
+      "text": "\n\u201cIt was a foolish mistake by a very young man,\u201d Saucier\u2019s lawyer, Greg Rinckey, said.",
+      "new_text": "\n\u201cIt was a foolish mistake by a very young man,\u201d Saucier\u2019s lawyer, Greg Rinckey, said.",
+      "prop_spans": [
+        [
+          3364,
+          3371,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3439,
+      "end_ix": 3507,
+      "text": "\n\u201cIt\u2019s a very sad case because Kristian Saucier is a fine young man.",
+      "new_text": "\n\u201cIt\u2019s a very sad case because Kristian Saucier is a fine young man.",
+      "prop_spans": [
+        [
+          3492,
+          3506,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3507,
+      "end_ix": 3635,
+      "text": "\nWe don\u2019t believe this was really his true character.\u201d\n\u201cMy case was usually something handled by military courts,\u201d Saucier said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3635,
+      "end_ix": 3778,
+      "text": "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton,\u201d he continued, alleging his life was ruined for political reasons.",
+      "new_text": "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton,\u201d he continued, alleging his life was ruined for political reasons.",
+      "prop_spans": [
+        [
+          3636,
+          3712,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3778,
+      "end_ix": 3914,
+      "text": "\nPresident Trump had spoken of his support of Saucier on the campaign trail and blasted the Obama administration's handling of his case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3914,
+      "end_ix": 4227,
+      "text": "\n\u201cWith a pardon, there\u2019s no magic wand that gets waved and makes everything right,\u201d Saucier said, \u201cBut I try to stay positive and look forward.\u201d\nThat's a good attitude considering he has had his cars repossessed and is in a tremendous amount of debt due to his incarceration and now having a felony on his record.",
+      "new_text": "\n\u201cWith a pardon, there\u2019s no magic wand that gets waved and makes everything right,\u201d Saucier said, \u201cBut I try to stay positive and look forward.\u201d\nThat's a good attitude considering he has had his cars repossessed and is in a huge amount of debt due to his incarceration and now having a felony on his record.",
+      "prop_spans": [
+        [
+          4138,
+          4148,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4227,
+      "end_ix": 4260,
+      "text": "\nBut hey, Hillary is free, right?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4260,
+      "end_ix": 4370,
+      "text": "\nThat's all that matters, cause after all, they're (Bill and Hillary) good people, aren't they, Mr. President?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4370,
+      "end_ix": 4691,
+      "text": "\nI think it's great that Mr. Saucier has been pardoned, I really do, but I continue to ask what a lot of Americans continue to ask, why does the known criminal Hillary Clinton remain at large in our country with her corrupt foundation taking in billions, her trashing our Republic and continuing to have a national voice?",
+      "new_text": "\nI think it's great that Mr. Saucier has been pardoned, I really do, but I continue to ask what a lot of us continue to ask, why does Hillary Clinton remain at large with us with her corrupt foundation taking in billions, her trashing our Republic and continuing to have a national voice?",
+      "prop_spans": [
+        [
+          4475,
+          4484,
+          "Flag-Waving"
+        ],
+        [
+          4515,
+          4529,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4565,
+          4576,
+          "Flag-Waving"
+        ],
+        [
+          4586,
+          4593,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4691,
+      "end_ix": 4822,
+      "text": "\nThe American people weren't promised pardons, we were promised a special counsel to dig into the Clintons and bring about justice.",
+      "new_text": "\nWe weren't promised pardons, we were promised a special counsel to dig into the Clintons and bring about justice.",
+      "prop_spans": [
+        [
+          4696,
+          4711,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4822,
+      "end_ix": 4847,
+      "text": "\nIt's time that occurred.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1775,
+      1816,
+      "Whataboutism"
+    ],
+    [
+      1849,
+      1921,
+      "Whataboutism"
+    ],
+    [
+      3364,
+      3371,
+      "Loaded_Language"
+    ],
+    [
+      3492,
+      3506,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3636,
+      3712,
+      "Causal_Oversimplification"
+    ],
+    [
+      4138,
+      4148,
+      "Loaded_Language"
+    ],
+    [
+      4475,
+      4484,
+      "Flag-Waving"
+    ],
+    [
+      4515,
+      4529,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4565,
+      4576,
+      "Flag-Waving"
+    ],
+    [
+      4586,
+      4593,
+      "Loaded_Language"
+    ],
+    [
+      4696,
+      4711,
+      "Flag-Waving"
+    ]
+  ]
+}

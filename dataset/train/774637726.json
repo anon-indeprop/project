@@ -1,0 +1,392 @@
+{
+  "article_id": "774637726",
+  "sentence offsets in original": [
+    0,
+    244,
+    435,
+    529,
+    613,
+    618,
+    777,
+    871,
+    927,
+    983,
+    1012,
+    1042,
+    1123,
+    1205,
+    1233,
+    1296,
+    1369,
+    1581,
+    1692,
+    1847,
+    1945,
+    2055,
+    2262,
+    2552,
+    2603,
+    2681,
+    2745,
+    2906
+  ],
+  "original sentences": [
+    "Liberals Agree \u2013 Trump Tougher on Putin than Obama Was\n\nLeftwing journalist Glenn Greenwald is no fan of President Trump\u2019s policies, but he simply cannot understand how the leftwing media keeps getting so riled up at everything that Trump does.",
+    "\nIn Greenwald\u2019s mind, Trump is a fairly standard politician (when it comes to the policies he supports and implements), which is what makes the media\u2019s constant flow of outrage so mystifying.",
+    "\nIn a recent debate over the Helsinki Hulabaloo, Greenwald told the leftists at Democracy Now!",
+    "\nthat getting all worked up over Trump\u2019s press conference with Putin was ridiculous.",
+    "\nWhy?",
+    "\nBecause, when Trump\u2019s Russia policies are measured against Obama\u2019s\u2026 it becomes CLEAR that Trump has obviously been tougher against Russia than Obama ever was.",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nHere\u2019s the crux of Greenwald\u2019s argument:\nSo let me just make two points.",
+    "\nNumber one is, if you look at President Obama versus President Trump, there\u2019s no question that President Obama was more cooperative with and collaborative with Russia and the Russian agenda than President Trump.",
+    "\nPresident Trump has sent lethal arms to Ukraine\u2014a crucial issue for Putin\u2014which President Obama refused to do.",
+    "\nPresident Trump has bombed the Assad forces in Syria, a client state of Putin, something that Obama refused to do because he didn\u2019t want to provoke Putin.",
+    "\nTrump has expelled more Russian diplomats and sanctioned more Russian oligarchs than [Obama] has.",
+    "\nTrump undid the Iran deal, which Russia favored, while Obama worked with Russia in order to do the Iran deal.",
+    "\nSo this idea that Trump is some kind of a puppet of Putin, that he controls him with blackmail, is the kind of stuff that you believe if you read too many\nTom Clancy novels but isn\u2019t borne out by the facts.",
+    "\nThe other issue that I want to make is that, you know, again, this idea that somehow that you are endorsing the repression of other countries\u2019 leaders if you meet with them\u2014it is true that Trump has never criticized Putin, although he has taken all the steps I just outlined against Putin.",
+    "\nBut he\u2019s also never criticized Benjamin Netanyahu.",
+    "\nHe\u2019s also never criticized the incredibly repressive leaders of Saudi Arabia.",
+    "\nHe\u2019s never criticized the fascist president of the Philippines.",
+    "\nIt is true President Trump likes fascist and authoritarian leaders, and that is a problem, but it\u2019s not like Putin is the only leader that he doesn\u2019t criticize.",
+    "\nThe relevant portion of the debate begins about 21 minutes into the video:\nArticle posted with permission from Constitution.com"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 244,
+      "text": "Liberals Agree \u2013 Trump Tougher on Putin than Obama Was\n\nLeftwing journalist Glenn Greenwald is no fan of President Trump\u2019s policies, but he simply cannot understand how the leftwing media keeps getting so riled up at everything that Trump does.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 244,
+      "end_ix": 435,
+      "text": "\nIn Greenwald\u2019s mind, Trump is a fairly standard politician (when it comes to the policies he supports and implements), which is what makes the media\u2019s constant flow of outrage so mystifying.",
+      "new_text": "\nIn Greenwald\u2019s mind, Trump is a fairly standard politician (when it comes to the policies he supports and implements), which is what makes the media\u2019s constant flow of outrage so mystifying.",
+      "prop_spans": [
+        [
+          284,
+          303,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 435,
+      "end_ix": 529,
+      "text": "\nIn a recent debate over the Helsinki Hulabaloo, Greenwald told the leftists at Democracy Now!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 529,
+      "end_ix": 613,
+      "text": "\nthat getting all worked up over Trump\u2019s press conference with Putin was ridiculous.",
+      "new_text": "\nthat getting all worked up over Trump\u2019s press conference with Putin was not sensible.",
+      "prop_spans": [
+        [
+          602,
+          612,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 613,
+      "end_ix": 618,
+      "text": "\nWhy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 618,
+      "end_ix": 777,
+      "text": "\nBecause, when Trump\u2019s Russia policies are measured against Obama\u2019s\u2026 it becomes CLEAR that Trump has obviously been tougher against Russia than Obama ever was.",
+      "new_text": "\nBecause, when Trump\u2019s Russia policies are measured against Obama\u2019s\u2026 it becomes CLEAR that Trump is more stern against Russia than Obama.",
+      "prop_spans": [
+        [
+          709,
+          776,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 777,
+      "end_ix": 871,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 871,
+      "end_ix": 927,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 927,
+      "end_ix": 983,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 983,
+      "end_ix": 1012,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1012,
+      "end_ix": 1042,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1042,
+      "end_ix": 1123,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1123,
+      "end_ix": 1205,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1205,
+      "end_ix": 1233,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1233,
+      "end_ix": 1296,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1296,
+      "end_ix": 1369,
+      "text": "\nHere\u2019s the crux of Greenwald\u2019s argument:\nSo let me just make two points.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1369,
+      "end_ix": 1581,
+      "text": "\nNumber one is, if you look at President Obama versus President Trump, there\u2019s no question that President Obama was more cooperative with and collaborative with Russia and the Russian agenda than President Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1581,
+      "end_ix": 1692,
+      "text": "\nPresident Trump has sent lethal arms to Ukraine\u2014a crucial issue for Putin\u2014which President Obama refused to do.",
+      "new_text": "\nPresident Trump has sent lethal arms to Ukraine\u2014a crucial issue for Putin\u2014which President Obama refused to do.",
+      "prop_spans": [
+        [
+          1607,
+          1613,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1692,
+      "end_ix": 1847,
+      "text": "\nPresident Trump has bombed the Assad forces in Syria, a client state of Putin, something that Obama refused to do because he didn\u2019t want to provoke Putin.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1847,
+      "end_ix": 1945,
+      "text": "\nTrump has expelled more Russian diplomats and sanctioned more Russian oligarchs than [Obama] has.",
+      "new_text": "\nTrump has expelled Russian diplomats and sanctioned Russian oligarchs more than [Obama] has.",
+      "prop_spans": [
+        [
+          1867,
+          1871,
+          "Repetition"
+        ],
+        [
+          1905,
+          1909,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1945,
+      "end_ix": 2055,
+      "text": "\nTrump undid the Iran deal, which Russia favored, while Obama worked with Russia in order to do the Iran deal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2055,
+      "end_ix": 2262,
+      "text": "\nSo this idea that Trump is some kind of a puppet of Putin, that he controls him with blackmail, is the kind of stuff that you believe if you read too many\nTom Clancy novels but isn\u2019t borne out by the facts.",
+      "new_text": "\nSo this idea that Trump is some kind of a person under Putin, that he controls him with blackmail, is the kind of stuff that you believe if you read too many\nTom Clancy novels but isn\u2019t borne out by the facts.",
+      "prop_spans": [
+        [
+          2098,
+          2104,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2262,
+      "end_ix": 2552,
+      "text": "\nThe other issue that I want to make is that, you know, again, this idea that somehow that you are endorsing the repression of other countries\u2019 leaders if you meet with them\u2014it is true that Trump has never criticized Putin, although he has taken all the steps I just outlined against Putin.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2552,
+      "end_ix": 2603,
+      "text": "\nBut he\u2019s also never criticized Benjamin Netanyahu.",
+      "new_text": "\nBut he\u2019s also not criticized Benjamin Netanyahu.",
+      "prop_spans": [
+        [
+          2567,
+          2572,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2603,
+      "end_ix": 2681,
+      "text": "\nHe\u2019s also never criticized the incredibly repressive leaders of Saudi Arabia.",
+      "new_text": "\nHe\u2019s also never criticized the leaders of Saudi Arabia.",
+      "prop_spans": [
+        [
+          2614,
+          2619,
+          "Repetition"
+        ],
+        [
+          2635,
+          2656,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2681,
+      "end_ix": 2745,
+      "text": "\nHe\u2019s never criticized the fascist president of the Philippines.",
+      "new_text": "\nHe\u2019s has not criticized the president of the Philippines.",
+      "prop_spans": [
+        [
+          2687,
+          2692,
+          "Repetition"
+        ],
+        [
+          2708,
+          2715,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2745,
+      "end_ix": 2906,
+      "text": "\nIt is true President Trump likes fascist and authoritarian leaders, and that is a problem, but it\u2019s not like Putin is the only leader that he doesn\u2019t criticize.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2906,
+      "end_ix": 3034,
+      "text": "\nThe relevant portion of the debate begins about 21 minutes into the video:\nArticle posted with permission from Constitution.com",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      284,
+      303,
+      "Name_Calling,Labeling"
+    ],
+    [
+      602,
+      612,
+      "Loaded_Language"
+    ],
+    [
+      709,
+      776,
+      "Repetition"
+    ],
+    [
+      1607,
+      1613,
+      "Loaded_Language"
+    ],
+    [
+      1867,
+      1871,
+      "Repetition"
+    ],
+    [
+      1905,
+      1909,
+      "Repetition"
+    ],
+    [
+      2098,
+      2104,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2567,
+      2572,
+      "Repetition"
+    ],
+    [
+      2614,
+      2619,
+      "Repetition"
+    ],
+    [
+      2635,
+      2656,
+      "Loaded_Language"
+    ],
+    [
+      2687,
+      2692,
+      "Repetition"
+    ],
+    [
+      2708,
+      2715,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "article_id": "758477392",
+  "sentence offsets in original": [
+    0,
+    208,
+    377,
+    596,
+    788,
+    907,
+    982,
+    1238,
+    1302,
+    1525,
+    1705,
+    1819,
+    1894,
+    2037,
+    2185,
+    2326,
+    2470,
+    2624,
+    2779,
+    3029,
+    3179,
+    3332,
+    3389,
+    3491,
+    3574,
+    3675,
+    3871
+  ],
+  "original sentences": [
+    "US embassy worker in China suffers 'brain injury' amid 'sonic attack' fears\n\nA US embassy worker in China has reported experiencing \"abnormal sensations of sounds and pressure\" amid fears of a \"sonic attack\".",
+    "\nThe state department has issued a health alert to its citizens in the country, adding that the unnamed staff member's symptoms indicate a \"mild traumatic brain injury\".",
+    "\nThe findings echo similar reports that caused the US to recall non-essential embassy staff from Cuba in 2017, after at least 24 US citizens suffered symptoms indicating they had been deliberately and covertly targeted.",
+    "\nUS investigators are looking into whether the employee in China has been affected by a \"sonic attack\", which was one of the theories behind the still-unexplained illnesses suffered in Havana.",
+    "\nThe unnamed government worker was based in the southeast port city of Guangzhou, where an American consulate is based.",
+    "\nHe has now been flown back to the US for assessment, according to reports.",
+    "\nThe state department has issued a health alert to its staff in China, which states: \"While in China, if you experience any unusual acute auditory or sensory phenomena accompanied by unusual sounds or piercing noises, do not attempt to locate their source.",
+    "\n\"Instead, move to a location where the sounds are not present.\"",
+    "\nImage: US secretary of state Mike Pompeo is set to meet with Chinese foreign minister Wang Yi on Wednesday\nThe embassy in Beijing said it could not link the case in China to the health issues suffered by its staff in Cuba.",
+    "\nIn an email to citizens in China, the state department said: \"A US government employee in China recently reported subtle and vague, but abnormal, sensations of sound and pressure.",
+    "\n\"The US government is taking these reports seriously and has informed its official staff in China of this event.\"",
+    "\nThey added that they are not sure what has caused the employee's symptoms.",
+    "\nThe US Secretary of Mike Pompeo has said he is concerned about the \"serious health incident\" that has affected an embassy worker in Guangzhou.",
+    "\nChina's foreign ministry and national health commission did not immediately respond to questions about the findings, the Associated Press reported.",
+    "\nThe US reduced its workforce in Havana, Cuba, in 2017 after its personnel and their families reported experiencing a range of health issues.",
+    "\nInvestigators have drawn theories including that were targeted by sonic attacks, where the symptoms included dizziness, headaches and vomiting.",
+    "\nThe attacks can sometimes be carried out by emitting \"infrasounds\", which are low frequency noises that can affect human hearing if they are loud enough.",
+    "\nHowever, Dr Toby Heys told the New Scientist in 2017 that an infrasound attack wouldn't be \"very covert\" as a \"large array of subwoofers\" would be needed.",
+    "\nImage: The US recalled non-essential embassy staff from Havana, Cuba, after potential sonic attacks in 2017\nThe other type is an \"ultrasound\" attack, whereby a high frequency noise inaudible to human ears can be targeted easily at potential victims.",
+    "\nThey can damage parts of the ear such as hairs that pick up sounds, but again it is reported that large equipment would be needed for such an attack.",
+    "\nOther theories behind the health issues in Cuba include the use of electromagnetic weapons, which can target highly-focused energy at potential victims.",
+    "\nThis can include a laser, microwaves, or particle beams.",
+    "\nInvestigators also speculated that a flawed spy device could be behind the victims' ailments in Cuba.",
+    "\nThe US expelled 15 Cuban diplomats from the US after the alleged acoustic attacks.",
+    "\nSecretary of state Mike Pompeo met with Chinese foreign minister Wang Yi in Washington on Wednesday.",
+    "\nThey were expected to discuss a planned meeting between President Donald Trump and the North Korea leader Kim Jong-Un, but concerns about the incident in Guangzhou are likely to have been raised.",
+    "\nChina and the US are considered strategic rivals for influence in Asia, but conduct hundreds of billions of dollars of annual trade with each other."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 208,
+      "text": "US embassy worker in China suffers 'brain injury' amid 'sonic attack' fears\n\nA US embassy worker in China has reported experiencing \"abnormal sensations of sounds and pressure\" amid fears of a \"sonic attack\".",
+      "new_text": "US embassy worker in China suffers 'brain injury' amid 'sonic attack' fears\n\nA US embassy worker in China has reported experiencing \"abnormal sensations of sounds and pressure\" amid fears of a \"sonic attack\".",
+      "prop_spans": [
+        [
+          193,
+          208,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 208,
+      "end_ix": 377,
+      "text": "\nThe state department has issued a health alert to its citizens in the country, adding that the unnamed staff member's symptoms indicate a \"mild traumatic brain injury\".",
+      "new_text": "\nThe state department has issued a health alert to its citizens in the country, adding that the unnamed staff member's symptoms indicate a \"mild traumatic brain injury\".",
+      "prop_spans": [
+        [
+          208,
+          208,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 377,
+      "end_ix": 596,
+      "text": "\nThe findings echo similar reports that caused the US to recall non-essential embassy staff from Cuba in 2017, after at least 24 US citizens suffered symptoms indicating they had been deliberately and covertly targeted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 596,
+      "end_ix": 788,
+      "text": "\nUS investigators are looking into whether the employee in China has been affected by a \"sonic attack\", which was one of the theories behind the still-unexplained illnesses suffered in Havana.",
+      "new_text": "\nUS investigators are looking into whether the employee in China has been affected by a \"sonic attack\", which was one of the theories behind the still-unexplained illnesses suffered in Havana.",
+      "prop_spans": [
+        [
+          684,
+          699,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 788,
+      "end_ix": 907,
+      "text": "\nThe unnamed government worker was based in the southeast port city of Guangzhou, where an American consulate is based.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 907,
+      "end_ix": 982,
+      "text": "\nHe has now been flown back to the US for assessment, according to reports.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 982,
+      "end_ix": 1238,
+      "text": "\nThe state department has issued a health alert to its staff in China, which states: \"While in China, if you experience any unusual acute auditory or sensory phenomena accompanied by unusual sounds or piercing noises, do not attempt to locate their source.",
+      "new_text": "\nThe state department has issued an alert to its staff in China, which states: \"While in China, if you experience any unusual acute auditory or sensory phenomena accompanied by unusual sounds or piercing noises, do not attempt to locate their source.",
+      "prop_spans": [
+        [
+          1017,
+          1029,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1238,
+      "end_ix": 1302,
+      "text": "\n\"Instead, move to a location where the sounds are not present.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1302,
+      "end_ix": 1525,
+      "text": "\nImage: US secretary of state Mike Pompeo is set to meet with Chinese foreign minister Wang Yi on Wednesday\nThe embassy in Beijing said it could not link the case in China to the health issues suffered by its staff in Cuba.",
+      "new_text": "\nImage: US secretary of state Mike Pompeo is set to meet with Chinese foreign minister Wang Yi on Wednesday\nThe embassy in Beijing said it could not link the case in China to the health issues suffered by its staff in Cuba.",
+      "prop_spans": [
+        [
+          1481,
+          1494,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1525,
+      "end_ix": 1705,
+      "text": "\nIn an email to citizens in China, the state department said: \"A US government employee in China recently reported subtle and vague, but abnormal, sensations of sound and pressure.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1705,
+      "end_ix": 1819,
+      "text": "\n\"The US government is taking these reports seriously and has informed its official staff in China of this event.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1819,
+      "end_ix": 1894,
+      "text": "\nThey added that they are not sure what has caused the employee's symptoms.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1894,
+      "end_ix": 2037,
+      "text": "\nThe US Secretary of Mike Pompeo has said he is concerned about the \"serious health incident\" that has affected an embassy worker in Guangzhou.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2037,
+      "end_ix": 2185,
+      "text": "\nChina's foreign ministry and national health commission did not immediately respond to questions about the findings, the Associated Press reported.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2185,
+      "end_ix": 2326,
+      "text": "\nThe US reduced its workforce in Havana, Cuba, in 2017 after its personnel and their families reported experiencing a range of health issues.",
+      "new_text": "\nThe US reduced its workforce in Havana, Cuba, in 2017 after its personnel and their families reported experiencing a range of health issues.",
+      "prop_spans": [
+        [
+          2312,
+          2325,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2326,
+      "end_ix": 2470,
+      "text": "\nInvestigators have drawn theories including that were targeted by sonic attacks, where the symptoms included dizziness, headaches and vomiting.",
+      "new_text": "\nInvestigators have drawn theories including that were targeted by attacks, where the symptoms included dizziness, headaches and vomiting.",
+      "prop_spans": [
+        [
+          2393,
+          2406,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2470,
+      "end_ix": 2624,
+      "text": "\nThe attacks can sometimes be carried out by emitting \"infrasounds\", which are low frequency noises that can affect human hearing if they are loud enough.",
+      "new_text": "\nThe sonic attacks can sometimes be carried out by emitting \"infrasounds\", which are low frequency noises that can affect human hearing if they are loud enough.",
+      "prop_spans": [
+        [
+          2475,
+          2482,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2624,
+      "end_ix": 2779,
+      "text": "\nHowever, Dr Toby Heys told the New Scientist in 2017 that an infrasound attack wouldn't be \"very covert\" as a \"large array of subwoofers\" would be needed.",
+      "new_text": "\nHowever, Dr Toby Heys told the New Scientist in 2017 that an infrasound attack wouldn't be \"very covert\" as a \"large array of subwoofers\" would be needed.",
+      "prop_spans": [
+        [
+          2697,
+          2703,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2779,
+      "end_ix": 3029,
+      "text": "\nImage: The US recalled non-essential embassy staff from Havana, Cuba, after potential sonic attacks in 2017\nThe other type is an \"ultrasound\" attack, whereby a high frequency noise inaudible to human ears can be targeted easily at potential victims.",
+      "new_text": "\nImage: The US recalled non-essential embassy staff from Havana, Cuba, after potential sonic attacks in 2017\nThe other type is an \"ultrasound\" attack, whereby a high frequency noise inaudible to human ears can be targeted easily at potential victims.",
+      "prop_spans": [
+        [
+          2866,
+          2879,
+          "Repetition"
+        ],
+        [
+          2922,
+          2928,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3029,
+      "end_ix": 3179,
+      "text": "\nThey can damage parts of the ear such as hairs that pick up sounds, but again it is reported that large equipment would be needed for such an attack.",
+      "new_text": "\nThey can damage parts of the ear such as hairs that pick up sounds, but again it is reported that large equipment would be needed for such an attack.",
+      "prop_spans": [
+        [
+          3172,
+          3178,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3179,
+      "end_ix": 3332,
+      "text": "\nOther theories behind the health issues in Cuba include the use of electromagnetic weapons, which can target highly-focused energy at potential victims.",
+      "new_text": "\nOther theories behind the health issues in Cuba include the use of electromagnetic weapons, which can target highly-focused energy at potential victims.",
+      "prop_spans": [
+        [
+          3206,
+          3219,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3332,
+      "end_ix": 3389,
+      "text": "\nThis can include a laser, microwaves, or particle beams.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3389,
+      "end_ix": 3491,
+      "text": "\nInvestigators also speculated that a flawed spy device could be behind the victims' ailments in Cuba.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3491,
+      "end_ix": 3574,
+      "text": "\nThe US expelled 15 Cuban diplomats from the US after the alleged acoustic attacks.",
+      "new_text": "\nThe US expelled 15 Cuban diplomats from the US after the alleged acoustic attacks.",
+      "prop_spans": [
+        [
+          3557,
+          3573,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3574,
+      "end_ix": 3675,
+      "text": "\nSecretary of state Mike Pompeo met with Chinese foreign minister Wang Yi in Washington on Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3675,
+      "end_ix": 3871,
+      "text": "\nThey were expected to discuss a planned meeting between President Donald Trump and the North Korea leader Kim Jong-Un, but concerns about the incident in Guangzhou are likely to have been raised.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3871,
+      "end_ix": 4020,
+      "text": "\nChina and the US are considered strategic rivals for influence in Asia, but conduct hundreds of billions of dollars of annual trade with each other.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      193,
+      208,
+      "Repetition"
+    ],
+    [
+      684,
+      699,
+      "Repetition"
+    ],
+    [
+      1017,
+      1029,
+      "Repetition"
+    ],
+    [
+      1481,
+      1494,
+      "Repetition"
+    ],
+    [
+      2312,
+      2325,
+      "Repetition"
+    ],
+    [
+      2393,
+      2406,
+      "Repetition"
+    ],
+    [
+      2475,
+      2482,
+      "Repetition"
+    ],
+    [
+      2697,
+      2703,
+      "Repetition"
+    ],
+    [
+      2866,
+      2879,
+      "Repetition"
+    ],
+    [
+      2922,
+      2928,
+      "Repetition"
+    ],
+    [
+      3172,
+      3178,
+      "Repetition"
+    ],
+    [
+      3206,
+      3219,
+      "Repetition"
+    ],
+    [
+      3557,
+      3573,
+      "Repetition"
+    ]
+  ]
+}

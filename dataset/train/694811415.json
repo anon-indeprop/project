@@ -1,0 +1,201 @@
+{
+  "article_id": "694811415",
+  "sentence offsets in original": [
+    0,
+    358,
+    496,
+    673,
+    852,
+    1113,
+    1315,
+    1452,
+    1559,
+    1829,
+    1975,
+    2116,
+    2135,
+    2170
+  ],
+  "original sentences": [
+    "\u201cIt\u2019s gotta be a set-up\u201d: Neighbor of Las Vegas Shooter Claims He Didn\u2019t Do It\n\nThis report was originally published by Paul Joseph Watson at Infowars.com\nA caller to the Michael Savage radio show who says he was neighbors with Las Vegas gunman Stephen Paddock asserts that Paddock could not have carried out the massacre and that it was actually a \u201cset-up\u201d.",
+    "\nThe man, a former Marine who called himself Rick, says he was Paddock\u2019s neighbor between December 2015 and June 2016 in Mesquite, Nevada.",
+    "\n\u201cI can tell you 100% this is not that kind of guy,\u201d said Rick, adding that he would see Paddock every other day and that the two would go to a local bar and play slot machines.",
+    "\n\u201cHe never even told me that he owned a gun,\u201d continued the shooter\u2019s neighbor, adding that Paddock did not express any religious or political opinions during their conversations.",
+    "\n\u201cI\u2019m not a big conspiracy theory guy, but it don\u2019t sit right,\u201d said Rick, before making the extraordinary claim that the whole shooting was a \u201cset up\u201d and that Paddock\u2019s body may have been left in the hotel room while other assailants carried out the shooting.",
+    "\nThe caller mentioned how some people in the crowd were warned 45 minutes before the shooting that they were going to die, suggesting that this was evidence of a wider plot and not a \u201clone wolf\u201d attack.",
+    "\nAs a firearms expert, he also questioned the lack of flashes coming from the hotel windows where the shooter was supposedly firing from.",
+    "\nRick said he had already contacted the Clark County Sheriff\u2019s Office to relay all the information he knew.",
+    "\nAlthough the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",
+    "\nIf Paddock was planning such a sophisticated operation and hoping to evade detection, he would not be blabbing details about it to his neighbors.",
+    "\nHowever, the neighbor\u2019s claims are certain to attract more attention given that no specific motive has yet to be uncovered for the shooting.",
+    "\nWhat do you think?",
+    "\nLet us know in the comments below.",
+    "\nSUBSCRIBE on YouTube:\nFollow on Twitter: Follow @PrisonPlanet\nFacebook: https://www.facebook.com/PaulJosephWatson/\n*********************\nPaul Joseph Watson is the editor at large of Infowars.com and Prison Planet.com."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 358,
+      "text": "\u201cIt\u2019s gotta be a set-up\u201d: Neighbor of Las Vegas Shooter Claims He Didn\u2019t Do It\n\nThis report was originally published by Paul Joseph Watson at Infowars.com\nA caller to the Michael Savage radio show who says he was neighbors with Las Vegas gunman Stephen Paddock asserts that Paddock could not have carried out the massacre and that it was actually a \u201cset-up\u201d.",
+      "new_text": "\u201cIt\u2019s gotta be a set-up\u201d: Neighbor of Las Vegas Shooter Claims He Didn\u2019t Do It\n\nThis report was originally published by Paul Joseph Watson at Infowars.com\nA caller to the Michael Savage radio show who says he was neighbors with Las Vegas gunman Stephen Paddock asserts that Paddock probably would not have carried out the massacre and that it was actually a \u201cset-up\u201d.",
+      "prop_spans": [
+        [
+          1,
+          23,
+          "Doubt"
+        ],
+        [
+          274,
+          321,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 358,
+      "end_ix": 496,
+      "text": "\nThe man, a former Marine who called himself Rick, says he was Paddock\u2019s neighbor between December 2015 and June 2016 in Mesquite, Nevada.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 496,
+      "end_ix": 673,
+      "text": "\n\u201cI can tell you 100% this is not that kind of guy,\u201d said Rick, adding that he would see Paddock every other day and that the two would go to a local bar and play slot machines.",
+      "new_text": "\n\u201cI can tell you 100% this is not that kind of guy,\u201d said Rick, adding that he would see Paddock every other day and that the two would go to a local bar and play slot machines.",
+      "prop_spans": [
+        [
+          498,
+          546,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 673,
+      "end_ix": 852,
+      "text": "\n\u201cHe never even told me that he owned a gun,\u201d continued the shooter\u2019s neighbor, adding that Paddock did not express any religious or political opinions during their conversations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 852,
+      "end_ix": 1113,
+      "text": "\n\u201cI\u2019m not a big conspiracy theory guy, but it don\u2019t sit right,\u201d said Rick, before making the extraordinary claim that the whole shooting was a \u201cset up\u201d and that Paddock\u2019s body may have been left in the hotel room while other assailants carried out the shooting.",
+      "new_text": "\n\u201cI\u2019m not a big conspiracy theory guy, but it don\u2019t sit right,\u201d said Rick, before making the extraordinary claim that the whole shooting was a \u201cset up\u201d and that a possibility of Paddock\u2019s body been left in the hotel room while other assailants carried out the shooting.",
+      "prop_spans": [
+        [
+          854,
+          913,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          1013,
+          1112,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1113,
+      "end_ix": 1315,
+      "text": "\nThe caller mentioned how some people in the crowd were warned 45 minutes before the shooting that they were going to die, suggesting that this was evidence of a wider plot and not a \u201clone wolf\u201d attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1315,
+      "end_ix": 1452,
+      "text": "\nAs a firearms expert, he also questioned the lack of flashes coming from the hotel windows where the shooter was supposedly firing from.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1452,
+      "end_ix": 1559,
+      "text": "\nRick said he had already contacted the Clark County Sheriff\u2019s Office to relay all the information he knew.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1559,
+      "end_ix": 1829,
+      "text": "\nAlthough the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",
+      "new_text": "\nAlthough the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",
+      "prop_spans": [
+        [
+          1629,
+          1719,
+          "Bandwagon"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1829,
+      "end_ix": 1975,
+      "text": "\nIf Paddock was planning such a sophisticated operation and hoping to evade detection, he would not be blabbing details about it to his neighbors.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1975,
+      "end_ix": 2116,
+      "text": "\nHowever, the neighbor\u2019s claims are certain to attract more attention given that no specific motive has yet to be uncovered for the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2116,
+      "end_ix": 2135,
+      "text": "\nWhat do you think?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2135,
+      "end_ix": 2170,
+      "text": "\nLet us know in the comments below.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2170,
+      "end_ix": 2388,
+      "text": "\nSUBSCRIBE on YouTube:\nFollow on Twitter: Follow @PrisonPlanet\nFacebook: https://www.facebook.com/PaulJosephWatson/\n*********************\nPaul Joseph Watson is the editor at large of Infowars.com and Prison Planet.com.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1,
+      23,
+      "Doubt"
+    ],
+    [
+      274,
+      321,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      498,
+      546,
+      "Appeal_to_Authority"
+    ],
+    [
+      854,
+      913,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1013,
+      1112,
+      "Doubt"
+    ],
+    [
+      1629,
+      1719,
+      "Bandwagon"
+    ]
+  ]
+}

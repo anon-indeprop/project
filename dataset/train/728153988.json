@@ -1,0 +1,46 @@
+{
+  "article_id": "728153988",
+  "sentence offsets in original": [
+    0,
+    303,
+    453,
+    586
+  ],
+  "original sentences": [
+    "Illegal alien wanted for attempted murder in NC arrested at US-Mexico border\n\nTUCSON, Ariz. \u2013 While patrolling east of Nogales, Border Patrol agents assigned to the Nogales Station arrested Francisco Lopez-Loyola, a 38-year-old Mexican national for being illegally present in the United States Thursday.",
+    "\nDuring processing, a records check indicated Lopez had an extraditable warrant from Catawba County, North Carolina for attempted first degree murder.",
+    "\nHe was processed for immigration violations and turned over to Santa Cruz County Sheriff\u2019s Office for extradition to North Carolina.",
+    "\nAll persons apprehended by the Border Patrol undergo criminal history checks using biometrics to ensure illegal immigrants with criminal histories are positively identified."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 303,
+      "text": "Illegal alien wanted for attempted murder in NC arrested at US-Mexico border\n\nTUCSON, Ariz. \u2013 While patrolling east of Nogales, Border Patrol agents assigned to the Nogales Station arrested Francisco Lopez-Loyola, a 38-year-old Mexican national for being illegally present in the United States Thursday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 303,
+      "end_ix": 453,
+      "text": "\nDuring processing, a records check indicated Lopez had an extraditable warrant from Catawba County, North Carolina for attempted first degree murder.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 453,
+      "end_ix": 586,
+      "text": "\nHe was processed for immigration violations and turned over to Santa Cruz County Sheriff\u2019s Office for extradition to North Carolina.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 586,
+      "end_ix": 760,
+      "text": "\nAll persons apprehended by the Border Patrol undergo criminal history checks using biometrics to ensure illegal immigrants with criminal histories are positively identified.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

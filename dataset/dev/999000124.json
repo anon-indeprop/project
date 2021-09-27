@@ -1,0 +1,141 @@
+{
+  "article_id": "999000124",
+  "sentence offsets in original": [
+    0,
+    261,
+    426,
+    480,
+    893,
+    934,
+    1110,
+    1177,
+    1337,
+    1390,
+    1528,
+    1589
+  ],
+  "original sentences": [
+    "Nimesh Patel Stand-Up Routine Cut Short Due To Uncomfortable Jokes\n\nNimesh Patel, a comedian known for being the first Indian-American writer for Saturday Night Live, had his stand-up routine at cultureSHOCK cut short earlier tonight due to uncomfortable jokes.",
+    "\ncultureSHOCK, an event hosted by the Asian American Alliance, is a charity performance showcase that aims to provide a space to celebrate Asian American expression.",
+    "\nPatel was one of the main events promoted beforehand.",
+    "\nHowever, his jokes quickly progressed to uncomfortable territory, including one about a gay black man who lives in his neighborhood and how \u201c[I]t made me realize that being gay is definitely not a choice because no one wants to be gay and black.\u201d The tension in the room increased as Patel told more jokes in this vein until organizers of the event went up on stage to stop him, citing a change in program plans.",
+    "\nPatel questioned why this was happening.",
+    "\nThe organizers replied that the person in charge of tech had to leave early, but Patel continued to claim that he was being cut off because the audience didn\u2019t like his jokes.",
+    "\nAt one point, one organizer told Patel he was being disrespectful.",
+    "\nWhen asked for closing remarks, Patel responded: \u201cI\u2019m a generation older than all of you I know comedy,\u201d and called the organizers incorrect in ending his set.",
+    "\nHe tried to continue speaking until his mic was cut.",
+    "\nWe have reached out to the Asian American Alliance for comment and were told that their board is not yet prepared to release a statement.",
+    "\nWe will update this post if such a statement is forthcoming.",
+    "\nImage via Columbia University Asian American Alliance\nTags: breaking, columbia university asian american alliance, cultureSHOCK, nimesh patel"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 261,
+      "text": "Nimesh Patel Stand-Up Routine Cut Short Due To Uncomfortable Jokes\n\nNimesh Patel, a comedian known for being the first Indian-American writer for Saturday Night Live, had his stand-up routine at cultureSHOCK cut short earlier tonight due to uncomfortable jokes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 261,
+      "end_ix": 426,
+      "text": "\ncultureSHOCK, an event hosted by the Asian American Alliance, is a charity performance showcase that aims to provide a space to celebrate Asian American expression.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 426,
+      "end_ix": 480,
+      "text": "\nPatel was one of the main events promoted beforehand.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 480,
+      "end_ix": 893,
+      "text": "\nHowever, his jokes quickly progressed to uncomfortable territory, including one about a gay black man who lives in his neighborhood and how \u201c[I]t made me realize that being gay is definitely not a choice because no one wants to be gay and black.\u201d The tension in the room increased as Patel told more jokes in this vein until organizers of the event went up on stage to stop him, citing a change in program plans.",
+      "new_text": "\nHowever, his jokes quickly progressed to uncomfortable territory, including one about a gay black man who lives in his neighborhood and how \u201c[I]t made me realize that being gay is definitely not a choice because no one wants to be gay and black.\u201d The tension in the room increased as Patel told more jokes in this vein until organizers of the event went up on stage to stop him, citing a change in program plans.",
+      "prop_spans": [
+        [
+          685,
+          725,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 893,
+      "end_ix": 934,
+      "text": "\nPatel questioned why this was happening.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 934,
+      "end_ix": 1110,
+      "text": "\nThe organizers replied that the person in charge of tech had to leave early, but Patel continued to claim that he was being cut off because the audience didn\u2019t like his jokes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1110,
+      "end_ix": 1177,
+      "text": "\nAt one point, one organizer told Patel he was being disrespectful.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1177,
+      "end_ix": 1337,
+      "text": "\nWhen asked for closing remarks, Patel responded: \u201cI\u2019m a generation older than all of you I know comedy,\u201d and called the organizers incorrect in ending his set.",
+      "new_text": "\nWhen asked for closing remarks, Patel responded: \u201cI\u2019m a generation older than all of you I know comedy,\u201d and called the organizers incorrect in ending his set.",
+      "prop_spans": [
+        [
+          1228,
+          1280,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1337,
+      "end_ix": 1390,
+      "text": "\nHe tried to continue speaking until his mic was cut.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1390,
+      "end_ix": 1528,
+      "text": "\nWe have reached out to the Asian American Alliance for comment and were told that their board is not yet prepared to release a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1528,
+      "end_ix": 1589,
+      "text": "\nWe will update this post if such a statement is forthcoming.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1589,
+      "end_ix": 1731,
+      "text": "\nImage via Columbia University Asian American Alliance\nTags: breaking, columbia university asian american alliance, cultureSHOCK, nimesh patel",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      685,
+      725,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1228,
+      1280,
+      "Appeal_to_Authority"
+    ]
+  ]
+}

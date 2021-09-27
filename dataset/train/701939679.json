@@ -1,0 +1,192 @@
+{
+  "article_id": "701939679",
+  "sentence offsets in original": [
+    0,
+    132,
+    338,
+    404,
+    530,
+    881,
+    970,
+    1092,
+    1155,
+    1287,
+    1385,
+    1472,
+    1564,
+    1920
+  ],
+  "original sentences": [
+    "Virginia: Muslim gets 20 years for joining ISIS, says they studied Islam for 8 hours every day\n\n\u201cI didn\u2019t agree with their ideology.",
+    "\nOur daily life was basically prayer, eating, and learning about the religion for about eight hours.\u201d\nImagine spending all that time studying Islam and yet still misunderstanding its true, peaceful message.",
+    "\nWe can only hope that learned imams such as Pope Francis and H.R.",
+    "\nMcMaster will go to Virginia forthwith and explain to Mohamad Jamal Khweis the proper understanding of the Religion of Peace.",
+    "\n\u201cVirginia man Mohamad Jamal Khweis sentenced to 20 years in prison for joining ISIS,\u201d by Justin Carissimo, CBS News, October 27, 2017 (thanks to Lookmann):\nA 28-year-old man has been sentenced to 20 years in prison after he was convicted of providing material support to the Islamic State of Iraq and Syria (ISIS), the Justice Department said Friday.",
+    "\nMohamad Jamal Khweis from Alexandria, Virginia, was convicted by a federal jury in June.",
+    "\nThe Justice Department said Khweis left the U.S. in 2015 and eventually crossed into Syria through Turkey late that year.",
+    "\nKhweis spent 2.5 months as a member of ISIS in northern Syria.",
+    "\nIn 2016, he surrendered to Kurdish forces in northern Iraq and was eventually turned over to U.S. authorities, the department said.",
+    "\n\u2026 The department said Khweis used encrypted devices and mobile applications to hide his activity.",
+    "\nAfter joining the militant group, he agreed to be a suicide bomber, prosecutors said\u2026.",
+    "\n\u201cI didn\u2019t agree with their ideology,\u201d Khweis said in an interview with Kurdistan24 in 2016.",
+    "\n\u201cOur daily life was basically prayer, eating, and learning about the religion for about eight hours.\u201d Kweis graduated from Alexandria\u2019s Thomas Edison High School in 2007, where friends described him as \u201cone of the guys.\u201d \u201cHe wasn\u2019t someone who was an outcast or something like that \u2014 he was one of the guys,\u201d Harrison Weinhold told CBS News in March 2016.",
+    "\n\u201cThere wasn\u2019t anything that would lead me to believe that this was, like, on the radar, that he was just going to go join ISIS.\u201d\nArticle posted with permission from Robert Spencer"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 132,
+      "text": "Virginia: Muslim gets 20 years for joining ISIS, says they studied Islam for 8 hours every day\n\n\u201cI didn\u2019t agree with their ideology.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 132,
+      "end_ix": 338,
+      "text": "\nOur daily life was basically prayer, eating, and learning about the religion for about eight hours.\u201d\nImagine spending all that time studying Islam and yet still misunderstanding its true, peaceful message.",
+      "new_text": "\nOur daily life was basically prayer, eating, and learning about the religion for about eight hours.\"",
+      "prop_spans": [
+        [
+          234,
+          337,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 338,
+      "end_ix": 404,
+      "text": "\nWe can only hope that learned imams such as Pope Francis and H.R.",
+      "new_text": "\nWe can only hope that learned imams such as Pope Francis and H.R.",
+      "prop_spans": [
+        [
+          339,
+          404,
+          "Doubt"
+        ],
+        [
+          361,
+          375,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 404,
+      "end_ix": 530,
+      "text": "\nMcMaster will go to Virginia forthwith and explain to Mohamad Jamal Khweis the proper understanding of the Religion of Peace.",
+      "new_text": "\nMcMaster will go to Virginia forthwith and explain to Mohamad Jamal Khweis the proper understanding of Islam.",
+      "prop_spans": [
+        [
+          404,
+          529,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 530,
+      "end_ix": 881,
+      "text": "\n\u201cVirginia man Mohamad Jamal Khweis sentenced to 20 years in prison for joining ISIS,\u201d by Justin Carissimo, CBS News, October 27, 2017 (thanks to Lookmann):\nA 28-year-old man has been sentenced to 20 years in prison after he was convicted of providing material support to the Islamic State of Iraq and Syria (ISIS), the Justice Department said Friday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 881,
+      "end_ix": 970,
+      "text": "\nMohamad Jamal Khweis from Alexandria, Virginia, was convicted by a federal jury in June.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 970,
+      "end_ix": 1092,
+      "text": "\nThe Justice Department said Khweis left the U.S. in 2015 and eventually crossed into Syria through Turkey late that year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1092,
+      "end_ix": 1155,
+      "text": "\nKhweis spent 2.5 months as a member of ISIS in northern Syria.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1155,
+      "end_ix": 1287,
+      "text": "\nIn 2016, he surrendered to Kurdish forces in northern Iraq and was eventually turned over to U.S. authorities, the department said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1287,
+      "end_ix": 1385,
+      "text": "\n\u2026 The department said Khweis used encrypted devices and mobile applications to hide his activity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1385,
+      "end_ix": 1472,
+      "text": "\nAfter joining the militant group, he agreed to be a suicide bomber, prosecutors said\u2026.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1472,
+      "end_ix": 1564,
+      "text": "\n\u201cI didn\u2019t agree with their ideology,\u201d Khweis said in an interview with Kurdistan24 in 2016.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1474,
+          1564,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1564,
+      "end_ix": 1920,
+      "text": "\n\u201cOur daily life was basically prayer, eating, and learning about the religion for about eight hours.\u201d Kweis graduated from Alexandria\u2019s Thomas Edison High School in 2007, where friends described him as \u201cone of the guys.\u201d \u201cHe wasn\u2019t someone who was an outcast or something like that \u2014 he was one of the guys,\u201d Harrison Weinhold told CBS News in March 2016.",
+      "new_text": "\n\u201cOur daily life was basically prayer, eating, and learning about the religion for about eight hours.\u201d Kweis graduated from Alexandria\u2019s Thomas Edison High School in 2007, where friends described him as \u201cone of the guys.\u201d \u201cHe wasn\u2019t someone who was an outcast or something like that \u2014 he was one of the guys,\u201d Harrison Weinhold told CBS News in March 2016.",
+      "prop_spans": [
+        [
+          1564,
+          1664,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1920,
+      "end_ix": 2100,
+      "text": "\n\u201cThere wasn\u2019t anything that would lead me to believe that this was, like, on the radar, that he was just going to go join ISIS.\u201d\nArticle posted with permission from Robert Spencer",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      234,
+      337,
+      "Doubt"
+    ],
+    [
+      339,
+      529,
+      "Doubt"
+    ],
+    [
+      361,
+      375,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1474,
+      1664,
+      "Repetition"
+    ]
+  ]
+}

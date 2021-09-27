@@ -1,0 +1,158 @@
+{
+  "article_id": "787759779",
+  "sentence offsets in original": [
+    0,
+    233,
+    372,
+    508,
+    541,
+    624,
+    680,
+    697,
+    851
+  ],
+  "original sentences": [
+    "Kavanaugh Accuser's Lawyer is Vice Chair of Soros Funded Org Opposing Kavanaugh\n\nKavanaugh's accuser is being represented by Debra Katz, a Washington D.C. lawyer and the vice chair of the board of the Project On Government Oversight.",
+    "\nPOGO co-signed a letter to Senator Dianne Feinstein and Senator Grassley along with a variety of lefty groups demanding Kavanaugh records.",
+    "\nThis was the obstruction tactic of choice of the left for trying to secure the Court seat before they fastened on to this latest smear.",
+    "\nWhere does PGO gets its funding?",
+    "\nFrom, among other sources, George Soros and his Open Society Foundation tentacles.",
+    "\nAnd, to no one's surprise, she's allegedly a Dem donor.",
+    "\nWhat a surprise!",
+    "\nDebra Katz, the lawyer representing the woman accusing Brett Kavanaugh of sexual assault, has donated thousands of dollars to Obama, Hillary and the DNC!",
+    "\npic.twitter.com/WK5XYTlcqL \u2014 Jacob Wohl (@JacobAWohl) September 17, 2018\nUPDATE: I've received a message from POGO stating that they wish to be described as a non-partisan watchdog and that they have a Republican board member."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 233,
+      "text": "Kavanaugh Accuser's Lawyer is Vice Chair of Soros Funded Org Opposing Kavanaugh\n\nKavanaugh's accuser is being represented by Debra Katz, a Washington D.C. lawyer and the vice chair of the board of the Project On Government Oversight.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 233,
+      "end_ix": 372,
+      "text": "\nPOGO co-signed a letter to Senator Dianne Feinstein and Senator Grassley along with a variety of lefty groups demanding Kavanaugh records.",
+      "new_text": "\nPOGO co-signed a letter to Senator Dianne Feinstein and Senator Grassley along with a variety of groups demanding Kavanaugh records.",
+      "prop_spans": [
+        [
+          331,
+          344,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 372,
+      "end_ix": 508,
+      "text": "\nThis was the obstruction tactic of choice of the left for trying to secure the Court seat before they fastened on to this latest smear.",
+      "new_text": "\nThis was the obstruction tactic of choice of the left for trying to secure the Court seat before they fastened on to this latest allegation.",
+      "prop_spans": [
+        [
+          495,
+          507,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 508,
+      "end_ix": 541,
+      "text": "\nWhere does PGO gets its funding?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 541,
+      "end_ix": 624,
+      "text": "\nFrom, among other sources, George Soros and his Open Society Foundation tentacles.",
+      "new_text": "\nFrom, among other sources, George Soros and his Open Society Foundation.",
+      "prop_spans": [
+        [
+          590,
+          623,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 624,
+      "end_ix": 680,
+      "text": "\nAnd, to no one's surprise, she's allegedly a Dem donor.",
+      "new_text": "\nAnd, to no one's surprise, she's allegedly a Democrat donor.",
+      "prop_spans": [
+        [
+          670,
+          679,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 680,
+      "end_ix": 697,
+      "text": "\nWhat a surprise!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          681,
+          696,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 697,
+      "end_ix": 851,
+      "text": "\nDebra Katz, the lawyer representing the woman accusing Brett Kavanaugh of sexual assault, has donated thousands of dollars to Obama, Hillary and the DNC!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 851,
+      "end_ix": 1078,
+      "text": "\npic.twitter.com/WK5XYTlcqL \u2014 Jacob Wohl (@JacobAWohl) September 17, 2018\nUPDATE: I've received a message from POGO stating that they wish to be described as a non-partisan watchdog and that they have a Republican board member.",
+      "new_text": "\npic.twitter.com/WK5XYTlcqL \u2014 Jacob Wohl (@JacobAWohl) September 17, 2018\nUPDATE: I've received a message from POGO stating that they wish to be described as a non-partisan watchdog and that they have a Republican board member.",
+      "prop_spans": [
+        [
+          1011,
+          1033,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      331,
+      344,
+      "Name_Calling,Labeling"
+    ],
+    [
+      495,
+      507,
+      "Loaded_Language"
+    ],
+    [
+      590,
+      623,
+      "Name_Calling,Labeling"
+    ],
+    [
+      670,
+      679,
+      "Name_Calling,Labeling"
+    ],
+    [
+      681,
+      696,
+      "Loaded_Language"
+    ],
+    [
+      1011,
+      1033,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

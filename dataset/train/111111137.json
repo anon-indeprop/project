@@ -1,0 +1,278 @@
+{
+  "article_id": "111111137",
+  "sentence offsets in original": [
+    0,
+    184,
+    337,
+    410,
+    518,
+    592,
+    764,
+    905,
+    930,
+    1155,
+    1707,
+    1862,
+    1977,
+    2006,
+    2093,
+    2229,
+    2396,
+    2488,
+    2595,
+    2826,
+    2958,
+    2977,
+    3104,
+    3174,
+    3307,
+    3392
+  ],
+  "original sentences": [
+    "Florida shooting: Gun control law moves step closer\n\nNew gun control measures for Florida have passed another legal hurdle, weeks after one of the worst school shootings in US history.",
+    "\n\nThe state's House of Representatives passed a bill raising the age to buy a gun from 18 to 21 and imposing a three-day waiting period on all gun sales.",
+    "\n\nThe bill, already passed by the Senate, now goes to the state governor.",
+    "\n\nSeventeen people were killed at Marjory Stoneman Douglas High School in Parkland, Florida, on 14 February.",
+    "\nExpelled former student Nikolas Cruz, 19, has been charged in the attack.",
+    "\nHe was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",
+    "\n\nHe is suspected of using a legally bought AR-15 semi-automatic rifle to carry out the 10-minute attack, gunning down teachers and students.",
+    "\n\nWhat is in the new law?",
+    "\nIn addition to raising the age and bringing in the three-day waiting period, the legislation:\n\nIntroduces a voluntary armed \"guardian programme\" for schools, named after Aaron Feis, a coach who died in the Parkland shooting.",
+    "\nIt allows school personnel to be armed, subject to school district approval and specialist training\nClassroom teachers are excluded from carrying arms unless they have a security forces background\nBans devices, such as bump stocks, that modify a semi-automatic weapon to fully automatic\nRaises mental health funding and increases the power to seize or ban guns under mental health concerns\nThe legislation does not include a ban on the sale of assault-style weapons like the AR-15, despite it being a key demand of Parkland students and their parents.",
+    "\n\nFlorida law already mandates a three-day waiting period for the purchase of a handgun but a person as young as 18 can buy a rifle with no waiting period.",
+    "\nThe Republican-controlled House debated the bill for about eight hours on Wednesday before voting 67-50 in favour.",
+    "\n\nHas the move been welcomed?",
+    "\nRyan Petty, whose daughter was among those killed, hailed the House's vote in a tweet.",
+    "\n\nHe said: \"We know that when it comes to preventing future acts of school violence, today's vote is just the beginning of our journey.\"",
+    "\n\nState Democratic Party legislators who backed the bill said it was necessary despite the \"poison pill\" of allowing more guns in schools under the guardian programme.",
+    "\nFlorida now joins at least six other states in allowing school employees to carry firearms.",
+    "\n\nFollowing the Parkland shooting, many surviving students had lobbied politicians for greater gun control.",
+    "\n\nGun control activists will hope the Florida measures will be a turning point in their battle with the powerful National Rifle Association and others who defend firearms ownership under the Second Amendment of the US constitution.",
+    "\n\nOn the day the vote passed, a 17-year-old woman student was killed in a suspected accidental shooting at a high school in Alabama.",
+    "\n\nWhat happens now?",
+    "\nGovernor Rick Scott will need to sign the bill, known as the Marjory Stoneman Douglas High School Public Safety Act, into law.",
+    "\n\nIt will automatically become law within 15 days unless he vetoes it.",
+    "\n\nMr Scott has not yet said he will back it, telling reporters he would \"review the bill line by line\" and consult victims' families.",
+    "\n\nHe has previously said he opposes US President Donald Trump's call to arm teachers.",
+    "\nHe had also previously opposed increasing the purchase age from 18 to 21."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 184,
+      "text": "Florida shooting: Gun control law moves step closer\n\nNew gun control measures for Florida have passed another legal hurdle, weeks after one of the worst school shootings in US history.",
+      "new_text": "Florida shooting: Gun control law moves step closer\n\nNew gun control measures for Florida have passed another legal hurdle, weeks after a school shooting.",
+      "prop_spans": [
+        [
+          143,
+          183,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 184,
+      "end_ix": 337,
+      "text": "\n\nThe state's House of Representatives passed a bill raising the age to buy a gun from 18 to 21 and imposing a three-day waiting period on all gun sales.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 337,
+      "end_ix": 410,
+      "text": "\n\nThe bill, already passed by the Senate, now goes to the state governor.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 410,
+      "end_ix": 518,
+      "text": "\n\nSeventeen people were killed at Marjory Stoneman Douglas High School in Parkland, Florida, on 14 February.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 518,
+      "end_ix": 592,
+      "text": "\nExpelled former student Nikolas Cruz, 19, has been charged in the attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 592,
+      "end_ix": 764,
+      "text": "\nHe was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 764,
+      "end_ix": 905,
+      "text": "\n\nHe is suspected of using a legally bought AR-15 semi-automatic rifle to carry out the 10-minute attack, gunning down teachers and students.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 905,
+      "end_ix": 930,
+      "text": "\n\nWhat is in the new law?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 930,
+      "end_ix": 1155,
+      "text": "\nIn addition to raising the age and bringing in the three-day waiting period, the legislation:\n\nIntroduces a voluntary armed \"guardian programme\" for schools, named after Aaron Feis, a coach who died in the Parkland shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1155,
+      "end_ix": 1707,
+      "text": "\nIt allows school personnel to be armed, subject to school district approval and specialist training\nClassroom teachers are excluded from carrying arms unless they have a security forces background\nBans devices, such as bump stocks, that modify a semi-automatic weapon to fully automatic\nRaises mental health funding and increases the power to seize or ban guns under mental health concerns\nThe legislation does not include a ban on the sale of assault-style weapons like the AR-15, despite it being a key demand of Parkland students and their parents.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1707,
+      "end_ix": 1862,
+      "text": "\n\nFlorida law already mandates a three-day waiting period for the purchase of a handgun but a person as young as 18 can buy a rifle with no waiting period.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1862,
+      "end_ix": 1977,
+      "text": "\nThe Republican-controlled House debated the bill for about eight hours on Wednesday before voting 67-50 in favour.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1977,
+      "end_ix": 2006,
+      "text": "\n\nHas the move been welcomed?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2006,
+      "end_ix": 2093,
+      "text": "\nRyan Petty, whose daughter was among those killed, hailed the House's vote in a tweet.",
+      "new_text": "\nRyan Petty, whose daughter was among those killed, appreciated the House's vote in a tweet.",
+      "prop_spans": [
+        [
+          2058,
+          2065,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2093,
+      "end_ix": 2229,
+      "text": "\n\nHe said: \"We know that when it comes to preventing future acts of school violence, today's vote is just the beginning of our journey.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2229,
+      "end_ix": 2396,
+      "text": "\n\nState Democratic Party legislators who backed the bill said it was necessary despite the \"poison pill\" of allowing more guns in schools under the guardian programme.",
+      "new_text": "\n\nState Democratic Party legislators who backed the bill said it was necessary despite the act of allowing more guns in schools under the guardian programme.",
+      "prop_spans": [
+        [
+          2321,
+          2332,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2396,
+      "end_ix": 2488,
+      "text": "\nFlorida now joins at least six other states in allowing school employees to carry firearms.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2488,
+      "end_ix": 2595,
+      "text": "\n\nFollowing the Parkland shooting, many surviving students had lobbied politicians for greater gun control.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2595,
+      "end_ix": 2826,
+      "text": "\n\nGun control activists will hope the Florida measures will be a turning point in their battle with the powerful National Rifle Association and others who defend firearms ownership under the Second Amendment of the US constitution.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2826,
+      "end_ix": 2958,
+      "text": "\n\nOn the day the vote passed, a 17-year-old woman student was killed in a suspected accidental shooting at a high school in Alabama.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2958,
+      "end_ix": 2977,
+      "text": "\n\nWhat happens now?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2977,
+      "end_ix": 3104,
+      "text": "\nGovernor Rick Scott will need to sign the bill, known as the Marjory Stoneman Douglas High School Public Safety Act, into law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3104,
+      "end_ix": 3174,
+      "text": "\n\nIt will automatically become law within 15 days unless he vetoes it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3174,
+      "end_ix": 3307,
+      "text": "\n\nMr Scott has not yet said he will back it, telling reporters he would \"review the bill line by line\" and consult victims' families.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3307,
+      "end_ix": 3392,
+      "text": "\n\nHe has previously said he opposes US President Donald Trump's call to arm teachers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3392,
+      "end_ix": 3466,
+      "text": "\nHe had also previously opposed increasing the purchase age from 18 to 21.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      143,
+      183,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2058,
+      2065,
+      "Loaded_Language"
+    ],
+    [
+      2321,
+      2332,
+      "Loaded_Language"
+    ]
+  ]
+}

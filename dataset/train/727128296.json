@@ -1,0 +1,256 @@
+{
+  "article_id": "727128296",
+  "sentence offsets in original": [
+    0,
+    187,
+    315,
+    439,
+    777,
+    892,
+    974,
+    1033,
+    1069,
+    1144,
+    1243,
+    1292,
+    1394,
+    1590,
+    1617,
+    1826,
+    1854,
+    1888,
+    2060,
+    2137,
+    2284,
+    2333,
+    2361,
+    2370,
+    2469,
+    2533
+  ],
+  "original sentences": [
+    "Man who sold ammo to Las Vegas gunman speaks out\n\n\u00a9 Provided by CBS Interactive Inc. Douglas Haig\nNew documents reveal the name of the second person of interest in the Las Vegas shooting.",
+    "\nPolice believe Douglas Haig may have conspired with gunman Stephen Paddock, but it's unclear if he's still under investigation.",
+    "\nHaig sold Paddock ammunition the month before the October attack that killed 58 people dead and wounded hundreds of others.",
+    "\nMandalay Bay hotel staff had numerous run-ins with Vegas gunman: companyLas Vegas shooter Stephen Paddock had lost money, been depressed, sheriff says\nHaig was contacted one day after the attack, after investigators found an Amazon box with his address on it inside Paddock's hotel room, reports CBS News correspondent Mireya Villarreal.",
+    "\nBut Haig says he had no idea what Paddock was planning to do when he met him just a few weeks before the massacre.",
+    "\nHaig says he sold Paddock 720 rounds of ammunition from Haig's home gun business.",
+    "\n\"I couldn't detect anything wrong with this guy,\" he said.",
+    "\n\"He told me exactly what he wanted.",
+    "\nI handed him a box with the ammunition in it, and he paid me and he left.\"",
+    "\nThe rounds he sold are called \"tracer ammunition\" \u2013 bullets that leave a visible trail when fired.",
+    "\n\"He said he was going to go put on a light show.",
+    "\nAnd I can't remember whether he said for or with his friends, but that's what he did say,\" Haig said.",
+    "\nBut newly released search warrant records filed last fall by the Las Vegas Metropolitan Police Department say Haig \"may have conspired with Stephen Paddock to commit murder with a deadly weapon.\"",
+    "\nHaig strongly denies that.",
+    "\n\"I felt that they were hoping that they could find a connection between myself and Paddock, that would go back showing that I supplied him with most of his ammunition, possibly even some firearms,\" Haig said.",
+    "\n\"They're not gonna find it.",
+    "\nI talked to the guy three times.\"",
+    "\nIt's unclear whether Haig is still a person of interest, but he was the only one mentioned by name in the search warrant, other than Marilou Danley - Paddock's girlfriend.",
+    "\nAuthorities have since said they don't plan to bring charges against Danley.",
+    "\nLas Vegas gunman's motive still unknown\nHaig does not blame himself, but within weeks of the massacre, he still decided to shut down his business.",
+    "\n\"I'm still racking my brain for what did I miss.",
+    "\nWhy didn't I pick this up?\"",
+    "\nhe said.",
+    "\nHaig, represented by his Phoenix attorneys Marc Victor and Andrew Marcantel, has not been charged.",
+    "\nHis attorneys say he continues to cooperate with investigators.",
+    "\nCBS News reached out to the FBI and other authorities involved, but none will comment on an active investigation."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 187,
+      "text": "Man who sold ammo to Las Vegas gunman speaks out\n\n\u00a9 Provided by CBS Interactive Inc. Douglas Haig\nNew documents reveal the name of the second person of interest in the Las Vegas shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 187,
+      "end_ix": 315,
+      "text": "\nPolice believe Douglas Haig may have conspired with gunman Stephen Paddock, but it's unclear if he's still under investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 315,
+      "end_ix": 439,
+      "text": "\nHaig sold Paddock ammunition the month before the October attack that killed 58 people dead and wounded hundreds of others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 439,
+      "end_ix": 777,
+      "text": "\nMandalay Bay hotel staff had numerous run-ins with Vegas gunman: companyLas Vegas shooter Stephen Paddock had lost money, been depressed, sheriff says\nHaig was contacted one day after the attack, after investigators found an Amazon box with his address on it inside Paddock's hotel room, reports CBS News correspondent Mireya Villarreal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 777,
+      "end_ix": 892,
+      "text": "\nBut Haig says he had no idea what Paddock was planning to do when he met him just a few weeks before the massacre.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 892,
+      "end_ix": 974,
+      "text": "\nHaig says he sold Paddock 720 rounds of ammunition from Haig's home gun business.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 974,
+      "end_ix": 1033,
+      "text": "\n\"I couldn't detect anything wrong with this guy,\" he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1033,
+      "end_ix": 1069,
+      "text": "\n\"He told me exactly what he wanted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1069,
+      "end_ix": 1144,
+      "text": "\nI handed him a box with the ammunition in it, and he paid me and he left.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1144,
+      "end_ix": 1243,
+      "text": "\nThe rounds he sold are called \"tracer ammunition\" \u2013 bullets that leave a visible trail when fired.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1243,
+      "end_ix": 1292,
+      "text": "\n\"He said he was going to go put on a light show.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1292,
+      "end_ix": 1394,
+      "text": "\nAnd I can't remember whether he said for or with his friends, but that's what he did say,\" Haig said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1394,
+      "end_ix": 1590,
+      "text": "\nBut newly released search warrant records filed last fall by the Las Vegas Metropolitan Police Department say Haig \"may have conspired with Stephen Paddock to commit murder with a deadly weapon.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1590,
+      "end_ix": 1617,
+      "text": "\nHaig strongly denies that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1617,
+      "end_ix": 1826,
+      "text": "\n\"I felt that they were hoping that they could find a connection between myself and Paddock, that would go back showing that I supplied him with most of his ammunition, possibly even some firearms,\" Haig said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1826,
+      "end_ix": 1854,
+      "text": "\n\"They're not gonna find it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1854,
+      "end_ix": 1888,
+      "text": "\nI talked to the guy three times.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1888,
+      "end_ix": 2060,
+      "text": "\nIt's unclear whether Haig is still a person of interest, but he was the only one mentioned by name in the search warrant, other than Marilou Danley - Paddock's girlfriend.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2060,
+      "end_ix": 2137,
+      "text": "\nAuthorities have since said they don't plan to bring charges against Danley.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2137,
+      "end_ix": 2284,
+      "text": "\nLas Vegas gunman's motive still unknown\nHaig does not blame himself, but within weeks of the massacre, he still decided to shut down his business.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2284,
+      "end_ix": 2333,
+      "text": "\n\"I'm still racking my brain for what did I miss.",
+      "new_text": "\n\"I'm still racking my brain for what did I miss.",
+      "prop_spans": [
+        [
+          2296,
+          2313,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2333,
+      "end_ix": 2361,
+      "text": "\nWhy didn't I pick this up?\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2361,
+      "end_ix": 2370,
+      "text": "\nhe said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2370,
+      "end_ix": 2469,
+      "text": "\nHaig, represented by his Phoenix attorneys Marc Victor and Andrew Marcantel, has not been charged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2469,
+      "end_ix": 2533,
+      "text": "\nHis attorneys say he continues to cooperate with investigators.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2533,
+      "end_ix": 2647,
+      "text": "\nCBS News reached out to the FBI and other authorities involved, but none will comment on an active investigation.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      2296,
+      2313,
+      "Loaded_Language"
+    ]
+  ]
+}

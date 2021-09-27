@@ -1,0 +1,304 @@
+{
+  "article_id": "999000149",
+  "sentence offsets in original": [
+    0,
+    231,
+    327,
+    580,
+    675,
+    770,
+    808,
+    841,
+    922,
+    1004,
+    1032,
+    1095,
+    1375,
+    1510,
+    1601,
+    1871,
+    1947,
+    2128,
+    2210,
+    2333,
+    2988,
+    3174
+  ],
+  "original sentences": [
+    "Pro-Sharia Democrat Congressional Candidate Ilhan Omar Defends Tweet On \u201cEvil Doings Of Israel\u201d\n\nRetailing these poisonous lies ought to hurt her chances for election to Congress, especially after the Pittsburgh synagogue massacre.",
+    "\nBut she is a Leftist, and the Left is increasingly anti-Semitic, so she will cruise to victory.",
+    "\n\u201cDem Candidate Ilhan Omar Defending Tweet On \u2018The Evil Doings Of Israel,\u2019\u201d by Frank Camp, Daily Wire, October 28, 2018:\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nOn November 16, 2012, Somali-born Minnesota state Rep. Ilhan Omar (D), who\u2019s currently running for the state\u2019s 5th Congressional District seat, sent out the following tweet:\nIsrael has hypnotized the world, may Allah awaken the people and help them see the evil doings of Israel.",
+    "\n#Gaza #Palestine #Israel\nIn May of this year, Twitter user John Gilmore dug up the six-year-old tweet, forcing Omar to defend herself.",
+    "\nShe responded: \u201cDrawing attention to the apartheid Israeli regime is far from hating Jews.",
+    "\nYou are a hateful sad man, I pray to Allah you get the help you need and find happiness.\u201d\nOmar\u2019s initial tweet came three days after \u201cPalestinian terrorists in Gaza launched more than 150 rockets at Israel\u201d from November 10-13, 2012, reports the Jewish Virtual Library.",
+    "\nOn November 14, the Israeli Air Force killed Ahmad Jabari in an air strike.",
+    "\nJabari, the military commander of Hamas, was allegedly responsible for, or instrumental in, multiples terrorist attacks on Israeli civilians and military personnel since the 1990s.",
+    "\nOn November 15, another terrorist-launched rocket killed three Israeli civilians.",
+    "\nThis and other rocket launches from Palestinian militants in Gaza prompted Israel to initiate Operation Pillar of Defense.",
+    "\nAccording to Israel\u2019s official New York consulate website, during the operation, \u201cthe IDF targeted over 1,500 terror sites including 19 senior command centers, operational control centers and Hamas\u2019 senior-rank headquarters, 30 senior operatives, damaging Hamas\u2019 command and control, hundreds of underground rocket launchers, 140 smuggling tunnels, 66 terror tunnels, dozens of Hamas operation rooms and bases, 26 weapon manufacturing and storage facilities and dozens of long-range rocket launchers and launch sites.\u201d\nOmar defended herself against charges of anti-Semitism in a July interview with ABC News, saying: \u201cThese accusations are without merit.",
+    "\nThey are rooted in bigotry toward a belief about what Muslims are stereotyped to believe.\u201d\nThe oft-repeated notion that Israel is an \u201capartheid\u201d nation is incorrect on multiple grounds.",
+    "\nPerhaps the most succinct refutation of this idea comes from the Anti-Defamation League (ADL), which writes:"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 231,
+      "text": "Pro-Sharia Democrat Congressional Candidate Ilhan Omar Defends Tweet On \u201cEvil Doings Of Israel\u201d\n\nRetailing these poisonous lies ought to hurt her chances for election to Congress, especially after the Pittsburgh synagogue massacre.",
+      "new_text": "Pro-Sharia Democrat Congressional Candidate Ilhan Omar Defends Tweet On \u201cEvil Doings Of Israel\u201d\n\nRetailing these poisonous lies ought to hurt her chances for election to Congress, especially after the Pittsburgh synagogue massacre.",
+      "prop_spans": [
+        [
+          73,
+          94,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 231,
+      "end_ix": 327,
+      "text": "\nBut she is a Leftist, and the Left is increasingly anti-Semitic, so she will cruise to victory.",
+      "new_text": "\nBut she is a Leftist, and the Left is increasingly anti-Semitic, so she will win.",
+      "prop_spans": [
+        [
+          300,
+          326,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 327,
+      "end_ix": 580,
+      "text": "\n\u201cDem Candidate Ilhan Omar Defending Tweet On \u2018The Evil Doings Of Israel,\u2019\u201d by Frank Camp, Daily Wire, October 28, 2018:\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": "\n\u201cDem Candidate Ilhan Omar Defending Tweet On \u2018The Evil Doings Of Israel,\u2019\u201d by Frank Camp, Daily Wire, October 28, 2018:\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "prop_spans": [
+        [
+          374,
+          399,
+          "Repetition"
+        ],
+        [
+          374,
+          399,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 580,
+      "end_ix": 675,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 675,
+      "end_ix": 770,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 770,
+      "end_ix": 808,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 808,
+      "end_ix": 841,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 841,
+      "end_ix": 922,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 922,
+      "end_ix": 1004,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1004,
+      "end_ix": 1032,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1032,
+      "end_ix": 1095,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1095,
+      "end_ix": 1375,
+      "text": "\nOn November 16, 2012, Somali-born Minnesota state Rep. Ilhan Omar (D), who\u2019s currently running for the state\u2019s 5th Congressional District seat, sent out the following tweet:\nIsrael has hypnotized the world, may Allah awaken the people and help them see the evil doings of Israel.",
+      "new_text": "\nOn November 16, 2012, Somali-born Minnesota state Rep. Ilhan Omar (D), who\u2019s currently running for the state\u2019s 5th Congressional District seat, sent out the following tweet:\nIsrael has hypnotized the world, may Allah awaken the people and help them see the evil doings of Israel.",
+      "prop_spans": [
+        [
+          1270,
+          1301,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1281,
+          1292,
+          "Loaded_Language"
+        ],
+        [
+          1349,
+          1374,
+          "Loaded_Language"
+        ],
+        [
+          1349,
+          1374,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1375,
+      "end_ix": 1510,
+      "text": "\n#Gaza #Palestine #Israel\nIn May of this year, Twitter user John Gilmore dug up the six-year-old tweet, forcing Omar to defend herself.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1510,
+      "end_ix": 1601,
+      "text": "\nShe responded: \u201cDrawing attention to the apartheid Israeli regime is far from hating Jews.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1601,
+      "end_ix": 1871,
+      "text": "\nYou are a hateful sad man, I pray to Allah you get the help you need and find happiness.\u201d\nOmar\u2019s initial tweet came three days after \u201cPalestinian terrorists in Gaza launched more than 150 rockets at Israel\u201d from November 10-13, 2012, reports the Jewish Virtual Library.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1871,
+      "end_ix": 1947,
+      "text": "\nOn November 14, the Israeli Air Force killed Ahmad Jabari in an air strike.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1947,
+      "end_ix": 2128,
+      "text": "\nJabari, the military commander of Hamas, was allegedly responsible for, or instrumental in, multiples terrorist attacks on Israeli civilians and military personnel since the 1990s.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2128,
+      "end_ix": 2210,
+      "text": "\nOn November 15, another terrorist-launched rocket killed three Israeli civilians.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2210,
+      "end_ix": 2333,
+      "text": "\nThis and other rocket launches from Palestinian militants in Gaza prompted Israel to initiate Operation Pillar of Defense.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2333,
+      "end_ix": 2988,
+      "text": "\nAccording to Israel\u2019s official New York consulate website, during the operation, \u201cthe IDF targeted over 1,500 terror sites including 19 senior command centers, operational control centers and Hamas\u2019 senior-rank headquarters, 30 senior operatives, damaging Hamas\u2019 command and control, hundreds of underground rocket launchers, 140 smuggling tunnels, 66 terror tunnels, dozens of Hamas operation rooms and bases, 26 weapon manufacturing and storage facilities and dozens of long-range rocket launchers and launch sites.\u201d\nOmar defended herself against charges of anti-Semitism in a July interview with ABC News, saying: \u201cThese accusations are without merit.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2988,
+      "end_ix": 3174,
+      "text": "\nThey are rooted in bigotry toward a belief about what Muslims are stereotyped to believe.\u201d\nThe oft-repeated notion that Israel is an \u201capartheid\u201d nation is incorrect on multiple grounds.",
+      "new_text": "\nThey are rooted in bigotry toward a belief about what Muslims are stereotyped to believe.\u201d\nThe oft-repeated notion that Israel is an \u201capartheid\u201d nation is incorrect on multiple grounds.",
+      "prop_spans": [
+        [
+          2989,
+          3077,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3174,
+      "end_ix": 3283,
+      "text": "\nPerhaps the most succinct refutation of this idea comes from the Anti-Defamation League (ADL), which writes:",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      73,
+      94,
+      "Loaded_Language"
+    ],
+    [
+      300,
+      326,
+      "Loaded_Language"
+    ],
+    [
+      374,
+      399,
+      "Repetition"
+    ],
+    [
+      374,
+      399,
+      "Loaded_Language"
+    ],
+    [
+      1270,
+      1301,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1281,
+      1292,
+      "Loaded_Language"
+    ],
+    [
+      1349,
+      1374,
+      "Loaded_Language"
+    ],
+    [
+      1349,
+      1374,
+      "Repetition"
+    ],
+    [
+      2989,
+      3077,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

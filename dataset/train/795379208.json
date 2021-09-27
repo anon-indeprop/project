@@ -1,0 +1,298 @@
+{
+  "article_id": "795379208",
+  "sentence offsets in original": [
+    0,
+    417,
+    944,
+    1067,
+    1149,
+    1265,
+    1513,
+    1783,
+    1882,
+    2035,
+    2119,
+    2343,
+    2600,
+    2733,
+    2963,
+    3685,
+    3986,
+    4078,
+    4271,
+    4543,
+    4621,
+    4852,
+    5000,
+    5124
+  ],
+  "original sentences": [
+    "Pompeo offers defense for Saudi rulers as Trump administration strategy shifts in Khashoggi case\n\nWASHINGTON \u2014 Secretary of State Michael R. Pompeo expressed confidence Wednesday that the Saudi government could be trusted to investigate the disappearance and suspected murder of a U.S.-based Saudi journalist in a Saudi diplomatic facility in Turkey \u2014 despite the likelihood that senior Saudi officials were involved.",
+    "\nSpeaking in Ankara, Turkey, Pompeo offered that support hours after President Donald Trump had mounted an even stronger defense for the Saudi rulers, saying, \u201cHere we go again with you\u2019re guilty until proven innocent.\u201d\nTogether they appeared to signal a shift in White House strategy \u2014 earlier this week Trump had warned Saudi rulers could face \u201csevere punishment\u201d \u2014 and suggested the administration has decided to help its most important ally in the Arab world defuse an international crisis over the fate of Jamal Khashoggi.",
+    "\nThe dissident journalist, who lived in Virginia, vanished Oct. 2 after he entered the Saudi Consulate in Istanbul, Turkey.",
+    "\nNeither Trump nor his top diplomat offered any new facts or insights in the case.",
+    "\nBut unless authorities recover his body or other conclusive evidence of his death, the mystery may remain unsolved.",
+    "\nPompeo wrapped up two days of emergency talks in the region \u2014 first with Saudi King Salman and Crown Prince Mohammed bin Salman in Riyadh, and then with Turkish President Recep Tayyip Erdogan in Ankara \u2014 and headed back to Washington on Wednesday.",
+    "\nTurkish officials have described \u2014 but have not released \u2014 what they say are audio and video recordings that show the 60-year-old contributor to the Washington Post opinion pages was interrogated, tortured and killed by Saudi intelligence officers inside the consulate.",
+    "\nTurkish officials say Khashoggi\u2019s body was cut up with a bone saw, then taken out of the building.",
+    "\nTurkish crime scene investigators and forensic specialists were allowed to search for evidence in the Saudi consulate and a nearby residence on Tuesday.",
+    "\nErdogan later complained that the interior walls had been repainted in recent days.",
+    "\nOn his flight from Riyadh to Ankara, Pompeo reiterated his confidence that the Saudi government would conduct a \u201cthorough, complete, and transparent investigation,\u201d adding that they will \u201cshow the entire world\u201d the results.",
+    "\nHe said Saudi leaders made a commitment \u201cto hold anyone connected to any wrongdoing that may be found accountable for that, whether they are a senior officer or official.\u201d He said they made \u201cno exceptions,\u201d including presumably members of the royal family.",
+    "\nAsked if the Saudis had informed him whether Khashoggi was alive or dead, Pompeo said, \u201cI don\u2019t want to talk about any of the facts.",
+    "\nThey didn\u2019t want to either, in that they want to have the opportunity to complete this investigation in a thorough way.\u201d\nAsked if he believed the Saudi rulers\u2019 repeated denial of complicity, Pompeo said he was reserving judgment.",
+    "\n\u201cI think that\u2019s \u2014 I think that\u2019s \u2014 I think that\u2019s a reasonable thing to do, to give them that opportunity,\u201d Pompeo said, \u201c(and then) we\u2019ll all get to evaluate the work that they do.\u201d\nPompeo refused to discuss possible consequences for those found responsible for Khashoggi\u2019s disappearance, reiterating at least three times the \u201cimportance of the investigation.\u201d\nLater Wednesday, Pompeo said during a refueling stopover in Brussels that Erdogan had informed him the Saudis were cooperating with the Turkish investigation \u201cafter a couple of delays.\u201d\nTurkish officials \u201cseemed pretty confident the Saudis will permit them to do things they need to do to complete\u201d the investigation, Pompeo told reporters traveling with him.",
+    "\nIn a sign that the administration is looking to help Saudi Arabia get out of its dilemma, Pompeo urged Americans to be mindful of the extensive energy, economic and security ties between Riyadh and Washington, including efforts against what he called the world\u2019s largest supporter of terrorism, Iran.",
+    "\n\u201cThe Saudis have been great partners in working alongside us on these issues,\u201d Pompeo said.",
+    "\n\u201cWe need to make sure we are mindful of that as we approach decisions\u201d on whether to impose sanctions or take other punitive steps against Riyadh, as many in Congress and elsewhere have urged.",
+    "\nCritics questioned whether the Saudi rulers, who preside over an authoritarian regime that allows little opposition, can be relied on to conduct a credible probe into Khashoggi\u2019s fate \u2014 especially without decisive pressure from their close ally, the Trump administration.",
+    "\nSaudi leaders for two weeks denied knowing anything about the Khashoggi case.",
+    "\nOn Monday, they began floating a scenario \u2014 initially adopted by Trump \u2014 that blamed the murder inside the consulate on \u201crogue killers,\u201d and then suggested the writer was accidentally killed during an interrogation that went awry.",
+    "\nAnalysts familiar with the desert kingdom said it was likely Saudi leaders were hoping the scandal would blow over and that they could wait it out.",
+    "\n\u201cWe received commitments that they would complete this (investigation), and I am counting on them to do that,\u201d Pompeo said.",
+    "\n\u201cThey gave me their word.\u201d\n\u2014 Tracy Wilkinson\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 417,
+      "text": "Pompeo offers defense for Saudi rulers as Trump administration strategy shifts in Khashoggi case\n\nWASHINGTON \u2014 Secretary of State Michael R. Pompeo expressed confidence Wednesday that the Saudi government could be trusted to investigate the disappearance and suspected murder of a U.S.-based Saudi journalist in a Saudi diplomatic facility in Turkey \u2014 despite the likelihood that senior Saudi officials were involved.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 417,
+      "end_ix": 944,
+      "text": "\nSpeaking in Ankara, Turkey, Pompeo offered that support hours after President Donald Trump had mounted an even stronger defense for the Saudi rulers, saying, \u201cHere we go again with you\u2019re guilty until proven innocent.\u201d\nTogether they appeared to signal a shift in White House strategy \u2014 earlier this week Trump had warned Saudi rulers could face \u201csevere punishment\u201d \u2014 and suggested the administration has decided to help its most important ally in the Arab world defuse an international crisis over the fate of Jamal Khashoggi.",
+      "new_text": "\nSpeaking in Ankara, Turkey, Pompeo offered that support hours after President Donald Trump had mounted an even stronger defense for the Saudi rulers, saying, \u201cHere we go again with you\u2019re guilty until proven innocent.\u201d\nTogether they appeared to signal a shift in White House strategy \u2014 earlier this week Trump had warned Saudi rulers could face \u201csevere punishment\u201d \u2014 and suggested the administration has decided to help its most important ally in the Arab world defuse an international crisis over the fate of Jamal Khashoggi.",
+      "prop_spans": [
+        [
+          764,
+          770,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 944,
+      "end_ix": 1067,
+      "text": "\nThe dissident journalist, who lived in Virginia, vanished Oct. 2 after he entered the Saudi Consulate in Istanbul, Turkey.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1067,
+      "end_ix": 1149,
+      "text": "\nNeither Trump nor his top diplomat offered any new facts or insights in the case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1149,
+      "end_ix": 1265,
+      "text": "\nBut unless authorities recover his body or other conclusive evidence of his death, the mystery may remain unsolved.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1265,
+      "end_ix": 1513,
+      "text": "\nPompeo wrapped up two days of emergency talks in the region \u2014 first with Saudi King Salman and Crown Prince Mohammed bin Salman in Riyadh, and then with Turkish President Recep Tayyip Erdogan in Ankara \u2014 and headed back to Washington on Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1513,
+      "end_ix": 1783,
+      "text": "\nTurkish officials have described \u2014 but have not released \u2014 what they say are audio and video recordings that show the 60-year-old contributor to the Washington Post opinion pages was interrogated, tortured and killed by Saudi intelligence officers inside the consulate.",
+      "new_text": "\nTurkish officials have described \u2014 but have not released \u2014 what they say are audio and video recordings that show the 60-year-old contributor to the Washington Post opinion pages was interrogated and humiliated by Saudi intelligence officers inside the consulate.",
+      "prop_spans": [
+        [
+          1711,
+          1730,
+          "Loaded_Language"
+        ],
+        [
+          1711,
+          1730,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1783,
+      "end_ix": 1882,
+      "text": "\nTurkish officials say Khashoggi\u2019s body was cut up with a bone saw, then taken out of the building.",
+      "new_text": "\nTurkish officials say Khashoggi\u2019s body was dismembered, then taken out of the building.",
+      "prop_spans": [
+        [
+          1818,
+          1849,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1882,
+      "end_ix": 2035,
+      "text": "\nTurkish crime scene investigators and forensic specialists were allowed to search for evidence in the Saudi consulate and a nearby residence on Tuesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2035,
+      "end_ix": 2119,
+      "text": "\nErdogan later complained that the interior walls had been repainted in recent days.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2119,
+      "end_ix": 2343,
+      "text": "\nOn his flight from Riyadh to Ankara, Pompeo reiterated his confidence that the Saudi government would conduct a \u201cthorough, complete, and transparent investigation,\u201d adding that they will \u201cshow the entire world\u201d the results.",
+      "new_text": "\nOn his flight from Riyadh to Ankara, Pompeo gave his opinion on the Saudi government that they would conduct a \u201cthorough, complete, and transparent investigation,\u201d and the results will be in public domain.",
+      "prop_spans": [
+        [
+          2157,
+          2343,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2343,
+      "end_ix": 2600,
+      "text": "\nHe said Saudi leaders made a commitment \u201cto hold anyone connected to any wrongdoing that may be found accountable for that, whether they are a senior officer or official.\u201d He said they made \u201cno exceptions,\u201d including presumably members of the royal family.",
+      "new_text": "\nHe said Saudi leaders made a commitment \u201cto hold anyone connected to any wrongdoing that may be found accountable for that, whether they are a senior officer or official.\u201d He said they made \u201cno exceptions,\u201d including presumably members of the royal family.",
+      "prop_spans": [
+        [
+          2343,
+          2344,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2600,
+      "end_ix": 2733,
+      "text": "\nAsked if the Saudis had informed him whether Khashoggi was alive or dead, Pompeo said, \u201cI don\u2019t want to talk about any of the facts.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2733,
+      "end_ix": 2963,
+      "text": "\nThey didn\u2019t want to either, in that they want to have the opportunity to complete this investigation in a thorough way.\u201d\nAsked if he believed the Saudi rulers\u2019 repeated denial of complicity, Pompeo said he was reserving judgment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2963,
+      "end_ix": 3685,
+      "text": "\n\u201cI think that\u2019s \u2014 I think that\u2019s \u2014 I think that\u2019s a reasonable thing to do, to give them that opportunity,\u201d Pompeo said, \u201c(and then) we\u2019ll all get to evaluate the work that they do.\u201d\nPompeo refused to discuss possible consequences for those found responsible for Khashoggi\u2019s disappearance, reiterating at least three times the \u201cimportance of the investigation.\u201d\nLater Wednesday, Pompeo said during a refueling stopover in Brussels that Erdogan had informed him the Saudis were cooperating with the Turkish investigation \u201cafter a couple of delays.\u201d\nTurkish officials \u201cseemed pretty confident the Saudis will permit them to do things they need to do to complete\u201d the investigation, Pompeo told reporters traveling with him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3685,
+      "end_ix": 3986,
+      "text": "\nIn a sign that the administration is looking to help Saudi Arabia get out of its dilemma, Pompeo urged Americans to be mindful of the extensive energy, economic and security ties between Riyadh and Washington, including efforts against what he called the world\u2019s largest supporter of terrorism, Iran.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3986,
+      "end_ix": 4078,
+      "text": "\n\u201cThe Saudis have been great partners in working alongside us on these issues,\u201d Pompeo said.",
+      "new_text": "\n\u201cThe Saudis have been great partners in working alongside us on these issues,\u201d Pompeo said.",
+      "prop_spans": [
+        [
+          4009,
+          4023,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4078,
+      "end_ix": 4271,
+      "text": "\n\u201cWe need to make sure we are mindful of that as we approach decisions\u201d on whether to impose sanctions or take other punitive steps against Riyadh, as many in Congress and elsewhere have urged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4271,
+      "end_ix": 4543,
+      "text": "\nCritics questioned whether the Saudi rulers, who preside over an authoritarian regime that allows little opposition, can be relied on to conduct a credible probe into Khashoggi\u2019s fate \u2014 especially without decisive pressure from their close ally, the Trump administration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4543,
+      "end_ix": 4621,
+      "text": "\nSaudi leaders for two weeks denied knowing anything about the Khashoggi case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4621,
+      "end_ix": 4852,
+      "text": "\nOn Monday, they began floating a scenario \u2014 initially adopted by Trump \u2014 that blamed the murder inside the consulate on \u201crogue killers,\u201d and then suggested the writer was accidentally killed during an interrogation that went awry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4852,
+      "end_ix": 5000,
+      "text": "\nAnalysts familiar with the desert kingdom said it was likely Saudi leaders were hoping the scandal would blow over and that they could wait it out.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5000,
+      "end_ix": 5124,
+      "text": "\n\u201cWe received commitments that they would complete this (investigation), and I am counting on them to do that,\u201d Pompeo said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5124,
+      "end_ix": 5260,
+      "text": "\n\u201cThey gave me their word.\u201d\n\u2014 Tracy Wilkinson\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      764,
+      770,
+      "Loaded_Language"
+    ],
+    [
+      1711,
+      1730,
+      "Loaded_Language"
+    ],
+    [
+      1711,
+      1730,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1818,
+      1849,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2157,
+      2344,
+      "Appeal_to_Authority"
+    ],
+    [
+      4009,
+      4023,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

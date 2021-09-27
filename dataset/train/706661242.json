@@ -1,0 +1,134 @@
+{
+  "article_id": "706661242",
+  "sentence offsets in original": [
+    0,
+    28,
+    114,
+    144,
+    421,
+    858,
+    1039,
+    1134,
+    1187,
+    1369
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nEver thought that the academic discipline of history has gone to the Diversity dogs?",
+    "\nHere\u2019s proof, from Australia.",
+    "\nThe (generally libertarian) Institute of Public Affairs (IPA) last week released a major report, The Rise of Identity Politics: An Audit of History Teaching at Australian Universities in 2017 PDF ] by Dr Bella d\u2019Abrera [ Email her ] (PhD in History, University of Cambridge,).",
+    "\nAll 746 undergraduate history courses taught at Australia\u2019s 35 universities in 2017 were analyzed and it was found that, classified by thematic keyword in course titles and content descriptions, the most common themes were \u2018Indigenous\u2019 issues (99 references, 13% of total courses), followed dutifully by \u2018Race\u2019 (80), \u2018Gender\u2019 (69), \u2018Identity\u2019 (55), \u2018Women\u2019 (46), \u2018Islam\u2019 (39), \u2018Colonization\u2019 (39), \u2018Sexuality\u2019 (34) and \u2018Ethnicity\u2019 (34).",
+    "\nLagging well in the rear were such staples, now mere historiographical curiosities, as \u2018Liberalism\u2019 (7), \u2018Capitalism\u2019 (8), \u2018Industrial\u2019 (11), \u2018Communism\u2019 (15) and \u2018Democracy\u2019 (21).",
+    "\nMore history courses study \u2018Sexuality' than either \u2018Enlightenment' (20) or \u2018Reformation' (12).",
+    "\nMore courses study \u2018Islam' than \u2018Christianity' (34).",
+    "\nThe report\u2019s visual representation of the results (right) shows how race, gender and ethnicity (or their variants) stand out as the history chart-toppers at Australian universities.",
+    "\nAnyone who still thinks that political, intellectual, demographic and material factors are what really matter to history, and to society, ought to get with the multiculturalist/Identity Politics program \u2013 enroll in a history course at an Australian university today!"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 114,
+      "text": "\n\nEver thought that the academic discipline of history has gone to the Diversity dogs?",
+      "new_text": "\n\nEver thought that the academic discipline of history has gone to the Diversity people?",
+      "prop_spans": [
+        [
+          95,
+          113,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 114,
+      "end_ix": 144,
+      "text": "\nHere\u2019s proof, from Australia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 144,
+      "end_ix": 421,
+      "text": "\nThe (generally libertarian) Institute of Public Affairs (IPA) last week released a major report, The Rise of Identity Politics: An Audit of History Teaching at Australian Universities in 2017 PDF ] by Dr Bella d\u2019Abrera [ Email her ] (PhD in History, University of Cambridge,).",
+      "new_text": "\nThe Institute of Public Affairs (IPA) last week released a major report, The Rise of Identity Politics: An Audit of History Teaching at Australian Universities in 2017 PDF ] by Dr Bella d\u2019Abrera [ Email her ] (PhD in History, University of Cambridge,).",
+      "prop_spans": [
+        [
+          150,
+          171,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 421,
+      "end_ix": 858,
+      "text": "\nAll 746 undergraduate history courses taught at Australia\u2019s 35 universities in 2017 were analyzed and it was found that, classified by thematic keyword in course titles and content descriptions, the most common themes were \u2018Indigenous\u2019 issues (99 references, 13% of total courses), followed dutifully by \u2018Race\u2019 (80), \u2018Gender\u2019 (69), \u2018Identity\u2019 (55), \u2018Women\u2019 (46), \u2018Islam\u2019 (39), \u2018Colonization\u2019 (39), \u2018Sexuality\u2019 (34) and \u2018Ethnicity\u2019 (34).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 858,
+      "end_ix": 1039,
+      "text": "\nLagging well in the rear were such staples, now mere historiographical curiosities, as \u2018Liberalism\u2019 (7), \u2018Capitalism\u2019 (8), \u2018Industrial\u2019 (11), \u2018Communism\u2019 (15) and \u2018Democracy\u2019 (21).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1039,
+      "end_ix": 1134,
+      "text": "\nMore history courses study \u2018Sexuality' than either \u2018Enlightenment' (20) or \u2018Reformation' (12).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1134,
+      "end_ix": 1187,
+      "text": "\nMore courses study \u2018Islam' than \u2018Christianity' (34).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1187,
+      "end_ix": 1369,
+      "text": "\nThe report\u2019s visual representation of the results (right) shows how race, gender and ethnicity (or their variants) stand out as the history chart-toppers at Australian universities.",
+      "new_text": "\nThe report\u2019s visual representation of the results (right) shows how race, gender and ethnicity (or their variants) stand out as the history top scorers at Australian universities.",
+      "prop_spans": [
+        [
+          1316,
+          1342,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1369,
+      "end_ix": 1636,
+      "text": "\nAnyone who still thinks that political, intellectual, demographic and material factors are what really matter to history, and to society, ought to get with the multiculturalist/Identity Politics program \u2013 enroll in a history course at an Australian university today!",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      95,
+      113,
+      "Name_Calling,Labeling"
+    ],
+    [
+      150,
+      171,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1316,
+      1342,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

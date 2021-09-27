@@ -1,0 +1,602 @@
+{
+  "article_id": "779394730",
+  "sentence offsets in original": [
+    0,
+    306,
+    609,
+    709,
+    832,
+    936,
+    1276,
+    1418,
+    1613,
+    1773,
+    1966,
+    2200,
+    2312,
+    2399,
+    2607,
+    2662,
+    2806,
+    3246,
+    3275,
+    3699,
+    3714,
+    3887,
+    3984,
+    4119,
+    4140,
+    4163,
+    4227,
+    4391
+  ],
+  "original sentences": [
+    "Hundreds of Priests Accused in Pennsylvania, Church of Accompaniment in Crisis\n\nThe Pennsylvania Supreme Court on Tuesday released a sweeping grand jury report on sex abuse in the Catholic Church, listing hundreds of accused clergy and detailing 70 years of misconduct and church response across the state.",
+    "\n\nThe release is the culmination of an 18-month probe, led by state Attorney General Josh Shapiro, on six of the state\u2019s eight dioceses \u2014 Harrisburg, Pittsburgh, Allentown, Scranton, Erie and Greensburg \u2014 and follows other state grand jury reports that revealed abuse and coverups in two other dioceses.",
+    "\n\nSome details and names that might reveal the 300 clergy listed have been redacted from the report.",
+    "\nLegal challenges by clergy delayed the report\u2019s release, after some said it is a violation of their constitutional rights.",
+    "\nPennsylvania\u2019s Supreme Court ruled last month that the report must be released but with some redaction.",
+    "\n\nThe report\u2019s release begins an information war, with prosecutors and many victims saying it\u2019s the start of holding church leaders at the top accountable for the first time, while church lawyers and other advocates for the institution say the report depicts an era of another century, unfairly smearing today\u2019s Catholicism in Pennsylvania.",
+    "\n\nThe report has helped renew a crisis many in the church thought and hoped had ended nearly 20 years ago after the scandal erupted in Boston.",
+    "\nBut recent abuse-related scandals, from Chile to Australia, have reopened wounding questions about accountability and whether church officials are still covering up crimes at the highest levels.",
+    "\n\nThe new wave of allegations has called Pope Francis\u2019s handling of abuse into question as many Catholics look to him to help the church regain its credibility.",
+    "\nThe pope\u2019s track record has been mixed, something some outsiders attribute to his learning curve or shortcomings and others chalk up to resistance from a notoriously change-averse institution.",
+    "\n\nThe Pennsylvania grand jury report follows the resignation last month of Cardinal Theodore McCarrick, a towering figure in the U.S. church and former D.C. archbishop who was accused of sexually abusing minors and adults for decades.",
+    "\nBoth have further polarized the church on homosexuality, celibacy and whether laypeople should have more power.",
+    "\nIt has also triggered debate about whether statutes of limitations should be expanded.",
+    "\n\n\u201cWe\u2019re dealing with a long-term struggle not only about the meaning of justice, but about the meaning of memory,\u201d said Jason Berry, a reporter and author who has covered the sexual abuse crisis for decades.",
+    "\n\u201cAnd how honest the church has been about this crisis.",
+    "\nMost bishops, besides apologies, have not been on the cutting edge of change.\u201d\n\nChurch officials began bracing for the aftermath of the report.",
+    "\nOn Monday, D.C.\u2019s archbishop, Cardinal Donald Wuerl, former longtime leader of the Pittsburgh diocese, warned his priests in a letter that the probe will be \u201cprofoundly disturbing.\u201d\nREMNANT COMMENT: The report also shows that \u201cmore than 90 \u2018offenders\u2019 will be listed\u201d in Donald Cardinal Wuerl\u2019s former diocese, which is ironic since Wuerl is one of Pope Francis\u2019s closest U.S. advisers and sits on the Vatican\u2019s bishop oversight committee.",
+    "\nWell played, Cardinal Wuerl!",
+    "\nSo, let me get this straight (I know, lots of luck with that one): These are the people that are going to \"accompany us\" and our children in the \"synodal Church\" with its new orientation, overseen by a \"God of Surprises\" who is uber-merciful and doesn't judge, and headed up by a pope who, according to Father Thomas Rosica, \"breaks Catholic traditions whenever he wants, because he is 'free from disordered attachments'?''",
+    "\nYou don't say!",
+    "\nAll this and rampant homosexuality in the priesthood, too... along with a \"trivialized liturgy\" (according to Pope Benedict XVI) and widespread apostasy among the faithful?",
+    "\nRemind me again: What exactly has Vatican II and the last fifty years of aggiornamento given us?",
+    "\nBecause I can't seem to think of a darn thing, apart from heretical homilies, sodomitical clergy and an increasingly lavender liturgy.",
+    "\nYou know what, guys?",
+    "\nThanks, but no thanks.",
+    "\nYou can take your 'Church of Accompaniment\" to prison with you.",
+    "\nI'd sooner let my kids be accompanied by fans of the Oakland Raiders than turn them over to you... meaning no disrespect to fans of the Oakland Raiders, of course.",
+    "\n#stopthesynod"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 306,
+      "text": "Hundreds of Priests Accused in Pennsylvania, Church of Accompaniment in Crisis\n\nThe Pennsylvania Supreme Court on Tuesday released a sweeping grand jury report on sex abuse in the Catholic Church, listing hundreds of accused clergy and detailing 70 years of misconduct and church response across the state.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 306,
+      "end_ix": 609,
+      "text": "\n\nThe release is the culmination of an 18-month probe, led by state Attorney General Josh Shapiro, on six of the state\u2019s eight dioceses \u2014 Harrisburg, Pittsburgh, Allentown, Scranton, Erie and Greensburg \u2014 and follows other state grand jury reports that revealed abuse and coverups in two other dioceses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 609,
+      "end_ix": 709,
+      "text": "\n\nSome details and names that might reveal the 300 clergy listed have been redacted from the report.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 709,
+      "end_ix": 832,
+      "text": "\nLegal challenges by clergy delayed the report\u2019s release, after some said it is a violation of their constitutional rights.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 832,
+      "end_ix": 936,
+      "text": "\nPennsylvania\u2019s Supreme Court ruled last month that the report must be released but with some redaction.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 936,
+      "end_ix": 1276,
+      "text": "\n\nThe report\u2019s release begins an information war, with prosecutors and many victims saying it\u2019s the start of holding church leaders at the top accountable for the first time, while church lawyers and other advocates for the institution say the report depicts an era of another century, unfairly smearing today\u2019s Catholicism in Pennsylvania.",
+      "new_text": "\n\nThe report\u2019s release begins an information dispute, with prosecutors and many victims saying it\u2019s the start of holding church leaders at the top accountable for the first time, while church lawyers and other advocates for the institution say the report depicts an era of another century, smearing today\u2019s Catholicism in Pennsylvania.",
+      "prop_spans": [
+        [
+          966,
+          984,
+          "Loaded_Language"
+        ],
+        [
+          1222,
+          1240,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1276,
+      "end_ix": 1418,
+      "text": "\n\nThe report has helped renew a crisis many in the church thought and hoped had ended nearly 20 years ago after the scandal erupted in Boston.",
+      "new_text": "\n\nThe report has helped renew a crisis many in the church thought and hoped had ended nearly 20 years ago after it began in Boston.",
+      "prop_spans": [
+        [
+          1382,
+          1408,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1418,
+      "end_ix": 1613,
+      "text": "\nBut recent abuse-related scandals, from Chile to Australia, have reopened wounding questions about accountability and whether church officials are still covering up crimes at the highest levels.",
+      "new_text": "\nBut recent scandals, from Chile to Australia, have reopened questions about accountability and whether church officials are still covering up crimes at the highest levels.",
+      "prop_spans": [
+        [
+          1419,
+          1612,
+          "Doubt"
+        ],
+        [
+          1479,
+          1512,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1613,
+      "end_ix": 1773,
+      "text": "\n\nThe new wave of allegations has called Pope Francis\u2019s handling of abuse into question as many Catholics look to him to help the church regain its credibility.",
+      "new_text": "\n\nThe new wave of allegations has called Pope Francis\u2019s handling of abuse into question as many Catholics look to him to help the church regain its credibility.",
+      "prop_spans": [
+        [
+          1615,
+          1772,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1773,
+      "end_ix": 1966,
+      "text": "\nThe pope\u2019s track record has been mixed, something some outsiders attribute to his learning curve or shortcomings and others chalk up to resistance from a notoriously change-averse institution.",
+      "new_text": "\nThe pope\u2019s track record has been mixed, something outsiders attribute to his learning curve and others chalk up to resistance from a change-averse institution.",
+      "prop_spans": [
+        [
+          1774,
+          1887,
+          "Doubt"
+        ],
+        [
+          1926,
+          1965,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1966,
+      "end_ix": 2200,
+      "text": "\n\nThe Pennsylvania grand jury report follows the resignation last month of Cardinal Theodore McCarrick, a towering figure in the U.S. church and former D.C. archbishop who was accused of sexually abusing minors and adults for decades.",
+      "new_text": "\n\nThe Pennsylvania grand jury report follows the resignation last month of Cardinal Theodore McCarrick, a former D.C. archbishop who was accused of sexually abusing minors and adults for decades.",
+      "prop_spans": [
+        [
+          2070,
+          2107,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2070,
+          2107,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2200,
+      "end_ix": 2312,
+      "text": "\nBoth have further polarized the church on homosexuality, celibacy and whether laypeople should have more power.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2312,
+      "end_ix": 2399,
+      "text": "\nIt has also triggered debate about whether statutes of limitations should be expanded.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2399,
+      "end_ix": 2607,
+      "text": "\n\n\u201cWe\u2019re dealing with a long-term struggle not only about the meaning of justice, but about the meaning of memory,\u201d said Jason Berry, a reporter and author who has covered the sexual abuse crisis for decades.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2607,
+      "end_ix": 2662,
+      "text": "\n\u201cAnd how honest the church has been about this crisis.",
+      "new_text": "\n\u201cAnd how honest the church has been about this crisis.",
+      "prop_spans": [
+        [
+          2609,
+          2662,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2662,
+      "end_ix": 2806,
+      "text": "\nMost bishops, besides apologies, have not been on the cutting edge of change.\u201d\n\nChurch officials began bracing for the aftermath of the report.",
+      "new_text": "\nMost bishops, besides apologies, have not been on the cutting edge of change.\u201d\n\nChurch officials began bracing for the aftermath of the report.",
+      "prop_spans": [
+        [
+          2662,
+          2739,
+          "Doubt"
+        ],
+        [
+          2710,
+          2739,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2806,
+      "end_ix": 3246,
+      "text": "\nOn Monday, D.C.\u2019s archbishop, Cardinal Donald Wuerl, former longtime leader of the Pittsburgh diocese, warned his priests in a letter that the probe will be \u201cprofoundly disturbing.\u201d\nREMNANT COMMENT: The report also shows that \u201cmore than 90 \u2018offenders\u2019 will be listed\u201d in Donald Cardinal Wuerl\u2019s former diocese, which is ironic since Wuerl is one of Pope Francis\u2019s closest U.S. advisers and sits on the Vatican\u2019s bishop oversight committee.",
+      "new_text": "\nOn Monday, D.C.\u2019s archbishop, Cardinal Donald Wuerl, former longtime leader of the Pittsburgh diocese, warned his priests in a letter that the probe will be \u201cprofoundly disturbing.\u201d\nREMNANT COMMENT: The report also shows that \u201cmore than 90 \u2018offenders\u2019 will be listed\u201d in Donald Cardinal Wuerl\u2019s former diocese, which is ironic since Wuerl is one of Pope Francis\u2019s closest U.S. advisers and sits on the Vatican\u2019s bishop oversight committee.",
+      "prop_spans": [
+        [
+          2965,
+          2986,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3246,
+      "end_ix": 3275,
+      "text": "\nWell played, Cardinal Wuerl!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3247,
+          3274,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3275,
+      "end_ix": 3699,
+      "text": "\nSo, let me get this straight (I know, lots of luck with that one): These are the people that are going to \"accompany us\" and our children in the \"synodal Church\" with its new orientation, overseen by a \"God of Surprises\" who is uber-merciful and doesn't judge, and headed up by a pope who, according to Father Thomas Rosica, \"breaks Catholic traditions whenever he wants, because he is 'free from disordered attachments'?''",
+      "new_text": "\nSo, let me get this straight: These are the people that are going to \"accompany us\" and our children in the \"synodal Church\" with its new orientation, overseen by a God who is merciful and doesn't judge, and headed up by a pope who, according to Father Thomas Rosica, \"breaks Catholic traditions whenever he wants, because he is 'free from disordered attachments'?''",
+      "prop_spans": [
+        [
+          3306,
+          3340,
+          "Loaded_Language"
+        ],
+        [
+          3343,
+          3462,
+          "Doubt"
+        ],
+        [
+          3476,
+          3535,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3554,
+          3695,
+          "Appeal_to_Authority"
+        ],
+        [
+          3554,
+          3695,
+          "Doubt"
+        ],
+        [
+          3554,
+          3695,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3699,
+      "end_ix": 3714,
+      "text": "\nYou don't say!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3700,
+          3713,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3714,
+      "end_ix": 3887,
+      "text": "\nAll this and rampant homosexuality in the priesthood, too... along with a \"trivialized liturgy\" (according to Pope Benedict XVI) and widespread apostasy among the faithful?",
+      "new_text": "\nAll this and homosexuality in the priesthood, too... along with a \"trivialized liturgy\" (according to Pope Benedict XVI) and apostasy among the faithful?",
+      "prop_spans": [
+        [
+          3715,
+          3887,
+          "Doubt"
+        ],
+        [
+          3728,
+          3750,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3887,
+      "end_ix": 3984,
+      "text": "\nRemind me again: What exactly has Vatican II and the last fifty years of aggiornamento given us?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3887,
+          3984,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3984,
+      "end_ix": 4119,
+      "text": "\nBecause I can't seem to think of a darn thing, apart from heretical homilies, sodomitical clergy and an increasingly lavender liturgy.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3984,
+          4118,
+          "Doubt"
+        ],
+        [
+          4015,
+          4030,
+          "Loaded_Language"
+        ],
+        [
+          4043,
+          4118,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4119,
+      "end_ix": 4140,
+      "text": "\nYou know what, guys?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          4120,
+          4140,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4140,
+      "end_ix": 4163,
+      "text": "\nThanks, but no thanks.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          4140,
+          4163,
+          "Doubt"
+        ],
+        [
+          4141,
+          4162,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4163,
+      "end_ix": 4227,
+      "text": "\nYou can take your 'Church of Accompaniment\" to prison with you.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          4163,
+          4227,
+          "Doubt"
+        ],
+        [
+          4172,
+          4226,
+          "Loaded_Language"
+        ],
+        [
+          4183,
+          4206,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4227,
+      "end_ix": 4391,
+      "text": "\nI'd sooner let my kids be accompanied by fans of the Oakland Raiders than turn them over to you... meaning no disrespect to fans of the Oakland Raiders, of course.",
+      "new_text": "\nI'd sooner let my kids be accompanied by fans of the Oakland Raiders than turn them over to you... meaning no disrespect to fans of the Oakland Raiders, of course.",
+      "prop_spans": [
+        [
+          4227,
+          4323,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4391,
+      "end_ix": 4405,
+      "text": "\n#stopthesynod",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      966,
+      984,
+      "Loaded_Language"
+    ],
+    [
+      1222,
+      1240,
+      "Loaded_Language"
+    ],
+    [
+      1382,
+      1408,
+      "Loaded_Language"
+    ],
+    [
+      1419,
+      1612,
+      "Doubt"
+    ],
+    [
+      1479,
+      1512,
+      "Loaded_Language"
+    ],
+    [
+      1615,
+      1772,
+      "Doubt"
+    ],
+    [
+      1774,
+      1887,
+      "Doubt"
+    ],
+    [
+      1926,
+      1965,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2070,
+      2107,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2070,
+      2107,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2609,
+      2739,
+      "Doubt"
+    ],
+    [
+      2710,
+      2739,
+      "Loaded_Language"
+    ],
+    [
+      2965,
+      2986,
+      "Loaded_Language"
+    ],
+    [
+      3247,
+      3274,
+      "Loaded_Language"
+    ],
+    [
+      3306,
+      3340,
+      "Loaded_Language"
+    ],
+    [
+      3343,
+      3462,
+      "Doubt"
+    ],
+    [
+      3476,
+      3535,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3554,
+      3695,
+      "Appeal_to_Authority"
+    ],
+    [
+      3554,
+      3695,
+      "Doubt"
+    ],
+    [
+      3554,
+      3695,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3700,
+      3713,
+      "Loaded_Language"
+    ],
+    [
+      3715,
+      4118,
+      "Doubt"
+    ],
+    [
+      3728,
+      3750,
+      "Loaded_Language"
+    ],
+    [
+      4015,
+      4030,
+      "Loaded_Language"
+    ],
+    [
+      4043,
+      4118,
+      "Loaded_Language"
+    ],
+    [
+      4120,
+      4323,
+      "Doubt"
+    ],
+    [
+      4141,
+      4162,
+      "Loaded_Language"
+    ],
+    [
+      4172,
+      4226,
+      "Loaded_Language"
+    ],
+    [
+      4183,
+      4206,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

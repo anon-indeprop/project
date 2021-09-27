@@ -1,0 +1,543 @@
+{
+  "article_id": "999000184",
+  "sentence offsets in original": [
+    0,
+    163,
+    316,
+    353,
+    526,
+    685,
+    891,
+    928,
+    1110,
+    1253,
+    1379,
+    1403,
+    1437,
+    1537,
+    1615,
+    1697,
+    1844,
+    2044,
+    2264,
+    2309,
+    2404,
+    2562,
+    2786,
+    2914,
+    3070,
+    3252,
+    3295,
+    3344,
+    3500,
+    3642,
+    3764,
+    3989,
+    4099
+  ],
+  "original sentences": [
+    "Our New Muslim Representatives\n\nAs expected, two Muslim women, Rashida Tlaib in Michigan and Ilhan Omar in Minnesota, have been overwhelmingly elected to Congress.",
+    "\nThe establishment media will celebrate these victories as triumphs of America\u2019s \u201cdiversity\u201d; unfortunately, in reality neither one is worth celebrating.",
+    "\nTlaib is a vociferous foe of Israel.",
+    "\nWith the Democrats now regaining control of the House, Tlaib is likely to be an energetic proponent of the new majority\u2019s vendetta against the Middle East\u2019s only democracy.",
+    "\nThe House is likely to do all it can to roll back President Trump\u2019s pro-Israel polices, with Tlaib as well as Omar as becoming the public faces of the effort.",
+    "\nAccording to the JTA, when Tlaib was asked if she would vote against military aid to Israel, Tlaib responded: \u201cAbsolutely, if it has something to do with inequality and not access to people having justice.",
+    "\nFor me, U.S. aid should be leverage.",
+    "\nI will be using my position in Congress so that no country, not one, should be able to get aid from the U.S. when they still promote that kind of injustice.\u201d\nWhat kind of injustice?",
+    "\nTlaib, of course, had nothing to say about the genocidal incitement against Jews and Israel that regularly features on Palestinian television.",
+    "\nShe did say, however, that she favors a one-state, not two-state, \u201csolution\u201d to the Israeli-Palestinian conflict: \u201cOne state.",
+    "\nIt has to be one state.",
+    "\nSeparate but equal does not work.",
+    "\nI\u2019m only 42 years old but my teachers were of that generation that marched with Martin Luther King.",
+    "\nThis whole idea of a two-state solution, it doesn\u2019t work.\u201d\nIndeed it doesn\u2019t.",
+    "\nA Palestinian state would be a new base for renewed jihad attacks against Israel.",
+    "\nBut a \u201cone-state solution\u201d would be even worse, unless that state is the current State of Israel, but that is not the one state Tlaib has in mind.",
+    "\nShe is calling for an Israeli/Palestinian state that would not be a Jewish State or a homeland for the Jewish people, but a federation in which Palestinians would soon overwhelm Jews demographically.",
+    "\nProgressive denial of their rights would soon follow: as I show in my book The History of Jihad From Muhammad to ISIS, there has never been a majority Muslim nation in which Jews enjoyed equality of rights with Muslims.",
+    "\nTlaib\u2019s unitary state would be no different.",
+    "\nThe hijabed (and therefore pro-Sharia) Ilhan Omar, meanwhile, is even more hateful than Tlaib.",
+    "\nAccording to the Daily Wire, in 2012 Omar tweeted: \u201cIsrael has hypnotized the world, may Allah awaken the people and help them see the evil doings of Israel.",
+    "\n#Gaza #Palestine #Israel.\u201d Challenged about this tweet much more recently, she doubled down and attacked the man who called attention to the tweet: \u201cDrawing attention to the apartheid Israeli regime is far from hating Jews.",
+    "\nYou are a hateful sad man, I pray to Allah you get the help you need and find happiness.\u201d\nThere is much, much worse about Omar.",
+    "\nDavid Steinberg of PJ Media has done extraordinary work in shedding light on aspects of Omar\u2019s record that the establishment media has steadfastly ignored.",
+    "\nSteinberg reports that Omar has \u201cfaced allegations -- soon backed by a remarkable amount of evidence -- that she had married her own brother in 2009, and was still legally his wife.",
+    "\nThey officially divorced in December 2017.",
+    "\nThe motivation for the marriage remains unclear.",
+    "\nHowever, the totality of the evidence points to possible immigration fraud and student loan fraud.\u201d What\u2019s more, she swore to apparent falsehoods in court.",
+    "\nBut Leftists rarely have to answer for their corruption, and in a Democrat House, Omar will much more likely be celebrated than investigated.",
+    "\nShe and Tlaib will enjoy establishment media accolades as they pursue their hard-Left, anti-American, anti-Israel agenda.",
+    "\nTheir presence in the House of Representatives may be evidence of \u201cdiversity,\u201d but it is also a disquieting sign of the continued dominance of identity politics, and the increasing balkanization of the American body politic.",
+    "\nForthrightly pro-America, pro-Israel candidates would stand little to no chance in either of their districts.",
+    "\nAnd that is indicative of a much larger problem."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 163,
+      "text": "Our New Muslim Representatives\n\nAs expected, two Muslim women, Rashida Tlaib in Michigan and Ilhan Omar in Minnesota, have been overwhelmingly elected to Congress.",
+      "new_text": "Our New Muslim Representatives\n\nTwo Muslim women, Rashida Tlaib in Michigan and Ilhan Omar in Minnesota, have been elected to Congress.",
+      "prop_spans": [
+        [
+          118,
+          151,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          128,
+          143,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 163,
+      "end_ix": 316,
+      "text": "\nThe establishment media will celebrate these victories as triumphs of America\u2019s \u201cdiversity\u201d; unfortunately, in reality neither one is worth celebrating.",
+      "new_text": "\nThe establishment media will celebrate these victories as triumphs of our \u201cdiversity\u201d.",
+      "prop_spans": [
+        [
+          222,
+          254,
+          "Flag-Waving"
+        ],
+        [
+          257,
+          315,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 316,
+      "end_ix": 353,
+      "text": "\nTlaib is a vociferous foe of Israel.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 353,
+      "end_ix": 526,
+      "text": "\nWith the Democrats now regaining control of the House, Tlaib is likely to be an energetic proponent of the new majority\u2019s vendetta against the Middle East\u2019s only democracy.",
+      "new_text": "\nWith the Democrats now regaining control of the House, Tlaib is likely to be an energetic proponent of the new majority\u2019s stance against the Middle East\u2019s only democracy.",
+      "prop_spans": [
+        [
+          476,
+          493,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 526,
+      "end_ix": 685,
+      "text": "\nThe House is likely to do all it can to roll back President Trump\u2019s pro-Israel polices, with Tlaib as well as Omar as becoming the public faces of the effort.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 685,
+      "end_ix": 891,
+      "text": "\nAccording to the JTA, when Tlaib was asked if she would vote against military aid to Israel, Tlaib responded: \u201cAbsolutely, if it has something to do with inequality and not access to people having justice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 891,
+      "end_ix": 928,
+      "text": "\nFor me, U.S. aid should be leverage.",
+      "new_text": "\nFor me, U.S. aid should be leverage.",
+      "prop_spans": [
+        [
+          892,
+          928,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 928,
+      "end_ix": 1110,
+      "text": "\nI will be using my position in Congress so that no country, not one, should be able to get aid from the U.S. when they still promote that kind of injustice.\u201d\nWhat kind of injustice?",
+      "new_text": "\nI will be using my position in Congress so that no country, not one, should be able to get aid from the U.S. when they still promote that kind of injustice.\u201d\nWhat kind of injustice?",
+      "prop_spans": [
+        [
+          928,
+          1084,
+          "Flag-Waving"
+        ],
+        [
+          977,
+          996,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1110,
+      "end_ix": 1253,
+      "text": "\nTlaib, of course, had nothing to say about the genocidal incitement against Jews and Israel that regularly features on Palestinian television.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1111,
+          1252,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1253,
+      "end_ix": 1379,
+      "text": "\nShe did say, however, that she favors a one-state, not two-state, \u201csolution\u201d to the Israeli-Palestinian conflict: \u201cOne state.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1379,
+      "end_ix": 1403,
+      "text": "\nIt has to be one state.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1403,
+      "end_ix": 1437,
+      "text": "\nSeparate but equal does not work.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1437,
+      "end_ix": 1537,
+      "text": "\nI\u2019m only 42 years old but my teachers were of that generation that marched with Martin Luther King.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1537,
+      "end_ix": 1615,
+      "text": "\nThis whole idea of a two-state solution, it doesn\u2019t work.\u201d\nIndeed it doesn\u2019t.",
+      "new_text": "\nThis whole idea of a two-state solution, it doesn\u2019t work.\u201d",
+      "prop_spans": [
+        [
+          1579,
+          1594,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          1579,
+          1594,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1615,
+      "end_ix": 1697,
+      "text": "\nA Palestinian state would be a new base for renewed jihad attacks against Israel.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1697,
+      "end_ix": 1844,
+      "text": "\nBut a \u201cone-state solution\u201d would be even worse, unless that state is the current State of Israel, but that is not the one state Tlaib has in mind.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1844,
+      "end_ix": 2044,
+      "text": "\nShe is calling for an Israeli/Palestinian state that would not be a Jewish State or a homeland for the Jewish people, but a federation in which Palestinians would soon overwhelm Jews demographically.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2044,
+      "end_ix": 2264,
+      "text": "\nProgressive denial of their rights would soon follow: as I show in my book The History of Jihad From Muhammad to ISIS, there has never been a majority Muslim nation in which Jews enjoyed equality of rights with Muslims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2264,
+      "end_ix": 2309,
+      "text": "\nTlaib\u2019s unitary state would be no different.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2309,
+      "end_ix": 2404,
+      "text": "\nThe hijabed (and therefore pro-Sharia) Ilhan Omar, meanwhile, is even more hateful than Tlaib.",
+      "new_text": "\nIlhan Omar, meanwhile, is more hateful than Tlaib.",
+      "prop_spans": [
+        [
+          2372,
+          2403,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2404,
+      "end_ix": 2562,
+      "text": "\nAccording to the Daily Wire, in 2012 Omar tweeted: \u201cIsrael has hypnotized the world, may Allah awaken the people and help them see the evil doings of Israel.",
+      "new_text": "\nAccording to the Daily Wire, in 2012 Omar tweeted: \u201cIsrael has hypnotized the world, may Allah awaken the people and help them see the evil doings of Israel.",
+      "prop_spans": [
+        [
+          2468,
+          2479,
+          "Loaded_Language"
+        ],
+        [
+          2536,
+          2561,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2562,
+      "end_ix": 2786,
+      "text": "\n#Gaza #Palestine #Israel.\u201d Challenged about this tweet much more recently, she doubled down and attacked the man who called attention to the tweet: \u201cDrawing attention to the apartheid Israeli regime is far from hating Jews.",
+      "new_text": "\n#Gaza #Palestine #Israel.\u201d Challenged about this tweet much more recently, she replied to the man who called attention to the tweet: \u201cDrawing attention to the apartheid Israeli regime is far from hating Jews.",
+      "prop_spans": [
+        [
+          2638,
+          2668,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2786,
+      "end_ix": 2914,
+      "text": "\nYou are a hateful sad man, I pray to Allah you get the help you need and find happiness.\u201d\nThere is much, much worse about Omar.",
+      "new_text": "\nYou are a hateful sad man, I pray to Allah you get the help you need and find happiness.\u201d\nThere are worse things about Omar.",
+      "prop_spans": [
+        [
+          2787,
+          2874,
+          "Doubt"
+        ],
+        [
+          2795,
+          2812,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2877,
+          2913,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2914,
+      "end_ix": 3070,
+      "text": "\nDavid Steinberg of PJ Media has done extraordinary work in shedding light on aspects of Omar\u2019s record that the establishment media has steadfastly ignored.",
+      "new_text": "\nDavid Steinberg of PJ Media has done good work in shedding light on aspects of Omar\u2019s record that the establishment media has ignored.",
+      "prop_spans": [
+        [
+          2952,
+          2971,
+          "Loaded_Language"
+        ],
+        [
+          3050,
+          3069,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3070,
+      "end_ix": 3252,
+      "text": "\nSteinberg reports that Omar has \u201cfaced allegations -- soon backed by a remarkable amount of evidence -- that she had married her own brother in 2009, and was still legally his wife.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3252,
+      "end_ix": 3295,
+      "text": "\nThey officially divorced in December 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3295,
+      "end_ix": 3344,
+      "text": "\nThe motivation for the marriage remains unclear.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3344,
+      "end_ix": 3500,
+      "text": "\nHowever, the totality of the evidence points to possible immigration fraud and student loan fraud.\u201d What\u2019s more, she swore to apparent falsehoods in court.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3500,
+      "end_ix": 3642,
+      "text": "\nBut Leftists rarely have to answer for their corruption, and in a Democrat House, Omar will much more likely be celebrated than investigated.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3642,
+      "end_ix": 3764,
+      "text": "\nShe and Tlaib will enjoy establishment media accolades as they pursue their hard-Left, anti-American, anti-Israel agenda.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3764,
+      "end_ix": 3989,
+      "text": "\nTheir presence in the House of Representatives may be evidence of \u201cdiversity,\u201d but it is also a disquieting sign of the continued dominance of identity politics, and the increasing balkanization of the American body politic.",
+      "new_text": "\nTheir presence in the House of Representatives may be evidence of \u201cdiversity,\u201d but it is also a disquieting sign of the continued dominance of identity politics, and the fragmentation of the American body politic.",
+      "prop_spans": [
+        [
+          3931,
+          3960,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3989,
+      "end_ix": 4099,
+      "text": "\nForthrightly pro-America, pro-Israel candidates would stand little to no chance in either of their districts.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3990,
+          4099,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4099,
+      "end_ix": 4148,
+      "text": "\nAnd that is indicative of a much larger problem.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          4099,
+          4147,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      118,
+      151,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      128,
+      143,
+      "Loaded_Language"
+    ],
+    [
+      222,
+      254,
+      "Flag-Waving"
+    ],
+    [
+      257,
+      315,
+      "Doubt"
+    ],
+    [
+      476,
+      493,
+      "Loaded_Language"
+    ],
+    [
+      892,
+      1084,
+      "Flag-Waving"
+    ],
+    [
+      977,
+      996,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1111,
+      1252,
+      "Whataboutism"
+    ],
+    [
+      1579,
+      1594,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1579,
+      1594,
+      "Repetition"
+    ],
+    [
+      2372,
+      2403,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2468,
+      2479,
+      "Loaded_Language"
+    ],
+    [
+      2536,
+      2561,
+      "Loaded_Language"
+    ],
+    [
+      2638,
+      2668,
+      "Loaded_Language"
+    ],
+    [
+      2787,
+      2874,
+      "Doubt"
+    ],
+    [
+      2795,
+      2812,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2877,
+      2913,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2952,
+      2971,
+      "Loaded_Language"
+    ],
+    [
+      3050,
+      3069,
+      "Loaded_Language"
+    ],
+    [
+      3931,
+      3960,
+      "Loaded_Language"
+    ],
+    [
+      3990,
+      4147,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

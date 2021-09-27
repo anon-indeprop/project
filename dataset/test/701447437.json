@@ -1,0 +1,273 @@
+{
+  "article_id": "701447437",
+  "sentence offsets in original": [
+    0,
+    342,
+    431,
+    569,
+    823,
+    1091,
+    1334,
+    1422,
+    1488,
+    1644,
+    1841,
+    1911
+  ],
+  "original sentences": [
+    "The Plague Is AIRBORNE And It\u2019s Spreading Because People Are Literally \u2018Dancing With Corpses\u2019\n\nThe plague that\u2019s airborne and has killed at least 124 people in Madagascar is now blamed on \u201cdancing with corpses.\u201d This is the time of year when the dead are wrapped in sheets and paraded through the streets while others dance around the bodies.",
+    "\nThe local tradition is said to be one of the major causes of the spread of this disease.",
+    "\nSince it\u2019s airborne, anyone coming close to the corpse of a person who has died of the black death could themselves, catch the infection.",
+    "\nHealth officials suspect it\u2019s no coincidence that the outbreak coincides with the time of year when families customarily exhume the remains of dead relatives, wrap them in a sheet, and dance with them through the streets in a sacred ritual, AFP reports.",
+    "\n\u201cIf a person dies of pneumonic plague and is then interred in a tomb that is subsequently opened for [the ritual], the bacteria can still be transmitted and contaminate whoever handles the body,\u201d said Willy Randriamarotia, Madagascar\u2019s health ministry chief of staff.",
+    "\nSome locals believe the whole plague is some kind of a government conspiracy, and say they have no intention of forgoing the ritual known as \u201cfamadihana.\u201d They say they will continue to dance with the dead and intend to honor their ancestors.",
+    "\n\u201cI will always practice the turning of the bones of my ancestors \u2014 plague or no plague.",
+    "\nThe plague is a lie,\u201d Helene Raveloharisoa told the wire service.",
+    "\nJosephine Ralisiarisoa firmly believes the country\u2019s cash-strapped government is just exaggerating the problem to get money ahead of an election next year.",
+    "\nAnd it isn\u2019t that anyone is putting this past a government to lie for profits, but health officials have even warned tourists, a source of money, to stay away from Madagascar for their own health.",
+    "\n\u201cI have participated in at least 15 famadihana ceremonies in my life.",
+    "\nAnd I\u2019ve never caught the plague,\u201d she told the AFP."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 342,
+      "text": "The Plague Is AIRBORNE And It\u2019s Spreading Because People Are Literally \u2018Dancing With Corpses\u2019\n\nThe plague that\u2019s airborne and has killed at least 124 people in Madagascar is now blamed on \u201cdancing with corpses.\u201d This is the time of year when the dead are wrapped in sheets and paraded through the streets while others dance around the bodies.",
+      "new_text": "The Plague Is AIRBORNE And It\u2019s Spreading Because People Are Literally \u2018Dancing With Corpses\u2019\n\nThe plague that\u2019s airborne and has killed at least 124 people in Madagascar is now blamed on \u201cdancing with corpses.\u201d This is the time of year when the dead are wrapped in sheets and paraded through the streets while others dance around the bodies.",
+      "prop_spans": [
+        [
+          50,
+          93,
+          "Loaded_Language"
+        ],
+        [
+          189,
+          211,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 342,
+      "end_ix": 431,
+      "text": "\nThe local tradition is said to be one of the major causes of the spread of this disease.",
+      "new_text": "\nThe local tradition is said to be one of the causes of the spread of this disease.",
+      "prop_spans": [
+        [
+          343,
+          431,
+          "Causal_Oversimplification"
+        ],
+        [
+          363,
+          376,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 431,
+      "end_ix": 569,
+      "text": "\nSince it\u2019s airborne, anyone coming close to the corpse of a person who has died of the black death could themselves, catch the infection.",
+      "new_text": "\nSince it\u2019s airborne, anyone coming close to the corpse of a person who has died of the black death could themselves, catch the infection.",
+      "prop_spans": [
+        [
+          431,
+          431,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 569,
+      "end_ix": 823,
+      "text": "\nHealth officials suspect it\u2019s no coincidence that the outbreak coincides with the time of year when families customarily exhume the remains of dead relatives, wrap them in a sheet, and dance with them through the streets in a sacred ritual, AFP reports.",
+      "new_text": "\nHealth officials suspect it might be no coincidence that the outbreak coincides with the time of year when families customarily exhume the remains of dead relatives, wrap them in a sheet, and dance with them through the streets in a sacred ritual, AFP reports.",
+      "prop_spans": [
+        [
+          570,
+          727,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 823,
+      "end_ix": 1091,
+      "text": "\n\u201cIf a person dies of pneumonic plague and is then interred in a tomb that is subsequently opened for [the ritual], the bacteria can still be transmitted and contaminate whoever handles the body,\u201d said Willy Randriamarotia, Madagascar\u2019s health ministry chief of staff.",
+      "new_text": "\n\u201cIf a person dies of pneumonic plague and is then interred in a tomb that is subsequently opened for [the ritual], the bacteria can still be transmitted and contaminate whoever handles the body,\u201d said Willy Randriamarotia, Madagascar\u2019s health ministry chief of staff.",
+      "prop_spans": [
+        [
+          939,
+          1017,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1091,
+      "end_ix": 1334,
+      "text": "\nSome locals believe the whole plague is some kind of a government conspiracy, and say they have no intention of forgoing the ritual known as \u201cfamadihana.\u201d They say they will continue to dance with the dead and intend to honor their ancestors.",
+      "new_text": "\nSome locals believe the whole plague is some kind of a conspiracy, and say they have no intention of forgoing the ritual known as \u201cfamadihana.\u201d They say they will continue to dance with the dead and intend to honor their ancestors.",
+      "prop_spans": [
+        [
+          1092,
+          1168,
+          "Appeal_to_Authority"
+        ],
+        [
+          1092,
+          1168,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1112,
+          1169,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1334,
+      "end_ix": 1422,
+      "text": "\n\u201cI will always practice the turning of the bones of my ancestors \u2014 plague or no plague.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1422,
+      "end_ix": 1488,
+      "text": "\nThe plague is a lie,\u201d Helene Raveloharisoa told the wire service.",
+      "new_text": "\nThe plague is a lie,\u201d Helene Raveloharisoa told the wire service.",
+      "prop_spans": [
+        [
+          1423,
+          1442,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1488,
+      "end_ix": 1644,
+      "text": "\nJosephine Ralisiarisoa firmly believes the country\u2019s cash-strapped government is just exaggerating the problem to get money ahead of an election next year.",
+      "new_text": "\nJosephine Ralisiarisoa firmly believes the country\u2019s government is exaggerating the problem to get money ahead of an election next year.",
+      "prop_spans": [
+        [
+          1542,
+          1555,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1556,
+          1599,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1556,
+          1643,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1644,
+      "end_ix": 1841,
+      "text": "\nAnd it isn\u2019t that anyone is putting this past a government to lie for profits, but health officials have even warned tourists, a source of money, to stay away from Madagascar for their own health.",
+      "new_text": "\nAnd it isn\u2019t that anyone is putting this past a government to lie for profits, but health officials have even warned tourists, a source of money, to stay away from Madagascar for their own health.",
+      "prop_spans": [
+        [
+          1649,
+          1722,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1841,
+      "end_ix": 1911,
+      "text": "\n\u201cI have participated in at least 15 famadihana ceremonies in my life.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1911,
+      "end_ix": 1964,
+      "text": "\nAnd I\u2019ve never caught the plague,\u201d she told the AFP.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      50,
+      93,
+      "Loaded_Language"
+    ],
+    [
+      189,
+      211,
+      "Loaded_Language"
+    ],
+    [
+      343,
+      431,
+      "Causal_Oversimplification"
+    ],
+    [
+      363,
+      376,
+      "Appeal_to_Authority"
+    ],
+    [
+      570,
+      727,
+      "Causal_Oversimplification"
+    ],
+    [
+      939,
+      1017,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1092,
+      1168,
+      "Appeal_to_Authority"
+    ],
+    [
+      1092,
+      1168,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1112,
+      1169,
+      "Doubt"
+    ],
+    [
+      1423,
+      1442,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1542,
+      1555,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1556,
+      1599,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1556,
+      1643,
+      "Doubt"
+    ],
+    [
+      1649,
+      1722,
+      "Doubt"
+    ]
+  ]
+}

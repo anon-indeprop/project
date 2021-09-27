@@ -1,0 +1,77 @@
+{
+  "article_id": "761780613",
+  "sentence offsets in original": [
+    0,
+    277,
+    602,
+    739,
+    782
+  ],
+  "original sentences": [
+    "Trump suggests he would have picked another AG who could have blocked Russia probe\n\nWashington (CNN) President Donald Trump suggested Tuesday that he would have picked another attorney general if it would have stopped an investigation into Russia meddling in the 2016 election.",
+    "\nIn his latest public slam at Attorney General Jeff Sessions -- who, citing his involvement with the Trump campaign, recused himself from the investigation last year, paving the way for the appointment of special counsel Robert Mueller -- Trump said he would have \"quickly picked someone else\" had he known about the recusal.",
+    "\n\"The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn't tell me he was going to recuse himself,\" Trump tweeted Tuesday.",
+    "\n\"I would have quickly picked someone else.",
+    "\nSo much time and money wasted, so many lives ruined...and Sessions knew better than most that there was No Collusion!\""
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 277,
+      "text": "Trump suggests he would have picked another AG who could have blocked Russia probe\n\nWashington (CNN) President Donald Trump suggested Tuesday that he would have picked another attorney general if it would have stopped an investigation into Russia meddling in the 2016 election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 277,
+      "end_ix": 602,
+      "text": "\nIn his latest public slam at Attorney General Jeff Sessions -- who, citing his involvement with the Trump campaign, recused himself from the investigation last year, paving the way for the appointment of special counsel Robert Mueller -- Trump said he would have \"quickly picked someone else\" had he known about the recusal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 602,
+      "end_ix": 739,
+      "text": "\n\"The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn't tell me he was going to recuse himself,\" Trump tweeted Tuesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 739,
+      "end_ix": 782,
+      "text": "\n\"I would have quickly picked someone else.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 782,
+      "end_ix": 901,
+      "text": "\nSo much time and money wasted, so many lives ruined...and Sessions knew better than most that there was No Collusion!\"",
+      "new_text": "\nSo much time and money wasted, so many lives ruined...and Sessions knew better than most that there was No Collusion!\"",
+      "prop_spans": [
+        [
+          783,
+          834,
+          "Loaded_Language"
+        ],
+        [
+          887,
+          899,
+          "Slogans"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      783,
+      834,
+      "Loaded_Language"
+    ],
+    [
+      887,
+      899,
+      "Slogans"
+    ]
+  ]
+}

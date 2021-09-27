@@ -1,0 +1,289 @@
+{
+  "article_id": "696246189",
+  "sentence offsets in original": [
+    0,
+    208,
+    311,
+    442,
+    536,
+    711,
+    883,
+    997,
+    1030,
+    1162,
+    1181,
+    1301,
+    1546,
+    1770,
+    1989,
+    2147,
+    2301,
+    2444,
+    2551,
+    2646,
+    2713,
+    2899,
+    3016,
+    3126
+  ],
+  "original sentences": [
+    "\u2018Suicide Note\u2019 Seen in Vegas Shooter\u2019s Hotel Room\n\nA mysterious piece of paper discovered last week, when photos from the Las Vegas gunman\u2019s hotel room were leaked to the media, is now back in the news cycle.",
+    "\nThe pictures were published by numerous news outlets and shared by millions of people on social media.",
+    "\nAt the time the photos were published by the Daily Mail, police had not mentioned if Paddock left behind a note in his hotel room.",
+    "\nNevada Sheriff Joe Lombardo said police were investigating who leaked the crime scene photos.",
+    "\nIn one photo in particular, a white piece of paper or notepad on a side table next to a chair is visible, which caused some to speculate that it may have been a suicide note.",
+    "\nSoon after the photos were leaked, Twitter was abuzz with chatter referencing the paper, with people spreading cover-up conspiracies and rumors that it was a suicide note.",
+    "\nBuy Silver at Discounted Prices\nScumbag shooter Stephen Paddock LEFT A NOTE, see new pics from inside hotel room!",
+    "\nWHY IS MEDIA NOT REPORTING THIS?",
+    "\n#LasVagasShooting pic.twitter.com/U9tULYsk2R \u2014 Michael \ud83c\uddfa\ud83c\uddf8 (@trendy) October 3, 2017\nThe #StephenPaddock suicide note that the govt.",
+    "\nis hiding from us.",
+    "\npic.twitter.com/z3JRAE80z6 \u2014 RAMZPAUL (@ramzpaul) October 3, 2017\nIt appears the Las Vegas Shooter left a suicide note.",
+    "\npic.twitter.com/ATtPMR6cUN \u2014 STUMP 4 TRUMP (@Stump4TrumpPAC) October 3, 2017\nOn Thursday, investigators revealed that the note in the photo was not, in fact, a suicide note but neglected to provide further details about the purpose of the note.",
+    "\nIn their first in-depth interview, which will air on CBS Sunday evening, the officers who stormed Stephen Paddock\u2019s hotel room revealed new details to 60 Minutes that finally explain what was written on the mysterious note.",
+    "\n\u201cI could see on it he had written the distance, the elevation he was on, the drop of what his bullet was gonna be for the crowd,\u201d said Officer Dave Newton from the Las Vegas Police in a preview clip of Sunday\u2019s report.",
+    "\n\u201cSo he had that written down and figured out so he would know where to shoot to hit his targets from there.\u201d\nPaddock\u2019s note was clearly not a suicide letter.",
+    "\nRather, it detailed bullet trajectory and included calculations about where he needed to aim his weapons to maximize accuracy and optimize his kill rate.",
+    "\nInvestigators have also been looking for a \u2018mystery woman\u2019 who was seen with Stephen Paddock in the days leading up to the Las Vegas shooting.",
+    "\nAccording to ABC News, the \u2018mystery woman\u2019 everyone on the internet was talking about has been identified.",
+    "\nWhile officials did not reveal the woman\u2019s name, they did tell reporters she was a prostitute.",
+    "\nPolice are still investigating whether or not Paddock acted alone.",
+    "\nThey believe he may have had an accomplice based on the elaborate planning needed to undertake such a massacre and the fact that some ammunition was purchased under someone else\u2019s name.",
+    "\nAs ABC reported Friday evening:\n\u201cMeantime, investigators are still trying to figure out whether Paddock acted alone.",
+    "\nAuthorities believe he may have had an accomplice, based on the elaborate planning on Sunday night\u2019s rampage.",
+    "\n\nOfficials also believe he had help because of the amount of guns in his hotel room, and because some of the ammo was bought under someone else\u2019s name.\u201d\nThough more details are being released each day, Paddock\u2019s motives remain unclear."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 208,
+      "text": "\u2018Suicide Note\u2019 Seen in Vegas Shooter\u2019s Hotel Room\n\nA mysterious piece of paper discovered last week, when photos from the Las Vegas gunman\u2019s hotel room were leaked to the media, is now back in the news cycle.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 208,
+      "end_ix": 311,
+      "text": "\nThe pictures were published by numerous news outlets and shared by millions of people on social media.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 311,
+      "end_ix": 442,
+      "text": "\nAt the time the photos were published by the Daily Mail, police had not mentioned if Paddock left behind a note in his hotel room.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 442,
+      "end_ix": 536,
+      "text": "\nNevada Sheriff Joe Lombardo said police were investigating who leaked the crime scene photos.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 536,
+      "end_ix": 711,
+      "text": "\nIn one photo in particular, a white piece of paper or notepad on a side table next to a chair is visible, which caused some to speculate that it may have been a suicide note.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 711,
+      "end_ix": 883,
+      "text": "\nSoon after the photos were leaked, Twitter was abuzz with chatter referencing the paper, with people spreading cover-up conspiracies and rumors that it was a suicide note.",
+      "new_text": "\nSoon after the photos were leaked, Twitter was abuzz with chatter referencing the paper, with people spreading cover-up conspiracies and rumors that it was a suicide note.",
+      "prop_spans": [
+        [
+          861,
+          883,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 883,
+      "end_ix": 997,
+      "text": "\nBuy Silver at Discounted Prices\nScumbag shooter Stephen Paddock LEFT A NOTE, see new pics from inside hotel room!",
+      "new_text": "\nBuy Silver at Discounted Prices\nScumbag shooter Stephen Paddock LEFT A NOTE, see new pics from inside hotel room!",
+      "prop_spans": [
+        [
+          883,
+          883,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 997,
+      "end_ix": 1030,
+      "text": "\nWHY IS MEDIA NOT REPORTING THIS?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1030,
+      "end_ix": 1162,
+      "text": "\n#LasVagasShooting pic.twitter.com/U9tULYsk2R \u2014 Michael \ud83c\uddfa\ud83c\uddf8 (@trendy) October 3, 2017\nThe #StephenPaddock suicide note that the govt.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1162,
+      "end_ix": 1181,
+      "text": "\nis hiding from us.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1181,
+      "end_ix": 1301,
+      "text": "\npic.twitter.com/z3JRAE80z6 \u2014 RAMZPAUL (@ramzpaul) October 3, 2017\nIt appears the Las Vegas Shooter left a suicide note.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1301,
+      "end_ix": 1546,
+      "text": "\npic.twitter.com/ATtPMR6cUN \u2014 STUMP 4 TRUMP (@Stump4TrumpPAC) October 3, 2017\nOn Thursday, investigators revealed that the note in the photo was not, in fact, a suicide note but neglected to provide further details about the purpose of the note.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1546,
+      "end_ix": 1770,
+      "text": "\nIn their first in-depth interview, which will air on CBS Sunday evening, the officers who stormed Stephen Paddock\u2019s hotel room revealed new details to 60 Minutes that finally explain what was written on the mysterious note.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1770,
+      "end_ix": 1989,
+      "text": "\n\u201cI could see on it he had written the distance, the elevation he was on, the drop of what his bullet was gonna be for the crowd,\u201d said Officer Dave Newton from the Las Vegas Police in a preview clip of Sunday\u2019s report.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1989,
+      "end_ix": 2147,
+      "text": "\n\u201cSo he had that written down and figured out so he would know where to shoot to hit his targets from there.\u201d\nPaddock\u2019s note was clearly not a suicide letter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2147,
+      "end_ix": 2301,
+      "text": "\nRather, it detailed bullet trajectory and included calculations about where he needed to aim his weapons to maximize accuracy and optimize his kill rate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2301,
+      "end_ix": 2444,
+      "text": "\nInvestigators have also been looking for a \u2018mystery woman\u2019 who was seen with Stephen Paddock in the days leading up to the Las Vegas shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2444,
+      "end_ix": 2551,
+      "text": "\nAccording to ABC News, the \u2018mystery woman\u2019 everyone on the internet was talking about has been identified.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2551,
+      "end_ix": 2646,
+      "text": "\nWhile officials did not reveal the woman\u2019s name, they did tell reporters she was a prostitute.",
+      "new_text": "\nThe officials did not reveal the woman\u2019s name.",
+      "prop_spans": [
+        [
+          2554,
+          2646,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2646,
+      "end_ix": 2713,
+      "text": "\nPolice are still investigating whether or not Paddock acted alone.",
+      "new_text": "\nPolice are still investigating whether or not Paddock acted alone.",
+      "prop_spans": [
+        [
+          2646,
+          2648,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2713,
+      "end_ix": 2899,
+      "text": "\nThey believe he may have had an accomplice based on the elaborate planning needed to undertake such a massacre and the fact that some ammunition was purchased under someone else\u2019s name.",
+      "new_text": "\nThey believe he may have had an accomplice based on the elaborate planning needed to undertake such a massacre.",
+      "prop_spans": [
+        [
+          2850,
+          2899,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2899,
+      "end_ix": 3016,
+      "text": "\nAs ABC reported Friday evening:\n\u201cMeantime, investigators are still trying to figure out whether Paddock acted alone.",
+      "new_text": "\nAs ABC reported Friday evening:\n\u201cMeantime, investigators are still trying to figure out whether Paddock acted alone.",
+      "prop_spans": [
+        [
+          2899,
+          2900,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3016,
+      "end_ix": 3126,
+      "text": "\nAuthorities believe he may have had an accomplice, based on the elaborate planning on Sunday night\u2019s rampage.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3126,
+      "end_ix": 3362,
+      "text": "\n\nOfficials also believe he had help because of the amount of guns in his hotel room, and because some of the ammo was bought under someone else\u2019s name.\u201d\nThough more details are being released each day, Paddock\u2019s motives remain unclear.",
+      "new_text": "\n\nOfficials also believe he had help because of the amount of guns in his hotel room, and because some of the ammo was bought under someone else\u2019s name.\u201d\nThough more details are being released each day, Paddock\u2019s motives remain unclear.",
+      "prop_spans": [
+        [
+          3238,
+          3279,
+          "Repetition"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      861,
+      883,
+      "Repetition"
+    ],
+    [
+      2554,
+      2648,
+      "Red_Herring"
+    ],
+    [
+      2850,
+      2900,
+      "Repetition"
+    ],
+    [
+      3238,
+      3279,
+      "Repetition"
+    ]
+  ]
+}

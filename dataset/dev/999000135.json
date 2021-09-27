@@ -1,0 +1,476 @@
+{
+  "article_id": "999000135",
+  "sentence offsets in original": [
+    0,
+    168,
+    282,
+    541,
+    609,
+    922,
+    1126,
+    1320,
+    1415,
+    1510,
+    1548,
+    1581,
+    1663,
+    1745,
+    1773,
+    1836,
+    1905,
+    2074,
+    2123,
+    2159,
+    2185,
+    2230,
+    2299,
+    2393,
+    2628,
+    2712,
+    2749,
+    2767
+  ],
+  "original sentences": [
+    "CNN's Don Lemon Contradicts Himself In Just One Sentence: \"We Have to Stop Demonizing People ... White Men, Most Of Them Radicalized\"\n\nTalk about an absolute hypocrite!",
+    "\nHowever, it comes as no surprise from a hypocrite who works for a hypocritical, lying, fake news outlet like CNN.",
+    "\nDon Lemon wanted to defend the \"peaceful\" migrants who are headed toward the US border to illegally enter the country against our immigration laws, but said that the \"biggest terror threat in this country is white men, most of them radicalized to the right.\"",
+    "\nHow can he contradict himself like that and not even bat an eyelid?",
+    "\nIn discussing the arrival of these migrants who obviously gotten incredible help along the way, busted through customs gates, and pushed at the Mexican border while committing all sorts of crimes against many they come in contact with along the way, Lemon said what is clearly not only racist but utterly insane.",
+    "\n\"We have to stop demonizing people and realize the biggest terror threat in this country is white men, most of them radicalized to the right, and we have to start doing something about them,\u201d Lemon said.",
+    "\n\u201cThere is no travel ban on them\u2026 there is no white guy ban.\u201d\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nHe then said people need to stop thinking these people are a threat.",
+    "\n\u201cI keep trying to point out to people not to demonize any one group or any one ethnicity, but we keep thinking the biggest terror threat is something else,\u201d Lemon said.",
+    "\nNo one is demonizing an ethnicity but Don Lemon.",
+    "\nHe is the one demonizing white men.",
+    "\nHow's that for hypocrisy?",
+    "\nHe's a useful idiot, propagandist snowflake.",
+    "\nDemonizing the ideology behind Islamic jihad is not an ethnic issue.",
+    "\nIt's an ideological one that spans cultures, just like Don Lemon's and Chris Cuomo's statism.",
+    "\nDemonizing those intent on violating the law and have demonstrated that they are doing it along the way and declaring that we will not allow such persons across our border is simply common sense, but you won't get common sense on CNN.",
+    "\nDon Lemon thinks things like this, are just fine, and wants these people in the US.",
+    "\nHe just doesn't want white men here.",
+    "\nThere, I said it!",
+    "\nArticle posted with permission from The Washington Standard"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 168,
+      "text": "CNN's Don Lemon Contradicts Himself In Just One Sentence: \"We Have to Stop Demonizing People ... White Men, Most Of Them Radicalized\"\n\nTalk about an absolute hypocrite!",
+      "new_text": "CNN's Don Lemon Contradicts Himself In Just One Sentence: \"We Should Stop Demonizing People ... White Men, Most Of Them Radicalized\"\n\nTalk about an absolute hypocrite!",
+      "prop_spans": [
+        [
+          70,
+          92,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          70,
+          93,
+          "Loaded_Language"
+        ],
+        [
+          135,
+          167,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 168,
+      "end_ix": 282,
+      "text": "\nHowever, it comes as no surprise from a hypocrite who works for a hypocritical, lying, fake news outlet like CNN.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 282,
+      "end_ix": 541,
+      "text": "\nDon Lemon wanted to defend the \"peaceful\" migrants who are headed toward the US border to illegally enter the country against our immigration laws, but said that the \"biggest terror threat in this country is white men, most of them radicalized to the right.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 541,
+      "end_ix": 609,
+      "text": "\nHow can he contradict himself like that and not even bat an eyelid?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          542,
+          608,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 609,
+      "end_ix": 922,
+      "text": "\nIn discussing the arrival of these migrants who obviously gotten incredible help along the way, busted through customs gates, and pushed at the Mexican border while committing all sorts of crimes against many they come in contact with along the way, Lemon said what is clearly not only racist but utterly insane.",
+      "new_text": "\nIn discussing the arrival of these migrants who got help along the way, busted through customs gates, and pushed at the Mexican border while committing all sorts of crimes against many they come in contact with along the way, Lemon said what is clearly not only racist but also illogical.",
+      "prop_spans": [
+        [
+          668,
+          704,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          907,
+          921,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 922,
+      "end_ix": 1126,
+      "text": "\n\"We have to stop demonizing people and realize the biggest terror threat in this country is white men, most of them radicalized to the right, and we have to start doing something about them,\u201d Lemon said.",
+      "new_text": "\n\"We have to stop demonizing people and realize the biggest terror threat in this country is white men, most of them radicalized to the right, and we have to start doing something about them,\u201d Lemon said.",
+      "prop_spans": [
+        [
+          924,
+          1126,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          940,
+          958,
+          "Loaded_Language"
+        ],
+        [
+          970,
+          1024,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1126,
+      "end_ix": 1320,
+      "text": "\n\u201cThere is no travel ban on them\u2026 there is no white guy ban.\u201d\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": "\n\u201cThere is no travel ban on them\u2026 there is no white guy ban.\u201d\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "prop_spans": [
+        [
+          1126,
+          1185,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1320,
+      "end_ix": 1415,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1415,
+      "end_ix": 1510,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1510,
+      "end_ix": 1548,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1548,
+      "end_ix": 1581,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1581,
+      "end_ix": 1663,
+      "text": "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1663,
+      "end_ix": 1745,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1745,
+      "end_ix": 1773,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1773,
+      "end_ix": 1836,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1836,
+      "end_ix": 1905,
+      "text": "\nHe then said people need to stop thinking these people are a threat.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1905,
+      "end_ix": 2074,
+      "text": "\n\u201cI keep trying to point out to people not to demonize any one group or any one ethnicity, but we keep thinking the biggest terror threat is something else,\u201d Lemon said.",
+      "new_text": "\n\u201cI keep trying to point out to people not to demonize any one group or any one ethnicity, but we keep thinking the biggest terror threat is something else,\u201d Lemon said.",
+      "prop_spans": [
+        [
+          1948,
+          1960,
+          "Loaded_Language"
+        ],
+        [
+          1951,
+          1959,
+          "Repetition"
+        ],
+        [
+          2017,
+          2043,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2074,
+      "end_ix": 2123,
+      "text": "\nNo one is demonizing an ethnicity but Don Lemon.",
+      "new_text": "\nNo one is deprecating an ethnicity but Don Lemon.",
+      "prop_spans": [
+        [
+          2085,
+          2096,
+          "Loaded_Language"
+        ],
+        [
+          2085,
+          2096,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2123,
+      "end_ix": 2159,
+      "text": "\nHe is the one demonizing white men.",
+      "new_text": "\nHe is the one deprecating white men.",
+      "prop_spans": [
+        [
+          2138,
+          2149,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2159,
+      "end_ix": 2185,
+      "text": "\nHow's that for hypocrisy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2185,
+      "end_ix": 2230,
+      "text": "\nHe's a useful idiot, propagandist snowflake.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2230,
+      "end_ix": 2299,
+      "text": "\nDemonizing the ideology behind Islamic jihad is not an ethnic issue.",
+      "new_text": "\nDeprecating the ideology behind Islamic jihad is not an ethnic issue.",
+      "prop_spans": [
+        [
+          2231,
+          2242,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2299,
+      "end_ix": 2393,
+      "text": "\nIt's an ideological one that spans cultures, just like Don Lemon's and Chris Cuomo's statism.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2393,
+      "end_ix": 2628,
+      "text": "\nDemonizing those intent on violating the law and have demonstrated that they are doing it along the way and declaring that we will not allow such persons across our border is simply common sense, but you won't get common sense on CNN.",
+      "new_text": "\nDeprecating those intent on violating the law and have demonstrated that they are doing it along the way and declaring that we will not allow such persons across our border is simply common sense, but you won't get common sense on CNN.",
+      "prop_spans": [
+        [
+          2394,
+          2405,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2628,
+      "end_ix": 2712,
+      "text": "\nDon Lemon thinks things like this, are just fine, and wants these people in the US.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2629,
+          2712,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2712,
+      "end_ix": 2749,
+      "text": "\nHe just doesn't want white men here.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2712,
+          2748,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2749,
+      "end_ix": 2767,
+      "text": "\nThere, I said it!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2750,
+          2766,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2767,
+      "end_ix": 2827,
+      "text": "\nArticle posted with permission from The Washington Standard",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      70,
+      92,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      70,
+      93,
+      "Loaded_Language"
+    ],
+    [
+      135,
+      167,
+      "Loaded_Language"
+    ],
+    [
+      542,
+      608,
+      "Doubt"
+    ],
+    [
+      668,
+      704,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      907,
+      921,
+      "Loaded_Language"
+    ],
+    [
+      924,
+      1185,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      940,
+      958,
+      "Loaded_Language"
+    ],
+    [
+      970,
+      1024,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1948,
+      1960,
+      "Loaded_Language"
+    ],
+    [
+      1951,
+      1959,
+      "Repetition"
+    ],
+    [
+      2017,
+      2043,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2085,
+      2096,
+      "Loaded_Language"
+    ],
+    [
+      2085,
+      2096,
+      "Repetition"
+    ],
+    [
+      2138,
+      2149,
+      "Loaded_Language"
+    ],
+    [
+      2231,
+      2242,
+      "Loaded_Language"
+    ],
+    [
+      2394,
+      2405,
+      "Loaded_Language"
+    ],
+    [
+      2629,
+      2748,
+      "Causal_Oversimplification"
+    ],
+    [
+      2750,
+      2766,
+      "Loaded_Language"
+    ]
+  ]
+}

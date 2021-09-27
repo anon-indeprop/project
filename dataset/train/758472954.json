@@ -1,0 +1,67 @@
+{
+  "article_id": "758472954",
+  "sentence offsets in original": [
+    0,
+    372,
+    571,
+    730,
+    839
+  ],
+  "original sentences": [
+    "Beware sonic weapon attacks, US tells citizens in China\n\nAn employee of the American embassy in Guangzhou was diagnosed with a mild traumatic brain injury\nThe US has warned its citizens in China to be vigilant for \u201cabnormal sensations of sound and pressure\u201d as it opened an investigation into whether officials were targeted with a sonic weapon that caused a brain injury.",
+    "\nAn American government employee stationed in the southern city of Guangzhou recently reported \u201csubtle and vague, but abnormal, sensations of sound and pressure\u201d, the embassy in China said yesterday.",
+    "\nThe employee was diagnosed with a mild traumatic brain injury in an incident with echoes of suspected \u201csonic attacks\u201d on American diplomats in Cuba last year.",
+    "\nMike Pompeo, the US secretary of state, said that medical teams were travelling to Guangzhou to investigate.",
+    "\nThe government employee\u2019s symptoms were \u201cvery similar and entirely consistent\u201d with those suffered in Cuba, he\u2026"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 372,
+      "text": "Beware sonic weapon attacks, US tells citizens in China\n\nAn employee of the American embassy in Guangzhou was diagnosed with a mild traumatic brain injury\nThe US has warned its citizens in China to be vigilant for \u201cabnormal sensations of sound and pressure\u201d as it opened an investigation into whether officials were targeted with a sonic weapon that caused a brain injury.",
+      "new_text": "Sonic weapon attacks, US tells citizens in China\n\nAn employee of the American embassy in Guangzhou was diagnosed with a mild traumatic brain injury\nThe US has warned its citizens in China to be vigilant for \u201cabnormal sensations of sound and pressure\u201d as it opened an investigation into whether officials were targeted with a sonic weapon that caused a brain injury.",
+      "prop_spans": [
+        [
+          0,
+          6,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 372,
+      "end_ix": 571,
+      "text": "\nAn American government employee stationed in the southern city of Guangzhou recently reported \u201csubtle and vague, but abnormal, sensations of sound and pressure\u201d, the embassy in China said yesterday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 571,
+      "end_ix": 730,
+      "text": "\nThe employee was diagnosed with a mild traumatic brain injury in an incident with echoes of suspected \u201csonic attacks\u201d on American diplomats in Cuba last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 730,
+      "end_ix": 839,
+      "text": "\nMike Pompeo, the US secretary of state, said that medical teams were travelling to Guangzhou to investigate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 839,
+      "end_ix": 951,
+      "text": "\nThe government employee\u2019s symptoms were \u201cvery similar and entirely consistent\u201d with those suffered in Cuba, he\u2026",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      6,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

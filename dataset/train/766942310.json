@@ -1,0 +1,762 @@
+{
+  "article_id": "766942310",
+  "sentence offsets in original": [
+    0,
+    31,
+    173,
+    285,
+    437,
+    736,
+    824,
+    888,
+    1087,
+    1352,
+    1427,
+    1682,
+    1721,
+    1881,
+    1990,
+    2051,
+    2160,
+    2165,
+    2270,
+    2382,
+    2474,
+    2531,
+    2733,
+    2872,
+    2952,
+    3018,
+    3079,
+    3287,
+    3432,
+    3489,
+    3540,
+    3619,
+    3722,
+    3927,
+    4020,
+    4061,
+    4361,
+    4482,
+    4561,
+    4642,
+    4679,
+    4783,
+    4863
+  ],
+  "original sentences": [
+    "Who \u2018Won\u2019 the Trump-Kim Summit?",
+    "\n\nLast week\u2019s Economist Magazine won the day with the best-ever headline about the Trump-Kim Jong-un summit: `Kim Jong Won!\u2019\nThat said it all.",
+    "\nJust out of hospital, I was in no shape to compete with the great Economist or its very witty headline writers.",
+    "\nBut after watching a week of post Singapore summit between Great White Father Trump and delinquent Kim Jong-un I must totally agree with the Economist.",
+    "\nWhat was billed as a second-coming extravaganza between the two leaders \u2013 who have been trading insults of \u2018little rocket man\u2019 and \u2018dotard\u2019 (someone who is senile) turned out to be a very expensive photo op for both publicity seekers that made much noise but produced very little \u2013 at least so far.",
+    "\nIt seemed as if two schoolyard bullies had been forced by the principal to shake hands.",
+    "\nBeyond gestures, North Korea\u2019s leader certainly came out ahead.",
+    "\nHis objective \u2013 and those of his family predecessors for the past 60 years \u2013 was to normalize relations with the US, start trade, and end US efforts to overthrow the Marxist government in Pyongyang.",
+    "\nAmerican Raj: Liberati... Eric Margolis Best Price: $5.99 Buy New $45.86 (as of 09:30 EDT - Details) Trump\u2019s objectives, at least initially, were to crush North Korea and the threats it could pose to the United States and its regional allies Japan and South Korea.",
+    "\nTrump sought to set up Kim as a bogeyman, and himself as America\u2019s savior.",
+    "\nTrump knew perfectly well that he could not destroy all of North Korea\u2019s deeply buried nuclear-armed missiles, and, in spite of his huffing and puffing, had no stomach for an invasion of North Korea that could cost the US an estimated 250,000 casualties.",
+    "\nSo Trump\u2019s solution was more show-biz.",
+    "\nA much ballyhooed flight to Singapore, backslapping a delighted Kim, and a love-fest between the two chunky leaders was sold to Americans as the dawn of peace.",
+    "\nAmerica\u2019s media was quick to retail the story and burnish Trump\u2019s credentials among the seriously credulous.",
+    "\nNo more hiding under your school desks or in dank basements.",
+    "\nAs Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",
+    "\nWhy?",
+    "\nKorea still has all of its medium and long-ranged missiles and an estimated 40 or more nuclear warheads.",
+    "\nThe North is developing submarines that can launch nuclear-armed missiles from underwater off America\u2019s coasts.",
+    "\nFor Kim, these weapons are purely defensive, designed to prevent a US attack on his nation.",
+    "\nBut he is now a full-fledged member of the nuclear club.",
+    "\nEqually important, North Korea still has an estimated 14,000 170mm guns and hundreds of 300mm long-ranged rocket launchers emplaced in caves just north of the Demilitarized Zone between the two Koreas.",
+    "\nThey threaten almost all of South Korea\u2019s capital Seoul north of the Han River and some US military bases and key airfields, notably Osan.",
+    "\nThis is a very real threat \u2013 one that is largely immune to attack from the air.",
+    "\nI have seen these emplacements from the northern edge of the DMZ.",
+    "\nKim\u2019s big guns hold Seoul\u2019s millions of inhabitants hostage.",
+    "\nWar at the Top of the ... Eric Margolis Best Price: $2.60 Buy New $24.57 (as of 09:00 EDT - Details)\nThere is no mention of this artillery threat in the final communiqu\u00e9 issued by Trump and Kim in Singapore.",
+    "\nBut it was agreed to temporarily stop the highly provocative US/South Korean war games simulating an invasion of the North, a key demand by Kim.",
+    "\nThis column has been calling for their end for a decade.",
+    "\nNorth Korea will seemingly halt its missile tests.",
+    "\nThis is not the \u2018denuclearization\u2019 of North Korea that has been bandied about.",
+    "\nThere may be a few gestures of disarmament but Kim must know that his nukes are his means of survival.",
+    "\nIn case Kim didn\u2019t remember the dire fate of Iraq, Libya, and Syria, Trump\u2019s new national security advisor John Bolton, a fanatic\u2019s fanatic, cheerfully recalled the doom of Libya\u2019s murdered Col. Khadaffi.",
+    "\nThe Singapore summit was also a huge humiliation for America\u2019s allies Japan and South Korea.",
+    "\nIn Asia, preserving \u2018face\u2019 is essential.",
+    "\nTrump completely ignored America\u2019s two old allies after his meeting with Kim \u2013 who routinely blasts Japan and South Korea as \u2018America\u2019s stooges.\u2019 Instead, Trump sent his beginner Secretary of State Mike Pompeo to explain what happened in Singapore, inflicting a deep loss of face on Tokyo and Seoul.",
+    "\nThis was a terrible insult and could spark decisions by at least Japan to proceed ahead with its covert nuclear program.",
+    "\nJapan can deploy nuclear weapons in 3-6 months; South Korea is not far behind.",
+    "\nThe United States and North Korea are now on a more civilized level of behavior.",
+    "\nBut nothing basic has been resolved.",
+    "\nMaybe Trump has some more concessions up his sleeve, like cutting the number of US troops in the South.",
+    "\nBut Korea is now on the back burner as Trump wages trade wars around the globe.",
+    "\nThe Best of Eric Margolis"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 31,
+      "text": "Who \u2018Won\u2019 the Trump-Kim Summit?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 31,
+      "end_ix": 173,
+      "text": "\n\nLast week\u2019s Economist Magazine won the day with the best-ever headline about the Trump-Kim Jong-un summit: `Kim Jong Won!\u2019\nThat said it all.",
+      "new_text": "\n\nLast week\u2019s Economist Magazine won the day with the best headline about the Trump-Kim Jong-un summit: `Kim Jong Won!\u2019\nThat said it all.",
+      "prop_spans": [
+        [
+          85,
+          94,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 173,
+      "end_ix": 285,
+      "text": "\nJust out of hospital, I was in no shape to compete with the great Economist or its very witty headline writers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 285,
+      "end_ix": 437,
+      "text": "\nBut after watching a week of post Singapore summit between Great White Father Trump and delinquent Kim Jong-un I must totally agree with the Economist.",
+      "new_text": "\nBut after watching a week of post Singapore summit between Trump and Kim Jong-un I must totally agree with the Economist.",
+      "prop_spans": [
+        [
+          345,
+          363,
+          "Name_Calling,Labeling"
+        ],
+        [
+          374,
+          384,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 437,
+      "end_ix": 736,
+      "text": "\nWhat was billed as a second-coming extravaganza between the two leaders \u2013 who have been trading insults of \u2018little rocket man\u2019 and \u2018dotard\u2019 (someone who is senile) turned out to be a very expensive photo op for both publicity seekers that made much noise but produced very little \u2013 at least so far.",
+      "new_text": "\nWhat was billed as a second-coming extravaganza between the two leaders \u2013 who have been trading insults of \u2018little rocket man\u2019 and \u2018dotard\u2019 (someone who is senile) turned out to be an expensive photo op for both publicity seekers that made much noise but produced very little \u2013 at least so far.",
+      "prop_spans": [
+        [
+          545,
+          564,
+          "Name_Calling,Labeling"
+        ],
+        [
+          569,
+          577,
+          "Name_Calling,Labeling"
+        ],
+        [
+          621,
+          635,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 736,
+      "end_ix": 824,
+      "text": "\nIt seemed as if two schoolyard bullies had been forced by the principal to shake hands.",
+      "new_text": "\nIt seemed as if two opponents had been forced by the principal to shake hands.",
+      "prop_spans": [
+        [
+          757,
+          775,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 824,
+      "end_ix": 888,
+      "text": "\nBeyond gestures, North Korea\u2019s leader certainly came out ahead.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 888,
+      "end_ix": 1087,
+      "text": "\nHis objective \u2013 and those of his family predecessors for the past 60 years \u2013 was to normalize relations with the US, start trade, and end US efforts to overthrow the Marxist government in Pyongyang.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1087,
+      "end_ix": 1352,
+      "text": "\nAmerican Raj: Liberati... Eric Margolis Best Price: $5.99 Buy New $45.86 (as of 09:30 EDT - Details) Trump\u2019s objectives, at least initially, were to crush North Korea and the threats it could pose to the United States and its regional allies Japan and South Korea.",
+      "new_text": "\nAmerican Raj: Liberati... Eric Margolis Best Price: $5.99 Buy New $45.86 (as of 09:30 EDT - Details) Trump\u2019s objectives, at least initially, were to crush North Korea and the threats it could pose to the United States and its regional allies Japan and South Korea.",
+      "prop_spans": [
+        [
+          1234,
+          1242,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1352,
+      "end_ix": 1427,
+      "text": "\nTrump sought to set up Kim as a bogeyman, and himself as America\u2019s savior.",
+      "new_text": "\nTrump sought to set up Kim as a demon, and himself as the savior.",
+      "prop_spans": [
+        [
+          1385,
+          1393,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1410,
+          1426,
+          "Flag-Waving"
+        ],
+        [
+          1410,
+          1426,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1427,
+      "end_ix": 1682,
+      "text": "\nTrump knew perfectly well that he could not destroy all of North Korea\u2019s deeply buried nuclear-armed missiles, and, in spite of his huffing and puffing, had no stomach for an invasion of North Korea that could cost the US an estimated 250,000 casualties.",
+      "new_text": "\nTrump knew well that he could not destroy all of North Korea\u2019s deeply buried nuclear-armed missiles, and, in spite of his huffing and puffing, had no intention for an invasion of North Korea that could cost the US an estimated 250,000 casualties.",
+      "prop_spans": [
+        [
+          1439,
+          1453,
+          "Loaded_Language"
+        ],
+        [
+          1581,
+          1611,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1682,
+      "end_ix": 1721,
+      "text": "\nSo Trump\u2019s solution was more show-biz.",
+      "new_text": "\nSo Trump\u2019s solution was more mockery.",
+      "prop_spans": [
+        [
+          1712,
+          1720,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1721,
+      "end_ix": 1881,
+      "text": "\nA much ballyhooed flight to Singapore, backslapping a delighted Kim, and a love-fest between the two chunky leaders was sold to Americans as the dawn of peace.",
+      "new_text": "\nA much hyped flight to Singapore, backslapping a delighted Kim, and a love-fest between the two leaders was portrayed to Americans as the dawn of peace.",
+      "prop_spans": [
+        [
+          1724,
+          1739,
+          "Loaded_Language"
+        ],
+        [
+          1776,
+          1785,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1797,
+          1806,
+          "Loaded_Language"
+        ],
+        [
+          1823,
+          1829,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1838,
+          1849,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1881,
+      "end_ix": 1990,
+      "text": "\nAmerica\u2019s media was quick to retail the story and burnish Trump\u2019s credentials among the seriously credulous.",
+      "new_text": "\nAmerica\u2019s media was quick to retail the story and brighten Trump\u2019s credentials among the seriously credulous.",
+      "prop_spans": [
+        [
+          1932,
+          1939,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1990,
+      "end_ix": 2051,
+      "text": "\nNo more hiding under your school desks or in dank basements.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2051,
+      "end_ix": 2160,
+      "text": "\nAs Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",
+      "new_text": "\nAs Trump proclaimed, we no longer have to fear North Korea and can be without worries!",
+      "prop_spans": [
+        [
+          2061,
+          2068,
+          "Loaded_Language"
+        ],
+        [
+          2081,
+          2090,
+          "Flag-Waving"
+        ],
+        [
+          2081,
+          2125,
+          "Slogans"
+        ],
+        [
+          2130,
+          2159,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2160,
+      "end_ix": 2165,
+      "text": "\nWhy?",
+      "new_text": "\nWhy?",
+      "prop_spans": [
+        [
+          2161,
+          2165,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2165,
+      "end_ix": 2270,
+      "text": "\nKorea still has all of its medium and long-ranged missiles and an estimated 40 or more nuclear warheads.",
+      "new_text": "\nKorea still has all of its medium and long-ranged missiles and an estimated 40 or more nuclear warheads.",
+      "prop_spans": [
+        [
+          2165,
+          2165,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2270,
+      "end_ix": 2382,
+      "text": "\nThe North is developing submarines that can launch nuclear-armed missiles from underwater off America\u2019s coasts.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2382,
+      "end_ix": 2474,
+      "text": "\nFor Kim, these weapons are purely defensive, designed to prevent a US attack on his nation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2474,
+      "end_ix": 2531,
+      "text": "\nBut he is now a full-fledged member of the nuclear club.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2531,
+      "end_ix": 2733,
+      "text": "\nEqually important, North Korea still has an estimated 14,000 170mm guns and hundreds of 300mm long-ranged rocket launchers emplaced in caves just north of the Demilitarized Zone between the two Koreas.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2733,
+      "end_ix": 2872,
+      "text": "\nThey threaten almost all of South Korea\u2019s capital Seoul north of the Han River and some US military bases and key airfields, notably Osan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2872,
+      "end_ix": 2952,
+      "text": "\nThis is a very real threat \u2013 one that is largely immune to attack from the air.",
+      "new_text": "\nThis is a real threat \u2013 one that is largely immune to attack from the air.",
+      "prop_spans": [
+        [
+          2881,
+          2899,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2952,
+      "end_ix": 3018,
+      "text": "\nI have seen these emplacements from the northern edge of the DMZ.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3018,
+      "end_ix": 3079,
+      "text": "\nKim\u2019s big guns hold Seoul\u2019s millions of inhabitants hostage.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3079,
+      "end_ix": 3287,
+      "text": "\nWar at the Top of the ... Eric Margolis Best Price: $2.60 Buy New $24.57 (as of 09:00 EDT - Details)\nThere is no mention of this artillery threat in the final communiqu\u00e9 issued by Trump and Kim in Singapore.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3287,
+      "end_ix": 3432,
+      "text": "\nBut it was agreed to temporarily stop the highly provocative US/South Korean war games simulating an invasion of the North, a key demand by Kim.",
+      "new_text": "\nBut it was agreed to temporarily stop the provocative US/South Korean war games simulating an invasion of the North, a key demand by Kim.",
+      "prop_spans": [
+        [
+          3330,
+          3348,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3432,
+      "end_ix": 3489,
+      "text": "\nThis column has been calling for their end for a decade.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3489,
+      "end_ix": 3540,
+      "text": "\nNorth Korea will seemingly halt its missile tests.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3540,
+      "end_ix": 3619,
+      "text": "\nThis is not the \u2018denuclearization\u2019 of North Korea that has been bandied about.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3619,
+      "end_ix": 3722,
+      "text": "\nThere may be a few gestures of disarmament but Kim must know that his nukes are his means of survival.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3722,
+      "end_ix": 3927,
+      "text": "\nIn case Kim didn\u2019t remember the dire fate of Iraq, Libya, and Syria, Trump\u2019s new national security advisor John Bolton, a fanatic\u2019s fanatic, cheerfully recalled the doom of Libya\u2019s murdered Col. Khadaffi.",
+      "new_text": "\nIn case Kim didn\u2019t remember the dire fate of Iraq, Libya, and Syria, Trump\u2019s new national security advisor John Bolton, recalled the destruction of Libya\u2019s murdered Col. Khadaffi.",
+      "prop_spans": [
+        [
+          3845,
+          3862,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3845,
+          3862,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3864,
+          3874,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3888,
+          3892,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3927,
+      "end_ix": 4020,
+      "text": "\nThe Singapore summit was also a huge humiliation for America\u2019s allies Japan and South Korea.",
+      "new_text": "\nThe Singapore summit was also a shame for America\u2019s allies Japan and South Korea.",
+      "prop_spans": [
+        [
+          3960,
+          3976,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4020,
+      "end_ix": 4061,
+      "text": "\nIn Asia, preserving \u2018face\u2019 is essential.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4061,
+      "end_ix": 4361,
+      "text": "\nTrump completely ignored America\u2019s two old allies after his meeting with Kim \u2013 who routinely blasts Japan and South Korea as \u2018America\u2019s stooges.\u2019 Instead, Trump sent his beginner Secretary of State Mike Pompeo to explain what happened in Singapore, inflicting a deep loss of face on Tokyo and Seoul.",
+      "new_text": "\nTrump completely ignored America\u2019s two old allies after his meeting with Kim \u2013 who routinely blasts Japan and South Korea as \u2018America\u2019s stooges.\u2019 Instead, Trump sent his beginner Secretary of State Mike Pompeo to explain what happened in Singapore, inflicting a deep loss of face on Tokyo and Seoul.",
+      "prop_spans": [
+        [
+          4188,
+          4205,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4361,
+      "end_ix": 4482,
+      "text": "\nThis was a terrible insult and could spark decisions by at least Japan to proceed ahead with its covert nuclear program.",
+      "new_text": "\nThis was an insult and could spark decisions by at least Japan to proceed ahead with its covert nuclear program.",
+      "prop_spans": [
+        [
+          4373,
+          4388,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4482,
+      "end_ix": 4561,
+      "text": "\nJapan can deploy nuclear weapons in 3-6 months; South Korea is not far behind.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4561,
+      "end_ix": 4642,
+      "text": "\nThe United States and North Korea are now on a more civilized level of behavior.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4642,
+      "end_ix": 4679,
+      "text": "\nBut nothing basic has been resolved.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4679,
+      "end_ix": 4783,
+      "text": "\nMaybe Trump has some more concessions up his sleeve, like cutting the number of US troops in the South.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4783,
+      "end_ix": 4863,
+      "text": "\nBut Korea is now on the back burner as Trump wages trade wars around the globe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4863,
+      "end_ix": 4889,
+      "text": "\nThe Best of Eric Margolis",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      85,
+      94,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      345,
+      363,
+      "Name_Calling,Labeling"
+    ],
+    [
+      374,
+      384,
+      "Name_Calling,Labeling"
+    ],
+    [
+      545,
+      564,
+      "Name_Calling,Labeling"
+    ],
+    [
+      569,
+      577,
+      "Name_Calling,Labeling"
+    ],
+    [
+      621,
+      635,
+      "Loaded_Language"
+    ],
+    [
+      757,
+      775,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1234,
+      1242,
+      "Loaded_Language"
+    ],
+    [
+      1385,
+      1393,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1410,
+      1426,
+      "Flag-Waving"
+    ],
+    [
+      1410,
+      1426,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1439,
+      1453,
+      "Loaded_Language"
+    ],
+    [
+      1581,
+      1611,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1712,
+      1720,
+      "Loaded_Language"
+    ],
+    [
+      1724,
+      1739,
+      "Loaded_Language"
+    ],
+    [
+      1776,
+      1785,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1797,
+      1806,
+      "Loaded_Language"
+    ],
+    [
+      1823,
+      1829,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1838,
+      1849,
+      "Loaded_Language"
+    ],
+    [
+      1932,
+      1939,
+      "Loaded_Language"
+    ],
+    [
+      2061,
+      2068,
+      "Loaded_Language"
+    ],
+    [
+      2081,
+      2090,
+      "Flag-Waving"
+    ],
+    [
+      2081,
+      2125,
+      "Slogans"
+    ],
+    [
+      2130,
+      2159,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2161,
+      2165,
+      "Doubt"
+    ],
+    [
+      2881,
+      2899,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3330,
+      3348,
+      "Loaded_Language"
+    ],
+    [
+      3845,
+      3862,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3845,
+      3862,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3864,
+      3874,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3888,
+      3892,
+      "Loaded_Language"
+    ],
+    [
+      3960,
+      3976,
+      "Loaded_Language"
+    ],
+    [
+      4188,
+      4205,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4373,
+      4388,
+      "Loaded_Language"
+    ]
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "article_id": "754179642",
+  "sentence offsets in original": [
+    0,
+    265,
+    438,
+    583,
+    746,
+    966,
+    1168,
+    1298,
+    1457,
+    1519,
+    1685,
+    1863,
+    1967,
+    2130,
+    2254,
+    2417,
+    2545,
+    2706,
+    2882,
+    3031,
+    3165,
+    3227,
+    3382
+  ],
+  "original sentences": [
+    "New outbreak of Ebola kills 17 in northwest DR Congo\n\nSeventeen people in northwest Democratic Republic of Congo (DRC) have died from Ebola, the health ministry said on Tuesday, describing the fresh outbreak as a \"public health emergency with international impact.\"",
+    "\n\"Twenty-one cases of fever with haemorrhagic indications and 17 deaths\" have been recorded in Equateur province, it said, citing a notification to the ministry as of May 3.",
+    "\nIt is the DRC's ninth known outbreak of Ebola since 1976, when the deady viral disease was first identified in then-Zaire by a Belgian-led team.",
+    "\nIn Geneva, the World Health Organization (WHO) said lab tests in the DRC confirmed the presence of Ebola virus in two out of five samples collected from patients.",
+    "\n\"WHO is working closely with the government of the DRC to rapidly scale up its operations and mobilize health partners, using the model of a successful response to a similar... outbreak in 2017,\" it said in a statement.",
+    "\nIt said it had released $1 million (840,000 euros) from an emergency contingency fund, set up a coordination group and deployed more than 50 experts to work with the DRC government and health agencies.",
+    "\n\"The action plan prepared by the health ministry has been approved,\" an official statement released after a cabinet meeting said.",
+    "\n- No new deaths -\n\"Since the notification of the cases on May 3, no deaths have been reported,\" it said, without specifying when the first case came to light.",
+    "\nThe outbreak occurred in Bikoro, on the shores of Lake Tumba.",
+    "\nAll the cases were reported from a clinic at Ilkoko Iponge, located about 30 kilometres (20 miles) from Bikoro, where treatment capacities are limited, the WHO said.",
+    "\nA team of experts from the WHO, Doctors without Borders (DRC) and Equateur province travelled to Bikoro on Tuesday to beef up coordination and carry out investigations, it said.",
+    "\nEbola is one of the world's most notorious diseases, being both highly infectious and extremely lethal.",
+    "\nIt is caused by a virus that has a natural reservoir in the bat, which does not itself fall ill, but can pass the microbe on to humans who hunt it for \"bushmeat\".",
+    "\nThe virus is handed on by contact with bodily fluids -- touching a sick or dead person is a well-known source of infection.",
+    "\nFollowing an incubation period of between two and 21 days, Ebola develops into a high fever, weakness, intense muscle and joint pain, headaches and a sore throat.",
+    "\nThat is often followed by vomiting and diarrhoea, skin eruptions, kidney and liver failure, and internal and external bleeding.",
+    "\nThe worst-ever Ebola outbreak started in December 2013 in southern Guinea before spreading to two neighbouring west African countries, Liberia and Sierra Leone.",
+    "\nThat outbreak killed more than 11,300 people out of nearly 29,000 registered cases, according to WHO estimates, although the real figure is thought to be significantly higher.",
+    "\nMore than 99 percent of victims were in the three West African countries, although cases occurred in other parts of the world, often stirring panic.",
+    "\nThere is no current vaccine to prevent Ebola or licensed treatment for it, although a range of experimental drugs are in development.",
+    "\nEarly care with rehydration may boost the chance of survival.",
+    "\nGiven the lack of a pharmaceutical weapon against Ebola, health experts have responded with time-honoured measures of control, prevention and containment.",
+    "\nThey use rigorous protocols to protect medical personnel with disposable full-body suits, masks, goggles and gloves and disinfecting sprays."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 265,
+      "text": "New outbreak of Ebola kills 17 in northwest DR Congo\n\nSeventeen people in northwest Democratic Republic of Congo (DRC) have died from Ebola, the health ministry said on Tuesday, describing the fresh outbreak as a \"public health emergency with international impact.\"",
+      "new_text": "New outbreak of Ebola kills 17 in northwest DR Congo\n\nSeventeen people in northwest Democratic Republic of Congo (DRC) have died from Ebola, the health ministry said on Tuesday, describing the fresh outbreak as a \"public health emergency with international impact.\"",
+      "prop_spans": [
+        [
+          214,
+          263,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 265,
+      "end_ix": 438,
+      "text": "\n\"Twenty-one cases of fever with haemorrhagic indications and 17 deaths\" have been recorded in Equateur province, it said, citing a notification to the ministry as of May 3.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 438,
+      "end_ix": 583,
+      "text": "\nIt is the DRC's ninth known outbreak of Ebola since 1976, when the deady viral disease was first identified in then-Zaire by a Belgian-led team.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 583,
+      "end_ix": 746,
+      "text": "\nIn Geneva, the World Health Organization (WHO) said lab tests in the DRC confirmed the presence of Ebola virus in two out of five samples collected from patients.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 746,
+      "end_ix": 966,
+      "text": "\n\"WHO is working closely with the government of the DRC to rapidly scale up its operations and mobilize health partners, using the model of a successful response to a similar... outbreak in 2017,\" it said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 966,
+      "end_ix": 1168,
+      "text": "\nIt said it had released $1 million (840,000 euros) from an emergency contingency fund, set up a coordination group and deployed more than 50 experts to work with the DRC government and health agencies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1168,
+      "end_ix": 1298,
+      "text": "\n\"The action plan prepared by the health ministry has been approved,\" an official statement released after a cabinet meeting said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1298,
+      "end_ix": 1457,
+      "text": "\n- No new deaths -\n\"Since the notification of the cases on May 3, no deaths have been reported,\" it said, without specifying when the first case came to light.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1457,
+      "end_ix": 1519,
+      "text": "\nThe outbreak occurred in Bikoro, on the shores of Lake Tumba.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1519,
+      "end_ix": 1685,
+      "text": "\nAll the cases were reported from a clinic at Ilkoko Iponge, located about 30 kilometres (20 miles) from Bikoro, where treatment capacities are limited, the WHO said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1685,
+      "end_ix": 1863,
+      "text": "\nA team of experts from the WHO, Doctors without Borders (DRC) and Equateur province travelled to Bikoro on Tuesday to beef up coordination and carry out investigations, it said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1863,
+      "end_ix": 1967,
+      "text": "\nEbola is one of the world's most notorious diseases, being both highly infectious and extremely lethal.",
+      "new_text": "\nEbola is one of the world's most notorious diseases, being both infectious and lethal.",
+      "prop_spans": [
+        [
+          1928,
+          1966,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1967,
+      "end_ix": 2130,
+      "text": "\nIt is caused by a virus that has a natural reservoir in the bat, which does not itself fall ill, but can pass the microbe on to humans who hunt it for \"bushmeat\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2130,
+      "end_ix": 2254,
+      "text": "\nThe virus is handed on by contact with bodily fluids -- touching a sick or dead person is a well-known source of infection.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2254,
+      "end_ix": 2417,
+      "text": "\nFollowing an incubation period of between two and 21 days, Ebola develops into a high fever, weakness, intense muscle and joint pain, headaches and a sore throat.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2417,
+      "end_ix": 2545,
+      "text": "\nThat is often followed by vomiting and diarrhoea, skin eruptions, kidney and liver failure, and internal and external bleeding.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2545,
+      "end_ix": 2706,
+      "text": "\nThe worst-ever Ebola outbreak started in December 2013 in southern Guinea before spreading to two neighbouring west African countries, Liberia and Sierra Leone.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2706,
+      "end_ix": 2882,
+      "text": "\nThat outbreak killed more than 11,300 people out of nearly 29,000 registered cases, according to WHO estimates, although the real figure is thought to be significantly higher.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2882,
+      "end_ix": 3031,
+      "text": "\nMore than 99 percent of victims were in the three West African countries, although cases occurred in other parts of the world, often stirring panic.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3031,
+      "end_ix": 3165,
+      "text": "\nThere is no current vaccine to prevent Ebola or licensed treatment for it, although a range of experimental drugs are in development.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3165,
+      "end_ix": 3227,
+      "text": "\nEarly care with rehydration may boost the chance of survival.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3227,
+      "end_ix": 3382,
+      "text": "\nGiven the lack of a pharmaceutical weapon against Ebola, health experts have responded with time-honoured measures of control, prevention and containment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3382,
+      "end_ix": 3523,
+      "text": "\nThey use rigorous protocols to protect medical personnel with disposable full-body suits, masks, goggles and gloves and disinfecting sprays.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      214,
+      263,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1928,
+      1966,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

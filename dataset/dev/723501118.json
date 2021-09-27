@@ -1,0 +1,345 @@
+{
+  "article_id": "723501118",
+  "sentence offsets in original": [
+    0,
+    120,
+    258,
+    283,
+    302,
+    339,
+    527,
+    694,
+    721,
+    889,
+    948,
+    1044,
+    1288,
+    1481,
+    1566,
+    1593,
+    1650,
+    1707,
+    1927,
+    1943,
+    2031,
+    2090,
+    2126,
+    2151,
+    2326,
+    2454,
+    2629,
+    2775
+  ],
+  "original sentences": [
+    "We Should Be More Like Sweden: Gov May Use Army Against Immigrant Gangs\n\nProgressives say we should be more like Sweden.",
+    "\nThat means turning our country into a hopeless hellhole where the native population is overtaxed and terrorized by warring foreign gangs.",
+    "\nWe're getting there too.",
+    "\nWhat should we do?",
+    "\nMaybe we should be more like Sweden?",
+    "\nSweden will do whatever it takes, including sending in the army, to end a wave of gang violence that has seen a string of deadly shootings, Prime Minister Stefan Lofven said in Wednesday.",
+    "\nSweden's murder rate is relatively low in international terms, but gang violence has surged in recent years and Swedes are worried that the police are unable to cope.",
+    "\nOf course they can't cope.",
+    "\nIt's Demolition Man in real life pitting refugee war criminals and terrorists against bureaucrats with badges who are used to telling people not to raise their voices.",
+    "\nFour people were shot dead in the first week of this year.",
+    "\nOne man died after picking up a hand grenade outside a subway station in a suburb of Stockholm.",
+    "\nLaw and order is likely to be a major issue in a parliamentary election scheduled for September with the populist, opposition Sweden Democrats linking public concern about the rising crime rate to a large increase in the numbers of immigrants.",
+    "\n\"It would not be my first option to bring in the military, but I am prepared to do whatever is necessary to make sure that serious, organized crime is stamped out,\" Lofven told news agency TT.",
+    "\nBringing in the military comes in as an option ahead of cutting migration to Sweden.",
+    "\nThat tells you everything.",
+    "\nWhy would anyone associate rising crime and immigration?",
+    "\nMaybe because the gangs in question are immigrant gangs.",
+    "\nThe government has promised police an extra 7.1 billion crowns ($880 million) through 2020, toughened laws on gun crimes and made it easier for the police to monitor private phone calls and emails, among other measures.",
+    "\nSound familiar?",
+    "\nMass repression and police powers that don't actually address the cause of the problem.",
+    "\nMeanwhile the Grenade Amnesty doesn't seem to have worked.",
+    "\nAnd the gang violence keeps rising.",
+    "\nBut who are these gangs?",
+    "\nThe criminal gang Loyal to Familia has already spread across Denmark from its base in the N\u00f8rrebro district of Copenhagen and now it appears to have set its sights on Sweden.",
+    "\nSwedish police told the Danish tabloid Ekstra Bladet that the gang is trying to build a presence in both Malm\u00f6 and Helsingborg.",
+    "\nAn expansion into Malm\u00f6 could be a recipe for increased violence in light of the fact that gun violence claimed the lives of 11 people in the southern Swedish city last year.",
+    "\nThe gang's leader, Shuaib Khan, confirmed that the group is eyeing the two Swedish cities but denied that Loyal to Familia was a \u201ccriminal gang\u201d.",
+    "\nJust one of those Danish gangs led by a fellow named Khan."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 120,
+      "text": "We Should Be More Like Sweden: Gov May Use Army Against Immigrant Gangs\n\nProgressives say we should be more like Sweden.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 120,
+      "end_ix": 258,
+      "text": "\nThat means turning our country into a hopeless hellhole where the native population is overtaxed and terrorized by warring foreign gangs.",
+      "new_text": "\nThat means turning our country into a place where the native population is overtaxed and affected by foreign states.",
+      "prop_spans": [
+        [
+          157,
+          176,
+          "Loaded_Language"
+        ],
+        [
+          157,
+          257,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 258,
+      "end_ix": 283,
+      "text": "\nWe're getting there too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 283,
+      "end_ix": 302,
+      "text": "\nWhat should we do?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 302,
+      "end_ix": 339,
+      "text": "\nMaybe we should be more like Sweden?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 339,
+      "end_ix": 527,
+      "text": "\nSweden will do whatever it takes, including sending in the army, to end a wave of gang violence that has seen a string of deadly shootings, Prime Minister Stefan Lofven said in Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 527,
+      "end_ix": 694,
+      "text": "\nSweden's murder rate is relatively low in international terms, but gang violence has surged in recent years and Swedes are worried that the police are unable to cope.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 694,
+      "end_ix": 721,
+      "text": "\nOf course they can't cope.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          695,
+          720,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 721,
+      "end_ix": 889,
+      "text": "\nIt's Demolition Man in real life pitting refugee war criminals and terrorists against bureaucrats with badges who are used to telling people not to raise their voices.",
+      "new_text": "\nIt's like pitting refugee war criminals and terrorists against bureaucrats with badges who are used to telling people not to raise their voices.",
+      "prop_spans": [
+        [
+          727,
+          741,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 889,
+      "end_ix": 948,
+      "text": "\nFour people were shot dead in the first week of this year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 948,
+      "end_ix": 1044,
+      "text": "\nOne man died after picking up a hand grenade outside a subway station in a suburb of Stockholm.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1044,
+      "end_ix": 1288,
+      "text": "\nLaw and order is likely to be a major issue in a parliamentary election scheduled for September with the populist, opposition Sweden Democrats linking public concern about the rising crime rate to a large increase in the numbers of immigrants.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1288,
+      "end_ix": 1481,
+      "text": "\n\"It would not be my first option to bring in the military, but I am prepared to do whatever is necessary to make sure that serious, organized crime is stamped out,\" Lofven told news agency TT.",
+      "new_text": "\n\"It would not be my first option to bring in the military, but I am prepared to do whatever is necessary to make sure that serious, organized crime is eliminated,\" Lofven told news agency TT.",
+      "prop_spans": [
+        [
+          1440,
+          1451,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1481,
+      "end_ix": 1566,
+      "text": "\nBringing in the military comes in as an option ahead of cutting migration to Sweden.",
+      "new_text": "\nBringing in the military comes in as an option ahead of cutting migration to Sweden.",
+      "prop_spans": [
+        [
+          1559,
+          1566,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1566,
+      "end_ix": 1593,
+      "text": "\nThat tells you everything.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1566,
+          1592,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1593,
+      "end_ix": 1650,
+      "text": "\nWhy would anyone associate rising crime and immigration?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1650,
+      "end_ix": 1707,
+      "text": "\nMaybe because the gangs in question are immigrant gangs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1707,
+      "end_ix": 1927,
+      "text": "\nThe government has promised police an extra 7.1 billion crowns ($880 million) through 2020, toughened laws on gun crimes and made it easier for the police to monitor private phone calls and emails, among other measures.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1927,
+      "end_ix": 1943,
+      "text": "\nSound familiar?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1943,
+      "end_ix": 2031,
+      "text": "\nMass repression and police powers that don't actually address the cause of the problem.",
+      "new_text": "\nMass repression and police powers that may not address the cause of the problem.",
+      "prop_spans": [
+        [
+          1944,
+          2030,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2031,
+      "end_ix": 2090,
+      "text": "\nMeanwhile the Grenade Amnesty doesn't seem to have worked.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2090,
+      "end_ix": 2126,
+      "text": "\nAnd the gang violence keeps rising.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2126,
+      "end_ix": 2151,
+      "text": "\nBut who are these gangs?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2151,
+      "end_ix": 2326,
+      "text": "\nThe criminal gang Loyal to Familia has already spread across Denmark from its base in the N\u00f8rrebro district of Copenhagen and now it appears to have set its sights on Sweden.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2326,
+      "end_ix": 2454,
+      "text": "\nSwedish police told the Danish tabloid Ekstra Bladet that the gang is trying to build a presence in both Malm\u00f6 and Helsingborg.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2454,
+      "end_ix": 2629,
+      "text": "\nAn expansion into Malm\u00f6 could be a recipe for increased violence in light of the fact that gun violence claimed the lives of 11 people in the southern Swedish city last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2629,
+      "end_ix": 2775,
+      "text": "\nThe gang's leader, Shuaib Khan, confirmed that the group is eyeing the two Swedish cities but denied that Loyal to Familia was a \u201ccriminal gang\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2775,
+      "end_ix": 2834,
+      "text": "\nJust one of those Danish gangs led by a fellow named Khan.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      157,
+      176,
+      "Loaded_Language"
+    ],
+    [
+      157,
+      257,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      695,
+      720,
+      "Doubt"
+    ],
+    [
+      727,
+      741,
+      "Loaded_Language"
+    ],
+    [
+      1440,
+      1451,
+      "Loaded_Language"
+    ],
+    [
+      1559,
+      1592,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1944,
+      2030,
+      "Doubt"
+    ]
+  ]
+}

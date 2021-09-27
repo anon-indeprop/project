@@ -1,0 +1,525 @@
+{
+  "article_id": "724791253",
+  "sentence offsets in original": [
+    0,
+    179,
+    401,
+    516,
+    630,
+    809,
+    982,
+    1053,
+    1082,
+    1113,
+    1171,
+    1367,
+    1425,
+    1552,
+    1806,
+    2021,
+    2144,
+    2514,
+    2683,
+    2769,
+    3081,
+    3371,
+    3643,
+    3911,
+    4040
+  ],
+  "original sentences": [
+    "London Borough With Highest Percentage Of Muslims In UK Votes To Ban Trump From Entering\n\nI\u2019m sure President Trump is deeply disappointed in not being able to enter Tower Hamlets.",
+    "\nBut this ridiculous exercise in virtue-signaling, even though it has not (yet) been taken up by the Home Office, only highlights Britain\u2019s hypocrisy and double standards regarding who can enter the country and who cannot.",
+    "\nPamela Geller and I are banned from entering the country for the crime of telling the truth about Islam and jihad.",
+    "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers without a moment of hesitation.",
+    "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+    "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+    "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+    "\nSecond \u2013 burn them to death.",
+    "\nThird \u2013 throw \u2019em off a cliff.",
+    "\nFourth \u2013 tear down a wall on them so they die under that.",
+    "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s relentlessly appeasement-minded government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+    "\nOne of them was welcomed by the Archbishop of Canterbury.",
+    "\nMeanwhile, the UK banned three bishops from areas of Iraq and Syria where Christians are persecuted from entering the country.",
+    "\n\u201cLondon: Muslim Enclave Votes to \u2018Ban Trump,\u2019\u201d by Liam Deacon, Breitbart, January 20, 2018:\nA London borough \u2013 which has the highest percentage of Muslims in the UK \u2013 has voted to ban U.S. President Donald J. Trump for the area, declaring him a \u201cbigot\u201d.",
+    "\nThe council has been at the centre of serious corruption scandals, including the removal of an Islamist mayor who was found guilty of bribing Muslim groups and wielding \u201cundue spiritual influence\u201d on Muslim voters.",
+    "\nThe anti-Trump motion, proposed by Councillor Ohid Ahmed and Councillor Oliur Rahman, passed by a majority vote this week.",
+    "\nIt calls for President Trump\u2019s planned state visit to the United Kingdom to be cancelled, adding: \u201cShould the Government still choose to go ahead with State Visit, this Council makes clear that President Trump would not be welcome in our Borough.\u201d The area in East London includes the famous Tower Bridge and Canary Wharf, but the ban does not appear to be enforceable.",
+    "\nThe current Labour mayor, John Biggs, complained that President Trump \u201cdoesn\u2019t applaud diversity [and] doesn\u2019t respect the culture of others and doesn\u2019t respect women\u201d.",
+    "\nThe mayor added: \u201cHe is failing in his leadership and we should not welcome him here.",
+    "\nWe must be vigorous in our intolerance of his intolerance.\u201d In response to the news, Peter Golds, the leader of the Conservatives group in the council, tweeted: \u201cIn 2015 one of the Tower Hamlets First election candidates tweeted \u2018let us support Hitler the Great.\u2019 These people, corruptly elected, have no shame.",
+    "\nFor the record, our group refused to vote in this farce.\u201d \u201cTower Hamlets is home to one of the country\u2019s most diverse communities,\u201d the motion begins, adding that it \u201chas the highest percentage of Muslim residents in England \u2013 35 per cent compared with the national average of 5 per cent\u201d.",
+    "\nAfter several paragraphs of platitudes about \u201ccommunity cohesion\u201d and \u201cdiversity\u201d, it says \u201cthis Council notes with shock and alarm the decision by Donald Trump, President of the United States, to \u2018retweet\u2019 Islamophobic propaganda from the Britain First Twitter account\u201d.",
+    "\nIt also bemoans that he has allegedly \u201cbigoted attitude towards women, ethnic minorities and Muslims which has resulted in examples of division and hatred within the USA and beyond\u201d and attacks his \u201cillogical\u201d decision to move the U.S. embassy in Israel to Jerusalem.",
+    "\nThe motion also notes that the neighbouring Royal Borough of Greenwich formally adopted a similar motion in December last year\u2026.",
+    "\nArticle posted with permission from Robert Spencer"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 179,
+      "text": "London Borough With Highest Percentage Of Muslims In UK Votes To Ban Trump From Entering\n\nI\u2019m sure President Trump is deeply disappointed in not being able to enter Tower Hamlets.",
+      "new_text": "London Borough With Highest Percentage Of Muslims In UK Votes To Ban Trump From Entering\n\nI\u2019m sure President Trump is disappointed in not being able to enter Tower Hamlets.",
+      "prop_spans": [
+        [
+          118,
+          137,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 179,
+      "end_ix": 401,
+      "text": "\nBut this ridiculous exercise in virtue-signaling, even though it has not (yet) been taken up by the Home Office, only highlights Britain\u2019s hypocrisy and double standards regarding who can enter the country and who cannot.",
+      "new_text": "\nBut this exercise in virtue-signaling, even though it has not (yet) been taken up by the Home Office, only highlights Britain\u2019s nature regarding who can enter the country and who cannot.",
+      "prop_spans": [
+        [
+          189,
+          229,
+          "Loaded_Language"
+        ],
+        [
+          319,
+          350,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 401,
+      "end_ix": 516,
+      "text": "\nPamela Geller and I are banned from entering the country for the crime of telling the truth about Islam and jihad.",
+      "new_text": "\nPamela Geller and I are banned from entering the country for the crime of telling about Islam.",
+      "prop_spans": [
+        [
+          459,
+          516,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 516,
+      "end_ix": 630,
+      "text": "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers without a moment of hesitation.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          516,
+          517,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          517,
+          630,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 630,
+      "end_ix": 809,
+      "text": "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+      "new_text": "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+      "prop_spans": [
+        [
+          630,
+          631,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 809,
+      "end_ix": 982,
+      "text": "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+      "new_text": "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there's homosexual men, the punishment is one of five things.",
+      "prop_spans": [
+        [
+          918,
+          982,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          918,
+          982,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 982,
+      "end_ix": 1053,
+      "text": "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+      "new_text": "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+      "prop_spans": [
+        [
+          982,
+          1053,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          982,
+          1053,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1053,
+      "end_ix": 1082,
+      "text": "\nSecond \u2013 burn them to death.",
+      "new_text": "\nSecond \u2013 burn them to death.",
+      "prop_spans": [
+        [
+          1053,
+          1082,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1053,
+          1082,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1082,
+      "end_ix": 1113,
+      "text": "\nThird \u2013 throw \u2019em off a cliff.",
+      "new_text": "\nThird \u2013 throw \u2019em off a cliff.",
+      "prop_spans": [
+        [
+          1082,
+          1113,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1082,
+          1113,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1113,
+      "end_ix": 1171,
+      "text": "\nFourth \u2013 tear down a wall on them so they die under that.",
+      "new_text": "\nFourth \u2013 tear down a wall on them so they die under that.",
+      "prop_spans": [
+        [
+          1113,
+          1171,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1113,
+          1171,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1171,
+      "end_ix": 1367,
+      "text": "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s relentlessly appeasement-minded government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+      "new_text": "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+      "prop_spans": [
+        [
+          1171,
+          1209,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1171,
+          1206,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1223,
+          1265,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1223,
+          1255,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1367,
+      "end_ix": 1425,
+      "text": "\nOne of them was welcomed by the Archbishop of Canterbury.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1425,
+      "end_ix": 1552,
+      "text": "\nMeanwhile, the UK banned three bishops from areas of Iraq and Syria where Christians are persecuted from entering the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1552,
+      "end_ix": 1806,
+      "text": "\n\u201cLondon: Muslim Enclave Votes to \u2018Ban Trump,\u2019\u201d by Liam Deacon, Breitbart, January 20, 2018:\nA London borough \u2013 which has the highest percentage of Muslims in the UK \u2013 has voted to ban U.S. President Donald J. Trump for the area, declaring him a \u201cbigot\u201d.",
+      "new_text": "\n\u201cLondon: Muslim Enclave Votes to \u2018Ban Trump,\u2019\u201d by Liam Deacon, Breitbart, January 20, 2018:\nA London borough \u2013 which has the highest percentage of Muslims in the UK \u2013 has voted to ban U.S. President Donald J. Trump for the area, declaring him a \u201cbigot\u201d.",
+      "prop_spans": [
+        [
+          1799,
+          1804,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1806,
+      "end_ix": 2021,
+      "text": "\nThe council has been at the centre of serious corruption scandals, including the removal of an Islamist mayor who was found guilty of bribing Muslim groups and wielding \u201cundue spiritual influence\u201d on Muslim voters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2021,
+      "end_ix": 2144,
+      "text": "\nThe anti-Trump motion, proposed by Councillor Ohid Ahmed and Councillor Oliur Rahman, passed by a majority vote this week.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2144,
+      "end_ix": 2514,
+      "text": "\nIt calls for President Trump\u2019s planned state visit to the United Kingdom to be cancelled, adding: \u201cShould the Government still choose to go ahead with State Visit, this Council makes clear that President Trump would not be welcome in our Borough.\u201d The area in East London includes the famous Tower Bridge and Canary Wharf, but the ban does not appear to be enforceable.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2514,
+      "end_ix": 2683,
+      "text": "\nThe current Labour mayor, John Biggs, complained that President Trump \u201cdoesn\u2019t applaud diversity [and] doesn\u2019t respect the culture of others and doesn\u2019t respect women\u201d.",
+      "new_text": "\nThe current Labour mayor, John Biggs, complained that President Trump \u201cdoesn\u2019t applaud diversity [and] doesn\u2019t respect the culture of others and doesn\u2019t respect women\u201d.",
+      "prop_spans": [
+        [
+          2585,
+          2611,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2683,
+      "end_ix": 2769,
+      "text": "\nThe mayor added: \u201cHe is failing in his leadership and we should not welcome him here.",
+      "new_text": "\nThe mayor added: \u201cHe is failing in his leadership and we should not welcome him here.",
+      "prop_spans": [
+        [
+          2702,
+          2769,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2769,
+      "end_ix": 3081,
+      "text": "\nWe must be vigorous in our intolerance of his intolerance.\u201d In response to the news, Peter Golds, the leader of the Conservatives group in the council, tweeted: \u201cIn 2015 one of the Tower Hamlets First election candidates tweeted \u2018let us support Hitler the Great.\u2019 These people, corruptly elected, have no shame.",
+      "new_text": "\nWe must be vigorous in our intolerance of his intolerance.\u201d In response to the news, Peter Golds, the leader of the Conservatives group in the council, tweeted: \u201cIn 2015 one of the Tower Hamlets First election candidates tweeted \u2018let us support Hitler the Great.\u2019 These people, corruptly elected, have no shame.",
+      "prop_spans": [
+        [
+          2769,
+          2827,
+          "Appeal_to_Authority"
+        ],
+        [
+          2770,
+          2829,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3015,
+          3031,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3015,
+          3033,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3048,
+          3066,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3081,
+      "end_ix": 3371,
+      "text": "\nFor the record, our group refused to vote in this farce.\u201d \u201cTower Hamlets is home to one of the country\u2019s most diverse communities,\u201d the motion begins, adding that it \u201chas the highest percentage of Muslim residents in England \u2013 35 per cent compared with the national average of 5 per cent\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3371,
+      "end_ix": 3643,
+      "text": "\nAfter several paragraphs of platitudes about \u201ccommunity cohesion\u201d and \u201cdiversity\u201d, it says \u201cthis Council notes with shock and alarm the decision by Donald Trump, President of the United States, to \u2018retweet\u2019 Islamophobic propaganda from the Britain First Twitter account\u201d.",
+      "new_text": "\nAfter several paragraphs of platitudes about \u201ccommunity cohesion\u201d and \u201cdiversity\u201d, it says \u201cthis Council notes with shock and alarm the decision by Donald Trump, President of the United States, to \u2018retweet\u2019 Islamophobic propaganda from the Britain First Twitter account\u201d.",
+      "prop_spans": [
+        [
+          3488,
+          3504,
+          "Loaded_Language"
+        ],
+        [
+          3579,
+          3602,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3643,
+      "end_ix": 3911,
+      "text": "\nIt also bemoans that he has allegedly \u201cbigoted attitude towards women, ethnic minorities and Muslims which has resulted in examples of division and hatred within the USA and beyond\u201d and attacks his \u201cillogical\u201d decision to move the U.S. embassy in Israel to Jerusalem.",
+      "new_text": "\nIt also bemoans that he has allegedly \u201cbigoted attitude towards women, ethnic minorities and Muslims which has resulted in examples of division and hatred within the USA and beyond\u201d and attacks his \u201cillogical\u201d decision to move the U.S. embassy in Israel to Jerusalem.",
+      "prop_spans": [
+        [
+          3665,
+          3744,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3911,
+      "end_ix": 4040,
+      "text": "\nThe motion also notes that the neighbouring Royal Borough of Greenwich formally adopted a similar motion in December last year\u2026.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3912,
+          4040,
+          "Bandwagon"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4040,
+      "end_ix": 4091,
+      "text": "\nArticle posted with permission from Robert Spencer",
+      "new_text": "\nArticle posted with permission from Robert Spencer",
+      "prop_spans": [
+        [
+          4040,
+          4041,
+          "Bandwagon"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      118,
+      137,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      189,
+      229,
+      "Loaded_Language"
+    ],
+    [
+      319,
+      350,
+      "Loaded_Language"
+    ],
+    [
+      459,
+      517,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      517,
+      631,
+      "Whataboutism"
+    ],
+    [
+      918,
+      1209,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      918,
+      1206,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1223,
+      1265,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1223,
+      1255,
+      "Loaded_Language"
+    ],
+    [
+      1799,
+      1804,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2585,
+      2611,
+      "Loaded_Language"
+    ],
+    [
+      2702,
+      2827,
+      "Appeal_to_Authority"
+    ],
+    [
+      2770,
+      2829,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3015,
+      3031,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3015,
+      3033,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3048,
+      3066,
+      "Loaded_Language"
+    ],
+    [
+      3488,
+      3504,
+      "Loaded_Language"
+    ],
+    [
+      3579,
+      3602,
+      "Loaded_Language"
+    ],
+    [
+      3665,
+      3744,
+      "Loaded_Language"
+    ],
+    [
+      3912,
+      4041,
+      "Bandwagon"
+    ]
+  ]
+}

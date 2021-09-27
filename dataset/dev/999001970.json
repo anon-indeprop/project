@@ -1,0 +1,300 @@
+{
+  "article_id": "999001970",
+  "sentence offsets in original": [
+    0,
+    96,
+    185,
+    214,
+    250,
+    531,
+    660,
+    767,
+    987,
+    1206,
+    1301,
+    1375,
+    1402,
+    1606,
+    1675,
+    2008,
+    2024,
+    2042,
+    2153,
+    2260,
+    2432,
+    2610
+  ],
+  "original sentences": [
+    "SNL Indian Comedian Silenced for \"Offensive Jokes\" at Columbia\n\nAndy Warhol was only half-right.",
+    "\nIn the future everyone will be the subject of social justice crybullying for 15 minutes.",
+    "\nAlso the Left killed comedy.",
+    "\nThis is what its corpse looks like.",
+    "\nSaturday Night Live writer and comedian Nimesh Patel was pulled from the stage by event organizers after telling jokes that were criticized as racist and homophobic during his performance at cultureSHOCK: Reclaim, an event held by Columbia Asian American Alliance on Friday night.",
+    "\nPatel, 32, was the first Indian-American writer for SNL, and has since been nominated for an Emmy Award for Outstanding Writing.",
+    "\nPatel has previously performed on Late Night with Seth Meyers and opened for comedians such as Chris Rock.",
+    "\nDuring the event, Patel\u2019s performance featured commentary on his experience living in a diverse area of New York City\u2014including a joke about a gay, black man in his neighborhood\u2014which AAA officials deemed inappropriate.",
+    "\nPatel joked that being gay cannot be a choice because \u201cno one looks in the mirror and thinks, \u2018this black thing is too easy, let me just add another thing to it.\u2019\u201d\nThat's what Columbia snowflakes thought was offensive.",
+    "\nI can't imagine what they would have made of Richard Pryor, or at this point even, Chris Rock.",
+    "\nIt's also a version of a Sammy Davis Jr joke about converting to Judaism.",
+    "\nWhich is now a hate crime.",
+    "\nAbout 30 minutes into Patel\u2019s set, members of AAA interrupted the performance, denounced his jokes about racial identities and sexual orientation, and provided him with a few moments for closing remarks.",
+    "\nComrades, these jokes you have been listening to are thought crimes!",
+    "\nPatel pushed back on the officials\u2019 remarks, and said that while he stood in solidarity with Asian American identities, none of his remarks were offensive, and he was exposing the audience to ideas that would be found \u201cin the real world.\u201d Before he could finish, Patel\u2019s microphone was cut from off-stage, and he proceeded to leave.",
+    "\nThe real world?",
+    "\nThis is Columbia.",
+    "\nFor Sofia Jao, BC \u201822, problems with the performance resided not in the set, but with Patel\u2019s closing remarks.",
+    "\n\u201cI really dislike when people who are older say that our generation needs to be exposed to the real world.",
+    "\nObviously the world is not a safe space but just accepting that it\u2019s not and continuing to perpetuate the un-safeness of it\u2026 is saying that it can\u2019t be changed,\u201d said Jao.",
+    "\n\u201cWhen older generations say you need to stop being so sensitive, it\u2019s like undermining what our generation is trying to do in accepting others and making it safer.\u201d\nPatel is 32.",
+    "\nI'm sure Patel felt very, like, accepted."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 96,
+      "text": "SNL Indian Comedian Silenced for \"Offensive Jokes\" at Columbia\n\nAndy Warhol was only half-right.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 96,
+      "end_ix": 185,
+      "text": "\nIn the future everyone will be the subject of social justice crybullying for 15 minutes.",
+      "new_text": "\nIn the future everyone will be the subject of social justice bullying for 15 minutes.",
+      "prop_spans": [
+        [
+          143,
+          170,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 185,
+      "end_ix": 214,
+      "text": "\nAlso the Left killed comedy.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          186,
+          214,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          191,
+          213,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 214,
+      "end_ix": 250,
+      "text": "\nThis is what its corpse looks like.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          214,
+          249,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 250,
+      "end_ix": 531,
+      "text": "\nSaturday Night Live writer and comedian Nimesh Patel was pulled from the stage by event organizers after telling jokes that were criticized as racist and homophobic during his performance at cultureSHOCK: Reclaim, an event held by Columbia Asian American Alliance on Friday night.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 531,
+      "end_ix": 660,
+      "text": "\nPatel, 32, was the first Indian-American writer for SNL, and has since been nominated for an Emmy Award for Outstanding Writing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 660,
+      "end_ix": 767,
+      "text": "\nPatel has previously performed on Late Night with Seth Meyers and opened for comedians such as Chris Rock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 767,
+      "end_ix": 987,
+      "text": "\nDuring the event, Patel\u2019s performance featured commentary on his experience living in a diverse area of New York City\u2014including a joke about a gay, black man in his neighborhood\u2014which AAA officials deemed inappropriate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 987,
+      "end_ix": 1206,
+      "text": "\nPatel joked that being gay cannot be a choice because \u201cno one looks in the mirror and thinks, \u2018this black thing is too easy, let me just add another thing to it.\u2019\u201d\nThat's what Columbia snowflakes thought was offensive.",
+      "new_text": "\nPatel joked that being gay cannot be a choice because \u201cno one looks in the mirror and thinks, \u2018this black thing is too easy, let me just add another thing to it.\u2019\u201d\nThat's what people from Columbia thought was offensive.",
+      "prop_spans": [
+        [
+          1043,
+          1148,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1164,
+          1184,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1206,
+      "end_ix": 1301,
+      "text": "\nI can't imagine what they would have made of Richard Pryor, or at this point even, Chris Rock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1301,
+      "end_ix": 1375,
+      "text": "\nIt's also a version of a Sammy Davis Jr joke about converting to Judaism.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1375,
+      "end_ix": 1402,
+      "text": "\nWhich is now a hate crime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1402,
+      "end_ix": 1606,
+      "text": "\nAbout 30 minutes into Patel\u2019s set, members of AAA interrupted the performance, denounced his jokes about racial identities and sexual orientation, and provided him with a few moments for closing remarks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1606,
+      "end_ix": 1675,
+      "text": "\nComrades, these jokes you have been listening to are thought crimes!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1607,
+          1674,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1660,
+          1674,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1675,
+      "end_ix": 2008,
+      "text": "\nPatel pushed back on the officials\u2019 remarks, and said that while he stood in solidarity with Asian American identities, none of his remarks were offensive, and he was exposing the audience to ideas that would be found \u201cin the real world.\u201d Before he could finish, Patel\u2019s microphone was cut from off-stage, and he proceeded to leave.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2008,
+      "end_ix": 2024,
+      "text": "\nThe real world?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2024,
+      "end_ix": 2042,
+      "text": "\nThis is Columbia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2042,
+      "end_ix": 2153,
+      "text": "\nFor Sofia Jao, BC \u201822, problems with the performance resided not in the set, but with Patel\u2019s closing remarks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2153,
+      "end_ix": 2260,
+      "text": "\n\u201cI really dislike when people who are older say that our generation needs to be exposed to the real world.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2260,
+      "end_ix": 2432,
+      "text": "\nObviously the world is not a safe space but just accepting that it\u2019s not and continuing to perpetuate the un-safeness of it\u2026 is saying that it can\u2019t be changed,\u201d said Jao.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2432,
+      "end_ix": 2610,
+      "text": "\n\u201cWhen older generations say you need to stop being so sensitive, it\u2019s like undermining what our generation is trying to do in accepting others and making it safer.\u201d\nPatel is 32.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2610,
+      "end_ix": 2652,
+      "text": "\nI'm sure Patel felt very, like, accepted.",
+      "new_text": "Patel probably did not feel accepted.",
+      "prop_spans": [
+        [
+          2611,
+          2651,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      143,
+      170,
+      "Loaded_Language"
+    ],
+    [
+      186,
+      249,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      191,
+      213,
+      "Slogans"
+    ],
+    [
+      1043,
+      1148,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1164,
+      1184,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1607,
+      1674,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1660,
+      1674,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2611,
+      2651,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

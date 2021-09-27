@@ -1,0 +1,484 @@
+{
+  "article_id": "706777811",
+  "sentence offsets in original": [
+    0,
+    270,
+    489,
+    753,
+    868,
+    1043,
+    1235,
+    1340,
+    1396,
+    1509,
+    1686,
+    1840,
+    1987,
+    2123,
+    2290,
+    2450,
+    2697,
+    2782,
+    2952,
+    3048,
+    3199,
+    3291,
+    3381,
+    3493,
+    3621,
+    3763
+  ],
+  "original sentences": [
+    "Black Death: \u2018It\u2019s 100 % Likely\u2019 It Spreads To The UK And A \u2018Ticking Time Bomb\u2019 Ready To Decimate The World\n\nThe death toll in Madagascar due to the plague has jumped for the first time since health officials claimed the infection was in the beginning stages of control.",
+    "\nWith the new uptick in those who died, the fear that the disease will spread to the United Kingdom has been confirmed as \u201c100 percent likely.\u201d\nThe plague death toll has now shown signs that it\u2019s picking up speed again.",
+    "\nOfficial figures reveal 165 people have now lost their lives in Madagascar\u2019s \u201cworst outbreak in 50 years.\u201d Recent data shows a 15 percent jump in fatalities over just three days, coupled with scientists concerned that the black death has reached a \u201ccrisis\u201d point.",
+    "\nTen other African countries have also been placed on high alert, warning that an outbreak could occur at any time.",
+    "\nAt least 2,034 people have been infected down by a more lethal form of the black death so far in the country, which lies off the coast of Africa, according to WHO statistics.",
+    "\nSome experts fear the disease (which is so deadly because it is airborne) could mutate and become untreatable during this year\u2019s outbreak \u2013 which is expected to blight Madagascar until April.",
+    "\nOthers worry the plague will go beyond mainland Africa and eventually reach the US, Europe, and Britain.",
+    "\nThe plague spreads easily and can kill within 48 hours.",
+    "\nThat would leave millions more vulnerable to the outbreak, and create a short supply of life-saving antibiotics.",
+    "\nAccording to the Daily Mail, experts warn the outbreak of plague in Madagascar this year is being fueled by a strain more lethal than the one which usually strikes the country.",
+    "\nThis form of the pneumonic plague is airborne, easily spread by a cough or a sneeze, and has been responsible for two-thirds of all infections this year.",
+    "\nThe bubonic form of the plague, responsible for the \u201cBlack Death\u201d in the 14th century strikes the country each year and infects around 600 people.",
+    "\nBut with over 2000 alread infected by pneumonic plague (and counting) health officials aren\u2019t willing to quit sounding alarms just yet.",
+    "\nPaul Hunter, a professor of health protection at the world-renowned University of East Anglia, was the first expert to predict the plague could travel across the sea.",
+    "\nHe previously said: \u201cThe big anxiety is it could spread to mainland Africa, it\u2019s not probable, but certainly possible, that might then be difficult to control.",
+    "\nIf we don\u2019t carry on doing stuff here, at one point something will happen and it will get out of our control and cause huge devastation all around the world.\u201d There is always a risk with travel that the disease will spread globally, Hunter added.",
+    "\n\u201cWe don\u2019t want a situation where the disease spreads so fast it gets out of control.",
+    "\nWe are talking about it spreading in days rather than weeks.\u201d But Hunter is adamant that a well-developed country could manage the plague should a global outbreak occur.",
+    "\nHopefully, most will never have to find out how well another country can manage this infection.",
+    "\nA few health experts have warned that there is no threat to the UK, however, some have warned the plague outbreak will certainly spread to the region.",
+    "\nRichard Conroy, the founder of Sick Holiday, has sent a chilling warning to UK authorities.",
+    "\nConway is saying it\u2019s \u201conly a matter of time\u201d before the disease arrives on British soil.",
+    "\nConroy warned it is inevitable that the plague will spread due to the vast movement of people across the globe.",
+    "\n\u201cI believe that it\u2019s 100 percent likely that plague will arrive in the UK once more \u2013 it\u2019s just a question of \u2018when\u2019, not \u2018if\u2019.",
+    "\nAnd it\u2019s not an exaggeration to say that this is a real threat \u2013 a ticking time bomb that\u2019s waiting to decimate the world,\u201d Conroy continued.",
+    "\n\u201cWith the current outbreak still remaining treatable with antibiotics, however, the current risk is low.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 270,
+      "text": "Black Death: \u2018It\u2019s 100 % Likely\u2019 It Spreads To The UK And A \u2018Ticking Time Bomb\u2019 Ready To Decimate The World\n\nThe death toll in Madagascar due to the plague has jumped for the first time since health officials claimed the infection was in the beginning stages of control.",
+      "new_text": "Black Death: \u2018It\u2019s 100 % Likely\u2019 It Spreads To The UK And A \u2018Ticking Time Bomb\u2019 Ready To Decimate The World\n\nThe death toll in Madagascar due to the plague has jumped for the first time since health officials claimed the infection was in the beginning stages of control.",
+      "prop_spans": [
+        [
+          0,
+          11,
+          "Name_Calling,Labeling"
+        ],
+        [
+          58,
+          107,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 270,
+      "end_ix": 489,
+      "text": "\nWith the new uptick in those who died, the fear that the disease will spread to the United Kingdom has been confirmed as \u201c100 percent likely.\u201d\nThe plague death toll has now shown signs that it\u2019s picking up speed again.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 489,
+      "end_ix": 753,
+      "text": "\nOfficial figures reveal 165 people have now lost their lives in Madagascar\u2019s \u201cworst outbreak in 50 years.\u201d Recent data shows a 15 percent jump in fatalities over just three days, coupled with scientists concerned that the black death has reached a \u201ccrisis\u201d point.",
+      "new_text": "\nOfficial figures reveal 165 people have now lost their lives in Madagascar\u2019s \u201cworst outbreak in 50 years.\u201d Recent data shows a 15 percent jump in fatalities over just three days, coupled with scientists concerned that the black death has reached a \u201ccrisis\u201d point.",
+      "prop_spans": [
+        [
+          567,
+          596,
+          "Appeal_to_Authority"
+        ],
+        [
+          567,
+          596,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 753,
+      "end_ix": 868,
+      "text": "\nTen other African countries have also been placed on high alert, warning that an outbreak could occur at any time.",
+      "new_text": "\nTen other African countries have also been placed on high alert, warning that an outbreak could occur.",
+      "prop_spans": [
+        [
+          807,
+          817,
+          "Loaded_Language"
+        ],
+        [
+          819,
+          867,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 868,
+      "end_ix": 1043,
+      "text": "\nAt least 2,034 people have been infected down by a more lethal form of the black death so far in the country, which lies off the coast of Africa, according to WHO statistics.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1043,
+      "end_ix": 1235,
+      "text": "\nSome experts fear the disease (which is so deadly because it is airborne) could mutate and become untreatable during this year\u2019s outbreak \u2013 which is expected to blight Madagascar until April.",
+      "new_text": "\nSome experts think that the disease (which is so deadly because it is airborne) could become untreatable during this year\u2019s outbreak \u2013 which is expected to blight Madagascar until April.",
+      "prop_spans": [
+        [
+          1049,
+          1061,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1118,
+          1153,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1235,
+      "end_ix": 1340,
+      "text": "\nOthers worry the plague will go beyond mainland Africa and eventually reach the US, Europe, and Britain.",
+      "new_text": "\nOthers worry the plague might go beyond mainland Africa and eventually reach the US, Europe, and Britain.",
+      "prop_spans": [
+        [
+          1249,
+          1274,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1340,
+      "end_ix": 1396,
+      "text": "\nThe plague spreads easily and can kill within 48 hours.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1396,
+      "end_ix": 1509,
+      "text": "\nThat would leave millions more vulnerable to the outbreak, and create a short supply of life-saving antibiotics.",
+      "new_text": "\nThat would leave millions more vulnerable to the outbreak, and create a short supply of life-saving antibiotics.",
+      "prop_spans": [
+        [
+          1408,
+          1481,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1509,
+      "end_ix": 1686,
+      "text": "\nAccording to the Daily Mail, experts warn the outbreak of plague in Madagascar this year is being fueled by a strain more lethal than the one which usually strikes the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1686,
+      "end_ix": 1840,
+      "text": "\nThis form of the pneumonic plague is airborne, easily spread by a cough or a sneeze, and has been responsible for two-thirds of all infections this year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1840,
+      "end_ix": 1987,
+      "text": "\nThe bubonic form of the plague, responsible for the \u201cBlack Death\u201d in the 14th century strikes the country each year and infects around 600 people.",
+      "new_text": "\nThe bubonic form of the plague, responsible for the \u201cBlack Death\u201d in the 14th century strikes the country each year and infects around 600 people.",
+      "prop_spans": [
+        [
+          1893,
+          1906,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1987,
+      "end_ix": 2123,
+      "text": "\nBut with over 2000 alread infected by pneumonic plague (and counting) health officials aren\u2019t willing to quit sounding alarms just yet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2123,
+      "end_ix": 2290,
+      "text": "\nPaul Hunter, a professor of health protection at the world-renowned University of East Anglia, was the first expert to predict the plague could travel across the sea.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2290,
+      "end_ix": 2450,
+      "text": "\nHe previously said: \u201cThe big anxiety is it could spread to mainland Africa, it\u2019s not probable, but certainly possible, that might then be difficult to control.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2450,
+      "end_ix": 2697,
+      "text": "\nIf we don\u2019t carry on doing stuff here, at one point something will happen and it will get out of our control and cause huge devastation all around the world.\u201d There is always a risk with travel that the disease will spread globally, Hunter added.",
+      "new_text": "\nIf we don\u2019t carry on doing stuff here, at one point something will happen and it will get out of our control and cause huge devastation all around the world.\u201d There is always a risk with travel that the disease will spread globally, Hunter added.",
+      "prop_spans": [
+        [
+          2451,
+          2607,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          2654,
+          2682,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2697,
+      "end_ix": 2782,
+      "text": "\n\u201cWe don\u2019t want a situation where the disease spreads so fast it gets out of control.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2782,
+      "end_ix": 2952,
+      "text": "\nWe are talking about it spreading in days rather than weeks.\u201d But Hunter is adamant that a well-developed country could manage the plague should a global outbreak occur.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2952,
+      "end_ix": 3048,
+      "text": "\nHopefully, most will never have to find out how well another country can manage this infection.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3048,
+      "end_ix": 3199,
+      "text": "\nA few health experts have warned that there is no threat to the UK, however, some have warned the plague outbreak will certainly spread to the region.",
+      "new_text": "\nA few health experts have warned that there is no threat to the UK, however, some have warned the plague outbreak might spread to the region.",
+      "prop_spans": [
+        [
+          3126,
+          3199,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3199,
+      "end_ix": 3291,
+      "text": "\nRichard Conroy, the founder of Sick Holiday, has sent a chilling warning to UK authorities.",
+      "new_text": "\nRichard Conroy, the founder of Sick Holiday, has sent a warning to UK authorities.",
+      "prop_spans": [
+        [
+          3199,
+          3199,
+          "Appeal_to_Authority"
+        ],
+        [
+          3256,
+          3272,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3291,
+      "end_ix": 3381,
+      "text": "\nConway is saying it\u2019s \u201conly a matter of time\u201d before the disease arrives on British soil.",
+      "new_text": "\nConway is saying it\u2019s \u201conly a matter of time\u201d before the disease arrives on British soil.",
+      "prop_spans": [
+        [
+          3302,
+          3381,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3381,
+      "end_ix": 3493,
+      "text": "\nConroy warned it is inevitable that the plague will spread due to the vast movement of people across the globe.",
+      "new_text": "\nConroy warned it is inevitable that the plague will spread due to the vast movement of people across the globe.",
+      "prop_spans": [
+        [
+          3381,
+          3381,
+          "Repetition"
+        ],
+        [
+          3389,
+          3440,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3493,
+      "end_ix": 3621,
+      "text": "\n\u201cI believe that it\u2019s 100 percent likely that plague will arrive in the UK once more \u2013 it\u2019s just a question of \u2018when\u2019, not \u2018if\u2019.",
+      "new_text": "\n\u201cI believe that it\u2019s 100 percent likely that plague will arrive in the UK once more \u2013 it\u2019s just a question of \u2018when\u2019, not \u2018if\u2019.",
+      "prop_spans": [
+        [
+          3493,
+          3577,
+          "Appeal_to_Authority"
+        ],
+        [
+          3493,
+          3621,
+          "Repetition"
+        ],
+        [
+          3580,
+          3620,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3621,
+      "end_ix": 3763,
+      "text": "\nAnd it\u2019s not an exaggeration to say that this is a real threat \u2013 a ticking time bomb that\u2019s waiting to decimate the world,\u201d Conroy continued.",
+      "new_text": "\nAnd it\u2019s not an exaggeration to say that this is a real threat \u2013 a ticking time bomb that\u2019s waiting to decimate the world,\u201d Conroy continued.",
+      "prop_spans": [
+        [
+          3621,
+          3621,
+          "Repetition"
+        ],
+        [
+          3687,
+          3743,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3763,
+      "end_ix": 3869,
+      "text": "\n\u201cWith the current outbreak still remaining treatable with antibiotics, however, the current risk is low.\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      11,
+      "Name_Calling,Labeling"
+    ],
+    [
+      58,
+      107,
+      "Name_Calling,Labeling"
+    ],
+    [
+      567,
+      596,
+      "Appeal_to_Authority"
+    ],
+    [
+      567,
+      596,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      807,
+      817,
+      "Loaded_Language"
+    ],
+    [
+      819,
+      867,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1049,
+      1061,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1118,
+      1153,
+      "Appeal_to_Authority"
+    ],
+    [
+      1249,
+      1274,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1408,
+      1481,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1893,
+      1906,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2451,
+      2607,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2654,
+      2682,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3126,
+      3199,
+      "Appeal_to_Authority"
+    ],
+    [
+      3256,
+      3272,
+      "Loaded_Language"
+    ],
+    [
+      3302,
+      3381,
+      "Repetition"
+    ],
+    [
+      3389,
+      3440,
+      "Repetition"
+    ],
+    [
+      3493,
+      3577,
+      "Appeal_to_Authority"
+    ],
+    [
+      3493,
+      3621,
+      "Repetition"
+    ],
+    [
+      3580,
+      3620,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3687,
+      3743,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

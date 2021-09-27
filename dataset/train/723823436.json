@@ -1,0 +1,355 @@
+{
+  "article_id": "723823436",
+  "sentence offsets in original": [
+    0,
+    325,
+    482,
+    587,
+    624,
+    1078,
+    1270,
+    1436,
+    1449,
+    1528,
+    1580,
+    1679,
+    1861,
+    1957,
+    1979,
+    2059,
+    2088,
+    2224,
+    2378,
+    2567,
+    2658,
+    2698,
+    3143,
+    3311,
+    3458,
+    3586,
+    3679,
+    3727,
+    3748
+  ],
+  "original sentences": [
+    "Congressman: \"Credible Evidence\" Of \u201cTerrorist Infiltration Through the Southern Border\u201d Related To Las Vegas Shooting\n\nWe have had the Islamic State claim over and over that they were taking credit for the mass shooting that took place in Las Vegas on October 1, 2017, and that Stephen Paddock was a recent convert to Islam.",
+    "\nNow, a congressman is saying there is \"credible evidence\" of \"terrorist infiltration through the southern border\" that is related to the Las Vegas shooting.",
+    "\nIf you recall, the Islamic State has never claimed responsibility for attacks they were not involved in.",
+    "\nHere are just a few of those claims.",
+    "\nIn Naba 100 #ISIS featured an infographic on #LasVegas attack & indicated the shooter, \"Abu Abdul Barr al-Amriki,\" converted 6 months ago pic.twitter.com/5JhMFbU2Se \u2014 SITE Intel Group (@siteintelgroup) October 5, 2017\nOn Thursday evening, Representative Scott Perry (R-PA) appeared on Tucker Carlson tonight and said that he has evidence that the Islamic State may be telling the truth and that they may actually have been involved in the deadly attack.",
+    "\nPerry brought up the fact that we can't seem to get information in the case that the public needs to be made aware of, something that was brought up in a district courtroom earlier this week.",
+    "\nAdditionally, the family of Stephen Paddock just received his cremated remains on Thursday and his brother said that the family has yet to receive an autopsy report.",
+    "\nWhy is that?",
+    "\nEveryone who was killed that night had autopsies and those have been released.",
+    "\nWe're told Paddock shot himself in the head, right?",
+    "\nWhy would the autopsy report be something that needs to be withheld from the public or his family?",
+    "\n\"Recently I\u2019ve been made aware of what I believe to be credible evidence regarding potential terrorist infiltration through the southern border regarding this incident,\" Perry said.",
+    "\n\"Twice before the attack, ISIS warned the United States they would attack Las Vegas,\" he added.",
+    "\n\"In June and August.\"",
+    "\n\"And then after the attack claimed responsibility four times,\" Perry continued.",
+    "\n\"Something\u2019s not adding up.\"",
+    "\n\"I\u2019m just telling you I have received what I feel to be and believe to be credible evidence of a possible terrorist nexus,\" Perry said.",
+    "\nThe investigation has been conducted by local and state police, not the feds, and yet, they continue to claim there is not Islamic terrorist involvement.",
+    "\nYet, though they claim that Paddock was a lone gunman, they continue to withhold video of him in Mandalay Bay because they are still investigating other suspects to charge in the shooting.",
+    "\nAnd no one seems to know where alleged Mandalay Bay security guard Jesus Campos is either.",
+    "\nNone of this is really that surprising.",
+    "\nIf you recall, we reported on Islamic terrorists settling into Mexico and crossing the border some years back and that came out as the infamous \"Gang of Eight\" were working on an immigration deal and had rejected building the 700 miles of double-tier border fencing Congress authorized just seven years ago, with a majority of the Senate saying they didn't want to delay granting illegal immigrants legal status while the fence was being built.",
+    "\nThree years prior to that report, there was a video report that seems to have provided a bit of evidence to the claim that Islamists were crossing our southern border.",
+    "\nAnd even though Islamic jihadis have been apprehended on our border in 2014, the Homeland Security waved their hand and said, \"There's no threat.\"",
+    "\nIn fact, DHS had denied Muslim terrorists were crossing the border, but a local investigator produced evidence to the contrary.",
+    "\nReports indicated that some jihadis were paying as much as $50,000 to get across the border.",
+    "\nThis has been documented for several years now.",
+    "\nIt's not surprising.",
+    "\nWhat is surprising is the level of secrecy surrounding the Las Vegas shooting and the containment of information more than three months after it occurred."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 325,
+      "text": "Congressman: \"Credible Evidence\" Of \u201cTerrorist Infiltration Through the Southern Border\u201d Related To Las Vegas Shooting\n\nWe have had the Islamic State claim over and over that they were taking credit for the mass shooting that took place in Las Vegas on October 1, 2017, and that Stephen Paddock was a recent convert to Islam.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 325,
+      "end_ix": 482,
+      "text": "\nNow, a congressman is saying there is \"credible evidence\" of \"terrorist infiltration through the southern border\" that is related to the Las Vegas shooting.",
+      "new_text": "\nNow, a congressman is saying there is \"credible evidence\" of \"terrorist infiltration through the southern border\" that is related to the Las Vegas shooting.",
+      "prop_spans": [
+        [
+          365,
+          382,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 482,
+      "end_ix": 587,
+      "text": "\nIf you recall, the Islamic State has never claimed responsibility for attacks they were not involved in.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 587,
+      "end_ix": 624,
+      "text": "\nHere are just a few of those claims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 624,
+      "end_ix": 1078,
+      "text": "\nIn Naba 100 #ISIS featured an infographic on #LasVegas attack & indicated the shooter, \"Abu Abdul Barr al-Amriki,\" converted 6 months ago pic.twitter.com/5JhMFbU2Se \u2014 SITE Intel Group (@siteintelgroup) October 5, 2017\nOn Thursday evening, Representative Scott Perry (R-PA) appeared on Tucker Carlson tonight and said that he has evidence that the Islamic State may be telling the truth and that they may actually have been involved in the deadly attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1078,
+      "end_ix": 1270,
+      "text": "\nPerry brought up the fact that we can't seem to get information in the case that the public needs to be made aware of, something that was brought up in a district courtroom earlier this week.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1270,
+      "end_ix": 1436,
+      "text": "\nAdditionally, the family of Stephen Paddock just received his cremated remains on Thursday and his brother said that the family has yet to receive an autopsy report.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1436,
+      "end_ix": 1449,
+      "text": "\nWhy is that?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1449,
+      "end_ix": 1528,
+      "text": "\nEveryone who was killed that night had autopsies and those have been released.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1528,
+      "end_ix": 1580,
+      "text": "\nWe're told Paddock shot himself in the head, right?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1580,
+      "end_ix": 1679,
+      "text": "\nWhy would the autopsy report be something that needs to be withheld from the public or his family?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1581,
+          1679,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1679,
+      "end_ix": 1861,
+      "text": "\n\"Recently I\u2019ve been made aware of what I believe to be credible evidence regarding potential terrorist infiltration through the southern border regarding this incident,\" Perry said.",
+      "new_text": "\n\"Recently I\u2019ve been made aware of what I believe to be credible evidence regarding potential terrorist infiltration through the southern border regarding this incident,\" Perry said.",
+      "prop_spans": [
+        [
+          1679,
+          1680,
+          "Doubt"
+        ],
+        [
+          1735,
+          1752,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1861,
+      "end_ix": 1957,
+      "text": "\n\"Twice before the attack, ISIS warned the United States they would attack Las Vegas,\" he added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1957,
+      "end_ix": 1979,
+      "text": "\n\"In June and August.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1979,
+      "end_ix": 2059,
+      "text": "\n\"And then after the attack claimed responsibility four times,\" Perry continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2059,
+      "end_ix": 2088,
+      "text": "\n\"Something\u2019s not adding up.\"",
+      "new_text": "\n\"Something\u2019s not adding up.\"",
+      "prop_spans": [
+        [
+          2061,
+          2088,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2088,
+      "end_ix": 2224,
+      "text": "\n\"I\u2019m just telling you I have received what I feel to be and believe to be credible evidence of a possible terrorist nexus,\" Perry said.",
+      "new_text": "\n\"I\u2019m just telling you I have received what I feel to be and believe to be credible evidence of a possible terrorist nexus,\" Perry said.",
+      "prop_spans": [
+        [
+          2088,
+          2088,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2224,
+      "end_ix": 2378,
+      "text": "\nThe investigation has been conducted by local and state police, not the feds, and yet, they continue to claim there is not Islamic terrorist involvement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2378,
+      "end_ix": 2567,
+      "text": "\nYet, though they claim that Paddock was a lone gunman, they continue to withhold video of him in Mandalay Bay because they are still investigating other suspects to charge in the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2567,
+      "end_ix": 2658,
+      "text": "\nAnd no one seems to know where alleged Mandalay Bay security guard Jesus Campos is either.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2658,
+      "end_ix": 2698,
+      "text": "\nNone of this is really that surprising.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2698,
+      "end_ix": 3143,
+      "text": "\nIf you recall, we reported on Islamic terrorists settling into Mexico and crossing the border some years back and that came out as the infamous \"Gang of Eight\" were working on an immigration deal and had rejected building the 700 miles of double-tier border fencing Congress authorized just seven years ago, with a majority of the Senate saying they didn't want to delay granting illegal immigrants legal status while the fence was being built.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3143,
+      "end_ix": 3311,
+      "text": "\nThree years prior to that report, there was a video report that seems to have provided a bit of evidence to the claim that Islamists were crossing our southern border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3311,
+      "end_ix": 3458,
+      "text": "\nAnd even though Islamic jihadis have been apprehended on our border in 2014, the Homeland Security waved their hand and said, \"There's no threat.\"",
+      "new_text": "\nAnd even though Islamic jihadis have been apprehended on our border in 2014, the Homeland Security waved their hand and said, \"There's no threat.\"",
+      "prop_spans": [
+        [
+          3439,
+          3458,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3458,
+      "end_ix": 3586,
+      "text": "\nIn fact, DHS had denied Muslim terrorists were crossing the border, but a local investigator produced evidence to the contrary.",
+      "new_text": "\nIn fact, DHS had denied Muslim terrorists were crossing the border, but a local investigator produced evidence to the contrary.",
+      "prop_spans": [
+        [
+          3458,
+          3458,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3586,
+      "end_ix": 3679,
+      "text": "\nReports indicated that some jihadis were paying as much as $50,000 to get across the border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3679,
+      "end_ix": 3727,
+      "text": "\nThis has been documented for several years now.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3727,
+      "end_ix": 3748,
+      "text": "\nIt's not surprising.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3748,
+      "end_ix": 3903,
+      "text": "\nWhat is surprising is the level of secrecy surrounding the Las Vegas shooting and the containment of information more than three months after it occurred.",
+      "new_text": "\nWhat is surprising surrounding the Las Vegas shooting is the containment of information more than three months after it occurred.",
+      "prop_spans": [
+        [
+          3749,
+          3903,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      365,
+      382,
+      "Repetition"
+    ],
+    [
+      1581,
+      1680,
+      "Doubt"
+    ],
+    [
+      1735,
+      1752,
+      "Repetition"
+    ],
+    [
+      2061,
+      2088,
+      "Doubt"
+    ],
+    [
+      3439,
+      3458,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      3749,
+      3904,
+      "Doubt"
+    ]
+  ]
+}

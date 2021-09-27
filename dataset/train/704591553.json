@@ -1,0 +1,624 @@
+{
+  "article_id": "704591553",
+  "sentence offsets in original": [
+    0,
+    266,
+    521,
+    696,
+    823,
+    932,
+    1040,
+    1099,
+    1124,
+    1229,
+    1293,
+    1474,
+    1581,
+    1804,
+    1902,
+    2060,
+    2179,
+    2229,
+    2368,
+    2737,
+    2985,
+    3135,
+    3220,
+    3360,
+    3446,
+    3720,
+    3819,
+    3882,
+    3991,
+    4034,
+    4125,
+    4314,
+    4453,
+    4673,
+    4834,
+    4964
+  ],
+  "original sentences": [
+    "An Anti-Semitic Purge At McGill University\n\n\u200bDespite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",
+    "\nThe latest outrage perpetrated by BDS activists occurred at McGill University, where a Jewish student and two non-Jewish students identified as pro-Israel were removed from their positions as directors of the Students Society of McGill University (SSMU).",
+    "\nAt the end of his second year, Noah Lew, who is currently third year undergraduate student at McGill University, applied to serve as Director of the School\u2019s student society.",
+    "\nHe was warned by others who had prior dealings with the SSMU, to keep his Jewish identity secret lest he sabotage his chances.",
+    "\nThis is the atmosphere that Jewish students and supporters of Israel must endure on a daily basis at McGill.",
+    "\nThe toxic environment is due almost exclusively to an active and vocal presence of BDS agitators on campus.",
+    "\nLew followed the advice and was elected as a board member.",
+    "\nHis \u201csecret\u201d was intact.",
+    "\nBDS provocateurs at McGill had relentlessly tried and failed to pass boycott resolutions against Israel.",
+    "\nIn fact, three attempts within an 18-month period were quashed.",
+    "\nFinally, in June 2016, SSMU\u2019s Judicial Board ruled that the BDS campaign and efforts to institute it at McGill ran counter to the McGill\u2019s undergraduate student union constitution.",
+    "\nThe Board\u2019s ruling, which is called a \u201creference,\u201d was then referred to SSMU\u2019s directors for ratification.",
+    "\nSSMU\u2019s Board of Directors addressed the issue more than a year after the \u201creference.\u201d Lew and other board members passionately advocated in favor of ratification and their arguments ultimately prevailed over the naysayers.",
+    "\nThe malevolent BDS campaign at McGill had belatedly come to an ignominious end; or so we thought.",
+    "\nLew and two other directors identified as either Jewish or pro-Israel became instant targets of a campaign of hate laced with blatant anti-Semitic overtones.",
+    "\nCampus BDS groups held several meetings to formulate a response and founded the so-called \u201cDemocratize SSMU\u201d movement.",
+    "\nBut Democratize SSMU was anything but democratic.",
+    "\nIts raison d'\u00eatre was to seek the removal of Jewish and anti-BDS students from SSMU\u2019s Board of Directors and place BDS back on the agenda.",
+    "\nAs an aside, one of the more vocal proponents of BDS at McGill is a rancid character named Igor Sadikov, who in February posted a comment on twitter advocating violence against \u201cZionists.\u201d As a result, he was forced to resign his position as an SSMU director but dodged an impeachment effort to have him stripped of his position at McGill\u2019s Arts Undergraduate Society.",
+    "\nSadikov made light of his \u201cpunch a Zionist\u201d tweet calling it a \u201cmisguided joke.\u201d It does not appear that Sadikov was subjected to any form of school disciplinary action despite the fact that his call for violence violated McGill\u2019s Code of Conduct.",
+    "\nMcGill\u2019s BDS Action Network actively campaigned against Lew and two other board members because of their links to Jewish groups and anti-BDS stances.",
+    "\nDemocratize SSMU shamefully highlighted Lew\u2019s ethnicity as a reason for his removal.",
+    "\nAn enlightened, progressive school was suddenly transformed into something harking back to the days of Nazi Germany and the Nuremberg Laws.",
+    "\nIn October, SSMU\u2019s General Assembly moved to ratify the 12-member Board of Directors.",
+    "\nAccording to Lew, \u201chistorically, the Board of Directors had been ratified as a bloc, all 12 at a time.\u201d But BDS activists who showed up for the General Assembly ratification forced the voting to occur on an individual basis rather than a block as was the accepted protocol.",
+    "\nIn this manner, BDS/ Democratize SSMU activists managed to pick off their opponents one at a time.",
+    "\nIt was repulsive display leftist-fascist bigotry at its worst.",
+    "\nThe bigoted BDS provocateurs applauded as Lew and the other two board members were removed from their posts.",
+    "\nBut this time, they may have gone too far.",
+    "\nEven by BDS standards, their manifestly anti-Semitic campaign antics were beyond the pale.",
+    "\nBDS activists generally avoid reference to \u201cJews\u201d by name because it is impolitic and commonly substitute \u201cZionists\u201d for Jews even though most of us are cognizant of their true intentions.",
+    "\nBut in the instant case, McGill\u2019s BDS campaigners dispensed with their traditional charade and overtly launched their attack against Jews.",
+    "\nThe vitriolic BDS campaign immediately sparked outrage among watchdog groups and politicians prompting McGill principal, Suzanne Fortier, to announce that the school would be conducting an investigation into the matter.",
+    "\nEven SSMU president, Muna Tojiboeva, voiced support for Lew and expressed the belief that antisemitism played a key role in the ousting the three board members.",
+    "\nOne can only hope that Fortier takes the issue seriously and conducts a proper investigation, which leads to disciplinary action.",
+    "\nJudging by past \u201cinvestigations\u201d conducted by other schools \u2013 SFSU, CUNY and UCI, to name a few \u2013 I am not optimistic."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 266,
+      "text": "An Anti-Semitic Purge At McGill University\n\n\u200bDespite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",
+      "new_text": "An Anti-Semitic Purge At McGill University\n\n\u200bDespite suffering several public reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their campaign.",
+      "prop_spans": [
+        [
+          71,
+          104,
+          "Loaded_Language"
+        ],
+        [
+          238,
+          265,
+          "Loaded_Language"
+        ],
+        [
+          238,
+          265,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 266,
+      "end_ix": 521,
+      "text": "\nThe latest outrage perpetrated by BDS activists occurred at McGill University, where a Jewish student and two non-Jewish students identified as pro-Israel were removed from their positions as directors of the Students Society of McGill University (SSMU).",
+      "new_text": "\nThe latest action perpetrated by BDS activists occurred at McGill University, where a Jewish student and two non-Jewish students identified as pro-Israel were removed from their positions as directors of the Students Society of McGill University (SSMU).",
+      "prop_spans": [
+        [
+          278,
+          286,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 521,
+      "end_ix": 696,
+      "text": "\nAt the end of his second year, Noah Lew, who is currently third year undergraduate student at McGill University, applied to serve as Director of the School\u2019s student society.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 696,
+      "end_ix": 823,
+      "text": "\nHe was warned by others who had prior dealings with the SSMU, to keep his Jewish identity secret lest he sabotage his chances.",
+      "new_text": "\nHe was warned by others who had prior dealings with the SSMU, to keep his Jewish identity secret.",
+      "prop_spans": [
+        [
+          697,
+          822,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 823,
+      "end_ix": 932,
+      "text": "\nThis is the atmosphere that Jewish students and supporters of Israel must endure on a daily basis at McGill.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 932,
+      "end_ix": 1040,
+      "text": "\nThe toxic environment is due almost exclusively to an active and vocal presence of BDS agitators on campus.",
+      "new_text": "\nThe environment is due almost exclusively to an active and vocal presence of BDS on campus.",
+      "prop_spans": [
+        [
+          933,
+          955,
+          "Loaded_Language"
+        ],
+        [
+          1016,
+          1030,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1040,
+      "end_ix": 1099,
+      "text": "\nLew followed the advice and was elected as a board member.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1099,
+      "end_ix": 1124,
+      "text": "\nHis \u201csecret\u201d was intact.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1124,
+      "end_ix": 1229,
+      "text": "\nBDS provocateurs at McGill had relentlessly tried and failed to pass boycott resolutions against Israel.",
+      "new_text": "\nBDS at McGill had relentlessly tried and failed to pass boycott resolutions against Israel.",
+      "prop_spans": [
+        [
+          1125,
+          1142,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1229,
+      "end_ix": 1293,
+      "text": "\nIn fact, three attempts within an 18-month period were quashed.",
+      "new_text": "\nIn fact, three attempts within an 18-month period were silenced.",
+      "prop_spans": [
+        [
+          1280,
+          1292,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1293,
+      "end_ix": 1474,
+      "text": "\nFinally, in June 2016, SSMU\u2019s Judicial Board ruled that the BDS campaign and efforts to institute it at McGill ran counter to the McGill\u2019s undergraduate student union constitution.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1474,
+      "end_ix": 1581,
+      "text": "\nThe Board\u2019s ruling, which is called a \u201creference,\u201d was then referred to SSMU\u2019s directors for ratification.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1581,
+      "end_ix": 1804,
+      "text": "\nSSMU\u2019s Board of Directors addressed the issue more than a year after the \u201creference.\u201d Lew and other board members passionately advocated in favor of ratification and their arguments ultimately prevailed over the naysayers.",
+      "new_text": "\nSSMU\u2019s Board of Directors addressed the issue more than a year after the \u201creference.\u201d Lew and other board members advocated in favor of ratification and their arguments ultimately prevailed over the naysayers.",
+      "prop_spans": [
+        [
+          1696,
+          1719,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1804,
+      "end_ix": 1902,
+      "text": "\nThe malevolent BDS campaign at McGill had belatedly come to an ignominious end; or so we thought.",
+      "new_text": "\nThe BDS campaign at McGill had belatedly come to an end; or so we thought.",
+      "prop_spans": [
+        [
+          1805,
+          1833,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1868,
+          1883,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1902,
+      "end_ix": 2060,
+      "text": "\nLew and two other directors identified as either Jewish or pro-Israel became instant targets of a campaign of hate laced with blatant anti-Semitic overtones.",
+      "new_text": "\nLew and two other directors identified as either Jewish or pro-Israel became instant targets of a campaign with anti-Semitic overtones.",
+      "prop_spans": [
+        [
+          1999,
+          2059,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2060,
+      "end_ix": 2179,
+      "text": "\nCampus BDS groups held several meetings to formulate a response and founded the so-called \u201cDemocratize SSMU\u201d movement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2179,
+      "end_ix": 2229,
+      "text": "\nBut Democratize SSMU was anything but democratic.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2180,
+          2228,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2229,
+      "end_ix": 2368,
+      "text": "\nIts raison d'\u00eatre was to seek the removal of Jewish and anti-BDS students from SSMU\u2019s Board of Directors and place BDS back on the agenda.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2368,
+      "end_ix": 2737,
+      "text": "\nAs an aside, one of the more vocal proponents of BDS at McGill is a rancid character named Igor Sadikov, who in February posted a comment on twitter advocating violence against \u201cZionists.\u201d As a result, he was forced to resign his position as an SSMU director but dodged an impeachment effort to have him stripped of his position at McGill\u2019s Arts Undergraduate Society.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2737,
+      "end_ix": 2985,
+      "text": "\nSadikov made light of his \u201cpunch a Zionist\u201d tweet calling it a \u201cmisguided joke.\u201d It does not appear that Sadikov was subjected to any form of school disciplinary action despite the fact that his call for violence violated McGill\u2019s Code of Conduct.",
+      "new_text": "\nSadikov made light of his \u201cpunch a Zionist\u201d tweet calling it a \u201cmisguided joke.\u201d It does not appear that Sadikov was subjected to any form of school disciplinary action despite the fact that his call for violence violated McGill\u2019s Code of Conduct.",
+      "prop_spans": [
+        [
+          2765,
+          2780,
+          "Slogans"
+        ],
+        [
+          2802,
+          2816,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2985,
+      "end_ix": 3135,
+      "text": "\nMcGill\u2019s BDS Action Network actively campaigned against Lew and two other board members because of their links to Jewish groups and anti-BDS stances.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3135,
+      "end_ix": 3220,
+      "text": "\nDemocratize SSMU shamefully highlighted Lew\u2019s ethnicity as a reason for his removal.",
+      "new_text": "\nDemocratize SSMU highlighted Lew\u2019s ethnicity as a reason for his removal.",
+      "prop_spans": [
+        [
+          3153,
+          3164,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3220,
+      "end_ix": 3360,
+      "text": "\nAn enlightened, progressive school was suddenly transformed into something harking back to the days of Nazi Germany and the Nuremberg Laws.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3221,
+          3359,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3360,
+      "end_ix": 3446,
+      "text": "\nIn October, SSMU\u2019s General Assembly moved to ratify the 12-member Board of Directors.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3446,
+      "end_ix": 3720,
+      "text": "\nAccording to Lew, \u201chistorically, the Board of Directors had been ratified as a bloc, all 12 at a time.\u201d But BDS activists who showed up for the General Assembly ratification forced the voting to occur on an individual basis rather than a block as was the accepted protocol.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3720,
+      "end_ix": 3819,
+      "text": "\nIn this manner, BDS/ Democratize SSMU activists managed to pick off their opponents one at a time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3819,
+      "end_ix": 3882,
+      "text": "\nIt was repulsive display leftist-fascist bigotry at its worst.",
+      "new_text": "\nIt was a display at its worst.",
+      "prop_spans": [
+        [
+          3827,
+          3881,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3882,
+      "end_ix": 3991,
+      "text": "\nThe bigoted BDS provocateurs applauded as Lew and the other two board members were removed from their posts.",
+      "new_text": "\nThe bigoted BDS applauded as Lew and the other two board members were removed from their posts.",
+      "prop_spans": [
+        [
+          3883,
+          3912,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3895,
+          3912,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3991,
+      "end_ix": 4034,
+      "text": "\nBut this time, they may have gone too far.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4034,
+      "end_ix": 4125,
+      "text": "\nEven by BDS standards, their manifestly anti-Semitic campaign antics were beyond the pale.",
+      "new_text": "\nEven by BDS standards, their campaign antics were beyond the pale.",
+      "prop_spans": [
+        [
+          4058,
+          4124,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          4064,
+          4104,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4125,
+      "end_ix": 4314,
+      "text": "\nBDS activists generally avoid reference to \u201cJews\u201d by name because it is impolitic and commonly substitute \u201cZionists\u201d for Jews even though most of us are cognizant of their true intentions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4314,
+      "end_ix": 4453,
+      "text": "\nBut in the instant case, McGill\u2019s BDS campaigners dispensed with their traditional charade and overtly launched their attack against Jews.",
+      "new_text": "\nBut in the instant case, McGill\u2019s BDS campaigners dispensed with their traditional act and overtly launched their attack against Jews.",
+      "prop_spans": [
+        [
+          4398,
+          4406,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4453,
+      "end_ix": 4673,
+      "text": "\nThe vitriolic BDS campaign immediately sparked outrage among watchdog groups and politicians prompting McGill principal, Suzanne Fortier, to announce that the school would be conducting an investigation into the matter.",
+      "new_text": "\nThe BDS campaign immediately sparked rebuttals among watchdog groups and politicians prompting McGill principal, Suzanne Fortier, to announce that the school would be conducting an investigation into the matter.",
+      "prop_spans": [
+        [
+          4454,
+          4481,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4493,
+          4509,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4673,
+      "end_ix": 4834,
+      "text": "\nEven SSMU president, Muna Tojiboeva, voiced support for Lew and expressed the belief that antisemitism played a key role in the ousting the three board members.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4834,
+      "end_ix": 4964,
+      "text": "\nOne can only hope that Fortier takes the issue seriously and conducts a proper investigation, which leads to disciplinary action.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4964,
+      "end_ix": 5083,
+      "text": "\nJudging by past \u201cinvestigations\u201d conducted by other schools \u2013 SFSU, CUNY and UCI, to name a few \u2013 I am not optimistic.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          4965,
+          5082,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      71,
+      104,
+      "Loaded_Language"
+    ],
+    [
+      238,
+      265,
+      "Loaded_Language"
+    ],
+    [
+      238,
+      265,
+      "Name_Calling,Labeling"
+    ],
+    [
+      278,
+      286,
+      "Loaded_Language"
+    ],
+    [
+      697,
+      822,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      933,
+      955,
+      "Loaded_Language"
+    ],
+    [
+      1016,
+      1030,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1125,
+      1142,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1280,
+      1292,
+      "Loaded_Language"
+    ],
+    [
+      1696,
+      1719,
+      "Loaded_Language"
+    ],
+    [
+      1805,
+      1833,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1868,
+      1883,
+      "Loaded_Language"
+    ],
+    [
+      1999,
+      2059,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2180,
+      2228,
+      "Doubt"
+    ],
+    [
+      2765,
+      2780,
+      "Slogans"
+    ],
+    [
+      2802,
+      2816,
+      "Loaded_Language"
+    ],
+    [
+      3153,
+      3164,
+      "Loaded_Language"
+    ],
+    [
+      3221,
+      3359,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      3827,
+      3881,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3883,
+      3912,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3895,
+      3912,
+      "Repetition"
+    ],
+    [
+      4058,
+      4124,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      4064,
+      4104,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4398,
+      4406,
+      "Loaded_Language"
+    ],
+    [
+      4454,
+      4481,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4493,
+      4509,
+      "Loaded_Language"
+    ],
+    [
+      4965,
+      5082,
+      "Doubt"
+    ]
+  ]
+}

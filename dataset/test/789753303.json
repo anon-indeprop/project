@@ -1,0 +1,378 @@
+{
+  "article_id": "789753303",
+  "sentence offsets in original": [
+    0,
+    234,
+    334,
+    506,
+    652,
+    916,
+    978,
+    1040,
+    1192,
+    1274,
+    1302,
+    1365,
+    1471,
+    1518,
+    1600,
+    1682,
+    1810,
+    2002,
+    2227,
+    2334,
+    2397,
+    2442,
+    2591,
+    2720,
+    2828,
+    2844,
+    2918,
+    2968,
+    3016,
+    3157,
+    3304,
+    3445,
+    3467,
+    3546,
+    3680,
+    3769
+  ],
+  "original sentences": [
+    "Citing \u2018Adverse Conduct\u2019 Police Finally Fire Amber Guyger for Killing Botham Jean\n\nDallas, TX \u2014 After the Dallas police department refused to fire an officer who admitted to killing an innocent man, outrage erupted, and rightfully so.",
+    "\nNow, however, on Monday, the department announced that officer Amber Guyger has finally been fired.",
+    "\nOn Monday, the Dallas police department announced that the officer who admitted to walking into the apartment of 26-year-old Botham Jean and killing him was finally fired.",
+    "\n\u201cDallas Police Chief U. Renee Hall terminated Police Officer Amber Guyger, #10702, during a hearing held September 24, 2018,\u201d the statement read.",
+    "\n\u201cAn Internal Affairs investigation concluded that on September 9, 2018, Officer Guyger, #10702, engaged in adverse conduct when she was arrested for Manslaughter.\u201d\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThe department then went on to note that Guyger could appeal this firing under their civil service rules.",
+    "\nOfficer Guyger was terminated for her actions.",
+    "\nShe was hired in November 2013 and was assigned to the Southeast Patrol Division.",
+    "\nUnder civil service rules, Officer Guyger has the right to appeal her discipline.",
+    "\nThis move is noteworthy as the department has been standing up against those who have been calling for the officer to be fired.",
+    "\nAs recently as Friday, Hall refused to fire Guyger, saying in part, \u201cThere is one overriding reason that I have not taken any administrative or employment action against Officer Amber Guyger.",
+    "\nI don\u2019t want to interfere with the on-going criminal investigation into her actions.\u201d\nAlso, in a town hall meeting last week, Hall again stood behind her choice to refuse to fire Guyger, claiming it would be against the law.",
+    "\n\u201cI can\u2019t do that because there are both local, state and federal laws that prohibit me from taking action.",
+    "\nThere are civil service laws we have to adhere to,\u201d said Hall.",
+    "\nApparently, it is no longer against the law.",
+    "\nThis news will likely be well received by the Jean family as well as the activists who have been calling for justice for Botham since the beginning.",
+    "\nAs TFTP previously reported, the idea of not firing Guyger seemed utterly preposterous as she admitted to doing something wrong.",
+    "\nWhile controversy swarms the case of why she may have killed Jean, there is no doubt that she did kill him.",
+    "\nThis is a fact.",
+    "\nThis public servant walked into an innocent man\u2019s home and shot him dead.",
+    "\nBecause of her actions, this man no longer lives.",
+    "\nThis alone should have been enough to fire her.",
+    "\nSurprisingly enough, NRA spokesperson Dana Loesch responded to the firing of Guyger with one word, \u201cGood,\u201d showing her support for the move.",
+    "\nFor those who don\u2019t recall, Loesch sparked controversy earlier this month by claiming that if Botham Jean were a gun owner, he may be alive today.",
+    "\nIndeed, as TFTP reported over the weekend, a father in Prince George\u2019s County opened fire on officers as they wrongly entered his apartment.",
+    "\nHe shot two officers.",
+    "\nNot only was he not arrested, but the police chief praised him and apologized.",
+    "\nIn response to Guyger\u2019s termination, the family\u2019s attorney, Lee Merritt noted that the family expressed \u201csatisfaction\u201d with the move.",
+    "\n\u201cThe Jean family expressed satisfaction in this explanation and in Guyger\u2019s termination.",
+    "\nWe see it as an initial victory \u2014 well received on the day Botham Jean is laid to rest in his native country in St. Lucia,\u201d Merritt\u2019s office said in a statement, adding that they are committed to see a \u201cproper murder indictment, conviction and appropriate sentencing.\u201d\nArticle posted with permission from The Free Thought Project"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 234,
+      "text": "Citing \u2018Adverse Conduct\u2019 Police Finally Fire Amber Guyger for Killing Botham Jean\n\nDallas, TX \u2014 After the Dallas police department refused to fire an officer who admitted to killing an innocent man, outrage erupted, and rightfully so.",
+      "new_text": "Citing \u2018Adverse Conduct\u2019 Police Finally Fire Amber Guyger for Killing Botham Jean\n\nDallas, TX \u2014 After the Dallas police department refused to fire an officer who admitted to killing a man, outrage erupted, and rightfully so.",
+      "prop_spans": [
+        [
+          185,
+          193,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 234,
+      "end_ix": 334,
+      "text": "\nNow, however, on Monday, the department announced that officer Amber Guyger has finally been fired.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 334,
+      "end_ix": 506,
+      "text": "\nOn Monday, the Dallas police department announced that the officer who admitted to walking into the apartment of 26-year-old Botham Jean and killing him was finally fired.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 506,
+      "end_ix": 652,
+      "text": "\n\u201cDallas Police Chief U. Renee Hall terminated Police Officer Amber Guyger, #10702, during a hearing held September 24, 2018,\u201d the statement read.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 652,
+      "end_ix": 916,
+      "text": "\n\u201cAn Internal Affairs investigation concluded that on September 9, 2018, Officer Guyger, #10702, engaged in adverse conduct when she was arrested for Manslaughter.\u201d\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 916,
+      "end_ix": 978,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 978,
+      "end_ix": 1040,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1040,
+      "end_ix": 1192,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1192,
+      "end_ix": 1274,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1274,
+      "end_ix": 1302,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1302,
+      "end_ix": 1365,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1365,
+      "end_ix": 1471,
+      "text": "\nThe department then went on to note that Guyger could appeal this firing under their civil service rules.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1471,
+      "end_ix": 1518,
+      "text": "\nOfficer Guyger was terminated for her actions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1518,
+      "end_ix": 1600,
+      "text": "\nShe was hired in November 2013 and was assigned to the Southeast Patrol Division.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1600,
+      "end_ix": 1682,
+      "text": "\nUnder civil service rules, Officer Guyger has the right to appeal her discipline.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1682,
+      "end_ix": 1810,
+      "text": "\nThis move is noteworthy as the department has been standing up against those who have been calling for the officer to be fired.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1810,
+      "end_ix": 2002,
+      "text": "\nAs recently as Friday, Hall refused to fire Guyger, saying in part, \u201cThere is one overriding reason that I have not taken any administrative or employment action against Officer Amber Guyger.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2002,
+      "end_ix": 2227,
+      "text": "\nI don\u2019t want to interfere with the on-going criminal investigation into her actions.\u201d\nAlso, in a town hall meeting last week, Hall again stood behind her choice to refuse to fire Guyger, claiming it would be against the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2227,
+      "end_ix": 2334,
+      "text": "\n\u201cI can\u2019t do that because there are both local, state and federal laws that prohibit me from taking action.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2334,
+      "end_ix": 2397,
+      "text": "\nThere are civil service laws we have to adhere to,\u201d said Hall.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2397,
+      "end_ix": 2442,
+      "text": "\nApparently, it is no longer against the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2442,
+      "end_ix": 2591,
+      "text": "\nThis news will likely be well received by the Jean family as well as the activists who have been calling for justice for Botham since the beginning.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2591,
+      "end_ix": 2720,
+      "text": "\nAs TFTP previously reported, the idea of not firing Guyger seemed utterly preposterous as she admitted to doing something wrong.",
+      "new_text": "\nAs TFTP previously reported, the idea of not firing Guyger seemed absurd as she admitted to doing something wrong.",
+      "prop_spans": [
+        [
+          2658,
+          2678,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2720,
+      "end_ix": 2828,
+      "text": "\nWhile controversy swarms the case of why she may have killed Jean, there is no doubt that she did kill him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2828,
+      "end_ix": 2844,
+      "text": "\nThis is a fact.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2844,
+      "end_ix": 2918,
+      "text": "\nThis public servant walked into an innocent man\u2019s home and shot him dead.",
+      "new_text": "\nThis public servant walked into a man\u2019s home and shot him dead.",
+      "prop_spans": [
+        [
+          2880,
+          2888,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2880,
+          2888,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2918,
+      "end_ix": 2968,
+      "text": "\nBecause of her actions, this man no longer lives.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2968,
+      "end_ix": 3016,
+      "text": "\nThis alone should have been enough to fire her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3016,
+      "end_ix": 3157,
+      "text": "\nSurprisingly enough, NRA spokesperson Dana Loesch responded to the firing of Guyger with one word, \u201cGood,\u201d showing her support for the move.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3157,
+      "end_ix": 3304,
+      "text": "\nFor those who don\u2019t recall, Loesch sparked controversy earlier this month by claiming that if Botham Jean were a gun owner, he may be alive today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3304,
+      "end_ix": 3445,
+      "text": "\nIndeed, as TFTP reported over the weekend, a father in Prince George\u2019s County opened fire on officers as they wrongly entered his apartment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3445,
+      "end_ix": 3467,
+      "text": "\nHe shot two officers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3467,
+      "end_ix": 3546,
+      "text": "\nNot only was he not arrested, but the police chief praised him and apologized.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3546,
+      "end_ix": 3680,
+      "text": "\nIn response to Guyger\u2019s termination, the family\u2019s attorney, Lee Merritt noted that the family expressed \u201csatisfaction\u201d with the move.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3680,
+      "end_ix": 3769,
+      "text": "\n\u201cThe Jean family expressed satisfaction in this explanation and in Guyger\u2019s termination.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3769,
+      "end_ix": 4099,
+      "text": "\nWe see it as an initial victory \u2014 well received on the day Botham Jean is laid to rest in his native country in St. Lucia,\u201d Merritt\u2019s office said in a statement, adding that they are committed to see a \u201cproper murder indictment, conviction and appropriate sentencing.\u201d\nArticle posted with permission from The Free Thought Project",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      185,
+      193,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2658,
+      2678,
+      "Loaded_Language"
+    ],
+    [
+      2880,
+      2888,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2880,
+      2888,
+      "Repetition"
+    ]
+  ]
+}

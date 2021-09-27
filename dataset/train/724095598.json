@@ -1,0 +1,136 @@
+{
+  "article_id": "724095598",
+  "sentence offsets in original": [
+    0,
+    316,
+    496,
+    625,
+    846,
+    1028,
+    1180,
+    1380,
+    1539
+  ],
+  "original sentences": [
+    "\u201cCredible Evidence Of A Terrorist Infiltration\u201d: Congressman Says \u2018Secret Intel\u2019 Proves ISIS Connection To Las Vegas Massacre\n\nCongress is in possession of \u2018secret intel\u2019 that exposes an ISIS connection to the horrific Las Vegas Massacre, according to a surprising claim made by Pennsylvania Congressman Scott Perry.",
+    "\nAppearing on Fox News Tucker Carlson Tonight, Perry described evidence he had personally seen that suggested that some sort of terrorist infiltration aided the Las Vegas Massacre.",
+    "\nOne can imagine that said terrorists either helped Paddock or were actually some of the many other shooters reported that night.",
+    "\n\u201cRecently, I have been made aware of what i believe to be credible evidence, credible information, regarding potential terrorist infiltration, through the southern border, regarding this event,\u201d Perry shockingly claimed.",
+    "\n\u201cLet\u2019s face it, twice before the attack ISIS warned the United States that they would attack Las Vegas and then after the attack claimed responsibility four times,\u201d Perry continued.",
+    "\nKeep in mind that this lines up with other alternative media reports regarding the Oct. 1st massacre as well as hints provided in the mainstream media.",
+    "\nWe also know that it is a conclusive fact that there was more than one shooter, according to literally dozens of eyewitnesses who have continued to come forward with what they saw that fateful night.",
+    "\nInterestingly, there are also reports that Stephen Paddock\u2019s girlfriend actually deleted her Facebook page an hour before police released her boyfriends name.",
+    "\nInfowars reports:"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 316,
+      "text": "\u201cCredible Evidence Of A Terrorist Infiltration\u201d: Congressman Says \u2018Secret Intel\u2019 Proves ISIS Connection To Las Vegas Massacre\n\nCongress is in possession of \u2018secret intel\u2019 that exposes an ISIS connection to the horrific Las Vegas Massacre, according to a surprising claim made by Pennsylvania Congressman Scott Perry.",
+      "new_text": "\u201cCredible Evidence Of A Terrorist Infiltration\u201d: Congressman Says \u2018Secret Intel\u2019 Proves ISIS Connection To Las Vegas Massacre\n\nCongress is in possession of \u2018secret intel\u2019 that exposes an ISIS connection to the Las Vegas Massacre, according to a surprising claim made by Pennsylvania Congressman Scott Perry.",
+      "prop_spans": [
+        [
+          210,
+          218,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 316,
+      "end_ix": 496,
+      "text": "\nAppearing on Fox News Tucker Carlson Tonight, Perry described evidence he had personally seen that suggested that some sort of terrorist infiltration aided the Las Vegas Massacre.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 496,
+      "end_ix": 625,
+      "text": "\nOne can imagine that said terrorists either helped Paddock or were actually some of the many other shooters reported that night.",
+      "new_text": "\nOne can understand that said terrorists either helped Paddock or were actually some of the many other shooters reported that night.",
+      "prop_spans": [
+        [
+          497,
+          517,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 625,
+      "end_ix": 846,
+      "text": "\n\u201cRecently, I have been made aware of what i believe to be credible evidence, credible information, regarding potential terrorist infiltration, through the southern border, regarding this event,\u201d Perry shockingly claimed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 846,
+      "end_ix": 1028,
+      "text": "\n\u201cLet\u2019s face it, twice before the attack ISIS warned the United States that they would attack Las Vegas and then after the attack claimed responsibility four times,\u201d Perry continued.",
+      "new_text": "\n\u201cLet\u2019s face it, twice before the attack ISIS warned the United States that they would attack Las Vegas and then after the attack claimed responsibility four times,\u201d Perry continued.",
+      "prop_spans": [
+        [
+          848,
+          1011,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1028,
+      "end_ix": 1180,
+      "text": "\nKeep in mind that this lines up with other alternative media reports regarding the Oct. 1st massacre as well as hints provided in the mainstream media.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1180,
+      "end_ix": 1380,
+      "text": "\nWe also know that it is a conclusive fact that there was more than one shooter, according to literally dozens of eyewitnesses who have continued to come forward with what they saw that fateful night.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1380,
+      "end_ix": 1539,
+      "text": "\nInterestingly, there are also reports that Stephen Paddock\u2019s girlfriend actually deleted her Facebook page an hour before police released her boyfriends name.",
+      "new_text": "\nThere are also reports that Stephen Paddock\u2019s girlfriend actually deleted her Facebook page an hour before police released her boyfriends name.",
+      "prop_spans": [
+        [
+          1381,
+          1395,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1539,
+      "end_ix": 1557,
+      "text": "\nInfowars reports:",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      210,
+      218,
+      "Loaded_Language"
+    ],
+    [
+      497,
+      517,
+      "Doubt"
+    ],
+    [
+      848,
+      1011,
+      "Causal_Oversimplification"
+    ],
+    [
+      1381,
+      1395,
+      "Doubt"
+    ]
+  ]
+}

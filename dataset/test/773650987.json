@@ -1,0 +1,478 @@
+{
+  "article_id": "773650987",
+  "sentence offsets in original": [
+    0,
+    86,
+    154,
+    216,
+    339,
+    444,
+    682,
+    763,
+    858,
+    1154,
+    1218,
+    1488,
+    1651,
+    1804,
+    1860,
+    2005,
+    2291,
+    2397,
+    2533,
+    2556,
+    2588,
+    2615,
+    2653,
+    2668,
+    2695,
+    2716,
+    2752,
+    2866,
+    2982,
+    3046,
+    3161
+  ],
+  "original sentences": [
+    "The Coming Coup\n\nThe annual budget of the military/security complex is $1,000 billion.",
+    "\nThis vast sum is drawn from US taxpayers who have many unmet needs.",
+    "\nTo justify such an enormous budget a major enemy is required.",
+    "\nThe military/security complex and the media and politicians that the complex owns have designated Russia to be that enemy.",
+    "\nThe complex and its political and media agents will not permit Trump to normalize relations with Russia.",
+    "\nTo prevent President Trump from reducing the dangerous tensions between nuclear powers that Washington has created, the military/security complex orchestrated Russiagate, a proven hoax, but believed by many due to its endless repetition.",
+    "\nThe military/security complex orchestrated the false indictments of 12 Russians.",
+    "\nThe military/security complex orchestrated the false arrest of Maria Butina, and so on and on.",
+    "\nThe military/security complex acting through the politicians and presstitutes that it owns and controls has turned the normal everyday responsibility of the President\u2014one acknowledged and acted upon by every previous president\u2014to defuse tensions that could lead to nuclear war into a high crime.",
+    "\nPresident Trump is accused of treason for trying to make peace!",
+    "\nThe Tyranny of Good In... Paul Craig Roberts, La... Best Price: $5.64 Buy New $5.00 (as of 10:35 EDT - Details)\nAn unaware person might think that this is silly and laugh, but as Finian Cunningham shows, President Trump has been set-up as a treasonous enemy of America.",
+    "\nWe are currently experiencing sedition at the highest levels as the military/security complex unfolds its coup against the elected president of the United States.",
+    "\nIn 1961 President Dwight Eisenhower warned Americans in his last public address that the military/industrial complex was a threat to American democracy.",
+    "\nTruer words were never spoken by an American president.",
+    "\nShortly thereafter, the military/security complex assassinated President John F. Kennedy for working toward peace with Soviet leader Khrushchev.",
+    "\nTo get rid of President Nixon, who made too many arms control agreements with the Soviets and opened to China, the military/security complex used its asset, the Washington Post, to orchestrate the \u201cWatergate crisis\u201d that the military/security complex used to force Nixon\u2019s resignation.",
+    "\nNow the military/security complex is openly inciting sedition against the President of the United States.",
+    "\nIf this plot succeeds, which is the most likely case, America will be a complete dystopia and all independent voices will be shut down.",
+    "\nWho can Trump rely on?",
+    "\nNot on his own political party.",
+    "\nNot on his own government.",
+    "\nNot on the print and TV media or NPR.",
+    "\nNot on Europe.",
+    "\nNot on the Secret Service.",
+    "\nNot on the Pentagon.",
+    "\nNot on the unaware American people.",
+    "\nTrump has only the \u201cdeplorables,\u201d and they are unorganized and will experience retribution once Trump is removed.",
+    "\nIn striving to come to an agreement with Washington, Putin and Lavrov are butting their heads against a stone wall.",
+    "\nSooner or later Putin and Lavrov will have to acknowledge that.",
+    "\nOnce Putin and Lavrov realize the true situation, they will understand that war or surrender is their only option.",
+    "\nThe Best of Paul Craig Roberts"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 86,
+      "text": "The Coming Coup\n\nThe annual budget of the military/security complex is $1,000 billion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 86,
+      "end_ix": 154,
+      "text": "\nThis vast sum is drawn from US taxpayers who have many unmet needs.",
+      "new_text": "\nThis sum is drawn from US taxpayers who have many unmet needs.",
+      "prop_spans": [
+        [
+          87,
+          101,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 154,
+      "end_ix": 216,
+      "text": "\nTo justify such an enormous budget a major enemy is required.",
+      "new_text": "\nTo justify such a big budget a major enemy is required.",
+      "prop_spans": [
+        [
+          166,
+          190,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          174,
+          183,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 216,
+      "end_ix": 339,
+      "text": "\nThe military/security complex and the media and politicians that the complex owns have designated Russia to be that enemy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 339,
+      "end_ix": 444,
+      "text": "\nThe complex and its political and media agents will not permit Trump to normalize relations with Russia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 444,
+      "end_ix": 682,
+      "text": "\nTo prevent President Trump from reducing the dangerous tensions between nuclear powers that Washington has created, the military/security complex orchestrated Russiagate, a proven hoax, but believed by many due to its endless repetition.",
+      "new_text": "\nTo prevent President Trump from reducing the dangerous tensions between nuclear powers that Washington has created, the military/security complex orchestrated Russiagate, probably not true, but believed by many due to its endless repetition.",
+      "prop_spans": [
+        [
+          616,
+          629,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 682,
+      "end_ix": 763,
+      "text": "\nThe military/security complex orchestrated the false indictments of 12 Russians.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 763,
+      "end_ix": 858,
+      "text": "\nThe military/security complex orchestrated the false arrest of Maria Butina, and so on and on.",
+      "new_text": "\nThe military/security complex orchestrated the false arrest of Maria Butina.",
+      "prop_spans": [
+        [
+          845,
+          858,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 858,
+      "end_ix": 1154,
+      "text": "\nThe military/security complex acting through the politicians and presstitutes that it owns and controls has turned the normal everyday responsibility of the President\u2014one acknowledged and acted upon by every previous president\u2014to defuse tensions that could lead to nuclear war into a high crime.",
+      "new_text": "\nThe military/security complex acting through the politicians and presstitutes that it owns and controls has turned the normal everyday responsibility of the President to defuse tensions that could lead to nuclear war into a high crime.",
+      "prop_spans": [
+        [
+          858,
+          858,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          963,
+          1154,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1154,
+      "end_ix": 1218,
+      "text": "\nPresident Trump is accused of treason for trying to make peace!",
+      "new_text": "\nPresident Trump is accused of disloyalty for trying to make peace!",
+      "prop_spans": [
+        [
+          1154,
+          1217,
+          "Flag-Waving"
+        ],
+        [
+          1155,
+          1217,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1218,
+      "end_ix": 1488,
+      "text": "\nThe Tyranny of Good In... Paul Craig Roberts, La... Best Price: $5.64 Buy New $5.00 (as of 10:35 EDT - Details)\nAn unaware person might think that this is silly and laugh, but as Finian Cunningham shows, President Trump has been set-up as a treasonous enemy of America.",
+      "new_text": "\nThe Tyranny of Good In... Paul Craig Roberts, La... Best Price: $5.64 Buy New $5.00 (as of 10:35 EDT - Details)\nAn unaware person might think that this is silly and laugh, but as Finian Cunningham shows, President Trump has been set-up as an enemy.",
+      "prop_spans": [
+        [
+          1423,
+          1487,
+          "Flag-Waving"
+        ],
+        [
+          1458,
+          1477,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1488,
+      "end_ix": 1651,
+      "text": "\nWe are currently experiencing sedition at the highest levels as the military/security complex unfolds its coup against the elected president of the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1651,
+      "end_ix": 1804,
+      "text": "\nIn 1961 President Dwight Eisenhower warned Americans in his last public address that the military/industrial complex was a threat to American democracy.",
+      "new_text": "\nIn 1961 President Dwight Eisenhower warned people in his last public address that the military/industrial complex was a threat.",
+      "prop_spans": [
+        [
+          1652,
+          1803,
+          "Flag-Waving"
+        ],
+        [
+          1761,
+          1804,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1804,
+      "end_ix": 1860,
+      "text": "\nTruer words were never spoken by an American president.",
+      "new_text": "\nTruer words were never spoken by an American president.",
+      "prop_spans": [
+        [
+          1804,
+          1804,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1860,
+      "end_ix": 2005,
+      "text": "\nShortly thereafter, the military/security complex assassinated President John F. Kennedy for working toward peace with Soviet leader Khrushchev.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2005,
+      "end_ix": 2291,
+      "text": "\nTo get rid of President Nixon, who made too many arms control agreements with the Soviets and opened to China, the military/security complex used its asset, the Washington Post, to orchestrate the \u201cWatergate crisis\u201d that the military/security complex used to force Nixon\u2019s resignation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2291,
+      "end_ix": 2397,
+      "text": "\nNow the military/security complex is openly inciting sedition against the President of the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2397,
+      "end_ix": 2533,
+      "text": "\nIf this plot succeeds, which is the most likely case, America will be a complete dystopia and all independent voices will be shut down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2533,
+      "end_ix": 2556,
+      "text": "\nWho can Trump rely on?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2556,
+      "end_ix": 2588,
+      "text": "\nNot on his own political party.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2588,
+      "end_ix": 2615,
+      "text": "\nNot on his own government.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2615,
+      "end_ix": 2653,
+      "text": "\nNot on the print and TV media or NPR.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2653,
+      "end_ix": 2668,
+      "text": "\nNot on Europe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2668,
+      "end_ix": 2695,
+      "text": "\nNot on the Secret Service.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2695,
+      "end_ix": 2716,
+      "text": "\nNot on the Pentagon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2716,
+      "end_ix": 2752,
+      "text": "\nNot on the unaware American people.",
+      "new_text": "\nOr on the unaware American people.",
+      "prop_spans": [
+        [
+          2717,
+          2724,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2752,
+      "end_ix": 2866,
+      "text": "\nTrump has only the \u201cdeplorables,\u201d and they are unorganized and will experience retribution once Trump is removed.",
+      "new_text": "\nTrump has only the \u201cdeplorables,\u201d and they are unorganized and probably will experience retribution once Trump is removed.",
+      "prop_spans": [
+        [
+          2753,
+          2865,
+          "Doubt"
+        ],
+        [
+          2768,
+          2784,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2866,
+      "end_ix": 2982,
+      "text": "\nIn striving to come to an agreement with Washington, Putin and Lavrov are butting their heads against a stone wall.",
+      "new_text": "\nIn striving to come to an agreement with Washington, Putin and Lavrov are facing tough resistance.",
+      "prop_spans": [
+        [
+          2941,
+          2981,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2982,
+      "end_ix": 3046,
+      "text": "\nSooner or later Putin and Lavrov will have to acknowledge that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3046,
+      "end_ix": 3161,
+      "text": "\nOnce Putin and Lavrov realize the true situation, they will understand that war or surrender is their only option.",
+      "new_text": "\nOnce Putin and Lavrov realize the true situation, they will understand that war or surrender is their only viable option.",
+      "prop_spans": [
+        [
+          3097,
+          3160,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3161,
+      "end_ix": 3192,
+      "text": "\nThe Best of Paul Craig Roberts",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      87,
+      101,
+      "Loaded_Language"
+    ],
+    [
+      166,
+      190,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      174,
+      183,
+      "Loaded_Language"
+    ],
+    [
+      616,
+      629,
+      "Name_Calling,Labeling"
+    ],
+    [
+      845,
+      858,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      963,
+      1217,
+      "Flag-Waving"
+    ],
+    [
+      1155,
+      1217,
+      "Causal_Oversimplification"
+    ],
+    [
+      1423,
+      1487,
+      "Flag-Waving"
+    ],
+    [
+      1458,
+      1477,
+      "Loaded_Language"
+    ],
+    [
+      1652,
+      1803,
+      "Flag-Waving"
+    ],
+    [
+      1761,
+      1804,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2717,
+      2724,
+      "Repetition"
+    ],
+    [
+      2753,
+      2865,
+      "Doubt"
+    ],
+    [
+      2768,
+      2784,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2941,
+      2981,
+      "Loaded_Language"
+    ],
+    [
+      3097,
+      3160,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "article_id": "790666929",
+  "sentence offsets in original": [
+    0,
+    166,
+    358,
+    446,
+    497,
+    569,
+    606,
+    621,
+    643,
+    682,
+    907,
+    969,
+    1031,
+    1183,
+    1265,
+    1293,
+    1356,
+    1504,
+    1560,
+    1643,
+    1791,
+    1911,
+    2030,
+    2351,
+    2414,
+    2450,
+    2594,
+    2772,
+    2831,
+    3016,
+    3154,
+    3254,
+    3382,
+    3576
+  ],
+  "original sentences": [
+    "Star Tribune Sues To Unseal Accused Serial Woman Abuser Keith Ellison's Divorce Records\n\nFlashback in 2004, when up until then, Barack Obama couldn\u2019t win an election.",
+    "\nBut during his 2004 campaign for the Senate, Obama and his corrupt party in Chicago somehow managed to unseal the divorce records of his opponent Jack Ryan, who was leading by a large margin.",
+    "\nThe Ryan divorce records were sealed at their mutual request of both Mr. and Mrs. Ryan.",
+    "\nBut the Democrat machine got them unsealed anyway.",
+    "\nBarack Obama\u2019s backers emailed reporters about the divorce controversy.",
+    "\nThe divorce records were not pretty.",
+    "\nRyan resigned.",
+    "\nObama took the field.",
+    "\nDifferent rules for the lawless party.",
+    "\nSTAR TRIBUNE SUES TO UNSEAL U.S. REP. KEITH ELLISON\u2019S DIVORCE RECORDS\nBy Jesse Van Berkel, Star Tribune, September 26, 2018:\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThe Star Tribune has joined a legal effort to unseal the divorce records of U.S. Rep. Keith Ellison, the Democratic candidate for attorney general.",
+    "\nEllison and his ex-wife, Kim Ellison, divorced in 2012.",
+    "\nThe related records have been sealed, so the public cannot access the information.",
+    "\nThe Star Tribune\u2019s motion to intervene and unseal the records follows a similar action by Alpha News, a right-leaning online news and opinion site.",
+    "\nThe efforts follow allegations by Ellison\u2019s ex-girlfriend, Karen Monahan, that Ellison domestically abused her in 2016.",
+    "\nHe has denied the allegation repeatedly, and Monahan has continued to press her case in frequent tweets about Ellison.",
+    "\nOn Sunday, Monahan tweeted to Ellison: \u201cThis is not going away and you are making it worse for you, your family and district by lying, smearing, getting others to do your dirty work, victim shaming, etc.\u201d She referred again to a video she says she has of Ellison dragging her off a bed, which he has said did not happen.",
+    "\nShe has declined to show the video, saying it is traumatizing.",
+    "\nShe also told CNN she misplaced it.",
+    "\nMonahan also recently released a medical record that shows she told a doctor in 2017 that she had been in an abusive relationship with Ellison.",
+    "\nKen Martin, the chairman of the Minnesota DFL, said Tuesday that the party\u2019s investigation of the allegations against Ellison will be finished soon, then released to the public.",
+    "\nAn external investigator was hired to conduct the inquiry.",
+    "\nThe Star Tribune argued that, given the public interest around that situation and Kim Ellison\u2019s public support of her ex-husband, the divorce records are a matter of concern to voters.",
+    "\nDivorce records are typically public, but judges will often agree to seal them if both parties to the case agree and no one else objects.",
+    "\nThe Ellison campaign released a statement from Kim Ellison on behalf of both her and Keith Ellison.",
+    "\n\u201cOur divorce simply isn\u2019t the public\u2019s business, and therefore, when we separated, we jointly asked the court to seal the file.",
+    "\nNow, one month before a closely contested election for Minnesota Attorney General, a conservative group wants to probe our divorce file in search of something to use against Keith in this race.",
+    "\nI am disappointed that the Star Tribune would choose to file this motion.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 166,
+      "text": "Star Tribune Sues To Unseal Accused Serial Woman Abuser Keith Ellison's Divorce Records\n\nFlashback in 2004, when up until then, Barack Obama couldn\u2019t win an election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 166,
+      "end_ix": 358,
+      "text": "\nBut during his 2004 campaign for the Senate, Obama and his corrupt party in Chicago somehow managed to unseal the divorce records of his opponent Jack Ryan, who was leading by a large margin.",
+      "new_text": "\nBut during his 2004 campaign for the Senate, Obama and his party in Chicago somehow managed to unseal the divorce records of his opponent Jack Ryan, who was leading by a large margin.",
+      "prop_spans": [
+        [
+          226,
+          239,
+          "Name_Calling,Labeling"
+        ],
+        [
+          226,
+          233,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 358,
+      "end_ix": 446,
+      "text": "\nThe Ryan divorce records were sealed at their mutual request of both Mr. and Mrs. Ryan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 446,
+      "end_ix": 497,
+      "text": "\nBut the Democrat machine got them unsealed anyway.",
+      "new_text": "\nBut the Democrats got them unsealed anyway.",
+      "prop_spans": [
+        [
+          455,
+          471,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 497,
+      "end_ix": 569,
+      "text": "\nBarack Obama\u2019s backers emailed reporters about the divorce controversy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 569,
+      "end_ix": 606,
+      "text": "\nThe divorce records were not pretty.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 606,
+      "end_ix": 621,
+      "text": "\nRyan resigned.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 621,
+      "end_ix": 643,
+      "text": "\nObama took the field.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 643,
+      "end_ix": 682,
+      "text": "\nDifferent rules for the lawless party.",
+      "new_text": "\nDifferent rules for that party.",
+      "prop_spans": [
+        [
+          668,
+          681,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 682,
+      "end_ix": 907,
+      "text": "\nSTAR TRIBUNE SUES TO UNSEAL U.S. REP. KEITH ELLISON\u2019S DIVORCE RECORDS\nBy Jesse Van Berkel, Star Tribune, September 26, 2018:\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 907,
+      "end_ix": 969,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 969,
+      "end_ix": 1031,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1031,
+      "end_ix": 1183,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1183,
+      "end_ix": 1265,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1265,
+      "end_ix": 1293,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1293,
+      "end_ix": 1356,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1356,
+      "end_ix": 1504,
+      "text": "\nThe Star Tribune has joined a legal effort to unseal the divorce records of U.S. Rep. Keith Ellison, the Democratic candidate for attorney general.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1504,
+      "end_ix": 1560,
+      "text": "\nEllison and his ex-wife, Kim Ellison, divorced in 2012.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1560,
+      "end_ix": 1643,
+      "text": "\nThe related records have been sealed, so the public cannot access the information.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1643,
+      "end_ix": 1791,
+      "text": "\nThe Star Tribune\u2019s motion to intervene and unseal the records follows a similar action by Alpha News, a right-leaning online news and opinion site.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1791,
+      "end_ix": 1911,
+      "text": "\nThe efforts follow allegations by Ellison\u2019s ex-girlfriend, Karen Monahan, that Ellison domestically abused her in 2016.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1911,
+      "end_ix": 2030,
+      "text": "\nHe has denied the allegation repeatedly, and Monahan has continued to press her case in frequent tweets about Ellison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2030,
+      "end_ix": 2351,
+      "text": "\nOn Sunday, Monahan tweeted to Ellison: \u201cThis is not going away and you are making it worse for you, your family and district by lying, smearing, getting others to do your dirty work, victim shaming, etc.\u201d She referred again to a video she says she has of Ellison dragging her off a bed, which he has said did not happen.",
+      "new_text": "\nOn Sunday, Monahan tweeted to Ellison: \u201cThis is not going away and you are making it worse for you, your family and district by lying, smearing, getting others to do your dirty work, victim shaming, etc.\u201d She referred again to a video she says she has of Ellison dragging her off a bed, which he has said did not happen.",
+      "prop_spans": [
+        [
+          2166,
+          2174,
+          "Loaded_Language"
+        ],
+        [
+          2202,
+          2212,
+          "Loaded_Language"
+        ],
+        [
+          2221,
+          2228,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2351,
+      "end_ix": 2414,
+      "text": "\nShe has declined to show the video, saying it is traumatizing.",
+      "new_text": "\nShe has declined to show the video, saying it is scarring.",
+      "prop_spans": [
+        [
+          2401,
+          2413,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2414,
+      "end_ix": 2450,
+      "text": "\nShe also told CNN she misplaced it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2450,
+      "end_ix": 2594,
+      "text": "\nMonahan also recently released a medical record that shows she told a doctor in 2017 that she had been in an abusive relationship with Ellison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2594,
+      "end_ix": 2772,
+      "text": "\nKen Martin, the chairman of the Minnesota DFL, said Tuesday that the party\u2019s investigation of the allegations against Ellison will be finished soon, then released to the public.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2772,
+      "end_ix": 2831,
+      "text": "\nAn external investigator was hired to conduct the inquiry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2831,
+      "end_ix": 3016,
+      "text": "\nThe Star Tribune argued that, given the public interest around that situation and Kim Ellison\u2019s public support of her ex-husband, the divorce records are a matter of concern to voters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3016,
+      "end_ix": 3154,
+      "text": "\nDivorce records are typically public, but judges will often agree to seal them if both parties to the case agree and no one else objects.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3154,
+      "end_ix": 3254,
+      "text": "\nThe Ellison campaign released a statement from Kim Ellison on behalf of both her and Keith Ellison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3254,
+      "end_ix": 3382,
+      "text": "\n\u201cOur divorce simply isn\u2019t the public\u2019s business, and therefore, when we separated, we jointly asked the court to seal the file.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3382,
+      "end_ix": 3576,
+      "text": "\nNow, one month before a closely contested election for Minnesota Attorney General, a conservative group wants to probe our divorce file in search of something to use against Keith in this race.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3576,
+      "end_ix": 3651,
+      "text": "\nI am disappointed that the Star Tribune would choose to file this motion.\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      226,
+      239,
+      "Name_Calling,Labeling"
+    ],
+    [
+      226,
+      233,
+      "Loaded_Language"
+    ],
+    [
+      455,
+      471,
+      "Name_Calling,Labeling"
+    ],
+    [
+      668,
+      681,
+      "Loaded_Language"
+    ],
+    [
+      2166,
+      2174,
+      "Loaded_Language"
+    ],
+    [
+      2202,
+      2212,
+      "Loaded_Language"
+    ],
+    [
+      2221,
+      2228,
+      "Loaded_Language"
+    ],
+    [
+      2401,
+      2413,
+      "Loaded_Language"
+    ]
+  ]
+}

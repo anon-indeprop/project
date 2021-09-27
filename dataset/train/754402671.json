@@ -1,0 +1,247 @@
+{
+  "article_id": "754402671",
+  "sentence offsets in original": [
+    0,
+    312,
+    471,
+    698,
+    713,
+    796,
+    995,
+    1024,
+    1110,
+    1151,
+    1215,
+    1309,
+    1333,
+    1386,
+    1463,
+    1557,
+    1674,
+    1760,
+    1790,
+    1917,
+    2039,
+    2169,
+    2316,
+    2463,
+    2627
+  ],
+  "original sentences": [
+    "DRC: Fresh Ebola outbreak kills two in Equateur Province\n\nThe World Health Organization (WHO) said on Tuesday that it was taking steps to help deal with a new outbreak of Ebola in the Democratic Republic of Congo's rural northwest, after two cases of the deadly virus were confirmed in the market town of Bikoro.",
+    "\nCongo's Health Ministry said two of the five samples it sent to the National Institute of Biological Research in Kinshasa, came back positive for the disease.",
+    "\nThe samples were gathered after health officials in Equateur Province notified Kinshasa on May 3 of about 21 cases of a hemorrhagic fever in the Ikoko Impenge area, including 17 deaths, according to WHO and Congo's government.",
+    "\nWhat is Ebola?",
+    "\nRare but deadly, the viral disease is most commonly affecting primates and humans.",
+    "\nInitial symptoms can include fever, headache, joint and muscle aches, weakness, diarrhoea, vomiting, stomach pain lack of appetite and in some cases internal and external bleeding, according to WHO.",
+    "\nWhere did it originate from?",
+    "\nEbola virus disease (EVD) was first discovered in 1976 in two simultaneous outbreaks.",
+    "\nOne in what is now Nzara in South Sudan.",
+    "\nThe other outbreak in Yambuku in Zaire in what is now DR Congo.",
+    "\nThe latter occurred in a village near the Ebola River, from which the disease takes its name.",
+    "\nWhy is it so dangerous?",
+    "\nThe average Ebola fatality rate is about 50 percent.",
+    "\nBut the rates have varied from 25 percent to 90 percent in recent outbreaks.",
+    "\nThere is as of yet no proven cure available for Ebola, though some vaccines are being tested.",
+    "\nSome people who have recovered from Ebola have developed long-term complications, such as joint and vision problems.",
+    "\nIt is not known why some people recover from Ebola while most succumb to the disease.",
+    "\nWhy does it keep coming back?",
+    "\nThe disease infects humans through close contact with infected animals, including chimpanzees, fruit bats and forest antelope.",
+    "\nIn Africa where most outbreaks happen, particular species of fruit bats are considered natural hosts for the Ebola virus.",
+    "\nInfected bats are believed to transmit the disease to humans, or indirectly through other animals that are hunted for their meat.",
+    "\nThe family of the first victim of the 2014 outbreak, a two-year-old child, hunted bats and it is believed bushmeat was the origin of the outbreak.",
+    "\nAn estimated five million tonnes of bushmeat is consumed on the continent every year, according to the Centre for International Forestry Research.",
+    "\nThe virus then spreads between humans by direct contact with infected blood, bodily fluids or organs, or indirectly through contact with contaminated environments.",
+    "\nEven funerals of Ebola victims can be a risk, if mourners have direct contact with the body of the deceased."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 312,
+      "text": "DRC: Fresh Ebola outbreak kills two in Equateur Province\n\nThe World Health Organization (WHO) said on Tuesday that it was taking steps to help deal with a new outbreak of Ebola in the Democratic Republic of Congo's rural northwest, after two cases of the deadly virus were confirmed in the market town of Bikoro.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 312,
+      "end_ix": 471,
+      "text": "\nCongo's Health Ministry said two of the five samples it sent to the National Institute of Biological Research in Kinshasa, came back positive for the disease.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 471,
+      "end_ix": 698,
+      "text": "\nThe samples were gathered after health officials in Equateur Province notified Kinshasa on May 3 of about 21 cases of a hemorrhagic fever in the Ikoko Impenge area, including 17 deaths, according to WHO and Congo's government.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 698,
+      "end_ix": 713,
+      "text": "\nWhat is Ebola?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 713,
+      "end_ix": 796,
+      "text": "\nRare but deadly, the viral disease is most commonly affecting primates and humans.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 796,
+      "end_ix": 995,
+      "text": "\nInitial symptoms can include fever, headache, joint and muscle aches, weakness, diarrhoea, vomiting, stomach pain lack of appetite and in some cases internal and external bleeding, according to WHO.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 995,
+      "end_ix": 1024,
+      "text": "\nWhere did it originate from?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1024,
+      "end_ix": 1110,
+      "text": "\nEbola virus disease (EVD) was first discovered in 1976 in two simultaneous outbreaks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1110,
+      "end_ix": 1151,
+      "text": "\nOne in what is now Nzara in South Sudan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1151,
+      "end_ix": 1215,
+      "text": "\nThe other outbreak in Yambuku in Zaire in what is now DR Congo.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1215,
+      "end_ix": 1309,
+      "text": "\nThe latter occurred in a village near the Ebola River, from which the disease takes its name.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1309,
+      "end_ix": 1333,
+      "text": "\nWhy is it so dangerous?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1333,
+      "end_ix": 1386,
+      "text": "\nThe average Ebola fatality rate is about 50 percent.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1386,
+      "end_ix": 1463,
+      "text": "\nBut the rates have varied from 25 percent to 90 percent in recent outbreaks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1463,
+      "end_ix": 1557,
+      "text": "\nThere is as of yet no proven cure available for Ebola, though some vaccines are being tested.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1557,
+      "end_ix": 1674,
+      "text": "\nSome people who have recovered from Ebola have developed long-term complications, such as joint and vision problems.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1674,
+      "end_ix": 1760,
+      "text": "\nIt is not known why some people recover from Ebola while most succumb to the disease.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1760,
+      "end_ix": 1790,
+      "text": "\nWhy does it keep coming back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1790,
+      "end_ix": 1917,
+      "text": "\nThe disease infects humans through close contact with infected animals, including chimpanzees, fruit bats and forest antelope.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1917,
+      "end_ix": 2039,
+      "text": "\nIn Africa where most outbreaks happen, particular species of fruit bats are considered natural hosts for the Ebola virus.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2039,
+      "end_ix": 2169,
+      "text": "\nInfected bats are believed to transmit the disease to humans, or indirectly through other animals that are hunted for their meat.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2169,
+      "end_ix": 2316,
+      "text": "\nThe family of the first victim of the 2014 outbreak, a two-year-old child, hunted bats and it is believed bushmeat was the origin of the outbreak.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2316,
+      "end_ix": 2463,
+      "text": "\nAn estimated five million tonnes of bushmeat is consumed on the continent every year, according to the Centre for International Forestry Research.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2463,
+      "end_ix": 2627,
+      "text": "\nThe virus then spreads between humans by direct contact with infected blood, bodily fluids or organs, or indirectly through contact with contaminated environments.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2627,
+      "end_ix": 2736,
+      "text": "\nEven funerals of Ebola victims can be a risk, if mourners have direct contact with the body of the deceased.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2645,
+          2736,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      2645,
+      2737,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

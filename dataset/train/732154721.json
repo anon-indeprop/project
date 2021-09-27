@@ -1,0 +1,298 @@
+{
+  "article_id": "732154721",
+  "sentence offsets in original": [
+    0,
+    651,
+    789,
+    1154,
+    1408,
+    1555,
+    1721,
+    1966,
+    2047,
+    2160,
+    2275,
+    2428,
+    2914,
+    3027,
+    3121,
+    3168,
+    3183,
+    3583,
+    3741
+  ],
+  "original sentences": [
+    "Hungarian Prime Minister: \u2018Christianity is Europe\u2019s last hope\u2019\n\nNewsFaith, Politics - World\nBUDAPEST, Hungary, February 19, 2018 (LifeSiteNews) \u2013 Brushing aside any semblance of political correctness, Hungary\u2019s Prime Minister said in his state of the nation speech on Sunday that, \u201cChristianity is Europe's last hope.\u201d\nAddressing his country and the world, Prime Minister Viktor Orb\u00e1n warned that European nations which have encouraged migration have, \u201copened the way to the decline of Christian culture and the advance of Islam.\u201d\nOrb\u00e1n painted an image of Western Europe being overwhelmed by the accelerating influx Muslim immigrants in recent years.",
+    "\n\u201cAccording to estimates, the proportion of immigrants will grow at an accelerated pace in the European countries west of us,\u201d said Orb\u00e1n.",
+    "\n\u201cI won't even say anything about France and Holland, but even the born Germans are being forced back from most large German cities as migrants always occupy big cities first.\u201d\nOrb\u00e1n warned that as Western Europe becomes saturated with Muslim occupants, Islamists would soon seek to stream in to his country from both Western Europe as well as from Islamic nations.",
+    "\n\u201cThis means that the Islamic civilization, which always considers its vocation to convert Europe to what it calls the true faith, in the future will be knocking on the door of Central Europe not only from the south, but from the west, as well,\u201d he said.",
+    "\nPrime Minister Orb\u00e1n said his government will oppose efforts by the United Nations or the European Union to \u201cincrease migration\u201d around the world.",
+    "\nIn June, LifeSiteNews reported that Orb\u00e1n had taken a strong stand and not backed down against outside globalist influences seeking to control his nation\u2019s politics.",
+    "\nBillionaire George Soros, who famously backs many progressive initiatives around the world, locked horns with Orb\u00e1n over the Central European University (CEU) he founded in 1989, which has been criticized as a funnel for anti-nationalist views.",
+    "\nOrb\u00e1n and Soros have a history, beginning in partnership and ending in acrimony.",
+    "\nOrb\u00e1n started public life as a crusader against communism and attended Oxford University on a Soros scholarship.",
+    "\nSoros, who expatriated from Hungary, also funded Orb\u00e1n\u2019s political organization, the Alliance for Young Democrats.",
+    "\nBut Orb\u00e1n\u2019s defense of conservative values has led to breaking ties with Soros, whom he now criticizes as a foreigner meddling in his country\u2019s affairs.",
+    "\nAfter Prime Minister Orb\u00e1n delivered his strongly worded state of the nation speech, a UK Daily Mail report said, \u201cOrb\u00e1n has conflated the issue of immigration with the image of Soros, 87, whose name was used in a tough anti-migrant bill sent to Parliament on Wednesday.\u201d\nThe Daily Mail report continued:\nSoros, for his part, compared Orb\u00e1n unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's, when Hungary was allied with Nazi Germany.",
+    "\nBut Orb\u00e1n remains committed to his policy, claiming that Soros and supporters of migration are losing the fight.",
+    "\nHe said: \u201cSoros has antagonised not only us but also England, President Trump and Israel too.",
+    "\nEverywhere he wants to get migration accepted.",
+    "\nIt won't work.",
+    "\nWe are not alone and we will fight together and we will succeed.\u201d\nIn addition to inviting Soros\u2019 ire, Orb\u00e1n came under fire a couple years ago from the U.S. State Department under President Obama as well as the European Parliament for purportedly discriminating against homosexuals because of Hungary\u2019s insistence on defining marriage between a man and a woman, and that pre-born babies have rights.",
+    "\nLast year, Orb\u00e1n also criticized liberals and encouraged citizens to give life to more children during the 11th conference of the World Congress of Families.",
+    "\nThree thousand \u201cnatural family\u201d advocates who attended the four-day conference heard Orb\u00e1n in his opening address lambaste the European Union (EU) for its \u201crelativizing liberal ideology that\u2019s an insult to families.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 651,
+      "text": "Hungarian Prime Minister: \u2018Christianity is Europe\u2019s last hope\u2019\n\nNewsFaith, Politics - World\nBUDAPEST, Hungary, February 19, 2018 (LifeSiteNews) \u2013 Brushing aside any semblance of political correctness, Hungary\u2019s Prime Minister said in his state of the nation speech on Sunday that, \u201cChristianity is Europe's last hope.\u201d\nAddressing his country and the world, Prime Minister Viktor Orb\u00e1n warned that European nations which have encouraged migration have, \u201copened the way to the decline of Christian culture and the advance of Islam.\u201d\nOrb\u00e1n painted an image of Western Europe being overwhelmed by the accelerating influx Muslim immigrants in recent years.",
+      "new_text": "Hungarian Prime Minister: \u2018Christianity is Europe\u2019s last hope\u2019\n\nNewsFaith, Politics - World\nBUDAPEST, Hungary, February 19, 2018 (LifeSiteNews) \u2013 Brushing aside any semblance of political correctness, Hungary\u2019s Prime Minister said in his state of the nation speech on Sunday that, \u201cChristianity is Europe's last hope.\u201d\nAddressing his country and the world, Prime Minister Viktor Orb\u00e1n warned that the nations which have encouraged migration have, \u201copened the way to the decline of Christian culture and the advance of Islam.\u201d\nOrb\u00e1n painted an image of Western Europe being overwhelmed by the accelerating influx Muslim immigrants in recent years.",
+      "prop_spans": [
+        [
+          27,
+          61,
+          "Flag-Waving"
+        ],
+        [
+          27,
+          61,
+          "Slogans"
+        ],
+        [
+          280,
+          318,
+          "Slogans"
+        ],
+        [
+          281,
+          318,
+          "Flag-Waving"
+        ],
+        [
+          397,
+          531,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 651,
+      "end_ix": 789,
+      "text": "\n\u201cAccording to estimates, the proportion of immigrants will grow at an accelerated pace in the European countries west of us,\u201d said Orb\u00e1n.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 789,
+      "end_ix": 1154,
+      "text": "\n\u201cI won't even say anything about France and Holland, but even the born Germans are being forced back from most large German cities as migrants always occupy big cities first.\u201d\nOrb\u00e1n warned that as Western Europe becomes saturated with Muslim occupants, Islamists would soon seek to stream in to his country from both Western Europe as well as from Islamic nations.",
+      "new_text": "\n\u201cI won't even say anything about France and Holland, but even the born Germans are being forced back from most large German cities as migrants always occupy big cities first.\u201d\nOrb\u00e1n warned that as Western Europe becomes saturated with Muslim occupants, Islamists could soon seek to stream in to his country from both Western Europe as well as from Islamic nations.",
+      "prop_spans": [
+        [
+          987,
+          1153,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1154,
+      "end_ix": 1408,
+      "text": "\n\u201cThis means that the Islamic civilization, which always considers its vocation to convert Europe to what it calls the true faith, in the future will be knocking on the door of Central Europe not only from the south, but from the west, as well,\u201d he said.",
+      "new_text": "\n\u201cThis means that the Islamic civilization, which always considers its vocation to convert Europe to what it calls the true faith, in the future will be knocking on the door of Central Europe not only from the south, but from the west, as well,\u201d he said.",
+      "prop_spans": [
+        [
+          1172,
+          1283,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1408,
+      "end_ix": 1555,
+      "text": "\nPrime Minister Orb\u00e1n said his government will oppose efforts by the United Nations or the European Union to \u201cincrease migration\u201d around the world.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1555,
+      "end_ix": 1721,
+      "text": "\nIn June, LifeSiteNews reported that Orb\u00e1n had taken a strong stand and not backed down against outside globalist influences seeking to control his nation\u2019s politics.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1721,
+      "end_ix": 1966,
+      "text": "\nBillionaire George Soros, who famously backs many progressive initiatives around the world, locked horns with Orb\u00e1n over the Central European University (CEU) he founded in 1989, which has been criticized as a funnel for anti-nationalist views.",
+      "new_text": "\nBillionaire George Soros, who famously backs many progressive initiatives around the world, locked horns with Orb\u00e1n over the Central European University (CEU) he founded in 1989, which has been criticized for anti-nationalist views.",
+      "prop_spans": [
+        [
+          1930,
+          1965,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1966,
+      "end_ix": 2047,
+      "text": "\nOrb\u00e1n and Soros have a history, beginning in partnership and ending in acrimony.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2047,
+      "end_ix": 2160,
+      "text": "\nOrb\u00e1n started public life as a crusader against communism and attended Oxford University on a Soros scholarship.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2160,
+      "end_ix": 2275,
+      "text": "\nSoros, who expatriated from Hungary, also funded Orb\u00e1n\u2019s political organization, the Alliance for Young Democrats.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2275,
+      "end_ix": 2428,
+      "text": "\nBut Orb\u00e1n\u2019s defense of conservative values has led to breaking ties with Soros, whom he now criticizes as a foreigner meddling in his country\u2019s affairs.",
+      "new_text": "\nBut Orb\u00e1n\u2019s defense of conservative values has led to breaking ties with Soros, whom he now criticizes as a meddling foreigner.",
+      "prop_spans": [
+        [
+          2384,
+          2427,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2428,
+      "end_ix": 2914,
+      "text": "\nAfter Prime Minister Orb\u00e1n delivered his strongly worded state of the nation speech, a UK Daily Mail report said, \u201cOrb\u00e1n has conflated the issue of immigration with the image of Soros, 87, whose name was used in a tough anti-migrant bill sent to Parliament on Wednesday.\u201d\nThe Daily Mail report continued:\nSoros, for his part, compared Orb\u00e1n unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's, when Hungary was allied with Nazi Germany.",
+      "new_text": "\nAfter Prime Minister Orb\u00e1n delivered his strongly worded state of the nation speech, a UK Daily Mail report said, \u201cOrb\u00e1n has conflated the issue of immigration with the image of Soros, 87, whose name was used in a tough anti-migrant bill sent to Parliament on Wednesday.\u201d\nThe Daily Mail report continued:\nSoros, for his part, said Orban's rule evoked dark tones from the 1930's, when Hungary was allied with Nazi Germany.",
+      "prop_spans": [
+        [
+          2607,
+          2666,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2755,
+          2820,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2914,
+      "end_ix": 3027,
+      "text": "\nBut Orb\u00e1n remains committed to his policy, claiming that Soros and supporters of migration are losing the fight.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3027,
+      "end_ix": 3121,
+      "text": "\nHe said: \u201cSoros has antagonised not only us but also England, President Trump and Israel too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3121,
+      "end_ix": 3168,
+      "text": "\nEverywhere he wants to get migration accepted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3168,
+      "end_ix": 3183,
+      "text": "\nIt won't work.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3183,
+      "end_ix": 3583,
+      "text": "\nWe are not alone and we will fight together and we will succeed.\u201d\nIn addition to inviting Soros\u2019 ire, Orb\u00e1n came under fire a couple years ago from the U.S. State Department under President Obama as well as the European Parliament for purportedly discriminating against homosexuals because of Hungary\u2019s insistence on defining marriage between a man and a woman, and that pre-born babies have rights.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3583,
+      "end_ix": 3741,
+      "text": "\nLast year, Orb\u00e1n also criticized liberals and encouraged citizens to give life to more children during the 11th conference of the World Congress of Families.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3741,
+      "end_ix": 3958,
+      "text": "\nThree thousand \u201cnatural family\u201d advocates who attended the four-day conference heard Orb\u00e1n in his opening address lambaste the European Union (EU) for its \u201crelativizing liberal ideology that\u2019s an insult to families.\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      27,
+      61,
+      "Flag-Waving"
+    ],
+    [
+      27,
+      61,
+      "Slogans"
+    ],
+    [
+      280,
+      318,
+      "Slogans"
+    ],
+    [
+      281,
+      318,
+      "Flag-Waving"
+    ],
+    [
+      397,
+      531,
+      "Flag-Waving"
+    ],
+    [
+      987,
+      1153,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1172,
+      1283,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1930,
+      1965,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2384,
+      2427,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2607,
+      2666,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2755,
+      2820,
+      "Reductio_ad_hitlerum"
+    ]
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "article_id": "788726416",
+  "sentence offsets in original": [
+    0,
+    123,
+    245,
+    361,
+    493,
+    642,
+    779,
+    1148,
+    1444,
+    1690,
+    2023,
+    2192,
+    2367,
+    2697,
+    3062,
+    3158,
+    3322,
+    3544,
+    3756,
+    3766,
+    4011,
+    4021,
+    4163
+  ],
+  "original sentences": [
+    "Deep State Insurrection Defying POTUS Trump\u2019s Order\n\nDeep State officials like ex-CIA chief John Brennan are in panic mode.",
+    "\nDeep State DOJ tool Rod Rosenstein refuses to comply with Trump\u2019s executive order as afforded him by the US Constitution.",
+    "\nEstablishment Democrats are all over the mainstream media channels calling the act of releasing documents criminal.",
+    "\nThe US President wants every American citizen to see the full, unredacted version of the FISA documents used to spy on Carter Page.",
+    "\nTrump is simply asking for full transparency, in what has become a two year, multi-million dollar witch hunt, to find collusion where there is none.",
+    "\nThis is all you need to know about the hoax that was and is Trump-Russia collusion and the Robert Mueller special counsel investigation.",
+    "\nThe Duran\u2019s Alex Christoforou and Editor-in-Chief Alexander Mercouris discuss the insurrection taking place at the US Department of Justice, as Democrats, ex-Obama officials, and DOJ directors are doing everything in their power to make sure the truth, about how the FISA warrant to spy on Carter Page was obtained, remains hidden from the eyes of the American public.",
+    "\n\ufeff\nVia Zerohedge\u2026\nDespite President Trump\u2019s Monday order for the \u201cimmediate declassification\u201d of sensitive materials related to the Russia investigation, \u201cwithout redaction,\u201d the agencies involved are planning to do so anyway, according to Bloomberg, citing three people familiar with the matter.",
+    "\nThe Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can\u2019t offer a timeline for finishing, said the people, who weren\u2019t authorized to speak publicly about the sensitive matter.",
+    "\n\u2013Bloomberg\nThe Deep State: The Fa... Mike Lofgren Best Price: $7.55 Buy New $6.00 (as of 11:45 EDT - Details) Trump ordered the DOJ to release the text messages of former FBI Director James Comey, his deputy Andrew McCabe, now-fired special agent Peter Strzok, former FBI attorney Lisa Page and twice-demoted DOJ official Bruce Ohr.",
+    "\nAlso ordered released are specific pages from the FBI\u2019s FISA surveillance warrant application on former Trump campaign aide Carter Page, as well as interviews with Ohr.",
+    "\nThe DOJ and the FBI are expected to submit proposed redactions to the Office of the Director of National Intelligence \u2013 which will prepare a package for Trump to sign off on.",
+    "\n\u201cWhen the president issues such an order, it triggers a declassification review process that is conducted by various agencies within the intelligence community, in conjunction with the White House counsel, to seek to ensure the safety of America\u2019s national security interests,\u201d a Justice Department spokesman said in a statement.",
+    "\n\u201cThe department and the Federal Bureau of Investigation are already working with the Director of National Intelligence to comply with the president\u2019s order.\u201d\nThe agencies are likely to cite national security concerns over revealing classified \u201csources and methods\u201d pertaining to the Russia investigation \u2013 which will put them in direct conflict with Trump\u2019s order.",
+    "\nTrump, as president, has the power to override the agencies and declassify material on his own.",
+    "\nTrump\u2019s order to release the documents comes after months of requests from GOP lawmakers, while the DOJ has repeatedly denied their requests for more transparency.",
+    "\nThe FBI\u2019s spy\u2026\nAccording to Bloomberg, the DOJ is interpreting Trump\u2019s request to include information about the use of confidential informant (spy) Stephan Halper during the early stages of the Trump-Russia investigation.",
+    "\nAfter taking in over $400,000 from the Obama Pentagon under the auspices of a research contract, Halper befriended and spied on members of the Trump campaign, including aides Carter Page and George Papadopoulos.",
+    "\nShowdown?",
+    "\nTop Congressional Democrats Nancy Pelosi, Chuck Schumer, Adam Schiff and Mark Warner penned a joint letter to ODNI Director Dan Coates, Deputy AG Rod Rosenstein and FBI Director Christopher Wray demanding that the agencies defy President Trump.",
+    "\nShowdown?",
+    "\nIn letter, Pelosi/Schumer/Schiff/Warner order intel agencies to ignore presidential order on declassification until consulting with Congress.",
+    "\nhttps://t.co/x7JDUJd4t0 pic.twitter.com/o64PC7EEFQ \u2014 Byron York (@ByronYork) September 19, 2018\nIn the letter, the lawmakers \u201cexpress profound alarm\u201d at the decision to \u201cintervene in an ongoing law enforcement investigation that may implicate the President himself or those around him.\u201d\n\u201cAny decision by your offices to share this material with the President or his lawyers will violate longstanding Department of Justice polices, as well as assurances you have provided to us.\u201d\nThe letter then demands that the agencies brief the Gang of Eight before releasing the materials \u201cto anyone at the White House.\u201d\nReprinted from The Duran."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 123,
+      "text": "Deep State Insurrection Defying POTUS Trump\u2019s Order\n\nDeep State officials like ex-CIA chief John Brennan are in panic mode.",
+      "new_text": "Secret Uprising Defying POTUS Trump\u2019s Order\n\nOfficials like ex-CIA chief John Brennan are anxious.",
+      "prop_spans": [
+        [
+          0,
+          24,
+          "Name_Calling,Labeling"
+        ],
+        [
+          53,
+          74,
+          "Name_Calling,Labeling"
+        ],
+        [
+          105,
+          122,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 123,
+      "end_ix": 245,
+      "text": "\nDeep State DOJ tool Rod Rosenstein refuses to comply with Trump\u2019s executive order as afforded him by the US Constitution.",
+      "new_text": "\nRod Rosenstein refuses to comply with Trump\u2019s executive order as afforded him by the US Constitution.",
+      "prop_spans": [
+        [
+          124,
+          144,
+          "Name_Calling,Labeling"
+        ],
+        [
+          124,
+          135,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 245,
+      "end_ix": 361,
+      "text": "\nEstablishment Democrats are all over the mainstream media channels calling the act of releasing documents criminal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 361,
+      "end_ix": 493,
+      "text": "\nThe US President wants every American citizen to see the full, unredacted version of the FISA documents used to spy on Carter Page.",
+      "new_text": "\nThe US President wants every citizen to see the full, unredacted version of the FISA documents used to spy on Carter Page.",
+      "prop_spans": [
+        [
+          362,
+          492,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 493,
+      "end_ix": 642,
+      "text": "\nTrump is simply asking for full transparency, in what has become a two year, multi-million dollar witch hunt, to find collusion where there is none.",
+      "new_text": "\nTrump is simply asking for full transparency, in what has become a two year, multi-million dollar hunt, to find collusion where there is none.",
+      "prop_spans": [
+        [
+          559,
+          602,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 642,
+      "end_ix": 779,
+      "text": "\nThis is all you need to know about the hoax that was and is Trump-Russia collusion and the Robert Mueller special counsel investigation.",
+      "new_text": "\nThis is all you need to know about the spoof that was and is Trump-Russia complicity and the Robert Mueller special counsel investigation.",
+      "prop_spans": [
+        [
+          678,
+          726,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 779,
+      "end_ix": 1148,
+      "text": "\nThe Duran\u2019s Alex Christoforou and Editor-in-Chief Alexander Mercouris discuss the insurrection taking place at the US Department of Justice, as Democrats, ex-Obama officials, and DOJ directors are doing everything in their power to make sure the truth, about how the FISA warrant to spy on Carter Page was obtained, remains hidden from the eyes of the American public.",
+      "new_text": "\nThe Duran\u2019s Alex Christoforou and Editor-in-Chief Alexander Mercouris discuss the insurrection taking place at the US Department of Justice, as Democrats, ex-Obama officials, and DOJ directors are doing everything in their power to make sure the truth, about how the FISA warrant to spy on Carter Page was obtained, remains hidden from the eyes of the public.",
+      "prop_spans": [
+        [
+          973,
+          1147,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1148,
+      "end_ix": 1444,
+      "text": "\n\ufeff\nVia Zerohedge\u2026\nDespite President Trump\u2019s Monday order for the \u201cimmediate declassification\u201d of sensitive materials related to the Russia investigation, \u201cwithout redaction,\u201d the agencies involved are planning to do so anyway, according to Bloomberg, citing three people familiar with the matter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1444,
+      "end_ix": 1690,
+      "text": "\nThe Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can\u2019t offer a timeline for finishing, said the people, who weren\u2019t authorized to speak publicly about the sensitive matter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1690,
+      "end_ix": 2023,
+      "text": "\n\u2013Bloomberg\nThe Deep State: The Fa... Mike Lofgren Best Price: $7.55 Buy New $6.00 (as of 11:45 EDT - Details) Trump ordered the DOJ to release the text messages of former FBI Director James Comey, his deputy Andrew McCabe, now-fired special agent Peter Strzok, former FBI attorney Lisa Page and twice-demoted DOJ official Bruce Ohr.",
+      "new_text": "\n\u2013Bloomberg\nThe Deep State: The Fa... Mike Lofgren Best Price: $7.55 Buy New $6.00 (as of 11:45 EDT - Details) Trump ordered the DOJ to release the text messages of former FBI Director James Comey, his deputy Andrew McCabe, now-fired special agent Peter Strzok, former FBI attorney Lisa Page and Bruce Ohr.",
+      "prop_spans": [
+        [
+          1986,
+          2013,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2023,
+      "end_ix": 2192,
+      "text": "\nAlso ordered released are specific pages from the FBI\u2019s FISA surveillance warrant application on former Trump campaign aide Carter Page, as well as interviews with Ohr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2192,
+      "end_ix": 2367,
+      "text": "\nThe DOJ and the FBI are expected to submit proposed redactions to the Office of the Director of National Intelligence \u2013 which will prepare a package for Trump to sign off on.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2367,
+      "end_ix": 2697,
+      "text": "\n\u201cWhen the president issues such an order, it triggers a declassification review process that is conducted by various agencies within the intelligence community, in conjunction with the White House counsel, to seek to ensure the safety of America\u2019s national security interests,\u201d a Justice Department spokesman said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2697,
+      "end_ix": 3062,
+      "text": "\n\u201cThe department and the Federal Bureau of Investigation are already working with the Director of National Intelligence to comply with the president\u2019s order.\u201d\nThe agencies are likely to cite national security concerns over revealing classified \u201csources and methods\u201d pertaining to the Russia investigation \u2013 which will put them in direct conflict with Trump\u2019s order.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3062,
+      "end_ix": 3158,
+      "text": "\nTrump, as president, has the power to override the agencies and declassify material on his own.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3158,
+      "end_ix": 3322,
+      "text": "\nTrump\u2019s order to release the documents comes after months of requests from GOP lawmakers, while the DOJ has repeatedly denied their requests for more transparency.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3322,
+      "end_ix": 3544,
+      "text": "\nThe FBI\u2019s spy\u2026\nAccording to Bloomberg, the DOJ is interpreting Trump\u2019s request to include information about the use of confidential informant (spy) Stephan Halper during the early stages of the Trump-Russia investigation.",
+      "new_text": "\nThe FBI\u2019s spy\u2026\nAccording to Bloomberg, the DOJ is interpreting Trump\u2019s request to include information about the use of Stephan Halper during the early stages of the Trump-Russia investigation.",
+      "prop_spans": [
+        [
+          3323,
+          3336,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3442,
+          3469,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3544,
+      "end_ix": 3756,
+      "text": "\nAfter taking in over $400,000 from the Obama Pentagon under the auspices of a research contract, Halper befriended and spied on members of the Trump campaign, including aides Carter Page and George Papadopoulos.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3756,
+      "end_ix": 3766,
+      "text": "\nShowdown?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3766,
+      "end_ix": 4011,
+      "text": "\nTop Congressional Democrats Nancy Pelosi, Chuck Schumer, Adam Schiff and Mark Warner penned a joint letter to ODNI Director Dan Coates, Deputy AG Rod Rosenstein and FBI Director Christopher Wray demanding that the agencies defy President Trump.",
+      "new_text": "\nTop Congressional Democrats Nancy Pelosi, Chuck Schumer, Adam Schiff and Mark Warner penned a joint letter to ODNI Director Dan Coates, Deputy AG Rod Rosenstein and FBI Director Christopher Wray demanding that the agencies disobey President Trump.",
+      "prop_spans": [
+        [
+          3962,
+          4010,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4011,
+      "end_ix": 4021,
+      "text": "\nShowdown?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4021,
+      "end_ix": 4163,
+      "text": "\nIn letter, Pelosi/Schumer/Schiff/Warner order intel agencies to ignore presidential order on declassification until consulting with Congress.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4163,
+      "end_ix": 4797,
+      "text": "\nhttps://t.co/x7JDUJd4t0 pic.twitter.com/o64PC7EEFQ \u2014 Byron York (@ByronYork) September 19, 2018\nIn the letter, the lawmakers \u201cexpress profound alarm\u201d at the decision to \u201cintervene in an ongoing law enforcement investigation that may implicate the President himself or those around him.\u201d\n\u201cAny decision by your offices to share this material with the President or his lawyers will violate longstanding Department of Justice polices, as well as assurances you have provided to us.\u201d\nThe letter then demands that the agencies brief the Gang of Eight before releasing the materials \u201cto anyone at the White House.\u201d\nReprinted from The Duran.",
+      "new_text": "\nhttps://t.co/x7JDUJd4t0 pic.twitter.com/o64PC7EEFQ \u2014 Byron York (@ByronYork) September 19, 2018\nIn the letter, the lawmakers \u201cexpress profound alarm\u201d at the decision to \u201cintervene in an ongoing law enforcement investigation that may implicate the President himself or those around him.\u201d\n\u201cAny decision by your offices to share this material with the President or his lawyers will violate longstanding Department of Justice polices, as well as assurances you have provided to us.\u201d\nThe letter then demands that the agencies brief the Gang of Eight before releasing the materials \u201cto anyone at the White House.\u201d\nReprinted from The Duran.",
+      "prop_spans": [
+        [
+          4298,
+          4312,
+          "Loaded_Language"
+        ],
+        [
+          4691,
+          4709,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      24,
+      "Name_Calling,Labeling"
+    ],
+    [
+      53,
+      74,
+      "Name_Calling,Labeling"
+    ],
+    [
+      105,
+      122,
+      "Loaded_Language"
+    ],
+    [
+      124,
+      144,
+      "Name_Calling,Labeling"
+    ],
+    [
+      124,
+      135,
+      "Repetition"
+    ],
+    [
+      362,
+      492,
+      "Flag-Waving"
+    ],
+    [
+      559,
+      602,
+      "Name_Calling,Labeling"
+    ],
+    [
+      678,
+      726,
+      "Loaded_Language"
+    ],
+    [
+      973,
+      1147,
+      "Flag-Waving"
+    ],
+    [
+      1986,
+      2013,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3323,
+      3336,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3442,
+      3469,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3962,
+      4010,
+      "Loaded_Language"
+    ],
+    [
+      4298,
+      4312,
+      "Loaded_Language"
+    ],
+    [
+      4691,
+      4709,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

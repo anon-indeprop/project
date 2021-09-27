@@ -1,0 +1,370 @@
+{
+  "article_id": "703056647",
+  "sentence offsets in original": [
+    0,
+    176,
+    276,
+    400,
+    492,
+    620,
+    718,
+    1019,
+    1108,
+    1304,
+    1417,
+    1496,
+    1635,
+    1736,
+    2177,
+    2360
+  ],
+  "original sentences": [
+    "Officials Warn: Airborne Black Death Epidemic Could \u2018Explode\u2019\n\nThe bubonic plague outbreak that is taking Madagascar to its knees will more than likely last another six months.",
+    "\nBut the worst news is that the epidemic could explode anytime unleashing the sickness on the globe.",
+    "\nAt least 128 people have been killed and more than 1,300 infected by the deadlier pneumonic strain of the medieval disease.",
+    "\nBut the oncoming rainy season could see the number of those infected explode exponentially.",
+    "\nThe rainy season poses a threat to the containment of the plague because outbreaks of this magnitude often seem to be seasonal.",
+    "\nThe Foreign Office recently warned that the deadly outbreak is entering its most dangerous phase.",
+    "\nIts website said that \u201coutbreaks of plague tend to be seasonal and occur mainly during the rainy season.\u201d The African island\u2019s wet season officially began today and will last until the end of April, meaning the downward trend the plague had seen over the past few days, will likely turn upward again.",
+    "\nBecause the disease can be spread easily through a cough or sneeze, experts are fearful.",
+    "\nIt would take just one infected traveler who made it to Africa\u2019s mainland or even nearby British honeymoon paradises like Mauritius, the Maldives or the Seychelles to spread the disease globally.",
+    "\nThe Seychelles is currently putting anyone traveling from Madagascar into quarantine on arrival as a precaution.",
+    "\nThe outbreak has been fueled by performing the ancient practice of Famadihana.",
+    "\nFamadihana is the \u201cdancing with the dead\u201d ritual which sees locals dig up deceased relatives and dance with them before they are reburied.",
+    "\nJust contact with a corpse who\u2019s death was because they contracted the plague could sicken a person.",
+    "\nThe country\u2019s health chief Willy Randriamarotia said: \u201cIf a person dies of pneumonic plague and is then interred in a tomb that is subsequently opened for a Famadihana, the bacteria can still be transmitted and contaminate whoever handles the body.\u201d The tradition has been banned since the outbreak began, but it is feared ceremonies have taken place regardless as local continue to balk that their rituals have contributed to the outbreak.",
+    "\nThis latest warning that the rainy season could worsen the outbreak comes on the heels of the reports that British aid workers said the epidemic will get worse before it gets better.",
+    "\nOlivier Le Guillou of Action Against Hunger said: \u201cThe epidemic is ahead of us, we have not yet reached the peak.\u201d\nAs many as 50 aid workers are believed to have been among the 1,200 people infected with the more dangerous airborne pneumonic strain of the disease."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 176,
+      "text": "Officials Warn: Airborne Black Death Epidemic Could \u2018Explode\u2019\n\nThe bubonic plague outbreak that is taking Madagascar to its knees will more than likely last another six months.",
+      "new_text": "Officials Warn: Airborne Black Death Epidemic Could \u2018Explode\u2019\n\nThe bubonic plague outbreak that is taking Madagascar to its knees will more than likely last another six months.",
+      "prop_spans": [
+        [
+          25,
+          62,
+          "Appeal_to_Authority"
+        ],
+        [
+          25,
+          36,
+          "Name_Calling,Labeling"
+        ],
+        [
+          25,
+          61,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          53,
+          61,
+          "Loaded_Language"
+        ],
+        [
+          53,
+          62,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 176,
+      "end_ix": 276,
+      "text": "\nBut the worst news is that the epidemic could explode anytime unleashing the sickness on the globe.",
+      "new_text": "\nBut the worst news is that the epidemic could erupt anytime releasing the sickness on the globe.",
+      "prop_spans": [
+        [
+          204,
+          238,
+          "Loaded_Language"
+        ],
+        [
+          223,
+          230,
+          "Repetition"
+        ],
+        [
+          223,
+          275,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          239,
+          276,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 276,
+      "end_ix": 400,
+      "text": "\nAt least 128 people have been killed and more than 1,300 infected by the deadlier pneumonic strain of the medieval disease.",
+      "new_text": "\nAt least 128 people have been killed and more than 1,300 infected by the deadlier pneumonic strain of the medieval disease.",
+      "prop_spans": [
+        [
+          276,
+          276,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 400,
+      "end_ix": 492,
+      "text": "\nBut the oncoming rainy season could see the number of those infected explode exponentially.",
+      "new_text": "\nBut the oncoming rainy season could see the number of those infected increase exponentially.",
+      "prop_spans": [
+        [
+          470,
+          477,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 492,
+      "end_ix": 620,
+      "text": "\nThe rainy season poses a threat to the containment of the plague because outbreaks of this magnitude often seem to be seasonal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 620,
+      "end_ix": 718,
+      "text": "\nThe Foreign Office recently warned that the deadly outbreak is entering its most dangerous phase.",
+      "new_text": "\nThe Foreign Office recently warned that the deadly outbreak is entering a dangerous phase.",
+      "prop_spans": [
+        [
+          661,
+          717,
+          "Appeal_to_Authority"
+        ],
+        [
+          684,
+          717,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 718,
+      "end_ix": 1019,
+      "text": "\nIts website said that \u201coutbreaks of plague tend to be seasonal and occur mainly during the rainy season.\u201d The African island\u2019s wet season officially began today and will last until the end of April, meaning the downward trend the plague had seen over the past few days, will likely turn upward again.",
+      "new_text": "\nIts website said that \u201coutbreaks of plague tend to be seasonal and occur mainly during the rainy season.\u201d The African island\u2019s wet season officially began today and will last until the end of April, meaning the downward trend the plague had seen over the past few days, might turn upward again.",
+      "prop_spans": [
+        [
+          926,
+          1018,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1019,
+      "end_ix": 1108,
+      "text": "\nBecause the disease can be spread easily through a cough or sneeze, experts are fearful.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1108,
+      "end_ix": 1304,
+      "text": "\nIt would take just one infected traveler who made it to Africa\u2019s mainland or even nearby British honeymoon paradises like Mauritius, the Maldives or the Seychelles to spread the disease globally.",
+      "new_text": "\nIt might take just one infected traveler who made it to Africa\u2019s mainland or even nearby British honeymoon paradises like Mauritius, the Maldives or the Seychelles to spread the disease globally.",
+      "prop_spans": [
+        [
+          1109,
+          1140,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1304,
+      "end_ix": 1417,
+      "text": "\nThe Seychelles is currently putting anyone traveling from Madagascar into quarantine on arrival as a precaution.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1417,
+      "end_ix": 1496,
+      "text": "\nThe outbreak has been fueled by performing the ancient practice of Famadihana.",
+      "new_text": "\nThe outbreak might have been fueled by performing the ancient practice of Famadihana.",
+      "prop_spans": [
+        [
+          1418,
+          1495,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1496,
+      "end_ix": 1635,
+      "text": "\nFamadihana is the \u201cdancing with the dead\u201d ritual which sees locals dig up deceased relatives and dance with them before they are reburied.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1635,
+      "end_ix": 1736,
+      "text": "\nJust contact with a corpse who\u2019s death was because they contracted the plague could sicken a person.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1736,
+      "end_ix": 2177,
+      "text": "\nThe country\u2019s health chief Willy Randriamarotia said: \u201cIf a person dies of pneumonic plague and is then interred in a tomb that is subsequently opened for a Famadihana, the bacteria can still be transmitted and contaminate whoever handles the body.\u201d The tradition has been banned since the outbreak began, but it is feared ceremonies have taken place regardless as local continue to balk that their rituals have contributed to the outbreak.",
+      "new_text": "\nThe country\u2019s health chief Willy Randriamarotia said: \u201cIf a person dies of pneumonic plague and is then interred in a tomb that is subsequently opened for a Famadihana, the bacteria can still be transmitted and contaminate whoever handles the body.\u201d The tradition has been banned since the outbreak began, but it is feared ceremonies have taken place regardless as local continue to balk that their rituals have contributed to the outbreak.",
+      "prop_spans": [
+        [
+          1919,
+          1984,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1987,
+          2041,
+          "Causal_Oversimplification"
+        ],
+        [
+          2102,
+          2176,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2177,
+      "end_ix": 2360,
+      "text": "\nThis latest warning that the rainy season could worsen the outbreak comes on the heels of the reports that British aid workers said the epidemic will get worse before it gets better.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2360,
+      "end_ix": 2625,
+      "text": "\nOlivier Le Guillou of Action Against Hunger said: \u201cThe epidemic is ahead of us, we have not yet reached the peak.\u201d\nAs many as 50 aid workers are believed to have been among the 1,200 people infected with the more dangerous airborne pneumonic strain of the disease.",
+      "new_text": "\nOlivier Le Guillou of Action Against Hunger said: \u201cThe epidemic is ahead of us, we have not yet reached the peak.\u201d\nAs many as 50 aid workers are believed to have been among the 1,200 people infected with the more dangerous airborne pneumonic strain of the disease.",
+      "prop_spans": [
+        [
+          2412,
+          2475,
+          "Appeal_to_Authority"
+        ],
+        [
+          2412,
+          2473,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      25,
+      62,
+      "Appeal_to_Authority"
+    ],
+    [
+      25,
+      36,
+      "Name_Calling,Labeling"
+    ],
+    [
+      25,
+      61,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      53,
+      61,
+      "Loaded_Language"
+    ],
+    [
+      53,
+      62,
+      "Repetition"
+    ],
+    [
+      204,
+      238,
+      "Loaded_Language"
+    ],
+    [
+      223,
+      230,
+      "Repetition"
+    ],
+    [
+      223,
+      275,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      239,
+      276,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      470,
+      477,
+      "Repetition"
+    ],
+    [
+      661,
+      717,
+      "Appeal_to_Authority"
+    ],
+    [
+      684,
+      717,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      926,
+      1018,
+      "Appeal_to_Authority"
+    ],
+    [
+      1109,
+      1140,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1418,
+      1495,
+      "Causal_Oversimplification"
+    ],
+    [
+      1919,
+      1984,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1987,
+      2041,
+      "Causal_Oversimplification"
+    ],
+    [
+      2102,
+      2176,
+      "Doubt"
+    ],
+    [
+      2412,
+      2475,
+      "Appeal_to_Authority"
+    ],
+    [
+      2412,
+      2473,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

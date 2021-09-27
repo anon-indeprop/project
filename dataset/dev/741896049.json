@@ -1,0 +1,225 @@
+{
+  "article_id": "741896049",
+  "sentence offsets in original": [
+    0,
+    346,
+    436,
+    504,
+    707,
+    780,
+    867,
+    970,
+    1129,
+    1450,
+    1566,
+    1714,
+    1834,
+    1919,
+    1977,
+    2012,
+    2136,
+    2302
+  ],
+  "original sentences": [
+    "Western Michigan ICE operation nets 16 arrests over 4-day period\n\nKALAMAZOO, Mich. \u2013 U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) deportation officers arrested 16 individuals for violating federal immigration laws in western Michigan during a four-day targeted enforcement operation that ended Thursday.",
+    "\nNine of the immigration violators arrested during the operation were convicted criminals.",
+    "\nTwo individuals illegally re-entered the country after deportation.",
+    "\nDepending on the alien\u2019s criminal history, an alien who illegally reenters the United States, after having been previously removed, has committed a felony punishable by up to 20 years in federal prison.",
+    "\nFourteen men and two women were arrested during the enforcement actions.",
+    "\nWith the exception of a Congolese man, all of those arrested were nationals of Mexico.",
+    "\nEnforcement activities took place primarily in Berrien, Kalamazoo, St. Joseph, and Van Buren counties.",
+    "\n\u201cThis operation reflects ICE\u2019s commitment to public safety through targeted enforcement efforts,\u201d said Rebecca Adducci, field office director for ERO Detroit.",
+    "\n\u201cI applaud the brave men and women of ICE who put themselves in harm\u2019s way daily to keep our community safe.\u201d\nCriminal convictions of those arrested include but are not limited to domestic violence, DUI, operating while intoxicated, illegal entry, aggravated assault, assault and battery and carrying a concealed weapon.",
+    "\nThe arrests include:\n\u00b7 A 19-year-old male Mexican national with a prior conviction for carrying a concealed weapon.",
+    "\n\u00b7 A 46-year-old male national of the Democratic Republic of the Congo with convictions for aggravated assault, resisting arrest, and other charges.",
+    "\n\u00b7 A 36-year-old male Mexican national with convictions for assault and battery, aggravated assault, and other offenses.",
+    "\n\u00b7 A 56-year-old female Mexican national with a federal conviction for illegal entry.",
+    "\nShe is facing federal re-entry after deportation charges.",
+    "\nAll four remain in agency custody.",
+    "\nThe arrestees who are not being federally prosecuted will be processed administratively for removal from the United States.",
+    "\nThose who have outstanding orders of removal, or who returned to the United States illegally after being deported, are subject to immediate removal from the country.",
+    "\nThe remaining individuals are in ICE custody awaiting a hearing before an immigration judge, or pending travel arrangements for removal in the near future."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 346,
+      "text": "Western Michigan ICE operation nets 16 arrests over 4-day period\n\nKALAMAZOO, Mich. \u2013 U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) deportation officers arrested 16 individuals for violating federal immigration laws in western Michigan during a four-day targeted enforcement operation that ended Thursday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 346,
+      "end_ix": 436,
+      "text": "\nNine of the immigration violators arrested during the operation were convicted criminals.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 436,
+      "end_ix": 504,
+      "text": "\nTwo individuals illegally re-entered the country after deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 504,
+      "end_ix": 707,
+      "text": "\nDepending on the alien\u2019s criminal history, an alien who illegally reenters the United States, after having been previously removed, has committed a felony punishable by up to 20 years in federal prison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 707,
+      "end_ix": 780,
+      "text": "\nFourteen men and two women were arrested during the enforcement actions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 780,
+      "end_ix": 867,
+      "text": "\nWith the exception of a Congolese man, all of those arrested were nationals of Mexico.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 867,
+      "end_ix": 970,
+      "text": "\nEnforcement activities took place primarily in Berrien, Kalamazoo, St. Joseph, and Van Buren counties.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 970,
+      "end_ix": 1129,
+      "text": "\n\u201cThis operation reflects ICE\u2019s commitment to public safety through targeted enforcement efforts,\u201d said Rebecca Adducci, field office director for ERO Detroit.",
+      "new_text": "\n\u201cThis operation reflects ICE\u2019s commitment to public safety through targeted enforcement efforts,\u201d said Rebecca Adducci, field office director for ERO Detroit.",
+      "prop_spans": [
+        [
+          972,
+          1068,
+          "Appeal_to_Authority"
+        ],
+        [
+          996,
+          1068,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1129,
+      "end_ix": 1450,
+      "text": "\n\u201cI applaud the brave men and women of ICE who put themselves in harm\u2019s way daily to keep our community safe.\u201d\nCriminal convictions of those arrested include but are not limited to domestic violence, DUI, operating while intoxicated, illegal entry, aggravated assault, assault and battery and carrying a concealed weapon.",
+      "new_text": "\n\u201cI applaud the brave men and women of ICE who put themselves in harm\u2019s way daily to keep our community safe.\u201d\nCriminal convictions of those arrested include but are not limited to domestic violence, DUI, operating while intoxicated, illegal entry, aggravated assault, assault and battery and carrying a concealed weapon.",
+      "prop_spans": [
+        [
+          1131,
+          1210,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1131,
+          1237,
+          "Flag-Waving"
+        ],
+        [
+          1141,
+          1238,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1450,
+      "end_ix": 1566,
+      "text": "\nThe arrests include:\n\u00b7 A 19-year-old male Mexican national with a prior conviction for carrying a concealed weapon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1566,
+      "end_ix": 1714,
+      "text": "\n\u00b7 A 46-year-old male national of the Democratic Republic of the Congo with convictions for aggravated assault, resisting arrest, and other charges.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1714,
+      "end_ix": 1834,
+      "text": "\n\u00b7 A 36-year-old male Mexican national with convictions for assault and battery, aggravated assault, and other offenses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1834,
+      "end_ix": 1919,
+      "text": "\n\u00b7 A 56-year-old female Mexican national with a federal conviction for illegal entry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1919,
+      "end_ix": 1977,
+      "text": "\nShe is facing federal re-entry after deportation charges.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1977,
+      "end_ix": 2012,
+      "text": "\nAll four remain in agency custody.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2012,
+      "end_ix": 2136,
+      "text": "\nThe arrestees who are not being federally prosecuted will be processed administratively for removal from the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2136,
+      "end_ix": 2302,
+      "text": "\nThose who have outstanding orders of removal, or who returned to the United States illegally after being deported, are subject to immediate removal from the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2302,
+      "end_ix": 2458,
+      "text": "\nThe remaining individuals are in ICE custody awaiting a hearing before an immigration judge, or pending travel arrangements for removal in the near future.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      972,
+      1068,
+      "Appeal_to_Authority"
+    ],
+    [
+      996,
+      1068,
+      "Repetition"
+    ],
+    [
+      1131,
+      1210,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1131,
+      1237,
+      "Flag-Waving"
+    ],
+    [
+      1141,
+      1238,
+      "Repetition"
+    ]
+  ]
+}

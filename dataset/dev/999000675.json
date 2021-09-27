@@ -1,0 +1,293 @@
+{
+  "article_id": "999000675",
+  "sentence offsets in original": [
+    0,
+    440,
+    467,
+    1042,
+    1393,
+    1582,
+    1722,
+    2040,
+    2152,
+    2192,
+    2437,
+    2500
+  ],
+  "original sentences": [
+    "Democrat\u2019s Friend Louis Farrakhan In Iran: \u201cDeath to America!\u201d \u2013 America Is The \u201cGreat Satan\u201d\n\nAh yes, Nation of Islam leader, racist, and totalitarian Louis Farrakhan was recently captured on video in Tehran, Iran chanting \u201cDeath to America\u201d in Arabic and stating that America is the \u201cGreat Satan.\u201d\nLouis Farrakhan, leader of Nation of Islam, met with Mohsen Rezaee, secretary of Iran\u2018s Expediency Discernment Council, on Sunday in Tehran.",
+    "\nHeres\u2019 what he had to say.",
+    "\nIran state TV news presenter: Listen to leader of Nation of Islam chanting \"Death to America\" Farrakhan [in Farsi]: \"Death to\u2026\"\nAudience: \"\u2026America\" pic.twitter.com/p0qGfHHfg0 \u2014 Sobhan Hassanvand (@Hassanvand) November 4, 2018\nHe then went on in a university speech to encourage the revolution and to persevere against the sanctions of the US, whom he referred to as the \u201cGreat Satan.\u201d\nLouis Farrakhan Refers to the U.S. as \"Great Satan\" during a Tehran University Speech; Says to Iranians: If You Persevere in Your Revolution Despite the Sanctions, \"Victory Will Be Yours.\"",
+    "\npic.twitter.com/7ZVloq2cXL \u2014 MEMRI (@MEMRIReports) November 5, 2018\nAlgemeiner reported:\nNation of Islam leader and prominent antisemite Louis Farrakhan chanted \u201cDeath to America\u201d and claimed that \u201cAmerica has never been a democracy\u201d on Sunday during a solidarity trip to Iran, ahead of the re-implementation of US sanctions on the country this week.",
+    "\nAccording to Iran\u2019s semi-official state news agency Mehr, Farrakhan said at a meeting with the Secretary of Iran\u2019s Expediency Council Mohsen Rezaei that America is conspiring against Iran.",
+    "\n\u201cI understand how the enemies have plotted against the Iranian people and I would like to stay alongside you to stop their plots,\u201d he said.",
+    "\nHe also blasted American support for Saudi Arabia, Iran\u2019s arch-rival in the region, and added, \u201cSatan seeks to divide Muslims and wants them to kill each other, while God tells us in the Quran to be united.\u201d\nThis man is a domestic terrorist and he assimilates with avowed enemies of the US, many of them US Democrats.",
+    "\nWhat I want to know is why would Louis Farrakhan ever be allowed back inside our borders after such statements?",
+    "\nIs this not treason of the first order?",
+    "\nFurthermore, why are Democrats such as Keith Ellison, who has a long history of friendship with Farrakhan, despite the lies he tells to try and distance himself from Farrakhan for votes, not being arrested for his ties to this criminal traitor?",
+    "\nAnd Ellison isn\u2019t the only Democrat who approves of Farrakhan!",
+    "\nH/T Gateway Pundit"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 440,
+      "text": "Democrat\u2019s Friend Louis Farrakhan In Iran: \u201cDeath to America!\u201d \u2013 America Is The \u201cGreat Satan\u201d\n\nAh yes, Nation of Islam leader, racist, and totalitarian Louis Farrakhan was recently captured on video in Tehran, Iran chanting \u201cDeath to America\u201d in Arabic and stating that America is the \u201cGreat Satan.\u201d\nLouis Farrakhan, leader of Nation of Islam, met with Mohsen Rezaee, secretary of Iran\u2018s Expediency Discernment Council, on Sunday in Tehran.",
+      "new_text": "Democrat\u2019s Friend Louis Farrakhan In Iran: \u201cDeath to America!\u201d \u2013 America Is The \u201cGreat Satan\u201d\n\nAh yes, Nation of Islam leader, racist, and totalitarian Louis Farrakhan was recently captured on video in Tehran, Iran chanting \u201cDeath to America\u201d in Arabic and stating that America is the \u201cGreat Satan.\u201d\nLouis Farrakhan, leader of Nation of Islam, met with Mohsen Rezaee, secretary of Iran\u2018s Expediency Discernment Council, on Sunday in Tehran.",
+      "prop_spans": [
+        [
+          44,
+          92,
+          "Slogans"
+        ],
+        [
+          44,
+          60,
+          "Loaded_Language"
+        ],
+        [
+          225,
+          242,
+          "Repetition"
+        ],
+        [
+          225,
+          241,
+          "Slogans"
+        ],
+        [
+          225,
+          241,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 440,
+      "end_ix": 467,
+      "text": "\nHeres\u2019 what he had to say.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 467,
+      "end_ix": 1042,
+      "text": "\nIran state TV news presenter: Listen to leader of Nation of Islam chanting \"Death to America\" Farrakhan [in Farsi]: \"Death to\u2026\"\nAudience: \"\u2026America\" pic.twitter.com/p0qGfHHfg0 \u2014 Sobhan Hassanvand (@Hassanvand) November 4, 2018\nHe then went on in a university speech to encourage the revolution and to persevere against the sanctions of the US, whom he referred to as the \u201cGreat Satan.\u201d\nLouis Farrakhan Refers to the U.S. as \"Great Satan\" during a Tehran University Speech; Says to Iranians: If You Persevere in Your Revolution Despite the Sanctions, \"Victory Will Be Yours.\"",
+      "new_text": "\nIran state TV news presenter: Listen to leader of Nation of Islam chanting \"Death to America\" Farrakhan [in Farsi]: \"Death to\u2026\"\nAudience: \"\u2026America\" pic.twitter.com/p0qGfHHfg0 \u2014 Sobhan Hassanvand (@Hassanvand) November 4, 2018\nHe then went on in a university speech to encourage the revolution and to persevere against the sanctions of the US, whom he referred to as the \u201cGreat Satan.\u201d\nLouis Farrakhan Refers to the U.S. as \"Great Satan\" during a Tehran University Speech; Says to Iranians: If You Persevere in Your Revolution Despite the Sanctions, \"Victory Will Be Yours.\"",
+      "prop_spans": [
+        [
+          544,
+          560,
+          "Slogans"
+        ],
+        [
+          544,
+          560,
+          "Repetition"
+        ],
+        [
+          544,
+          560,
+          "Loaded_Language"
+        ],
+        [
+          893,
+          904,
+          "Repetition"
+        ],
+        [
+          1019,
+          1040,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1042,
+      "end_ix": 1393,
+      "text": "\npic.twitter.com/7ZVloq2cXL \u2014 MEMRI (@MEMRIReports) November 5, 2018\nAlgemeiner reported:\nNation of Islam leader and prominent antisemite Louis Farrakhan chanted \u201cDeath to America\u201d and claimed that \u201cAmerica has never been a democracy\u201d on Sunday during a solidarity trip to Iran, ahead of the re-implementation of US sanctions on the country this week.",
+      "new_text": "\npic.twitter.com/7ZVloq2cXL \u2014 MEMRI (@MEMRIReports) November 5, 2018\nAlgemeiner reported:\nNation of Islam leader and prominent antisemite Louis Farrakhan chanted \u201cDeath to America\u201d and claimed that \u201cAmerica has never been a democracy\u201d on Sunday during a solidarity trip to Iran, ahead of the re-implementation of US sanctions on the country this week.",
+      "prop_spans": [
+        [
+          1205,
+          1221,
+          "Slogans"
+        ],
+        [
+          1205,
+          1221,
+          "Loaded_Language"
+        ],
+        [
+          1241,
+          1275,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1241,
+          1275,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1393,
+      "end_ix": 1582,
+      "text": "\nAccording to Iran\u2019s semi-official state news agency Mehr, Farrakhan said at a meeting with the Secretary of Iran\u2019s Expediency Council Mohsen Rezaei that America is conspiring against Iran.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1582,
+      "end_ix": 1722,
+      "text": "\n\u201cI understand how the enemies have plotted against the Iranian people and I would like to stay alongside you to stop their plots,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1722,
+      "end_ix": 2040,
+      "text": "\nHe also blasted American support for Saudi Arabia, Iran\u2019s arch-rival in the region, and added, \u201cSatan seeks to divide Muslims and wants them to kill each other, while God tells us in the Quran to be united.\u201d\nThis man is a domestic terrorist and he assimilates with avowed enemies of the US, many of them US Democrats.",
+      "new_text": "\nHe also condemned American support for Saudi Arabia, Iran\u2019s arch-rival in the region, and added, \u201cSatan seeks to divide Muslims and wants them to kill each other, while God tells us in the Quran to be united.\u201d\nThis man is a domestic terrorist and he sides with avowed enemies of the US, many of them US Democrats.",
+      "prop_spans": [
+        [
+          1731,
+          1739,
+          "Loaded_Language"
+        ],
+        [
+          1819,
+          1849,
+          "Loaded_Language"
+        ],
+        [
+          1968,
+          1988,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2040,
+      "end_ix": 2152,
+      "text": "\nWhat I want to know is why would Louis Farrakhan ever be allowed back inside our borders after such statements?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2152,
+      "end_ix": 2192,
+      "text": "\nIs this not treason of the first order?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2192,
+      "end_ix": 2437,
+      "text": "\nFurthermore, why are Democrats such as Keith Ellison, who has a long history of friendship with Farrakhan, despite the lies he tells to try and distance himself from Farrakhan for votes, not being arrested for his ties to this criminal traitor?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2437,
+      "end_ix": 2500,
+      "text": "\nAnd Ellison isn\u2019t the only Democrat who approves of Farrakhan!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2500,
+      "end_ix": 2519,
+      "text": "\nH/T Gateway Pundit",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      44,
+      92,
+      "Slogans"
+    ],
+    [
+      44,
+      60,
+      "Loaded_Language"
+    ],
+    [
+      225,
+      242,
+      "Repetition"
+    ],
+    [
+      225,
+      241,
+      "Slogans"
+    ],
+    [
+      225,
+      241,
+      "Loaded_Language"
+    ],
+    [
+      544,
+      560,
+      "Slogans"
+    ],
+    [
+      544,
+      560,
+      "Repetition"
+    ],
+    [
+      544,
+      560,
+      "Loaded_Language"
+    ],
+    [
+      893,
+      904,
+      "Repetition"
+    ],
+    [
+      1019,
+      1040,
+      "Slogans"
+    ],
+    [
+      1205,
+      1221,
+      "Slogans"
+    ],
+    [
+      1205,
+      1221,
+      "Loaded_Language"
+    ],
+    [
+      1241,
+      1275,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1241,
+      1275,
+      "Doubt"
+    ],
+    [
+      1731,
+      1739,
+      "Loaded_Language"
+    ],
+    [
+      1819,
+      1849,
+      "Loaded_Language"
+    ],
+    [
+      1968,
+      1988,
+      "Loaded_Language"
+    ]
+  ]
+}

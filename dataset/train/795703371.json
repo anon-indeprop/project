@@ -1,0 +1,454 @@
+{
+  "article_id": "795703371",
+  "sentence offsets in original": [
+    0,
+    202,
+    315,
+    347,
+    590,
+    699,
+    861,
+    1089,
+    1163,
+    1565,
+    1648,
+    1731,
+    1753,
+    1773,
+    1812,
+    1897,
+    1979,
+    2007,
+    2070,
+    2405,
+    2636,
+    2704,
+    2739,
+    2977,
+    3057,
+    3284,
+    3376,
+    3495,
+    3637,
+    3749,
+    3902,
+    4087,
+    4186,
+    4267,
+    4443
+  ],
+  "original sentences": [
+    "Trump Threatens To Send Military To Block Honduran Migrant Caravan\n\nThis is the second time a caravan of migrants have gotten together and seem intent on pushing towards and across the US/Mexico border.",
+    "\nAs a result of the news, President Donald Trump has threatened to send the military to the border to block them.",
+    "\nReuters reports on the caravan.",
+    "\nMore Honduran migrants tried to join a caravan of several thousand trekking through Guatemala on Wednesday, defying calls by authorities not to make the journey after U.S. President Donald Trump threatened to cut off regional aid in reprisal.",
+    "\nThe caravan has been growing steadily since it left the violent Honduran city of San Pedro Sula on Saturday.",
+    "\nThe migrants hope to reach Mexico and then cross its northern border with the United States, to seek refuge from endemic violence and poverty in Central America.",
+    "\nSeveral thousand people are now part of the caravan, according to a Reuters witness traveling with the group in Guatemala, where men women and children on foot and riding in trucks filled a road on their long journey to Mexico.",
+    "\nIn a series of tweets on Thursday, President Trump said the right things.",
+    "\nI am watching the Democrat Party led (because they want Open Borders and existing weak laws) assault on our country by Guatemala, Honduras and El Salvador, whose leaders are doing little to stop this large flow of people, INCLUDING MANY CRIMINALS, from entering Mexico to U.S..... take our poll - story continues below Will the Democrats try to impeach President Trump now that they control the House?",
+    "\nWill the Democrats try to impeach President Trump now that they control the House?",
+    "\nWill the Democrats try to impeach President Trump now that they control the House?",
+    "\n* Yes, they will try.",
+    "\nNo, they won't try.",
+    "\nIf they do, they'll regret it in 2020.",
+    "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u2014 Donald J. Trump (@realDonaldTrump) October 18, 2018\n....In addition to stopping all payments to these countries, which seem to have almost no control over their population, I must, in the strongest of terms, ask Mexico to stop this onslaught - and if unable to do so I will call up the U.S. Military and CLOSE OUR SOUTHERN BORDER!..",
+    "\n\u2014 Donald J. Trump (@realDonaldTrump) October 18, 2018\n....The assault on our country at our Southern Border, including the Criminal elements and DRUGS pouring in, is far more important to me, as President, than Trade or the USMCA.",
+    "\nHopefully Mexico will stop this onslaught at their Northern Border.",
+    "\nAll Democrats fault for weak laws!",
+    "\n\u2014 Donald J. Trump (@realDonaldTrump) October 18, 2018\n\u201cI must, in the strongest of terms, ask Mexico to stop this onslaught \u2013 and if unable to do so I will call up the U.S. Military and CLOSE OUR SOUTHERN BORDER!\u201d Trump wrote on Twitter.",
+    "\n\u201cHopefully Mexico will stop this onslaught at their Northern Border,\u201d he added.",
+    "\n\u201cAll Democrats fault for weak laws!\u201d\nNot only did Trump threaten to send the military to the border, but he also threatened to stop all federal payments to Guatemala, Honduras, and El Salvador if they didn't block the caravan.",
+    "\nThe obvious question I have is: Why are you not stopping those payments now, Mr. President?",
+    "\nThey are unconstitutional and neither Congress nor you have the authority to give American's money to these countries.",
+    "\nTrump also seemed ready to back out on his new trade deal, which is hardly a deal for the US, with Mexico if they failed to stop the caravan.",
+    "\nHe then pointed out that many who cross the border are criminals and are coming to engage in criminal activity.",
+    "\nIn fact, every single migrant who crosses over into our country will more than likely commit at least 28 crimes in order to present themselves as legal.",
+    "\n\u201cThe assault on our country at our Southern Border, including the Criminal elements and DRUGS pouring in, is far more important to me, as President, than Trade or the USMCA,\u201d he wrote.",
+    "\nThe USMCA is a disaster and should be done away with without this threat of a caravan of migrants.",
+    "\nWe'll see if these countries stop the migrants or if it continues to the border.",
+    "\nIf they make it here and Trump does nothing but arrest them and put them through the system rather than simply turning them away, then you know the words are empty and hollow.",
+    "\nTime will tell what will take place."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 202,
+      "text": "Trump Threatens To Send Military To Block Honduran Migrant Caravan\n\nThis is the second time a caravan of migrants have gotten together and seem intent on pushing towards and across the US/Mexico border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 202,
+      "end_ix": 315,
+      "text": "\nAs a result of the news, President Donald Trump has threatened to send the military to the border to block them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 315,
+      "end_ix": 347,
+      "text": "\nReuters reports on the caravan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 347,
+      "end_ix": 590,
+      "text": "\nMore Honduran migrants tried to join a caravan of several thousand trekking through Guatemala on Wednesday, defying calls by authorities not to make the journey after U.S. President Donald Trump threatened to cut off regional aid in reprisal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 590,
+      "end_ix": 699,
+      "text": "\nThe caravan has been growing steadily since it left the violent Honduran city of San Pedro Sula on Saturday.",
+      "new_text": "\nThe caravan has been growing steadily since it left the harsh Honduran city of San Pedro Sula on Saturday.",
+      "prop_spans": [
+        [
+          647,
+          654,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 699,
+      "end_ix": 861,
+      "text": "\nThe migrants hope to reach Mexico and then cross its northern border with the United States, to seek refuge from endemic violence and poverty in Central America.",
+      "new_text": "\nThe migrants hope to reach Mexico and then cross its northern border with the United States, to seek refuge from internal violence and poverty in Central America.",
+      "prop_spans": [
+        [
+          813,
+          829,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 861,
+      "end_ix": 1089,
+      "text": "\nSeveral thousand people are now part of the caravan, according to a Reuters witness traveling with the group in Guatemala, where men women and children on foot and riding in trucks filled a road on their long journey to Mexico.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1089,
+      "end_ix": 1163,
+      "text": "\nIn a series of tweets on Thursday, President Trump said the right things.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1163,
+      "end_ix": 1565,
+      "text": "\nI am watching the Democrat Party led (because they want Open Borders and existing weak laws) assault on our country by Guatemala, Honduras and El Salvador, whose leaders are doing little to stop this large flow of people, INCLUDING MANY CRIMINALS, from entering Mexico to U.S..... take our poll - story continues below Will the Democrats try to impeach President Trump now that they control the House?",
+      "new_text": "\nI am watching the Democrat Party led (because they want Open Borders and existing weak laws) assault on our country by Guatemala, Honduras and El Salvador, whose leaders are doing little to stop this large flow of people, INCLUDING MANY CRIMINALS, from entering Mexico to U.S..... take our poll - story continues below Will the Democrats try to impeach President Trump now that they control the House?",
+      "prop_spans": [
+        [
+          1268,
+          1279,
+          "Flag-Waving"
+        ],
+        [
+          1386,
+          1410,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1565,
+      "end_ix": 1648,
+      "text": "\nWill the Democrats try to impeach President Trump now that they control the House?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1648,
+      "end_ix": 1731,
+      "text": "\nWill the Democrats try to impeach President Trump now that they control the House?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1731,
+      "end_ix": 1753,
+      "text": "\n* Yes, they will try.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1753,
+      "end_ix": 1773,
+      "text": "\nNo, they won't try.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1773,
+      "end_ix": 1812,
+      "text": "\nIf they do, they'll regret it in 2020.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1812,
+      "end_ix": 1897,
+      "text": "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1897,
+      "end_ix": 1979,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1979,
+      "end_ix": 2007,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2007,
+      "end_ix": 2070,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2070,
+      "end_ix": 2405,
+      "text": "\n\u2014 Donald J. Trump (@realDonaldTrump) October 18, 2018\n....In addition to stopping all payments to these countries, which seem to have almost no control over their population, I must, in the strongest of terms, ask Mexico to stop this onslaught - and if unable to do so I will call up the U.S. Military and CLOSE OUR SOUTHERN BORDER!..",
+      "new_text": "n\u2014 Donald J. Trump (@realDonaldTrump) October 18, 2018\n....In addition to stopping all payments to these countries, which seem to have almost no control over their population, I must, in the strongest of terms, ask Mexico to stop this onslaught - and if unable to do so I will call up the U.S. Military and CLOSE OUR SOUTHERN BORDER!..",
+      "prop_spans": [
+        [
+          2257,
+          2270,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2305,
+          2314,
+          "Loaded_Language"
+        ],
+        [
+          2321,
+          2402,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2405,
+      "end_ix": 2636,
+      "text": "\n\u2014 Donald J. Trump (@realDonaldTrump) October 18, 2018\n....The assault on our country at our Southern Border, including the Criminal elements and DRUGS pouring in, is far more important to me, as President, than Trade or the USMCA.",
+      "new_text": "\n\u2014 Donald J. Trump (@realDonaldTrump) October 18, 2018\n....The assault on our country at our Southern Border, including the Criminal elements and DRUGS pouring in, is far more important to me, as President, than Trade or the USMCA",
+      "prop_spans": [
+        [
+          2468,
+          2475,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2636,
+      "end_ix": 2704,
+      "text": "\nHopefully Mexico will stop this onslaught at their Northern Border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2704,
+      "end_ix": 2739,
+      "text": "\nAll Democrats fault for weak laws!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2739,
+      "end_ix": 2977,
+      "text": "\n\u2014 Donald J. Trump (@realDonaldTrump) October 18, 2018\n\u201cI must, in the strongest of terms, ask Mexico to stop this onslaught \u2013 and if unable to do so I will call up the U.S. Military and CLOSE OUR SOUTHERN BORDER!\u201d Trump wrote on Twitter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2977,
+      "end_ix": 3057,
+      "text": "\n\u201cHopefully Mexico will stop this onslaught at their Northern Border,\u201d he added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3057,
+      "end_ix": 3284,
+      "text": "\n\u201cAll Democrats fault for weak laws!\u201d\nNot only did Trump threaten to send the military to the border, but he also threatened to stop all federal payments to Guatemala, Honduras, and El Salvador if they didn't block the caravan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3284,
+      "end_ix": 3376,
+      "text": "\nThe obvious question I have is: Why are you not stopping those payments now, Mr. President?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3376,
+      "end_ix": 3495,
+      "text": "\nThey are unconstitutional and neither Congress nor you have the authority to give American's money to these countries.",
+      "new_text": "\nThey are unconstitutional and neither Congress nor you have the authority to give our money to these countries.",
+      "prop_spans": [
+        [
+          3386,
+          3402,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3459,
+          3469,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3495,
+      "end_ix": 3637,
+      "text": "\nTrump also seemed ready to back out on his new trade deal, which is hardly a deal for the US, with Mexico if they failed to stop the caravan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3637,
+      "end_ix": 3749,
+      "text": "\nHe then pointed out that many who cross the border are criminals and are coming to engage in criminal activity.",
+      "new_text": "\nHe then pointed out that many who cross the border are criminals.",
+      "prop_spans": [
+        [
+          3711,
+          3748,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3749,
+      "end_ix": 3902,
+      "text": "\nIn fact, every single migrant who crosses over into our country will more than likely commit at least 28 crimes in order to present themselves as legal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3902,
+      "end_ix": 4087,
+      "text": "\n\u201cThe assault on our country at our Southern Border, including the Criminal elements and DRUGS pouring in, is far more important to me, as President, than Trade or the USMCA,\u201d he wrote.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4087,
+      "end_ix": 4186,
+      "text": "\nThe USMCA is a disaster and should be done away with without this threat of a caravan of migrants.",
+      "new_text": "\nThe USMCA is terrible and should be done away with without this threat of a caravan of migrants.",
+      "prop_spans": [
+        [
+          4103,
+          4111,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4186,
+      "end_ix": 4267,
+      "text": "\nWe'll see if these countries stop the migrants or if it continues to the border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4267,
+      "end_ix": 4443,
+      "text": "\nIf they make it here and Trump does nothing but arrest them and put them through the system rather than simply turning them away, then you know the words are empty and hollow.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4443,
+      "end_ix": 4480,
+      "text": "\nTime will tell what will take place.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      647,
+      654,
+      "Loaded_Language"
+    ],
+    [
+      813,
+      829,
+      "Loaded_Language"
+    ],
+    [
+      1268,
+      1279,
+      "Flag-Waving"
+    ],
+    [
+      1386,
+      1410,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2257,
+      2270,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2305,
+      2314,
+      "Loaded_Language"
+    ],
+    [
+      2321,
+      2402,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2468,
+      2475,
+      "Loaded_Language"
+    ],
+    [
+      3386,
+      3402,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3459,
+      3469,
+      "Flag-Waving"
+    ],
+    [
+      3711,
+      3748,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      4103,
+      4111,
+      "Loaded_Language"
+    ]
+  ]
+}

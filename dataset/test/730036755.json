@@ -1,0 +1,334 @@
+{
+  "article_id": "730036755",
+  "sentence offsets in original": [
+    0,
+    281,
+    455,
+    658,
+    722,
+    857,
+    921,
+    1007,
+    1197,
+    1246,
+    1401,
+    1437,
+    1541,
+    1660,
+    1827,
+    1974,
+    2124,
+    2158,
+    2201,
+    2399,
+    2505,
+    2622,
+    2680,
+    2798,
+    2866,
+    2975,
+    3060,
+    3168,
+    3295,
+    3425,
+    3547,
+    3616,
+    3794,
+    3986,
+    4040,
+    4152
+  ],
+  "original sentences": [
+    "Police had previously gone to Ohio home where officers were killed\n\nPolice in Ohio had previously gone to the home where a man fatally shot two police officers for three domestic disputes but no arrests were ever made, incident reports from the Columbus suburb of Westerville show.",
+    "\nWesterville officers Eric Joering, 39, and Anthony Morelli, 54, were killed shortly after noon Saturday in this normally quiet suburb while responding to a 911 hang-up call.",
+    "\nThe suspect, 30-year-old Quentin Smith, was shot and wounded by the officers and taken to Ohio State University Wexner Medical Center in critical condition Saturday, a Westerville city spokeswoman said.",
+    "\nThe hospital would not provide updates on his condition Sunday.",
+    "\nA series of 911 calls released by the city of Westerville provide some details about what happened Saturday at a complex of townhomes.",
+    "\nSmith lived there with his wife, Candace, and a young daughter.",
+    "\nWesterville police have provided few details about what happened inside the townhome.",
+    "\nWesterville Police Chief Joe Morbitzer said at a news conference Saturday that Joering, a 16-year veteran, and Morelli, a 30-year-veteran, were shot immediately upon entering the residence.",
+    "\nColumbus police are investigating the shootings.",
+    "\nAfter the initial hang-up call at noon, a dispatcher called the number back and reached a woman who was crying and can be heard saying, \"won't let me in.\"",
+    "\nOfficers are then sent to the home.",
+    "\nAt 12:12 p.m., an officer tells a dispatcher that it's \"all quiet right now,\" followed by a door knock.",
+    "\nAt 12:13 p.m., after a dispatcher confirms contact has been made, a man's voice can be yelling, \"We have shots fired.\"",
+    "\nCity of Westerville Police officers Anthony Morelli, 54, and Eric Joering, 39, were fatally shot while responding to a 911 call on Feb. 10, 2018 in Westerville, Ohio.",
+    "\nPolice officers Anthony Morelli, 54, and Eric Joering, 39, were fatally shot while responding to a 911 call on Feb. 10, 2018 in Westerville, Ohio.",
+    "\n(City of Westerville) (City of Westerville)\nFour minutes later, someone, presumably a police officer, tells a dispatcher: \"We have two officers down.",
+    "\nChild on couch, one at gunpoint.\"",
+    "\nIt's unclear at what point Smith was shot.",
+    "\nOther 911 calls show that Candace Smith was hiding in bushes in front of the home, pleading for help because her daughter is still inside the home while a dispatcher calmly tells her to stay there.",
+    "\n\"Please help,\" Candace Smith repeats several times in a call at 12:14 p.m. \"He shot the police officers.\"",
+    "\nWesterville police had gone to the couple's townhome for domestic disputes three times since September of last year.",
+    "\nJoering and Morelli's names aren't listed on those calls.",
+    "\nOn Sept. 14, police responded to a call from Candace Smith that her husband was drunk and doing something to her car.",
+    "\nA brief narrative from the officers says, \"No dispute or argument.\"",
+    "\nCandace Smith told officers they were separating, and that he left when she told him she was calling police.",
+    "\n\"Female has his key so she is not concerned about him coming back,\" the report said.",
+    "\nA Nov. 29 report said Candace Smith went to the Westerville police station asking about a protection order.",
+    "\nShe told officers that Quentin Smith had come home drunk earlier in the week and had \"forced himself on her,\" the report said.",
+    "\nCandace Smith said she had found out that day she had been infected with a sexually transmitted disease, according to the report.",
+    "\nCandace Smith also told officers that her husband had threatened to kill her, their daughter and himself if she left him.",
+    "\nShe said Smith always carried a gun despite being a convicted felon.",
+    "\nSmith was convicted in Cuyahoga County, which includes Cleveland, of felony burglary and misdemeanor domestic violence charges in 2009 and was sentenced to four years in prison.",
+    "\nShortly after Candace Smith spoke with police at the Westerville station that day, police went to the home when Quentin Smith called to complain that his wife had locked him out of the house.",
+    "\nThey were told to stay in separate areas of the home.",
+    "\nOn Jan. 20, officers went to the home after Quentin Smith's mother called police to say the couple was arguing.",
+    "\nThey told police there weren't fighting"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 281,
+      "text": "Police had previously gone to Ohio home where officers were killed\n\nPolice in Ohio had previously gone to the home where a man fatally shot two police officers for three domestic disputes but no arrests were ever made, incident reports from the Columbus suburb of Westerville show.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 281,
+      "end_ix": 455,
+      "text": "\nWesterville officers Eric Joering, 39, and Anthony Morelli, 54, were killed shortly after noon Saturday in this normally quiet suburb while responding to a 911 hang-up call.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 455,
+      "end_ix": 658,
+      "text": "\nThe suspect, 30-year-old Quentin Smith, was shot and wounded by the officers and taken to Ohio State University Wexner Medical Center in critical condition Saturday, a Westerville city spokeswoman said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 658,
+      "end_ix": 722,
+      "text": "\nThe hospital would not provide updates on his condition Sunday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 722,
+      "end_ix": 857,
+      "text": "\nA series of 911 calls released by the city of Westerville provide some details about what happened Saturday at a complex of townhomes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 857,
+      "end_ix": 921,
+      "text": "\nSmith lived there with his wife, Candace, and a young daughter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 921,
+      "end_ix": 1007,
+      "text": "\nWesterville police have provided few details about what happened inside the townhome.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1007,
+      "end_ix": 1197,
+      "text": "\nWesterville Police Chief Joe Morbitzer said at a news conference Saturday that Joering, a 16-year veteran, and Morelli, a 30-year-veteran, were shot immediately upon entering the residence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1197,
+      "end_ix": 1246,
+      "text": "\nColumbus police are investigating the shootings.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1246,
+      "end_ix": 1401,
+      "text": "\nAfter the initial hang-up call at noon, a dispatcher called the number back and reached a woman who was crying and can be heard saying, \"won't let me in.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1401,
+      "end_ix": 1437,
+      "text": "\nOfficers are then sent to the home.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1437,
+      "end_ix": 1541,
+      "text": "\nAt 12:12 p.m., an officer tells a dispatcher that it's \"all quiet right now,\" followed by a door knock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1541,
+      "end_ix": 1660,
+      "text": "\nAt 12:13 p.m., after a dispatcher confirms contact has been made, a man's voice can be yelling, \"We have shots fired.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1660,
+      "end_ix": 1827,
+      "text": "\nCity of Westerville Police officers Anthony Morelli, 54, and Eric Joering, 39, were fatally shot while responding to a 911 call on Feb. 10, 2018 in Westerville, Ohio.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1827,
+      "end_ix": 1974,
+      "text": "\nPolice officers Anthony Morelli, 54, and Eric Joering, 39, were fatally shot while responding to a 911 call on Feb. 10, 2018 in Westerville, Ohio.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1974,
+      "end_ix": 2124,
+      "text": "\n(City of Westerville) (City of Westerville)\nFour minutes later, someone, presumably a police officer, tells a dispatcher: \"We have two officers down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2124,
+      "end_ix": 2158,
+      "text": "\nChild on couch, one at gunpoint.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2158,
+      "end_ix": 2201,
+      "text": "\nIt's unclear at what point Smith was shot.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2201,
+      "end_ix": 2399,
+      "text": "\nOther 911 calls show that Candace Smith was hiding in bushes in front of the home, pleading for help because her daughter is still inside the home while a dispatcher calmly tells her to stay there.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2399,
+      "end_ix": 2505,
+      "text": "\n\"Please help,\" Candace Smith repeats several times in a call at 12:14 p.m. \"He shot the police officers.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2505,
+      "end_ix": 2622,
+      "text": "\nWesterville police had gone to the couple's townhome for domestic disputes three times since September of last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2622,
+      "end_ix": 2680,
+      "text": "\nJoering and Morelli's names aren't listed on those calls.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2680,
+      "end_ix": 2798,
+      "text": "\nOn Sept. 14, police responded to a call from Candace Smith that her husband was drunk and doing something to her car.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2798,
+      "end_ix": 2866,
+      "text": "\nA brief narrative from the officers says, \"No dispute or argument.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2866,
+      "end_ix": 2975,
+      "text": "\nCandace Smith told officers they were separating, and that he left when she told him she was calling police.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2975,
+      "end_ix": 3060,
+      "text": "\n\"Female has his key so she is not concerned about him coming back,\" the report said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3060,
+      "end_ix": 3168,
+      "text": "\nA Nov. 29 report said Candace Smith went to the Westerville police station asking about a protection order.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3168,
+      "end_ix": 3295,
+      "text": "\nShe told officers that Quentin Smith had come home drunk earlier in the week and had \"forced himself on her,\" the report said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3295,
+      "end_ix": 3425,
+      "text": "\nCandace Smith said she had found out that day she had been infected with a sexually transmitted disease, according to the report.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3425,
+      "end_ix": 3547,
+      "text": "\nCandace Smith also told officers that her husband had threatened to kill her, their daughter and himself if she left him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3547,
+      "end_ix": 3616,
+      "text": "\nShe said Smith always carried a gun despite being a convicted felon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3616,
+      "end_ix": 3794,
+      "text": "\nSmith was convicted in Cuyahoga County, which includes Cleveland, of felony burglary and misdemeanor domestic violence charges in 2009 and was sentenced to four years in prison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3794,
+      "end_ix": 3986,
+      "text": "\nShortly after Candace Smith spoke with police at the Westerville station that day, police went to the home when Quentin Smith called to complain that his wife had locked him out of the house.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3986,
+      "end_ix": 4040,
+      "text": "\nThey were told to stay in separate areas of the home.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4040,
+      "end_ix": 4152,
+      "text": "\nOn Jan. 20, officers went to the home after Quentin Smith's mother called police to say the couple was arguing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4152,
+      "end_ix": 4192,
+      "text": "\nThey told police there weren't fighting",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

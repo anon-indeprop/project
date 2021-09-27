@@ -1,0 +1,180 @@
+{
+  "article_id": "787142429",
+  "sentence offsets in original": [
+    0,
+    352,
+    520,
+    758,
+    919,
+    1090,
+    1148,
+    1230,
+    1525,
+    1713,
+    1749,
+    1901,
+    2024,
+    2682
+  ],
+  "original sentences": [
+    "Brett Kavanaugh accused in letter obtained by FBI of drunkenly forcing himself on woman while in high school; Kavanaugh denies it happened\n\nAccording to the New York Daily News, Brett Kavanaugh, President Donald Trump\u2019s Supreme Court nominee, held a woman down, covered her mouth and tried to force himself on her while drunk at a party in high school.",
+    "\nThat\u2019s the nexus of a letter allegedly acquired by Democrat Senator Dianne Feinstein in July but dropped on the last days before the vote for Kavanaugh\u2019s confirmation.",
+    "\nThe unidentified woman says the incident took place at a party in the early 1980s while Kavanaugh was a student at Georgetown Preparatory School in Bethesda, Md., according to the NYDN, which claims to have obtained the letter on Friday.",
+    "\nShe alleges Kavanaugh and a friend of his, both of whom had been drinking, cornered her in a room and turned up the music to blur out the sound of her protests.",
+    "\nKavanaugh then allegedly covered the woman\u2019s mouth with his hand and attempted to force himself on her, but she says she managed to free herself and bolt out of the room.",
+    "\nKavanaugh, 53, vehemently denied the woman\u2019s allegations.",
+    "\n\u201cI categorically and unequivocally deny this allegation,\u201d he said in a statement.",
+    "\n\u201cI did not do this back in high school or at any time.\u201d\nKavanaugh\u2019s friend, who has not been identified, did not outright deny the woman\u2019s claims but told the New Yorker he has \u201cno recollection of that.\u201d\nThe woman says she has had to undergo psychological treatment as a result of the incident.",
+    "\nShe first approached her congresswoman, Anna Eshoo, D-Calif., about the allegations in July shortly after Trump tapped Kavanaugh to replace outgoing Supreme Court Justice Anthony Kennedy.",
+    "\nEshoo\u2019s office declined to comment.",
+    "\nThe woman\u2019s letter was in turn forwarded to Feinstein, D-Calif., who shared it with the FBI and her Democratic committee colleagues on Wednesday night.",
+    "\nAn FBI official told the New York Daily News on Thursday that the letter has not yet resulted in a criminal investigation.",
+    "\nAccording to Breitbart, on Friday, 65 women from both the Republican and Democrat parties who have known Kavanaugh since high school defended his character and said he has always behaved \u201chonorably\u201d and treaded \u201cwomen with respect.\u201d\nThe women also said that Kavanaugh has \u201cstood out for his friendship, character, and integrity.\u201d\n\u201cJudge Kavanaugh has denied this allegation and over 60 women \u2013 with a broad range of political views \u2013 who\u2019ve known him since high school, have sent a letter to the Senate Judiciary Committee vouching for his integrity and respect for women over that time,\u201d says Carrie Severino, chief counsel for the Judicial Crisis Network.",
+    "\n\u201cThis is nothing more than a last-minute attempt at character assassination, and there should no delay in confirming Judge Kavanaugh.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 352,
+      "text": "Brett Kavanaugh accused in letter obtained by FBI of drunkenly forcing himself on woman while in high school; Kavanaugh denies it happened\n\nAccording to the New York Daily News, Brett Kavanaugh, President Donald Trump\u2019s Supreme Court nominee, held a woman down, covered her mouth and tried to force himself on her while drunk at a party in high school.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 352,
+      "end_ix": 520,
+      "text": "\nThat\u2019s the nexus of a letter allegedly acquired by Democrat Senator Dianne Feinstein in July but dropped on the last days before the vote for Kavanaugh\u2019s confirmation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 520,
+      "end_ix": 758,
+      "text": "\nThe unidentified woman says the incident took place at a party in the early 1980s while Kavanaugh was a student at Georgetown Preparatory School in Bethesda, Md., according to the NYDN, which claims to have obtained the letter on Friday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 758,
+      "end_ix": 919,
+      "text": "\nShe alleges Kavanaugh and a friend of his, both of whom had been drinking, cornered her in a room and turned up the music to blur out the sound of her protests.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 919,
+      "end_ix": 1090,
+      "text": "\nKavanaugh then allegedly covered the woman\u2019s mouth with his hand and attempted to force himself on her, but she says she managed to free herself and bolt out of the room.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1090,
+      "end_ix": 1148,
+      "text": "\nKavanaugh, 53, vehemently denied the woman\u2019s allegations.",
+      "new_text": "\nKavanaugh, 53, denied the woman\u2019s allegations.",
+      "prop_spans": [
+        [
+          1106,
+          1124,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1148,
+      "end_ix": 1230,
+      "text": "\n\u201cI categorically and unequivocally deny this allegation,\u201d he said in a statement.",
+      "new_text": "\n\u201cI categorically and unequivocally deny this allegation,\u201d he said in a statement.",
+      "prop_spans": [
+        [
+          1150,
+          1204,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1230,
+      "end_ix": 1525,
+      "text": "\n\u201cI did not do this back in high school or at any time.\u201d\nKavanaugh\u2019s friend, who has not been identified, did not outright deny the woman\u2019s claims but told the New Yorker he has \u201cno recollection of that.\u201d\nThe woman says she has had to undergo psychological treatment as a result of the incident.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1525,
+      "end_ix": 1713,
+      "text": "\nShe first approached her congresswoman, Anna Eshoo, D-Calif., about the allegations in July shortly after Trump tapped Kavanaugh to replace outgoing Supreme Court Justice Anthony Kennedy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1713,
+      "end_ix": 1749,
+      "text": "\nEshoo\u2019s office declined to comment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1749,
+      "end_ix": 1901,
+      "text": "\nThe woman\u2019s letter was in turn forwarded to Feinstein, D-Calif., who shared it with the FBI and her Democratic committee colleagues on Wednesday night.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1901,
+      "end_ix": 2024,
+      "text": "\nAn FBI official told the New York Daily News on Thursday that the letter has not yet resulted in a criminal investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2024,
+      "end_ix": 2682,
+      "text": "\nAccording to Breitbart, on Friday, 65 women from both the Republican and Democrat parties who have known Kavanaugh since high school defended his character and said he has always behaved \u201chonorably\u201d and treaded \u201cwomen with respect.\u201d\nThe women also said that Kavanaugh has \u201cstood out for his friendship, character, and integrity.\u201d\n\u201cJudge Kavanaugh has denied this allegation and over 60 women \u2013 with a broad range of political views \u2013 who\u2019ve known him since high school, have sent a letter to the Senate Judiciary Committee vouching for his integrity and respect for women over that time,\u201d says Carrie Severino, chief counsel for the Judicial Crisis Network.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2682,
+      "end_ix": 2817,
+      "text": "\n\u201cThis is nothing more than a last-minute attempt at character assassination, and there should no delay in confirming Judge Kavanaugh.\u201d",
+      "new_text": "\n\u201cThis is nothing more than a last-minute attempt at character assassination, and there should no delay in confirming Judge Kavanaugh.\u201d",
+      "prop_spans": [
+        [
+          2684,
+          2815,
+          "Appeal_to_Authority"
+        ],
+        [
+          2735,
+          2758,
+          "Slogans"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1106,
+      1124,
+      "Loaded_Language"
+    ],
+    [
+      1150,
+      1204,
+      "Loaded_Language"
+    ],
+    [
+      2684,
+      2815,
+      "Appeal_to_Authority"
+    ],
+    [
+      2735,
+      2758,
+      "Slogans"
+    ]
+  ]
+}

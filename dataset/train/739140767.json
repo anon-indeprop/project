@@ -1,0 +1,94 @@
+{
+  "article_id": "739140767",
+  "sentence offsets in original": [
+    0,
+    201,
+    325,
+    461,
+    510,
+    624,
+    803,
+    894
+  ],
+  "original sentences": [
+    "MS-503 Gang Member Apprehended by Border Patrol Agents In Arizona\n\nYUMA, Ariz. \u2013 Yuma Sector Border Patrol agents arrested a gang member belonging to the Mara Salvatrucha-503 Gang early Monday morning.",
+    "\nAt 6:30 a.m. Monday, Yuma Station agents responded to a call for assistance at Carver Park from the Yuma Police Department.",
+    "\nAfter agents interviewed the subject, it was determined that the 20-year-old El Salvadoran national was illegally in the United States.",
+    "\nHe was arrested and transported to Yuma Station.",
+    "\nAgents positively identified the subject as Jose Rodriguez-Lopez and noted a MS-503 Gang tattoo across his chest.",
+    "\nRodriguez-Lopez claimed to have previously been a member of, MS-503, a branch of MS-13, a gang that originated in El Salvador and is notorious for extreme violence and bloodshed.",
+    "\nRodriguez-Lopez had no record of any criminal or immigration arrests in the United States.",
+    "\nHe was processed for immigration violations."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 201,
+      "text": "MS-503 Gang Member Apprehended by Border Patrol Agents In Arizona\n\nYUMA, Ariz. \u2013 Yuma Sector Border Patrol agents arrested a gang member belonging to the Mara Salvatrucha-503 Gang early Monday morning.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 201,
+      "end_ix": 325,
+      "text": "\nAt 6:30 a.m. Monday, Yuma Station agents responded to a call for assistance at Carver Park from the Yuma Police Department.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 325,
+      "end_ix": 461,
+      "text": "\nAfter agents interviewed the subject, it was determined that the 20-year-old El Salvadoran national was illegally in the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 461,
+      "end_ix": 510,
+      "text": "\nHe was arrested and transported to Yuma Station.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 510,
+      "end_ix": 624,
+      "text": "\nAgents positively identified the subject as Jose Rodriguez-Lopez and noted a MS-503 Gang tattoo across his chest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 624,
+      "end_ix": 803,
+      "text": "\nRodriguez-Lopez claimed to have previously been a member of, MS-503, a branch of MS-13, a gang that originated in El Salvador and is notorious for extreme violence and bloodshed.",
+      "new_text": "\nRodriguez-Lopez claimed to have previously been a member of, MS-503, a branch of MS-13, a gang that originated in El Salvador and is notorious for great violence.",
+      "prop_spans": [
+        [
+          758,
+          802,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 803,
+      "end_ix": 894,
+      "text": "\nRodriguez-Lopez had no record of any criminal or immigration arrests in the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 894,
+      "end_ix": 939,
+      "text": "\nHe was processed for immigration violations.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      758,
+      802,
+      "Loaded_Language"
+    ]
+  ]
+}

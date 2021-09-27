@@ -1,0 +1,309 @@
+{
+  "article_id": "735815173",
+  "sentence offsets in original": [
+    0,
+    248,
+    303,
+    421,
+    466,
+    594,
+    903,
+    1045,
+    1438,
+    1662,
+    1962,
+    2055,
+    2694,
+    2739,
+    2870,
+    2925,
+    3031,
+    3184,
+    3352,
+    3437,
+    3488
+  ],
+  "original sentences": [
+    "Dem Congressman Corrects ADL's Claim That He Isn't Into Farrakhan\n\nThe media has maintained a tight embargo on the release of the photo of Obama meeting with Nation of Islam hate group leader Louis Farrakhan at a Congressional Black Caucus meeting.",
+    "\nAlmost no national media outlet has covered the story.",
+    "\nCNN only mentioned it when it embedded Jake Tapper's tweets about the support for Farrakhan by Women's March leaders.",
+    "\nBut Rep. Danny Davis had defended Farrakhan.",
+    "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+    "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+    "\nThe JTA's awkward attempt to whitewash the newly revealed CBC anti-Semitism included a claim from the ADL that Rep. Davis had been misquoted.",
+    "\nAn ADL official told JTA on Friday that the group had reached out to Rep. Danny Davis, a Democrat, after an article in The Daily Caller said he lauded Farrakhan on Monday as \u201can outstanding human being.\u201d Farrakhan has calledJews \u201cthe enemy of God and the enemy of the righteous,\u201d and said Jews were responsible for the 9/11 terror attacks and the rise of the Ku Klux Klan in the 20th century.",
+    "\n\u201cThe congressman was insistent that The Daily Caller misquoted him during the interview and that he didn\u2019t subscribe to Farrakhan\u2019s anti-Semitic statements and actions in the past,\u201d the ADL official told JTA in a statement.",
+    "\n\u201cHe expressed an interest in seeing some of the latest statements made by Farrakhan vis-a-vis Jews, which we promptly shared with him.\u201d The official said the ADL had shared information with Davis about Farrakhan\u2019s anti-Semitic statements, and that the organization was waiting to hear back from him.",
+    "\nNow, Rep. Davis would really like to emphasize that the ADL is wrong and he loves Farrakhan.",
+    "\nDemocratic Illinois Rep. Danny Davis confirmed in an interview Sunday that he has a personal relationship with Nation of Islam leader Louis Farrakhan, a notorious anti-Semite, and said he isn\u2019t bothered by Farrakhan\u2019s position on \u201cthe Jewish question.\u201d Farrakhan has repeatedly denounced Jews as \u201csatanic,\u201d praised Hitler as a \u201cvery great man\u201d and has said that white people \u201cdeserve to die.\u201d The congressman wasn\u2019t sure why the ADL wrote that he had been misquoted in his praise for the anti-Semite, and said he wasn\u2019t sure if someone from his office had told the ADL he was misquoted, he told The Daily Caller News Foundation on Sunday.",
+    "\n\u201cI think that was what they wanted to write.",
+    "\nNah, I don\u2019t have no problems with Farrakhan, I don\u2019t spend a whole lot of my time dealing with those kind of things,\u201d Davis said.",
+    "\n\u201cThat\u2019s just one segment of what goes on in our world.",
+    "\nThe world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.",
+    "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nThe people who talk about the \"Jewish question\" are generally anti-Semites.",
+    "\nSomehow I don't think a white congressman would get away with saying that he agrees with David Duke on the environment but isn't especially concerned about his racism.",
+    "\nBut black leaders have gotten away with playing that game with Farrakhan repeatedly.",
+    "\nBut the ADL and the JTA will whitewash this again.",
+    "\nAnd if they can't whitewash this, they'll ignore it."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 248,
+      "text": "Dem Congressman Corrects ADL's Claim That He Isn't Into Farrakhan\n\nThe media has maintained a tight embargo on the release of the photo of Obama meeting with Nation of Islam hate group leader Louis Farrakhan at a Congressional Black Caucus meeting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 248,
+      "end_ix": 303,
+      "text": "\nAlmost no national media outlet has covered the story.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 303,
+      "end_ix": 421,
+      "text": "\nCNN only mentioned it when it embedded Jake Tapper's tweets about the support for Farrakhan by Women's March leaders.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 421,
+      "end_ix": 466,
+      "text": "\nBut Rep. Danny Davis had defended Farrakhan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 466,
+      "end_ix": 594,
+      "text": "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 594,
+      "end_ix": 903,
+      "text": "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 903,
+      "end_ix": 1045,
+      "text": "\nThe JTA's awkward attempt to whitewash the newly revealed CBC anti-Semitism included a claim from the ADL that Rep. Davis had been misquoted.",
+      "new_text": "\nThe JTA's attempt to disguise the newly revealed CBC anti-Semitism included a claim from the ADL that Rep. Davis had been misquoted.",
+      "prop_spans": [
+        [
+          914,
+          942,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1045,
+      "end_ix": 1438,
+      "text": "\nAn ADL official told JTA on Friday that the group had reached out to Rep. Danny Davis, a Democrat, after an article in The Daily Caller said he lauded Farrakhan on Monday as \u201can outstanding human being.\u201d Farrakhan has calledJews \u201cthe enemy of God and the enemy of the righteous,\u201d and said Jews were responsible for the 9/11 terror attacks and the rise of the Ku Klux Klan in the 20th century.",
+      "new_text": "\nAn ADL official told JTA on Friday that the group had reached out to Rep. Danny Davis, a Democrat, after an article in The Daily Caller said he lauded Farrakhan on Monday as \u201can outstanding human being.\u201d Farrakhan has calledJews \u201cthe enemy of God and the enemy of the righteous.\u201d",
+      "prop_spans": [
+        [
+          1250,
+          1438,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1438,
+      "end_ix": 1662,
+      "text": "\n\u201cThe congressman was insistent that The Daily Caller misquoted him during the interview and that he didn\u2019t subscribe to Farrakhan\u2019s anti-Semitic statements and actions in the past,\u201d the ADL official told JTA in a statement.",
+      "new_text": "\n\u201cThe congressman was insistent that The Daily Caller misquoted him during the interview and that he didn\u2019t subscribe to Farrakhan\u2019s anti-Semitic statements and actions in the past,\u201d the ADL official told JTA in a statement.",
+      "prop_spans": [
+        [
+          1438,
+          1439,
+          "Reductio_ad_hitlerum"
+        ],
+        [
+          1440,
+          1526,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1662,
+      "end_ix": 1962,
+      "text": "\n\u201cHe expressed an interest in seeing some of the latest statements made by Farrakhan vis-a-vis Jews, which we promptly shared with him.\u201d The official said the ADL had shared information with Davis about Farrakhan\u2019s anti-Semitic statements, and that the organization was waiting to hear back from him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1962,
+      "end_ix": 2055,
+      "text": "\nNow, Rep. Davis would really like to emphasize that the ADL is wrong and he loves Farrakhan.",
+      "new_text": "\nNow, Rep. Davis would really like to emphasize that the ADL is wrong.",
+      "prop_spans": [
+        [
+          2015,
+          2054,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2055,
+      "end_ix": 2694,
+      "text": "\nDemocratic Illinois Rep. Danny Davis confirmed in an interview Sunday that he has a personal relationship with Nation of Islam leader Louis Farrakhan, a notorious anti-Semite, and said he isn\u2019t bothered by Farrakhan\u2019s position on \u201cthe Jewish question.\u201d Farrakhan has repeatedly denounced Jews as \u201csatanic,\u201d praised Hitler as a \u201cvery great man\u201d and has said that white people \u201cdeserve to die.\u201d The congressman wasn\u2019t sure why the ADL wrote that he had been misquoted in his praise for the anti-Semite, and said he wasn\u2019t sure if someone from his office had told the ADL he was misquoted, he told The Daily Caller News Foundation on Sunday.",
+      "new_text": "\nDemocratic Illinois Rep. Danny Davis confirmed in an interview Sunday that he has a personal relationship with Nation of Islam leader Louis Farrakhan, a notorious anti-Semite, and said he isn\u2019t bothered by Farrakhan\u2019s position on \u201cthe Jewish question.\u201d Farrakhan has repeatedly denounced Jews as \u201csatanic.\u201d The congressman wasn\u2019t sure why the ADL wrote that he had been misquoted in his praise for the anti-Semite, and said he wasn\u2019t sure if someone from his office had told the ADL he was misquoted, he told The Daily Caller News Foundation on Sunday.",
+      "prop_spans": [
+        [
+          2334,
+          2446,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2694,
+      "end_ix": 2739,
+      "text": "\n\u201cI think that was what they wanted to write.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2739,
+      "end_ix": 2870,
+      "text": "\nNah, I don\u2019t have no problems with Farrakhan, I don\u2019t spend a whole lot of my time dealing with those kind of things,\u201d Davis said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2870,
+      "end_ix": 2925,
+      "text": "\n\u201cThat\u2019s just one segment of what goes on in our world.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2925,
+      "end_ix": 3031,
+      "text": "\nThe world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2926,
+          3031,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3031,
+      "end_ix": 3184,
+      "text": "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nThe people who talk about the \"Jewish question\" are generally anti-Semites.",
+      "new_text": "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nMany people who talk about the \"Jewish question\" are anti-Semites.",
+      "prop_spans": [
+        [
+          3031,
+          3031,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          3109,
+          3183,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3184,
+      "end_ix": 3352,
+      "text": "\nSomehow I don't think a white congressman would get away with saying that he agrees with David Duke on the environment but isn't especially concerned about his racism.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3352,
+      "end_ix": 3437,
+      "text": "\nBut black leaders have gotten away with playing that game with Farrakhan repeatedly.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3437,
+      "end_ix": 3488,
+      "text": "\nBut the ADL and the JTA will whitewash this again.",
+      "new_text": "\nBut the ADL and the JTA will disguise this again.",
+      "prop_spans": [
+        [
+          3467,
+          3476,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3488,
+      "end_ix": 3541,
+      "text": "\nAnd if they can't whitewash this, they'll ignore it.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          3489,
+          3541,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      914,
+      942,
+      "Loaded_Language"
+    ],
+    [
+      1250,
+      1439,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      1440,
+      1526,
+      "Repetition"
+    ],
+    [
+      2015,
+      2054,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2334,
+      2446,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      2926,
+      3031,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      3109,
+      3183,
+      "Causal_Oversimplification"
+    ],
+    [
+      3467,
+      3476,
+      "Repetition"
+    ],
+    [
+      3489,
+      3542,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

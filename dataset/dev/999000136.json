@@ -1,0 +1,437 @@
+{
+  "article_id": "999000136",
+  "sentence offsets in original": [
+    0,
+    243,
+    503,
+    870,
+    965,
+    1060,
+    1098,
+    1131,
+    1213,
+    1295,
+    1323,
+    1386,
+    1629,
+    1694,
+    1752,
+    1776,
+    1832,
+    1858,
+    2157,
+    2198,
+    2311,
+    2333,
+    2559,
+    2672,
+    2855,
+    2887,
+    3072,
+    3597,
+    3871
+  ],
+  "original sentences": [
+    "Undercover Video: Andrew Gillum Staffer: \u201cNone of the programs that people are hoping for would happen\u201d\n\nFlorida gubernatorial candidate and George Soros-backed Andrew Gillum may have just been completely undercut by a member of his own staff.",
+    "\nNot that his racist, anti-semite claims against his opponent weren't enough, one of his staffers has been caught in an undercover video saying, \u201cNone of the programs that people are hoping for would happen\u201d and that is to be kept confidential from the public.",
+    "\nIn a new undercover video from Project Veritas, Omar Smith, who is a staffer for Gillum and claims to have also attended college with him, said that if Gillum is elected \u201cNone of the programs that people are hoping for would happen.\u201d\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nWhen asked whether that would be important for voters to know that or not, Smith said, \u201cThat\u2019s not for them to know.\u201d\nOf course, anyone following what Gillum has been promoting knows he isn't planning on delivering just like many politicians.",
+    "\n\u201cSo, let\u2019s go back to Mr. Gillum\u2019s platform, right?\u201d said Smith.",
+    "\n\u201cRaise the corporate tax in Florida from 7 to 11 percent.",
+    "\nThat will never happen.",
+    "\nRaise teacher\u2019s pay to $50,000, that will never happen.",
+    "\nGive me another position.",
+    "\nMedicare for all, that will never happen.\u201d\nWhat's even more amazing, but not surprising, is that Gillum has claimed that his opponent is a racist, but the video demonstrates the utter racism of Smith, which one can then conclude that Gillum knows about Smith's racism and keeps him on staff anyway.",
+    "\n\u201cThis is a f***ed up state,\u201d said Smith.",
+    "\n\u201cIt\u2019s a cracker state.\u201d\nSmith also stated that the campaign has \u201cto appeal to white guilt.\u201d\nGood luck with that!",
+    "\nIt gets worse though.",
+    "\nSmith says that Gillum is \u201ca progressive\u201d who is \u201ca part of the crazy, crazy, crazies.\u201d\nNEW: The honesty of Gillum's campaign staff on undercover video is refreshing, especially when it comes to who the real Andrew Gillum is.",
+    "\nWhile trying to appear as a moderate, \"Gillum is a Progressive\" and \"He is a part of the crazy, crazy, crazies.\"",
+    "\nFULL: https://t.co/G0V1HlyAlz pic.twitter.com/YDWifuIDWv \u2014 James O'Keefe (@JamesOKeefeIII) November 1, 2018\nOK, we know that, but if that is true, what sort of useful idiot is Smith?",
+    "\nA pretty big one if you ask me.",
+    "\nGillum is not a lawful man as he does not support the right to keep and bear arms, but rather considers Americans as criminals who need to prove their innocence before obtaining a gun.",
+    "\nWATCH: Gillum Campaign Staff on gun control \"I don't think he can say it [be]cause he's trying to get the moderates\" ... \"three day waiting period for everybody,\" \"small steps\" to ban assault rifles pic.twitter.com/nIwAUvz2YR \u2014 PVeritas Action (@PVeritas_Action) November 1, 2018\n\u201cI do think he\u2019s not saying specifically, like, I\u2019m going to ban bump stocks or I\u2019m against ARs, only because he\u2019s running a race right now,\u201d said Adrian Young, who serves as the Community Engagement Specialist for the Florida Democratic Party.",
+    "\n\u201cI do think he would support anybody doing that stuff, Bill Nelson \u2026 But I don\u2019t think he can say it, just cause he\u2019s trying to get the moderates and the gun-toting people in North Florida.\u201d\nIn October, Project Veritas exposed the corruption of Claire McCaskill's campaign.",
+    "\nArticle posted with permission from The Washington Standard"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 243,
+      "text": "Undercover Video: Andrew Gillum Staffer: \u201cNone of the programs that people are hoping for would happen\u201d\n\nFlorida gubernatorial candidate and George Soros-backed Andrew Gillum may have just been completely undercut by a member of his own staff.",
+      "new_text": "Undercover Video: Andrew Gillum Staffer: \u201cNone of the programs that people are hoping for would happen\u201d\n\nFlorida gubernatorial candidate Andrew Gillum may have just been undercut by a member of his own staff.",
+      "prop_spans": [
+        [
+          105,
+          161,
+          "Name_Calling,Labeling"
+        ],
+        [
+          194,
+          214,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 243,
+      "end_ix": 503,
+      "text": "\nNot that his racist, anti-semite claims against his opponent weren't enough, one of his staffers has been caught in an undercover video saying, \u201cNone of the programs that people are hoping for would happen\u201d and that is to be kept confidential from the public.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 503,
+      "end_ix": 870,
+      "text": "\nIn a new undercover video from Project Veritas, Omar Smith, who is a staffer for Gillum and claims to have also attended college with him, said that if Gillum is elected \u201cNone of the programs that people are hoping for would happen.\u201d\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 870,
+      "end_ix": 965,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 965,
+      "end_ix": 1060,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1060,
+      "end_ix": 1098,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1098,
+      "end_ix": 1131,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1131,
+      "end_ix": 1213,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1213,
+      "end_ix": 1295,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1295,
+      "end_ix": 1323,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1323,
+      "end_ix": 1386,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1386,
+      "end_ix": 1629,
+      "text": "\nWhen asked whether that would be important for voters to know that or not, Smith said, \u201cThat\u2019s not for them to know.\u201d\nOf course, anyone following what Gillum has been promoting knows he isn't planning on delivering just like many politicians.",
+      "new_text": "\nWhen asked whether that would be important for voters to know that or not, Smith said, \u201cThat\u2019s not for them to know.\u201d\nOf course, anyone following what Gillum has been promoting knows he isn't planning on delivering just like many politicians.",
+      "prop_spans": [
+        [
+          1475,
+          1502,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1629,
+      "end_ix": 1694,
+      "text": "\n\u201cSo, let\u2019s go back to Mr. Gillum\u2019s platform, right?\u201d said Smith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1694,
+      "end_ix": 1752,
+      "text": "\n\u201cRaise the corporate tax in Florida from 7 to 11 percent.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1752,
+      "end_ix": 1776,
+      "text": "\nThat will never happen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1776,
+      "end_ix": 1832,
+      "text": "\nRaise teacher\u2019s pay to $50,000, that will never happen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1832,
+      "end_ix": 1858,
+      "text": "\nGive me another position.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1858,
+      "end_ix": 2157,
+      "text": "\nMedicare for all, that will never happen.\u201d\nWhat's even more amazing, but not surprising, is that Gillum has claimed that his opponent is a racist, but the video demonstrates the utter racism of Smith, which one can then conclude that Gillum knows about Smith's racism and keeps him on staff anyway.",
+      "new_text": "\nMedicare for all, that will never happen.\u201d\nWhat's even more amazing, but not surprising, is that Gillum has claimed that his opponent is a racist, but the video demonstrates the racism of Smith, which one can then conclude that Gillum knows about Smith's racism and keeps him on staff anyway.",
+      "prop_spans": [
+        [
+          2033,
+          2058,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2157,
+      "end_ix": 2198,
+      "text": "\n\u201cThis is a f***ed up state,\u201d said Smith.",
+      "new_text": "\n\u201cThis is a f***ed up state,\u201d said Smith.",
+      "prop_spans": [
+        [
+          2159,
+          2184,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2198,
+      "end_ix": 2311,
+      "text": "\n\u201cIt\u2019s a cracker state.\u201d\nSmith also stated that the campaign has \u201cto appeal to white guilt.\u201d\nGood luck with that!",
+      "new_text": "\n\u201cIt\u2019s a cracker state.\u201d\nSmith also stated that the campaign has \u201cto appeal to white guilt.\u201d",
+      "prop_spans": [
+        [
+          2200,
+          2220,
+          "Loaded_Language"
+        ],
+        [
+          2264,
+          2288,
+          "Loaded_Language"
+        ],
+        [
+          2291,
+          2311,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          2291,
+          2310,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2311,
+      "end_ix": 2333,
+      "text": "\nIt gets worse though.",
+      "new_text": "\nIt gets worse though.",
+      "prop_spans": [
+        [
+          2311,
+          2311,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2333,
+      "end_ix": 2559,
+      "text": "\nSmith says that Gillum is \u201ca progressive\u201d who is \u201ca part of the crazy, crazy, crazies.\u201d\nNEW: The honesty of Gillum's campaign staff on undercover video is refreshing, especially when it comes to who the real Andrew Gillum is.",
+      "new_text": "\nSmith says that Gillum is \u201ca progressive\u201d who is \u201ca part of the crazy, crazy, crazies.\u201d\nNEW: The honesty of Gillum's campaign staff on undercover video is refreshing, especially when it comes to who the real Andrew Gillum is.",
+      "prop_spans": [
+        [
+          2357,
+          2419,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2559,
+      "end_ix": 2672,
+      "text": "\nWhile trying to appear as a moderate, \"Gillum is a Progressive\" and \"He is a part of the crazy, crazy, crazies.\"",
+      "new_text": "\nWhile trying to appear as a moderate, \"Gillum is a Progressive\" and \"He is a part of the crazy, crazy, crazies.\"",
+      "prop_spans": [
+        [
+          2649,
+          2670,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2649,
+          2670,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2672,
+      "end_ix": 2855,
+      "text": "\nFULL: https://t.co/G0V1HlyAlz pic.twitter.com/YDWifuIDWv \u2014 James O'Keefe (@JamesOKeefeIII) November 1, 2018\nOK, we know that, but if that is true, what sort of useful idiot is Smith?",
+      "new_text": "\nFULL: https://t.co/G0V1HlyAlz pic.twitter.com/YDWifuIDWv \u2014 James O'Keefe (@JamesOKeefeIII) November 1, 2018\nOK, we know that, but if that is true, what sort of a peculiar person is Smith?",
+      "prop_spans": [
+        [
+          2833,
+          2845,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2855,
+      "end_ix": 2887,
+      "text": "\nA pretty big one if you ask me.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2887,
+      "end_ix": 3072,
+      "text": "\nGillum is not a lawful man as he does not support the right to keep and bear arms, but rather considers Americans as criminals who need to prove their innocence before obtaining a gun.",
+      "new_text": "\nGillum is not a lawful man as he does not support the right to keep and bear arms, but rather considers citizens as criminals who need to prove their innocence before obtaining a gun.",
+      "prop_spans": [
+        [
+          2888,
+          3071,
+          "Flag-Waving"
+        ],
+        [
+          2902,
+          2915,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3072,
+      "end_ix": 3597,
+      "text": "\nWATCH: Gillum Campaign Staff on gun control \"I don't think he can say it [be]cause he's trying to get the moderates\" ... \"three day waiting period for everybody,\" \"small steps\" to ban assault rifles pic.twitter.com/nIwAUvz2YR \u2014 PVeritas Action (@PVeritas_Action) November 1, 2018\n\u201cI do think he\u2019s not saying specifically, like, I\u2019m going to ban bump stocks or I\u2019m against ARs, only because he\u2019s running a race right now,\u201d said Adrian Young, who serves as the Community Engagement Specialist for the Florida Democratic Party.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3597,
+      "end_ix": 3871,
+      "text": "\n\u201cI do think he would support anybody doing that stuff, Bill Nelson \u2026 But I don\u2019t think he can say it, just cause he\u2019s trying to get the moderates and the gun-toting people in North Florida.\u201d\nIn October, Project Veritas exposed the corruption of Claire McCaskill's campaign.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3871,
+      "end_ix": 3931,
+      "text": "\nArticle posted with permission from The Washington Standard",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      105,
+      161,
+      "Name_Calling,Labeling"
+    ],
+    [
+      194,
+      214,
+      "Loaded_Language"
+    ],
+    [
+      1475,
+      1502,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2033,
+      2058,
+      "Loaded_Language"
+    ],
+    [
+      2159,
+      2184,
+      "Loaded_Language"
+    ],
+    [
+      2200,
+      2220,
+      "Loaded_Language"
+    ],
+    [
+      2264,
+      2288,
+      "Loaded_Language"
+    ],
+    [
+      2291,
+      2311,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2291,
+      2310,
+      "Loaded_Language"
+    ],
+    [
+      2357,
+      2419,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2649,
+      2670,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2649,
+      2670,
+      "Repetition"
+    ],
+    [
+      2833,
+      2845,
+      "Loaded_Language"
+    ],
+    [
+      2888,
+      3071,
+      "Flag-Waving"
+    ],
+    [
+      2902,
+      2915,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

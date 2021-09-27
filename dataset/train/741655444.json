@@ -1,0 +1,296 @@
+{
+  "article_id": "741655444",
+  "sentence offsets in original": [
+    0,
+    222,
+    248,
+    382,
+    523,
+    771,
+    855,
+    977,
+    1029,
+    1158,
+    1296,
+    1412,
+    1485,
+    1543,
+    1585,
+    1645,
+    1864,
+    1902,
+    1934,
+    2066,
+    2196
+  ],
+  "original sentences": [
+    "Travis Air Force Base terrorist identified as Muslim Hafiz Kazi\n\nEarlier today I wrote: \u201cFBI spokeswoman Gina Swankie and Travis spokesman Airman Christian Conrad declined to elaborate on the matter or identify the driver.",
+    "\nWhy?\u201d\nNow it\u2019s clear why.",
+    "\nThey wanted to hold off as long as possible on identifying this terrorist as another Muslim, and this as another jihad terror attack.",
+    "\nProtecting the image of Islam, not protecting the public, still seems to be the most important priority for all too many American officials.",
+    "\n\u201cMan whose vehicle exploded at Travis AFB identified,\u201d KGO, March 23, 2018:\nTRAVIS AIR FORCE BASE, Calif. (KGO) \u2014 A man who drove into Travis AFB has been identified as 51-year-old Hafiz Kazi, two sources with knowledge of the probe tell ABC News.",
+    "\nThe sources described Kazi as a \u201cnomad\u201d and a \u201cvagabond,\u201d who lived in many places.",
+    "\nAuthorities extracted a video from his cell phone and are analyzing it to try and see if it could help point to a motive.",
+    "\nSources wouldn\u2019t offer any details about the video.",
+    "\nThe FBI is holding a press conference Friday at 3:30 p.m. and will be asking the public for help and any information about Kazi.",
+    "\nSources say the information gathered so far still does not point to a concrete motive, with one source calling the man a \u201cmystery\u201d still.",
+    "\nTerrorism, mental health issues, and everything else are still on the table as authorities try to uncover a motive.",
+    "\nOn Wednesday, the car crashed at the main gate of Travis Air Force Base.",
+    "\nOfficials are treating it as a possible attempted attack.",
+    "\nThe FBI is now leading the investigation.",
+    "\n\u201cThe car basically blew up,\u201d said witness Kamren Hernandez.",
+    "\n\u201d It was nothing anymore.\u201d Hernandez couldn\u2019t believe what he witnessed from his family\u2019s restaurant just feet from the main gate at Travis Air Force Base \u2014 a black SUV exploding seconds after breaching security gates.",
+    "\nHernandez\u2019 father, Lamar, saw it too.",
+    "\n\u201cIt kept exploding \u2014 boom boom.",
+    "\nKept on going.\u201d Travis Air Force Base officials are investigating a security incident that occurred at the main gate on Wednesday\u2026.",
+    "\nA U.S. official tells ABC News it appears the driver had propane tanks in the vehicle, which they may have ignited deliberately\u2026.",
+    "\nArticle posted with permission from Pamela Geller\nPamela Geller's commitment to freedom from jihad and Shariah shines forth in her books"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 222,
+      "text": "Travis Air Force Base terrorist identified as Muslim Hafiz Kazi\n\nEarlier today I wrote: \u201cFBI spokeswoman Gina Swankie and Travis spokesman Airman Christian Conrad declined to elaborate on the matter or identify the driver.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 222,
+      "end_ix": 248,
+      "text": "\nWhy?\u201d\nNow it\u2019s clear why.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 248,
+      "end_ix": 382,
+      "text": "\nThey wanted to hold off as long as possible on identifying this terrorist as another Muslim, and this as another jihad terror attack.",
+      "new_text": "\nThey wanted to hold off as long as possible on identifying this terrorist as another Muslim, and this as a terror attack.",
+      "prop_spans": [
+        [
+          351,
+          361,
+          "Repetition"
+        ],
+        [
+          354,
+          381,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 382,
+      "end_ix": 523,
+      "text": "\nProtecting the image of Islam, not protecting the public, still seems to be the most important priority for all too many American officials.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          383,
+          522,
+          "Doubt"
+        ],
+        [
+          459,
+          522,
+          "Flag-Waving"
+        ],
+        [
+          459,
+          522,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 523,
+      "end_ix": 771,
+      "text": "\n\u201cMan whose vehicle exploded at Travis AFB identified,\u201d KGO, March 23, 2018:\nTRAVIS AIR FORCE BASE, Calif. (KGO) \u2014 A man who drove into Travis AFB has been identified as 51-year-old Hafiz Kazi, two sources with knowledge of the probe tell ABC News.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 771,
+      "end_ix": 855,
+      "text": "\nThe sources described Kazi as a \u201cnomad\u201d and a \u201cvagabond,\u201d who lived in many places.",
+      "new_text": "\nThe sources described Kazi as a hermit who lived in many places.",
+      "prop_spans": [
+        [
+          802,
+          829,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 855,
+      "end_ix": 977,
+      "text": "\nAuthorities extracted a video from his cell phone and are analyzing it to try and see if it could help point to a motive.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 977,
+      "end_ix": 1029,
+      "text": "\nSources wouldn\u2019t offer any details about the video.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1029,
+      "end_ix": 1158,
+      "text": "\nThe FBI is holding a press conference Friday at 3:30 p.m. and will be asking the public for help and any information about Kazi.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1158,
+      "end_ix": 1296,
+      "text": "\nSources say the information gathered so far still does not point to a concrete motive, with one source calling the man a \u201cmystery\u201d still.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1296,
+      "end_ix": 1412,
+      "text": "\nTerrorism, mental health issues, and everything else are still on the table as authorities try to uncover a motive.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1412,
+      "end_ix": 1485,
+      "text": "\nOn Wednesday, the car crashed at the main gate of Travis Air Force Base.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1485,
+      "end_ix": 1543,
+      "text": "\nOfficials are treating it as a possible attempted attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1543,
+      "end_ix": 1585,
+      "text": "\nThe FBI is now leading the investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1585,
+      "end_ix": 1645,
+      "text": "\n\u201cThe car basically blew up,\u201d said witness Kamren Hernandez.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1645,
+      "end_ix": 1864,
+      "text": "\n\u201d It was nothing anymore.\u201d Hernandez couldn\u2019t believe what he witnessed from his family\u2019s restaurant just feet from the main gate at Travis Air Force Base \u2014 a black SUV exploding seconds after breaching security gates.",
+      "new_text": "\n\u201d It was nothing anymore.\u201d Hernandez couldn\u2019t believe what he witnessed from his family\u2019s restaurant just feet from the main gate at Travis Air Force Base \u2014 a black SUV exploding seconds after breaching security gates.",
+      "prop_spans": [
+        [
+          1648,
+          1670,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1864,
+      "end_ix": 1902,
+      "text": "\nHernandez\u2019 father, Lamar, saw it too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1902,
+      "end_ix": 1934,
+      "text": "\n\u201cIt kept exploding \u2014 boom boom.",
+      "new_text": "\n\u201cIt kept exploding \u2014 boom boom.",
+      "prop_spans": [
+        [
+          1924,
+          1933,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1934,
+      "end_ix": 2066,
+      "text": "\nKept on going.\u201d Travis Air Force Base officials are investigating a security incident that occurred at the main gate on Wednesday\u2026.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2066,
+      "end_ix": 2196,
+      "text": "\nA U.S. official tells ABC News it appears the driver had propane tanks in the vehicle, which they may have ignited deliberately\u2026.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2196,
+      "end_ix": 2333,
+      "text": "\nArticle posted with permission from Pamela Geller\nPamela Geller's commitment to freedom from jihad and Shariah shines forth in her books",
+      "new_text": "\nArticle posted with permission from Pamela Geller\nPamela Geller's commitment to freedom from Islamic oppression is displayed in her books",
+      "prop_spans": [
+        [
+          2277,
+          2321,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      351,
+      361,
+      "Repetition"
+    ],
+    [
+      354,
+      381,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      383,
+      522,
+      "Doubt"
+    ],
+    [
+      459,
+      522,
+      "Flag-Waving"
+    ],
+    [
+      459,
+      522,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      802,
+      829,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1648,
+      1670,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1924,
+      1933,
+      "Loaded_Language"
+    ],
+    [
+      2277,
+      2321,
+      "Loaded_Language"
+    ]
+  ]
+}

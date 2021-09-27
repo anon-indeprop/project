@@ -1,0 +1,381 @@
+{
+  "article_id": "762160164",
+  "sentence offsets in original": [
+    0,
+    139,
+    216,
+    248,
+    503,
+    578,
+    619,
+    664,
+    696,
+    1044,
+    1214,
+    1347,
+    1528,
+    1562,
+    1640,
+    1766,
+    1803,
+    1926,
+    1984,
+    2012,
+    2042,
+    2567,
+    2605,
+    2719,
+    2869,
+    3114,
+    3150,
+    3184
+  ],
+  "original sentences": [
+    "Obama Secretly Tried to Get Banks to Aid Iran, Banks Refused\n\nInternational financial institutions get a lot of heat for terror state ties.",
+    "\nBut this is a case where Obama Inc. tried to get them to do the wrong thing.",
+    "\nWhile they did the right thing.",
+    "\nThe Obama administration secretly sought to give Iran access \u2014 albeit briefly \u2014 to the U.S. financial system by sidestepping sanctions kept in place after the 2015 nuclear deal, despite repeatedly telling Congress and the public it had no plans to do so.",
+    "\nYet another Obama dirty deal with Iran that we're just learning about now.",
+    "\nThe question is how many more are there?",
+    "\nAnd that's part of why Spygate is happening.",
+    "\nThe assault is also a cover-up.",
+    "\nThe report by the Senate Permanent Subcommittee on Investigations revealed that under President Barack Obama, the Treasury Department issued a license in February 2016, never previously disclosed, that would have allowed Iran to convert $5.7 billion it held at a bank in Oman from Omani rials into euros by exchanging them first into U.S. dollars.",
+    "\nIf the Omani bank had allowed the exchange without such a license, it would have violated sanctions that bar Iran from transactions that touch the U.S. financial system.",
+    "\nThe effort was unsuccessful because American banks \u2014 themselves afraid of running afoul of U.S. sanctions \u2014 declined to participate.",
+    "\nThe Obama administration approached two U.S. banks to facilitate the conversion, the report said, but both refused, citing the reputational risk of doing business with or for Iran.",
+    "\nThat's how bad Obama was on Iran.",
+    "\nThe banking system was more reluctant to help Iran launder money than he was.",
+    "\nNor was Obama worried about the reputational risk of loading foreign currency on unmarked cargo planes and flying it to Iran.",
+    "\nIssuing the license was not illegal.",
+    "\nStill, it went above and beyond what the Obama administration was required to do under the terms of the nuclear agreement.",
+    "\nExcept Obama Inc. weren't trying to drive a hard bargain.",
+    "\nSo they didn't stick to it.",
+    "\nThey were trying to aid Iran.",
+    "\nShortly after the nuclear deal was sealed in July 2015, then-Treasury Secretary Jack Lew testified that even with the sanctions relief, Iran \u201cwill continue to be denied access to the world\u2019s largest financial and commercial market.\u201d A month later, one of Lew\u2019s top deputies, Adam Szubin, testified that despite the nuclear deal \u201cIran will be denied access to the world\u2019s most important market and unable to deal in the world\u2019s most important currency.\u201d\nThis was typical of the worthless assurances that Obama officials made.",
+    "\nAnd disgraced themselves by doing so.",
+    "\nObama administration officials at the time assured concerned lawmakers that a general license wouldn\u2019t be coming.",
+    "\nBut the report from the Republican members of the Senate panel showed that a draft of the license was indeed prepared, though it was never published.",
+    "\nAnd when questioned by lawmakers about the possibility of granting Iran any kind of access to the U.S. financial system, Obama-era officials never volunteered that the specific license for Bank Muscat in Oman had been issued two months earlier.",
+    "\nScandal-free administration, folks.",
+    "\nNot a single scandal to see here.",
+    "\nNot a one."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 139,
+      "text": "Obama Secretly Tried to Get Banks to Aid Iran, Banks Refused\n\nInternational financial institutions get a lot of heat for terror state ties.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 139,
+      "end_ix": 216,
+      "text": "\nBut this is a case where Obama Inc. tried to get them to do the wrong thing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 216,
+      "end_ix": 248,
+      "text": "\nWhile they did the right thing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 248,
+      "end_ix": 503,
+      "text": "\nThe Obama administration secretly sought to give Iran access \u2014 albeit briefly \u2014 to the U.S. financial system by sidestepping sanctions kept in place after the 2015 nuclear deal, despite repeatedly telling Congress and the public it had no plans to do so.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 503,
+      "end_ix": 578,
+      "text": "\nYet another Obama dirty deal with Iran that we're just learning about now.",
+      "new_text": "\nYet another Obama deal with Iran that we're just learning about now.",
+      "prop_spans": [
+        [
+          522,
+          532,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 578,
+      "end_ix": 619,
+      "text": "\nThe question is how many more are there?",
+      "new_text": "\nThe question is are there any more?",
+      "prop_spans": [
+        [
+          595,
+          618,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 619,
+      "end_ix": 664,
+      "text": "\nAnd that's part of why Spygate is happening.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 664,
+      "end_ix": 696,
+      "text": "\nThe assault is also a cover-up.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 696,
+      "end_ix": 1044,
+      "text": "\nThe report by the Senate Permanent Subcommittee on Investigations revealed that under President Barack Obama, the Treasury Department issued a license in February 2016, never previously disclosed, that would have allowed Iran to convert $5.7 billion it held at a bank in Oman from Omani rials into euros by exchanging them first into U.S. dollars.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1044,
+      "end_ix": 1214,
+      "text": "\nIf the Omani bank had allowed the exchange without such a license, it would have violated sanctions that bar Iran from transactions that touch the U.S. financial system.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1214,
+      "end_ix": 1347,
+      "text": "\nThe effort was unsuccessful because American banks \u2014 themselves afraid of running afoul of U.S. sanctions \u2014 declined to participate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1347,
+      "end_ix": 1528,
+      "text": "\nThe Obama administration approached two U.S. banks to facilitate the conversion, the report said, but both refused, citing the reputational risk of doing business with or for Iran.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1528,
+      "end_ix": 1562,
+      "text": "\nThat's how bad Obama was on Iran.",
+      "new_text": "\nThat's how Obama was on Iran.",
+      "prop_spans": [
+        [
+          1540,
+          1543,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1540,
+          1543,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1562,
+      "end_ix": 1640,
+      "text": "\nThe banking system was more reluctant to help Iran launder money than he was.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1640,
+      "end_ix": 1766,
+      "text": "\nNor was Obama worried about the reputational risk of loading foreign currency on unmarked cargo planes and flying it to Iran.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1766,
+      "end_ix": 1803,
+      "text": "\nIssuing the license was not illegal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1803,
+      "end_ix": 1926,
+      "text": "\nStill, it went above and beyond what the Obama administration was required to do under the terms of the nuclear agreement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1926,
+      "end_ix": 1984,
+      "text": "\nExcept Obama Inc. weren't trying to drive a hard bargain.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1984,
+      "end_ix": 2012,
+      "text": "\nSo they didn't stick to it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2012,
+      "end_ix": 2042,
+      "text": "\nThey were trying to aid Iran.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2042,
+      "end_ix": 2567,
+      "text": "\nShortly after the nuclear deal was sealed in July 2015, then-Treasury Secretary Jack Lew testified that even with the sanctions relief, Iran \u201cwill continue to be denied access to the world\u2019s largest financial and commercial market.\u201d A month later, one of Lew\u2019s top deputies, Adam Szubin, testified that despite the nuclear deal \u201cIran will be denied access to the world\u2019s most important market and unable to deal in the world\u2019s most important currency.\u201d\nThis was typical of the worthless assurances that Obama officials made.",
+      "new_text": "\nShortly after the nuclear deal was sealed in July 2015, then-Treasury Secretary Jack Lew testified that even with the sanctions relief, Iran \u201cwill continue to be denied access to the world\u2019s largest financial and commercial market.\u201d A month later, one of Lew\u2019s top deputies, Adam Szubin, testified that despite the nuclear deal \u201cIran will be denied access to the world\u2019s most important market and unable to deal in the world\u2019s most important currency.\u201d\nThis was typical of the assurances that Obama officials made.",
+      "prop_spans": [
+        [
+          2414,
+          2435,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2470,
+          2493,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2520,
+          2529,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2567,
+      "end_ix": 2605,
+      "text": "\nAnd disgraced themselves by doing so.",
+      "new_text": "\nAnd shamed themselves by doing so.",
+      "prop_spans": [
+        [
+          2572,
+          2581,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2605,
+      "end_ix": 2719,
+      "text": "\nObama administration officials at the time assured concerned lawmakers that a general license wouldn\u2019t be coming.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2719,
+      "end_ix": 2869,
+      "text": "\nBut the report from the Republican members of the Senate panel showed that a draft of the license was indeed prepared, though it was never published.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2869,
+      "end_ix": 3114,
+      "text": "\nAnd when questioned by lawmakers about the possibility of granting Iran any kind of access to the U.S. financial system, Obama-era officials never volunteered that the specific license for Bank Muscat in Oman had been issued two months earlier.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3114,
+      "end_ix": 3150,
+      "text": "\nScandal-free administration, folks.",
+      "new_text": "\nScandal-free administration, folks.",
+      "prop_spans": [
+        [
+          3115,
+          3122,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3150,
+      "end_ix": 3184,
+      "text": "\nNot a single scandal to see here.",
+      "new_text": "\nNot a single one to see here.",
+      "prop_spans": [
+        [
+          3164,
+          3171,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3184,
+      "end_ix": 3195,
+      "text": "\nNot a one.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          3185,
+          3195,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      522,
+      532,
+      "Loaded_Language"
+    ],
+    [
+      595,
+      618,
+      "Doubt"
+    ],
+    [
+      1540,
+      1543,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1540,
+      1543,
+      "Loaded_Language"
+    ],
+    [
+      2414,
+      2435,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2470,
+      2493,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2520,
+      2529,
+      "Loaded_Language"
+    ],
+    [
+      2572,
+      2581,
+      "Loaded_Language"
+    ],
+    [
+      3115,
+      3122,
+      "Repetition"
+    ],
+    [
+      3164,
+      3171,
+      "Repetition"
+    ],
+    [
+      3185,
+      3196,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

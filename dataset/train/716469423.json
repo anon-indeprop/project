@@ -1,0 +1,247 @@
+{
+  "article_id": "716469423",
+  "sentence offsets in original": [
+    0,
+    146,
+    262,
+    399,
+    531,
+    633,
+    694,
+    738,
+    889,
+    910,
+    1010,
+    1169,
+    1386,
+    1419,
+    1443,
+    1576,
+    1780,
+    1909,
+    1954,
+    2198,
+    2333,
+    2491
+  ],
+  "original sentences": [
+    "The Sun Is Going DARK: No Sunspots For 96 Days; Ice Age Approaches\n\nNASA\u2019s own data is showing that the star our globe revolves around is dimming.",
+    "\nWith no sunspots reported in 96 days, the sun is going dark and the evidence could point to an approaching ice age.",
+    "\nAs the sun gets successively more blank with each day, due to lack of sunspots, it is also dimming, says the website Watts Up With That?",
+    "\nAccording to data from NASA\u2019s Spaceweather, so far in 2017, 96 days (27%) of the days observing the sun have been without sunspots.",
+    "\nToday at Cape Canaveral, SpaceXlaunched a new sensor to the International Space Station named TSIS-1.",
+    "\nIts mission: to measure the dimming of the sun\u2019s irradiance.",
+    "\nIt will replace the aging SORCE spacecraft.",
+    "\nNASA SDO reports that as the sunspot cycle plunges toward its 11-year minimum, NASA satellites are tracking a decline in total solar irradiance (TSI).",
+    "\n\u2013Watts Up With That?",
+    "\nThe Daily Sheeple\u2019s Joe Joseph breaks it down for those who don\u2019t closely follow the sun\u2019s changes.",
+    "\nHe says there is a correlation between major changes on the sun and the behavior of the Earth, especially now as it reaches its 11-year-cycle\u2019s solar minimum.",
+    "\n\u201cI guess you could say, in a very generalistic sense\u2026and I mean, this is as vanilla as you can possibly make it\u2026that as the sun gets quieter so does our magnetic field get weaker or so it appears to be,\u201d says Joseph.",
+    "\n\u201cIs there a mini ice age coming?",
+    "\nI don\u2019t know,\u201d he said.",
+    "\nBut other sources say it\u2019s more than possible that we will see a mini ice age in the next three years due to the dimming of our sun.",
+    "\nA 15-YEAR long mini ice age could be due to hit the Northern hemisphere in just four years as the sun prepares for \u201chibernation\u201d \u2013 triggering a barrage of cataclysmic events, says The Express UK in 2016.",
+    "\nSolar activity, measured by the appearance of sun spots, has been declining at a greater rate than at any other time in history.",
+    "\nAnd that could have widespread implications.",
+    "\nA team of experts have warned that huge seismic events, including volcanic eruptions, plunging global temperatures and destabilization of the Earth\u2019s crust will become more common after worrying changes to the surface of the Sun were recorded.",
+    "\nResearch by the The Space and Science Research Center in Florida revealed a strong link between low solar activity and seismic events.",
+    "\nScientists say that it could take up to 15 years for solar activity to return to normal with extreme weather and freezing temperatures continuing until 2035.",
+    "\nThis warning will infuriate environmental campaigners who argue by 2030 the world faces increased sea levels and flooding due to glacial melt at the poles and a warming of the globe."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 146,
+      "text": "The Sun Is Going DARK: No Sunspots For 96 Days; Ice Age Approaches\n\nNASA\u2019s own data is showing that the star our globe revolves around is dimming.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 146,
+      "end_ix": 262,
+      "text": "\nWith no sunspots reported in 96 days, the sun is going dark and the evidence could point to an approaching ice age.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 262,
+      "end_ix": 399,
+      "text": "\nAs the sun gets successively more blank with each day, due to lack of sunspots, it is also dimming, says the website Watts Up With That?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 399,
+      "end_ix": 531,
+      "text": "\nAccording to data from NASA\u2019s Spaceweather, so far in 2017, 96 days (27%) of the days observing the sun have been without sunspots.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 531,
+      "end_ix": 633,
+      "text": "\nToday at Cape Canaveral, SpaceXlaunched a new sensor to the International Space Station named TSIS-1.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 633,
+      "end_ix": 694,
+      "text": "\nIts mission: to measure the dimming of the sun\u2019s irradiance.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 694,
+      "end_ix": 738,
+      "text": "\nIt will replace the aging SORCE spacecraft.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 738,
+      "end_ix": 889,
+      "text": "\nNASA SDO reports that as the sunspot cycle plunges toward its 11-year minimum, NASA satellites are tracking a decline in total solar irradiance (TSI).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 889,
+      "end_ix": 910,
+      "text": "\n\u2013Watts Up With That?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 910,
+      "end_ix": 1010,
+      "text": "\nThe Daily Sheeple\u2019s Joe Joseph breaks it down for those who don\u2019t closely follow the sun\u2019s changes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1010,
+      "end_ix": 1169,
+      "text": "\nHe says there is a correlation between major changes on the sun and the behavior of the Earth, especially now as it reaches its 11-year-cycle\u2019s solar minimum.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1169,
+      "end_ix": 1386,
+      "text": "\n\u201cI guess you could say, in a very generalistic sense\u2026and I mean, this is as vanilla as you can possibly make it\u2026that as the sun gets quieter so does our magnetic field get weaker or so it appears to be,\u201d says Joseph.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1386,
+      "end_ix": 1419,
+      "text": "\n\u201cIs there a mini ice age coming?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1419,
+      "end_ix": 1443,
+      "text": "\nI don\u2019t know,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1443,
+      "end_ix": 1576,
+      "text": "\nBut other sources say it\u2019s more than possible that we will see a mini ice age in the next three years due to the dimming of our sun.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1576,
+      "end_ix": 1780,
+      "text": "\nA 15-YEAR long mini ice age could be due to hit the Northern hemisphere in just four years as the sun prepares for \u201chibernation\u201d \u2013 triggering a barrage of cataclysmic events, says The Express UK in 2016.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1780,
+      "end_ix": 1909,
+      "text": "\nSolar activity, measured by the appearance of sun spots, has been declining at a greater rate than at any other time in history.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1909,
+      "end_ix": 1954,
+      "text": "\nAnd that could have widespread implications.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1954,
+      "end_ix": 2198,
+      "text": "\nA team of experts have warned that huge seismic events, including volcanic eruptions, plunging global temperatures and destabilization of the Earth\u2019s crust will become more common after worrying changes to the surface of the Sun were recorded.",
+      "new_text": "\nA team of experts have given their opinion that huge seismic events, including volcanic eruptions, plunging global temperatures and destabilization of the Earth\u2019s crust will become more common after worrying changes to the surface of the Sun were recorded.",
+      "prop_spans": [
+        [
+          1955,
+          2198,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2198,
+      "end_ix": 2333,
+      "text": "\nResearch by the The Space and Science Research Center in Florida revealed a strong link between low solar activity and seismic events.",
+      "new_text": "\nResearch by the The Space and Science Research Center in Florida revealed a strong link between low solar activity and seismic events.",
+      "prop_spans": [
+        [
+          2198,
+          2198,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2333,
+      "end_ix": 2491,
+      "text": "\nScientists say that it could take up to 15 years for solar activity to return to normal with extreme weather and freezing temperatures continuing until 2035.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2491,
+      "end_ix": 2674,
+      "text": "\nThis warning will infuriate environmental campaigners who argue by 2030 the world faces increased sea levels and flooding due to glacial melt at the poles and a warming of the globe.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2492,
+          2674,
+          "Red_Herring"
+        ],
+        [
+          2505,
+          2519,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1955,
+      2198,
+      "Appeal_to_Authority"
+    ],
+    [
+      2492,
+      2675,
+      "Red_Herring"
+    ],
+    [
+      2505,
+      2519,
+      "Loaded_Language"
+    ]
+  ]
+}

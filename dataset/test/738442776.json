@@ -1,0 +1,256 @@
+{
+  "article_id": "738442776",
+  "sentence offsets in original": [
+    0,
+    6,
+    109,
+    328,
+    465,
+    670,
+    1044,
+    1251,
+    1368,
+    1505,
+    1642,
+    1805,
+    1888,
+    1960,
+    2248
+  ],
+  "original sentences": [
+    "Yikes!",
+    "\nEven John McCain is worried about Trump\u2019s CIA pick\n\nPersonal Liberty Poll Exercise your right to vote.",
+    "\nAfter President Donald Trump nominated Gina Haspel to head the Central Intelligence Agency Tuesday, Sen. John McCain (R-Ariz.) said Americans need answers about her past involvement in state sponsored torture programs.",
+    "\nAs I noted earlier today, Haspel\u2019s long career at the CIA spanned the years of torture carried out under the George W. Bush White House.",
+    "\nA 2013 Washington Post report on the new CIA head called her role in the torture programs of that era \u201cextensive\u201d and noted that at one point she ran a CIA \u201cblack site\u201d in Thailand where torture occurred.",
+    "\nIn a lengthy statement following Haspel\u2019s nomination, McCain expressed big concerns about what it means for the agency\u2019s future, saying:\nDuring his own confirmation proceedings for Director of the CIA, Mike Pompeo repeatedly committed that he would comply with the law that applies the Army Field Manual\u2019s interrogation requirements to all U.S. agencies, including the CIA.",
+    "\nThe American people now deserve the same assurances from Gina Haspel, whose career with the agency has intersected with the program of so-called \u2018enhanced interrogation techniques\u2019 on a number of occasions.",
+    "\nThe torture of detainees in U.S. custody during the last decade was one of the darkest chapters in American history.",
+    "\nMs. Haspel needs to explain the nature and extent of her involvement in the CIA\u2019s interrogation program during the confirmation process.",
+    "\nI know the Senate will do its job in examining Ms. Haspel\u2019s record as well as her beliefs about torture and her approach to current law.",
+    "\nIn the aftermath of the September 11th attacks, our government squandered precious moral authority in a futile effort to produce intelligence by means of torture.",
+    "\nWe are still dealing with the consequences of that desperately misguided decision.",
+    "\nCurrent U.S. law is clear in banning enhanced interrogation techniques.",
+    "\nAny nominee for Director of the CIA must pledge without reservation to uphold this prohibition, which has helped us to regain our position of leadership in the struggle for universal human rights\u2014the struggle upon which this country was founded, and which remains its highest aspiration.",
+    "\nAmericans who value the Constitution should take this rare moment to agree with McCain."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 6,
+      "text": "Yikes!",
+      "new_text": "Yikes!",
+      "prop_spans": [
+        [
+          0,
+          6,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 6,
+      "end_ix": 109,
+      "text": "\nEven John McCain is worried about Trump\u2019s CIA pick\n\nPersonal Liberty Poll Exercise your right to vote.",
+      "new_text": "\nEven John McCain is worried about Trump\u2019s CIA pick\n\nPersonal Liberty Poll Exercise your right to vote.",
+      "prop_spans": [
+        [
+          6,
+          6,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 109,
+      "end_ix": 328,
+      "text": "\nAfter President Donald Trump nominated Gina Haspel to head the Central Intelligence Agency Tuesday, Sen. John McCain (R-Ariz.) said Americans need answers about her past involvement in state sponsored torture programs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 328,
+      "end_ix": 465,
+      "text": "\nAs I noted earlier today, Haspel\u2019s long career at the CIA spanned the years of torture carried out under the George W. Bush White House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 465,
+      "end_ix": 670,
+      "text": "\nA 2013 Washington Post report on the new CIA head called her role in the torture programs of that era \u201cextensive\u201d and noted that at one point she ran a CIA \u201cblack site\u201d in Thailand where torture occurred.",
+      "new_text": "\nA 2013 Washington Post report on the new CIA head called her role in the torture programs of that era \u201cextensive\u201d and noted that at one point she ran a CIA \u201cblack site\u201d in Thailand where torture occurred.",
+      "prop_spans": [
+        [
+          516,
+          633,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 670,
+      "end_ix": 1044,
+      "text": "\nIn a lengthy statement following Haspel\u2019s nomination, McCain expressed big concerns about what it means for the agency\u2019s future, saying:\nDuring his own confirmation proceedings for Director of the CIA, Mike Pompeo repeatedly committed that he would comply with the law that applies the Army Field Manual\u2019s interrogation requirements to all U.S. agencies, including the CIA.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1044,
+      "end_ix": 1251,
+      "text": "\nThe American people now deserve the same assurances from Gina Haspel, whose career with the agency has intersected with the program of so-called \u2018enhanced interrogation techniques\u2019 on a number of occasions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1251,
+      "end_ix": 1368,
+      "text": "\nThe torture of detainees in U.S. custody during the last decade was one of the darkest chapters in American history.",
+      "new_text": "\nThe torture of detainees in U.S. custody during the last decade was a bad phase in American history.",
+      "prop_spans": [
+        [
+          1320,
+          1368,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1368,
+      "end_ix": 1505,
+      "text": "\nMs. Haspel needs to explain the nature and extent of her involvement in the CIA\u2019s interrogation program during the confirmation process.",
+      "new_text": "\nMs. Haspel needs to explain the nature and extent of her involvement in the CIA\u2019s interrogation program during the confirmation process.",
+      "prop_spans": [
+        [
+          1368,
+          1368,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1505,
+      "end_ix": 1642,
+      "text": "\nI know the Senate will do its job in examining Ms. Haspel\u2019s record as well as her beliefs about torture and her approach to current law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1642,
+      "end_ix": 1805,
+      "text": "\nIn the aftermath of the September 11th attacks, our government squandered precious moral authority in a futile effort to produce intelligence by means of torture.",
+      "new_text": "\nIn the aftermath of the September 11th attacks, our government squandered precious moral authority in an unsuccessful effort to produce intelligence by means of torture.",
+      "prop_spans": [
+        [
+          1747,
+          1761,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1805,
+      "end_ix": 1888,
+      "text": "\nWe are still dealing with the consequences of that desperately misguided decision.",
+      "new_text": "\nWe are still dealing with the consequences of that decision.",
+      "prop_spans": [
+        [
+          1857,
+          1888,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1888,
+      "end_ix": 1960,
+      "text": "\nCurrent U.S. law is clear in banning enhanced interrogation techniques.",
+      "new_text": "\nCurrent U.S. law is clear in banning enhanced interrogation techniques.",
+      "prop_spans": [
+        [
+          1888,
+          1888,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1960,
+      "end_ix": 2248,
+      "text": "\nAny nominee for Director of the CIA must pledge without reservation to uphold this prohibition, which has helped us to regain our position of leadership in the struggle for universal human rights\u2014the struggle upon which this country was founded, and which remains its highest aspiration.",
+      "new_text": "\nAny nominee for Director of the CIA must pledge without reservation to uphold this prohibition, which has helped us to regain our position of leadership in the struggle for universal human rights\u2014the struggle upon which this country was founded, and which remains its highest aspiration.",
+      "prop_spans": [
+        [
+          2157,
+          2248,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2248,
+      "end_ix": 2336,
+      "text": "\nAmericans who value the Constitution should take this rare moment to agree with McCain.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2248,
+          2249,
+          "Flag-Waving"
+        ],
+        [
+          2249,
+          2336,
+          "Flag-Waving"
+        ],
+        [
+          2249,
+          2336,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      6,
+      "Loaded_Language"
+    ],
+    [
+      516,
+      633,
+      "Appeal_to_Authority"
+    ],
+    [
+      1320,
+      1368,
+      "Loaded_Language"
+    ],
+    [
+      1747,
+      1761,
+      "Loaded_Language"
+    ],
+    [
+      1857,
+      1888,
+      "Loaded_Language"
+    ],
+    [
+      2157,
+      2249,
+      "Flag-Waving"
+    ],
+    [
+      2249,
+      2337,
+      "Flag-Waving"
+    ],
+    [
+      2249,
+      2337,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "article_id": "754348478",
+  "sentence offsets in original": [
+    0,
+    226,
+    427,
+    679,
+    717,
+    833,
+    926,
+    1048,
+    1181,
+    1253,
+    1346,
+    1424,
+    1557,
+    1624,
+    1772,
+    1849,
+    1965,
+    2080,
+    2198,
+    2373,
+    2681,
+    2800
+  ],
+  "original sentences": [
+    "Congo confirms 2 Ebola cases, declares outbreak\n\nKINSHASA, Congo -- Congo's government on Tuesday declared a new outbreak of Ebola in the country's rural northwest, after two cases of the deadly virus were confirmed in Bikoro.",
+    "\nCongo's Health Ministry said that of five samples sent to the National Institute of Biological Research in Kinshasa, two were positive for the Zaire strain of Ebola in the country's Equateur province.",
+    "\nThe samples were gathered after the Equateur province Health Ministry notified Kinshasa on May 3 of some 21 cases of a hemorrhagic fever in the Ikoko Impenge area, including 17 deaths, according to the World Health Organization and Congo's government.",
+    "\nThere are various hemorrhagic fevers.",
+    "\nA team was sent by the WHO and Doctors Without Borders over the weekend to investigate and strengthen coordination.",
+    "\nThe five new cases were then identified and sent to the laboratory, Congo's government said.",
+    "\nSince that time, no deaths have been reported among those hospitalized or among health workers treating the ill, it said.",
+    "\nA team of experts will go to Bikoro today to implement measures to avoid further spread of the disease, said the ministry statement.",
+    "\nThe team also will investigate how the outbreak first started, it said.",
+    "\nThis is the ninth Ebola outbreak in Congo since 1976, when the disease was first identified.",
+    "\nCongo has a long track record with Ebola, the World Health Organization said.",
+    "\nThe most recent outbreak was in May 2017 and killed four of the eight people infected in Congo's Bas-Uele province in the northeast.",
+    "\nThat outbreak was quickly contained and was declared over in July.",
+    "\nNone of these outbreaks was connected to the outbreak in Guinea, Liberia and Sierra Leone that began in 2014 and left more than 11,300 people dead.",
+    "\nEbola occasionally jumps to humans from animals, including bats and monkeys.",
+    "\nWithout preventive measures, the virus can spread quickly between people and is fatal in up to 90 percent of cases.",
+    "\nThere is no specific treatment for Ebola, which is spread through the bodily fluids of people exhibiting symptoms.",
+    "\nA new experimental vaccine has been shown to be effective against the virus, though quantities are currently limited.",
+    "\nWHO said Tuesday that it is working closely with Congo's government to rapidly scale up its operations and mobilize health partners as it did successfully in Congo last year.",
+    "\n\"Our top priority is to get to Bikoro to work alongside the Government of the Democratic Republic of the Congo and partners to reduce the loss of life and suffering related to this new Ebola virus disease outbreak,\" said Dr. Peter Salama, WHO deputy director-general for emergency preparedness and response.",
+    "\n\"Working with partners and responding early and in a coordinated way will be vital to containing this deadly disease.\"",
+    "\nA Section on 05/09/2018"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 226,
+      "text": "Congo confirms 2 Ebola cases, declares outbreak\n\nKINSHASA, Congo -- Congo's government on Tuesday declared a new outbreak of Ebola in the country's rural northwest, after two cases of the deadly virus were confirmed in Bikoro.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 226,
+      "end_ix": 427,
+      "text": "\nCongo's Health Ministry said that of five samples sent to the National Institute of Biological Research in Kinshasa, two were positive for the Zaire strain of Ebola in the country's Equateur province.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 427,
+      "end_ix": 679,
+      "text": "\nThe samples were gathered after the Equateur province Health Ministry notified Kinshasa on May 3 of some 21 cases of a hemorrhagic fever in the Ikoko Impenge area, including 17 deaths, according to the World Health Organization and Congo's government.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 679,
+      "end_ix": 717,
+      "text": "\nThere are various hemorrhagic fevers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 717,
+      "end_ix": 833,
+      "text": "\nA team was sent by the WHO and Doctors Without Borders over the weekend to investigate and strengthen coordination.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 833,
+      "end_ix": 926,
+      "text": "\nThe five new cases were then identified and sent to the laboratory, Congo's government said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 926,
+      "end_ix": 1048,
+      "text": "\nSince that time, no deaths have been reported among those hospitalized or among health workers treating the ill, it said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1048,
+      "end_ix": 1181,
+      "text": "\nA team of experts will go to Bikoro today to implement measures to avoid further spread of the disease, said the ministry statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1181,
+      "end_ix": 1253,
+      "text": "\nThe team also will investigate how the outbreak first started, it said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1253,
+      "end_ix": 1346,
+      "text": "\nThis is the ninth Ebola outbreak in Congo since 1976, when the disease was first identified.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1346,
+      "end_ix": 1424,
+      "text": "\nCongo has a long track record with Ebola, the World Health Organization said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1424,
+      "end_ix": 1557,
+      "text": "\nThe most recent outbreak was in May 2017 and killed four of the eight people infected in Congo's Bas-Uele province in the northeast.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1557,
+      "end_ix": 1624,
+      "text": "\nThat outbreak was quickly contained and was declared over in July.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1624,
+      "end_ix": 1772,
+      "text": "\nNone of these outbreaks was connected to the outbreak in Guinea, Liberia and Sierra Leone that began in 2014 and left more than 11,300 people dead.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1772,
+      "end_ix": 1849,
+      "text": "\nEbola occasionally jumps to humans from animals, including bats and monkeys.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1849,
+      "end_ix": 1965,
+      "text": "\nWithout preventive measures, the virus can spread quickly between people and is fatal in up to 90 percent of cases.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1965,
+      "end_ix": 2080,
+      "text": "\nThere is no specific treatment for Ebola, which is spread through the bodily fluids of people exhibiting symptoms.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2080,
+      "end_ix": 2198,
+      "text": "\nA new experimental vaccine has been shown to be effective against the virus, though quantities are currently limited.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2198,
+      "end_ix": 2373,
+      "text": "\nWHO said Tuesday that it is working closely with Congo's government to rapidly scale up its operations and mobilize health partners as it did successfully in Congo last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2373,
+      "end_ix": 2681,
+      "text": "\n\"Our top priority is to get to Bikoro to work alongside the Government of the Democratic Republic of the Congo and partners to reduce the loss of life and suffering related to this new Ebola virus disease outbreak,\" said Dr. Peter Salama, WHO deputy director-general for emergency preparedness and response.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2681,
+      "end_ix": 2800,
+      "text": "\n\"Working with partners and responding early and in a coordinated way will be vital to containing this deadly disease.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2800,
+      "end_ix": 2824,
+      "text": "\nA Section on 05/09/2018",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

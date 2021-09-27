@@ -1,0 +1,145 @@
+{
+  "article_id": "758882558",
+  "sentence offsets in original": [
+    0,
+    142,
+    325,
+    373,
+    551,
+    672,
+    764,
+    916,
+    1122,
+    1316,
+    1370,
+    1468,
+    1679,
+    1914,
+    1963
+  ],
+  "original sentences": [
+    "Probe in consulate injury allegation finds no clues\n\nChina has always protected the safety of workers at foreign diplomatic missions in China.",
+    "\n[Photo/VCG]\nChina said on Thursday it has not found any trace regarding what the United States described as abnormal sound and pressure reported by a US government employee in China.",
+    "\nThe employee was diagnosed with a brain injury.",
+    "\nThe US Mission in China issued an online health alert on Wednesday saying that the employee \"recently reported subtle and vague, but abnormal, sensations of sound and pressure\".",
+    "\nThe mission said it does not know what caused the reported symptoms and is not aware of any similar situations in China.",
+    "\n\"China has conducted an earnest investigation and has given preliminary feedback to the US.",
+    "\nSo far we have not yet found causes or clues to the situation described by the US,\" Foreign Ministry spokesman Lu Kang said in a daily news conference.",
+    "\nChina has always protected the safety of workers at foreign diplomatic missions in China according to the Vienna Convention on Diplomatic Relations and the Vienna Convention on Consular Relations, Lu said.",
+    "\nThe unnamed US citizen assigned to the consulate in Guangzhou had reported a variety of \"physical symptoms\" dating from late 2017 to April this year, the US embassy in Beijing said in an email.",
+    "\nThe worker was sent to the US for further evaluation.",
+    "\n\"The clinical findings of this evaluation matched mild traumatic brain injury,\" the embassy said.",
+    "\nThe US State Department will send a medical team to Guangzhou early next week to conduct baseline medical evaluations of all consulate employees who request it, State Department spokeswoman Heather Nauert said.",
+    "\nIn October, the US government expelled 15 Cuban diplomats for what it said was Cuba's failure to protect staff at the US embassy in Havana from mysterious health incidents at one point thought to possibly have been acoustic \"attacks\".",
+    "\nThe cause of those incidents remains unresolved.",
+    "\nReuters contributed to this story."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 142,
+      "text": "Probe in consulate injury allegation finds no clues\n\nChina has always protected the safety of workers at foreign diplomatic missions in China.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 142,
+      "end_ix": 325,
+      "text": "\n[Photo/VCG]\nChina said on Thursday it has not found any trace regarding what the United States described as abnormal sound and pressure reported by a US government employee in China.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 325,
+      "end_ix": 373,
+      "text": "\nThe employee was diagnosed with a brain injury.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 373,
+      "end_ix": 551,
+      "text": "\nThe US Mission in China issued an online health alert on Wednesday saying that the employee \"recently reported subtle and vague, but abnormal, sensations of sound and pressure\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 551,
+      "end_ix": 672,
+      "text": "\nThe mission said it does not know what caused the reported symptoms and is not aware of any similar situations in China.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 672,
+      "end_ix": 764,
+      "text": "\n\"China has conducted an earnest investigation and has given preliminary feedback to the US.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 764,
+      "end_ix": 916,
+      "text": "\nSo far we have not yet found causes or clues to the situation described by the US,\" Foreign Ministry spokesman Lu Kang said in a daily news conference.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 916,
+      "end_ix": 1122,
+      "text": "\nChina has always protected the safety of workers at foreign diplomatic missions in China according to the Vienna Convention on Diplomatic Relations and the Vienna Convention on Consular Relations, Lu said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1122,
+      "end_ix": 1316,
+      "text": "\nThe unnamed US citizen assigned to the consulate in Guangzhou had reported a variety of \"physical symptoms\" dating from late 2017 to April this year, the US embassy in Beijing said in an email.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1316,
+      "end_ix": 1370,
+      "text": "\nThe worker was sent to the US for further evaluation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1370,
+      "end_ix": 1468,
+      "text": "\n\"The clinical findings of this evaluation matched mild traumatic brain injury,\" the embassy said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1468,
+      "end_ix": 1679,
+      "text": "\nThe US State Department will send a medical team to Guangzhou early next week to conduct baseline medical evaluations of all consulate employees who request it, State Department spokeswoman Heather Nauert said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1679,
+      "end_ix": 1914,
+      "text": "\nIn October, the US government expelled 15 Cuban diplomats for what it said was Cuba's failure to protect staff at the US embassy in Havana from mysterious health incidents at one point thought to possibly have been acoustic \"attacks\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1914,
+      "end_ix": 1963,
+      "text": "\nThe cause of those incidents remains unresolved.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1963,
+      "end_ix": 1998,
+      "text": "\nReuters contributed to this story.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

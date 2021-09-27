@@ -1,0 +1,260 @@
+{
+  "article_id": "698780559",
+  "sentence offsets in original": [
+    0,
+    139,
+    232,
+    373,
+    457,
+    626,
+    957,
+    1072,
+    1252,
+    1356,
+    1560,
+    1761,
+    1932,
+    2029,
+    2106,
+    2147,
+    2271,
+    2425
+  ],
+  "original sentences": [
+    "The Las Vegas Security Guard Credited With Finding Shooter, Mysteriously Vanished Into Thin Air\n\nBy now, we have all heard of Jesus Campos.",
+    "\nHe\u2019s the heroic security guard that allegedly located the Las Vegas shooter, Steven Paddock.",
+    "\nBut the narrative surrounding him has changed wildly since the authorities mentioned him, and now, he\u2019s mysteriously vanished into thin air.",
+    "\nOf course, this leads many to believe that Campos didn\u2019t even exist, to begin with.",
+    "\nHis mere existence appears to have been fabricated by the very authorities who are cramming lies down our throats about this massacre for the sake of political agendas.",
+    "\nThere are two conflicting timelines of Campos\u2019s injury, but what the media has so far made clear, is that they want the public to believe Campos was walking down the Mandalay Bay Hotel & Casino\u2019s 32nd floor hallway, when Stephen Paddock spotted him on a camera he\u2019d allegedly set up in a room service cart, just outside his suite.",
+    "\nOnce he saw Campos, Paddock reportedly fired nearly 200 rounds through his suite door, wounding Campos in the leg.",
+    "\nMoments later (6 minutes actually, according to the newly revised timeline regarding Campos) Paddock allegedly opened fire on a crowd killing more than 50 and injuring nearly 500.",
+    "\nBut Campos has been a mysterious subject since being wounded in the first moments of Paddock\u2019s assault.",
+    "\nAfter speaking to hotel and law enforcement officials, Campos was scheduled to appear on local Las Vegas television for an interview but went missing just moments before he was supposed to be on the air.",
+    "\nDavid Hickey, a spokesman for the Security, Police, and Fire Professionals of America (SPFPA), Campos\u2019s union, said he got a text that Campos had been taken to an urgent care facility, UMC Quick Care.",
+    "\nBut UMC Quick Care says none of their clinics filled out an intake request for a patient by that name, and Campos has been silent since the text; vanishing into thin air.",
+    "\nHe also isn\u2019t listed on the registry that shows the names of licensed security guards in Nevada.",
+    "\n\u201cRight now I\u2019m just concerned where my member is, and what his condition is.",
+    "\nIt\u2019s highly unusual,\u201d Hickey told media.",
+    "\n\u201cI\u2019m hoping everything is OK with him and I\u2019m sure MGM or the union will let (media) know when we hear something,\u201d he said.",
+    "\nIn the meantime, authorities still have not released a conclusive timeline for the shooting they desperately want us to believe was committed by Paddock.",
+    "\nAnd, according to the latest reports, are still looking for a motive for the shooting."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 139,
+      "text": "The Las Vegas Security Guard Credited With Finding Shooter, Mysteriously Vanished Into Thin Air\n\nBy now, we have all heard of Jesus Campos.",
+      "new_text": "The Las Vegas Security Guard Credited With Finding Shooter, Mysteriously Vanished Into Thin Air\n\nBy now, we have all heard of Jesus Campos.",
+      "prop_spans": [
+        [
+          60,
+          95,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 139,
+      "end_ix": 232,
+      "text": "\nHe\u2019s the heroic security guard that allegedly located the Las Vegas shooter, Steven Paddock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 232,
+      "end_ix": 373,
+      "text": "\nBut the narrative surrounding him has changed wildly since the authorities mentioned him, and now, he\u2019s mysteriously vanished into thin air.",
+      "new_text": "\nBut the narrative surrounding him has changed wildly since the authorities mentioned him, and now, he\u2019s mysteriously vanished.",
+      "prop_spans": [
+        [
+          337,
+          372,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 373,
+      "end_ix": 457,
+      "text": "\nOf course, this leads many to believe that Campos didn\u2019t even exist, to begin with.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 457,
+      "end_ix": 626,
+      "text": "\nHis mere existence appears to have been fabricated by the very authorities who are cramming lies down our throats about this massacre for the sake of political agendas.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          458,
+          626,
+          "Doubt"
+        ],
+        [
+          541,
+          571,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 626,
+      "end_ix": 957,
+      "text": "\nThere are two conflicting timelines of Campos\u2019s injury, but what the media has so far made clear, is that they want the public to believe Campos was walking down the Mandalay Bay Hotel & Casino\u2019s 32nd floor hallway, when Stephen Paddock spotted him on a camera he\u2019d allegedly set up in a room service cart, just outside his suite.",
+      "new_text": "\nThere are two conflicting timelines of Campos\u2019s injury, but what the media has so far made clear, is that they allegedly want the public to believe Campos was walking down the Mandalay Bay Hotel & Casino\u2019s 32nd floor hallway, when Stephen Paddock spotted him on a camera he\u2019d allegedly set up in a room service cart, just outside his suite.",
+      "prop_spans": [
+        [
+          626,
+          627,
+          "Doubt"
+        ],
+        [
+          733,
+          764,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 957,
+      "end_ix": 1072,
+      "text": "\nOnce he saw Campos, Paddock reportedly fired nearly 200 rounds through his suite door, wounding Campos in the leg.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1072,
+      "end_ix": 1252,
+      "text": "\nMoments later (6 minutes actually, according to the newly revised timeline regarding Campos) Paddock allegedly opened fire on a crowd killing more than 50 and injuring nearly 500.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1252,
+      "end_ix": 1356,
+      "text": "\nBut Campos has been a mysterious subject since being wounded in the first moments of Paddock\u2019s assault.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1356,
+      "end_ix": 1560,
+      "text": "\nAfter speaking to hotel and law enforcement officials, Campos was scheduled to appear on local Las Vegas television for an interview but went missing just moments before he was supposed to be on the air.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1560,
+      "end_ix": 1761,
+      "text": "\nDavid Hickey, a spokesman for the Security, Police, and Fire Professionals of America (SPFPA), Campos\u2019s union, said he got a text that Campos had been taken to an urgent care facility, UMC Quick Care.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1761,
+      "end_ix": 1932,
+      "text": "\nBut UMC Quick Care says none of their clinics filled out an intake request for a patient by that name, and Campos has been silent since the text; vanishing into thin air.",
+      "new_text": "\nBut UMC Quick Care says none of their clinics filled out an intake request for a patient by that name, and Campos has been silent since the text.",
+      "prop_spans": [
+        [
+          1908,
+          1932,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1932,
+      "end_ix": 2029,
+      "text": "\nHe also isn\u2019t listed on the registry that shows the names of licensed security guards in Nevada.",
+      "new_text": "\nHe also isn\u2019t listed on the registry that shows the names of licensed security guards in Nevada.",
+      "prop_spans": [
+        [
+          1932,
+          1932,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2029,
+      "end_ix": 2106,
+      "text": "\n\u201cRight now I\u2019m just concerned where my member is, and what his condition is.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2106,
+      "end_ix": 2147,
+      "text": "\nIt\u2019s highly unusual,\u201d Hickey told media.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2147,
+      "end_ix": 2271,
+      "text": "\n\u201cI\u2019m hoping everything is OK with him and I\u2019m sure MGM or the union will let (media) know when we hear something,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2271,
+      "end_ix": 2425,
+      "text": "\nIn the meantime, authorities still have not released a conclusive timeline for the shooting they desperately want us to believe was committed by Paddock.",
+      "new_text": "\nIn the meantime, authorities still have not released a conclusive timeline for the shooting they desperately want us to believe was committed by Paddock.",
+      "prop_spans": [
+        [
+          2364,
+          2399,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2425,
+      "end_ix": 2512,
+      "text": "\nAnd, according to the latest reports, are still looking for a motive for the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      60,
+      95,
+      "Repetition"
+    ],
+    [
+      337,
+      372,
+      "Doubt"
+    ],
+    [
+      458,
+      627,
+      "Doubt"
+    ],
+    [
+      541,
+      571,
+      "Loaded_Language"
+    ],
+    [
+      733,
+      764,
+      "Doubt"
+    ],
+    [
+      1908,
+      1932,
+      "Repetition"
+    ],
+    [
+      2364,
+      2399,
+      "Doubt"
+    ]
+  ]
+}

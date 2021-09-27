@@ -1,0 +1,264 @@
+{
+  "article_id": "781577820",
+  "sentence offsets in original": [
+    0,
+    86,
+    191,
+    303,
+    742,
+    873,
+    1248,
+    1382,
+    1474,
+    1775,
+    1977,
+    2222,
+    2343
+  ],
+  "original sentences": [
+    "Jeff Sessions lashes back at Trump\n\nPersonal Liberty Poll Exercise your right to vote.",
+    "\nWASHINGTON \u2014 Attorney General Jeff Sessions has a message for Donald Trump: You\u2019re wrong, Mr. President.",
+    "\nSessions long has been one of Trump\u2019s favorite pinatas, often taking the brunt of the president\u2019s public scorn.",
+    "\nTrump offered this assessment of his hand-picked attorney general recusing himself from the Justice Department\u2019s special counsel probe of Russian election meddling: \u201cWhat kind of man is this?\u201d\nTrump, in an interview that aired Thursday morning, also blasted Sessions because, he said, the former Alabama senator \u201cnever took control of the Justice Department.\u201d\nAbout seven hours later, the country\u2019s top law enforcement officer fired back.",
+    "\nAnd, by doing so, took on Trump publicly in a way few Republicans in Washington have during his turbulent 19-month-old presidency.",
+    "\n\u201cI took control of the Department of Justice the day I was sworn in, which is why we have had unprecedented success at effectuating the President\u2019s agenda \u2014 one that protects the safety and security and rights of the American people, reduces violent crime, enforces our immigration laws, promotes economic growth, and advances religious liberty,\u201d the AG said in a statement.",
+    "\n\u201cWhile I am Attorney General, the actions of the Department of Justice will not be improperly influenced by political considerations.",
+    "\nI demand the highest standards, and where they are not met, I take action,\u201d Sessions added.",
+    "\n\u201cHowever, no nation has a more talented, more dedicated group of law enforcement investigators and prosecutors than the United States.\u201d\nThat last statement comes amid nearly constant complaints from Trump that Justice Department and FBI investigators are being unfair to the president and his allies.",
+    "\nThat line of criticism has been picked up by, among others, Rep. Duncan Hunter, R-Calif., who was indicted on federal officials this week on charges of misusing campaign finance funds for personal use.",
+    "\nTrump did not directly answer a Fox News interviewer\u2019s question about whether he intends to fire Sessions and Deputy Attorney General Rod Rosenstein, who is overseeing the special counsel investigation, after November\u2019s congressional elections.",
+    "\nHe also said he only gave the former senator the job because Sessions was a supporter during the 2016 presidential race.",
+    "\n\u2014 John T. Bennett\nCQ-Roll Call\n\u2014\u2014\u2014\n\u00a92018 CQ-Roll Call, Inc., All Rights Reserved, Distributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 86,
+      "text": "Jeff Sessions lashes back at Trump\n\nPersonal Liberty Poll Exercise your right to vote.",
+      "new_text": "Jeff Sessions hits back at Trump\n\nPersonal Liberty Poll Exercise your right to vote.",
+      "prop_spans": [
+        [
+          14,
+          26,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 86,
+      "end_ix": 191,
+      "text": "\nWASHINGTON \u2014 Attorney General Jeff Sessions has a message for Donald Trump: You\u2019re wrong, Mr. President.",
+      "new_text": "\nWASHINGTON \u2014 Attorney General Jeff Sessions has a message for Donald Trump: You\u2019re wrong, Mr. President.",
+      "prop_spans": [
+        [
+          163,
+          190,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 191,
+      "end_ix": 303,
+      "text": "\nSessions long has been one of Trump\u2019s favorite pinatas, often taking the brunt of the president\u2019s public scorn.",
+      "new_text": "\nSessions long has been one of Trump\u2019s favorite plaything, often taking the brunt of the president\u2019s public contempt.",
+      "prop_spans": [
+        [
+          215,
+          246,
+          "Name_Calling,Labeling"
+        ],
+        [
+          274,
+          302,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 303,
+      "end_ix": 742,
+      "text": "\nTrump offered this assessment of his hand-picked attorney general recusing himself from the Justice Department\u2019s special counsel probe of Russian election meddling: \u201cWhat kind of man is this?\u201d\nTrump, in an interview that aired Thursday morning, also blasted Sessions because, he said, the former Alabama senator \u201cnever took control of the Justice Department.\u201d\nAbout seven hours later, the country\u2019s top law enforcement officer fired back.",
+      "new_text": "\nTrump offered this assessment of his hand-picked attorney general recusing himself from the Justice Department\u2019s special counsel probe of Russian election meddling: \u201cWhat kind of man is this?\u201d\nTrump, in an interview that aired Thursday morning, also attacked Sessions because, he said, the former Alabama senator \u201cnever took control of the Justice Department.\u201d\nAbout seven hours later, the country\u2019s top law enforcement officer attacked back.",
+      "prop_spans": [
+        [
+          470,
+          494,
+          "Doubt"
+        ],
+        [
+          554,
+          562,
+          "Loaded_Language"
+        ],
+        [
+          589,
+          661,
+          "Doubt"
+        ],
+        [
+          731,
+          741,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 742,
+      "end_ix": 873,
+      "text": "\nAnd, by doing so, took on Trump publicly in a way few Republicans in Washington have during his turbulent 19-month-old presidency.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 873,
+      "end_ix": 1248,
+      "text": "\n\u201cI took control of the Department of Justice the day I was sworn in, which is why we have had unprecedented success at effectuating the President\u2019s agenda \u2014 one that protects the safety and security and rights of the American people, reduces violent crime, enforces our immigration laws, promotes economic growth, and advances religious liberty,\u201d the AG said in a statement.",
+      "new_text": "\n\u201cI took control of the Department of Justice the day I was sworn in, which is why we have had unprecedented success at effectuating the President\u2019s agenda \u2014 one that protects the safety and security and rights of the American people, reduces violent crime, enforces our immigration laws, promotes economic growth, and advances religious liberty,\u201d the AG said in a statement.",
+      "prop_spans": [
+        [
+          968,
+          1029,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1031,
+          1218,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1248,
+      "end_ix": 1382,
+      "text": "\n\u201cWhile I am Attorney General, the actions of the Department of Justice will not be improperly influenced by political considerations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1382,
+      "end_ix": 1474,
+      "text": "\nI demand the highest standards, and where they are not met, I take action,\u201d Sessions added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1474,
+      "end_ix": 1775,
+      "text": "\n\u201cHowever, no nation has a more talented, more dedicated group of law enforcement investigators and prosecutors than the United States.\u201d\nThat last statement comes amid nearly constant complaints from Trump that Justice Department and FBI investigators are being unfair to the president and his allies.",
+      "new_text": "\n\u201cHowever, no nation has a more talented, more dedicated group of law enforcement investigators and prosecutors than the United States.\u201d\nThat last statement comes amid continuous complaints from Trump that Justice Department and FBI investigators are being unfair to the president and his allies.",
+      "prop_spans": [
+        [
+          1476,
+          1608,
+          "Flag-Waving"
+        ],
+        [
+          1485,
+          1608,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1642,
+          1680,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1775,
+      "end_ix": 1977,
+      "text": "\nThat line of criticism has been picked up by, among others, Rep. Duncan Hunter, R-Calif., who was indicted on federal officials this week on charges of misusing campaign finance funds for personal use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1977,
+      "end_ix": 2222,
+      "text": "\nTrump did not directly answer a Fox News interviewer\u2019s question about whether he intends to fire Sessions and Deputy Attorney General Rod Rosenstein, who is overseeing the special counsel investigation, after November\u2019s congressional elections.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2222,
+      "end_ix": 2343,
+      "text": "\nHe also said he only gave the former senator the job because Sessions was a supporter during the 2016 presidential race.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2343,
+      "end_ix": 2469,
+      "text": "\n\u2014 John T. Bennett\nCQ-Roll Call\n\u2014\u2014\u2014\n\u00a92018 CQ-Roll Call, Inc., All Rights Reserved, Distributed by Tribune Content Agency, LLC.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      14,
+      26,
+      "Loaded_Language"
+    ],
+    [
+      163,
+      190,
+      "Doubt"
+    ],
+    [
+      215,
+      246,
+      "Name_Calling,Labeling"
+    ],
+    [
+      274,
+      302,
+      "Loaded_Language"
+    ],
+    [
+      470,
+      494,
+      "Doubt"
+    ],
+    [
+      554,
+      562,
+      "Loaded_Language"
+    ],
+    [
+      589,
+      661,
+      "Doubt"
+    ],
+    [
+      731,
+      741,
+      "Loaded_Language"
+    ],
+    [
+      968,
+      1029,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1031,
+      1218,
+      "Flag-Waving"
+    ],
+    [
+      1476,
+      1608,
+      "Flag-Waving"
+    ],
+    [
+      1485,
+      1608,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1642,
+      1680,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

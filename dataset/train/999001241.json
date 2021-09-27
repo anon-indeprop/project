@@ -1,0 +1,251 @@
+{
+  "article_id": "999001241",
+  "sentence offsets in original": [
+    0,
+    384,
+    471,
+    651,
+    713,
+    864,
+    964,
+    1053,
+    1104,
+    1155,
+    1193,
+    1244,
+    1251,
+    1283,
+    1364,
+    1446,
+    1474,
+    1537,
+    1752,
+    1932,
+    2040,
+    2209,
+    2354
+  ],
+  "original sentences": [
+    "In Wake Of Elections, Migrant Caravan Resumes March Towards US Border\n\nOf course, the news of the migrant caravan has largely been abandoned due to the elections and what appears to be voter fraud and election meddling and manipulation across the country, but that doesn't mean that thousands of migrants from Central America have abandoned their quest to enter our country illegally.",
+    "\nDespite barbed wires and thousands of troops on the border, they have been undeterred.",
+    "\nA report from RT tells the tale:\nThe Central American migrant caravan has just begun another leg of their journey to the US border hastily reinforced by the Army and Marine Corps.",
+    "\nThe migrants previously made a days-long stop in Mexico City.",
+    "\nThe caravan, made up mostly of Hondurans, but also nationals of other Central American countries, is now on the move towards the United States border.",
+    "\nMigrants resumed their march north on Saturday morning after spending almost a week in Mexico City.",
+    "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n... To get there, migrants will have to travel some 1,700 miles (2,735km) to the northwest, a much longer route than to the nearest US border crossing at McAllen, Texas, which many consider to be the safest option.",
+    "\nVideo was also captured showing dozens of people waiting for trains in Mexico subway or boarding heavy trucks or buses somewhere outside the city while others are seen using cars.",
+    "\nPresident Donald Trump has warned these people to turn back and that they will not be accepted into the US.",
+    "\nHe recently signed an immigration decree requiring asylum seekers to apply at their point of entry to the country and barring illegal immigrants from requesting asylum.",
+    "\n\u201cWe need people in our country but they have to come in legally and they have to have merit,\u201d Trump told reporters before he departed for Paris.",
+    "\nhttps://youtu.be/1jT8Ait1jE\nArticle posted with permission from Sons Of Liberty Media"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 384,
+      "text": "In Wake Of Elections, Migrant Caravan Resumes March Towards US Border\n\nOf course, the news of the migrant caravan has largely been abandoned due to the elections and what appears to be voter fraud and election meddling and manipulation across the country, but that doesn't mean that thousands of migrants from Central America have abandoned their quest to enter our country illegally.",
+      "new_text": "In Wake Of Elections, Migrant Caravan Resumes March Towards US Border\n\nOf course, the news of the migrant caravan has largely been abandoned due to the elections and what appears to be election manipulation across the country, but that doesn't mean that thousands of migrants from Central America have abandoned their quest to enter our country illegally.",
+      "prop_spans": [
+        [
+          166,
+          236,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 384,
+      "end_ix": 471,
+      "text": "\nDespite barbed wires and thousands of troops on the border, they have been undeterred.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 471,
+      "end_ix": 651,
+      "text": "\nA report from RT tells the tale:\nThe Central American migrant caravan has just begun another leg of their journey to the US border hastily reinforced by the Army and Marine Corps.",
+      "new_text": "\nA report from RT tells the tale:\nThe Central American migrant caravan has just begun another leg of their journey to the US border hastily reinforced by the Army and Marine Corps.",
+      "prop_spans": [
+        [
+          526,
+          542,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 651,
+      "end_ix": 713,
+      "text": "\nThe migrants previously made a days-long stop in Mexico City.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 713,
+      "end_ix": 864,
+      "text": "\nThe caravan, made up mostly of Hondurans, but also nationals of other Central American countries, is now on the move towards the United States border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 864,
+      "end_ix": 964,
+      "text": "\nMigrants resumed their march north on Saturday morning after spending almost a week in Mexico City.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 964,
+      "end_ix": 1053,
+      "text": "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1053,
+      "end_ix": 1104,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1104,
+      "end_ix": 1155,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1155,
+      "end_ix": 1193,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1193,
+      "end_ix": 1244,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1244,
+      "end_ix": 1251,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1251,
+      "end_ix": 1283,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1283,
+      "end_ix": 1364,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1364,
+      "end_ix": 1446,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1446,
+      "end_ix": 1474,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1474,
+      "end_ix": 1537,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1537,
+      "end_ix": 1752,
+      "text": "\n... To get there, migrants will have to travel some 1,700 miles (2,735km) to the northwest, a much longer route than to the nearest US border crossing at McAllen, Texas, which many consider to be the safest option.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1752,
+      "end_ix": 1932,
+      "text": "\nVideo was also captured showing dozens of people waiting for trains in Mexico subway or boarding heavy trucks or buses somewhere outside the city while others are seen using cars.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1932,
+      "end_ix": 2040,
+      "text": "\nPresident Donald Trump has warned these people to turn back and that they will not be accepted into the US.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2040,
+      "end_ix": 2209,
+      "text": "\nHe recently signed an immigration decree requiring asylum seekers to apply at their point of entry to the country and barring illegal immigrants from requesting asylum.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2209,
+      "end_ix": 2354,
+      "text": "\n\u201cWe need people in our country but they have to come in legally and they have to have merit,\u201d Trump told reporters before he departed for Paris.",
+      "new_text": "\n\u201cWe need people in our country but they have to come in legally and they have to have merit,\u201d Trump told reporters before he departed for Paris.",
+      "prop_spans": [
+        [
+          2211,
+          2240,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2354,
+      "end_ix": 2440,
+      "text": "\nhttps://youtu.be/1jT8Ait1jE\nArticle posted with permission from Sons Of Liberty Media",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      166,
+      236,
+      "Loaded_Language"
+    ],
+    [
+      526,
+      542,
+      "Repetition"
+    ],
+    [
+      2211,
+      2240,
+      "Flag-Waving"
+    ]
+  ]
+}

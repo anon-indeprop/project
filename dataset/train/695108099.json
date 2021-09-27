@@ -1,0 +1,118 @@
+{
+  "article_id": "695108099",
+  "sentence offsets in original": [
+    0,
+    349,
+    562,
+    736,
+    796,
+    926,
+    1040,
+    1208,
+    1337,
+    1422,
+    1477,
+    1838
+  ],
+  "original sentences": [
+    "Receipt Shows Paddock Had Another Guest in His Room Before Shooting\n\nThis report was originally published by Paul Joseph Watson at Infowars\nAn image posted on Facebook by a man who claims he served Stephen Paddock room service shows that the gunman was with a guest during his time at the Mandalay Bay hotel four days before the massacre took place.",
+    "\nThe receipt shows an employee named Antonio served two guests an \u201cIRA_MB,\u201d which means \u201cIn Room Dining, Mandalay Bay.\u201d\nThe table number is \u201c32135\u201d \u2013 which equates to Paddock\u2019s room number (135) on the 32nd floor.",
+    "\nPaddock ordered a burger, a bagel with cream cheese, a potato soup, one bottle of water and two Pepsis, suggesting that there was another person eating with him in the room.",
+    "\nThe receipt shows the number \u201c2\u201d next to the word \u201cGuests\u201d.",
+    "\nThe date on the receipt also says September 27, whereas authorities assert that Paddock checked in the day after on September 28.",
+    "\nPaddock\u2019s guest could not have been his girlfriend Marilou Danley because she was in the Philippines at the time.",
+    "\nThe individual who posted the receipt appears to have deleted it from his Facebook page, although the page still shows that he works at Mandalay Bay Resort and Casino.",
+    "\nAnother source told Laura Loomer that the gunman actually checked in on September 25, three days before authorities said he did.",
+    "\nSource who works at @MandalayBay said #StephenPaddock had the suite since Sep. 25th.",
+    "\nWhy did police lie and say he checked in on Sep. 28th?",
+    "\npic.twitter.com/WivxGRqB6W \u2014 Laura Loomer (@LauraLoomer) October 4, 2017\nAuthorities must surely now be on the hunt for whoever Paddock dined with in order to ascertain whether this individual was involved in the plot and whether or not it was the same woman who reportedly told concert-goers they were \u201cgoing to die\u201d 45 minutes before the shooting took place.",
+    "\nSUBSCRIBE on YouTube:\nFollow on Twitter: Follow @PrisonPlanet\nFacebook: https://www.facebook.com/PaulJosephWatson/\n*********************\nPaul Joseph Watson is the editor at large of Infowars.com and Prison Planet.com."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 349,
+      "text": "Receipt Shows Paddock Had Another Guest in His Room Before Shooting\n\nThis report was originally published by Paul Joseph Watson at Infowars\nAn image posted on Facebook by a man who claims he served Stephen Paddock room service shows that the gunman was with a guest during his time at the Mandalay Bay hotel four days before the massacre took place.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 349,
+      "end_ix": 562,
+      "text": "\nThe receipt shows an employee named Antonio served two guests an \u201cIRA_MB,\u201d which means \u201cIn Room Dining, Mandalay Bay.\u201d\nThe table number is \u201c32135\u201d \u2013 which equates to Paddock\u2019s room number (135) on the 32nd floor.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 562,
+      "end_ix": 736,
+      "text": "\nPaddock ordered a burger, a bagel with cream cheese, a potato soup, one bottle of water and two Pepsis, suggesting that there was another person eating with him in the room.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 736,
+      "end_ix": 796,
+      "text": "\nThe receipt shows the number \u201c2\u201d next to the word \u201cGuests\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 796,
+      "end_ix": 926,
+      "text": "\nThe date on the receipt also says September 27, whereas authorities assert that Paddock checked in the day after on September 28.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 926,
+      "end_ix": 1040,
+      "text": "\nPaddock\u2019s guest could not have been his girlfriend Marilou Danley because she was in the Philippines at the time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1040,
+      "end_ix": 1208,
+      "text": "\nThe individual who posted the receipt appears to have deleted it from his Facebook page, although the page still shows that he works at Mandalay Bay Resort and Casino.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1208,
+      "end_ix": 1337,
+      "text": "\nAnother source told Laura Loomer that the gunman actually checked in on September 25, three days before authorities said he did.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1337,
+      "end_ix": 1422,
+      "text": "\nSource who works at @MandalayBay said #StephenPaddock had the suite since Sep. 25th.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1422,
+      "end_ix": 1477,
+      "text": "\nWhy did police lie and say he checked in on Sep. 28th?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1477,
+      "end_ix": 1838,
+      "text": "\npic.twitter.com/WivxGRqB6W \u2014 Laura Loomer (@LauraLoomer) October 4, 2017\nAuthorities must surely now be on the hunt for whoever Paddock dined with in order to ascertain whether this individual was involved in the plot and whether or not it was the same woman who reportedly told concert-goers they were \u201cgoing to die\u201d 45 minutes before the shooting took place.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1838,
+      "end_ix": 2056,
+      "text": "\nSUBSCRIBE on YouTube:\nFollow on Twitter: Follow @PrisonPlanet\nFacebook: https://www.facebook.com/PaulJosephWatson/\n*********************\nPaul Joseph Watson is the editor at large of Infowars.com and Prison Planet.com.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

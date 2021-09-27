@@ -1,0 +1,346 @@
+{
+  "article_id": "782149032",
+  "sentence offsets in original": [
+    0,
+    254,
+    371,
+    457,
+    522,
+    663,
+    723,
+    860,
+    947,
+    1115,
+    1153,
+    1247,
+    1303,
+    1359,
+    1388,
+    1418,
+    1500,
+    1582,
+    1610,
+    1673
+  ],
+  "original sentences": [
+    "Horrifying Details Released: 2 Jihadi Muslims At Deadly NM Islamic Compound Hit With New Charges\n\nSiraj Ibn Wahhaj and one of his devout wives were charged with abuse of a child resulting in the death of a child and conspiracy to commit abuse of a child.",
+    "\nLaw enforcement rushed to destroy the Islamic compound just days after the kidnapping and murder made national news.",
+    "\nThey destroyed evidence, despite the fact that the investigation was new and ongoing.",
+    "\nNew charges were filed against the devout (\u201cextremist)\u201d Muslims.",
+    "\nFor years, the FBI and local law enforcement did nothing about this jihad compound, despite tips and numerous calls from concerned citizens.",
+    "\nIt took the murder of a child to get them to pay attention.",
+    "\nWhat is the first thing they do after it is discovered a child was murdered on the compound and several starved to almost certain death?",
+    "\nThey destroyed the compound to cover up both their negligence and what happened there.",
+    "\nNews of what happened there was embarrassing to the Muslim community in the U.S., and making Islam look good seems to be the top priority of law enforcement officials.",
+    "\nIt\u2019s sharia compliance in New Mexico.",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nArticle posted with permission from Pamela Geller"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 254,
+      "text": "Horrifying Details Released: 2 Jihadi Muslims At Deadly NM Islamic Compound Hit With New Charges\n\nSiraj Ibn Wahhaj and one of his devout wives were charged with abuse of a child resulting in the death of a child and conspiracy to commit abuse of a child.",
+      "new_text": "Scary Details Released: 2 Jihadis At NM Compound Face New Charges\n\nSiraj Ibn Wahhaj and one of his devout wives were charged with abuse of a child resulting in the death of a child and conspiracy to commit abuse of a child.",
+      "prop_spans": [
+        [
+          0,
+          19,
+          "Loaded_Language"
+        ],
+        [
+          31,
+          46,
+          "Name_Calling,Labeling"
+        ],
+        [
+          49,
+          76,
+          "Name_Calling,Labeling"
+        ],
+        [
+          76,
+          96,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 254,
+      "end_ix": 371,
+      "text": "\nLaw enforcement rushed to destroy the Islamic compound just days after the kidnapping and murder made national news.",
+      "new_text": "\nLaw enforcement destroyed the Islamic compound just days after the kidnapping and murder made national news.",
+      "prop_spans": [
+        [
+          271,
+          289,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 371,
+      "end_ix": 457,
+      "text": "\nThey destroyed evidence, despite the fact that the investigation was new and ongoing.",
+      "new_text": "\nThey destroyed evidence, even though the investigation was new and ongoing.",
+      "prop_spans": [
+        [
+          372,
+          456,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 457,
+      "end_ix": 522,
+      "text": "\nNew charges were filed against the devout (\u201cextremist)\u201d Muslims.",
+      "new_text": "\nNew charges were filed against these people.",
+      "prop_spans": [
+        [
+          489,
+          521,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 522,
+      "end_ix": 663,
+      "text": "\nFor years, the FBI and local law enforcement did nothing about this jihad compound, despite tips and numerous calls from concerned citizens.",
+      "new_text": "\nFor years, the FBI and local law enforcement did nothing much about this jihad compound, despite tips and numerous calls from concerned citizens.",
+      "prop_spans": [
+        [
+          523,
+          663,
+          "Doubt"
+        ],
+        [
+          591,
+          605,
+          "Name_Calling,Labeling"
+        ],
+        [
+          624,
+          639,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 663,
+      "end_ix": 723,
+      "text": "\nIt took the murder of a child to get them to pay attention.",
+      "new_text": "\nIt probably took the murder of a child to get them to pay attention.",
+      "prop_spans": [
+        [
+          663,
+          723,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 723,
+      "end_ix": 860,
+      "text": "\nWhat is the first thing they do after it is discovered a child was murdered on the compound and several starved to almost certain death?",
+      "new_text": "\nWhat is the thing they do after it is discovered a child was murdered on the compound and several starved to almost certain death?",
+      "prop_spans": [
+        [
+          723,
+          860,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 860,
+      "end_ix": 947,
+      "text": "\nThey destroyed the compound to cover up both their negligence and what happened there.",
+      "new_text": "\nThey destroyed the compound maybe to cover up both their negligence and what happened there.",
+      "prop_spans": [
+        [
+          860,
+          946,
+          "Doubt"
+        ],
+        [
+          861,
+          946,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 947,
+      "end_ix": 1115,
+      "text": "\nNews of what happened there was embarrassing to the Muslim community in the U.S., and making Islam look good seems to be the top priority of law enforcement officials.",
+      "new_text": "\nNews of what happened there was embarrassing to the Muslim community in the U.S.",
+      "prop_spans": [
+        [
+          948,
+          1114,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1115,
+      "end_ix": 1153,
+      "text": "\nIt\u2019s sharia compliance in New Mexico.",
+      "new_text": "\nIt\u2019s following the sharia in New Mexico.",
+      "prop_spans": [
+        [
+          1121,
+          1139,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1153,
+      "end_ix": 1247,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1247,
+      "end_ix": 1303,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1303,
+      "end_ix": 1359,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1359,
+      "end_ix": 1388,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1388,
+      "end_ix": 1418,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1418,
+      "end_ix": 1500,
+      "text": "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1500,
+      "end_ix": 1582,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1582,
+      "end_ix": 1610,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1610,
+      "end_ix": 1673,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1673,
+      "end_ix": 1723,
+      "text": "\nArticle posted with permission from Pamela Geller",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      19,
+      "Loaded_Language"
+    ],
+    [
+      31,
+      46,
+      "Name_Calling,Labeling"
+    ],
+    [
+      49,
+      76,
+      "Name_Calling,Labeling"
+    ],
+    [
+      76,
+      96,
+      "Loaded_Language"
+    ],
+    [
+      271,
+      289,
+      "Loaded_Language"
+    ],
+    [
+      372,
+      456,
+      "Doubt"
+    ],
+    [
+      489,
+      521,
+      "Name_Calling,Labeling"
+    ],
+    [
+      523,
+      946,
+      "Doubt"
+    ],
+    [
+      591,
+      605,
+      "Name_Calling,Labeling"
+    ],
+    [
+      624,
+      639,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      861,
+      946,
+      "Causal_Oversimplification"
+    ],
+    [
+      948,
+      1114,
+      "Causal_Oversimplification"
+    ],
+    [
+      1121,
+      1139,
+      "Loaded_Language"
+    ]
+  ]
+}

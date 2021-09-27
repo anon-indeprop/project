@@ -1,0 +1,257 @@
+{
+  "article_id": "788626289",
+  "sentence offsets in original": [
+    0,
+    299,
+    406,
+    631,
+    757,
+    1163,
+    1263,
+    1325,
+    1387,
+    1539,
+    1621,
+    1649,
+    1712,
+    1912,
+    2045,
+    2112,
+    2333,
+    2415,
+    2580,
+    2661,
+    2774,
+    2857,
+    3038,
+    3135,
+    3229
+  ],
+  "original sentences": [
+    "\u2018Emotional And Physical Abuse\u2019: Muslim Brotherhood DNC Deputy Chair Ellison Accuser Posts Doctor\u2019s Report Naming Him As Alleged Abuser\n\nThere is abundant evidence that Karen Monahan is telling the truth when she says that Muslim Brotherhood Congressman Hakim Muhammad, aka Keith Ellison, abused her.",
+    "\nBy contrast, there is absolutely no evidence whatsoever that Brett Kavanaugh abused Christine Blasey Ford.",
+    "\nBut while the Democrats are in a lather over Ford and Kavanaugh, demanding a delay of the confirmation vote until after the midterm elections that they are sure will go their way, they couldn\u2019t care less about Karen Monahan.",
+    "\nAnd that shows that all their #MeToo rhetoric is pure politically-motivated hypocrisy \u2014 as if anyone didn\u2019t know that by now.",
+    "\n\u201c\u2018Emotional And Physical Abuse\u2019: Ellison Accuser Posts Doctor\u2019s Report Naming Congressman As Alleged Abuser,\u201d by Peter Hasson, Daily Caller, September 19, 2018 (thanks to Christian):\nThe ex-girlfriend accusing Democratic Minnesota Rep. Keith Ellison of domestic abuse told her doctor in 2017 about alleged \u201cemotional and physical abuse\u201d from Ellison, according to a document the woman published Wednesday.",
+    "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nKaren Monahan\u2019s account in the doctor\u2019s report is consistent with what she has been saying publicly since August: that Ellison was emotionally and physically abusive to her while the two were dating.",
+    "\nEllison is the deputy chair of the Democratic National Committee (DNC) and is the Democratic nominee for Minnesota attorney general.",
+    "\nHe has adamantly denied emotionally or physically abusing Monahan.",
+    "\n\u201cShe states that she was in a very stressful environment for years, emotional and physical abuse by a partner with whom she is now separated,\u201d reads the November 2017 report, a picture of which Monahan posted on Twitter.",
+    "\n\u201cShe did not have any physical injuries that required an examination in the past.",
+    "\nShe identifies the individual she was involved with as congressman Ellison, and she is worried about retribution if she identifies him publicly,\u201d the report states.",
+    "\nEllison\u2019s congressional office did not immediately return a request for comment.",
+    "\nThe Democratic Party has maintained its support for Ellison\u2019s attorney general campaign despite the allegations.",
+    "\nDNC Chair Tom Perez previously said the committee was \u201creviewing\u201d the allegations.",
+    "\nPerez later deferred to an investigation by the party\u2019s Minnesota arm, the Democratic-Farmer-Labor Party (DFL), which endorsed Ellison\u2019s campaign in spite of Monahan\u2019s allegations.",
+    "\nMonahan wrote Wednesday that Ellison declined any meeting with her as part of the investigation.",
+    "\n\u201cI told the investigator I would be happy to talk with @keithellison [with] them in the room.",
+    "\nThey asked Keith if he would be willing [and] he declined any meeting [with] me,\u201d she wrote\u2026."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 299,
+      "text": "\u2018Emotional And Physical Abuse\u2019: Muslim Brotherhood DNC Deputy Chair Ellison Accuser Posts Doctor\u2019s Report Naming Him As Alleged Abuser\n\nThere is abundant evidence that Karen Monahan is telling the truth when she says that Muslim Brotherhood Congressman Hakim Muhammad, aka Keith Ellison, abused her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 299,
+      "end_ix": 406,
+      "text": "\nBy contrast, there is absolutely no evidence whatsoever that Brett Kavanaugh abused Christine Blasey Ford.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 406,
+      "end_ix": 631,
+      "text": "\nBut while the Democrats are in a lather over Ford and Kavanaugh, demanding a delay of the confirmation vote until after the midterm elections that they are sure will go their way, they couldn\u2019t care less about Karen Monahan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 631,
+      "end_ix": 757,
+      "text": "\nAnd that shows that all their #MeToo rhetoric is pure politically-motivated hypocrisy \u2014 as if anyone didn\u2019t know that by now.",
+      "new_text": "\nAnd that shows that all their #MeToo rhetoric is pure political motivation \u2014 as if anyone didn\u2019t know that by now.",
+      "prop_spans": [
+        [
+          662,
+          668,
+          "Slogans"
+        ],
+        [
+          708,
+          717,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 757,
+      "end_ix": 1163,
+      "text": "\n\u201c\u2018Emotional And Physical Abuse\u2019: Ellison Accuser Posts Doctor\u2019s Report Naming Congressman As Alleged Abuser,\u201d by Peter Hasson, Daily Caller, September 19, 2018 (thanks to Christian):\nThe ex-girlfriend accusing Democratic Minnesota Rep. Keith Ellison of domestic abuse told her doctor in 2017 about alleged \u201cemotional and physical abuse\u201d from Ellison, according to a document the woman published Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1163,
+      "end_ix": 1263,
+      "text": "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1263,
+      "end_ix": 1325,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1325,
+      "end_ix": 1387,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1387,
+      "end_ix": 1539,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1539,
+      "end_ix": 1621,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1621,
+      "end_ix": 1649,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1649,
+      "end_ix": 1712,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1712,
+      "end_ix": 1912,
+      "text": "\nKaren Monahan\u2019s account in the doctor\u2019s report is consistent with what she has been saying publicly since August: that Ellison was emotionally and physically abusive to her while the two were dating.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1912,
+      "end_ix": 2045,
+      "text": "\nEllison is the deputy chair of the Democratic National Committee (DNC) and is the Democratic nominee for Minnesota attorney general.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2045,
+      "end_ix": 2112,
+      "text": "\nHe has adamantly denied emotionally or physically abusing Monahan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2112,
+      "end_ix": 2333,
+      "text": "\n\u201cShe states that she was in a very stressful environment for years, emotional and physical abuse by a partner with whom she is now separated,\u201d reads the November 2017 report, a picture of which Monahan posted on Twitter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2333,
+      "end_ix": 2415,
+      "text": "\n\u201cShe did not have any physical injuries that required an examination in the past.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2415,
+      "end_ix": 2580,
+      "text": "\nShe identifies the individual she was involved with as congressman Ellison, and she is worried about retribution if she identifies him publicly,\u201d the report states.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2580,
+      "end_ix": 2661,
+      "text": "\nEllison\u2019s congressional office did not immediately return a request for comment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2661,
+      "end_ix": 2774,
+      "text": "\nThe Democratic Party has maintained its support for Ellison\u2019s attorney general campaign despite the allegations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2774,
+      "end_ix": 2857,
+      "text": "\nDNC Chair Tom Perez previously said the committee was \u201creviewing\u201d the allegations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2857,
+      "end_ix": 3038,
+      "text": "\nPerez later deferred to an investigation by the party\u2019s Minnesota arm, the Democratic-Farmer-Labor Party (DFL), which endorsed Ellison\u2019s campaign in spite of Monahan\u2019s allegations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3038,
+      "end_ix": 3135,
+      "text": "\nMonahan wrote Wednesday that Ellison declined any meeting with her as part of the investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3135,
+      "end_ix": 3229,
+      "text": "\n\u201cI told the investigator I would be happy to talk with @keithellison [with] them in the room.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3229,
+      "end_ix": 3323,
+      "text": "\nThey asked Keith if he would be willing [and] he declined any meeting [with] me,\u201d she wrote\u2026.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      662,
+      668,
+      "Slogans"
+    ],
+    [
+      708,
+      717,
+      "Loaded_Language"
+    ]
+  ]
+}

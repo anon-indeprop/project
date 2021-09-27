@@ -1,0 +1,334 @@
+{
+  "article_id": "705035735",
+  "sentence offsets in original": [
+    0,
+    140,
+    271,
+    451,
+    494,
+    567,
+    739,
+    941,
+    1090,
+    1272,
+    1405,
+    1531,
+    1708,
+    1944,
+    2038,
+    2163,
+    2305,
+    2447,
+    2827,
+    2902
+  ],
+  "original sentences": [
+    "New Virus With NO CURE Spreading: This Is WORSE Than The \u2018Black Death\u2019\n\nA new virus for which medical officials have no remedy is spreading.",
+    "\nThe infectious disease also has a fatality rate of almost 90% making it much more deadly than the black death plaguing Madagascar.",
+    "\nA deadly outbreak of a rare and highly fatal virus has broken out in eastern Uganda and five cases have already been identified, the World Health Organization (WHO) has confirmed.",
+    "\nThe disease is known as the Marburg virus.",
+    "\nIt is similar to the Ebola virus and can be fatal in up to 88% of cases.",
+    "\nThe outbreak of the contagious and deadly Marburg virus disease in the Kween district of eastern Uganda was declared by the nation\u2019s Ministry of Health back on October 19.",
+    "\nSince then, five cases have been identified as international aid agencies, stretched thin by Madagascar\u2019s black death outbreak, have rushed to deploy teams on the ground to control the recent outbreak.",
+    "\nThis news comes amid a surge in cases of plague in Madagascar, which is considered to be the \u201cworst outbreak in 50 years\u201d and now at \u201ccrisis\u201d point.",
+    "\nMarburg virus disease (MVD), which causes severe viral hemorrhagic fever, ranks among the most virulent pathogens known to infect humans, according to the World Health Organization.",
+    "\nThe WHO website reads: \u201cMarburg virus disease is a rare disease with a high mortality rate for which there is no specific treatment.",
+    "\nThe virus is transmitted by direct contact with the blood, body fluids, and tissues of infected persons or wild animals (e.g.",
+    "\nmonkeys and fruit bats).\u201d MVD also falls within the same family as the Ebola virus \u2013 the hemorrhagic fever that decimated West Africa and killed around 11,000 in 2014 and 2015.",
+    "\nThe outbreak is thought to have begun in September when a man in his 30s, who worked as a game hunter and lived near a cave with a heavy presence of bats, was admitted to a local health center with a high fever, vomiting, and diarrhea.",
+    "\nThe man\u2019s condition deteriorated quickly and he failed to respond to antimalarial treatments.",
+    "\nHe died after being taken to another hospital, and a short time later, his sister in her 50\u2019s also died of the same ailment.",
+    "\nEmergency screening has begun at the Kenya-Uganda border in Turkana after all three members of the same family died of the disease in Uganda.",
+    "\nHealth workers have been asked to work with communities to stop the deadly Marburg outbreak from devastating communities in the rural region.",
+    "\nDr. Zabulon Yoti, a Technical Coordinator for Emergencies at the World Health Organization (WHO) Regional Office for Africa, said: \u201cCommunity engagement is the cornerstone of emergency response.\u201d He urged health officials to \u201cwork with the communities to build their capacity for success and sustainability\u201d and develop a better understanding of the local customs and traditions.",
+    "\nEarly symptoms include fever, chills, headache, and myalgia (muscle pain).",
+    "\nSeveral hundred people have been exposed to the virus as officials worry this outbreak could spread rapidly into regions already devastated by the ongoing black death outbreak."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 140,
+      "text": "New Virus With NO CURE Spreading: This Is WORSE Than The \u2018Black Death\u2019\n\nA new virus for which medical officials have no remedy is spreading.",
+      "new_text": "New Virus With Possibly NO CURE Spreading: This Might Be WORSE Than The \u2018Black Death\u2019\n\nA new virus for which medical officials have no remedy is spreading.",
+      "prop_spans": [
+        [
+          0,
+          32,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          15,
+          22,
+          "Loaded_Language"
+        ],
+        [
+          34,
+          70,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          42,
+          71,
+          "Loaded_Language"
+        ],
+        [
+          57,
+          70,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 140,
+      "end_ix": 271,
+      "text": "\nThe infectious disease also has a fatality rate of almost 90% making it much more deadly than the black death plaguing Madagascar.",
+      "new_text": "\nThe infectious disease also has a fatality rate of almost 90% making it much more deadly than the black death plaguing Madagascar.",
+      "prop_spans": [
+        [
+          239,
+          250,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 271,
+      "end_ix": 451,
+      "text": "\nA deadly outbreak of a rare and highly fatal virus has broken out in eastern Uganda and five cases have already been identified, the World Health Organization (WHO) has confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 451,
+      "end_ix": 494,
+      "text": "\nThe disease is known as the Marburg virus.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 494,
+      "end_ix": 567,
+      "text": "\nIt is similar to the Ebola virus and can be fatal in up to 88% of cases.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 567,
+      "end_ix": 739,
+      "text": "\nThe outbreak of the contagious and deadly Marburg virus disease in the Kween district of eastern Uganda was declared by the nation\u2019s Ministry of Health back on October 19.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 739,
+      "end_ix": 941,
+      "text": "\nSince then, five cases have been identified as international aid agencies, stretched thin by Madagascar\u2019s black death outbreak, have rushed to deploy teams on the ground to control the recent outbreak.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 941,
+      "end_ix": 1090,
+      "text": "\nThis news comes amid a surge in cases of plague in Madagascar, which is considered to be the \u201cworst outbreak in 50 years\u201d and now at \u201ccrisis\u201d point.",
+      "new_text": "\nThis news comes amid a surge in cases of plague in Madagascar, which is considered to be the \u201cworst outbreak in 50 years\u201d and now at \u201ccrisis\u201d point.",
+      "prop_spans": [
+        [
+          1035,
+          1063,
+          "Appeal_to_Authority"
+        ],
+        [
+          1035,
+          1063,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1090,
+      "end_ix": 1272,
+      "text": "\nMarburg virus disease (MVD), which causes severe viral hemorrhagic fever, ranks among the most virulent pathogens known to infect humans, according to the World Health Organization.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1272,
+      "end_ix": 1405,
+      "text": "\nThe WHO website reads: \u201cMarburg virus disease is a rare disease with a high mortality rate for which there is no specific treatment.",
+      "new_text": "\nThe WHO website reads: \u201cMarburg virus disease is a rare disease with a high mortality rate for which there is no specific treatment.",
+      "prop_spans": [
+        [
+          1297,
+          1405,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1405,
+      "end_ix": 1531,
+      "text": "\nThe virus is transmitted by direct contact with the blood, body fluids, and tissues of infected persons or wild animals (e.g.",
+      "new_text": "\nThe virus is transmitted by direct contact with the blood, body fluids, and tissues of infected persons or wild animals (e.g.",
+      "prop_spans": [
+        [
+          1405,
+          1405,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1531,
+      "end_ix": 1708,
+      "text": "\nmonkeys and fruit bats).\u201d MVD also falls within the same family as the Ebola virus \u2013 the hemorrhagic fever that decimated West Africa and killed around 11,000 in 2014 and 2015.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1708,
+      "end_ix": 1944,
+      "text": "\nThe outbreak is thought to have begun in September when a man in his 30s, who worked as a game hunter and lived near a cave with a heavy presence of bats, was admitted to a local health center with a high fever, vomiting, and diarrhea.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1944,
+      "end_ix": 2038,
+      "text": "\nThe man\u2019s condition deteriorated quickly and he failed to respond to antimalarial treatments.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2038,
+      "end_ix": 2163,
+      "text": "\nHe died after being taken to another hospital, and a short time later, his sister in her 50\u2019s also died of the same ailment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2163,
+      "end_ix": 2305,
+      "text": "\nEmergency screening has begun at the Kenya-Uganda border in Turkana after all three members of the same family died of the disease in Uganda.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2305,
+      "end_ix": 2447,
+      "text": "\nHealth workers have been asked to work with communities to stop the deadly Marburg outbreak from devastating communities in the rural region.",
+      "new_text": "\nHealth workers have been asked to work with communities to stop the deadly Marburg outbreak from communities in the rural region.",
+      "prop_spans": [
+        [
+          2403,
+          2426,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2447,
+      "end_ix": 2827,
+      "text": "\nDr. Zabulon Yoti, a Technical Coordinator for Emergencies at the World Health Organization (WHO) Regional Office for Africa, said: \u201cCommunity engagement is the cornerstone of emergency response.\u201d He urged health officials to \u201cwork with the communities to build their capacity for success and sustainability\u201d and develop a better understanding of the local customs and traditions.",
+      "new_text": "\nDr. Zabulon Yoti, a Technical Coordinator for Emergencies at the World Health Organization (WHO) Regional Office for Africa, said: \u201cCommunity engagement is the cornerstone of emergency response.\u201d He urged health officials to \u201cwork with the communities to build their capacity for success and sustainability\u201d and develop a better understanding of the local customs and traditions.",
+      "prop_spans": [
+        [
+          2579,
+          2643,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2827,
+      "end_ix": 2902,
+      "text": "\nEarly symptoms include fever, chills, headache, and myalgia (muscle pain).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2902,
+      "end_ix": 3079,
+      "text": "\nSeveral hundred people have been exposed to the virus as officials worry this outbreak could spread rapidly into regions already devastated by the ongoing black death outbreak.",
+      "new_text": "\nSeveral hundred people have been exposed to the virus as officials worry this outbreak could spread into regions already suffering from the ongoing black death outbreak.",
+      "prop_spans": [
+        [
+          2981,
+          3010,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3016,
+          3079,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      32,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      15,
+      22,
+      "Loaded_Language"
+    ],
+    [
+      34,
+      70,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      42,
+      71,
+      "Loaded_Language"
+    ],
+    [
+      57,
+      70,
+      "Name_Calling,Labeling"
+    ],
+    [
+      239,
+      250,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1035,
+      1063,
+      "Appeal_to_Authority"
+    ],
+    [
+      1035,
+      1063,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1297,
+      1405,
+      "Appeal_to_Authority"
+    ],
+    [
+      2403,
+      2426,
+      "Loaded_Language"
+    ],
+    [
+      2579,
+      2643,
+      "Appeal_to_Authority"
+    ],
+    [
+      2981,
+      3010,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3016,
+      3079,
+      "Loaded_Language"
+    ]
+  ]
+}

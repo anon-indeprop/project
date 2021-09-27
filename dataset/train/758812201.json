@@ -1,0 +1,229 @@
+{
+  "article_id": "758812201",
+  "sentence offsets in original": [
+    0,
+    247,
+    469,
+    537,
+    738,
+    854,
+    936,
+    1045,
+    1081,
+    1252,
+    1380,
+    1441,
+    1615,
+    1825,
+    1903,
+    2081,
+    2243,
+    2412,
+    2601,
+    2773,
+    2854,
+    3044,
+    3273
+  ],
+  "original sentences": [
+    "Another Sound Weapon Used To ATTACK US Diplomats: This Time In China\n\nA United States government employee assigned to the American consulate in Guangzhou, China suffered a mild traumatic brain injury similar to those reported by diplomats in Cuba.",
+    "\nThe unnamed worker reported, \u201csubtle and vague, but abnormal, sensations of sound and pressure.\u201d\nThe government employee experienced the symptoms from late 2017 until April of 2018, according to the U.S. State Department.",
+    "\n\u201cThe employee was sent to the United States for further evaluation.",
+    "\nOn May 18, 2018, the Embassy learned that the clinical findings of this evaluation matched mild traumatic brain injury (MTBI),\u201d Jinnie Lee, U.S. Embassy spokesperson in Beijing, told Gizmodo by email.",
+    "\n\u201cThe Chinese government has assured us they are also investigating and taking appropriate measures,\u201d Lee continued.",
+    "\nBut this isn\u2019t the first time a sound weapon has been used on American diplomats.",
+    "\nCuba has been accused of using a similar device to cause brain trauma in Americans at the embassy in Havana.",
+    "\nIt all started in the fall of 2016.",
+    "\nSeveral of the affected diplomats were recent arrivals at the embassy, which reopened in 2015 as part of Barack Obama\u2019s reestablishment of diplomatic relations with Cuba.",
+    "\nThe Daily Mail reported that one diplomat described being jolted awake in a Havana hotel room by a grinding, blaring cacophony.",
+    "\nWhen he moved a few feet across the room, the noise stopped.",
+    "\nWhen he got back into bed, the agonizing sound hit him again; as if, he told doctors, he had walked through some invisible wall cutting straight down the middle of his room.",
+    "\nWhether they heard anything or not, the consequences have been unmistakable \u2014 symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",
+    "\nOddly, as soon as some of the victims left Cuba, they stopped hearing noises.",
+    "\n\u2013SHTFPlan\nThe mysterious illnesses reported by U.S. government employees in Cuba are allegedly thought to be either a \u201csonic attack\u201d or perhaps malfunctioning surveillance gear.",
+    "\nIt\u2019s not known yet whether the injured government worker in China was targeted with any such device, despite reporting similar symptoms as the diplomats in Cuba.",
+    "\nThe U.S. Consulate in Guangzhou says that it hasn\u2019t had any other reported cases of strange sounds being heard by American officials, but is taking the issue seriously.",
+    "\n\u201cIf you have concerns about any symptoms or medical problems that developed during or after a stay in China, consult a medical professional,\u201d the State Department said in a public release.",
+    "\n\u201cWhile in China, if you experience any unusual acute auditory or sensory phenomena accompanied by unusual sounds or piercing noises, do not attempt to locate their source.",
+    "\nInstead, move to a location where the sounds are not present,\u201d the release said.",
+    "\nThe Cuban government continues to deny they attacked U.S. diplomats with a sonic weapon, and very little additional information is known about those who suffered through the strange ordeal.",
+    "\nAfter months of investigations, U.S. officials concluded that the diplomats had been exposed to an advanced device that operated outside the range of audible sound and had been deployed either inside or outside their residences.",
+    "\nIt was not immediately clear if the device was a weapon used in a deliberate attack, or had some other purpose."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 247,
+      "text": "Another Sound Weapon Used To ATTACK US Diplomats: This Time In China\n\nA United States government employee assigned to the American consulate in Guangzhou, China suffered a mild traumatic brain injury similar to those reported by diplomats in Cuba.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 247,
+      "end_ix": 469,
+      "text": "\nThe unnamed worker reported, \u201csubtle and vague, but abnormal, sensations of sound and pressure.\u201d\nThe government employee experienced the symptoms from late 2017 until April of 2018, according to the U.S. State Department.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 469,
+      "end_ix": 537,
+      "text": "\n\u201cThe employee was sent to the United States for further evaluation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 537,
+      "end_ix": 738,
+      "text": "\nOn May 18, 2018, the Embassy learned that the clinical findings of this evaluation matched mild traumatic brain injury (MTBI),\u201d Jinnie Lee, U.S. Embassy spokesperson in Beijing, told Gizmodo by email.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 738,
+      "end_ix": 854,
+      "text": "\n\u201cThe Chinese government has assured us they are also investigating and taking appropriate measures,\u201d Lee continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 854,
+      "end_ix": 936,
+      "text": "\nBut this isn\u2019t the first time a sound weapon has been used on American diplomats.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 936,
+      "end_ix": 1045,
+      "text": "\nCuba has been accused of using a similar device to cause brain trauma in Americans at the embassy in Havana.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1045,
+      "end_ix": 1081,
+      "text": "\nIt all started in the fall of 2016.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1081,
+      "end_ix": 1252,
+      "text": "\nSeveral of the affected diplomats were recent arrivals at the embassy, which reopened in 2015 as part of Barack Obama\u2019s reestablishment of diplomatic relations with Cuba.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1252,
+      "end_ix": 1380,
+      "text": "\nThe Daily Mail reported that one diplomat described being jolted awake in a Havana hotel room by a grinding, blaring cacophony.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1380,
+      "end_ix": 1441,
+      "text": "\nWhen he moved a few feet across the room, the noise stopped.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1441,
+      "end_ix": 1615,
+      "text": "\nWhen he got back into bed, the agonizing sound hit him again; as if, he told doctors, he had walked through some invisible wall cutting straight down the middle of his room.",
+      "new_text": "\nWhen he got back into bed, the sound hit him again; as if, he told doctors, he had walked through some invisible wall cutting straight down the middle of his room.",
+      "prop_spans": [
+        [
+          1473,
+          1482,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1615,
+      "end_ix": 1825,
+      "text": "\nWhether they heard anything or not, the consequences have been unmistakable \u2014 symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1825,
+      "end_ix": 1903,
+      "text": "\nOddly, as soon as some of the victims left Cuba, they stopped hearing noises.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1903,
+      "end_ix": 2081,
+      "text": "\n\u2013SHTFPlan\nThe mysterious illnesses reported by U.S. government employees in Cuba are allegedly thought to be either a \u201csonic attack\u201d or perhaps malfunctioning surveillance gear.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2081,
+      "end_ix": 2243,
+      "text": "\nIt\u2019s not known yet whether the injured government worker in China was targeted with any such device, despite reporting similar symptoms as the diplomats in Cuba.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2243,
+      "end_ix": 2412,
+      "text": "\nThe U.S. Consulate in Guangzhou says that it hasn\u2019t had any other reported cases of strange sounds being heard by American officials, but is taking the issue seriously.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2412,
+      "end_ix": 2601,
+      "text": "\n\u201cIf you have concerns about any symptoms or medical problems that developed during or after a stay in China, consult a medical professional,\u201d the State Department said in a public release.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2601,
+      "end_ix": 2773,
+      "text": "\n\u201cWhile in China, if you experience any unusual acute auditory or sensory phenomena accompanied by unusual sounds or piercing noises, do not attempt to locate their source.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2773,
+      "end_ix": 2854,
+      "text": "\nInstead, move to a location where the sounds are not present,\u201d the release said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2854,
+      "end_ix": 3044,
+      "text": "\nThe Cuban government continues to deny they attacked U.S. diplomats with a sonic weapon, and very little additional information is known about those who suffered through the strange ordeal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3044,
+      "end_ix": 3273,
+      "text": "\nAfter months of investigations, U.S. officials concluded that the diplomats had been exposed to an advanced device that operated outside the range of audible sound and had been deployed either inside or outside their residences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3273,
+      "end_ix": 3385,
+      "text": "\nIt was not immediately clear if the device was a weapon used in a deliberate attack, or had some other purpose.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1473,
+      1482,
+      "Loaded_Language"
+    ]
+  ]
+}

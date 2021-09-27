@@ -1,0 +1,269 @@
+{
+  "article_id": "723883127",
+  "sentence offsets in original": [
+    0,
+    6,
+    266,
+    417,
+    526,
+    643,
+    878,
+    996,
+    1165,
+    1321,
+    1514,
+    1707,
+    1885,
+    2040,
+    2158,
+    2305,
+    2456,
+    2541
+  ],
+  "original sentences": [
+    "Shock!",
+    "\nThe Pope Is Now Openly Attacking Child Sexual Abuse Victims For \u201cSlander\u201d\n\nPope Francis is now attacking the credibility of child sex abuse victims in a shocking move made at the end of a trip to Chile in which he had hoped to \u201cheal\u201d the wounds of said abuse.",
+    "\nThat\u2019s right, Pope Francis ended his trip by publicly defending a bishop who victims have accused of covering up widespread pedophilia in the country.",
+    "\nAccording to a report by the Associated Press, Francis made the shocking comments in a discussion about Rev.",
+    "\nFernando Karadima who has been found guilty of sexually abusing a slew of minors as a member of the Catholic Church.",
+    "\nPope Francis accused victims of Chile\u2019s most notorious pedophile of slander Thursday, an astonishing end to a visit meant to help heal the wounds of a sex abuse scandal that has cost the Catholic Church its credibility in the country.",
+    "\nFrancis said that until he sees proof that Bishop Juan Barros was complicit in covering up the sex crimes of the Rev.",
+    "\nFernando Karadima, such accusations against Barros are \u201call calumny.\u201d The pope\u2019s remarks drew shock from Chileans and immediate rebuke from victims and their advocates.",
+    "\nThey noted the accusers were deemed credible enough by the Vatican that it sentenced Karadima to a lifetime of \u201cpenance and prayer\u201d for his crimes in 2011.",
+    "\nA Chilean judge also found the victims to be credible, saying that while she had to drop criminal charges against Karadima because too much time had passed, proof of his crimes wasn\u2019t lacking.",
+    "\n[\u2026] The Karadima scandal dominated Francis\u2019 visit to Chile and the overall issue of sex abuse and church cover-up was likely to factor into his three-day trip to Peru that began late Thursday.",
+    "\nKaradima\u2019s victims reported to church authorities as early as 2002 that he would kiss and fondle them in the swank Santiago parish he ran, but officials refused to believe them.",
+    "\nOnly when the victims went public with their accusations in 2010 did the Vatican launch an investigation that led to Karadima being removed from ministry.",
+    "\nThe emeritus archbishop of Santiago subsequently apologized for having refused to believe the victims from the start.",
+    "\nOne of the victims made clear his disgust at Pope Francis for essentially covering up for a man who watched as another bishop sexually abused him.",
+    "\n\u201cAs if I could have taken a selfie or a photo while Karadima abused me and others and Juan Barros stood by watching it all,\u201d tweeted Juan Carlos Cruz.",
+    "\n\u201cThese people are truly crazy, and the pontiff talks about atonement to the victims.",
+    "\nNothing has changed, and his plea for forgiveness is empty.\u201d\nThis obviously does not look good for the Pope or the Catholic Church as they are now apparently engaging in attacking the victims instead of actually going after the abusers."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 6,
+      "text": "Shock!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          0,
+          5,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 6,
+      "end_ix": 266,
+      "text": "\nThe Pope Is Now Openly Attacking Child Sexual Abuse Victims For \u201cSlander\u201d\n\nPope Francis is now attacking the credibility of child sex abuse victims in a shocking move made at the end of a trip to Chile in which he had hoped to \u201cheal\u201d the wounds of said abuse.",
+      "new_text": "\nThe Pope Is Now Openly Attacking Child Sexual Abuse Victims For \u201cSlander\u201d\n\nPope Francis is now attacking the credibility of child sex abuse victims in a move made at the end of a trip to Chile in which he had hoped to \u201cheal\u201d the wounds of said abuse.",
+      "prop_spans": [
+        [
+          160,
+          174,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 266,
+      "end_ix": 417,
+      "text": "\nThat\u2019s right, Pope Francis ended his trip by publicly defending a bishop who victims have accused of covering up widespread pedophilia in the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 417,
+      "end_ix": 526,
+      "text": "\nAccording to a report by the Associated Press, Francis made the shocking comments in a discussion about Rev.",
+      "new_text": "\nAccording to a report by the Associated Press, Francis made the comments in a discussion about Rev.",
+      "prop_spans": [
+        [
+          482,
+          499,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 526,
+      "end_ix": 643,
+      "text": "\nFernando Karadima who has been found guilty of sexually abusing a slew of minors as a member of the Catholic Church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 643,
+      "end_ix": 878,
+      "text": "\nPope Francis accused victims of Chile\u2019s most notorious pedophile of slander Thursday, an astonishing end to a visit meant to help heal the wounds of a sex abuse scandal that has cost the Catholic Church its credibility in the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 878,
+      "end_ix": 996,
+      "text": "\nFrancis said that until he sees proof that Bishop Juan Barros was complicit in covering up the sex crimes of the Rev.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 996,
+      "end_ix": 1165,
+      "text": "\nFernando Karadima, such accusations against Barros are \u201call calumny.\u201d The pope\u2019s remarks drew shock from Chileans and immediate rebuke from victims and their advocates.",
+      "new_text": "\nFernando Karadima, such accusations against Barros are \u201call calumny.\u201d The pope\u2019s remarks drew reactions from Chileans and immediate rebuke from victims and their advocates.",
+      "prop_spans": [
+        [
+          1053,
+          1064,
+          "Loaded_Language"
+        ],
+        [
+          1091,
+          1096,
+          "Repetition"
+        ],
+        [
+          1091,
+          1096,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1165,
+      "end_ix": 1321,
+      "text": "\nThey noted the accusers were deemed credible enough by the Vatican that it sentenced Karadima to a lifetime of \u201cpenance and prayer\u201d for his crimes in 2011.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1321,
+      "end_ix": 1514,
+      "text": "\nA Chilean judge also found the victims to be credible, saying that while she had to drop criminal charges against Karadima because too much time had passed, proof of his crimes wasn\u2019t lacking.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1514,
+      "end_ix": 1707,
+      "text": "\n[\u2026] The Karadima scandal dominated Francis\u2019 visit to Chile and the overall issue of sex abuse and church cover-up was likely to factor into his three-day trip to Peru that began late Thursday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1707,
+      "end_ix": 1885,
+      "text": "\nKaradima\u2019s victims reported to church authorities as early as 2002 that he would kiss and fondle them in the swank Santiago parish he ran, but officials refused to believe them.",
+      "new_text": "\nKaradima\u2019s victims reported to church authorities as early as 2002 that he would kiss and fondle them in the swank Santiago parish he ran, but officials refused to believe them.",
+      "prop_spans": [
+        [
+          1789,
+          1822,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1885,
+      "end_ix": 2040,
+      "text": "\nOnly when the victims went public with their accusations in 2010 did the Vatican launch an investigation that led to Karadima being removed from ministry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2040,
+      "end_ix": 2158,
+      "text": "\nThe emeritus archbishop of Santiago subsequently apologized for having refused to believe the victims from the start.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2158,
+      "end_ix": 2305,
+      "text": "\nOne of the victims made clear his disgust at Pope Francis for essentially covering up for a man who watched as another bishop sexually abused him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2305,
+      "end_ix": 2456,
+      "text": "\n\u201cAs if I could have taken a selfie or a photo while Karadima abused me and others and Juan Barros stood by watching it all,\u201d tweeted Juan Carlos Cruz.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2456,
+      "end_ix": 2541,
+      "text": "\n\u201cThese people are truly crazy, and the pontiff talks about atonement to the victims.",
+      "new_text": "\n\u201cThese people are truly crazy, and the pontiff talks about atonement to the victims.",
+      "prop_spans": [
+        [
+          2458,
+          2487,
+          "Loaded_Language"
+        ],
+        [
+          2475,
+          2486,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2541,
+      "end_ix": 2778,
+      "text": "\nNothing has changed, and his plea for forgiveness is empty.\u201d\nThis obviously does not look good for the Pope or the Catholic Church as they are now apparently engaging in attacking the victims instead of actually going after the abusers.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      5,
+      "Loaded_Language"
+    ],
+    [
+      160,
+      174,
+      "Loaded_Language"
+    ],
+    [
+      482,
+      499,
+      "Loaded_Language"
+    ],
+    [
+      1053,
+      1064,
+      "Loaded_Language"
+    ],
+    [
+      1091,
+      1096,
+      "Repetition"
+    ],
+    [
+      1091,
+      1096,
+      "Loaded_Language"
+    ],
+    [
+      1789,
+      1822,
+      "Loaded_Language"
+    ],
+    [
+      2458,
+      2487,
+      "Loaded_Language"
+    ],
+    [
+      2475,
+      2486,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

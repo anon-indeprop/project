@@ -1,0 +1,672 @@
+{
+  "article_id": "759468687",
+  "sentence offsets in original": [
+    0,
+    158,
+    239,
+    346,
+    668,
+    1060,
+    1125,
+    1190,
+    1393,
+    1475,
+    1503,
+    1566,
+    1582,
+    1744,
+    1829,
+    1911,
+    2012,
+    2175,
+    2404,
+    2486,
+    2780,
+    3162,
+    3245,
+    3443,
+    3639,
+    3646,
+    3725,
+    3784,
+    3922,
+    4210,
+    4480,
+    4593,
+    4665
+  ],
+  "original sentences": [
+    "Ramadan Jihad 2018 Death Toll So Far Is 218\n\nAnother Ramadan is upon us, and the jihad death toll so far stands at 218 Infidels, murdered in 53 jihad attacks.",
+    "\nOnce again this year we see that Ramadan is quintessentially the month of jihad.",
+    "\nA jihad group explained it back in 2012: \u201cThe month of Ramadan is a month of holy war and death for Allah.",
+    "\nIt is a month for fighting the enemies of Allah and God\u2019s messenger, the Jews and their American facilitators.\u201d Referring to a jihad attack that happened at that time, the message continued: \u201cOne of our groups aided by Allah managed to bomb a bus full of Jewish tourists, plunderers of holy lands, after careful tracking.",
+    "\nThe holy war is not confined to a particular arena and we shall fight the Jews and the Americans until they leave the land of Islam.\u201d\nIn contrast, President Trump issued a statement claiming that \u201cRamadan reminds us of the richness Muslims add to the religious tapestry of American life.\u201d\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nSo which is it?",
+    "\nDoes Ramadan remind us of \u201cthe richness Muslims add to the religious tapestry of American life,\u201d or is Ramadan \u201ca month of calamity everywhere for nonbelievers\u201d?",
+    "\nIslam\u2019s core beliefs make it clear that the latter statement is closer to the truth.",
+    "\nDuring Ramadan, Muslims are exhorted to renew and deepen their devotion to Allah.",
+    "\nHence it is a time when they\u2019re supposed to grow more generous and kind toward their fellow Muslims.",
+    "\nHowever, the Qur\u2019an says: \u201cMuhammad is the Messenger of Allah, and those who are with him are severe against disbelievers, and merciful among themselves\u201d (48:29).",
+    "\nIf the Ramadan imperative is to become more devout, the Muslim who applies himself diligently to the Ramadan observance will simultaneously become more both merciful to his fellow Muslims and more severe against the unbelievers.",
+    "\nMurdering infidels thus doesn\u2019t contradict the spirit of Ramadan; it embodies it.",
+    "\nThe Kavkaz Center, a website operated by Chechen jihadists, explained in a 2010 article that the idea of Ramadan as a time for warfare against infidels went back to Muhammad\u2019s time: \u201cThe month of Ramadan in the life of the Prophet (pbuh) and the righteous ancestors was a month of forthcoming.",
+    "\nThe greatest battles during the lifetime of the Prophet (pbuh) occurred in this blessed month, the month of jihad, zeal and enthusiasm.\u201d\nTrump was, unfortunately, following the example of his two immediate predecessors when he claimed that \u201cRamadan reminds us of the richness Muslims add to the religious tapestry of American life,\u201d and was severely misleading the American people.",
+    "\nIronically, even in doing this he is likely to fail to satisfy Muslims, or anyone.",
+    "\nAfter all, after the Trump White House issued a similar statement last year, the Washington Post ran a lengthy piece in which several Muslims explained why the statement was unsatisfactory to them.",
+    "\nShadi Hamid of the Qatar-funded Brookings Institution declared: \u201cTrump has so rarely recognized that American Muslims even exist, but this offers apparent proof that he is aware of our existence.",
+    "\nGreat!",
+    "\nPutting all that context aside, it\u2019s offensive and pretty much terrible.\u201d\nWhy?",
+    "\nBecause Trump had the temerity to mention jihad terrorism.",
+    "\nHamid continued: \u201cWe, as American Muslims, shouldn\u2019t be defined solely in our relationship to bad things that we have nothing to do with.",
+    "\nWe\u2019re also normal people who happen to be Muslim and to see us and our history in America so narrowly is plain out offensive.\u201d\nWhat is actually offensive is that Hamid would try in this way to absolve the Muslim community of any responsibility to root out jihad terrorist from its midst.",
+    "\nThere is certain to be more jihad terrorism during this Ramadan, and some of it may be committed by Muslims in the U.S. Hamid, if he cared about this, would be confronting honestly the teachings of Islam that make Ramadan the month of jihad, and working to reform them.",
+    "\nMeanwhile, it would be dangerous, suicidal folly for Infidels to pretend that Ramadan is not the month of jihad.",
+    "\nAnd as our Ramadan willful blindness continues, more Infidels will die.",
+    "\nArticle posted with permission from Robert Spencer"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 158,
+      "text": "Ramadan Jihad 2018 Death Toll So Far Is 218\n\nAnother Ramadan is upon us, and the jihad death toll so far stands at 218 Infidels, murdered in 53 jihad attacks.",
+      "new_text": "Jihad 2018 Death Toll So Far Is 218\n\nAnother Ramadan is upon us, and the jihad death toll so far stands at 218 non-believers, murdered in 53 jihad attacks.",
+      "prop_spans": [
+        [
+          0,
+          14,
+          "Name_Calling,Labeling"
+        ],
+        [
+          119,
+          127,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 158,
+      "end_ix": 239,
+      "text": "\nOnce again this year we see that Ramadan is quintessentially the month of jihad.",
+      "new_text": "\nOnce again this year we see that Ramadan might be the month of jihad.",
+      "prop_spans": [
+        [
+          192,
+          238,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 239,
+      "end_ix": 346,
+      "text": "\nA jihad group explained it back in 2012: \u201cThe month of Ramadan is a month of holy war and death for Allah.",
+      "new_text": "\nA jihad group explained it back in 2012: \u201cThe month of Ramadan is a month of holy war and death for Allah.",
+      "prop_spans": [
+        [
+          317,
+          345,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 346,
+      "end_ix": 668,
+      "text": "\nIt is a month for fighting the enemies of Allah and God\u2019s messenger, the Jews and their American facilitators.\u201d Referring to a jihad attack that happened at that time, the message continued: \u201cOne of our groups aided by Allah managed to bomb a bus full of Jewish tourists, plunderers of holy lands, after careful tracking.",
+      "new_text": "\nIt is a month for fighting the enemies of Allah and God\u2019s messenger, the Jews and their American facilitators.\u201d Referring to a jihad attack that happened at that time, the message continued: \u201cOne of our groups aided by Allah managed to bomb a bus full of Jewish tourists, plunderers of holy lands, after careful tracking.",
+      "prop_spans": [
+        [
+          435,
+          456,
+          "Name_Calling,Labeling"
+        ],
+        [
+          557,
+          572,
+          "Loaded_Language"
+        ],
+        [
+          602,
+          643,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 668,
+      "end_ix": 1060,
+      "text": "\nThe holy war is not confined to a particular arena and we shall fight the Jews and the Americans until they leave the land of Islam.\u201d\nIn contrast, President Trump issued a statement claiming that \u201cRamadan reminds us of the richness Muslims add to the religious tapestry of American life.\u201d\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": "\nThe holy war is not confined to a particular arena and we shall fight the Jews and the Americans until they leave the land of Islam.\u201d\nIn contrast, President Trump issued a statement claiming that \u201cRamadan reminds us of the richness Muslims add to the religious tapestry of American life.\u201d\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "prop_spans": [
+        [
+          724,
+          800,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          916,
+          955,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1060,
+      "end_ix": 1125,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1125,
+      "end_ix": 1190,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1190,
+      "end_ix": 1393,
+      "text": "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1393,
+      "end_ix": 1475,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1475,
+      "end_ix": 1503,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1503,
+      "end_ix": 1566,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1566,
+      "end_ix": 1582,
+      "text": "\nSo which is it?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1582,
+      "end_ix": 1744,
+      "text": "\nDoes Ramadan remind us of \u201cthe richness Muslims add to the religious tapestry of American life,\u201d or is Ramadan \u201ca month of calamity everywhere for nonbelievers\u201d?",
+      "new_text": "\nDoes Ramadan remind us of \u201cthe richness Muslims add to the religious tapestry of American life,\u201d or is Ramadan \u201ca month of calamity everywhere for nonbelievers\u201d?",
+      "prop_spans": [
+        [
+          1638,
+          1677,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1744,
+      "end_ix": 1829,
+      "text": "\nIslam\u2019s core beliefs make it clear that the latter statement is closer to the truth.",
+      "new_text": "\nIslam\u2019s core beliefs might suggest that the latter statement might be closer to the truth.",
+      "prop_spans": [
+        [
+          1745,
+          1828,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1829,
+      "end_ix": 1911,
+      "text": "\nDuring Ramadan, Muslims are exhorted to renew and deepen their devotion to Allah.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1911,
+      "end_ix": 2012,
+      "text": "\nHence it is a time when they\u2019re supposed to grow more generous and kind toward their fellow Muslims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2012,
+      "end_ix": 2175,
+      "text": "\nHowever, the Qur\u2019an says: \u201cMuhammad is the Messenger of Allah, and those who are with him are severe against disbelievers, and merciful among themselves\u201d (48:29).",
+      "new_text": "\nHowever, the Qur\u2019an says: \u201cMuhammad is the Messenger of Allah, and those who are with him are severe against disbelievers, and merciful among themselves\u201d (48:29).",
+      "prop_spans": [
+        [
+          2107,
+          2122,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2175,
+      "end_ix": 2404,
+      "text": "\nIf the Ramadan imperative is to become more devout, the Muslim who applies himself diligently to the Ramadan observance will simultaneously become more both merciful to his fellow Muslims and more severe against the unbelievers.",
+      "new_text": "\nIf the Ramadan imperative is to become more devout, the Muslim who applies himself diligently to the Ramadan observance will simultaneously become more both merciful to his fellow Muslims and against the unbelievers.",
+      "prop_spans": [
+        [
+          2368,
+          2388,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2404,
+      "end_ix": 2486,
+      "text": "\nMurdering infidels thus doesn\u2019t contradict the spirit of Ramadan; it embodies it.",
+      "new_text": "\nMurdering infidels might not contradict the spirit of Ramadan and might embody it.",
+      "prop_spans": [
+        [
+          2405,
+          2485,
+          "Causal_Oversimplification"
+        ],
+        [
+          2415,
+          2424,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2486,
+      "end_ix": 2780,
+      "text": "\nThe Kavkaz Center, a website operated by Chechen jihadists, explained in a 2010 article that the idea of Ramadan as a time for warfare against infidels went back to Muhammad\u2019s time: \u201cThe month of Ramadan in the life of the Prophet (pbuh) and the righteous ancestors was a month of forthcoming.",
+      "new_text": "\nThe Kavkaz Center, a website operated by Chechen people, explained in a 2010 article that the idea of Ramadan as a time for warfare against non-believers went back to Muhammad\u2019s time: \u201cThe month of Ramadan in the life of the Prophet (pbuh) and the righteous ancestors was a month of forthcoming.",
+      "prop_spans": [
+        [
+          2528,
+          2545,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2630,
+          2639,
+          "Repetition"
+        ],
+        [
+          2630,
+          2639,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2780,
+      "end_ix": 3162,
+      "text": "\nThe greatest battles during the lifetime of the Prophet (pbuh) occurred in this blessed month, the month of jihad, zeal and enthusiasm.\u201d\nTrump was, unfortunately, following the example of his two immediate predecessors when he claimed that \u201cRamadan reminds us of the richness Muslims add to the religious tapestry of American life,\u201d and was severely misleading the American people.",
+      "new_text": "\nThe greatest battles during the lifetime of the Prophet (pbuh) occurred in this month, the month of zeal and enthusiasm.\u201d\nTrump was, unfortunately, following the example of his two immediate predecessors when he claimed that \u201cRamadan reminds us of the richness Muslims add to the religious tapestry of American life,\u201d and was misleading the people.",
+      "prop_spans": [
+        [
+          2856,
+          2894,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3069,
+          3111,
+          "Loaded_Language"
+        ],
+        [
+          3069,
+          3111,
+          "Repetition"
+        ],
+        [
+          3122,
+          3142,
+          "Loaded_Language"
+        ],
+        [
+          3122,
+          3161,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3162,
+      "end_ix": 3245,
+      "text": "\nIronically, even in doing this he is likely to fail to satisfy Muslims, or anyone.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3245,
+      "end_ix": 3443,
+      "text": "\nAfter all, after the Trump White House issued a similar statement last year, the Washington Post ran a lengthy piece in which several Muslims explained why the statement was unsatisfactory to them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3443,
+      "end_ix": 3639,
+      "text": "\nShadi Hamid of the Qatar-funded Brookings Institution declared: \u201cTrump has so rarely recognized that American Muslims even exist, but this offers apparent proof that he is aware of our existence.",
+      "new_text": "\nShadi Hamid of the Qatar-funded Brookings Institution declared: \u201cTrump has so rarely recognized that American Muslims even exist, but this offers apparent proof that he is aware of our existence.",
+      "prop_spans": [
+        [
+          3509,
+          3638,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3639,
+      "end_ix": 3646,
+      "text": "\nGreat!",
+      "new_text": "\nGreat!",
+      "prop_spans": [
+        [
+          3640,
+          3645,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3646,
+      "end_ix": 3725,
+      "text": "\nPutting all that context aside, it\u2019s offensive and pretty much terrible.\u201d\nWhy?",
+      "new_text": "\nPutting all that context aside, it\u2019s offensive and pretty much terrible.\u201d\nWhy?",
+      "prop_spans": [
+        [
+          3698,
+          3718,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3725,
+      "end_ix": 3784,
+      "text": "\nBecause Trump had the temerity to mention jihad terrorism.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3784,
+      "end_ix": 3922,
+      "text": "\nHamid continued: \u201cWe, as American Muslims, shouldn\u2019t be defined solely in our relationship to bad things that we have nothing to do with.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3922,
+      "end_ix": 4210,
+      "text": "\nWe\u2019re also normal people who happen to be Muslim and to see us and our history in America so narrowly is plain out offensive.\u201d\nWhat is actually offensive is that Hamid would try in this way to absolve the Muslim community of any responsibility to root out jihad terrorist from its midst.",
+      "new_text": "\nWe\u2019re also normal people who happen to be Muslim and to see us and our history in America so narrowly is plain out offensive.\u201d",
+      "prop_spans": [
+        [
+          4028,
+          4047,
+          "Loaded_Language"
+        ],
+        [
+          4050,
+          4209,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4210,
+      "end_ix": 4480,
+      "text": "\nThere is certain to be more jihad terrorism during this Ramadan, and some of it may be committed by Muslims in the U.S. Hamid, if he cared about this, would be confronting honestly the teachings of Islam that make Ramadan the month of jihad, and working to reform them.",
+      "new_text": "\nThere is certain to be more jihad terrorism during this Ramadan, and some of it may be committed by Muslims in the U.S.",
+      "prop_spans": [
+        [
+          4331,
+          4479,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4480,
+      "end_ix": 4593,
+      "text": "\nMeanwhile, it would be dangerous, suicidal folly for Infidels to pretend that Ramadan is not the month of jihad.",
+      "new_text": "\nMeanwhile, it might be a folly for Infidels to pretend that Ramadan is not the month of jihad.",
+      "prop_spans": [
+        [
+          4492,
+          4593,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          4504,
+          4543,
+          "Loaded_Language"
+        ],
+        [
+          4534,
+          4543,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4593,
+      "end_ix": 4665,
+      "text": "\nAnd as our Ramadan willful blindness continues, more Infidels will die.",
+      "new_text": "\nAnd as our Ramadan willful blindness continues, more Infidels might die.",
+      "prop_spans": [
+        [
+          4593,
+          4664,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          4613,
+          4631,
+          "Loaded_Language"
+        ],
+        [
+          4647,
+          4656,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4665,
+      "end_ix": 4716,
+      "text": "\nArticle posted with permission from Robert Spencer",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      14,
+      "Name_Calling,Labeling"
+    ],
+    [
+      119,
+      127,
+      "Name_Calling,Labeling"
+    ],
+    [
+      192,
+      238,
+      "Causal_Oversimplification"
+    ],
+    [
+      317,
+      345,
+      "Loaded_Language"
+    ],
+    [
+      435,
+      456,
+      "Name_Calling,Labeling"
+    ],
+    [
+      557,
+      572,
+      "Loaded_Language"
+    ],
+    [
+      602,
+      643,
+      "Name_Calling,Labeling"
+    ],
+    [
+      724,
+      800,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      916,
+      955,
+      "Loaded_Language"
+    ],
+    [
+      1638,
+      1677,
+      "Loaded_Language"
+    ],
+    [
+      1745,
+      1828,
+      "Causal_Oversimplification"
+    ],
+    [
+      2107,
+      2122,
+      "Loaded_Language"
+    ],
+    [
+      2368,
+      2388,
+      "Loaded_Language"
+    ],
+    [
+      2405,
+      2485,
+      "Causal_Oversimplification"
+    ],
+    [
+      2415,
+      2424,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2528,
+      2545,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2630,
+      2639,
+      "Repetition"
+    ],
+    [
+      2630,
+      2639,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2856,
+      2894,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3069,
+      3111,
+      "Loaded_Language"
+    ],
+    [
+      3069,
+      3111,
+      "Repetition"
+    ],
+    [
+      3122,
+      3142,
+      "Loaded_Language"
+    ],
+    [
+      3122,
+      3161,
+      "Flag-Waving"
+    ],
+    [
+      3509,
+      3638,
+      "Whataboutism"
+    ],
+    [
+      3640,
+      3645,
+      "Loaded_Language"
+    ],
+    [
+      3698,
+      3718,
+      "Loaded_Language"
+    ],
+    [
+      4028,
+      4047,
+      "Loaded_Language"
+    ],
+    [
+      4050,
+      4209,
+      "Whataboutism"
+    ],
+    [
+      4331,
+      4479,
+      "Whataboutism"
+    ],
+    [
+      4492,
+      4664,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      4504,
+      4543,
+      "Loaded_Language"
+    ],
+    [
+      4534,
+      4543,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4613,
+      4631,
+      "Loaded_Language"
+    ],
+    [
+      4647,
+      4656,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

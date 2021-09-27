@@ -1,0 +1,375 @@
+{
+  "article_id": "999000849",
+  "sentence offsets in original": [
+    0,
+    173,
+    418,
+    596,
+    757,
+    964,
+    966,
+    1138,
+    1195,
+    1241,
+    1357,
+    1408,
+    1459,
+    1497,
+    1548,
+    1555,
+    1587,
+    1669,
+    1752,
+    1780,
+    1843,
+    1850,
+    2156,
+    2217,
+    2541,
+    2654,
+    2894,
+    3092,
+    3220,
+    3314,
+    3446,
+    3902
+  ],
+  "original sentences": [
+    "Soros-Funded Lawyers Helping Caravan Migrants Get Asylum in the United States\n\nAttorneys backed by George Soros are helping caravan migrants get asylum in the United States.",
+    "\n53 SHARES Facebook Twitter\nGlobalist billionaire George Soros is backing attorney\u2019s who are helping the Central American migrant caravans that are headed to the United States border with the intent of entering under the guise of seeking asylum.",
+    "\nCurrently, there are close to 3,000 migrants in Tijuana, Mexico, awaiting the arrival of other Central American migrants who will continue to travel to the U.S. southern border.",
+    "\nThere are reports that they plan to \u201crush\u201d the border knowing that some will be caught, but the larger their numbers the more will have a chance to get through.",
+    "\nOn Monday afternoon, Homeland Security Secretary Kirstjen Nielsen tweeted out photos of CBP officers in riot gear as well as the barbed wire and barriers citing the reports about plans to \u201crush\u201d the border.",
+    "\n.",
+    "\n@CBP and @DeptofDefense appropriately responded by blocking the lanes, deploying additional personnel and seeking assistance from other law enforcement and federal assets.",
+    "\n#CBP has reopened lanes for legitimate trade and travel.",
+    "\nI want to thank them for their swift actions.",
+    "\npic.twitter.com/eJVVuAs0w6 take our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u2014 Sec.",
+    "\nKirstjen Nielsen (@SecNielsen) November 19, 2018\nAt one point the caravan was anywhere between 7,000 to 10,000 members strong and mostly consists of migrants with ineligible asylum claims, which include job-seekers, previously deported illegal aliens, and Central Americans looking to get away from crime.",
+    "\nNone of these are eligible asylum claims, Breitbart reports.",
+    "\nAccording to the New York Times, lawyers with the National Lawyers Guild, a Soros-backed organization, are aiding the caravan migrants before they attempt to seek asylum in the U.S.:\nOthers have begun to deal in practicalities, walking a mile from the shelter to enter their names on a waiting list for an asylum interview.",
+    "\nSome clustered around volunteer American lawyers who arrived at the shelter to explain the basics of asylum law.",
+    "\n[Emphasis added]\n\u201cPeople don\u2019t flee their country and go through the arduous trip on foot unless the situation is desperate,\u201d said Gilbert Saucedo, a Los Angeles lawyer who helped organize the volunteers through the National Lawyers Guild.",
+    "\n[Emphasis added]\n\u201cI have talked to maybe 100 people today,\u201d he said on Saturday, \u201cand maybe 70 percent had credible cases on the surface.\u201d Yet many lack the documents they need to provide evidence.",
+    "\n[Emphasis added]\nLast week, Breitbart News reported how caravan migrants in Tijuana began scaling the U.S.-Mexico border fence.",
+    "\nIn response, the Department of Homeland Security (DHS) has placed razor wire along the fence.",
+    "\nLocals in Tijuana protested against the arrival of the caravan migrants, as Breitbart News reported, demanding they leave the city.",
+    "\nTo deal with the perceived threat the US has deployed 5,200 troops to help more than 2,000 National Guardsmen thwart what President Trump describes as an impending migrant\u201cinvasion.\u201d\nOver the past few weeks, the active-duty servicemen deployed under Operation Faithful Patriot have mainly been erecting barbed-wire fences along the border in Texas, California and Arizona, as well as building shelter accommodation for customs and border protection staff.",
+    "\nTo ensure the success of the military operation, in addition to sheer troop numbers, the US forces have drones, helicopters with night-vision capabilities, and fixed-wing aircraft at their disposal."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 173,
+      "text": "Soros-Funded Lawyers Helping Caravan Migrants Get Asylum in the United States\n\nAttorneys backed by George Soros are helping caravan migrants get asylum in the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 173,
+      "end_ix": 418,
+      "text": "\n53 SHARES Facebook Twitter\nGlobalist billionaire George Soros is backing attorney\u2019s who are helping the Central American migrant caravans that are headed to the United States border with the intent of entering under the guise of seeking asylum.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 418,
+      "end_ix": 596,
+      "text": "\nCurrently, there are close to 3,000 migrants in Tijuana, Mexico, awaiting the arrival of other Central American migrants who will continue to travel to the U.S. southern border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 596,
+      "end_ix": 757,
+      "text": "\nThere are reports that they plan to \u201crush\u201d the border knowing that some will be caught, but the larger their numbers the more will have a chance to get through.",
+      "new_text": "There are reports that they plan to \u201crush\u201d the border knowing that some will be caught, but the larger their numbers the more will have a chance to get through.",
+      "prop_spans": [
+        [
+          630,
+          651,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 757,
+      "end_ix": 964,
+      "text": "\nOn Monday afternoon, Homeland Security Secretary Kirstjen Nielsen tweeted out photos of CBP officers in riot gear as well as the barbed wire and barriers citing the reports about plans to \u201crush\u201d the border.",
+      "new_text": "\nOn Monday afternoon, Homeland Security Secretary Kirstjen Nielsen tweeted out photos of CBP officers in riot gear as well as the barbed wire and barriers citing the reports about plans to \u201crush\u201d the border.",
+      "prop_spans": [
+        [
+          943,
+          963,
+          "Repetition"
+        ],
+        [
+          943,
+          963,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 964,
+      "end_ix": 966,
+      "text": "\n.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 966,
+      "end_ix": 1138,
+      "text": "\n@CBP and @DeptofDefense appropriately responded by blocking the lanes, deploying additional personnel and seeking assistance from other law enforcement and federal assets.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1138,
+      "end_ix": 1195,
+      "text": "\n#CBP has reopened lanes for legitimate trade and travel.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1195,
+      "end_ix": 1241,
+      "text": "\nI want to thank them for their swift actions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1241,
+      "end_ix": 1357,
+      "text": "\npic.twitter.com/eJVVuAs0w6 take our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1357,
+      "end_ix": 1408,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1408,
+      "end_ix": 1459,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1459,
+      "end_ix": 1497,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1497,
+      "end_ix": 1548,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1548,
+      "end_ix": 1555,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1555,
+      "end_ix": 1587,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1587,
+      "end_ix": 1669,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1669,
+      "end_ix": 1752,
+      "text": "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1752,
+      "end_ix": 1780,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1780,
+      "end_ix": 1843,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1843,
+      "end_ix": 1850,
+      "text": "\n\u2014 Sec.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1850,
+      "end_ix": 2156,
+      "text": "\nKirstjen Nielsen (@SecNielsen) November 19, 2018\nAt one point the caravan was anywhere between 7,000 to 10,000 members strong and mostly consists of migrants with ineligible asylum claims, which include job-seekers, previously deported illegal aliens, and Central Americans looking to get away from crime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2156,
+      "end_ix": 2217,
+      "text": "\nNone of these are eligible asylum claims, Breitbart reports.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2217,
+      "end_ix": 2541,
+      "text": "\nAccording to the New York Times, lawyers with the National Lawyers Guild, a Soros-backed organization, are aiding the caravan migrants before they attempt to seek asylum in the U.S.:\nOthers have begun to deal in practicalities, walking a mile from the shelter to enter their names on a waiting list for an asylum interview.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2541,
+      "end_ix": 2654,
+      "text": "\nSome clustered around volunteer American lawyers who arrived at the shelter to explain the basics of asylum law.",
+      "new_text": "\nSome gathered around volunteer American lawyers who arrived at the shelter to explain the basics of asylum law.",
+      "prop_spans": [
+        [
+          2547,
+          2564,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2654,
+      "end_ix": 2894,
+      "text": "\n[Emphasis added]\n\u201cPeople don\u2019t flee their country and go through the arduous trip on foot unless the situation is desperate,\u201d said Gilbert Saucedo, a Los Angeles lawyer who helped organize the volunteers through the National Lawyers Guild.",
+      "new_text": "\n[Emphasis added]\n\u201cPeople don\u2019t flee their country and go through the difficult trip on foot unless the situation is desperate,\u201d said Gilbert Saucedo, a Los Angeles lawyer who helped organize the volunteers through the National Lawyers Guild.",
+      "prop_spans": [
+        [
+          2724,
+          2737,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2894,
+      "end_ix": 3092,
+      "text": "\n[Emphasis added]\n\u201cI have talked to maybe 100 people today,\u201d he said on Saturday, \u201cand maybe 70 percent had credible cases on the surface.\u201d Yet many lack the documents they need to provide evidence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3092,
+      "end_ix": 3220,
+      "text": "\n[Emphasis added]\nLast week, Breitbart News reported how caravan migrants in Tijuana began scaling the U.S.-Mexico border fence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3220,
+      "end_ix": 3314,
+      "text": "\nIn response, the Department of Homeland Security (DHS) has placed razor wire along the fence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3314,
+      "end_ix": 3446,
+      "text": "\nLocals in Tijuana protested against the arrival of the caravan migrants, as Breitbart News reported, demanding they leave the city.",
+      "new_text": "\nLocals in Tijuana protested against the arrival of the migrants, as Breitbart News reported, demanding they leave the city.",
+      "prop_spans": [
+        [
+          3370,
+          3386,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3446,
+      "end_ix": 3902,
+      "text": "\nTo deal with the perceived threat the US has deployed 5,200 troops to help more than 2,000 National Guardsmen thwart what President Trump describes as an impending migrant\u201cinvasion.\u201d\nOver the past few weeks, the active-duty servicemen deployed under Operation Faithful Patriot have mainly been erecting barbed-wire fences along the border in Texas, California and Arizona, as well as building shelter accommodation for customs and border protection staff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3902,
+      "end_ix": 4101,
+      "text": "\nTo ensure the success of the military operation, in addition to sheer troop numbers, the US forces have drones, helicopters with night-vision capabilities, and fixed-wing aircraft at their disposal.",
+      "new_text": "\nTo ensure the success of the military operation, in addition to large troop numbers, the US forces have drones, helicopters with night-vision capabilities, and fixed-wing aircraft at their disposal.",
+      "prop_spans": [
+        [
+          3967,
+          3973,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      630,
+      651,
+      "Loaded_Language"
+    ],
+    [
+      943,
+      963,
+      "Repetition"
+    ],
+    [
+      943,
+      963,
+      "Loaded_Language"
+    ],
+    [
+      2547,
+      2564,
+      "Loaded_Language"
+    ],
+    [
+      2724,
+      2737,
+      "Loaded_Language"
+    ],
+    [
+      3370,
+      3386,
+      "Repetition"
+    ],
+    [
+      3967,
+      3973,
+      "Loaded_Language"
+    ]
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "article_id": "698018235",
+  "sentence offsets in original": [
+    0,
+    151,
+    228,
+    364,
+    398,
+    487,
+    688,
+    958,
+    1024,
+    1049,
+    1153,
+    1222,
+    1270,
+    1317,
+    1395,
+    1450,
+    1545,
+    1631,
+    1657,
+    1903,
+    1942,
+    2008,
+    2131,
+    2412,
+    2461,
+    2622,
+    2713,
+    2837,
+    2968,
+    3001,
+    3230,
+    3282,
+    3381,
+    3513
+  ],
+  "original sentences": [
+    "Dan Fishback: It's Okay to Boycott Israeli Plays, But Not Okay to Boycott BDS Plays\n\nEvery time a BDS activist faces a boycott, the #BDStears come out.",
+    "\nThe latest outbreak of #BDStears comes from Dan Fishback and his supporters.",
+    "\nThe American Jewish Historical Society was caught collaborating with JVP; a radical anti-Israel hate group with links to anti-Semitism.",
+    "\nHere's my article on the subject.",
+    "\nThe American Jewish Historical Society was founded to study and preserve Jewish history.",
+    "\nThese days it\u2019s instead partnering with Jewish Voice for Peace: an anti-Israel BDS hate group that defends anti-Semitism and which sponsored talks by an anti-Semite who accused Jews of drinking blood.",
+    "\nComing up in late October is \u201cThe Balfour Declaration: Support for a Jewish Homeland or Jewish State?\u201d The two speakers are Robert Herbst, the coordinator of the Westchester chapter of JVP, and Jonathan Kuttab, who advocates a one-state solution for eliminating Israel.",
+    "\nHe had tweeted, \"EU no longer considers #Hamas a terrorist group.",
+    "\nTime for US to do same.\"",
+    "\nIn December, the AJHS will feature \u201cRubble Rubble\u201d, a play by Dan Fishback based on his trip to Israel.",
+    "\nFishback is a BDS supporter and a member of the JVP Artists Council.",
+    "\nHis goal is to \u201cnormalize Jewish anti-Zionism\u201d.",
+    "\nAJHS and JVP members get discounted admission.",
+    "\nThe JVP events have been canceled That includes Fishback's Rubble and Rubble.",
+    "\nAnd Dan Fishback is flooding the media with #BDStears.",
+    "\nThere's an outbreak of them at anti-Israel hate sites like the New York Times and the Forward.",
+    "\n\"I have grown accustomed to feeling unwelcome in Jewish spaces,\" Dan Fishback whines.",
+    "\nHim, the PLO and the KKK.",
+    "\n\"Any Jew who opposes the Occupation \u2014 or opposes Zionism itself \u2014 knows that feeling of being shunned from the places that are supposed to shelter and nurture you: families, synagogues, community centers, arts organizations,\" Fishback continues.",
+    "\n\"I am terrified for the Jewish people.",
+    "\nI was raised to believe we were a people of dissent and argument.",
+    "\nI was taught that it was important to ask difficult questions, and that it was noble to stand up for what you believed in.",
+    "\nIf our Jewish institutions \u2014 particularly the American Jewish Historical Society \u2014 cannot accommodate dissent, and effectively exclude all Jewish anti-Zionists, then they have not only lost a rapidly growing Jewish population, but they have lost a key aspect of their Jewishness.\"",
+    "\nLet's unpack this knapsack of entitled nonsense.",
+    "\nAnti-Israel activists like Dan Fishback are entitled to exploit Jewish spaces for their propoaganda... even while they advocate a boycott of the Jews of Israel.",
+    "\nPreviously Dan Fishback had authored an article arguing for boycotting some Israeli plays.",
+    "\nNow he's whining that boycotting his play is a violation of Jewishness because Jews are a \"people of dissent and argument.\"",
+    "\nBut the only dissent and argument that Jews are supposed to welcome is that of people who hate the existence of Jewish nationhood.",
+    "\nNot of Jewish nationhood itself.",
+    "\n\"it\u2019s not that BDS is \u201ccensoring\u201d work \u2014 it\u2019s that BDS is resisting a propaganda campaign that was intentionally crafted to influence international politics,\" Dan Fishback claimed when advocating a boycott of some Israeli plays.",
+    "\nIt's not that boycotting Dan Fishback censors work.",
+    "\nIt's resistance to a propaganda campaign intended to attack the human rights of the Jewish people.",
+    "\nIt's time for the #BDStears crowd to examine their entitlement and recognize that what's good for the goose is good for the gander.",
+    "\nEither that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 151,
+      "text": "Dan Fishback: It's Okay to Boycott Israeli Plays, But Not Okay to Boycott BDS Plays\n\nEvery time a BDS activist faces a boycott, the #BDStears come out.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 151,
+      "end_ix": 228,
+      "text": "\nThe latest outbreak of #BDStears comes from Dan Fishback and his supporters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 228,
+      "end_ix": 364,
+      "text": "\nThe American Jewish Historical Society was caught collaborating with JVP; a radical anti-Israel hate group with links to anti-Semitism.",
+      "new_text": "\nThe American Jewish Historical Society was caught collaborating with JVP; a group with links to anti-Semitism.",
+      "prop_spans": [
+        [
+          305,
+          335,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 364,
+      "end_ix": 398,
+      "text": "\nHere's my article on the subject.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 398,
+      "end_ix": 487,
+      "text": "\nThe American Jewish Historical Society was founded to study and preserve Jewish history.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 487,
+      "end_ix": 688,
+      "text": "\nThese days it\u2019s instead partnering with Jewish Voice for Peace: an anti-Israel BDS hate group that defends anti-Semitism and which sponsored talks by an anti-Semite who accused Jews of drinking blood.",
+      "new_text": "\nThese days it\u2019s instead partnering with Jewish Voice for Peace: a group that defends anti-Semitism and which sponsored talks by an anti-Semite who accused Jews of drinking blood.",
+      "prop_spans": [
+        [
+          555,
+          581,
+          "Name_Calling,Labeling"
+        ],
+        [
+          641,
+          652,
+          "Name_Calling,Labeling"
+        ],
+        [
+          657,
+          688,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 688,
+      "end_ix": 958,
+      "text": "\nComing up in late October is \u201cThe Balfour Declaration: Support for a Jewish Homeland or Jewish State?\u201d The two speakers are Robert Herbst, the coordinator of the Westchester chapter of JVP, and Jonathan Kuttab, who advocates a one-state solution for eliminating Israel.",
+      "new_text": "\nComing up in late October is \u201cThe Balfour Declaration: Support for a Jewish Homeland or Jewish State?\u201d The two speakers are Robert Herbst, the coordinator of the Westchester chapter of JVP, and Jonathan Kuttab, who advocates a one-state solution for eliminating Israel.",
+      "prop_spans": [
+        [
+          688,
+          688,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 958,
+      "end_ix": 1024,
+      "text": "\nHe had tweeted, \"EU no longer considers #Hamas a terrorist group.",
+      "new_text": "\nHe had tweeted, \"EU no longer considers #Hamas a terrorist group.",
+      "prop_spans": [
+        [
+          976,
+          1024,
+          "Bandwagon"
+        ],
+        [
+          976,
+          1024,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1024,
+      "end_ix": 1049,
+      "text": "\nTime for US to do same.\"",
+      "new_text": "\nTime for US to do same.\"",
+      "prop_spans": [
+        [
+          1024,
+          1049,
+          "Bandwagon"
+        ],
+        [
+          1024,
+          1047,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1049,
+      "end_ix": 1153,
+      "text": "\nIn December, the AJHS will feature \u201cRubble Rubble\u201d, a play by Dan Fishback based on his trip to Israel.",
+      "new_text": "\nIn December, the AJHS will feature \u201cRubble Rubble\u201d, a play by Dan Fishback based on his trip to Israel.",
+      "prop_spans": [
+        [
+          1049,
+          1049,
+          "Bandwagon"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1153,
+      "end_ix": 1222,
+      "text": "\nFishback is a BDS supporter and a member of the JVP Artists Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1222,
+      "end_ix": 1270,
+      "text": "\nHis goal is to \u201cnormalize Jewish anti-Zionism\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1270,
+      "end_ix": 1317,
+      "text": "\nAJHS and JVP members get discounted admission.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1317,
+      "end_ix": 1395,
+      "text": "\nThe JVP events have been canceled That includes Fishback's Rubble and Rubble.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1395,
+      "end_ix": 1450,
+      "text": "\nAnd Dan Fishback is flooding the media with #BDStears.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1450,
+      "end_ix": 1545,
+      "text": "\nThere's an outbreak of them at anti-Israel hate sites like the New York Times and the Forward.",
+      "new_text": "\nThere's an outbreak of them at anti-Israel hate sites like the New York Times and the Forward.",
+      "prop_spans": [
+        [
+          1482,
+          1493,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1545,
+      "end_ix": 1631,
+      "text": "\n\"I have grown accustomed to feeling unwelcome in Jewish spaces,\" Dan Fishback whines.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1631,
+      "end_ix": 1657,
+      "text": "\nHim, the PLO and the KKK.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1657,
+      "end_ix": 1903,
+      "text": "\n\"Any Jew who opposes the Occupation \u2014 or opposes Zionism itself \u2014 knows that feeling of being shunned from the places that are supposed to shelter and nurture you: families, synagogues, community centers, arts organizations,\" Fishback continues.",
+      "new_text": "\n\"Any Jew who opposes the Occupation \u2014 or opposes Zionism itself \u2014 knows that feeling of being shunned from the places that are supposed to shelter and nurture you: families, synagogues, community centers, arts organizations,\" Fishback continues.",
+      "prop_spans": [
+        [
+          1659,
+          1883,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1903,
+      "end_ix": 1942,
+      "text": "\n\"I am terrified for the Jewish people.",
+      "new_text": "\n\"I am terrified for the Jewish people.",
+      "prop_spans": [
+        [
+          1910,
+          1920,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1942,
+      "end_ix": 2008,
+      "text": "\nI was raised to believe we were a people of dissent and argument.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2008,
+      "end_ix": 2131,
+      "text": "\nI was taught that it was important to ask difficult questions, and that it was noble to stand up for what you believed in.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2131,
+      "end_ix": 2412,
+      "text": "\nIf our Jewish institutions \u2014 particularly the American Jewish Historical Society \u2014 cannot accommodate dissent, and effectively exclude all Jewish anti-Zionists, then they have not only lost a rapidly growing Jewish population, but they have lost a key aspect of their Jewishness.\"",
+      "new_text": "\nIf our Jewish institutions \u2014 particularly the American Jewish Historical Society \u2014 cannot accommodate dissent, and effectively exclude all Jewish anti-Zionists, then they have not only lost a rapidly growing Jewish population, but they have lost a key aspect of their Jewishness.\"",
+      "prop_spans": [
+        [
+          2132,
+          2410,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2412,
+      "end_ix": 2461,
+      "text": "\nLet's unpack this knapsack of entitled nonsense.",
+      "new_text": "\nLet's unpack this knapsack.",
+      "prop_spans": [
+        [
+          2431,
+          2460,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2461,
+      "end_ix": 2622,
+      "text": "\nAnti-Israel activists like Dan Fishback are entitled to exploit Jewish spaces for their propoaganda... even while they advocate a boycott of the Jews of Israel.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2622,
+      "end_ix": 2713,
+      "text": "\nPreviously Dan Fishback had authored an article arguing for boycotting some Israeli plays.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2713,
+      "end_ix": 2837,
+      "text": "\nNow he's whining that boycotting his play is a violation of Jewishness because Jews are a \"people of dissent and argument.\"",
+      "new_text": "\nNow he's arguing that boycotting his play is a violation of Jewishness because Jews are a \"people of dissent and argument.\"",
+      "prop_spans": [
+        [
+          2723,
+          2731,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2837,
+      "end_ix": 2968,
+      "text": "\nBut the only dissent and argument that Jews are supposed to welcome is that of people who hate the existence of Jewish nationhood.",
+      "new_text": "\nBut this type of dissent and argument that Jews are supposed to welcome is that of people who hate the existence of Jewish nationhood.",
+      "prop_spans": [
+        [
+          2917,
+          2968,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2968,
+      "end_ix": 3001,
+      "text": "\nNot of Jewish nationhood itself.",
+      "new_text": "\nNot of Jewish nationhood itself.",
+      "prop_spans": [
+        [
+          2968,
+          3001,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3001,
+      "end_ix": 3230,
+      "text": "\n\"it\u2019s not that BDS is \u201ccensoring\u201d work \u2014 it\u2019s that BDS is resisting a propaganda campaign that was intentionally crafted to influence international politics,\" Dan Fishback claimed when advocating a boycott of some Israeli plays.",
+      "new_text": "\n\"it\u2019s not that BDS is \u201ccensoring\u201d work \u2014 it\u2019s that BDS is resisting a propaganda campaign that was intentionally crafted to influence international politics,\" Dan Fishback claimed when advocating a boycott of some Israeli plays.",
+      "prop_spans": [
+        [
+          3001,
+          3002,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3230,
+      "end_ix": 3282,
+      "text": "\nIt's not that boycotting Dan Fishback censors work.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3282,
+      "end_ix": 3381,
+      "text": "\nIt's resistance to a propaganda campaign intended to attack the human rights of the Jewish people.",
+      "new_text": "\nIt's resistance to an alleged propaganda campaign intended to attack the human rights of the Jewish people.",
+      "prop_spans": [
+        [
+          3283,
+          3380,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3381,
+      "end_ix": 3513,
+      "text": "\nIt's time for the #BDStears crowd to examine their entitlement and recognize that what's good for the goose is good for the gander.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3513,
+      "end_ix": 3650,
+      "text": "\nEither that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.",
+      "new_text": "\nEither that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn or maybe some other measure.",
+      "prop_spans": [
+        [
+          3514,
+          3649,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          3538,
+          3578,
+          "Loaded_Language"
+        ],
+        [
+          3623,
+          3650,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      305,
+      335,
+      "Name_Calling,Labeling"
+    ],
+    [
+      555,
+      581,
+      "Name_Calling,Labeling"
+    ],
+    [
+      641,
+      652,
+      "Name_Calling,Labeling"
+    ],
+    [
+      657,
+      688,
+      "Loaded_Language"
+    ],
+    [
+      976,
+      1049,
+      "Bandwagon"
+    ],
+    [
+      976,
+      1047,
+      "Appeal_to_Authority"
+    ],
+    [
+      1482,
+      1493,
+      "Repetition"
+    ],
+    [
+      1659,
+      1883,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1910,
+      1920,
+      "Loaded_Language"
+    ],
+    [
+      2132,
+      2410,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2431,
+      2460,
+      "Loaded_Language"
+    ],
+    [
+      2723,
+      2731,
+      "Loaded_Language"
+    ],
+    [
+      2917,
+      3002,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      3283,
+      3380,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      3514,
+      3649,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      3538,
+      3578,
+      "Loaded_Language"
+    ],
+    [
+      3623,
+      3651,
+      "Loaded_Language"
+    ]
+  ]
+}

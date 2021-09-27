@@ -1,0 +1,366 @@
+{
+  "article_id": "787730392",
+  "sentence offsets in original": [
+    0,
+    409,
+    651,
+    718,
+    818,
+    880,
+    942,
+    1093,
+    1175,
+    1203,
+    1266,
+    1575,
+    1771,
+    2057,
+    2572,
+    2849,
+    3007,
+    3168,
+    3288,
+    3376,
+    3579,
+    3851
+  ],
+  "original sentences": [
+    "New Mexico Jihadis\u2019 Defense Attorney: \u201cIf These Were White Christians\u2026No One Would Bat An Eye\u201d\n\nEditor's Note: If they were white, devout Christians, we wouldn't hear about this cause it would have never taken place because it would have gone against the teachings of Christ and there would have been an outcry by Christians everywhere against people might engage in such behavior and would claim such things.",
+    "\n\"Federal prosecutors say that between Dec. 2017 and August 2018, the group, who are either siblings or related by marriage, had \u2018a common plan to prepare for violent attacks on government, military, educational and financial institutions.\n'\"",
+    "\nYeah, if they were white Christians, no one would care about that.",
+    "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u201cFederal Judge Denies New Mexico Compound Residents Bail,\u201d by Vanessa Romo, KRWG, September 13, 2018:\nA federal judge denied bail on Wednesday to all five members of an extended family accused of operating a training camp for a violent attack on public institutions out of their isolated New Mexico compound.",
+    "\nDuring the arraignment hearing, Magistrate Judge Kirtan Khalsa told the defendants there was \u201cclear and convincing evidence that you are a danger to the community,\u201d The Associated Press reported.",
+    "\nA federal grand jury indicted the group on Tuesday on conspiracy and federal firearms charges stemming from the discovery of a cache of weapons after law enforcement raided their home in search of a missing boy but, instead, found 11 malnourished children living in squalid conditions.",
+    "\nFederal prosecutors say that between Dec. 2017 and August 2018, the group, who are either siblings or related by marriage, had \u201ca common plan to prepare for violent attacks on government, military, educational and financial institutions.\u201d U.S. Attorney John C. Anderson and Special Agent in Charge James C. Langenberg of the FBI\u2019s Albuquerque Division, said in a statement that the defendants\u2019 home in Amalia, N.M., served as a firing range and training camp to carry out an attack as part of a religious prophecy.",
+    "\nAccording to the indictment, some of the minors were being prepared \u201cto engage in jihad and \u2026 to die as martyrs.\u201d\u2026 Siraj Ibn Wahhaj\u2019s lawyer in the state case, suggested that those charges were motivated by a degree of racial and religious prejudice against his Muslim client.",
+    "\nIf the suspects were white Christians shooting guns on their property and practicing their religion, \u201cNo one would bat an eye,\u201d Thomas Clark argued in court.",
+    "\n\u201cIf these were white people of a Christian faith who owned guns, that\u2019s not a big deal because there\u2019s a Second Amendment right to own firearms in this country.",
+    "\nIf these were white Christians, faith healing is of no consequence because we have freedom of religion in this country.",
+    "\nBut they look different and they worship differently from the rest of us,\u201d Clark said\u2026.",
+    "\nLast month, two state judges were forced to dismiss child neglect charges against all five adults when the local district attorney\u2019s office missed a 10-day deadline to present initial evidence of crime.",
+    "\nA few days later, Taos-based District Attorney Donald Gallegos dropped charges related to the death of Siraj Wahhaj\u2019s son, \u201csaying he was seeking more time to assemble and analyze evidence, and that he intended to seek grand jury indictment,\u201d The Durango Herald reported.",
+    "\nArticle posted with permission from Robert Spencer"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 409,
+      "text": "New Mexico Jihadis\u2019 Defense Attorney: \u201cIf These Were White Christians\u2026No One Would Bat An Eye\u201d\n\nEditor's Note: If they were white, devout Christians, we wouldn't hear about this cause it would have never taken place because it would have gone against the teachings of Christ and there would have been an outcry by Christians everywhere against people might engage in such behavior and would claim such things.",
+      "new_text": "New Mexico Terrorists\u2019 Defense Attorney: \u201cIf These Were White Christians\u2026No One Would Bat An Eye\u201d\n\nEditor's Note: If they were white, devout Christians, we wouldn't hear about this cause it would be unlikely to have taken place because it would have gone against the teachings of Christ and there would have been an outcry by Christians  against people might engage in such behavior and would claim such things.",
+      "prop_spans": [
+        [
+          0,
+          36,
+          "Name_Calling,Labeling"
+        ],
+        [
+          39,
+          93,
+          "Whataboutism"
+        ],
+        [
+          184,
+          216,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          301,
+          336,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 409,
+      "end_ix": 651,
+      "text": "\n\"Federal prosecutors say that between Dec. 2017 and August 2018, the group, who are either siblings or related by marriage, had \u2018a common plan to prepare for violent attacks on government, military, educational and financial institutions.\n'\"",
+      "new_text": "\n\"Federal prosecutors say that between Dec. 2017 and August 2018, the group, who are either siblings or related by marriage, had \u2018a common plan to prepare for violent attacks on government, military, educational and financial institutions.\n'\"",
+      "prop_spans": [
+        [
+          568,
+          584,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 651,
+      "end_ix": 718,
+      "text": "\nYeah, if they were white Christians, no one would care about that.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          665,
+          718,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 718,
+      "end_ix": 818,
+      "text": "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "prop_spans": [
+        [
+          718,
+          720,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 818,
+      "end_ix": 880,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 880,
+      "end_ix": 942,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 942,
+      "end_ix": 1093,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1093,
+      "end_ix": 1175,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1175,
+      "end_ix": 1203,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1203,
+      "end_ix": 1266,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1266,
+      "end_ix": 1575,
+      "text": "\n\u201cFederal Judge Denies New Mexico Compound Residents Bail,\u201d by Vanessa Romo, KRWG, September 13, 2018:\nA federal judge denied bail on Wednesday to all five members of an extended family accused of operating a training camp for a violent attack on public institutions out of their isolated New Mexico compound.",
+      "new_text": "\n\u201cFederal Judge Denies New Mexico Compound Residents Bail,\u201d by Vanessa Romo, KRWG, September 13, 2018:\nA federal judge denied bail on Wednesday to all five members of an extended family accused of operating a training camp for an attack on public institutions out of their isolated New Mexico compound.",
+      "prop_spans": [
+        [
+          1489,
+          1533,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1575,
+      "end_ix": 1771,
+      "text": "\nDuring the arraignment hearing, Magistrate Judge Kirtan Khalsa told the defendants there was \u201cclear and convincing evidence that you are a danger to the community,\u201d The Associated Press reported.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1771,
+      "end_ix": 2057,
+      "text": "\nA federal grand jury indicted the group on Tuesday on conspiracy and federal firearms charges stemming from the discovery of a cache of weapons after law enforcement raided their home in search of a missing boy but, instead, found 11 malnourished children living in squalid conditions.",
+      "new_text": "\nA federal grand jury indicted the group on Tuesday on conspiracy and federal firearms charges stemming from the discovery of a cache of weapons after law enforcement raided their home in search of a missing boy but, instead, found 11 malnourished children living in dirty conditions.",
+      "prop_spans": [
+        [
+          2028,
+          2056,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2057,
+      "end_ix": 2572,
+      "text": "\nFederal prosecutors say that between Dec. 2017 and August 2018, the group, who are either siblings or related by marriage, had \u201ca common plan to prepare for violent attacks on government, military, educational and financial institutions.\u201d U.S. Attorney John C. Anderson and Special Agent in Charge James C. Langenberg of the FBI\u2019s Albuquerque Division, said in a statement that the defendants\u2019 home in Amalia, N.M., served as a firing range and training camp to carry out an attack as part of a religious prophecy.",
+      "new_text": "\nFederal prosecutors say that between Dec. 2017 and August 2018, the group, who are either siblings or related by marriage, had \u201ca common plan to prepare for violent attacks on government, military, educational and financial institutions.\u201d U.S. Attorney John C. Anderson and Special Agent in Charge James C. Langenberg of the FBI\u2019s Albuquerque Division, said in a statement that the defendants\u2019 home in Amalia, N.M., served as a firing range and training camp to carry out an attack as part of a religious prophecy.",
+      "prop_spans": [
+        [
+          2215,
+          2231,
+          "Loaded_Language"
+        ],
+        [
+          2215,
+          2294,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2572,
+      "end_ix": 2849,
+      "text": "\nAccording to the indictment, some of the minors were being prepared \u201cto engage in jihad and \u2026 to die as martyrs.\u201d\u2026 Siraj Ibn Wahhaj\u2019s lawyer in the state case, suggested that those charges were motivated by a degree of racial and religious prejudice against his Muslim client.",
+      "new_text": "\nAccording to the indictment, some of the minors were being prepared \u201cto engage in jihad and \u2026 to die as martyrs.\u201d\u2026 Siraj Ibn Wahhaj\u2019s lawyer in the state case, suggested that those charges were motivated by a degree of racial and religious prejudice against his Muslim client.",
+      "prop_spans": [
+        [
+          2621,
+          2684,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2849,
+      "end_ix": 3007,
+      "text": "\nIf the suspects were white Christians shooting guns on their property and practicing their religion, \u201cNo one would bat an eye,\u201d Thomas Clark argued in court.",
+      "new_text": "\nIf the suspects were white Christians shooting guns on their property and practicing their religion, \u201cNo one would bat an eye,\u201d Thomas Clark argued in court.",
+      "prop_spans": [
+        [
+          2850,
+          2975,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3007,
+      "end_ix": 3168,
+      "text": "\n\u201cIf these were white people of a Christian faith who owned guns, that\u2019s not a big deal because there\u2019s a Second Amendment right to own firearms in this country.",
+      "new_text": "\n\u201cIf these were white people of a Christian faith who owned guns, that\u2019s not a big deal because there\u2019s a Second Amendment right to own firearms in this country.",
+      "prop_spans": [
+        [
+          3009,
+          3168,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3168,
+      "end_ix": 3288,
+      "text": "\nIf these were white Christians, faith healing is of no consequence because we have freedom of religion in this country.",
+      "new_text": "\nIf these were white Christians, faith healing is of no consequence because we have freedom of religion in this country.",
+      "prop_spans": [
+        [
+          3168,
+          3288,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3288,
+      "end_ix": 3376,
+      "text": "\nBut they look different and they worship differently from the rest of us,\u201d Clark said\u2026.",
+      "new_text": "\nBut they look different and they worship differently from the rest of us,\u201d Clark said\u2026.",
+      "prop_spans": [
+        [
+          3288,
+          3361,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3376,
+      "end_ix": 3579,
+      "text": "\nLast month, two state judges were forced to dismiss child neglect charges against all five adults when the local district attorney\u2019s office missed a 10-day deadline to present initial evidence of crime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3579,
+      "end_ix": 3851,
+      "text": "\nA few days later, Taos-based District Attorney Donald Gallegos dropped charges related to the death of Siraj Wahhaj\u2019s son, \u201csaying he was seeking more time to assemble and analyze evidence, and that he intended to seek grand jury indictment,\u201d The Durango Herald reported.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3851,
+      "end_ix": 3902,
+      "text": "\nArticle posted with permission from Robert Spencer",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      36,
+      "Name_Calling,Labeling"
+    ],
+    [
+      39,
+      93,
+      "Whataboutism"
+    ],
+    [
+      184,
+      216,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      301,
+      336,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      568,
+      584,
+      "Loaded_Language"
+    ],
+    [
+      665,
+      720,
+      "Loaded_Language"
+    ],
+    [
+      1489,
+      1533,
+      "Loaded_Language"
+    ],
+    [
+      2028,
+      2056,
+      "Loaded_Language"
+    ],
+    [
+      2215,
+      2231,
+      "Loaded_Language"
+    ],
+    [
+      2215,
+      2294,
+      "Repetition"
+    ],
+    [
+      2621,
+      2684,
+      "Loaded_Language"
+    ],
+    [
+      2850,
+      2975,
+      "Whataboutism"
+    ],
+    [
+      3009,
+      3361,
+      "Whataboutism"
+    ]
+  ]
+}

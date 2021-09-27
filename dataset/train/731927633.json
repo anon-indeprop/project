@@ -1,0 +1,448 @@
+{
+  "article_id": "731927633",
+  "sentence offsets in original": [
+    0,
+    550,
+    773,
+    1017,
+    1141,
+    1225,
+    1282,
+    1509,
+    1686,
+    1751,
+    1791,
+    2006,
+    2212,
+    2354,
+    2415,
+    2451,
+    2695,
+    2882,
+    3058,
+    3181,
+    3256,
+    3428,
+    3670,
+    3830,
+    4061,
+    4156,
+    4204,
+    4219,
+    4289,
+    4479,
+    4594,
+    4679,
+    4818
+  ],
+  "original sentences": [
+    "Hungary's Orban calls for global anti-migrant alliance with eye on 2018 elections\n\n(Fixes dateline)\n* PM Orban faces elections on April 8, leads all polls\n* Migration has been Orban's defining theme since 2015\n* Says will counter globalism alongside U.S., UK, Israel\nBy Marton Dunai\nBUDAPEST, Feb 18 (Reuters) - Hungarian leader Viktor Orban called on Sunday for a global alliance against migration as his right-wing populist Fidesz party began campaigning for an April 8 election in which it is expected to win a third consecutive landslide victory.",
+    "\nPopular at home but increasingly at odds politically and economically with mainstream European Union peers, Orban has thrived on external controversy, including repeated clashes with Brussels and lately the United Nations.",
+    "\nThose conflicts, mostly centred on migration since people fleeing war and poverty in the Middle East and Africa flooded into Europe in 2015, have intensified as the elections approach and Orban poses as a saviour of Europe's Christian nations.",
+    "\n\"Christianity is Europe's last hope,\" Orban told an audience of party faithful at the foot of the Royal Castle in Budapest.",
+    "\nWith mass immigration, especially from Africa, \"our worst nightmares can come true.",
+    "\nThe West falls as it fails to see Europe being overrun.\"",
+    "\nOrban is widely credited for reversing an economic slump in Hungary and controlling its public finances, culminating in a return to investment-grade for its debt, which was cut to 'junk' during the 2008 global economic crisis.",
+    "\nTo achieve that and hold onto power the prime minister, 54, has used methods that critics have called authoritarian, and picked fights with EU partners, especially in the West.",
+    "\nEastern leaders, most notably in Poland, have followed his lead.",
+    "\nBut migration dominates his agenda now.",
+    "\nOrban said on Sunday that Europe faces a critical fissure between nation states of the East and the West, which he called an \"immigrant zone, a mixed population world that heads in a direction different from ours\".",
+    "\nAs the West wants eastern Europe to follow its lead, an increasingly vicious struggle was likely, he said, alluding to a plan to redraw the European alliance advocated by the leaders of France and Germany.",
+    "\n\"Absurd as it may sound the danger we face comes from the West, from politicians in Brussels, Berlin and Paris,\" Orban said to loud applause.",
+    "\n\"Of course we will fight, and use ever stronger legal tools.",
+    "\nThe first is our 'Stop Soros' law.\"",
+    "\nOrban has for years targeted Hungarian-born U.S. financier George Soros, whose philanthropy aims to bolster liberal and open-border values -- anathema to Orban, an advocate of a loose group of strong nation states that reject multiculturalism.",
+    "\nThe Hungarian leader has advocated \"ethnic homogeneity\" and compared Soros, a Jew, to a puppet master unleashing immigration onto Europe to undermine its cultural and economic integrity.",
+    "\nA defining moment of his premiership came in 2015, as the migrant crisis peaked: he built a double razor wire fence that became the symbol of anti-migrant sentiment in Europe.",
+    "\nOrban also said the Hungarian opposition had failed to heed the call of history when it opposed his toughness on migrants.",
+    "\nVoters have responded favourably and Orban is a clear leader of all polls.",
+    "\nPOWERFUL ALLIES\nOrban has conflated the issue of immigration with the image of Soros, 87, whose name was used in a tough anti-migrant bill sent to Parliament on Wednesday.",
+    "\nSoros, for his part, compared Orban unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's -- when Hungary was allied with Nazi Germany -- and was more oppressive than Cold War Soviet occupation.",
+    "\nOrban has tightened the screws on non-government organisations, particularly ones funded by Soros, and attempted to close a prominent Soros-founded university.",
+    "\nAttributing to Soros a recent United Nations plan on creating a global blueprint to handle the migration crisis, Orban said he anticipated that powerful allies would help him prevent the U.N. from greasing the wheels of migration.",
+    "\n\"Soros has antagonised not only us but also England, President Trump and Israel too,\" he said.",
+    "\n\"Everywhere he wants to get migration accepted.",
+    "\nIt won't work.",
+    "\nWe are not alone and we will fight together ... and we will succeed.\"",
+    "\nIn Europe, he cited as allies Hungary's fellow Visegrad countries Slovakia, the Czech Republic and Poland, whose ruling Law and Justice (PiS) party is also often at loggerheads with the EU.",
+    "\nHe said a victory for Silvio Berlusconi's party in Italy's March 4 election would strengthen the nationalist fold.",
+    "\n\"We don't think the fight is hopeless, on the contrary, we are winning,\" Orban said.",
+    "\n\"The V4 is firm, Croatia has come around, Austria has turned in the patriotic direction, and in Bavaria the CSU has created a resistance.\"",
+    "\n(Reporting by Marton Dunai; Editing by Catherine Evans)\nOur Standards: The Thomson Reuters Trust Principles."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 550,
+      "text": "Hungary's Orban calls for global anti-migrant alliance with eye on 2018 elections\n\n(Fixes dateline)\n* PM Orban faces elections on April 8, leads all polls\n* Migration has been Orban's defining theme since 2015\n* Says will counter globalism alongside U.S., UK, Israel\nBy Marton Dunai\nBUDAPEST, Feb 18 (Reuters) - Hungarian leader Viktor Orban called on Sunday for a global alliance against migration as his right-wing populist Fidesz party began campaigning for an April 8 election in which it is expected to win a third consecutive landslide victory.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 550,
+      "end_ix": 773,
+      "text": "\nPopular at home but increasingly at odds politically and economically with mainstream European Union peers, Orban has thrived on external controversy, including repeated clashes with Brussels and lately the United Nations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 773,
+      "end_ix": 1017,
+      "text": "\nThose conflicts, mostly centred on migration since people fleeing war and poverty in the Middle East and Africa flooded into Europe in 2015, have intensified as the elections approach and Orban poses as a saviour of Europe's Christian nations.",
+      "new_text": "\nThose conflicts, mostly centred on migration since people fleeing war and poverty in the Middle East and Africa flooded into Europe in 2015, have intensified as the elections approach and Orban poses as a saviour of Christian nations.",
+      "prop_spans": [
+        [
+          962,
+          1016,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1017,
+      "end_ix": 1141,
+      "text": "\n\"Christianity is Europe's last hope,\" Orban told an audience of party faithful at the foot of the Royal Castle in Budapest.",
+      "new_text": "\n\"Christianity is Europe's last hope,\" Orban told an audience of party faithful at the foot of the Royal Castle in Budapest.",
+      "prop_spans": [
+        [
+          1019,
+          1053,
+          "Flag-Waving"
+        ],
+        [
+          1019,
+          1053,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1141,
+      "end_ix": 1225,
+      "text": "\nWith mass immigration, especially from Africa, \"our worst nightmares can come true.",
+      "new_text": "\nWith mass immigration, especially from Africa, \"our worst nightmares can come true.",
+      "prop_spans": [
+        [
+          1190,
+          1224,
+          "Slogans"
+        ],
+        [
+          1190,
+          1224,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1225,
+      "end_ix": 1282,
+      "text": "\nThe West falls as it fails to see Europe being overrun.\"",
+      "new_text": "\nThe West falls as it fails to see Europe being overrun.\"",
+      "prop_spans": [
+        [
+          1226,
+          1280,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1282,
+      "end_ix": 1509,
+      "text": "\nOrban is widely credited for reversing an economic slump in Hungary and controlling its public finances, culminating in a return to investment-grade for its debt, which was cut to 'junk' during the 2008 global economic crisis.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1509,
+      "end_ix": 1686,
+      "text": "\nTo achieve that and hold onto power the prime minister, 54, has used methods that critics have called authoritarian, and picked fights with EU partners, especially in the West.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1686,
+      "end_ix": 1751,
+      "text": "\nEastern leaders, most notably in Poland, have followed his lead.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1751,
+      "end_ix": 1791,
+      "text": "\nBut migration dominates his agenda now.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1791,
+      "end_ix": 2006,
+      "text": "\nOrban said on Sunday that Europe faces a critical fissure between nation states of the East and the West, which he called an \"immigrant zone, a mixed population world that heads in a direction different from ours\".",
+      "new_text": "\nOrban said on Sunday that Europe faces a critical fissure between nation states of the East and the West, which he called an \"immigrant zone, a mixed population world that heads in a direction different from ours\".",
+      "prop_spans": [
+        [
+          1973,
+          2004,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2006,
+      "end_ix": 2212,
+      "text": "\nAs the West wants eastern Europe to follow its lead, an increasingly vicious struggle was likely, he said, alluding to a plan to redraw the European alliance advocated by the leaders of France and Germany.",
+      "new_text": "\nAs the West wants eastern Europe to follow its lead, an increasing struggle was likely, he said, alluding to a plan to redraw the European alliance advocated by the leaders of France and Germany.",
+      "prop_spans": [
+        [
+          2063,
+          2092,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2212,
+      "end_ix": 2354,
+      "text": "\n\"Absurd as it may sound the danger we face comes from the West, from politicians in Brussels, Berlin and Paris,\" Orban said to loud applause.",
+      "new_text": "\n\"Absurd as it may sound the danger we face comes from the West, from politicians in Brussels, Berlin and Paris,\" Orban said to loud applause.",
+      "prop_spans": [
+        [
+          2237,
+          2323,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2354,
+      "end_ix": 2415,
+      "text": "\n\"Of course we will fight, and use ever stronger legal tools.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2415,
+      "end_ix": 2451,
+      "text": "\nThe first is our 'Stop Soros' law.\"",
+      "new_text": "\nThe first is our 'Stop Soros' law.\"",
+      "prop_spans": [
+        [
+          2434,
+          2444,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2451,
+      "end_ix": 2695,
+      "text": "\nOrban has for years targeted Hungarian-born U.S. financier George Soros, whose philanthropy aims to bolster liberal and open-border values -- anathema to Orban, an advocate of a loose group of strong nation states that reject multiculturalism.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2695,
+      "end_ix": 2882,
+      "text": "\nThe Hungarian leader has advocated \"ethnic homogeneity\" and compared Soros, a Jew, to a puppet master unleashing immigration onto Europe to undermine its cultural and economic integrity.",
+      "new_text": "\nThe Hungarian leader has advocated \"ethnic homogeneity\" and compared Soros, a Jew, to someone introducing immigration into Europe to undermine its cultural and economic integrity.",
+      "prop_spans": [
+        [
+          2784,
+          2797,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2798,
+          2832,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2882,
+      "end_ix": 3058,
+      "text": "\nA defining moment of his premiership came in 2015, as the migrant crisis peaked: he built a double razor wire fence that became the symbol of anti-migrant sentiment in Europe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3058,
+      "end_ix": 3181,
+      "text": "\nOrban also said the Hungarian opposition had failed to heed the call of history when it opposed his toughness on migrants.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3181,
+      "end_ix": 3256,
+      "text": "\nVoters have responded favourably and Orban is a clear leader of all polls.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3256,
+      "end_ix": 3428,
+      "text": "\nPOWERFUL ALLIES\nOrban has conflated the issue of immigration with the image of Soros, 87, whose name was used in a tough anti-migrant bill sent to Parliament on Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3428,
+      "end_ix": 3670,
+      "text": "\nSoros, for his part, compared Orban unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's -- when Hungary was allied with Nazi Germany -- and was more oppressive than Cold War Soviet occupation.",
+      "new_text": "\nSoros, for his part, said Orban's rule evoked dark tones from the 1930's -- when Hungary was allied with Nazi Germany -- and was more oppressive than Cold War Soviet occupation.",
+      "prop_spans": [
+        [
+          3450,
+          3514,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3670,
+      "end_ix": 3830,
+      "text": "\nOrban has tightened the screws on non-government organisations, particularly ones funded by Soros, and attempted to close a prominent Soros-founded university.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3830,
+      "end_ix": 4061,
+      "text": "\nAttributing to Soros a recent United Nations plan on creating a global blueprint to handle the migration crisis, Orban said he anticipated that powerful allies would help him prevent the U.N. from greasing the wheels of migration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4061,
+      "end_ix": 4156,
+      "text": "\n\"Soros has antagonised not only us but also England, President Trump and Israel too,\" he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4156,
+      "end_ix": 4204,
+      "text": "\n\"Everywhere he wants to get migration accepted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4204,
+      "end_ix": 4219,
+      "text": "\nIt won't work.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4219,
+      "end_ix": 4289,
+      "text": "\nWe are not alone and we will fight together ... and we will succeed.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4289,
+      "end_ix": 4479,
+      "text": "\nIn Europe, he cited as allies Hungary's fellow Visegrad countries Slovakia, the Czech Republic and Poland, whose ruling Law and Justice (PiS) party is also often at loggerheads with the EU.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4479,
+      "end_ix": 4594,
+      "text": "\nHe said a victory for Silvio Berlusconi's party in Italy's March 4 election would strengthen the nationalist fold.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4594,
+      "end_ix": 4679,
+      "text": "\n\"We don't think the fight is hopeless, on the contrary, we are winning,\" Orban said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4679,
+      "end_ix": 4818,
+      "text": "\n\"The V4 is firm, Croatia has come around, Austria has turned in the patriotic direction, and in Bavaria the CSU has created a resistance.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4818,
+      "end_ix": 4927,
+      "text": "\n(Reporting by Marton Dunai; Editing by Catherine Evans)\nOur Standards: The Thomson Reuters Trust Principles.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      962,
+      1016,
+      "Flag-Waving"
+    ],
+    [
+      1019,
+      1053,
+      "Flag-Waving"
+    ],
+    [
+      1019,
+      1053,
+      "Slogans"
+    ],
+    [
+      1190,
+      1224,
+      "Slogans"
+    ],
+    [
+      1190,
+      1224,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1226,
+      1280,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1973,
+      2004,
+      "Flag-Waving"
+    ],
+    [
+      2063,
+      2092,
+      "Loaded_Language"
+    ],
+    [
+      2237,
+      2323,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2434,
+      2444,
+      "Slogans"
+    ],
+    [
+      2784,
+      2797,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2798,
+      2832,
+      "Loaded_Language"
+    ],
+    [
+      3450,
+      3514,
+      "Reductio_ad_hitlerum"
+    ]
+  ]
+}

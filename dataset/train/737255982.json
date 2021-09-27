@@ -1,0 +1,407 @@
+{
+  "article_id": "737255982",
+  "sentence offsets in original": [
+    0,
+    161,
+    339,
+    349,
+    407,
+    464,
+    623,
+    751,
+    1060,
+    1306,
+    1351,
+    1482,
+    1537,
+    1643,
+    1790,
+    1842,
+    1890,
+    2034,
+    2251,
+    2458,
+    2526,
+    2612,
+    2806,
+    2832
+  ],
+  "original sentences": [
+    "J Street \"Kapos\" May Un-Endorse Dem Rep Over \"Jewish Question\"\n\nAnti-Israel activist group J Street was very outraged when its leaders were described as \"Kapos\".",
+    "\nThe comparison of the Soros funded group that has stood with Hamas over Israel with Jews who were forced to collaborate with the Nazis during the Holocaust was indeed insulting.",
+    "\nTo Kapos.",
+    "\nJews under Nazi rule may have been forced to collaborate.",
+    "\nNo one forced J Street to collaborate with anti-Semites.",
+    "\nAnd here's J Street trying to decide whether to stop endorsing a Democrat who pals around with Farrakhan and defended him by mentioning the \"Jewish question.\"",
+    "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+    "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+    "\nThe congressman wasn\u2019t sure why the ADL wrote that he had been misquoted in his praise for the anti-Semite, and said he wasn\u2019t sure if someone from his office had told the ADL he was misquoted, he told The Daily Caller News Foundation on Sunday.",
+    "\n\u201cI think that was what they wanted to write.",
+    "\nNah, I don\u2019t have no problems with Farrakhan, I don\u2019t spend a whole lot of my time dealing with those kind of things,\u201d Davis said.",
+    "\n\u201cThat\u2019s just one segment of what goes on in our world.",
+    "\nThe world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.",
+    "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nThe \"Jewish Question\" is a term generally used by anti-Semites today.",
+    "\nBut J Street is stuck with its own Jewish Question.",
+    "\nHow much anti-Semitism is too much even for it.",
+    "\nLeft-wing advocacy group J Street said it is re-evaluating its endorsement of a congressman who praised Nation of Islam leader Louis Farrakhan.",
+    "\nJStreetPAC, the arm of the NGO that funds and endorses candidates, currently lists Rep. Danny Davis, an Illinois Democrat from the virulently anti-Semitic Farrakhan\u2019s home base of Chicago, as a candidate it supports.",
+    "\nThe endorsement, first reported in the Forward, calls Davis \u201ca longtime supporter of Israel and a two-state solution.\u201d\nIn J Street's home dimension of Oceania, supporter of Israel means Farrakhan supporter.",
+    "\n\u201cWe take anti-Semitism quite seriously,\u201d J Street\u2019s statement read.",
+    "\n\u201cWe are currently in conversation with Representative Davis\u2019 office about this issue.",
+    "\nWe will get back to you shortly with a more extensive response.\u201d\nSo seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.",
+    "\nThat's serious all right.",
+    "\nSeriously Kapo."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 161,
+      "text": "J Street \"Kapos\" May Un-Endorse Dem Rep Over \"Jewish Question\"\n\nAnti-Israel activist group J Street was very outraged when its leaders were described as \"Kapos\".",
+      "new_text": "J Street \"Kapos\" May Un-Endorse Dem Rep Over \"Jewish Question\"\n\nAnti-Israel activist group J Street was angry when its leaders were described as \"Kapos\".",
+      "prop_spans": [
+        [
+          46,
+          61,
+          "Slogans"
+        ],
+        [
+          100,
+          117,
+          "Loaded_Language"
+        ],
+        [
+          154,
+          161,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 161,
+      "end_ix": 339,
+      "text": "\nThe comparison of the Soros funded group that has stood with Hamas over Israel with Jews who were forced to collaborate with the Nazis during the Holocaust was indeed insulting.",
+      "new_text": "\nThe comparison of the Soros funded group that has stood with Hamas over Israel with Jews who were forced to collaborate with the Nazis during the Holocaust was indeed insulting.",
+      "prop_spans": [
+        [
+          161,
+          161,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 339,
+      "end_ix": 349,
+      "text": "\nTo Kapos.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 349,
+      "end_ix": 407,
+      "text": "\nJews under Nazi rule may have been forced to collaborate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 407,
+      "end_ix": 464,
+      "text": "\nNo one forced J Street to collaborate with anti-Semites.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 464,
+      "end_ix": 623,
+      "text": "\nAnd here's J Street trying to decide whether to stop endorsing a Democrat who pals around with Farrakhan and defended him by mentioning the \"Jewish question.\"",
+      "new_text": "\nAnd here's J Street trying to decide whether to stop endorsing a Democrat who is friends with Farrakhan and defended him by mentioning the \"Jewish question.\"",
+      "prop_spans": [
+        [
+          528,
+          570,
+          "Name_Calling,Labeling"
+        ],
+        [
+          606,
+          621,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 623,
+      "end_ix": 751,
+      "text": "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 751,
+      "end_ix": 1060,
+      "text": "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+      "new_text": "\nFarrakhan\u2019s history of racial comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+      "prop_spans": [
+        [
+          775,
+          801,
+          "Loaded_Language"
+        ],
+        [
+          860,
+          888,
+          "Slogans"
+        ],
+        [
+          860,
+          888,
+          "Loaded_Language"
+        ],
+        [
+          894,
+          936,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1060,
+      "end_ix": 1306,
+      "text": "\nThe congressman wasn\u2019t sure why the ADL wrote that he had been misquoted in his praise for the anti-Semite, and said he wasn\u2019t sure if someone from his office had told the ADL he was misquoted, he told The Daily Caller News Foundation on Sunday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1306,
+      "end_ix": 1351,
+      "text": "\n\u201cI think that was what they wanted to write.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1351,
+      "end_ix": 1482,
+      "text": "\nNah, I don\u2019t have no problems with Farrakhan, I don\u2019t spend a whole lot of my time dealing with those kind of things,\u201d Davis said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1482,
+      "end_ix": 1537,
+      "text": "\n\u201cThat\u2019s just one segment of what goes on in our world.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1537,
+      "end_ix": 1643,
+      "text": "\nThe world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1538,
+          1643,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          1538,
+          1643,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1643,
+      "end_ix": 1790,
+      "text": "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nThe \"Jewish Question\" is a term generally used by anti-Semites today.",
+      "new_text": "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nThe \"Jewish Question\" is a term generally used by anti-Semites today.",
+      "prop_spans": [
+        [
+          1643,
+          1643,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          1643,
+          1643,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1790,
+      "end_ix": 1842,
+      "text": "\nBut J Street is stuck with its own Jewish Question.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1842,
+      "end_ix": 1890,
+      "text": "\nHow much anti-Semitism is too much even for it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1890,
+      "end_ix": 2034,
+      "text": "\nLeft-wing advocacy group J Street said it is re-evaluating its endorsement of a congressman who praised Nation of Islam leader Louis Farrakhan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2034,
+      "end_ix": 2251,
+      "text": "\nJStreetPAC, the arm of the NGO that funds and endorses candidates, currently lists Rep. Danny Davis, an Illinois Democrat from the virulently anti-Semitic Farrakhan\u2019s home base of Chicago, as a candidate it supports.",
+      "new_text": "\nJStreetPAC, the arm of the NGO that funds and endorses candidates, currently lists Rep. Danny Davis, an Illinois Democrat from the anti-Semitic Farrakhan\u2019s home base of Chicago, as a candidate it supports.",
+      "prop_spans": [
+        [
+          2166,
+          2190,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2251,
+      "end_ix": 2458,
+      "text": "\nThe endorsement, first reported in the Forward, calls Davis \u201ca longtime supporter of Israel and a two-state solution.\u201d\nIn J Street's home dimension of Oceania, supporter of Israel means Farrakhan supporter.",
+      "new_text": "\nThe endorsement, first reported in the Forward, calls Davis \u201ca longtime supporter of Israel and a two-state solution.\u201d\nIn J Street's home dimension of Oceania.",
+      "prop_spans": [
+        [
+          2412,
+          2458,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2458,
+      "end_ix": 2526,
+      "text": "\n\u201cWe take anti-Semitism quite seriously,\u201d J Street\u2019s statement read.",
+      "new_text": "\n\u201cWe take anti-Semitism quite seriously,\u201d J Street\u2019s statement read.",
+      "prop_spans": [
+        [
+          2458,
+          2459,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2526,
+      "end_ix": 2612,
+      "text": "\n\u201cWe are currently in conversation with Representative Davis\u2019 office about this issue.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2612,
+      "end_ix": 2806,
+      "text": "\nWe will get back to you shortly with a more extensive response.\u201d\nSo seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.",
+      "new_text": "\nWe will get back to you shortly with a more extensive response.\u201d\nSo it may be that J Street can't decide what to do about a politician who defends a Hitler supporter and raises the Jewish Question.",
+      "prop_spans": [
+        [
+          2678,
+          2717,
+          "Doubt"
+        ],
+        [
+          2760,
+          2774,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2806,
+      "end_ix": 2832,
+      "text": "\nThat's serious all right.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2832,
+      "end_ix": 2848,
+      "text": "\nSeriously Kapo.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      46,
+      61,
+      "Slogans"
+    ],
+    [
+      100,
+      117,
+      "Loaded_Language"
+    ],
+    [
+      154,
+      161,
+      "Name_Calling,Labeling"
+    ],
+    [
+      528,
+      570,
+      "Name_Calling,Labeling"
+    ],
+    [
+      606,
+      621,
+      "Slogans"
+    ],
+    [
+      775,
+      801,
+      "Loaded_Language"
+    ],
+    [
+      860,
+      888,
+      "Slogans"
+    ],
+    [
+      860,
+      888,
+      "Loaded_Language"
+    ],
+    [
+      894,
+      936,
+      "Loaded_Language"
+    ],
+    [
+      1538,
+      1643,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1538,
+      1643,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2166,
+      2190,
+      "Loaded_Language"
+    ],
+    [
+      2412,
+      2459,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2678,
+      2717,
+      "Doubt"
+    ],
+    [
+      2760,
+      2774,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

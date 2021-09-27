@@ -1,0 +1,377 @@
+{
+  "article_id": "728758697",
+  "sentence offsets in original": [
+    0,
+    90,
+    137,
+    227,
+    319,
+    447,
+    756,
+    1057,
+    1220,
+    1231,
+    1404,
+    1455,
+    1481,
+    1511,
+    1585,
+    1600,
+    1656,
+    1696,
+    1745,
+    1789,
+    1837
+  ],
+  "original sentences": [
+    "Dem Congressman Praises Hitler-Loving Anti-Semite\n\nThe media is very interested in racism.",
+    "\nExcept when it's coming from inside the house.",
+    "\nIt's maintained a solid boycott on reporting on the photo of Obama posing with Farrakhan.",
+    "\nDon't count on these comments by a Congressional Black Cacus member to get reported either.",
+    "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+    "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+    "\n\u201cI don\u2019t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,\u201d he emphasized later.",
+    "\nWhen asked about Farrakhan\u2019s history of anti-Semitic comments, Davis was dismissive and said that many people in politics have a history of inflammatory comments.",
+    "\nLike this.",
+    "\nFarrakhan had praised Hitler and declared that the Jews, \"can't say 'Never Again' to God, because when he puts you in the ovens, you're there forever.\u201d\n\"Here come the Jews.",
+    "\nThey don't like Farrakhan, so they call me Hitler.",
+    "\nWell, that's a good name.",
+    "\nHitler was a very great man.\"",
+    "\nWould a Republican get a pass on meeting with a racist hate group leader?",
+    "\nObviously not.",
+    "\nObama's meeting with Farrakhan was part of a CBC event.",
+    "\nThe Caucus has yet to apologize for it.",
+    "\nDon't expect it to condemn Rep. Davis' comments.",
+    "\nHe was just saying what most of them think.",
+    "\nThe media is happy to talk about anti-Semitism.",
+    "\nIt just won't address left-wing anti-Semitism and racism."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 90,
+      "text": "Dem Congressman Praises Hitler-Loving Anti-Semite\n\nThe media is very interested in racism.",
+      "new_text": "Dem Congressman Praises Farrakhan\n\nA general observation, media is very interested in racism.",
+      "prop_spans": [
+        [
+          31,
+          49,
+          "Name_Calling,Labeling"
+        ],
+        [
+          51,
+          89,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 90,
+      "end_ix": 137,
+      "text": "\nExcept when it's coming from inside the house.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 137,
+      "end_ix": 227,
+      "text": "\nIt's maintained a solid boycott on reporting on the photo of Obama posing with Farrakhan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 227,
+      "end_ix": 319,
+      "text": "\nDon't count on these comments by a Congressional Black Cacus member to get reported either.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 319,
+      "end_ix": 447,
+      "text": "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 447,
+      "end_ix": 756,
+      "text": "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 756,
+      "end_ix": 1057,
+      "text": "\n\u201cI don\u2019t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,\u201d he emphasized later.",
+      "new_text": "\n\u201cI don\u2019t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,\u201d he emphasized later.",
+      "prop_spans": [
+        [
+          819,
+          1036,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1057,
+      "end_ix": 1220,
+      "text": "\nWhen asked about Farrakhan\u2019s history of anti-Semitic comments, Davis was dismissive and said that many people in politics have a history of inflammatory comments.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1220,
+      "end_ix": 1231,
+      "text": "\nLike this.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1231,
+      "end_ix": 1404,
+      "text": "\nFarrakhan had praised Hitler and declared that the Jews, \"can't say 'Never Again' to God, because when he puts you in the ovens, you're there forever.\u201d\n\"Here come the Jews.",
+      "new_text": "\nFarrakhan had praised Hitler and declared that the Jews, \"can't say 'Never Again' to God, because when he puts you in the ovens, you're there forever.\u201d\n\"Here come the Jews.",
+      "prop_spans": [
+        [
+          1232,
+          1384,
+          "Reductio_ad_hitlerum"
+        ],
+        [
+          1384,
+          1404,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1404,
+      "end_ix": 1455,
+      "text": "\nThey don't like Farrakhan, so they call me Hitler.",
+      "new_text": "\nThey don't like Farrakhan, so they call me Hitler.",
+      "prop_spans": [
+        [
+          1404,
+          1455,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1455,
+      "end_ix": 1481,
+      "text": "\nWell, that's a good name.",
+      "new_text": "\nWell, that's a good name.",
+      "prop_spans": [
+        [
+          1455,
+          1481,
+          "Reductio_ad_hitlerum"
+        ],
+        [
+          1456,
+          1481,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1481,
+      "end_ix": 1511,
+      "text": "\nHitler was a very great man.\"",
+      "new_text": "\nHitler was a very great man.\"",
+      "prop_spans": [
+        [
+          1481,
+          1511,
+          "Reductio_ad_hitlerum"
+        ],
+        [
+          1481,
+          1509,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1511,
+      "end_ix": 1585,
+      "text": "\nWould a Republican get a pass on meeting with a racist hate group leader?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1511,
+          1512,
+          "Reductio_ad_hitlerum"
+        ],
+        [
+          1512,
+          1585,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1512,
+          1585,
+          "Flag-Waving"
+        ],
+        [
+          1512,
+          1584,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1585,
+      "end_ix": 1600,
+      "text": "\nObviously not.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1585,
+          1600,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1585,
+          1600,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1600,
+      "end_ix": 1656,
+      "text": "\nObama's meeting with Farrakhan was part of a CBC event.",
+      "new_text": "\nObama's meeting with Farrakhan was part of a CBC event.",
+      "prop_spans": [
+        [
+          1600,
+          1601,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1600,
+          1601,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1656,
+      "end_ix": 1696,
+      "text": "\nThe Caucus has yet to apologize for it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1696,
+      "end_ix": 1745,
+      "text": "\nDon't expect it to condemn Rep. Davis' comments.",
+      "new_text": "\nExpectations low for it to condemn Rep. Davis' comments.",
+      "prop_spans": [
+        [
+          1697,
+          1745,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1745,
+      "end_ix": 1789,
+      "text": "\nHe was just saying what most of them think.",
+      "new_text": "\nHe was just saying in accordance with what most of them think.",
+      "prop_spans": [
+        [
+          1745,
+          1789,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1789,
+      "end_ix": 1837,
+      "text": "\nThe media is happy to talk about anti-Semitism.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1789,
+          1790,
+          "Causal_Oversimplification"
+        ],
+        [
+          1790,
+          1836,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1837,
+      "end_ix": 1895,
+      "text": "\nIt just won't address left-wing anti-Semitism and racism.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      31,
+      49,
+      "Name_Calling,Labeling"
+    ],
+    [
+      51,
+      89,
+      "Straw_Men"
+    ],
+    [
+      819,
+      1036,
+      "Appeal_to_Authority"
+    ],
+    [
+      1232,
+      1384,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      1384,
+      1512,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      1456,
+      1509,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1512,
+      1601,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      1512,
+      1601,
+      "Flag-Waving"
+    ],
+    [
+      1512,
+      1584,
+      "Doubt"
+    ],
+    [
+      1697,
+      1790,
+      "Causal_Oversimplification"
+    ],
+    [
+      1790,
+      1836,
+      "Straw_Men"
+    ]
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "article_id": "999001211",
+  "sentence offsets in original": [
+    0,
+    360,
+    580,
+    663,
+    980,
+    1069,
+    1120,
+    1171,
+    1209,
+    1260,
+    1267,
+    1299,
+    1381,
+    1463,
+    1491,
+    1554,
+    1811,
+    1955,
+    2089,
+    2100,
+    2278,
+    2695,
+    2769,
+    3385,
+    3420,
+    3564,
+    3602,
+    3692
+  ],
+  "original sentences": [
+    "White House Outlines Code Of Conduct For White House Press - If Those Don't Work, They'll Be Forced To Write More\n\nFor any constitutionalist, the ruling by Trump-appointed Judge Timothy J. Kelly was nothing but surreal, and honestly, he should be impeached over his frivolous ruling that demanded the White House reinstate CNN reporter Jim Acosta's press pass.",
+    "\nHowever, the White House has decided to comply, which I wonder just how dangerous a precedent this sets, and as a result, White House Press Secretary Sarah Sanders has issued a code of conduct for the White House press.",
+    "\nWe have created these rules with a degree of regret,\u201d Sanders said in a statement.",
+    "\nThe fact that the White House submitted to such a ridiculous demand when it is simple human decency to conduct one's self in a proper manner, unlike how Jim Acosta treated both Sarah Sanders, President Donald Trump and a White House aide, is a testimony to how little those who represent us know of our Constitution.",
+    "\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u201cWe would have greatly preferred to continue hosting White House press conferences in reliance on a set of understood professional norms, and we believe the overwhelming majority of journalists covering the White House share that preference,\u201d Sanders said.",
+    "\n\u201cBut, given the position taken by CNN, we now feel obligated to replace previously shared practices with explicit rules.\u201d\nOh, but there's more.",
+    "\nIf journalists can't conduct themselves according to these rules, then there is no other option but to.... write more explicit rules!",
+    "\nSeriously!",
+    "\n\u201cAt this time, however, we have decided not to frame such rules in the hope that professional journalistic norms will suffice to regulate conduct in those places,\u201d Sanders said.",
+    "\n\u201cIf unprofessional behavior occurs in those settings, or if a court should decide that explicit rules are required to regulate conduct there, we will be forced to reconsider this decision.\u201d\nThe White House should be telling Judge Kelly where he can take his ruling, but they are trying to look like they are on the high ground while submitting to unconstitutional rulings from a federal judge who should know better.",
+    "\nHowever, here are the new rules released by the White House Press Office.",
+    "\n(1) A journalist called upon to ask a question will ask a single question and then will yield the floor to other journalists; (2) At the discretion of the President or other White House official taking questions, a follow-up question or questions may be permitted; and where a follow up has been allowed and asked, the questioner will then yield the floor; (3) \u201cYielding the floor\u201d includes, when applicable, physically surrendering the microphone to White House staff for use by the next questioner; (4) Failure to abide by any of rules (1)-(3) may result in suspension or revocation of the journalist\u2019s hard pass.",
+    "\nI can see this going way downhill.",
+    "\nIf you want to deal with people like Acosta, at the moment they begin to show who and what they really are, stop calling on them for questions.",
+    "\nThis is my advice to the White House.",
+    "\nDon't call on Jim Acosta another time for as long as he remains in the White House Press.",
+    "\nMake him regret it the entire time he is there."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 360,
+      "text": "White House Outlines Code Of Conduct For White House Press - If Those Don't Work, They'll Be Forced To Write More\n\nFor any constitutionalist, the ruling by Trump-appointed Judge Timothy J. Kelly was nothing but surreal, and honestly, he should be impeached over his frivolous ruling that demanded the White House reinstate CNN reporter Jim Acosta's press pass.",
+      "new_text": "White House Outlines Code Of Conduct For White House Press - If Those Don't Work, They'll Be Forced To Write More\n\nFor any constitutionalist, the ruling by Judge Timothy J. Kelly was strange, and honestly, he should be impeached over his ruling that demanded the White House reinstate CNN reporter Jim Acosta's press pass.",
+      "prop_spans": [
+        [
+          156,
+          171,
+          "Name_Calling,Labeling"
+        ],
+        [
+          199,
+          218,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          266,
+          275,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 360,
+      "end_ix": 580,
+      "text": "\nHowever, the White House has decided to comply, which I wonder just how dangerous a precedent this sets, and as a result, White House Press Secretary Sarah Sanders has issued a code of conduct for the White House press.",
+      "new_text": "\nHowever, the White House has decided to comply, which I wonder just how risky a precedent this sets, and as a result, White House Press Secretary Sarah Sanders has issued a code of conduct for the White House press.",
+      "prop_spans": [
+        [
+          433,
+          442,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 580,
+      "end_ix": 663,
+      "text": "\nWe have created these rules with a degree of regret,\u201d Sanders said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 663,
+      "end_ix": 980,
+      "text": "\nThe fact that the White House submitted to such a ridiculous demand when it is simple human decency to conduct one's self in a proper manner, unlike how Jim Acosta treated both Sarah Sanders, President Donald Trump and a White House aide, is a testimony to how little those who represent us know of our Constitution.",
+      "new_text": "\nThe fact that the White House submitted to such a silly demand when it is simple human decency to conduct one's self in a proper manner, unlike how Jim Acosta treated both Sarah Sanders, President Donald Trump and a White House aide, is a testimony to how little those who represent us know of the Constitution.",
+      "prop_spans": [
+        [
+          714,
+          724,
+          "Loaded_Language"
+        ],
+        [
+          952,
+          954,
+          "Flag-Waving"
+        ],
+        [
+          963,
+          979,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 980,
+      "end_ix": 1069,
+      "text": "\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1069,
+      "end_ix": 1120,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1120,
+      "end_ix": 1171,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1171,
+      "end_ix": 1209,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1209,
+      "end_ix": 1260,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1260,
+      "end_ix": 1267,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1267,
+      "end_ix": 1299,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1299,
+      "end_ix": 1381,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1381,
+      "end_ix": 1463,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1463,
+      "end_ix": 1491,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1491,
+      "end_ix": 1554,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1554,
+      "end_ix": 1811,
+      "text": "\n\u201cWe would have greatly preferred to continue hosting White House press conferences in reliance on a set of understood professional norms, and we believe the overwhelming majority of journalists covering the White House share that preference,\u201d Sanders said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1811,
+      "end_ix": 1955,
+      "text": "\n\u201cBut, given the position taken by CNN, we now feel obligated to replace previously shared practices with explicit rules.\u201d\nOh, but there's more.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1955,
+      "end_ix": 2089,
+      "text": "\nIf journalists can't conduct themselves according to these rules, then there is no other option but to.... write more explicit rules!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2089,
+      "end_ix": 2100,
+      "text": "\nSeriously!",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2090,
+          2100,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2100,
+      "end_ix": 2278,
+      "text": "\n\u201cAt this time, however, we have decided not to frame such rules in the hope that professional journalistic norms will suffice to regulate conduct in those places,\u201d Sanders said.",
+      "new_text": "\n\u201cAt this time, however, we have decided not to frame such rules in the hope that professional journalistic norms will suffice to regulate conduct in those places,\u201d Sanders said.",
+      "prop_spans": [
+        [
+          2100,
+          2100,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2278,
+      "end_ix": 2695,
+      "text": "\n\u201cIf unprofessional behavior occurs in those settings, or if a court should decide that explicit rules are required to regulate conduct there, we will be forced to reconsider this decision.\u201d\nThe White House should be telling Judge Kelly where he can take his ruling, but they are trying to look like they are on the high ground while submitting to unconstitutional rulings from a federal judge who should know better.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2695,
+      "end_ix": 2769,
+      "text": "\nHowever, here are the new rules released by the White House Press Office.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2769,
+      "end_ix": 3385,
+      "text": "\n(1) A journalist called upon to ask a question will ask a single question and then will yield the floor to other journalists; (2) At the discretion of the President or other White House official taking questions, a follow-up question or questions may be permitted; and where a follow up has been allowed and asked, the questioner will then yield the floor; (3) \u201cYielding the floor\u201d includes, when applicable, physically surrendering the microphone to White House staff for use by the next questioner; (4) Failure to abide by any of rules (1)-(3) may result in suspension or revocation of the journalist\u2019s hard pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3385,
+      "end_ix": 3420,
+      "text": "\nI can see this going way downhill.",
+      "new_text": "\nI can see this becoming worse.",
+      "prop_spans": [
+        [
+          3386,
+          3419,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3420,
+      "end_ix": 3564,
+      "text": "\nIf you want to deal with people like Acosta, at the moment they begin to show who and what they really are, stop calling on them for questions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3564,
+      "end_ix": 3602,
+      "text": "\nThis is my advice to the White House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3602,
+      "end_ix": 3692,
+      "text": "\nDon't call on Jim Acosta another time for as long as he remains in the White House Press.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3692,
+      "end_ix": 3740,
+      "text": "\nMake him regret it the entire time he is there.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      156,
+      171,
+      "Name_Calling,Labeling"
+    ],
+    [
+      199,
+      218,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      266,
+      275,
+      "Loaded_Language"
+    ],
+    [
+      433,
+      442,
+      "Loaded_Language"
+    ],
+    [
+      714,
+      724,
+      "Loaded_Language"
+    ],
+    [
+      952,
+      954,
+      "Flag-Waving"
+    ],
+    [
+      963,
+      979,
+      "Flag-Waving"
+    ],
+    [
+      2090,
+      2100,
+      "Loaded_Language"
+    ],
+    [
+      3386,
+      3419,
+      "Loaded_Language"
+    ]
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "article_id": "699291100",
+  "sentence offsets in original": [
+    0,
+    562,
+    845,
+    1109,
+    1284,
+    1526,
+    1812,
+    2041,
+    2125,
+    2436,
+    2564,
+    2883,
+    3280,
+    3493,
+    3592,
+    3710,
+    4090,
+    4311,
+    4460,
+    4549,
+    4781,
+    4918,
+    5386,
+    5677,
+    5851,
+    6020,
+    6188,
+    6299
+  ],
+  "original sentences": [
+    "FBI Informant \u201cThreatened\u201d After Offering Details Linking Clinton Foundation To Russian Bribery Case\n\nThis report was originally published by Tyler Durden at Zero Hedge\nWhile the mainstream media has largely ignored it, the scandal surrounding Russian efforts to acquire 20% of America\u2019s uranium reserves, a deal which was ultimately approved by the Obama administration, and more specifically the Committee on Foreign Investment in the United States (CFIUS) which included Hillary Clinton and Eric Holder, is becoming more problematic for Democrats by the hour.",
+    "\nAs The Hill pointed out earlier this morning, the latest development in this sordid tale revolves around a man that the FBI used as an informant back in 2009 and beyond to build a case against a Russian perpetrator who ultimately admitted to bribery, extortion and money laundering.",
+    "\nThe informant, who is so far only known as \u201cConfidential Source 1,\u201d says that when he attempted to come forward last year with information that linked the Clinton Foundation directly to the scandal he was promptly silenced by the FBI and the Obama administration.",
+    "\nWorking as a confidential witness, the businessman made kickback payments to the Russians with the approval of his FBI handlers and gathered other evidence, the records show.",
+    "\nSources told The Hill the informant\u2019s work was crucial to the government\u2019s ability to crack a multimillion dollar racketeering scheme by Russian nuclear officials on U.S. soil that involved bribery, kickbacks, money laundering and extortion.",
+    "\nIn the end, the main Russian executive sent to the U.S. to expand Russian President Vladimir Putin\u2019s nuclear business, an executive of an American trucking firm and a Russian financier from New Jersey pled guilty to various crimes in a case that started in 2009 and ended in late 2015.",
+    "\nToensing added her client has had contact from multiple congressional committees seeking information about what he witnessed inside the Russian nuclear industry and has been unable to provide that information because of the NDA.",
+    "\n\u201cHe can\u2019t disclose anything that he came upon in the course of his work,\u201d she said.",
+    "\nThe information the client possesses includes specific allegations that Russian executives made to him about how they facilitated the Obama administration\u2019s 2010 approval of the Uranium One deal and sent millions of dollars in Russian nuclear funds to the U.S. to an entity assisting Bill Clinton\u2019s foundation.",
+    "\nAt the time, Hillary Clinton was serving as secretary of State on the government panel that approved the deal, the lawyer said.",
+    "\nIt has been previously reported that Bill Clinton accepted $500,000 in Russian speaking fees in 2010 and collected millions more in donations for his foundation from parties with a stake in the Uranium One deal, transactions that both the Clintons and the Obama administration denied had any influence on the approval.",
+    "\nIn the midst of the new discoveries revealed yesterday about the Uranium One case (see: FBI Uncovered Russian Bribery Plot Before Obama Approved Uranium One Deal, Netting Clintons Millions), \u201cConfidential Source 1\u201d has once again hired an attorney, Victoria Toensing, a former Reagan Justice Department official and former chief counsel of the Senate Intelligence Committee, to get his story out.",
+    "\nSitting down with The Hill earlier, Toensing said that the last time her client tried to speak out \u201cboth his reputation and liberty\u201d were \u201cthreatened\u201d by the Obama administration in a effort to force his silence.",
+    "\n\u201cAll of the information about this corruption has not come out,\u201d she said in an interview Tuesday.",
+    "\n\u201cAnd so my client, the same part of my client that made him go into the FBI in the first place, says, \u2018This is wrong.",
+    "\nWhat should I do about it?\u2019\u201d\nToensing said she also possesses memos that recount how the Justice Department last year threatened her client when he attempted to file a lawsuit that could have drawn attention to the Russian corruption during the 2016 presidential race as well as helped him recover some of the money Russians stole from him through kickbacks during the FBI probe.",
+    "\nThe undercover client witnessed \u201ca lot of bribery going on around the U.S.\u201d but was asked by the FBI to sign a nondisclosure agreement (NDA) that prevents him from revealing what he knows to Congress, Toensing explained.",
+    "\nWhen he tried to bring some of the allegations to light in the lawsuit last year, \u201cthe Obama Justice Department threatened him with loss of freedom.",
+    "\nThey said they would bring a criminal case against him for violating an NDA,\u201d she added.",
+    "\nEmails obtained by The Hill show that a civil attorney working with the former undercover witness described the pressure the Justice Department exerted to keep the client from disclosing to a federal court what he knew last summer.",
+    "\n\u201cThe government was taking a very harsh position that threatened both your reputation and liberty,\u201d the civil lawyer wrote in one email.",
+    "\nIn another, she added, \u201cAs you will recall the gov\u2019t made serious threats sufficient to cause you to withdraw your civil complaint.\u201d\nAs we pointed out last summer when Peter Schweizer first released his feature documentary Clinton Cash, the Uranium One deal at the center of this scandal is believed to have netted the Clintons and their Clinton Foundation millions of dollars in donations and \u2018speaking fees\u2019 from Uranium One shareholders and other Russian entities.",
+    "\nRussian Purchase of US Uranium Assets in Return for $145mm in Contributions to the Clinton Foundation \u2013 Bill and Hillary Clinton assisted a Canadian financier, Frank Giustra, and his company, Uranium One, in the acquisition of uranium mining concessions in Kazakhstan and the United States.",
+    "\nSubsequently, the Russian government sought to purchase Uranium One but required approval from the Obama administration given the strategic importance of the uranium assets.",
+    "\nIn the run-up to the approval of the deal by the State Department, nine shareholders of Uranium One just happened to make $145mm in donations to the Clinton Foundation.",
+    "\nMoreover, the New Yorker confirmed that Bill Clinton received $500,000 in speaking fees from a Russian investment bank, with ties to the Kremlin, around the same time.",
+    "\nNeedless to say, the State Department approved the deal giving Russia ownership of 20% of U.S. uranium assets.",
+    "\nMeanwhile, the \u2018journalists\u2019 over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads\u2026"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 562,
+      "text": "FBI Informant \u201cThreatened\u201d After Offering Details Linking Clinton Foundation To Russian Bribery Case\n\nThis report was originally published by Tyler Durden at Zero Hedge\nWhile the mainstream media has largely ignored it, the scandal surrounding Russian efforts to acquire 20% of America\u2019s uranium reserves, a deal which was ultimately approved by the Obama administration, and more specifically the Committee on Foreign Investment in the United States (CFIUS) which included Hillary Clinton and Eric Holder, is becoming more problematic for Democrats by the hour.",
+      "new_text": "FBI Informant Threatened After Offering Details Linking Clinton Foundation To Russian Bribery Case\n\nThis report was originally published by Tyler Durden at Zero Hedge\nWhile the mainstream media has not taken it into their consideration, the scandal surrounding Russian efforts to acquire 20% of America\u2019s uranium reserves, a deal which was ultimately approved by the Obama administration, and more specifically the Committee on Foreign Investment in the United States (CFIUS) which included Hillary Clinton and Eric Holder, is becoming more problematic for Democrats by the hour.",
+      "prop_spans": [
+        [
+          15,
+          25,
+          "Repetition"
+        ],
+        [
+          15,
+          25,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          200,
+          218,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 562,
+      "end_ix": 845,
+      "text": "\nAs The Hill pointed out earlier this morning, the latest development in this sordid tale revolves around a man that the FBI used as an informant back in 2009 and beyond to build a case against a Russian perpetrator who ultimately admitted to bribery, extortion and money laundering.",
+      "new_text": "\nAs The Hill pointed out earlier this morning, the latest development in this tale revolves around a man that the FBI used as an informant back in 2009 and beyond to build a case against a Russian perpetrator who ultimately admitted to bribery, extortion and money laundering.",
+      "prop_spans": [
+        [
+          640,
+          646,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 845,
+      "end_ix": 1109,
+      "text": "\nThe informant, who is so far only known as \u201cConfidential Source 1,\u201d says that when he attempted to come forward last year with information that linked the Clinton Foundation directly to the scandal he was promptly silenced by the FBI and the Obama administration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1109,
+      "end_ix": 1284,
+      "text": "\nWorking as a confidential witness, the businessman made kickback payments to the Russians with the approval of his FBI handlers and gathered other evidence, the records show.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1284,
+      "end_ix": 1526,
+      "text": "\nSources told The Hill the informant\u2019s work was crucial to the government\u2019s ability to crack a multimillion dollar racketeering scheme by Russian nuclear officials on U.S. soil that involved bribery, kickbacks, money laundering and extortion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1526,
+      "end_ix": 1812,
+      "text": "\nIn the end, the main Russian executive sent to the U.S. to expand Russian President Vladimir Putin\u2019s nuclear business, an executive of an American trucking firm and a Russian financier from New Jersey pled guilty to various crimes in a case that started in 2009 and ended in late 2015.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1812,
+      "end_ix": 2041,
+      "text": "\nToensing added her client has had contact from multiple congressional committees seeking information about what he witnessed inside the Russian nuclear industry and has been unable to provide that information because of the NDA.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2041,
+      "end_ix": 2125,
+      "text": "\n\u201cHe can\u2019t disclose anything that he came upon in the course of his work,\u201d she said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2125,
+      "end_ix": 2436,
+      "text": "\nThe information the client possesses includes specific allegations that Russian executives made to him about how they facilitated the Obama administration\u2019s 2010 approval of the Uranium One deal and sent millions of dollars in Russian nuclear funds to the U.S. to an entity assisting Bill Clinton\u2019s foundation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2436,
+      "end_ix": 2564,
+      "text": "\nAt the time, Hillary Clinton was serving as secretary of State on the government panel that approved the deal, the lawyer said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2564,
+      "end_ix": 2883,
+      "text": "\nIt has been previously reported that Bill Clinton accepted $500,000 in Russian speaking fees in 2010 and collected millions more in donations for his foundation from parties with a stake in the Uranium One deal, transactions that both the Clintons and the Obama administration denied had any influence on the approval.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2883,
+      "end_ix": 3280,
+      "text": "\nIn the midst of the new discoveries revealed yesterday about the Uranium One case (see: FBI Uncovered Russian Bribery Plot Before Obama Approved Uranium One Deal, Netting Clintons Millions), \u201cConfidential Source 1\u201d has once again hired an attorney, Victoria Toensing, a former Reagan Justice Department official and former chief counsel of the Senate Intelligence Committee, to get his story out.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3280,
+      "end_ix": 3493,
+      "text": "\nSitting down with The Hill earlier, Toensing said that the last time her client tried to speak out \u201cboth his reputation and liberty\u201d were \u201cthreatened\u201d by the Obama administration in a effort to force his silence.",
+      "new_text": "\nSitting down with The Hill earlier, Toensing said that the last time her client tried to speak out \u201cboth his reputation and liberty\u201d were put at risk by the Obama administration in a effort to force his silence.",
+      "prop_spans": [
+        [
+          3420,
+          3430,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3493,
+      "end_ix": 3592,
+      "text": "\n\u201cAll of the information about this corruption has not come out,\u201d she said in an interview Tuesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3592,
+      "end_ix": 3710,
+      "text": "\n\u201cAnd so my client, the same part of my client that made him go into the FBI in the first place, says, \u2018This is wrong.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3710,
+      "end_ix": 4090,
+      "text": "\nWhat should I do about it?\u2019\u201d\nToensing said she also possesses memos that recount how the Justice Department last year threatened her client when he attempted to file a lawsuit that could have drawn attention to the Russian corruption during the 2016 presidential race as well as helped him recover some of the money Russians stole from him through kickbacks during the FBI probe.",
+      "new_text": "\nWhat should I do about it?\u2019\u201d\nToensing said she also possesses memos that recount how the Justice Department last year threatened her client when he attempted to file a lawsuit that could have drawn attention to the Russian corruption during the 2016 presidential race as well as helped him recover some of the money Russians stole from him through kickbacks during the FBI probe.",
+      "prop_spans": [
+        [
+          3829,
+          3839,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4090,
+      "end_ix": 4311,
+      "text": "\nThe undercover client witnessed \u201ca lot of bribery going on around the U.S.\u201d but was asked by the FBI to sign a nondisclosure agreement (NDA) that prevents him from revealing what he knows to Congress, Toensing explained.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4311,
+      "end_ix": 4460,
+      "text": "\nWhen he tried to bring some of the allegations to light in the lawsuit last year, \u201cthe Obama Justice Department threatened him with loss of freedom.",
+      "new_text": "\nWhen he tried to bring some of the allegations to light in the lawsuit last year, \u201cthe Obama Justice Department warned him with loss of freedom.",
+      "prop_spans": [
+        [
+          4424,
+          4434,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4460,
+      "end_ix": 4549,
+      "text": "\nThey said they would bring a criminal case against him for violating an NDA,\u201d she added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4549,
+      "end_ix": 4781,
+      "text": "\nEmails obtained by The Hill show that a civil attorney working with the former undercover witness described the pressure the Justice Department exerted to keep the client from disclosing to a federal court what he knew last summer.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4781,
+      "end_ix": 4918,
+      "text": "\n\u201cThe government was taking a very harsh position that threatened both your reputation and liberty,\u201d the civil lawyer wrote in one email.",
+      "new_text": "\n\u201cThe government was taking a very stern position that compromised both your reputation and liberty,\u201d the civil lawyer wrote in one email.",
+      "prop_spans": [
+        [
+          4816,
+          4830,
+          "Loaded_Language"
+        ],
+        [
+          4836,
+          4846,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4918,
+      "end_ix": 5386,
+      "text": "\nIn another, she added, \u201cAs you will recall the gov\u2019t made serious threats sufficient to cause you to withdraw your civil complaint.\u201d\nAs we pointed out last summer when Peter Schweizer first released his feature documentary Clinton Cash, the Uranium One deal at the center of this scandal is believed to have netted the Clintons and their Clinton Foundation millions of dollars in donations and \u2018speaking fees\u2019 from Uranium One shareholders and other Russian entities.",
+      "new_text": "\nIn another, she added, \u201cAs you will recall the gov\u2019t made serious threats sufficient to cause you to withdraw your civil complaint.\u201d\nAs we pointed out last summer when Peter Schweizer first released his feature documentary Clinton Cash, the Uranium One deal at the center of this scandal is believed to have netted the Clintons and their Clinton Foundation millions of dollars in donations and \u2018speaking fees\u2019 from Uranium One shareholders and other Russian entities.",
+      "prop_spans": [
+        [
+          4985,
+          4992,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5386,
+      "end_ix": 5677,
+      "text": "\nRussian Purchase of US Uranium Assets in Return for $145mm in Contributions to the Clinton Foundation \u2013 Bill and Hillary Clinton assisted a Canadian financier, Frank Giustra, and his company, Uranium One, in the acquisition of uranium mining concessions in Kazakhstan and the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5677,
+      "end_ix": 5851,
+      "text": "\nSubsequently, the Russian government sought to purchase Uranium One but required approval from the Obama administration given the strategic importance of the uranium assets.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5851,
+      "end_ix": 6020,
+      "text": "\nIn the run-up to the approval of the deal by the State Department, nine shareholders of Uranium One just happened to make $145mm in donations to the Clinton Foundation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6020,
+      "end_ix": 6188,
+      "text": "\nMoreover, the New Yorker confirmed that Bill Clinton received $500,000 in speaking fees from a Russian investment bank, with ties to the Kremlin, around the same time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6188,
+      "end_ix": 6299,
+      "text": "\nNeedless to say, the State Department approved the deal giving Russia ownership of 20% of U.S. uranium assets.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6299,
+      "end_ix": 6429,
+      "text": "\nMeanwhile, the \u2018journalists\u2019 over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads\u2026",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      15,
+      25,
+      "Repetition"
+    ],
+    [
+      15,
+      25,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      200,
+      218,
+      "Loaded_Language"
+    ],
+    [
+      640,
+      646,
+      "Loaded_Language"
+    ],
+    [
+      3420,
+      3430,
+      "Repetition"
+    ],
+    [
+      3829,
+      3839,
+      "Repetition"
+    ],
+    [
+      4424,
+      4434,
+      "Repetition"
+    ],
+    [
+      4816,
+      4830,
+      "Loaded_Language"
+    ],
+    [
+      4836,
+      4846,
+      "Repetition"
+    ],
+    [
+      4985,
+      4992,
+      "Repetition"
+    ]
+  ]
+}

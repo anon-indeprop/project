@@ -1,0 +1,495 @@
+{
+  "article_id": "759337941",
+  "sentence offsets in original": [
+    0,
+    112,
+    132,
+    183,
+    253,
+    295,
+    362,
+    482,
+    574,
+    677,
+    742,
+    807,
+    1010,
+    1092,
+    1120,
+    1183,
+    1279,
+    1450,
+    1579,
+    1731,
+    2586,
+    2765,
+    2826,
+    3011,
+    3092,
+    3464,
+    3539,
+    3630
+  ],
+  "original sentences": [
+    "Capitol Police \u201cAccidentally\u201d Gave Treasure Trove of Evidence To Muslim IT Spy's Defense Attorney\n\nAccidentally?",
+    "\nColor me skeptical.",
+    "\nThe Democrats are criminal, treasonous and sleazy.",
+    "\nThey gave this jihadi unfettered access to national security secrets.",
+    "\nHe then transferred the data to Pakistan.",
+    "\nAnd the most powerful Democrats continue to protect jihad-treason.",
+    "\nThe Democrat leadership collusion with Muslim spies is the biggest story of treason and espionage in the recent memory.",
+    "\nAs the scandal widens and worsens, the media goes to extraordinary lengths not to cover it.",
+    "\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nHellbent to destroy President Trump, they toil in Soviet fictions and titillating porn stories.",
+    "\nHouse investigators found the House server was being used for nefarious purposes and the alleged Muslim spies were removing information and sending it for foreign actors.",
+    "\nThe aides named are Imran Awan, his wife Hina Alvi, his brothers Abid and Jamal, and his friend Rao Abbas, Pakistani-born aides.",
+    "\nNow we hear the father of Muslim spy ring Imran Awan transferred a USB drive to a Pakistani senator and former head of a Pakistani intelligence agency.",
+    "\nCAPITOL POLICE ACCIDENTALLY GAVE EVIDENCE TO HOUSE HACKING SUSPECT\u2019S DEFENSE ATTORNEY By Luke Rosiak on May 24, 2018:\nThe House IG said Democratic IT aides made unauthorized access to data, but prosecutors haven\u2019t charged them\nDemocrats appear to want to keep the case out of court; a trial could expose their reckless IT practices\nCapitol Police didn\u2019t make arrests despite numerous red flags and then \u2018inadvertently\u2019 gave evidence to defense attorneys that was supposed to go to prosecutors\nProsecutors appear to be sharing info with someone on Capitol Hill who is leaking details to the hacking suspect\u2019s lawyer\nThe Capitol Police turned over a trove of evidence in the alleged Imran Awan House cyberbreach and theft case to the defense attorneys when they were supposed to deliver it to prosecutors instead, according to court documents and a source.",
+    "\nAnd hours after The Daily Caller News Foundation asked prosecutors about the disclosure, Awan\u2019s lawyer said he had learned of the forthcoming story from a source on Capitol Hill.",
+    "\nTheDCNF had not told anyone other than prosecutors about it.",
+    "\n\u201cThe cop came to [Awan\u2019s defense attorney] Chris Gowen\u2019s office with a stack of papers \u2026 Then he came back and said, \u2018I thought you guys were the other party.\u2019 He was very, very angry.",
+    "\nBut Gowen made copies,\u201d the source, who\u2019s familiar with The Awans, told TheDCNF.",
+    "\nAwan, three relatives and a friend ran IT for one in five House Democrats and could read all their emails and files until they were banned on Feb. 2, 2017, for \u201cnumerous violations of House security policies.\u201d The violations alleged by the House Office of Inspector General include logging into the House Democratic Caucus server thousands of times without authorization.",
+    "\nThis allegedly occurred during the same period in 2016 the DNC was hacked.",
+    "\nProsecutor Michael Marando alluded to the disclosure of evidence in court on Oct. 6, 2017.",
+    "\nArticle posted with permission from Pamela Geller"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 112,
+      "text": "Capitol Police \u201cAccidentally\u201d Gave Treasure Trove of Evidence To Muslim IT Spy's Defense Attorney\n\nAccidentally?",
+      "new_text": "Capitol Police \u201cAccidentally\u201d Gave Evidence To IT Spy's Defense Attorney",
+      "prop_spans": [
+        [
+          35,
+          62,
+          "Loaded_Language"
+        ],
+        [
+          65,
+          97,
+          "Name_Calling,Labeling"
+        ],
+        [
+          99,
+          111,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 112,
+      "end_ix": 132,
+      "text": "\nColor me skeptical.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          113,
+          131,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 132,
+      "end_ix": 183,
+      "text": "\nThe Democrats are criminal, treasonous and sleazy.",
+      "new_text": "\nThe Democrats are wrongdoers.",
+      "prop_spans": [
+        [
+          133,
+          182,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 183,
+      "end_ix": 253,
+      "text": "\nThey gave this jihadi unfettered access to national security secrets.",
+      "new_text": "\nThey gave this person unfettered access to national security secrets.",
+      "prop_spans": [
+        [
+          194,
+          206,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 253,
+      "end_ix": 295,
+      "text": "\nHe then transferred the data to Pakistan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 295,
+      "end_ix": 362,
+      "text": "\nAnd the most powerful Democrats continue to protect jihad-treason.",
+      "new_text": "\nAnd Democrats continue to protect treason.",
+      "prop_spans": [
+        [
+          304,
+          328,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          348,
+          361,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 362,
+      "end_ix": 482,
+      "text": "\nThe Democrat leadership collusion with Muslim spies is the biggest story of treason and espionage in the recent memory.",
+      "new_text": "\nThe Democrat leadership collusion with spies is a big story of treason and espionage in the recent memory.",
+      "prop_spans": [
+        [
+          402,
+          415,
+          "Name_Calling,Labeling"
+        ],
+        [
+          418,
+          481,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 482,
+      "end_ix": 574,
+      "text": "\nAs the scandal widens and worsens, the media goes to extraordinary lengths not to cover it.",
+      "new_text": "\nAs the scandal widens and worsens, the media goes to huge lengths not to cover it.",
+      "prop_spans": [
+        [
+          528,
+          558,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 574,
+      "end_ix": 677,
+      "text": "\ntake our poll - story continues below\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 677,
+      "end_ix": 742,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 742,
+      "end_ix": 807,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 807,
+      "end_ix": 1010,
+      "text": "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1010,
+      "end_ix": 1092,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1092,
+      "end_ix": 1120,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1120,
+      "end_ix": 1183,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1183,
+      "end_ix": 1279,
+      "text": "\nHellbent to destroy President Trump, they toil in Soviet fictions and titillating porn stories.",
+      "new_text": "\nMotivated to defeat President Trump, they toil in Soviet fictions and explicit stories.",
+      "prop_spans": [
+        [
+          1184,
+          1219,
+          "Loaded_Language"
+        ],
+        [
+          1226,
+          1278,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1279,
+      "end_ix": 1450,
+      "text": "\nHouse investigators found the House server was being used for nefarious purposes and the alleged Muslim spies were removing information and sending it for foreign actors.",
+      "new_text": "\nHouse investigators found the House server was being used for atrocious purposes and the alleged spies were removing information and sending it for foreign actors.",
+      "prop_spans": [
+        [
+          1342,
+          1361,
+          "Loaded_Language"
+        ],
+        [
+          1369,
+          1390,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1450,
+      "end_ix": 1579,
+      "text": "\nThe aides named are Imran Awan, his wife Hina Alvi, his brothers Abid and Jamal, and his friend Rao Abbas, Pakistani-born aides.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1579,
+      "end_ix": 1731,
+      "text": "\nNow we hear the father of Muslim spy ring Imran Awan transferred a USB drive to a Pakistani senator and former head of a Pakistani intelligence agency.",
+      "new_text": "\nNow we hear the father of spy ring Imran Awan transferred a USB drive to a Pakistani senator and former head of a Pakistani intelligence agency.",
+      "prop_spans": [
+        [
+          1606,
+          1622,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1606,
+          1617,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1731,
+      "end_ix": 2586,
+      "text": "\nCAPITOL POLICE ACCIDENTALLY GAVE EVIDENCE TO HOUSE HACKING SUSPECT\u2019S DEFENSE ATTORNEY By Luke Rosiak on May 24, 2018:\nThe House IG said Democratic IT aides made unauthorized access to data, but prosecutors haven\u2019t charged them\nDemocrats appear to want to keep the case out of court; a trial could expose their reckless IT practices\nCapitol Police didn\u2019t make arrests despite numerous red flags and then \u2018inadvertently\u2019 gave evidence to defense attorneys that was supposed to go to prosecutors\nProsecutors appear to be sharing info with someone on Capitol Hill who is leaking details to the hacking suspect\u2019s lawyer\nThe Capitol Police turned over a trove of evidence in the alleged Imran Awan House cyberbreach and theft case to the defense attorneys when they were supposed to deliver it to prosecutors instead, according to court documents and a source.",
+      "new_text": "\nCAPITOL POLICE ACCIDENTALLY GAVE EVIDENCE TO SUSPECT\u2019S DEFENSE ATTORNEY By Luke Rosiak on May 24, 2018:\nThe House IG said Democratic IT aides made unauthorized access to data, but prosecutors haven\u2019t charged them\nDemocrats appear to want to keep the case out of court; a trial could expose their careless IT practices\nCapitol Police didn\u2019t make arrests despite numerous red flags and then \u2018inadvertently\u2019 gave evidence to defense attorneys that was supposed to go to prosecutors\nProsecutors appear to be sharing info with someone on Capitol Hill who is leaking details to the hacking suspect\u2019s lawyer\nThe Capitol Police turned over a trove of evidence in the alleged Imran Awan House cyberbreach and theft case to the defense attorneys when they were supposed to deliver it to prosecutors instead, according to court documents and a source.",
+      "prop_spans": [
+        [
+          1777,
+          1818,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2042,
+          2063,
+          "Loaded_Language"
+        ],
+        [
+          2064,
+          2224,
+          "Doubt"
+        ],
+        [
+          2380,
+          2398,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2586,
+      "end_ix": 2765,
+      "text": "\nAnd hours after The Daily Caller News Foundation asked prosecutors about the disclosure, Awan\u2019s lawyer said he had learned of the forthcoming story from a source on Capitol Hill.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2765,
+      "end_ix": 2826,
+      "text": "\nTheDCNF had not told anyone other than prosecutors about it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2826,
+      "end_ix": 3011,
+      "text": "\n\u201cThe cop came to [Awan\u2019s defense attorney] Chris Gowen\u2019s office with a stack of papers \u2026 Then he came back and said, \u2018I thought you guys were the other party.\u2019 He was very, very angry.",
+      "new_text": "\n\u201cThe cop came to [Awan\u2019s defense attorney] Chris Gowen\u2019s office with a stack of papers \u2026 Then he came back and said, \u2018I thought you guys were the other party.\u2019 He was angry.",
+      "prop_spans": [
+        [
+          2987,
+          3010,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3011,
+      "end_ix": 3092,
+      "text": "\nBut Gowen made copies,\u201d the source, who\u2019s familiar with The Awans, told TheDCNF.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3092,
+      "end_ix": 3464,
+      "text": "\nAwan, three relatives and a friend ran IT for one in five House Democrats and could read all their emails and files until they were banned on Feb. 2, 2017, for \u201cnumerous violations of House security policies.\u201d The violations alleged by the House Office of Inspector General include logging into the House Democratic Caucus server thousands of times without authorization.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3464,
+      "end_ix": 3539,
+      "text": "\nThis allegedly occurred during the same period in 2016 the DNC was hacked.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3539,
+      "end_ix": 3630,
+      "text": "\nProsecutor Michael Marando alluded to the disclosure of evidence in court on Oct. 6, 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3630,
+      "end_ix": 3680,
+      "text": "\nArticle posted with permission from Pamela Geller",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      35,
+      62,
+      "Loaded_Language"
+    ],
+    [
+      65,
+      97,
+      "Name_Calling,Labeling"
+    ],
+    [
+      99,
+      111,
+      "Doubt"
+    ],
+    [
+      113,
+      131,
+      "Loaded_Language"
+    ],
+    [
+      133,
+      182,
+      "Name_Calling,Labeling"
+    ],
+    [
+      194,
+      206,
+      "Name_Calling,Labeling"
+    ],
+    [
+      304,
+      328,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      348,
+      361,
+      "Loaded_Language"
+    ],
+    [
+      402,
+      415,
+      "Name_Calling,Labeling"
+    ],
+    [
+      418,
+      481,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      528,
+      558,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1184,
+      1219,
+      "Loaded_Language"
+    ],
+    [
+      1226,
+      1278,
+      "Loaded_Language"
+    ],
+    [
+      1342,
+      1361,
+      "Loaded_Language"
+    ],
+    [
+      1369,
+      1390,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1606,
+      1622,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1606,
+      1617,
+      "Repetition"
+    ],
+    [
+      1777,
+      1818,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2042,
+      2063,
+      "Loaded_Language"
+    ],
+    [
+      2064,
+      2224,
+      "Doubt"
+    ],
+    [
+      2380,
+      2398,
+      "Loaded_Language"
+    ],
+    [
+      2987,
+      3010,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

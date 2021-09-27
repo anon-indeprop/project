@@ -1,0 +1,572 @@
+{
+  "article_id": "774007496",
+  "sentence offsets in original": [
+    0,
+    141,
+    157,
+    492,
+    531,
+    573,
+    603,
+    724,
+    797,
+    997,
+    1008,
+    1095,
+    1321,
+    1475,
+    1639,
+    1668,
+    1771,
+    1871,
+    1919,
+    2023,
+    2122,
+    2137,
+    2255,
+    2273,
+    2291,
+    2400,
+    2415,
+    2705,
+    2745,
+    2773,
+    2848,
+    3054,
+    3105,
+    3133,
+    3188,
+    3294
+  ],
+  "original sentences": [
+    "French Authorities Blame Attack by Muslim Shouting, \"Allahu Akbar\" on \"Excitement\"\n\nOver-excitement is a serious problem in the Muslim world.",
+    "\nAnd outside it.",
+    "\nWhile the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting \"Allah Akbar\".",
+    "\nLong live Hitler, to death the Jews. \"",
+    "\nIt can't be a case of Muslim Judeophobia.",
+    "\n(That would be Islamophobic.)",
+    "\nAnd since we're in Europe, it's time to default to the standard excuse, mental illness, current flavor, over-excitement.",
+    "\nThe police quickly intervened to save the victim who lodged a complaint.",
+    "\nThe anti-Semitic attacker was arrested and placed in police custody and then transferred to the psychiatric infirmary, on the recommendation of the doctor because of his observed state of excitement.",
+    "\nIt's okay.",
+    "\nGetting really excited about Jews is a common problem among Muslim settlers in France.",
+    "\nEarlier this month, the suspect in the alleged murder of a Jewish physician in Paris was deemed not responsible for his actions in a second psychiatric evaluation ordered by a judge even though the defense did not request it.",
+    "\nThe suspect, Traore Kobili, is scheduled to have a third evaluation to determine his ability to stand trial for the murder of Sarah Halimi in April 2017.",
+    "\nHe is alleged to have beaten her to death while calling her a demon and shouting about Allah before throwing her body from the window of her third-story apartment.",
+    "\nThey're all crazy in Europe.",
+    "\nA Muslim terrorist stabbed four people at a train station near Munich while screaming, \u201cAllahu Akbar\u201d.",
+    "\nIn between proclaiming the glory of Allah, he also shouted that his victims were all \u201cunbelievers\u201d.",
+    "\nA woman heard him say, \u201cInfidel, you must die\u201d.",
+    "\nThe German authorities came to the inescapable conclusion that the attack had nothing to do with Islam.",
+    "\nInstead the Muslim terrorist had been \u201cmentally ill\u201d and was probably not even fit to stand trial.",
+    "\nAnd in Russia.",
+    "\nGyulchekhra Bobokulova beheaded a 4-year-old girl and displayed her head in the street while shouting, \u201cAllahu Akbar.",
+    "\nI hate democracy.",
+    "\nI am a terrorist.",
+    "\nI want you dead.\u201d Faced with these bafflingly inscrutable statements, the authorities blamed mental illness.",
+    "\nAnd Amsterdam.",
+    "\nIn May, Malek, a Syrian refugee, stabbed three people in The Hague while shouting, \u201cAllahu Akbar.\u201d The Syrian had previously thanked the Dutch people for their hospitality by shouting, \u201cAllahu Akbar,\u201d and throwing pieces of furniture out of the window of his apartment and into the street.",
+    "\nOn the loose, Malek cut a man\u2019s throat.",
+    "\nHe also stabbed two others.",
+    "\nPolice shot him in the leg, ruled out terrorism and blamed mental illness.",
+    "\nIn December of last year, Saleh Ali, a Syrian refugee wearing a keffiyah and waving a terrorist PLO flag, went up to a Jewish restaurant in Amsterdam, shouted \u201cAllahu Akbar\u201d and began smashing the windows.",
+    "\nThe police stood by and watched until he was done.",
+    "\nAnd then they arrested him.",
+    "\nAli admitted to having fought with Jihadists in Syria.",
+    "\nSo the system decided that he needed a psychiatric evaluation\nMaybe it's not the terrorists who are nuts.",
+    "\nMaybe it's the authorities who are insane."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 141,
+      "text": "French Authorities Blame Attack by Muslim Shouting, \"Allahu Akbar\" on \"Excitement\"\n\nOver-excitement is a serious problem in the Muslim world.",
+      "new_text": "French Authorities Blame Attack by Muslim Shouting, \"Allahu Akbar\" on \"Excitement\"",
+      "prop_spans": [
+        [
+          84,
+          140,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ]
+      ]
+    },
+    {
+      "start_ix": 141,
+      "end_ix": 157,
+      "text": "\nAnd outside it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 157,
+      "end_ix": 492,
+      "text": "\nWhile the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting \"Allah Akbar\".",
+      "new_text": "\nWhile the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting \"Allah Akbar\".",
+      "prop_spans": [
+        [
+          478,
+          491,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 492,
+      "end_ix": 531,
+      "text": "\nLong live Hitler, to death the Jews. \"",
+      "new_text": "\nLong live Hitler, to death the Jews. \"",
+      "prop_spans": [
+        [
+          493,
+          528,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 531,
+      "end_ix": 573,
+      "text": "\nIt can't be a case of Muslim Judeophobia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 573,
+      "end_ix": 603,
+      "text": "\n(That would be Islamophobic.)",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 603,
+      "end_ix": 724,
+      "text": "\nAnd since we're in Europe, it's time to default to the standard excuse, mental illness, current flavor, over-excitement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 724,
+      "end_ix": 797,
+      "text": "\nThe police quickly intervened to save the victim who lodged a complaint.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 797,
+      "end_ix": 997,
+      "text": "\nThe anti-Semitic attacker was arrested and placed in police custody and then transferred to the psychiatric infirmary, on the recommendation of the doctor because of his observed state of excitement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 997,
+      "end_ix": 1008,
+      "text": "\nIt's okay.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1008,
+      "end_ix": 1095,
+      "text": "\nGetting really excited about Jews is a common problem among Muslim settlers in France.",
+      "new_text": "\nGetting excited about Jews is a common problem among Muslim settlers in France.",
+      "prop_spans": [
+        [
+          1017,
+          1031,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1095,
+      "end_ix": 1321,
+      "text": "\nEarlier this month, the suspect in the alleged murder of a Jewish physician in Paris was deemed not responsible for his actions in a second psychiatric evaluation ordered by a judge even though the defense did not request it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1321,
+      "end_ix": 1475,
+      "text": "\nThe suspect, Traore Kobili, is scheduled to have a third evaluation to determine his ability to stand trial for the murder of Sarah Halimi in April 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1475,
+      "end_ix": 1639,
+      "text": "\nHe is alleged to have beaten her to death while calling her a demon and shouting about Allah before throwing her body from the window of her third-story apartment.",
+      "new_text": "\nHe is alleged to have killed her while calling her a demon and shouting about Allah before throwing her body from the window of her third-story apartment.",
+      "prop_spans": [
+        [
+          1498,
+          1517,
+          "Loaded_Language"
+        ],
+        [
+          1538,
+          1543,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1639,
+      "end_ix": 1668,
+      "text": "\nThey're all crazy in Europe.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1640,
+          1667,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1668,
+      "end_ix": 1771,
+      "text": "\nA Muslim terrorist stabbed four people at a train station near Munich while screaming, \u201cAllahu Akbar\u201d.",
+      "new_text": "\nA Muslim terrorist stabbed four people at a train station near Munich while screaming, \u201cAllahu Akbar\u201d.",
+      "prop_spans": [
+        [
+          1756,
+          1771,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1771,
+      "end_ix": 1871,
+      "text": "\nIn between proclaiming the glory of Allah, he also shouted that his victims were all \u201cunbelievers\u201d.",
+      "new_text": "\nIn between proclaiming the glory of Allah, he also shouted that his victims were all \u201cunbelievers\u201d.",
+      "prop_spans": [
+        [
+          1771,
+          1771,
+          "Repetition"
+        ],
+        [
+          1857,
+          1871,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1871,
+      "end_ix": 1919,
+      "text": "\nA woman heard him say, \u201cInfidel, you must die\u201d.",
+      "new_text": "\nA woman heard him say, \u201cInfidel, you must die\u201d.",
+      "prop_spans": [
+        [
+          1871,
+          1871,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1895,
+          1918,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1919,
+      "end_ix": 2023,
+      "text": "\nThe German authorities came to the inescapable conclusion that the attack had nothing to do with Islam.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2023,
+      "end_ix": 2122,
+      "text": "\nInstead the Muslim terrorist had been \u201cmentally ill\u201d and was probably not even fit to stand trial.",
+      "new_text": "\nInstead the Muslim terrorist had been suffering from mental problems and was probably not even fit to stand trial.",
+      "prop_spans": [
+        [
+          2062,
+          2076,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2122,
+      "end_ix": 2137,
+      "text": "\nAnd in Russia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2137,
+      "end_ix": 2255,
+      "text": "\nGyulchekhra Bobokulova beheaded a 4-year-old girl and displayed her head in the street while shouting, \u201cAllahu Akbar.",
+      "new_text": "\nGyulchekhra Bobokulova beheaded a 4-year-old girl and displayed her head in the street while shouting, \u201cAllahu Akbar.",
+      "prop_spans": [
+        [
+          2161,
+          2169,
+          "Loaded_Language"
+        ],
+        [
+          2242,
+          2254,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2255,
+      "end_ix": 2273,
+      "text": "\nI hate democracy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2273,
+      "end_ix": 2291,
+      "text": "\nI am a terrorist.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2291,
+      "end_ix": 2400,
+      "text": "\nI want you dead.\u201d Faced with these bafflingly inscrutable statements, the authorities blamed mental illness.",
+      "new_text": "\nI want you dead.\u201d Faced with these bafflingly inscrutable statements, the authorities blamed mental illness.",
+      "prop_spans": [
+        [
+          2385,
+          2399,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2400,
+      "end_ix": 2415,
+      "text": "\nAnd Amsterdam.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2415,
+      "end_ix": 2705,
+      "text": "\nIn May, Malek, a Syrian refugee, stabbed three people in The Hague while shouting, \u201cAllahu Akbar.\u201d The Syrian had previously thanked the Dutch people for their hospitality by shouting, \u201cAllahu Akbar,\u201d and throwing pieces of furniture out of the window of his apartment and into the street.",
+      "new_text": "\nIn May, Malek, a Syrian refugee, stabbed three people in The Hague while shouting, \u201cAllahu Akbar.\u201d The Syrian had previously thanked the Dutch people for their hospitality by shouting, \u201cAllahu Akbar,\u201d and throwing pieces of furniture out of the window of his apartment and into the street.",
+      "prop_spans": [
+        [
+          2500,
+          2512,
+          "Repetition"
+        ],
+        [
+          2602,
+          2614,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2705,
+      "end_ix": 2745,
+      "text": "\nOn the loose, Malek cut a man\u2019s throat.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2745,
+      "end_ix": 2773,
+      "text": "\nHe also stabbed two others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2773,
+      "end_ix": 2848,
+      "text": "\nPolice shot him in the leg, ruled out terrorism and blamed mental illness.",
+      "new_text": "\nPolice shot him in the leg, ruled out terrorism and blamed psychological issues.",
+      "prop_spans": [
+        [
+          2833,
+          2847,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2848,
+      "end_ix": 3054,
+      "text": "\nIn December of last year, Saleh Ali, a Syrian refugee wearing a keffiyah and waving a terrorist PLO flag, went up to a Jewish restaurant in Amsterdam, shouted \u201cAllahu Akbar\u201d and began smashing the windows.",
+      "new_text": "\nIn December of last year, Saleh Ali, a Syrian refugee wearing a keffiyah and waving a terrorist PLO flag, went up to a Jewish restaurant in Amsterdam, shouted \u201cAllahu Akbar\u201d and began smashing the windows.",
+      "prop_spans": [
+        [
+          3008,
+          3022,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3054,
+      "end_ix": 3105,
+      "text": "\nThe police stood by and watched until he was done.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3105,
+      "end_ix": 3133,
+      "text": "\nAnd then they arrested him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3133,
+      "end_ix": 3188,
+      "text": "\nAli admitted to having fought with Jihadists in Syria.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3188,
+      "end_ix": 3294,
+      "text": "\nSo the system decided that he needed a psychiatric evaluation\nMaybe it's not the terrorists who are nuts.",
+      "new_text": "\nSo the system decided that he needed a psychiatric evaluation\nMaybe it's not the terrorists who have issues.",
+      "prop_spans": [
+        [
+          3289,
+          3293,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3294,
+      "end_ix": 3337,
+      "text": "\nMaybe it's the authorities who are insane.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3295,
+          3336,
+          "Doubt"
+        ],
+        [
+          3330,
+          3336,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      84,
+      140,
+      "Obfuscation,Intentional_Vagueness,Confusion"
+    ],
+    [
+      478,
+      491,
+      "Repetition"
+    ],
+    [
+      493,
+      528,
+      "Slogans"
+    ],
+    [
+      1017,
+      1031,
+      "Loaded_Language"
+    ],
+    [
+      1498,
+      1517,
+      "Loaded_Language"
+    ],
+    [
+      1538,
+      1543,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1640,
+      1667,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1756,
+      1771,
+      "Repetition"
+    ],
+    [
+      1857,
+      1871,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1895,
+      1918,
+      "Loaded_Language"
+    ],
+    [
+      2062,
+      2076,
+      "Repetition"
+    ],
+    [
+      2161,
+      2169,
+      "Loaded_Language"
+    ],
+    [
+      2242,
+      2254,
+      "Repetition"
+    ],
+    [
+      2385,
+      2399,
+      "Repetition"
+    ],
+    [
+      2500,
+      2512,
+      "Repetition"
+    ],
+    [
+      2602,
+      2614,
+      "Repetition"
+    ],
+    [
+      2833,
+      2847,
+      "Repetition"
+    ],
+    [
+      3008,
+      3022,
+      "Repetition"
+    ],
+    [
+      3289,
+      3293,
+      "Loaded_Language"
+    ],
+    [
+      3295,
+      3336,
+      "Doubt"
+    ],
+    [
+      3330,
+      3336,
+      "Loaded_Language"
+    ]
+  ]
+}

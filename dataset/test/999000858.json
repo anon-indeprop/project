@@ -1,0 +1,499 @@
+{
+  "article_id": "999000858",
+  "sentence offsets in original": [
+    0,
+    178,
+    376,
+    518,
+    648,
+    769,
+    1001,
+    1090,
+    1141,
+    1192,
+    1230,
+    1281,
+    1288,
+    1320,
+    1402,
+    1485,
+    1513,
+    1576,
+    1818,
+    2017,
+    2558,
+    2643,
+    2836,
+    2953,
+    3097,
+    3432,
+    3554,
+    3897,
+    4109,
+    4358,
+    4442,
+    4483,
+    4522
+  ],
+  "original sentences": [
+    "Stacey Abrams to Sue Georgia Over \u2018Gross Mismanagement\u2019 of Elections\n\nStacey Abrams quits race for governor of Georgia, accusing rival Republican Brian Kemp of voter suppression.",
+    "\n1.2k SHARES Facebook Twitter\nGeorgia gubernatorial candidate Stacey Abrams may have begrudgingly recognized her rival\u2019s victory, but she is far from done fighting for what she believes was her due.",
+    "\nWith a team of three dozen lawyers, Abrams has announced she would file a federal suit against Georgia for \u201cgross mismanagement\u201d of the vote.",
+    "\nAbrams and civil rights groups accused the winner, Republican Brian Kemp of purging thousands from voting rolls in that capacity.",
+    "\nAbrams remained about 18,000 votes short of a result that would have required a runoff between her and Kamp in December.",
+    "\nThe Associated Press (AP) reported her team amassed nearly three-dozen lawyers who will draft a petition, along with affidavits from voters and would-be voters who argue that they were allegedly disenfranchised during the election.",
+    "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u201cIn the coming days, we will be filing a major federal lawsuit against the state of Georgia for the gross mismanagement of this election and to protect future elections from unconstitutional actions,\u201d Abrams said, though she gave no details.",
+    "\nIn the coming days, we will be filing a major federal lawsuit against the state of Georgia for the gross mismanagement of this election and to protect future elections from unconstitutional actions.",
+    "\n#gapol \u2014 Stacey Abrams (@staceyabrams) November 17, 2018\nIn a speech on Nov. 19 right at the cutoff for Georgia counties to certify election results, Abrams delivered a speech in which she said, \u201cI acknowledge that former Secretary of State Brian Kemp will be certified as the victor in the 2018 gubernatorial election.\u201d However, Abrams said Kemp had relied on \u201csuppression of the people\u2019s democratic right to vote\u201d that was \u201cdeliberate and intentional.\u201d\nKemp tried to move past the contentious campaign even if his opponent wasn\u2019t willing.",
+    "\n\u201cThe election is over and hardworking Georgians are ready to move forward,\u201d he said.",
+    "\n\u201cWe can no longer dwell on the divisive politics of the past but must focus on Georgia\u2019s bright and promising future.\u201d\nThe election is over and hardworking Georgians are ready to move forward.",
+    "\nWe can no longer dwell on the divisive politics of the past but must focus on Georgia\u2019s bright and promising future.",
+    "\n#gapol (1 of 3) \u2014 Brian Kemp (@BrianKempGA) November 16, 2018\nBreitbart reports:\nAbrams could decide as early as Friday whether to go to court.",
+    "\nUnder Georgia election law, a losing candidate can challenge the result of an election based on \u201cmisconduct, fraud or irregularities \u2026 sufficient to change or place in doubt the results.\u201d\nAllegra Lawrence-Hardy, Abrams\u2019 campaign chair, said that her legal team is \u201cconsidering all options,\u201d which also includes federal court remedies.",
+    "\nSome Democratic legal observers note Abrams would be dependent on statues that set a high bar for the court to intervene.",
+    "\nAbrams Republican challenger, Georgia Secretary of State Brian Kemp, has held the lead and is expected to be declared the winner on Friday, charged that Abrams has led a \u201cpublicity stunt\u201d and her refusal to concede the election serves as a \u201cridiculous temper tantrum.\u201d\nAbrams faces a narrow path to winning the Georgia gubernatorial election.",
+    "\nPreliminary election results show Kemp winning with about 50.2 percent of the vote, which puts him with over 18,000 voters over the threshold required to win by a majority and avoid a December 4 election runoff.",
+    "\nLawrence-Hardy told the AP that Abrams believes that many of her supporters, many of them minority and low-income voters who do not regularly vote, went to the polls and ran into electoral barriers, although she did not say what barriers they were.",
+    "\n\u201cThese stories to me are such that they have to be addressed,\u201d said Lawrence-Hardy.",
+    "\n\u201cIt\u2019s just a much bigger responsibility.",
+    "\nI feel like our mandate has blossomed.",
+    "\n\u2026 Maybe this is our moment.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 178,
+      "text": "Stacey Abrams to Sue Georgia Over \u2018Gross Mismanagement\u2019 of Elections\n\nStacey Abrams quits race for governor of Georgia, accusing rival Republican Brian Kemp of voter suppression.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 178,
+      "end_ix": 376,
+      "text": "\n1.2k SHARES Facebook Twitter\nGeorgia gubernatorial candidate Stacey Abrams may have begrudgingly recognized her rival\u2019s victory, but she is far from done fighting for what she believes was her due.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 376,
+      "end_ix": 518,
+      "text": "\nWith a team of three dozen lawyers, Abrams has announced she would file a federal suit against Georgia for \u201cgross mismanagement\u201d of the vote.",
+      "new_text": "\nWith a team of three dozen lawyers, Abrams has announced she would file a federal suit against Georgia for \u201cgross mismanagement\u201d of the vote.",
+      "prop_spans": [
+        [
+          485,
+          504,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 518,
+      "end_ix": 648,
+      "text": "\nAbrams and civil rights groups accused the winner, Republican Brian Kemp of purging thousands from voting rolls in that capacity.",
+      "new_text": "\nAbrams and civil rights groups accused the winner, Republican Brian Kemp of possibly removing thousands from voting rolls in that capacity.",
+      "prop_spans": [
+        [
+          550,
+          647,
+          "Doubt"
+        ],
+        [
+          595,
+          603,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 648,
+      "end_ix": 769,
+      "text": "\nAbrams remained about 18,000 votes short of a result that would have required a runoff between her and Kamp in December.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 769,
+      "end_ix": 1001,
+      "text": "\nThe Associated Press (AP) reported her team amassed nearly three-dozen lawyers who will draft a petition, along with affidavits from voters and would-be voters who argue that they were allegedly disenfranchised during the election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1001,
+      "end_ix": 1090,
+      "text": "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1090,
+      "end_ix": 1141,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1141,
+      "end_ix": 1192,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1192,
+      "end_ix": 1230,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1230,
+      "end_ix": 1281,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1281,
+      "end_ix": 1288,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1288,
+      "end_ix": 1320,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1320,
+      "end_ix": 1402,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1402,
+      "end_ix": 1485,
+      "text": "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1485,
+      "end_ix": 1513,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1513,
+      "end_ix": 1576,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1576,
+      "end_ix": 1818,
+      "text": "\n\u201cIn the coming days, we will be filing a major federal lawsuit against the state of Georgia for the gross mismanagement of this election and to protect future elections from unconstitutional actions,\u201d Abrams said, though she gave no details.",
+      "new_text": "\n\u201cIn the coming days, we will be filing a major federal lawsuit against the state of Georgia for the gross mismanagement of this election and to protect future elections from unconstitutional actions,\u201d Abrams said, though she gave no details.",
+      "prop_spans": [
+        [
+          1677,
+          1696,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1818,
+      "end_ix": 2017,
+      "text": "\nIn the coming days, we will be filing a major federal lawsuit against the state of Georgia for the gross mismanagement of this election and to protect future elections from unconstitutional actions.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1914,
+          1955,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1914,
+          1955,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2017,
+      "end_ix": 2558,
+      "text": "\n#gapol \u2014 Stacey Abrams (@staceyabrams) November 17, 2018\nIn a speech on Nov. 19 right at the cutoff for Georgia counties to certify election results, Abrams delivered a speech in which she said, \u201cI acknowledge that former Secretary of State Brian Kemp will be certified as the victor in the 2018 gubernatorial election.\u201d However, Abrams said Kemp had relied on \u201csuppression of the people\u2019s democratic right to vote\u201d that was \u201cdeliberate and intentional.\u201d\nKemp tried to move past the contentious campaign even if his opponent wasn\u2019t willing.",
+      "new_text": "\n#gapol \u2014 Stacey Abrams (@staceyabrams) November 17, 2018\nIn a speech on Nov. 19 right at the cutoff for Georgia counties to certify election results, Abrams delivered a speech in which she said, \u201cI acknowledge that former Secretary of State Brian Kemp will be certified as the victor in the 2018 gubernatorial election.\u201d However, Abrams said Kemp had relied on \u201csuppression of the people\u2019s democratic right to vote\u201d that was \u201cdeliberate and intentional.\u201d\nKemp tried to move past the contentious campaign even if his opponent wasn\u2019t willing.",
+      "prop_spans": [
+        [
+          2360,
+          2470,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2558,
+      "end_ix": 2643,
+      "text": "\n\u201cThe election is over and hardworking Georgians are ready to move forward,\u201d he said.",
+      "new_text": "\n\u201cThe election is over and hardworking Georgians are ready to move forward,\u201d he said.",
+      "prop_spans": [
+        [
+          2560,
+          2632,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          2560,
+          2632,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2643,
+      "end_ix": 2836,
+      "text": "\n\u201cWe can no longer dwell on the divisive politics of the past but must focus on Georgia\u2019s bright and promising future.\u201d\nThe election is over and hardworking Georgians are ready to move forward.",
+      "new_text": "\n\u201cWe can no longer dwell on the divisive politics of the past but must focus on Georgia\u2019s bright and promising future.\u201d",
+      "prop_spans": [
+        [
+          2645,
+          2760,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          2645,
+          2760,
+          "Flag-Waving"
+        ],
+        [
+          2763,
+          2836,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          2763,
+          2836,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2836,
+      "end_ix": 2953,
+      "text": "\nWe can no longer dwell on the divisive politics of the past but must focus on Georgia\u2019s bright and promising future.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2836,
+          2952,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          2836,
+          2952,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2953,
+      "end_ix": 3097,
+      "text": "\n#gapol (1 of 3) \u2014 Brian Kemp (@BrianKempGA) November 16, 2018\nBreitbart reports:\nAbrams could decide as early as Friday whether to go to court.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3097,
+      "end_ix": 3432,
+      "text": "\nUnder Georgia election law, a losing candidate can challenge the result of an election based on \u201cmisconduct, fraud or irregularities \u2026 sufficient to change or place in doubt the results.\u201d\nAllegra Lawrence-Hardy, Abrams\u2019 campaign chair, said that her legal team is \u201cconsidering all options,\u201d which also includes federal court remedies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3432,
+      "end_ix": 3554,
+      "text": "\nSome Democratic legal observers note Abrams would be dependent on statues that set a high bar for the court to intervene.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3554,
+      "end_ix": 3897,
+      "text": "\nAbrams Republican challenger, Georgia Secretary of State Brian Kemp, has held the lead and is expected to be declared the winner on Friday, charged that Abrams has led a \u201cpublicity stunt\u201d and her refusal to concede the election serves as a \u201cridiculous temper tantrum.\u201d\nAbrams faces a narrow path to winning the Georgia gubernatorial election.",
+      "new_text": "\nAbrams Republican challenger, Georgia Secretary of State Brian Kemp, has held the lead and is expected to be declared the winner on Friday, charged that Abrams has led a \u201cpublicity stunt\u201d and her refusal to concede the election serves as a \u201cridiculous temper tantrum.\u201d\nAbrams faces a narrow path to winning the Georgia gubernatorial election.",
+      "prop_spans": [
+        [
+          3726,
+          3741,
+          "Loaded_Language"
+        ],
+        [
+          3796,
+          3821,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3897,
+      "end_ix": 4109,
+      "text": "\nPreliminary election results show Kemp winning with about 50.2 percent of the vote, which puts him with over 18,000 voters over the threshold required to win by a majority and avoid a December 4 election runoff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4109,
+      "end_ix": 4358,
+      "text": "\nLawrence-Hardy told the AP that Abrams believes that many of her supporters, many of them minority and low-income voters who do not regularly vote, went to the polls and ran into electoral barriers, although she did not say what barriers they were.",
+      "new_text": "\nLawrence-Hardy told the AP that Abrams believes that many of her supporters, many of them minority and low-income voters who do not regularly vote, went to the polls and ran into electoral barriers, although she did not specify which barriers.",
+      "prop_spans": [
+        [
+          4309,
+          4357,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4358,
+      "end_ix": 4442,
+      "text": "\n\u201cThese stories to me are such that they have to be addressed,\u201d said Lawrence-Hardy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4442,
+      "end_ix": 4483,
+      "text": "\n\u201cIt\u2019s just a much bigger responsibility.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4483,
+      "end_ix": 4522,
+      "text": "\nI feel like our mandate has blossomed.",
+      "new_text": "\nI feel like our mandate has matured.",
+      "prop_spans": [
+        [
+          4508,
+          4521,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4522,
+      "end_ix": 4551,
+      "text": "\n\u2026 Maybe this is our moment.\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      485,
+      504,
+      "Loaded_Language"
+    ],
+    [
+      550,
+      647,
+      "Doubt"
+    ],
+    [
+      595,
+      603,
+      "Loaded_Language"
+    ],
+    [
+      1677,
+      1696,
+      "Repetition"
+    ],
+    [
+      1914,
+      1955,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1914,
+      1955,
+      "Repetition"
+    ],
+    [
+      2360,
+      2470,
+      "Doubt"
+    ],
+    [
+      2560,
+      2632,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2560,
+      2632,
+      "Flag-Waving"
+    ],
+    [
+      2645,
+      2760,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2645,
+      2760,
+      "Flag-Waving"
+    ],
+    [
+      2763,
+      2952,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2763,
+      2952,
+      "Flag-Waving"
+    ],
+    [
+      3726,
+      3741,
+      "Loaded_Language"
+    ],
+    [
+      3796,
+      3821,
+      "Loaded_Language"
+    ],
+    [
+      4309,
+      4357,
+      "Doubt"
+    ],
+    [
+      4508,
+      4521,
+      "Loaded_Language"
+    ]
+  ]
+}

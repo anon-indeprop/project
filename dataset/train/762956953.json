@@ -1,0 +1,157 @@
+{
+  "article_id": "762956953",
+  "sentence offsets in original": [
+    0,
+    167,
+    208,
+    268,
+    560,
+    671,
+    1080,
+    1452,
+    1647,
+    1768,
+    1932,
+    2065,
+    2202,
+    2381,
+    2438
+  ],
+  "original sentences": [
+    "Iran Admits To Aiding Al-Qaeda and Facilitating 9/11 Jihad Terror Attacks\n\nThis has long been known, although the mainstream media dismissed it as a conspiracy theory.",
+    "\nBut now we have definitive confirmation.",
+    "\nIt was Iran Bush should have invaded after 9/11 , not Iraq.",
+    "\nNow consider this: even though, as President of the United States, Barack Obama had access to information that the general public does not have, and certainly knew of Iran\u2019s involvement in the 9/11 attacks, Obama still pursued the Iran nuclear deal and gave billions to the Islamic Republic.",
+    "\nThe Iran nuclear deal should never have proceeded \u2014 President Obama, the worst president in American history .",
+    "\n\u201cIran Admits To Facilitating 9/11 Terror Attacks,\u201d by Adam Kredo, Washington Free Beacon, June 8, 2018:\nIranian officials, in a first, have admitted to facilitating the 9/11 terrorist attacks in the U.S. by secretly aiding the free travel of al Qaeda operatives who eventually went on to fly commercial airliners into the Twin Towers in New York City, according to new remarks from a senior Iranian official.",
+    "\nMohammad-Javad Larijani, an international affairs assistant in the Iran\u2019s judiciary, disclosed in Farsi-language remarks broadcast on Iran\u2019s state-controlled television that Iranian intelligence officials secretly helped provide the al Qaeda attackers with passage and gave them refuge in the Islamic Republic, according to an English translation published by Al Arabiya.",
+    "\n\u201cOur government agreed not to stamp the passports of some of them because they were on transit flights for two hours, and they were resuming their flights without having their passports stamped.",
+    "\nHowever their movements were under the complete supervision of the Iranian intelligence,\u201d Larijani was quoted as saying.",
+    "\nThe remarks represent the first time senior Iranian officials have publicly admitted to aiding al Qaeda and playing a direct role in facilitating the 9/11 attacks.",
+    "\nThe U.S. government has long accused Iran of playing a role in the attacks and even fined the Islamic Republic billions as a result.",
+    "\nThe U.S. 9/11 Commission assembled to investigate the attacks concluded that Iran played a role in facilitating the al Qaeda terrorists.",
+    "\nLarijani admitted that Iranian officials did not stamp the passports of the al Qaeda militants in order to obfuscate their movements and prevent detection by foreign governments.",
+    "\nAl Qaeda operative also were given safe refuge in Iran\u2026.",
+    "\nArticle posted with permission from Pamela Geller"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 167,
+      "text": "Iran Admits To Aiding Al-Qaeda and Facilitating 9/11 Jihad Terror Attacks\n\nThis has long been known, although the mainstream media dismissed it as a conspiracy theory.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 167,
+      "end_ix": 208,
+      "text": "\nBut now we have definitive confirmation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 208,
+      "end_ix": 268,
+      "text": "\nIt was Iran Bush should have invaded after 9/11 , not Iraq.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 268,
+      "end_ix": 560,
+      "text": "\nNow consider this: even though, as President of the United States, Barack Obama had access to information that the general public does not have, and certainly knew of Iran\u2019s involvement in the 9/11 attacks, Obama still pursued the Iran nuclear deal and gave billions to the Islamic Republic.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 560,
+      "end_ix": 671,
+      "text": "\nThe Iran nuclear deal should never have proceeded \u2014 President Obama, the worst president in American history .",
+      "new_text": "\nThe Iran nuclear deal should never have proceeded \u2014 President Obama, one of the worst presidents in American history.",
+      "prop_spans": [
+        [
+          630,
+          669,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 671,
+      "end_ix": 1080,
+      "text": "\n\u201cIran Admits To Facilitating 9/11 Terror Attacks,\u201d by Adam Kredo, Washington Free Beacon, June 8, 2018:\nIranian officials, in a first, have admitted to facilitating the 9/11 terrorist attacks in the U.S. by secretly aiding the free travel of al Qaeda operatives who eventually went on to fly commercial airliners into the Twin Towers in New York City, according to new remarks from a senior Iranian official.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1080,
+      "end_ix": 1452,
+      "text": "\nMohammad-Javad Larijani, an international affairs assistant in the Iran\u2019s judiciary, disclosed in Farsi-language remarks broadcast on Iran\u2019s state-controlled television that Iranian intelligence officials secretly helped provide the al Qaeda attackers with passage and gave them refuge in the Islamic Republic, according to an English translation published by Al Arabiya.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1452,
+      "end_ix": 1647,
+      "text": "\n\u201cOur government agreed not to stamp the passports of some of them because they were on transit flights for two hours, and they were resuming their flights without having their passports stamped.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1647,
+      "end_ix": 1768,
+      "text": "\nHowever their movements were under the complete supervision of the Iranian intelligence,\u201d Larijani was quoted as saying.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1768,
+      "end_ix": 1932,
+      "text": "\nThe remarks represent the first time senior Iranian officials have publicly admitted to aiding al Qaeda and playing a direct role in facilitating the 9/11 attacks.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1932,
+      "end_ix": 2065,
+      "text": "\nThe U.S. government has long accused Iran of playing a role in the attacks and even fined the Islamic Republic billions as a result.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2065,
+      "end_ix": 2202,
+      "text": "\nThe U.S. 9/11 Commission assembled to investigate the attacks concluded that Iran played a role in facilitating the al Qaeda terrorists.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2202,
+      "end_ix": 2381,
+      "text": "\nLarijani admitted that Iranian officials did not stamp the passports of the al Qaeda militants in order to obfuscate their movements and prevent detection by foreign governments.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2381,
+      "end_ix": 2438,
+      "text": "\nAl Qaeda operative also were given safe refuge in Iran\u2026.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2438,
+      "end_ix": 2488,
+      "text": "\nArticle posted with permission from Pamela Geller",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      630,
+      669,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

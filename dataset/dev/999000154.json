@@ -1,0 +1,260 @@
+{
+  "article_id": "999000154",
+  "sentence offsets in original": [
+    0,
+    240,
+    319,
+    409,
+    580,
+    618,
+    679,
+    812,
+    907,
+    1002,
+    1040,
+    1073,
+    1155,
+    1237,
+    1265,
+    1328,
+    1418,
+    1493,
+    1526
+  ],
+  "original sentences": [
+    "Records Support Claims That Minnesota Muslima State Rep Ilhan Omar Married Her Brother\n\nIlhan Omar has accused Israel of \u201cevil doings\u201d in Gaza and called Israel an \u201capartheid state.\u201d It isn\u2019t surprising that Ilhan Omar would think this way.",
+    "\nShe is a hijab-wearing, devout Muslim, and Islamic Jew-hatred is in the Quran.",
+    "\nWhat is shameful about this is that her views are mainstream in the Democrat Party today.",
+    "\nShe should never have been chosen as a candidate for Congress with hateful views of this kind, but this is the way the Democrat leadership, and the Democrat base, thinks.",
+    "\nThey want candidates like Ilhan Omar.",
+    "\nAnd they know they\u2019ll win, because this is their base today.",
+    "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nNeither the Democrat leadership nor the Democrat base cares that she married her brother.",
+    "\nShe is a Muslim and a leftist, so she can further their identity politics.",
+    "\nThat\u2019s all that matters to them.",
+    "\n\u201cOfficial School Records Support Claims That Rep. Ilhan Omar (D-MN) Married Her Brother,\u201d by David Steinberg, PJ Media, October 23, 2018 (thanks to Mark):\nArticle posted with permission from Pamela Geller"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 240,
+      "text": "Records Support Claims That Minnesota Muslima State Rep Ilhan Omar Married Her Brother\n\nIlhan Omar has accused Israel of \u201cevil doings\u201d in Gaza and called Israel an \u201capartheid state.\u201d It isn\u2019t surprising that Ilhan Omar would think this way.",
+      "new_text": "Records Support Claims That Minnesota Muslima State Rep Ilhan Omar Married Her Brother\n\nIlhan Omar has accused Israel of \u201cevil doings\u201d in Gaza and called Israel an \u201capartheid state.\u201d",
+      "prop_spans": [
+        [
+          122,
+          133,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 240,
+      "end_ix": 319,
+      "text": "\nShe is a hijab-wearing, devout Muslim, and Islamic Jew-hatred is in the Quran.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          241,
+          318,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 319,
+      "end_ix": 409,
+      "text": "\nWhat is shameful about this is that her views are mainstream in the Democrat Party today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 409,
+      "end_ix": 580,
+      "text": "\nShe should never have been chosen as a candidate for Congress with hateful views of this kind, but this is the way the Democrat leadership, and the Democrat base, thinks.",
+      "new_text": "\nShe should not have been chosen as a candidate for Congress with opinions of this kind.",
+      "prop_spans": [
+        [
+          477,
+          491,
+          "Loaded_Language"
+        ],
+        [
+          505,
+          580,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 580,
+      "end_ix": 618,
+      "text": "\nThey want candidates like Ilhan Omar.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          580,
+          618,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 618,
+      "end_ix": 679,
+      "text": "\nAnd they know they\u2019ll win, because this is their base today.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          618,
+          678,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 679,
+      "end_ix": 812,
+      "text": "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 812,
+      "end_ix": 907,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 907,
+      "end_ix": 1002,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1002,
+      "end_ix": 1040,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1040,
+      "end_ix": 1073,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1073,
+      "end_ix": 1155,
+      "text": "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1155,
+      "end_ix": 1237,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1237,
+      "end_ix": 1265,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1265,
+      "end_ix": 1328,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1328,
+      "end_ix": 1418,
+      "text": "\nNeither the Democrat leadership nor the Democrat base cares that she married her brother.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1329,
+          1418,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1418,
+      "end_ix": 1493,
+      "text": "\nShe is a Muslim and a leftist, so she can further their identity politics.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1418,
+          1493,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1493,
+      "end_ix": 1526,
+      "text": "\nThat\u2019s all that matters to them.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1493,
+          1525,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1526,
+      "end_ix": 1731,
+      "text": "\n\u201cOfficial School Records Support Claims That Rep. Ilhan Omar (D-MN) Married Her Brother,\u201d by David Steinberg, PJ Media, October 23, 2018 (thanks to Mark):\nArticle posted with permission from Pamela Geller",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      122,
+      133,
+      "Loaded_Language"
+    ],
+    [
+      241,
+      318,
+      "Causal_Oversimplification"
+    ],
+    [
+      477,
+      491,
+      "Loaded_Language"
+    ],
+    [
+      505,
+      678,
+      "Causal_Oversimplification"
+    ],
+    [
+      1329,
+      1525,
+      "Causal_Oversimplification"
+    ]
+  ]
+}

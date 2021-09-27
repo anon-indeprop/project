@@ -1,0 +1,263 @@
+{
+  "article_id": "738781754",
+  "sentence offsets in original": [
+    0,
+    118,
+    323,
+    574,
+    713,
+    741,
+    785,
+    869,
+    1014,
+    1168,
+    1255,
+    1401,
+    1547,
+    1659,
+    1783,
+    1867,
+    2019,
+    2124
+  ],
+  "original sentences": [
+    "Rand Paul says he\u2019ll oppose Trump\u2019s CIA, State Department nominees\n\nPersonal Liberty Poll Exercise your right to vote.",
+    "\nSen. Rand Paul (R-Ky.) says he plans to do everything in his power to block President Donald Trump\u2019s nominations to head the State Department and Central Intelligence Agency over war and torture concerns.",
+    "\nWe told you about Trump\u2019s administration shake-ups and new nominees Tuesday:\nFollowing what has appeared for months to be a strained relationship between President Donald Trump and Secretary of State Rex Tillerson, the top diplomat is being replaced.",
+    "\nTrump announced Tillerson\u2019s ouster via Twitter Tuesday, saying: \u201cMike Pompeo, Director of the CIA, will become our new Secretary of State.",
+    "\nHe will do a fantastic job!",
+    "\nThank you to Rex Tillerson for his service!",
+    "\nGina Haspel will become the new Director of the CIA, and the first woman so chosen.",
+    "\nCongratulations to all!\u201d This is yet another big shake-up for Trump\u2019s still-young administration \u2014 and it may be the most important one to date.",
+    "\nThe move creates some big questions about both the administration\u2019s foreign policy ambitions as well as the president\u2019s relationship with the deep state.",
+    "\n\u201cI will oppose both Pompeo\u2019s nomination and Haspel\u2019s nomination,\u201d Paul said Wednesday.",
+    "\nThe Kentucky lawmaker is the first Republican to say he will attempt to block the nominees; but he isn\u2019t the first Republican to express concern.",
+    "\nSen. John McCain of Arizona said Tuesday that he wanted answers about Haspel\u2019s background running CIA torture programs prior to her confirmation.",
+    "\nPaul contends that the Trump nominations directly contradict promises the president made on the campaign trail.",
+    "\n\u201cI\u2019m perplexed by the nomination of people who love the Iraq War so much that they would advocate for a war with Iran next.",
+    "\nI think it goes against most of the things President Trump campaigned on,\u201d he said.",
+    "\nThe lawmaker added that he can\u2019t support Haspel, whom he described as having expressed \u201cjoyful glee\u201d at being involved in torture programs in the past.",
+    "\n\u201cI find it just amazing that anyone would consider having this woman at the head of the CIA,\u201d Paul said.",
+    "\nWith Paul\u2019s defection and McCain likely to be undergoing treatment for brain cancer at the time of the vote, Trump\u2019s White House will likely be left scurrying for Democrat support to secure the majority necessary for the nominees to be confirmed in the Senate."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 118,
+      "text": "Rand Paul says he\u2019ll oppose Trump\u2019s CIA, State Department nominees\n\nPersonal Liberty Poll Exercise your right to vote.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 118,
+      "end_ix": 323,
+      "text": "\nSen. Rand Paul (R-Ky.) says he plans to do everything in his power to block President Donald Trump\u2019s nominations to head the State Department and Central Intelligence Agency over war and torture concerns.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 323,
+      "end_ix": 574,
+      "text": "\nWe told you about Trump\u2019s administration shake-ups and new nominees Tuesday:\nFollowing what has appeared for months to be a strained relationship between President Donald Trump and Secretary of State Rex Tillerson, the top diplomat is being replaced.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 574,
+      "end_ix": 713,
+      "text": "\nTrump announced Tillerson\u2019s ouster via Twitter Tuesday, saying: \u201cMike Pompeo, Director of the CIA, will become our new Secretary of State.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 713,
+      "end_ix": 741,
+      "text": "\nHe will do a fantastic job!",
+      "new_text": "\nHe will do a good job!",
+      "prop_spans": [
+        [
+          714,
+          741,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          714,
+          740,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 741,
+      "end_ix": 785,
+      "text": "\nThank you to Rex Tillerson for his service!",
+      "new_text": "\nThank you to Rex Tillerson for his service!",
+      "prop_spans": [
+        [
+          741,
+          741,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 785,
+      "end_ix": 869,
+      "text": "\nGina Haspel will become the new Director of the CIA, and the first woman so chosen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 869,
+      "end_ix": 1014,
+      "text": "\nCongratulations to all!\u201d This is yet another big shake-up for Trump\u2019s still-young administration \u2014 and it may be the most important one to date.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1014,
+      "end_ix": 1168,
+      "text": "\nThe move creates some big questions about both the administration\u2019s foreign policy ambitions as well as the president\u2019s relationship with the deep state.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1168,
+      "end_ix": 1255,
+      "text": "\n\u201cI will oppose both Pompeo\u2019s nomination and Haspel\u2019s nomination,\u201d Paul said Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1255,
+      "end_ix": 1401,
+      "text": "\nThe Kentucky lawmaker is the first Republican to say he will attempt to block the nominees; but he isn\u2019t the first Republican to express concern.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1401,
+      "end_ix": 1547,
+      "text": "\nSen. John McCain of Arizona said Tuesday that he wanted answers about Haspel\u2019s background running CIA torture programs prior to her confirmation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1547,
+      "end_ix": 1659,
+      "text": "\nPaul contends that the Trump nominations directly contradict promises the president made on the campaign trail.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1659,
+      "end_ix": 1783,
+      "text": "\n\u201cI\u2019m perplexed by the nomination of people who love the Iraq War so much that they would advocate for a war with Iran next.",
+      "new_text": "\n\u201cI\u2019m perplexed by the nomination of people who love the Iraq War so much that they would advocate for a war with Iran next.",
+      "prop_spans": [
+        [
+          1665,
+          1678,
+          "Loaded_Language"
+        ],
+        [
+          1707,
+          1725,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1707,
+          1725,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1783,
+      "end_ix": 1867,
+      "text": "\nI think it goes against most of the things President Trump campaigned on,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1867,
+      "end_ix": 2019,
+      "text": "\nThe lawmaker added that he can\u2019t support Haspel, whom he described as having expressed \u201cjoyful glee\u201d at being involved in torture programs in the past.",
+      "new_text": "\nThe lawmaker added that he can\u2019t support Haspel, whom he described as having expressed \u201cjoyful glee\u201d at being involved in torture programs in the past.",
+      "prop_spans": [
+        [
+          1956,
+          1967,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2019,
+      "end_ix": 2124,
+      "text": "\n\u201cI find it just amazing that anyone would consider having this woman at the head of the CIA,\u201d Paul said.",
+      "new_text": "\n\u201cI find it just amazing that anyone would consider having this woman at the head of the CIA,\u201d Paul said.",
+      "prop_spans": [
+        [
+          2021,
+          2113,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2021,
+          2113,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2124,
+      "end_ix": 2385,
+      "text": "\nWith Paul\u2019s defection and McCain likely to be undergoing treatment for brain cancer at the time of the vote, Trump\u2019s White House will likely be left scurrying for Democrat support to secure the majority necessary for the nominees to be confirmed in the Senate.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      714,
+      741,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      714,
+      740,
+      "Appeal_to_Authority"
+    ],
+    [
+      1665,
+      1678,
+      "Loaded_Language"
+    ],
+    [
+      1707,
+      1725,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1707,
+      1725,
+      "Loaded_Language"
+    ],
+    [
+      1956,
+      1967,
+      "Loaded_Language"
+    ],
+    [
+      2021,
+      2113,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2021,
+      2113,
+      "Doubt"
+    ]
+  ]
+}

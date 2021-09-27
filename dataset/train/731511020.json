@@ -1,0 +1,139 @@
+{
+  "article_id": "731511020",
+  "sentence offsets in original": [
+    0,
+    201,
+    387,
+    569,
+    652,
+    802,
+    998,
+    1194,
+    1356,
+    1612,
+    1719,
+    1920,
+    2040
+  ],
+  "original sentences": [
+    "A colossal Neptunian storm just vanished before our eyes\n\nYou don\u2019t have to look far for fresh news about Mars, Saturn, or Jupiter these days, but Neptune doesn\u2019t always get the same kind of attention.",
+    "\nThe big frigid blue ball is the farthest planet from the Sun \u2014 since we don\u2019t count Pluto as a planet anymore \u2014 and it hasn\u2019t been studied with the same intensity of many of the others.",
+    "\nThankfully the Hubble Space Telescope hasn\u2019t lost interest in the distant planet, because it just captured one of Neptunes massive storms losing steam as it roars across the planet.",
+    "\nStorms on Neptune appear as giant dark ovals, a bit like Jupiter\u2019s Great Red Spot.",
+    "\nHowever, unlike Jupiter\u2019s centuries-old storm, Neptune\u2019s hurricane-like weather events only last a few years at a time before eventually dissipating.",
+    "\nOf course, that\u2019s not to say the storms are insignificant \u2014 many are large enough to swallow and entire continent here on Earth \u2014 so watching one breathe its dying gasps is still a special sight.",
+    "\nThe planet, which NASA says is the windiest in our Solar System, hosts regular storms which appear as large spots on its surface, but scientists are still at a loss as to how they actually occur.",
+    "\n\u201cWe have no evidence of how these vortices are formed or how fast they rotate,\u201d Agust\u00edn S\u00e1nchez-Lavega of the University of the Basque Country in Spain explains.",
+    "\n\u201cIt is most likely that they arise from an instability in the sheared eastward and westward winds.\u201d\nThe observation of this particular storm dying out is significant because it\u2019s the very first time one of Neptune\u2019s storms has been observed in such a way.",
+    "\nIt also goes against everything that scientists thought they knew about how forms on Neptune live and die.",
+    "\n\u201cIt looks like we\u2019re capturing the demise of this dark vortex, and it\u2019s different from what well-known studies led us to expect,\u201d said Michael H. Wong of the University of California at Berkeley says.",
+    "\n\u201cTheir dynamical simulations said that anticyclones under Neptune\u2019s wind shear would probably drift toward the equator.",
+    "\nWe thought that once the vortex got too close to the equator, it would break up and perhaps create a spectacular outburst of cloud activity.\u201d\nBut this storm stayed its course, dying out in a horizontal path that didn\u2019t bring it towards the Neptunian equator at all, forcing scientists to go back to the drawing board and come up with a new theory on the planet\u2019s weather habits."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 201,
+      "text": "A colossal Neptunian storm just vanished before our eyes\n\nYou don\u2019t have to look far for fresh news about Mars, Saturn, or Jupiter these days, but Neptune doesn\u2019t always get the same kind of attention.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 201,
+      "end_ix": 387,
+      "text": "\nThe big frigid blue ball is the farthest planet from the Sun \u2014 since we don\u2019t count Pluto as a planet anymore \u2014 and it hasn\u2019t been studied with the same intensity of many of the others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 387,
+      "end_ix": 569,
+      "text": "\nThankfully the Hubble Space Telescope hasn\u2019t lost interest in the distant planet, because it just captured one of Neptunes massive storms losing steam as it roars across the planet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 569,
+      "end_ix": 652,
+      "text": "\nStorms on Neptune appear as giant dark ovals, a bit like Jupiter\u2019s Great Red Spot.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 652,
+      "end_ix": 802,
+      "text": "\nHowever, unlike Jupiter\u2019s centuries-old storm, Neptune\u2019s hurricane-like weather events only last a few years at a time before eventually dissipating.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 802,
+      "end_ix": 998,
+      "text": "\nOf course, that\u2019s not to say the storms are insignificant \u2014 many are large enough to swallow and entire continent here on Earth \u2014 so watching one breathe its dying gasps is still a special sight.",
+      "new_text": "\nOf course, that\u2019s not to say the storms are insignificant \u2014 many are large enough to swallow and entire continent here on Earth \u2014 so watching one ending is still a special sight.",
+      "prop_spans": [
+        [
+          949,
+          972,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 998,
+      "end_ix": 1194,
+      "text": "\nThe planet, which NASA says is the windiest in our Solar System, hosts regular storms which appear as large spots on its surface, but scientists are still at a loss as to how they actually occur.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1194,
+      "end_ix": 1356,
+      "text": "\n\u201cWe have no evidence of how these vortices are formed or how fast they rotate,\u201d Agust\u00edn S\u00e1nchez-Lavega of the University of the Basque Country in Spain explains.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1356,
+      "end_ix": 1612,
+      "text": "\n\u201cIt is most likely that they arise from an instability in the sheared eastward and westward winds.\u201d\nThe observation of this particular storm dying out is significant because it\u2019s the very first time one of Neptune\u2019s storms has been observed in such a way.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1612,
+      "end_ix": 1719,
+      "text": "\nIt also goes against everything that scientists thought they knew about how forms on Neptune live and die.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1719,
+      "end_ix": 1920,
+      "text": "\n\u201cIt looks like we\u2019re capturing the demise of this dark vortex, and it\u2019s different from what well-known studies led us to expect,\u201d said Michael H. Wong of the University of California at Berkeley says.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1920,
+      "end_ix": 2040,
+      "text": "\n\u201cTheir dynamical simulations said that anticyclones under Neptune\u2019s wind shear would probably drift toward the equator.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2040,
+      "end_ix": 2419,
+      "text": "\nWe thought that once the vortex got too close to the equator, it would break up and perhaps create a spectacular outburst of cloud activity.\u201d\nBut this storm stayed its course, dying out in a horizontal path that didn\u2019t bring it towards the Neptunian equator at all, forcing scientists to go back to the drawing board and come up with a new theory on the planet\u2019s weather habits.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      949,
+      972,
+      "Loaded_Language"
+    ]
+  ]
+}

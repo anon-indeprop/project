@@ -1,0 +1,362 @@
+{
+  "article_id": "700662577",
+  "sentence offsets in original": [
+    0,
+    233,
+    272,
+    482,
+    716,
+    812,
+    843,
+    914,
+    1135,
+    1245,
+    1424,
+    1569,
+    1801,
+    2193,
+    2291,
+    2398,
+    2456,
+    2654,
+    2875,
+    2993,
+    3140,
+    3194,
+    3359,
+    3510
+  ],
+  "original sentences": [
+    "Puerto Rico\u2019s Power Grid Failure Is Causing A Public Health Crisis Of Epic Proportions\n\nOne month after the devastating Hurricane Maria wreaked havoc on the island of Puerto Rico, the territory is still facing a public health crisis.",
+    "\nAnd it\u2019s a crisis of epic proportions.",
+    "\nOn Friday, former Puerto Rican Governor Alejandro Garc\u00eda Padilla tweeted a photo from inside a hospital, in which scrubbed-up doctors leaned over an operating table performing surgery lit only by a flashlight.",
+    "\nAccording to Slate, the image quickly made the rounds on the internet; it currently has almost 9,000 retweets and many speculate that that\u2019s probably because the blurry picture feels like it\u2019s worth a good deal more than 1,000 words.",
+    "\nIt illuminates just a small sliver of the public health crisis Puerto Rico is currently facing.",
+    "\nThis is what POTUS calls a 10!",
+    "\nSurgery performed with cellphones as flashlights in Puerto Rico today.",
+    "\npic.twitter.com/5pnK5dkkE6 \u2014 Alejandro (@agarciapadilla) October 21, 2017\nMillions of residents still don\u2019t have access to electricity or proper health care, and bacteria in the water have exposed many people to disease.",
+    "\nAnd calls for help have gone unanswered besides the few willing to travel to the devastated island privately.",
+    "\nSenator Martin Heinrich (D-NM) along with a handful of other lawmakers are calling on the federal government to continue to provide aid to the post-apocalyptic ravaged territory.",
+    "\n\u201cEven before Hurricanes Irma and Maria hit the U.S. territories, the islands\u2019 health care system was suffering from the ongoing economic crisis.",
+    "\nThe islands are grappling with physician shortages, Medicaid programs facing an impending funding cliff, and widespread disparities in Federal health programs\u2014and that was before hurricane season,\u201d the lawmakers stated in a letter.",
+    "\n\u201cWe are grateful for the public health emergency declaration in Puerto Rico and the U.S. Virgin Islands, but more can and should be done to help Americans impacted by these disasters.\u201d\nThe senators stressed that much of the islands\u2019 power and communication networks are out and, according to the Federal Emergency Management Agency (FEMA), it will take months before power is fully restored.",
+    "\nHospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",
+    "\nThe power grid\u2019s failure has caused more problems than many anticipated, like the stall of relief efforts.",
+    "\nWithout electricity, communications are non-existent too.",
+    "\nSome 33 days after Hurricane Maria made landfall on Puerto Rico, only 23 percent of residents have electricity, according to Status.pr, which provides daily updates on basic services on the island.",
+    "\nWhile there are still other problems as well, such as gas stations being slow to reopen, and roads getting badly damaged, the power grid\u2019s utter annihilation in the category 4 winds is not just a temporary inconvenience.",
+    "\nThe different ways that the lack of electricity can set off a cascade of other crises is becoming increasingly clear.",
+    "\nA giant government-owned hospital ship, the USNS Comfort, arrived in Puerto Rico weeks ago to help out, but many people don\u2019t know about the ship.",
+    "\nWithout electricity, most cell phone towers are down.",
+    "\nBut even if communications were working, residents can\u2019t get to the port, as many of the island\u2019s roads are impassable and most are without gasoline to power a car.",
+    "\nThe ship has extensive space and equipment for trauma care and a large staff, but CNN reported that as of last Tuesday, only 33 of 250 beds were full.",
+    "\nThe looming crisis seems to be getting worse, not better, and Puerto Rico is experiencing a medical crisis of epic proportions."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 233,
+      "text": "Puerto Rico\u2019s Power Grid Failure Is Causing A Public Health Crisis Of Epic Proportions\n\nOne month after the devastating Hurricane Maria wreaked havoc on the island of Puerto Rico, the territory is still facing a public health crisis.",
+      "new_text": "Puerto Rico\u2019s Power Grid Failure Is Causing A Public Health Crisis\n\nOne month after the Hurricane Maria wreaked havoc on the island of Puerto Rico, the territory is still facing a public health crisis.",
+      "prop_spans": [
+        [
+          60,
+          86,
+          "Loaded_Language"
+        ],
+        [
+          108,
+          120,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 233,
+      "end_ix": 272,
+      "text": "\nAnd it\u2019s a crisis of epic proportions.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          245,
+          271,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 272,
+      "end_ix": 482,
+      "text": "\nOn Friday, former Puerto Rican Governor Alejandro Garc\u00eda Padilla tweeted a photo from inside a hospital, in which scrubbed-up doctors leaned over an operating table performing surgery lit only by a flashlight.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 482,
+      "end_ix": 716,
+      "text": "\nAccording to Slate, the image quickly made the rounds on the internet; it currently has almost 9,000 retweets and many speculate that that\u2019s probably because the blurry picture feels like it\u2019s worth a good deal more than 1,000 words.",
+      "new_text": "\nAccording to Slate, the image quickly made the rounds on the internet; it currently has almost 9,000 retweets and many speculate that that\u2019s probably because the blurry picture feels like it\u2019s worth a good deal more than 1000 words.",
+      "prop_spans": [
+        [
+          641,
+          716,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 716,
+      "end_ix": 812,
+      "text": "\nIt illuminates just a small sliver of the public health crisis Puerto Rico is currently facing.",
+      "new_text": "\nIt illuminates the public health problems Puerto Rico is currently facing.",
+      "prop_spans": [
+        [
+          716,
+          780,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 812,
+      "end_ix": 843,
+      "text": "\nThis is what POTUS calls a 10!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 843,
+      "end_ix": 914,
+      "text": "\nSurgery performed with cellphones as flashlights in Puerto Rico today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 914,
+      "end_ix": 1135,
+      "text": "\npic.twitter.com/5pnK5dkkE6 \u2014 Alejandro (@agarciapadilla) October 21, 2017\nMillions of residents still don\u2019t have access to electricity or proper health care, and bacteria in the water have exposed many people to disease.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1135,
+      "end_ix": 1245,
+      "text": "\nAnd calls for help have gone unanswered besides the few willing to travel to the devastated island privately.",
+      "new_text": "\nAnd calls for help have gone unanswered besides the few willing to travel to the island privately.",
+      "prop_spans": [
+        [
+          1217,
+          1228,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1245,
+      "end_ix": 1424,
+      "text": "\nSenator Martin Heinrich (D-NM) along with a handful of other lawmakers are calling on the federal government to continue to provide aid to the post-apocalyptic ravaged territory.",
+      "new_text": "\nSenator Martin Heinrich (D-NM) along with a handful of other lawmakers are calling on the federal government to continue to provide aid to the affected territory.",
+      "prop_spans": [
+        [
+          1385,
+          1423,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1424,
+      "end_ix": 1569,
+      "text": "\n\u201cEven before Hurricanes Irma and Maria hit the U.S. territories, the islands\u2019 health care system was suffering from the ongoing economic crisis.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1569,
+      "end_ix": 1801,
+      "text": "\nThe islands are grappling with physician shortages, Medicaid programs facing an impending funding cliff, and widespread disparities in Federal health programs\u2014and that was before hurricane season,\u201d the lawmakers stated in a letter.",
+      "new_text": "\nThe islands are grappling with physician shortages, Medicaid programs facing an impending funding cliff, and widespread disparities in Federal health programs\u2014and that was before hurricane season,\u201d the lawmakers stated in a letter.",
+      "prop_spans": [
+        [
+          1570,
+          1601,
+          "Loaded_Language"
+        ],
+        [
+          1570,
+          1765,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1801,
+      "end_ix": 2193,
+      "text": "\n\u201cWe are grateful for the public health emergency declaration in Puerto Rico and the U.S. Virgin Islands, but more can and should be done to help Americans impacted by these disasters.\u201d\nThe senators stressed that much of the islands\u2019 power and communication networks are out and, according to the Federal Emergency Management Agency (FEMA), it will take months before power is fully restored.",
+      "new_text": "\n\u201cWe are grateful for the public health emergency declaration in Puerto Rico and the U.S. Virgin Islands, but more can and should be done to help Americans impacted by these disasters.\u201d\nThe senators stressed that much of the islands\u2019 power and communication networks are out and, according to the Federal Emergency Management Agency (FEMA), it will take months before power is fully restored.",
+      "prop_spans": [
+        [
+          1907,
+          1984,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2193,
+      "end_ix": 2291,
+      "text": "\nHospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2291,
+      "end_ix": 2398,
+      "text": "\nThe power grid\u2019s failure has caused more problems than many anticipated, like the stall of relief efforts.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2398,
+      "end_ix": 2456,
+      "text": "\nWithout electricity, communications are non-existent too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2456,
+      "end_ix": 2654,
+      "text": "\nSome 33 days after Hurricane Maria made landfall on Puerto Rico, only 23 percent of residents have electricity, according to Status.pr, which provides daily updates on basic services on the island.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2654,
+      "end_ix": 2875,
+      "text": "\nWhile there are still other problems as well, such as gas stations being slow to reopen, and roads getting badly damaged, the power grid\u2019s utter annihilation in the category 4 winds is not just a temporary inconvenience.",
+      "new_text": "\nWhile there are still other problems as well, such as gas stations being slow to reopen, and roads getting badly damaged, the power grid\u2019s breakage in the category 4 winds is not just a temporary inconvenience.",
+      "prop_spans": [
+        [
+          2777,
+          2813,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2794,
+          2813,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2875,
+      "end_ix": 2993,
+      "text": "\nThe different ways that the lack of electricity can set off a cascade of other crises is becoming increasingly clear.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2993,
+      "end_ix": 3140,
+      "text": "\nA giant government-owned hospital ship, the USNS Comfort, arrived in Puerto Rico weeks ago to help out, but many people don\u2019t know about the ship.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3140,
+      "end_ix": 3194,
+      "text": "\nWithout electricity, most cell phone towers are down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3194,
+      "end_ix": 3359,
+      "text": "\nBut even if communications were working, residents can\u2019t get to the port, as many of the island\u2019s roads are impassable and most are without gasoline to power a car.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3359,
+      "end_ix": 3510,
+      "text": "\nThe ship has extensive space and equipment for trauma care and a large staff, but CNN reported that as of last Tuesday, only 33 of 250 beds were full.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3510,
+      "end_ix": 3638,
+      "text": "\nThe looming crisis seems to be getting worse, not better, and Puerto Rico is experiencing a medical crisis of epic proportions.",
+      "new_text": "\nThe problem seems to be getting worse, not better, and Puerto Rico is experiencing a medical crisis of epic proportions.",
+      "prop_spans": [
+        [
+          3515,
+          3530,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      60,
+      86,
+      "Loaded_Language"
+    ],
+    [
+      108,
+      120,
+      "Loaded_Language"
+    ],
+    [
+      245,
+      271,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      641,
+      780,
+      "Loaded_Language"
+    ],
+    [
+      1217,
+      1228,
+      "Loaded_Language"
+    ],
+    [
+      1385,
+      1423,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1570,
+      1601,
+      "Loaded_Language"
+    ],
+    [
+      1570,
+      1765,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1907,
+      1984,
+      "Flag-Waving"
+    ],
+    [
+      2777,
+      2813,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2794,
+      2813,
+      "Loaded_Language"
+    ],
+    [
+      3515,
+      3530,
+      "Loaded_Language"
+    ]
+  ]
+}

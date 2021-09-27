@@ -1,0 +1,575 @@
+{
+  "article_id": "773748383",
+  "sentence offsets in original": [
+    0,
+    207,
+    280,
+    354,
+    517,
+    605,
+    737,
+    834,
+    928,
+    984,
+    1040,
+    1069,
+    1099,
+    1180,
+    1262,
+    1290,
+    1353,
+    1431,
+    1579,
+    1750,
+    1844,
+    1983,
+    2181,
+    2239,
+    2505,
+    2697,
+    2786,
+    2917,
+    3018,
+    3109,
+    3216,
+    3352,
+    3460,
+    3560,
+    3686,
+    3774,
+    3831,
+    3867,
+    3941,
+    4112,
+    4177,
+    4367,
+    4475,
+    4602,
+    4686
+  ],
+  "original sentences": [
+    "The Goal Of Eliminating Guns Is Ultimately A Fool\u2019s Errand\n\nIt is said that the DOJ's recent settlement with start-up company Defense Distributed (DD) essentially deals a death blow to gun control advocates.",
+    "\nDD, based in Austin, TX, was founded by 25-year-old Cody Wilson in 2013.",
+    "\nThe company's main product is a \"gun fabricator\" called the Ghost Gunner.",
+    "\nWith nothing but the Ghost Gunner, an internet connection, and some raw materials, anyone, anywhere can make an unmarked, untraceable gun in their home or garage.",
+    "\nThe settlement states that 3D printing tutorials are approved \u201cfor public release (i.e.",
+    "\nunlimited distribution) in any form.\u201d\nWilson created a ruckus in May 2013 when he announced his successful design of a plastic gun.",
+    "\nIn just two days, 100,000 copies of the handgun blueprint were downloaded from Wilson\u2019s website.",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThe most downloads came from Spain, followed by the U.S., Brazil and Germany.",
+    "\nThe heavy downloading in Spain, Brazil and Germany likely reflected attempts to evade extremely restrictive handgun regulations in those countries.",
+    "\nWithin days of the gun file being uploaded, the Obama State Department served Wilson with a letter threatening criminal prosecution for violating federal export controls.",
+    "\nWilson immediately complied with the order, but there was no way to stop further downloading.",
+    "\nWithin a week of the initial uploading, the file could be downloaded on the Internet from over 4,000 different computers around the world.",
+    "\nIn 2015, the Second Amendment Foundation (SAF) and DD sued the State Department, arguing that \"sharing instructions on how to make guns with 3D printers counts as constitutionally protected speech.",
+    "\nThis is an important victory for First Amendment rights.\"",
+    "\nThe Justice Department\u2019s recent settlement with Wilson is very favorable to him, allowing Wilson to provide the printing instructions \u201cfor public release (meaning unlimited distribution) in any form.\u201d The government also compensated $40,000 of Wilson\u2019s legal costs.",
+    "\nWhile this settlement is a victory for First Amendment rights, it will be difficult, if not impossible, for the government to regulate either the printers or the guns that are made with them.",
+    "\nHow the government will stop people from obtaining these printers isn\u2019t exactly obvious.",
+    "\nProposals to require background checks, mandatory serial numbers and even a registration process for printers are easily defeated.",
+    "\nEven if printers are registered with the government, what is going to stop gangs from stealing them?",
+    "\nAnd the designs for making your own printer have been available on the Internet for years.",
+    "\n3D printers make the already extremely difficult job of controlling access to guns practically impossible.",
+    "\nThe government is not going to be able to ban guns, and limits on the size of bullet magazines will be even more laughable than before.",
+    "\nMany parts of a gun can be made on very inexpensive, plastic 3D printers or even from simple machine tools.",
+    "\nIt will be even more difficult to impose background checks, which have proven quite useless anyway.",
+    "\nThe government has been no more effective at stopping criminals from getting guns than at stopping them from obtaining drugs.",
+    "\nThat isn\u2019t too surprising, as drug gangs are the source of both illegal drugs and guns.",
+    "\nThis was a tough battle for the plaintiff's, SAF and DD.",
+    "\nThey lost many lower court rulings.",
+    "\nGun-control advocates believe that the government \"capitulated\" too soon.",
+    "\nJ. Adam Skaggs, the chief counsel for the Giffords Law Center to Prevent Gun Violence, said the administration \u201ccapitulated in a case it had won at every step of the way.",
+    "\nThis isn\u2019t a case where the underlying facts of the law changed.",
+    "\nThe only thing that changed was the administration.\u201d\nThe concept of making guns with 3D printers in an age where just one year can render much technology obsolete shouldn't surprise anyone.",
+    "\nNor should the fact that instructions for gun assembly are easily available for download over the internet.",
+    "\nAt the click of a mouse, we can summon almost any information we could possibly need including instructions for making a bomb.",
+    "\nThe ability to build an untraceable, unregistered gun is definitely a game changer.",
+    "\nIt's difficult to see how \"ghost guns\" could ever be regulated by the government."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 207,
+      "text": "The Goal Of Eliminating Guns Is Ultimately A Fool\u2019s Errand\n\nIt is said that the DOJ's recent settlement with start-up company Defense Distributed (DD) essentially deals a death blow to gun control advocates.",
+      "new_text": "The Goal Of Eliminating Guns Is Ultimately A Waste Of Time\n\nIt is said that the DOJ's recent settlement with start-up company Defense Distributed (DD) essentially causes an abrupt end to gun control advocates.",
+      "prop_spans": [
+        [
+          43,
+          58,
+          "Loaded_Language"
+        ],
+        [
+          163,
+          182,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 207,
+      "end_ix": 280,
+      "text": "\nDD, based in Austin, TX, was founded by 25-year-old Cody Wilson in 2013.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 280,
+      "end_ix": 354,
+      "text": "\nThe company's main product is a \"gun fabricator\" called the Ghost Gunner.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 354,
+      "end_ix": 517,
+      "text": "\nWith nothing but the Ghost Gunner, an internet connection, and some raw materials, anyone, anywhere can make an unmarked, untraceable gun in their home or garage.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 517,
+      "end_ix": 605,
+      "text": "\nThe settlement states that 3D printing tutorials are approved \u201cfor public release (i.e.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 605,
+      "end_ix": 737,
+      "text": "\nunlimited distribution) in any form.\u201d\nWilson created a ruckus in May 2013 when he announced his successful design of a plastic gun.",
+      "new_text": "\nunlimited distribution) in any form.\u201d\nWilson created a commotion in May 2013 when he announced his successful design of a plastic gun.",
+      "prop_spans": [
+        [
+          651,
+          668,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 737,
+      "end_ix": 834,
+      "text": "\nIn just two days, 100,000 copies of the handgun blueprint were downloaded from Wilson\u2019s website.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 834,
+      "end_ix": 928,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 928,
+      "end_ix": 984,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 984,
+      "end_ix": 1040,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1040,
+      "end_ix": 1069,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1069,
+      "end_ix": 1099,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1099,
+      "end_ix": 1180,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1180,
+      "end_ix": 1262,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1262,
+      "end_ix": 1290,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1290,
+      "end_ix": 1353,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1353,
+      "end_ix": 1431,
+      "text": "\nThe most downloads came from Spain, followed by the U.S., Brazil and Germany.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1431,
+      "end_ix": 1579,
+      "text": "\nThe heavy downloading in Spain, Brazil and Germany likely reflected attempts to evade extremely restrictive handgun regulations in those countries.",
+      "new_text": "\nThe heavy downloading in Spain, Brazil and Germany likely reflected attempts to evade restrictive handgun regulations in those countries.",
+      "prop_spans": [
+        [
+          1518,
+          1578,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1579,
+      "end_ix": 1750,
+      "text": "\nWithin days of the gun file being uploaded, the Obama State Department served Wilson with a letter threatening criminal prosecution for violating federal export controls.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1750,
+      "end_ix": 1844,
+      "text": "\nWilson immediately complied with the order, but there was no way to stop further downloading.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1844,
+      "end_ix": 1983,
+      "text": "\nWithin a week of the initial uploading, the file could be downloaded on the Internet from over 4,000 different computers around the world.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1983,
+      "end_ix": 2181,
+      "text": "\nIn 2015, the Second Amendment Foundation (SAF) and DD sued the State Department, arguing that \"sharing instructions on how to make guns with 3D printers counts as constitutionally protected speech.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2181,
+      "end_ix": 2239,
+      "text": "\nThis is an important victory for First Amendment rights.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2239,
+      "end_ix": 2505,
+      "text": "\nThe Justice Department\u2019s recent settlement with Wilson is very favorable to him, allowing Wilson to provide the printing instructions \u201cfor public release (meaning unlimited distribution) in any form.\u201d The government also compensated $40,000 of Wilson\u2019s legal costs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2505,
+      "end_ix": 2697,
+      "text": "\nWhile this settlement is a victory for First Amendment rights, it will be difficult, if not impossible, for the government to regulate either the printers or the guns that are made with them.",
+      "new_text": "\nWhile this settlement is a victory for First Amendment rights, it will be difficult for the government to regulate either the printers or the guns that are made with them.",
+      "prop_spans": [
+        [
+          2569,
+          2608,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2697,
+      "end_ix": 2786,
+      "text": "\nHow the government will stop people from obtaining these printers isn\u2019t exactly obvious.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2786,
+      "end_ix": 2917,
+      "text": "\nProposals to require background checks, mandatory serial numbers and even a registration process for printers are easily defeated.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2917,
+      "end_ix": 3018,
+      "text": "\nEven if printers are registered with the government, what is going to stop gangs from stealing them?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3018,
+      "end_ix": 3109,
+      "text": "\nAnd the designs for making your own printer have been available on the Internet for years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3109,
+      "end_ix": 3216,
+      "text": "\n3D printers make the already extremely difficult job of controlling access to guns practically impossible.",
+      "new_text": "\n3D printers make the already difficult job of controlling access to guns more difficult.",
+      "prop_spans": [
+        [
+          3122,
+          3215,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3216,
+      "end_ix": 3352,
+      "text": "\nThe government is not going to be able to ban guns, and limits on the size of bullet magazines will be even more laughable than before.",
+      "new_text": "\nThe government is not going to be able to ban guns, and limits on the size of bullet magazines will be even more ridiculous than before.",
+      "prop_spans": [
+        [
+          3320,
+          3340,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3352,
+      "end_ix": 3460,
+      "text": "\nMany parts of a gun can be made on very inexpensive, plastic 3D printers or even from simple machine tools.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3460,
+      "end_ix": 3560,
+      "text": "\nIt will be even more difficult to impose background checks, which have proven quite useless anyway.",
+      "new_text": "\nIt will be even more difficult to impose background checks.",
+      "prop_spans": [
+        [
+          3521,
+          3559,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3560,
+      "end_ix": 3686,
+      "text": "\nThe government has been no more effective at stopping criminals from getting guns than at stopping them from obtaining drugs.",
+      "new_text": "\nThe government has not been effective at stopping criminals from getting guns.",
+      "prop_spans": [
+        [
+          3561,
+          3685,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3686,
+      "end_ix": 3774,
+      "text": "\nThat isn\u2019t too surprising, as drug gangs are the source of both illegal drugs and guns.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3774,
+      "end_ix": 3831,
+      "text": "\nThis was a tough battle for the plaintiff's, SAF and DD.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3831,
+      "end_ix": 3867,
+      "text": "\nThey lost many lower court rulings.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3867,
+      "end_ix": 3941,
+      "text": "\nGun-control advocates believe that the government \"capitulated\" too soon.",
+      "new_text": "\nGun-control advocates believe that the government \"capitulated\" too soon.",
+      "prop_spans": [
+        [
+          3903,
+          3930,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3941,
+      "end_ix": 4112,
+      "text": "\nJ. Adam Skaggs, the chief counsel for the Giffords Law Center to Prevent Gun Violence, said the administration \u201ccapitulated in a case it had won at every step of the way.",
+      "new_text": "\nJ. Adam Skaggs, the chief counsel for the Giffords Law Center to Prevent Gun Violence, said the administration \u201ccapitulated in a case it had won at every step of the way.",
+      "prop_spans": [
+        [
+          4034,
+          4066,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4112,
+      "end_ix": 4177,
+      "text": "\nThis isn\u2019t a case where the underlying facts of the law changed.",
+      "new_text": "\nThis isn\u2019t a case where the underlying facts of the law changed.",
+      "prop_spans": [
+        [
+          4113,
+          4177,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4177,
+      "end_ix": 4367,
+      "text": "\nThe only thing that changed was the administration.\u201d\nThe concept of making guns with 3D printers in an age where just one year can render much technology obsolete shouldn't surprise anyone.",
+      "new_text": "\nThe only thing that changed was the administration.\u201d\nThe concept of making guns with 3D printers in an age where just one year can render much technology obsolete shouldn't surprise anyone.",
+      "prop_spans": [
+        [
+          4177,
+          4228,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4367,
+      "end_ix": 4475,
+      "text": "\nNor should the fact that instructions for gun assembly are easily available for download over the internet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4475,
+      "end_ix": 4602,
+      "text": "\nAt the click of a mouse, we can summon almost any information we could possibly need including instructions for making a bomb.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4602,
+      "end_ix": 4686,
+      "text": "\nThe ability to build an untraceable, unregistered gun is definitely a game changer.",
+      "new_text": "\nThe ability to build an untraceable, unregistered gun is definitely successful.",
+      "prop_spans": [
+        [
+          4671,
+          4685,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4686,
+      "end_ix": 4768,
+      "text": "\nIt's difficult to see how \"ghost guns\" could ever be regulated by the government.",
+      "new_text": "\nIt's difficult to see how \"ghost guns\" could ever be regulated by the government.",
+      "prop_spans": [
+        [
+          4714,
+          4724,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      43,
+      58,
+      "Loaded_Language"
+    ],
+    [
+      163,
+      182,
+      "Loaded_Language"
+    ],
+    [
+      651,
+      668,
+      "Loaded_Language"
+    ],
+    [
+      1518,
+      1578,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2569,
+      2608,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3122,
+      3215,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3320,
+      3340,
+      "Loaded_Language"
+    ],
+    [
+      3521,
+      3559,
+      "Doubt"
+    ],
+    [
+      3561,
+      3685,
+      "Doubt"
+    ],
+    [
+      3903,
+      3930,
+      "Loaded_Language"
+    ],
+    [
+      4034,
+      4066,
+      "Loaded_Language"
+    ],
+    [
+      4113,
+      4228,
+      "Doubt"
+    ],
+    [
+      4671,
+      4685,
+      "Loaded_Language"
+    ],
+    [
+      4714,
+      4724,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

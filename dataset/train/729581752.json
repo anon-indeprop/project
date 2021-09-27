@@ -1,0 +1,168 @@
+{
+  "article_id": "729581752",
+  "sentence offsets in original": [
+    0,
+    215,
+    442,
+    585,
+    762,
+    933,
+    1095,
+    1287,
+    1456,
+    1608,
+    1704,
+    1831,
+    1912,
+    2053,
+    2164
+  ],
+  "original sentences": [
+    "The Sun is getting cooler and dimmer, but scientists aren\u2019t worried\n\nIn what is being considered a particularly rare event, scientists are projecting that the Sun will be an unusually cool customer by the year 2050.",
+    "\nBy combining data and observations from decades of Sun research, experts are predicting a \u201cGrand Solar Minimum\u201d will occur a few decades from now, making our parent star dimmer and cooler than it has been for a very long time.",
+    "\nThe Sun might look the same to you today as it has since the first time you laid eyes on it, but our star actually displays plenty of changes.",
+    "\nThe Sun goes through regular cycles of solar minimums and solar maximums, which are periods where the Sun is either quite calm (the minimum) or incredibly active (the maximum).",
+    "\nThese patterns repeat every 11 years or so, but new research suggests that there\u2019s a pattern behind the pattern, and that a particularly cool solar minimum is on the way.",
+    "\nThe study, which was published in Astrophysical Journal Letters, was carried out by a team led by physicist Dan Lubin of the University of California, San Diego.",
+    "\nAfter combing the data, Lubin\u2019s team has forecasted a grand minimum that will be around seven percent cooler than the typical solar minimum, making it a particularly calm moment for our star.",
+    "\nDuring a solar minimum, the Sun produces far fewer solar flares and sunspots, and as a result, much less ultraviolet radiation is shot out into space and towards Earth.",
+    "\nThis can have a number of effects on our planet, including changes in the thickness of the stratospheric ozone layer and temperatures far above ground.",
+    "\nThose changes can affect weather, though forecasting specific differences has proven difficult.",
+    "\nThe grand minimum will be an exaggerated version of the typical solar minimum, and could produce some very noticeable effects.",
+    "\nThe most recent grand minimum is thought to have occurred back in the mid 1600s.",
+    "\nThe event, called the Maunder Minimum, is credited with plunging temperatures to the point where the Thames River and Baltic Sea froze over.",
+    "\nHowever, other parts of the planet heated up, including Alaska and Greenland, to far above their normal highs.",
+    "\nThis temporary shakeup of temperatures could happen again, though the researchers say it will have very little effect on the overall global warming trend that mankind has created for itself."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 215,
+      "text": "The Sun is getting cooler and dimmer, but scientists aren\u2019t worried\n\nIn what is being considered a particularly rare event, scientists are projecting that the Sun will be an unusually cool customer by the year 2050.",
+      "new_text": "The Sun is getting cooler and dimmer\n\nIn what is being considered a particularly rare event, scientists are projecting that the Sun will be an unusually cool customer by the year 2050.",
+      "prop_spans": [
+        [
+          38,
+          67,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 215,
+      "end_ix": 442,
+      "text": "\nBy combining data and observations from decades of Sun research, experts are predicting a \u201cGrand Solar Minimum\u201d will occur a few decades from now, making our parent star dimmer and cooler than it has been for a very long time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 442,
+      "end_ix": 585,
+      "text": "\nThe Sun might look the same to you today as it has since the first time you laid eyes on it, but our star actually displays plenty of changes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 585,
+      "end_ix": 762,
+      "text": "\nThe Sun goes through regular cycles of solar minimums and solar maximums, which are periods where the Sun is either quite calm (the minimum) or incredibly active (the maximum).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 762,
+      "end_ix": 933,
+      "text": "\nThese patterns repeat every 11 years or so, but new research suggests that there\u2019s a pattern behind the pattern, and that a particularly cool solar minimum is on the way.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 933,
+      "end_ix": 1095,
+      "text": "\nThe study, which was published in Astrophysical Journal Letters, was carried out by a team led by physicist Dan Lubin of the University of California, San Diego.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1095,
+      "end_ix": 1287,
+      "text": "\nAfter combing the data, Lubin\u2019s team has forecasted a grand minimum that will be around seven percent cooler than the typical solar minimum, making it a particularly calm moment for our star.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1287,
+      "end_ix": 1456,
+      "text": "\nDuring a solar minimum, the Sun produces far fewer solar flares and sunspots, and as a result, much less ultraviolet radiation is shot out into space and towards Earth.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1456,
+      "end_ix": 1608,
+      "text": "\nThis can have a number of effects on our planet, including changes in the thickness of the stratospheric ozone layer and temperatures far above ground.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1608,
+      "end_ix": 1704,
+      "text": "\nThose changes can affect weather, though forecasting specific differences has proven difficult.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1704,
+      "end_ix": 1831,
+      "text": "\nThe grand minimum will be an exaggerated version of the typical solar minimum, and could produce some very noticeable effects.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1831,
+      "end_ix": 1912,
+      "text": "\nThe most recent grand minimum is thought to have occurred back in the mid 1600s.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1912,
+      "end_ix": 2053,
+      "text": "\nThe event, called the Maunder Minimum, is credited with plunging temperatures to the point where the Thames River and Baltic Sea froze over.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2053,
+      "end_ix": 2164,
+      "text": "\nHowever, other parts of the planet heated up, including Alaska and Greenland, to far above their normal highs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2164,
+      "end_ix": 2355,
+      "text": "\nThis temporary shakeup of temperatures could happen again, though the researchers say it will have very little effect on the overall global warming trend that mankind has created for itself.",
+      "new_text": "\nThis temporary shakeup of temperatures could happen again, though the it should have very little effect on the overall global warming trend that mankind has created for itself.",
+      "prop_spans": [
+        [
+          2235,
+          2355,
+          "Appeal_to_Authority"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      38,
+      67,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2235,
+      2356,
+      "Appeal_to_Authority"
+    ]
+  ]
+}

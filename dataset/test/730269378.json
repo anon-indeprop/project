@@ -1,0 +1,122 @@
+{
+  "article_id": "730269378",
+  "sentence offsets in original": [
+    0,
+    28,
+    85,
+    158,
+    274,
+    338,
+    440,
+    662,
+    724,
+    796
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nThanks for publicizing the race of Quentin Lamar Smith.",
+    "\nI tried for 24 hours before I discovered the mugshot that you published.",
+    "\nVDARE.com was the first news organization to make his race known, even though he was well known to law enforcement.",
+    "\nIt took about 10 hours for law enforcement to release his name.",
+    "\nQuentin is a convicted felon who is not allowed to have a gun, even though he carried one everywhere.",
+    "\n[ Police shooting suspect\u2019s past and police history at the Westerville home, by Tara Morgan, ABC6onyourside.com,February 11th 2018]\nI have been unable to determine the race of Quentin\u2019s wife--the domestic violence victim.",
+    "\nThe fact that there was a wedding makes me think she\u2019s white.",
+    "\nAlso, she kind of sounds white in the 911 calls, but it\u2019s hard to tell.",
+    "\nPlease keep up your great work."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 85,
+      "text": "\n\nThanks for publicizing the race of Quentin Lamar Smith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 85,
+      "end_ix": 158,
+      "text": "\nI tried for 24 hours before I discovered the mugshot that you published.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 158,
+      "end_ix": 274,
+      "text": "\nVDARE.com was the first news organization to make his race known, even though he was well known to law enforcement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 274,
+      "end_ix": 338,
+      "text": "\nIt took about 10 hours for law enforcement to release his name.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 338,
+      "end_ix": 440,
+      "text": "\nQuentin is a convicted felon who is not allowed to have a gun, even though he carried one everywhere.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 440,
+      "end_ix": 662,
+      "text": "\n[ Police shooting suspect\u2019s past and police history at the Westerville home, by Tara Morgan, ABC6onyourside.com,February 11th 2018]\nI have been unable to determine the race of Quentin\u2019s wife--the domestic violence victim.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 662,
+      "end_ix": 724,
+      "text": "\nThe fact that there was a wedding makes me think she\u2019s white.",
+      "new_text": "\nThe fact that there was a wedding makes me think she\u2019s white.",
+      "prop_spans": [
+        [
+          689,
+          696,
+          "Red_Herring"
+        ],
+        [
+          718,
+          723,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 724,
+      "end_ix": 796,
+      "text": "\nAlso, she kind of sounds white in the 911 calls, but it\u2019s hard to tell.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 796,
+      "end_ix": 828,
+      "text": "\nPlease keep up your great work.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      689,
+      696,
+      "Red_Herring"
+    ],
+    [
+      718,
+      723,
+      "Causal_Oversimplification"
+    ]
+  ]
+}

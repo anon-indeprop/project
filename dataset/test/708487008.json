@@ -1,0 +1,241 @@
+{
+  "article_id": "708487008",
+  "sentence offsets in original": [
+    0,
+    268,
+    375,
+    586,
+    818,
+    971,
+    1154,
+    1334,
+    1557,
+    1652,
+    1777,
+    1920,
+    2016,
+    2155,
+    2216
+  ],
+  "original sentences": [
+    "Black Death Warning: The Plague Is Impossible To Eradicate\n\nFace masks are placed on children in Antananarivo, Madagascar (AP Photo/Alexander JOE)\nAn expert is warning the plague that has sickened over 2000 people in Madagascar since August is impossible to eradicate.",
+    "\nEven though the number of those infected has dropped in recent weeks, the plague will never truly be gone.",
+    "\nSince the airborne version of the plague can kill a person in just three hours, experts warn that its too soon to think that since there hasn\u2019t been a person infected in recent days, that it won\u2019t pop up again.",
+    "\nThat\u2019s because the bacteria that causes plague is now so widespread in wildlife, that humans can\u2019t do anything to get rid of it, said Dr. Allen Cheng, Professor of Infectious Diseases Epidemiology at Monash University in Melbourne.",
+    "\n\u201cIt\u2019s not possible to eradicate plague, as it is widespread in wildlife rodents outside the sphere of human influence,\u201d Cheng wrote on The Conversation.",
+    "\n\u201cOutbreaks, generally, are managed reactively by \u2018firefighting teams\u2019, deployed to clear houses of fleas, identify and treat cases and give pre-emptive treatment to contacts at risk.",
+    "\nA more preventative approach, such as the identification of areas at risk using climate models and animal surveys to focus flea and rat control efforts, would be better,\u201d he said.",
+    "\n\u201cBut, this requires a better understanding of transmission pathways in each region where disease persists.\u201d\nThe best way to stop the plague spreading was to focus on flea and rat control in the most at-risk areas, he said.",
+    "\nCheng\u2019s comments came after at least 171 people died in Madagascar over an outbreak of plague.",
+    "\nNine countries were urged by the World Health Organisation (WHO) to prepare for a black death attack, at the end of October.",
+    "\nIt\u2019s been reported that plague has been transmitted to humans by camels, goats, prairie dogs, rock squirrels and guinea pigs since the 1960\u2019s.",
+    "\nThere are only a few remaining hotspots for plague in the world \u2013 Madagascar being one of them.",
+    "\nThis outbreak was also highly \u201cunusual\u201d, in that several different parts of the island were affected, including areas with lots of people.",
+    "\nWHO has reported 2119 cases of the plague as of November 10.",
+    "\n171 have died of the disease so far."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 268,
+      "text": "Black Death Warning: The Plague Is Impossible To Eradicate\n\nFace masks are placed on children in Antananarivo, Madagascar (AP Photo/Alexander JOE)\nAn expert is warning the plague that has sickened over 2000 people in Madagascar since August is impossible to eradicate.",
+      "new_text": "Black Death Warning: The Plague Might Be Impossible To Eradicate\n\nFace masks are placed on children in Antananarivo, Madagascar (AP Photo/Alexander JOE)\nAn expert is warning the plague that has sickened over 2000 people in Madagascar since August might be impossible to eradicate.",
+      "prop_spans": [
+        [
+          0,
+          11,
+          "Name_Calling,Labeling"
+        ],
+        [
+          21,
+          58,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          160,
+          267,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 268,
+      "end_ix": 375,
+      "text": "\nEven though the number of those infected has dropped in recent weeks, the plague will never truly be gone.",
+      "new_text": "\nEven though the number of those infected has dropped in recent weeks, the plague might never truly be gone.",
+      "prop_spans": [
+        [
+          339,
+          374,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 375,
+      "end_ix": 586,
+      "text": "\nSince the airborne version of the plague can kill a person in just three hours, experts warn that its too soon to think that since there hasn\u2019t been a person infected in recent days, that it won\u2019t pop up again.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 586,
+      "end_ix": 818,
+      "text": "\nThat\u2019s because the bacteria that causes plague is now so widespread in wildlife, that humans can\u2019t do anything to get rid of it, said Dr. Allen Cheng, Professor of Infectious Diseases Epidemiology at Monash University in Melbourne.",
+      "new_text": "\nThat\u2019s because the bacteria that causes plague is now so widespread in wildlife, that humans might not be able to do anything to get rid of it, said Dr. Allen Cheng, Professor of Infectious Diseases Epidemiology at Monash University in Melbourne.",
+      "prop_spans": [
+        [
+          602,
+          714,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 818,
+      "end_ix": 971,
+      "text": "\n\u201cIt\u2019s not possible to eradicate plague, as it is widespread in wildlife rodents outside the sphere of human influence,\u201d Cheng wrote on The Conversation.",
+      "new_text": "\n\u201cIt\u2019s not possible to eradicate plague, as it is widespread in wildlife rodents outside the sphere of human influence,\u201d Cheng wrote on The Conversation.",
+      "prop_spans": [
+        [
+          820,
+          857,
+          "Repetition"
+        ],
+        [
+          820,
+          857,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 971,
+      "end_ix": 1154,
+      "text": "\n\u201cOutbreaks, generally, are managed reactively by \u2018firefighting teams\u2019, deployed to clear houses of fleas, identify and treat cases and give pre-emptive treatment to contacts at risk.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1154,
+      "end_ix": 1334,
+      "text": "\nA more preventative approach, such as the identification of areas at risk using climate models and animal surveys to focus flea and rat control efforts, would be better,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1334,
+      "end_ix": 1557,
+      "text": "\n\u201cBut, this requires a better understanding of transmission pathways in each region where disease persists.\u201d\nThe best way to stop the plague spreading was to focus on flea and rat control in the most at-risk areas, he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1557,
+      "end_ix": 1652,
+      "text": "\nCheng\u2019s comments came after at least 171 people died in Madagascar over an outbreak of plague.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1652,
+      "end_ix": 1777,
+      "text": "\nNine countries were urged by the World Health Organisation (WHO) to prepare for a black death attack, at the end of October.",
+      "new_text": "\nNine countries were urged by the World Health Organisation (WHO) to prepare for a pandemic, at the end of October.",
+      "prop_spans": [
+        [
+          1721,
+          1753,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1735,
+          1746,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1777,
+      "end_ix": 1920,
+      "text": "\nIt\u2019s been reported that plague has been transmitted to humans by camels, goats, prairie dogs, rock squirrels and guinea pigs since the 1960\u2019s.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1920,
+      "end_ix": 2016,
+      "text": "\nThere are only a few remaining hotspots for plague in the world \u2013 Madagascar being one of them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2016,
+      "end_ix": 2155,
+      "text": "\nThis outbreak was also highly \u201cunusual\u201d, in that several different parts of the island were affected, including areas with lots of people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2155,
+      "end_ix": 2216,
+      "text": "\nWHO has reported 2119 cases of the plague as of November 10.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2216,
+      "end_ix": 2253,
+      "text": "\n171 have died of the disease so far.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      11,
+      "Name_Calling,Labeling"
+    ],
+    [
+      21,
+      58,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      160,
+      267,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      339,
+      374,
+      "Repetition"
+    ],
+    [
+      602,
+      714,
+      "Appeal_to_Authority"
+    ],
+    [
+      820,
+      857,
+      "Repetition"
+    ],
+    [
+      820,
+      857,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1721,
+      1753,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1735,
+      1746,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

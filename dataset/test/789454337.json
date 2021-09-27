@@ -1,0 +1,428 @@
+{
+  "article_id": "789454337",
+  "sentence offsets in original": [
+    0,
+    287,
+    467,
+    639,
+    778,
+    890,
+    1012,
+    1112,
+    1174,
+    1236,
+    1391,
+    1473,
+    1501,
+    1564,
+    1643,
+    1783,
+    1980,
+    2135,
+    2324,
+    2480,
+    2568,
+    2676,
+    2774,
+    2891,
+    2950,
+    3000,
+    3198,
+    3417,
+    3555,
+    3740,
+    3834
+  ],
+  "original sentences": [
+    "Blue Privilege: Amber Guyger Free on Bail as Activists Who Peacefully Protested Her Rot in Jail\n\nThe case of Amber Guyger, the police officer who admitted to shooting 26-year-old Botham Jean in his apartment for no reason, is a glaring example of \u201cblue privilege\u201d at work in our society.",
+    "\nGuyger claims that she accidentally entered the wrong apartment and shot a man who she thought was a burglar, however, eyewitness testimony has contradicted her initial statement.",
+    "\nDespite admitting to killing an innocent man and having her initial statement contradicted by witness testimony, Guyger has been treated as more of a victim than a killer.",
+    "\nIn fact, Guyger\u2019s apartment was never even searched for evidence, and she was allowed to \u201cvacate\u201d the premises without any type of search.",
+    "\nBy not searching her apartment immediately, police ruined the investigation, making it harder to prosecute her.",
+    "\nIt would be reasonable to assume that these steps were taken intentionally because they want to see her get away with it.",
+    "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nMeanwhile, Botham Jean, the actual victim, had his house searched immediately.",
+    "\nPolice claim to have found a very small amount of marijuana, which they attempted to use to smear his name and somehow justify the killing.",
+    "\nIt is obvious in this case that Guyger is receiving special treatment, not only did she get away without a search, but she turned herself in at her own convenience and was let out two hours later.",
+    "\nNot even the richest people in the country with the best lawyers would receive this type of treatment if they just admitted to killing an innocent person.",
+    "\nThere has also been controversy over the fact that Guyger has been charged with manslaughter instead of murder, which will make it possible for her to receive a much short prison sentence.",
+    "\nAs Guyger walks free awaiting her trial, the 9 people who were arrested protesting the murder and Guyger\u2019s special treatment are still sitting behind bars.",
+    "\nAfter a ceremony for Botham Jean, the protesters were arrested for obstructing traffic.",
+    "\nAttorney Lee Merritt, who represents Botham Jean\u2019s family, posted an update about the injustice on Twitter.",
+    "\nI just learned the Dallas 9 will spend another night in jail for peacefully protesting brutality.",
+    "\nTues Officer Wiley will be tried for shooting an unarmed man 2x he wrongfully suspected of burglarizing his own car.",
+    "\nD-9 have already spent more time in jail then he ever has.",
+    "\npic.twitter.com/mGHOzsN6Pp \u2014 S. Lee Merritt, Esq.",
+    "\n(@MeritLaw) September 17, 2018\n\u201cThe officer responsible for the completely unjustifiable shooting death of O\u2019Shea Terry has been returned to light duty and has faced no criminal charges whatsoever.",
+    "\nThe officer who shot and killed Botham Jean remains on the Dallas police force and was able to bond out on manslaughter charges in a fraction of the time the protestors have spent in jail,\u201d Merritt said in a statement.",
+    "\nMerrit cast suspicion on the police for intentionally keeping these protestors in jail to send a message and make an example out of them.",
+    "\nThe reaction from the police, in this case, has shown that they believe they have a license to kill and that they cannot be trusted to monitor themselves and keep one another in check.",
+    "\nThey have no interest in serving justice when it comes to enforcing crimes against their own.",
+    "\nArticle posted with permission from John Vibes."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 287,
+      "text": "Blue Privilege: Amber Guyger Free on Bail as Activists Who Peacefully Protested Her Rot in Jail\n\nThe case of Amber Guyger, the police officer who admitted to shooting 26-year-old Botham Jean in his apartment for no reason, is a glaring example of \u201cblue privilege\u201d at work in our society.",
+      "new_text": "Blue Privilege: Amber Guyger Free on Bail as Activists Who Peacefully Protested Her Rot in Jail\n\nThe case of Amber Guyger, the police officer who admitted to shooting 26-year-old Botham Jean in his apartment, is a glaring example of \u201cblue privilege\u201d at work in our society.",
+      "prop_spans": [
+        [
+          84,
+          87,
+          "Loaded_Language"
+        ],
+        [
+          146,
+          221,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ],
+        [
+          248,
+          262,
+          "Name_Calling,Labeling"
+        ],
+        [
+          275,
+          286,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 287,
+      "end_ix": 467,
+      "text": "\nGuyger claims that she accidentally entered the wrong apartment and shot a man who she thought was a burglar, however, eyewitness testimony has contradicted her initial statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 467,
+      "end_ix": 639,
+      "text": "\nDespite admitting to killing an innocent man and having her initial statement contradicted by witness testimony, Guyger has been treated as more of a victim than a killer.",
+      "new_text": "\nDespite admitting to killing a man and having her initial statement contradicted by witness testimony, Guyger has been treated as more of a victim than a killer.",
+      "prop_spans": [
+        [
+          500,
+          508,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 639,
+      "end_ix": 778,
+      "text": "\nIn fact, Guyger\u2019s apartment was never even searched for evidence, and she was allowed to \u201cvacate\u201d the premises without any type of search.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 778,
+      "end_ix": 890,
+      "text": "\nBy not searching her apartment immediately, police ruined the investigation, making it harder to prosecute her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 890,
+      "end_ix": 1012,
+      "text": "\nIt would be reasonable to assume that these steps were taken intentionally because they want to see her get away with it.",
+      "new_text": "\nIt would be reasonable to assume that these steps were taken intentionally.",
+      "prop_spans": [
+        [
+          966,
+          1011,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1012,
+      "end_ix": 1112,
+      "text": "\ntake our poll - story continues below\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1112,
+      "end_ix": 1174,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1174,
+      "end_ix": 1236,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1236,
+      "end_ix": 1391,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1391,
+      "end_ix": 1473,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1473,
+      "end_ix": 1501,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1501,
+      "end_ix": 1564,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1564,
+      "end_ix": 1643,
+      "text": "\nMeanwhile, Botham Jean, the actual victim, had his house searched immediately.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1643,
+      "end_ix": 1783,
+      "text": "\nPolice claim to have found a very small amount of marijuana, which they attempted to use to smear his name and somehow justify the killing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1783,
+      "end_ix": 1980,
+      "text": "\nIt is obvious in this case that Guyger is receiving special treatment, not only did she get away without a search, but she turned herself in at her own convenience and was let out two hours later.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1980,
+      "end_ix": 2135,
+      "text": "\nNot even the richest people in the country with the best lawyers would receive this type of treatment if they just admitted to killing an innocent person.",
+      "new_text": "\nNot even the richest people in the country with the best lawyers would receive this type of treatment if they just admitted to killing a person.",
+      "prop_spans": [
+        [
+          2119,
+          2127,
+          "Repetition"
+        ],
+        [
+          2119,
+          2127,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2135,
+      "end_ix": 2324,
+      "text": "\nThere has also been controversy over the fact that Guyger has been charged with manslaughter instead of murder, which will make it possible for her to receive a much short prison sentence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2324,
+      "end_ix": 2480,
+      "text": "\nAs Guyger walks free awaiting her trial, the 9 people who were arrested protesting the murder and Guyger\u2019s special treatment are still sitting behind bars.",
+      "new_text": "\nGuyger walks free awaiting her trial.",
+      "prop_spans": [
+        [
+          2325,
+          2479,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2480,
+      "end_ix": 2568,
+      "text": "\nAfter a ceremony for Botham Jean, the protesters were arrested for obstructing traffic.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2568,
+      "end_ix": 2676,
+      "text": "\nAttorney Lee Merritt, who represents Botham Jean\u2019s family, posted an update about the injustice on Twitter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2676,
+      "end_ix": 2774,
+      "text": "\nI just learned the Dallas 9 will spend another night in jail for peacefully protesting brutality.",
+      "new_text": "\nI just learned the Dallas 9 will spend another night in jail for peacefully protesting cruelty.",
+      "prop_spans": [
+        [
+          2764,
+          2773,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2774,
+      "end_ix": 2891,
+      "text": "\nTues Officer Wiley will be tried for shooting an unarmed man 2x he wrongfully suspected of burglarizing his own car.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2891,
+      "end_ix": 2950,
+      "text": "\nD-9 have already spent more time in jail then he ever has.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2950,
+      "end_ix": 3000,
+      "text": "\npic.twitter.com/mGHOzsN6Pp \u2014 S. Lee Merritt, Esq.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3000,
+      "end_ix": 3198,
+      "text": "\n(@MeritLaw) September 17, 2018\n\u201cThe officer responsible for the completely unjustifiable shooting death of O\u2019Shea Terry has been returned to light duty and has faced no criminal charges whatsoever.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3198,
+      "end_ix": 3417,
+      "text": "\nThe officer who shot and killed Botham Jean remains on the Dallas police force and was able to bond out on manslaughter charges in a fraction of the time the protestors have spent in jail,\u201d Merritt said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3417,
+      "end_ix": 3555,
+      "text": "\nMerrit cast suspicion on the police for intentionally keeping these protestors in jail to send a message and make an example out of them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3555,
+      "end_ix": 3740,
+      "text": "\nThe reaction from the police, in this case, has shown that they believe they have a license to kill and that they cannot be trusted to monitor themselves and keep one another in check.",
+      "new_text": "\nThe reaction from the police, in this case, has shown that they believe they have the authority to kill and that they might not keep each other in check.",
+      "prop_spans": [
+        [
+          3628,
+          3655,
+          "Loaded_Language"
+        ],
+        [
+          3665,
+          3739,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3740,
+      "end_ix": 3834,
+      "text": "\nThey have no interest in serving justice when it comes to enforcing crimes against their own.",
+      "new_text": "\nThey have no interest in being just when it comes to enforcing crimes against their own.",
+      "prop_spans": [
+        [
+          3751,
+          3781,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3834,
+      "end_ix": 3882,
+      "text": "\nArticle posted with permission from John Vibes.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      84,
+      87,
+      "Loaded_Language"
+    ],
+    [
+      146,
+      221,
+      "Obfuscation,Intentional_Vagueness,Confusion"
+    ],
+    [
+      248,
+      262,
+      "Name_Calling,Labeling"
+    ],
+    [
+      275,
+      286,
+      "Flag-Waving"
+    ],
+    [
+      500,
+      508,
+      "Name_Calling,Labeling"
+    ],
+    [
+      966,
+      1011,
+      "Causal_Oversimplification"
+    ],
+    [
+      2119,
+      2127,
+      "Repetition"
+    ],
+    [
+      2119,
+      2127,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2325,
+      2479,
+      "Whataboutism"
+    ],
+    [
+      2764,
+      2773,
+      "Loaded_Language"
+    ],
+    [
+      3628,
+      3655,
+      "Loaded_Language"
+    ],
+    [
+      3665,
+      3739,
+      "Doubt"
+    ],
+    [
+      3751,
+      3781,
+      "Loaded_Language"
+    ]
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "article_id": "708561738",
+  "sentence offsets in original": [
+    0,
+    85,
+    172,
+    226,
+    237,
+    299,
+    495,
+    726,
+    791,
+    841,
+    974,
+    1178,
+    1256,
+    1519,
+    1637,
+    1669,
+    1775,
+    2103,
+    2359,
+    2475,
+    2601,
+    2774,
+    2918,
+    3037,
+    3116
+  ],
+  "original sentences": [
+    "How Do You Like Paying For Sexual Harassment Settlements from Your Congress, America?",
+    "\n\nHow Do You Like Paying For Sexual Harassment Settlements from Your Congress, America?",
+    "\nPlease help support us with cryptocurrency donations.",
+    "\nThank you!",
+    "\nWe finally have the official numbers, and they aren\u2019t pretty.",
+    "\nReid Wilson, a correspondent for the Hill, has posted to Twitter a year by year breakdown of sexual harassment settlements and awards that he received from the Congressional Office of Compliance.",
+    "\nI went ahead and added up each column, and what I discovered is that 264 cases of sexual harassment in Congress have been settled since 1997, and the total amount awarded in those settlements comes to a grand total of $17,250,854.",
+    "\nSo where has the $17,250,854 come from to pay those settlements?",
+    "\nThat money has come from the taxpayers of course.",
+    "\nThat means that you and I have been paying to cover up the epidemic of sexual harassment that has been taking place on Capitol Hill.",
+    "\nWhen U.S. Representative Jackie Speier originally told us that more than 15 million dollars had been paid out to victims of sexual harassment in recent years, I was envisioning a few dozen cases at most.",
+    "\nI had no idea that the total number of cases would actually be well over 200.",
+    "\nIf our leaders were serious about stopping this from happening, they would pass a law making it mandatory that all cases of sexual harassment in Congress be made public, and that members of Congress would be personally responsible for paying out any settlements.",
+    "\nIf such a law was instituted, I guarantee you that sexual harassment on Capitol Hill would come to a screeching halt.",
+    "\nBut they don\u2019t want it to stop.",
+    "\nFor many in Congress, having so many attractive young women around is one of the key benefits of the job.",
+    "\nI included the following quote from CNN in an article the other day, but I also believe that it fits just perfectly here\u2026\nIn an environment with \u201cso many young women,\u201d said one ex-House aide, the men \u201chave no self-control.\u201d \u201cAmongst ourselves, we know,\u201d a former Senate staffer said of the lawmakers with the worst reputations.",
+    "\nAnd sometimes, the sexual advances from members of Congress or senior aides are reciprocated in the hopes of advancing one\u2019s career \u2014 what one political veteran bluntly referred to as a \u201csex trade on Capitol Hill.\u201d\nDo you want to stop this from happening?",
+    "\nIt isn\u2019t going to stop until we boot out the corrupt career politicians that are engaging in this type of behavior.",
+    "\nSo I am asking you to support my campaign and other \u201cgrassroots deplorables\u201d that are running for office all over the nation.",
+    "\nMorality really matters when it comes to serving in public office, and we are not going to send people that engage in sexually inappropriate behavior to Washington anymore.",
+    "\nAnd I am calling on Congress to immediately release the details of all of the 264 cases of sexual harassment that have been settled since 1997.",
+    "\nThe American people have a right to know, and those that engaged in this type of behavior do not have a right to hide.",
+    "\nIt is time to drain the swamp, and this would be a really good place to start.",
+    "\nArticle posted with permission from End of the American Dream"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 85,
+      "text": "How Do You Like Paying For Sexual Harassment Settlements from Your Congress, America?",
+      "new_text": "How Do You Like Paying For Sexual Harassment Settlements from Your Congress, America?",
+      "prop_spans": [
+        [
+          0,
+          85,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 85,
+      "end_ix": 172,
+      "text": "\n\nHow Do You Like Paying For Sexual Harassment Settlements from Your Congress, America?",
+      "new_text": "\n\nHow Do You Like Paying For Sexual Harassment Settlements from Your Congress, America?",
+      "prop_spans": [
+        [
+          85,
+          86,
+          "Flag-Waving"
+        ],
+        [
+          87,
+          172,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 172,
+      "end_ix": 226,
+      "text": "\nPlease help support us with cryptocurrency donations.",
+      "new_text": "\nPlease help support us with cryptocurrency donations.",
+      "prop_spans": [
+        [
+          172,
+          173,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 226,
+      "end_ix": 237,
+      "text": "\nThank you!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 237,
+      "end_ix": 299,
+      "text": "\nWe finally have the official numbers, and they aren\u2019t pretty.",
+      "new_text": "\nWe finally have the official numbers, and they aren\u2019t good.",
+      "prop_spans": [
+        [
+          280,
+          299,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 299,
+      "end_ix": 495,
+      "text": "\nReid Wilson, a correspondent for the Hill, has posted to Twitter a year by year breakdown of sexual harassment settlements and awards that he received from the Congressional Office of Compliance.",
+      "new_text": "\nReid Wilson, a correspondent for the Hill, has posted to Twitter a year by year breakdown of sexual harassment settlements and awards that he received from the Congressional Office of Compliance.",
+      "prop_spans": [
+        [
+          299,
+          300,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 495,
+      "end_ix": 726,
+      "text": "\nI went ahead and added up each column, and what I discovered is that 264 cases of sexual harassment in Congress have been settled since 1997, and the total amount awarded in those settlements comes to a grand total of $17,250,854.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 726,
+      "end_ix": 791,
+      "text": "\nSo where has the $17,250,854 come from to pay those settlements?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 791,
+      "end_ix": 841,
+      "text": "\nThat money has come from the taxpayers of course.",
+      "new_text": "\nThat money has come from the taxes of course.",
+      "prop_spans": [
+        [
+          792,
+          841,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 841,
+      "end_ix": 974,
+      "text": "\nThat means that you and I have been paying to cover up the epidemic of sexual harassment that has been taking place on Capitol Hill.",
+      "new_text": "\nThat means that you and I have been paying to cover up the cases of sexual harassment that has been taking place on Capitol Hill.",
+      "prop_spans": [
+        [
+          841,
+          842,
+          "Flag-Waving"
+        ],
+        [
+          897,
+          930,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 974,
+      "end_ix": 1178,
+      "text": "\nWhen U.S. Representative Jackie Speier originally told us that more than 15 million dollars had been paid out to victims of sexual harassment in recent years, I was envisioning a few dozen cases at most.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1178,
+      "end_ix": 1256,
+      "text": "\nI had no idea that the total number of cases would actually be well over 200.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1256,
+      "end_ix": 1519,
+      "text": "\nIf our leaders were serious about stopping this from happening, they would pass a law making it mandatory that all cases of sexual harassment in Congress be made public, and that members of Congress would be personally responsible for paying out any settlements.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1519,
+      "end_ix": 1637,
+      "text": "\nIf such a law was instituted, I guarantee you that sexual harassment on Capitol Hill would come to a screeching halt.",
+      "new_text": "\nIf such a law was instituted, I guarantee you that sexual harassment on Capitol Hill would come to a screeching halt.",
+      "prop_spans": [
+        [
+          1520,
+          1637,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1621,
+          1636,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1637,
+      "end_ix": 1669,
+      "text": "\nBut they don\u2019t want it to stop.",
+      "new_text": "\nBut they don\u2019t want it to stop.",
+      "prop_spans": [
+        [
+          1637,
+          1638,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1669,
+      "end_ix": 1775,
+      "text": "\nFor many in Congress, having so many attractive young women around is one of the key benefits of the job.",
+      "new_text": "\nFor many in Congress, having so many attractive young women around could be one of the key benefits of the job.",
+      "prop_spans": [
+        [
+          1670,
+          1775,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1775,
+      "end_ix": 2103,
+      "text": "\nI included the following quote from CNN in an article the other day, but I also believe that it fits just perfectly here\u2026\nIn an environment with \u201cso many young women,\u201d said one ex-House aide, the men \u201chave no self-control.\u201d \u201cAmongst ourselves, we know,\u201d a former Senate staffer said of the lawmakers with the worst reputations.",
+      "new_text": "\nI included the following quote from CNN in an article the other day, but I also believe that it fits just perfectly here\u2026\nIn an environment with \u201cso many young women,\u201d said one ex-House aide, the men \u201chave no self-control.\u201d \u201cAmongst ourselves, we know,\u201d a former Senate staffer said of the lawmakers.",
+      "prop_spans": [
+        [
+          1775,
+          1775,
+          "Causal_Oversimplification"
+        ],
+        [
+          1968,
+          1999,
+          "Loaded_Language"
+        ],
+        [
+          2062,
+          2103,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2103,
+      "end_ix": 2359,
+      "text": "\nAnd sometimes, the sexual advances from members of Congress or senior aides are reciprocated in the hopes of advancing one\u2019s career \u2014 what one political veteran bluntly referred to as a \u201csex trade on Capitol Hill.\u201d\nDo you want to stop this from happening?",
+      "new_text": "\nAnd sometimes, the sexual advances from members of Congress or senior aides are reciprocated in the hopes of advancing one\u2019s career \u2014 what one political veteran bluntly referred to as a \u201csex trade on Capitol Hill.\u201d\nDo you want to stop this from happening?",
+      "prop_spans": [
+        [
+          2103,
+          2103,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2291,
+          2318,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2359,
+      "end_ix": 2475,
+      "text": "\nIt isn\u2019t going to stop until we boot out the corrupt career politicians that are engaging in this type of behavior.",
+      "new_text": "\nIt might not stop until we boot out the corrupt career politicians that are engaging in this type of behavior.",
+      "prop_spans": [
+        [
+          2360,
+          2475,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2475,
+      "end_ix": 2601,
+      "text": "\nSo I am asking you to support my campaign and other \u201cgrassroots deplorables\u201d that are running for office all over the nation.",
+      "new_text": "\nSo I am asking you to support my campaign and other \u201cgrassroots deplorables\u201d that are running for office all over the nation.",
+      "prop_spans": [
+        [
+          2475,
+          2475,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          2529,
+          2552,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2601,
+      "end_ix": 2774,
+      "text": "\nMorality really matters when it comes to serving in public office, and we are not going to send people that engage in sexually inappropriate behavior to Washington anymore.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2774,
+      "end_ix": 2918,
+      "text": "\nAnd I am calling on Congress to immediately release the details of all of the 264 cases of sexual harassment that have been settled since 1997.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2918,
+      "end_ix": 3037,
+      "text": "\nThe American people have a right to know, and those that engaged in this type of behavior do not have a right to hide.",
+      "new_text": "\nThe people have a right to know, and those that engaged in this type of behavior do not have a right to hide.",
+      "prop_spans": [
+        [
+          2919,
+          2960,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3037,
+      "end_ix": 3116,
+      "text": "\nIt is time to drain the swamp, and this would be a really good place to start.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3116,
+      "end_ix": 3178,
+      "text": "\nArticle posted with permission from End of the American Dream",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      86,
+      "Flag-Waving"
+    ],
+    [
+      87,
+      173,
+      "Flag-Waving"
+    ],
+    [
+      280,
+      300,
+      "Loaded_Language"
+    ],
+    [
+      792,
+      842,
+      "Flag-Waving"
+    ],
+    [
+      897,
+      930,
+      "Loaded_Language"
+    ],
+    [
+      1520,
+      1638,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1621,
+      1636,
+      "Loaded_Language"
+    ],
+    [
+      1670,
+      1775,
+      "Causal_Oversimplification"
+    ],
+    [
+      1968,
+      1999,
+      "Loaded_Language"
+    ],
+    [
+      2062,
+      2103,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2291,
+      2318,
+      "Slogans"
+    ],
+    [
+      2360,
+      2475,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2529,
+      2552,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2919,
+      2960,
+      "Flag-Waving"
+    ]
+  ]
+}

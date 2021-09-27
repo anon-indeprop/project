@@ -1,0 +1,112 @@
+{
+  "article_id": "754131438",
+  "sentence offsets in original": [
+    0,
+    399,
+    547,
+    702,
+    828,
+    874,
+    1083,
+    1192,
+    1447,
+    1542
+  ],
+  "original sentences": [
+    "Ebola outbreak declared in Democratic Republic of Congo\n\nStory highlights Two cases were confirmed, prompting the outbreak declaration\nIn the past five weeks, there have been 21 suspected cases, including 17 deaths\n(CNN) The government of the Democratic Republic of Congo declared an outbreak of Ebola hemorrhagic fever, a rare and deadly disease, on Tuesday, the World Health Organization reported.",
+    "\nThe declaration came after laboratory results confirmed two cases of the disease in the province of Bikoro in the northwestern part of the country.",
+    "\nEbola virus disease, which most commonly affects people and nonhuman primates (monkeys, gorillas and chimpanzees), is caused by one of five Ebola viruses.",
+    "\nThe virus is transmitted to people from wild animals and spreads in the human population through human-to-human transmission.",
+    "\nThe average case fatality rate is around 50%.",
+    "\nA government statement released Tuesday states that the Ministry of Health has \"taken all necessary measures to respond promptly and effectively to this new epidemic of Ebola in the DRC's national territory\".",
+    "\nIn the past five weeks, there have been 21 suspected cases of viral hemorrhagic fever , including 17 deaths.",
+    "\n\"We will gather more samples, conduct contact tracing, engage the communities with messages on prevention and control, and put in place methods for improving data collection and sharing,\" said Dr. Matshidiso Moeti, the WHO's regional director for Africa.",
+    "\n\"WHO will work closely with health authorities and partners to support the national response.\"",
+    "\nRead More"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 399,
+      "text": "Ebola outbreak declared in Democratic Republic of Congo\n\nStory highlights Two cases were confirmed, prompting the outbreak declaration\nIn the past five weeks, there have been 21 suspected cases, including 17 deaths\n(CNN) The government of the Democratic Republic of Congo declared an outbreak of Ebola hemorrhagic fever, a rare and deadly disease, on Tuesday, the World Health Organization reported.",
+      "new_text": "Ebola outbreak declared in Democratic Republic of Congo\n\nStory highlights Two cases were confirmed, prompting the outbreak declaration\nIn the past five weeks, there have been 21 suspected cases, including 17 deaths\n(CNN) The government of the Democratic Republic of Congo declared an outbreak of Ebola hemorrhagic fever, a rare disease, on Tuesday, the World Health Organization reported.",
+      "prop_spans": [
+        [
+          332,
+          338,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 399,
+      "end_ix": 547,
+      "text": "\nThe declaration came after laboratory results confirmed two cases of the disease in the province of Bikoro in the northwestern part of the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 547,
+      "end_ix": 702,
+      "text": "\nEbola virus disease, which most commonly affects people and nonhuman primates (monkeys, gorillas and chimpanzees), is caused by one of five Ebola viruses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 702,
+      "end_ix": 828,
+      "text": "\nThe virus is transmitted to people from wild animals and spreads in the human population through human-to-human transmission.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 828,
+      "end_ix": 874,
+      "text": "\nThe average case fatality rate is around 50%.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 874,
+      "end_ix": 1083,
+      "text": "\nA government statement released Tuesday states that the Ministry of Health has \"taken all necessary measures to respond promptly and effectively to this new epidemic of Ebola in the DRC's national territory\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1083,
+      "end_ix": 1192,
+      "text": "\nIn the past five weeks, there have been 21 suspected cases of viral hemorrhagic fever , including 17 deaths.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1192,
+      "end_ix": 1447,
+      "text": "\n\"We will gather more samples, conduct contact tracing, engage the communities with messages on prevention and control, and put in place methods for improving data collection and sharing,\" said Dr. Matshidiso Moeti, the WHO's regional director for Africa.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1447,
+      "end_ix": 1542,
+      "text": "\n\"WHO will work closely with health authorities and partners to support the national response.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1542,
+      "end_ix": 1552,
+      "text": "\nRead More",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      332,
+      338,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "article_id": "999000565",
+  "sentence offsets in original": [
+    0,
+    224,
+    275,
+    321,
+    407,
+    567,
+    720
+  ],
+  "original sentences": [
+    "Watch: Campus Commie Has Profanity-Laden Hissy Fit, Pours Beverage on FSU Republicans\n\nExtreme leftists have been resorting to hysterical profanity-laden melodramatic hissy fits when they encounter people they disagree with.",
+    "\nThese incidents tend to occur on college campuses.",
+    "\nIt doesn\u2019t take much to trigger these people.",
+    "\nThe latest comes from an admitted supporter of communism at Florida State University.",
+    "\nWatch this leftist loon pour her beverage on FSU Republicans as she states they are \u201cnormalizing and enabling Nazis\u201d by supporting Rick Scott and Ron DeSantis.",
+    "\nWATCH: Angry leftist pours her beverage on FSU Republicans and says they are \u201cnormalizing and enabling Nazis\u201d by supporting Rick Scott and Ron DeSantis.",
+    "\npic.twitter.com/1UDRxSZXE1 \u2014 Kyle Morris (@RealKyleMorris) November 1, 2018\nBy the way\u2026where are her pants?"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 224,
+      "text": "Watch: Campus Commie Has Profanity-Laden Hissy Fit, Pours Beverage on FSU Republicans\n\nExtreme leftists have been resorting to hysterical profanity-laden melodramatic hissy fits when they encounter people they disagree with.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 224,
+      "end_ix": 275,
+      "text": "\nThese incidents tend to occur on college campuses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 275,
+      "end_ix": 321,
+      "text": "\nIt doesn\u2019t take much to trigger these people.",
+      "new_text": "\nIt doesn\u2019t take much to upset these people.",
+      "prop_spans": [
+        [
+          297,
+          308,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 321,
+      "end_ix": 407,
+      "text": "\nThe latest comes from an admitted supporter of communism at Florida State University.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 407,
+      "end_ix": 567,
+      "text": "\nWatch this leftist loon pour her beverage on FSU Republicans as she states they are \u201cnormalizing and enabling Nazis\u201d by supporting Rick Scott and Ron DeSantis.",
+      "new_text": "\nWatch this leftist loon pour her beverage on FSU Republicans as she states they are \u201cnormalizing and enabling Nazis\u201d by supporting Rick Scott and Ron DeSantis.",
+      "prop_spans": [
+        [
+          483,
+          566,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 567,
+      "end_ix": 720,
+      "text": "\nWATCH: Angry leftist pours her beverage on FSU Republicans and says they are \u201cnormalizing and enabling Nazis\u201d by supporting Rick Scott and Ron DeSantis.",
+      "new_text": "\nWATCH: Angry leftist pours her beverage on FSU Republicans and says they are \u201cnormalizing and enabling Nazis\u201d by supporting Rick Scott and Ron DeSantis.",
+      "prop_spans": [
+        [
+          636,
+          719,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 720,
+      "end_ix": 828,
+      "text": "\npic.twitter.com/1UDRxSZXE1 \u2014 Kyle Morris (@RealKyleMorris) November 1, 2018\nBy the way\u2026where are her pants?",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      297,
+      308,
+      "Loaded_Language"
+    ],
+    [
+      483,
+      566,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      636,
+      719,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

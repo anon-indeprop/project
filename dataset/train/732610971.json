@@ -1,0 +1,407 @@
+{
+  "article_id": "732610971",
+  "sentence offsets in original": [
+    0,
+    312,
+    579,
+    892,
+    1115,
+    1359,
+    1457,
+    1790,
+    1934,
+    1995,
+    2181,
+    2261,
+    2514,
+    2674,
+    2905,
+    3003,
+    3051,
+    3066,
+    3219,
+    3445
+  ],
+  "original sentences": [
+    "Hungarian Prime Minister Viktor Orban Calls For Global Anti-Migrant Alliance\n\nHungarian Prime Minister Viktor Orban who has been at the forefront in Europe in standing against illegal immigration and the invasion of Muslims into his country has called for a global alliance to stand against the migrant invasion.",
+    "\nViktor Orban, who openly professes the Reformed faith of Christianity, told an audience at the Royal Castle in Budapest, \u201cChristianity is Europe\u2019s last hope.\u201d\nHe continued by stating that mass immigration, especially from Africa, \u201cour worst nightmares can come true.",
+    "\nThe West falls as it fails to see Europe being overrun.\u201d\nReuters reports:\nHungarian leader Viktor Orban called on Sunday for a global alliance against migration as his right-wing populist Fidesz party began campaigning for an April 8 election in which it is expected to win a third consecutive landslide victory.",
+    "\nPopular at home but increasingly at odds politically and economically with mainstream European Union peers, Orban has thrived on external controversy, including repeated clashes with Brussels and lately the United Nations.",
+    "\nThose conflicts, mostly centered on migration since people fleeing war and poverty in the Middle East and Africa flooded into Europe in 2015, have intensified as the elections approach and Orban poses as a savior of Europe\u2019s Christian nations.",
+    "\nOne thing to note is that Christianity is not Europe's \"last hope,\" it's the world's \"only hope.\"",
+    "\nIn speaking of the influx of Muslim migrants into Europe, Orban sees it as destroying the culture of Europe and referred to it as an \u201cimmigrant zone, a mixed population world that heads in a direction different from ours.\u201d\nOrban then called out the traitors in the midst of Europe who want to push Hungary to accept Muslim invaders.",
+    "\n\u201cAbsurd as it may sound the danger we face comes from the West, from politicians in Brussels, Berlin and Paris,\u201d he told the crowd to applause.",
+    "\n\u201cOf course we will fight, and use ever stronger legal tools.",
+    "\nThe first is our \u2018Stop Soros\u2019 law.\u201d\nOrban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a \"public enemy.\"",
+    "\nHe also said that Soros has \"ruined\" millions of lives via his \"mafia network.\"",
+    "\nReuters adds:\nSoros, for his part, compared Orban unfavorably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930\u2019s \u2014 when Hungary was allied with Nazi Germany \u2014 and was more oppressive than Cold War Soviet occupation.",
+    "\nOrban has tightened the screws on non-government organizations, particularly ones funded by Soros, and attempted to close a prominent Soros-founded university.",
+    "\nAttributing to Soros a recent United Nations plan on creating a global blueprint to handle the migration crisis, Orban said he anticipated that powerful allies would help him prevent the U.N. from greasing the wheels of migration.",
+    "\n\u201cSoros has antagonized not only us but also England, President Trump and Israel too,\u201d Orban said.",
+    "\n\u201cEverywhere he wants to get migration accepted.",
+    "\nIt won\u2019t work.",
+    "\nWe are not alone and we will fight together \u2026 and we will succeed.\u201d\n\u201cWe don\u2019t think the fight is hopeless, on the contrary, we are winning,\u201d Orban said.",
+    "\n\u201cThe V4 is firm, Croatia has come around, Austria has turned in the patriotic direction, and in Bavaria the CSU has created a resistance.\u201d\nThe fight isn't hopeless for those whose hope is in the Lord and will stay the course.",
+    "\nI wish Orban and those who support him success!"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 312,
+      "text": "Hungarian Prime Minister Viktor Orban Calls For Global Anti-Migrant Alliance\n\nHungarian Prime Minister Viktor Orban who has been at the forefront in Europe in standing against illegal immigration and the invasion of Muslims into his country has called for a global alliance to stand against the migrant invasion.",
+      "new_text": "Hungarian Prime Minister Viktor Orban Calls For Global Anti-Migrant Alliance\n\nHungarian Prime Minister Viktor Orban who has been at the forefront in Europe in standing against illegal immigration and the invasion of Muslims into his country has called for a global alliance to stand against this.",
+      "prop_spans": [
+        [
+          200,
+          223,
+          "Repetition"
+        ],
+        [
+          295,
+          312,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 312,
+      "end_ix": 579,
+      "text": "\nViktor Orban, who openly professes the Reformed faith of Christianity, told an audience at the Royal Castle in Budapest, \u201cChristianity is Europe\u2019s last hope.\u201d\nHe continued by stating that mass immigration, especially from Africa, \u201cour worst nightmares can come true.",
+      "new_text": "\nViktor Orban, who openly professes the Reformed faith of Christianity, told an audience at the Royal Castle in Budapest, \u201cChristianity is Europe\u2019s last hope.\u201d\nHe continued by stating that mass immigration, especially from Africa, \u201cour worst nightmares can come true.",
+      "prop_spans": [
+        [
+          312,
+          312,
+          "Repetition"
+        ],
+        [
+          433,
+          472,
+          "Slogans"
+        ],
+        [
+          433,
+          471,
+          "Flag-Waving"
+        ],
+        [
+          543,
+          579,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 579,
+      "end_ix": 892,
+      "text": "\nThe West falls as it fails to see Europe being overrun.\u201d\nReuters reports:\nHungarian leader Viktor Orban called on Sunday for a global alliance against migration as his right-wing populist Fidesz party began campaigning for an April 8 election in which it is expected to win a third consecutive landslide victory.",
+      "new_text": "\nThe West falls as it fails to see Europe being overrun.\u201d\nReuters reports:\nHungarian leader Viktor Orban called on Sunday for a global alliance against migration as his right-wing populist Fidesz party began campaigning for an April 8 election in which it is expected to win a third consecutive landslide victory.",
+      "prop_spans": [
+        [
+          579,
+          636,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 892,
+      "end_ix": 1115,
+      "text": "\nPopular at home but increasingly at odds politically and economically with mainstream European Union peers, Orban has thrived on external controversy, including repeated clashes with Brussels and lately the United Nations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1115,
+      "end_ix": 1359,
+      "text": "\nThose conflicts, mostly centered on migration since people fleeing war and poverty in the Middle East and Africa flooded into Europe in 2015, have intensified as the elections approach and Orban poses as a savior of Europe\u2019s Christian nations.",
+      "new_text": "\nThose conflicts, mostly centered on migration since people fleeing war and poverty in the Middle East and Africa flooded into Europe in 2015, have intensified as the elections approach and Orban poses as a savior of the Christian nations.",
+      "prop_spans": [
+        [
+          1317,
+          1359,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1359,
+      "end_ix": 1457,
+      "text": "\nOne thing to note is that Christianity is not Europe's \"last hope,\" it's the world's \"only hope.\"",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1359,
+          1359,
+          "Flag-Waving"
+        ],
+        [
+          1386,
+          1457,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1457,
+      "end_ix": 1790,
+      "text": "\nIn speaking of the influx of Muslim migrants into Europe, Orban sees it as destroying the culture of Europe and referred to it as an \u201cimmigrant zone, a mixed population world that heads in a direction different from ours.\u201d\nOrban then called out the traitors in the midst of Europe who want to push Hungary to accept Muslim invaders.",
+      "new_text": "\nIn speaking of the influx of Muslim migrants into Europe, Orban sees it as destroying the culture of Europe and referred to it as an \u201cimmigrant zone, a mixed population world that heads in a direction different from ours.\u201d\nOrban then called out the people in the midst of Europe who want to push Hungary to accept Muslims.",
+      "prop_spans": [
+        [
+          1457,
+          1457,
+          "Flag-Waving"
+        ],
+        [
+          1649,
+          1678,
+          "Flag-Waving"
+        ],
+        [
+          1703,
+          1715,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1774,
+          1789,
+          "Repetition"
+        ],
+        [
+          1774,
+          1789,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1790,
+      "end_ix": 1934,
+      "text": "\n\u201cAbsurd as it may sound the danger we face comes from the West, from politicians in Brussels, Berlin and Paris,\u201d he told the crowd to applause.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1934,
+      "end_ix": 1995,
+      "text": "\n\u201cOf course we will fight, and use ever stronger legal tools.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1995,
+      "end_ix": 2181,
+      "text": "\nThe first is our \u2018Stop Soros\u2019 law.\u201d\nOrban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a \"public enemy.\"",
+      "new_text": "\nThe first is our \u2018Stop Soros\u2019 law.\u201d\nOrban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a \"public enemy.\"",
+      "prop_spans": [
+        [
+          2014,
+          2024,
+          "Slogans"
+        ],
+        [
+          2167,
+          2179,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2181,
+      "end_ix": 2261,
+      "text": "\nHe also said that Soros has \"ruined\" millions of lives via his \"mafia network.\"",
+      "new_text": "\nHe also said that Soros has \"ruined\" millions of lives via his \"mafia network.\"",
+      "prop_spans": [
+        [
+          2211,
+          2217,
+          "Loaded_Language"
+        ],
+        [
+          2246,
+          2259,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2246,
+          2259,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2261,
+      "end_ix": 2514,
+      "text": "\nReuters adds:\nSoros, for his part, compared Orban unfavorably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930\u2019s \u2014 when Hungary was allied with Nazi Germany \u2014 and was more oppressive than Cold War Soviet occupation.",
+      "new_text": "\nReuters adds:\nSoros, for his part, said Orban's rule evoked dark tones from the 1930\u2019s \u2014 when Hungary was allied with Nazi Germany \u2014 and was more oppressive than Cold War Soviet occupation.",
+      "prop_spans": [
+        [
+          2297,
+          2361,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2514,
+      "end_ix": 2674,
+      "text": "\nOrban has tightened the screws on non-government organizations, particularly ones funded by Soros, and attempted to close a prominent Soros-founded university.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2674,
+      "end_ix": 2905,
+      "text": "\nAttributing to Soros a recent United Nations plan on creating a global blueprint to handle the migration crisis, Orban said he anticipated that powerful allies would help him prevent the U.N. from greasing the wheels of migration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2905,
+      "end_ix": 3003,
+      "text": "\n\u201cSoros has antagonized not only us but also England, President Trump and Israel too,\u201d Orban said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3003,
+      "end_ix": 3051,
+      "text": "\n\u201cEverywhere he wants to get migration accepted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3051,
+      "end_ix": 3066,
+      "text": "\nIt won\u2019t work.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3066,
+      "end_ix": 3219,
+      "text": "\nWe are not alone and we will fight together \u2026 and we will succeed.\u201d\n\u201cWe don\u2019t think the fight is hopeless, on the contrary, we are winning,\u201d Orban said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3219,
+      "end_ix": 3445,
+      "text": "\n\u201cThe V4 is firm, Croatia has come around, Austria has turned in the patriotic direction, and in Bavaria the CSU has created a resistance.\u201d\nThe fight isn't hopeless for those whose hope is in the Lord and will stay the course.",
+      "new_text": "\n\u201cThe V4 is firm, Croatia has come around, Austria has turned in the patriotic direction, and in Bavaria the CSU has created a resistance.\u201d\nThe fight isn't hopeless.",
+      "prop_spans": [
+        [
+          3359,
+          3445,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3445,
+      "end_ix": 3493,
+      "text": "\nI wish Orban and those who support him success!",
+      "new_text": "\nI wish Orban and those who support him success!",
+      "prop_spans": [
+        [
+          3445,
+          3446,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      200,
+      223,
+      "Repetition"
+    ],
+    [
+      295,
+      312,
+      "Repetition"
+    ],
+    [
+      433,
+      472,
+      "Slogans"
+    ],
+    [
+      433,
+      471,
+      "Flag-Waving"
+    ],
+    [
+      543,
+      636,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1317,
+      1359,
+      "Flag-Waving"
+    ],
+    [
+      1386,
+      1457,
+      "Flag-Waving"
+    ],
+    [
+      1649,
+      1678,
+      "Flag-Waving"
+    ],
+    [
+      1703,
+      1715,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1774,
+      1789,
+      "Repetition"
+    ],
+    [
+      1774,
+      1789,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2014,
+      2024,
+      "Slogans"
+    ],
+    [
+      2167,
+      2179,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2211,
+      2217,
+      "Loaded_Language"
+    ],
+    [
+      2246,
+      2259,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2246,
+      2259,
+      "Loaded_Language"
+    ],
+    [
+      2297,
+      2361,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      3359,
+      3446,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

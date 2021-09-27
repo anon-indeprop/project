@@ -1,0 +1,290 @@
+{
+  "article_id": "999000145",
+  "sentence offsets in original": [
+    0,
+    204,
+    385,
+    575,
+    645,
+    778,
+    873,
+    968,
+    1006,
+    1039,
+    1121,
+    1203,
+    1231,
+    1294,
+    1384,
+    1749,
+    1945,
+    2012,
+    2060,
+    2220,
+    2478,
+    2532,
+    2704,
+    2737,
+    2827
+  ],
+  "original sentences": [
+    "Trump: \"If You Don't Want To Be Saying The Words 'Speaker Pelosi'... Go Out & Vote\"\n\nObviously, President Donald Trump is encouraging people to go out and vote against Democrats, which everyone should do.",
+    "\nAt a rally of 8,500 in Indiana on Friday, Trump encouraged them to go out and vote Republican if they didn't want to be uttering the words \"Speaker Pelosi\" over the next two years.",
+    "\n\u201cIf you don\u2019t want to be saying the words \u2018Speaker Pelosi\u2019 for the next two years, you gotta go out and vote,\u201d Trump said as he stumped for congressional candidates Greg Pence and Jim Bair.",
+    "\nTrump also encouraged the crowd to vote for Mike Braun for US Senate.",
+    "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nTrump praised Braun as a man who didn't need the position and is not a career politician.",
+    "\nJust like his promotion of voting for Republicans in the House would lead to defeating Democrats and keep the words \"Speaker Pelosi\" off our lips, Trump also said that a vote for Braun's opponent, incumbent Democrat Sen. Joe Donnelly, would lead to Senator Chuck Schumer (D-NY) becoming the Senate Majority leader should the Democrats regain control of the Senate.",
+    "\nThe president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation to the Supreme Court.",
+    "\n\"The people of Indiana do not have a one-week memory,\u201d said Trump.",
+    "\n\u201cThat was a disgrace what we watched up there.\"",
+    "\nAdditionally, Trump said that Donnelly voted to provide free health care to illegal aliens and sponsored Senator Dianne Feinstein's (D-CA) \"Open Borders Bill.\"",
+    "\nWhile some don't believe that Trump's base is all that energized, it seems pretty energetic to me and attacks on conservatives on social media and in search engine results have only furthered their outrage at the establishment, both Democrat and Republican.",
+    "\nWe're just days away from seeing how things turn out.",
+    "\nThere's a part of me that thinks this may actually turn out to be one of the biggest turnouts for a mid-term election that we've ever seen, but that's just my gut feeling.",
+    "\nOn Tuesday, we'll know for sure.",
+    "\nI don't know about you, but I didn't actually like hearing the words \"Speaker Paul Ryan.\"",
+    "\nI certainly don't want to hear \"Speaker Pelosi,\" again."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 204,
+      "text": "Trump: \"If You Don't Want To Be Saying The Words 'Speaker Pelosi'... Go Out & Vote\"\n\nObviously, President Donald Trump is encouraging people to go out and vote against Democrats, which everyone should do.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 204,
+      "end_ix": 385,
+      "text": "\nAt a rally of 8,500 in Indiana on Friday, Trump encouraged them to go out and vote Republican if they didn't want to be uttering the words \"Speaker Pelosi\" over the next two years.",
+      "new_text": "\nAt a rally of 8,500 in Indiana on Friday, Trump encouraged them to go out and vote Republican",
+      "prop_spans": [
+        [
+          247,
+          384,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 385,
+      "end_ix": 575,
+      "text": "\n\u201cIf you don\u2019t want to be saying the words \u2018Speaker Pelosi\u2019 for the next two years, you gotta go out and vote,\u201d Trump said as he stumped for congressional candidates Greg Pence and Jim Bair.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 575,
+      "end_ix": 645,
+      "text": "\nTrump also encouraged the crowd to vote for Mike Braun for US Senate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 645,
+      "end_ix": 778,
+      "text": "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 778,
+      "end_ix": 873,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 873,
+      "end_ix": 968,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 968,
+      "end_ix": 1006,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1006,
+      "end_ix": 1039,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1039,
+      "end_ix": 1121,
+      "text": "\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1121,
+      "end_ix": 1203,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1203,
+      "end_ix": 1231,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1231,
+      "end_ix": 1294,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1294,
+      "end_ix": 1384,
+      "text": "\nTrump praised Braun as a man who didn't need the position and is not a career politician.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1384,
+      "end_ix": 1749,
+      "text": "\nJust like his promotion of voting for Republicans in the House would lead to defeating Democrats and keep the words \"Speaker Pelosi\" off our lips, Trump also said that a vote for Braun's opponent, incumbent Democrat Sen. Joe Donnelly, would lead to Senator Chuck Schumer (D-NY) becoming the Senate Majority leader should the Democrats regain control of the Senate.",
+      "new_text": "\nJust like his promotion of voting for Republicans in the House would lead to defeating Democrats and keep the words \"Speaker Pelosi\" off our lips, Trump also said that a vote for Braun's opponent, incumbent Democrat Sen. Joe Donnelly, would lead to Senator Chuck Schumer (D-NY) becoming the Senate Majority leader should the Democrats regain control of the Senate.",
+      "prop_spans": [
+        [
+          1502,
+          1516,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1749,
+      "end_ix": 1945,
+      "text": "\nThe president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation to the Supreme Court.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1945,
+      "end_ix": 2012,
+      "text": "\n\"The people of Indiana do not have a one-week memory,\u201d said Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2012,
+      "end_ix": 2060,
+      "text": "\n\u201cThat was a disgrace what we watched up there.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2060,
+      "end_ix": 2220,
+      "text": "\nAdditionally, Trump said that Donnelly voted to provide free health care to illegal aliens and sponsored Senator Dianne Feinstein's (D-CA) \"Open Borders Bill.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2220,
+      "end_ix": 2478,
+      "text": "\nWhile some don't believe that Trump's base is all that energized, it seems pretty energetic to me and attacks on conservatives on social media and in search engine results have only furthered their outrage at the establishment, both Democrat and Republican.",
+      "new_text": "\nWhile some don't believe that Trump's supporters are strongly rooting for him, it seems that they do and attacks on conservatives on social media and in search engine results have only furthered their anger at the establishment, both Democrat and Republican.",
+      "prop_spans": [
+        [
+          2251,
+          2319,
+          "Loaded_Language"
+        ],
+        [
+          2393,
+          2447,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2478,
+      "end_ix": 2532,
+      "text": "\nWe're just days away from seeing how things turn out.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2532,
+      "end_ix": 2704,
+      "text": "\nThere's a part of me that thinks this may actually turn out to be one of the biggest turnouts for a mid-term election that we've ever seen, but that's just my gut feeling.",
+      "new_text": "\nThere's a part of me that thinks this may actually turn out to be one of the biggest turnouts for a mid-term election that we've ever seen, but that's just my intuition.",
+      "prop_spans": [
+        [
+          2677,
+          2703,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2704,
+      "end_ix": 2737,
+      "text": "\nOn Tuesday, we'll know for sure.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2737,
+      "end_ix": 2827,
+      "text": "\nI don't know about you, but I didn't actually like hearing the words \"Speaker Paul Ryan.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2827,
+      "end_ix": 2883,
+      "text": "\nI certainly don't want to hear \"Speaker Pelosi,\" again.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      247,
+      384,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1502,
+      1516,
+      "Repetition"
+    ],
+    [
+      2251,
+      2319,
+      "Loaded_Language"
+    ],
+    [
+      2393,
+      2447,
+      "Loaded_Language"
+    ],
+    [
+      2677,
+      2703,
+      "Loaded_Language"
+    ]
+  ]
+}

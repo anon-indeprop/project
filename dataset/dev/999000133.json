@@ -1,0 +1,336 @@
+{
+  "article_id": "999000133",
+  "sentence offsets in original": [
+    0,
+    269,
+    318,
+    350,
+    396,
+    423,
+    617,
+    740,
+    863,
+    867,
+    894,
+    1111,
+    1206,
+    1301,
+    1339,
+    1372,
+    1457,
+    1539,
+    1567,
+    1630,
+    1640,
+    1656,
+    1733,
+    1764,
+    1789,
+    1833,
+    1923,
+    1988,
+    2062
+  ],
+  "original sentences": [
+    "Don Lemon Is Lying... Again: Biggest Threat Isn't \"White Men\" - The FBI's Most Wanted Domestic Terrorists Are These People\n\n\u201cSo, we have to stop demonizing people and realize the biggest terror threat in this country is white men, most of them radicalized to the right.",
+    "\nAnd we have to start doing something about them.",
+    "\nThere is no travel ban on them.",
+    "\nThere is no ban on \u2014 they had the Muslim ban.",
+    "\nThere is no white guy ban.",
+    "\nSo, what do we do about that?\u201d \u2013Don Lemon\nJust to illustrate the absurdity of Don Lemon\u2019s comments, I thought it would be fun to go look at the current list of the FBI\u2019s most wanted terrorists.",
+    "\nBelow is the list of \u201cdomestic\u201d terrorists and, regardless of the list/filter you choose, you won\u2019t find many \u201cwhite men\u201d.",
+    "\nInterestingly enough, it looks like the WOMEN in this country are currently responsible for more terrorism than WHITE MEN.",
+    "\nMr.",
+    "\nLemon, you are very wrong.",
+    "\nBelow are the 14 profiles currently listed as the \u201cMost Wanted Domestic Terrorists\u201d\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\n5 women.",
+    "\n3 Hispanic men.",
+    "\n3 black men (one with an Arabic/possibly Islamic surname), and 3 white guys.",
+    "\n14 total and only 3 white men?",
+    "\nIs Don Lemon colorblind?",
+    "\nIs the FBI racist (and maybe a bit sexist)?",
+    "\nNah, it\u2019s just CNN doing what CNN does\u2026 spewing more fake news for your viewing pleasure.",
+    "\nGo to https://www.fbi.gov/wanted/terrorism and see for yourself.",
+    "\nNo matter which category you choose, you won\u2019t be finding many white men.",
+    "\nArticle posted with permission from Dean Garrison"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 269,
+      "text": "Don Lemon Is Lying... Again: Biggest Threat Isn't \"White Men\" - The FBI's Most Wanted Domestic Terrorists Are These People\n\n\u201cSo, we have to stop demonizing people and realize the biggest terror threat in this country is white men, most of them radicalized to the right.",
+      "new_text": "Don Lemon Is Lying... Again: Biggest Threat Isn't \"White Men\" - The FBI's Most Wanted Domestic Terrorists Are These People\n\n\u201cSo, we have to stop demonizing people and realize the biggest terror threat in this country is white men, most of them radicalized to the right.",
+      "prop_spans": [
+        [
+          145,
+          163,
+          "Loaded_Language"
+        ],
+        [
+          175,
+          229,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 269,
+      "end_ix": 318,
+      "text": "\nAnd we have to start doing something about them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 318,
+      "end_ix": 350,
+      "text": "\nThere is no travel ban on them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 350,
+      "end_ix": 396,
+      "text": "\nThere is no ban on \u2014 they had the Muslim ban.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 396,
+      "end_ix": 423,
+      "text": "\nThere is no white guy ban.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 423,
+      "end_ix": 617,
+      "text": "\nSo, what do we do about that?\u201d \u2013Don Lemon\nJust to illustrate the absurdity of Don Lemon\u2019s comments, I thought it would be fun to go look at the current list of the FBI\u2019s most wanted terrorists.",
+      "new_text": "\nSo, what do we do about that?\u201d \u2013Don Lemon\nJust to illustrate the strangeness of Don Lemon\u2019s comments, I thought it would be good to go look at the current list of the FBI\u2019s most wanted terrorists.",
+      "prop_spans": [
+        [
+          485,
+          499,
+          "Loaded_Language"
+        ],
+        [
+          526,
+          550,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 617,
+      "end_ix": 740,
+      "text": "\nBelow is the list of \u201cdomestic\u201d terrorists and, regardless of the list/filter you choose, you won\u2019t find many \u201cwhite men\u201d.",
+      "new_text": "\nBelow is the list of \u201cdomestic\u201d terrorists and, regardless of the list/filter you choose, you won\u2019t find many \u201cwhite men\u201d.",
+      "prop_spans": [
+        [
+          729,
+          738,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 740,
+      "end_ix": 863,
+      "text": "\nInterestingly enough, it looks like the WOMEN in this country are currently responsible for more terrorism than WHITE MEN.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 863,
+      "end_ix": 867,
+      "text": "\nMr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 867,
+      "end_ix": 894,
+      "text": "\nLemon, you are very wrong.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 894,
+      "end_ix": 1111,
+      "text": "\nBelow are the 14 profiles currently listed as the \u201cMost Wanted Domestic Terrorists\u201d\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1111,
+      "end_ix": 1206,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1206,
+      "end_ix": 1301,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1301,
+      "end_ix": 1339,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1339,
+      "end_ix": 1372,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1372,
+      "end_ix": 1457,
+      "text": "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1457,
+      "end_ix": 1539,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1539,
+      "end_ix": 1567,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1567,
+      "end_ix": 1630,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1630,
+      "end_ix": 1640,
+      "text": "\n\n5 women.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1640,
+      "end_ix": 1656,
+      "text": "\n3 Hispanic men.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1656,
+      "end_ix": 1733,
+      "text": "\n3 black men (one with an Arabic/possibly Islamic surname), and 3 white guys.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1733,
+      "end_ix": 1764,
+      "text": "\n14 total and only 3 white men?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1764,
+      "end_ix": 1789,
+      "text": "\nIs Don Lemon colorblind?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1789,
+      "end_ix": 1833,
+      "text": "\nIs the FBI racist (and maybe a bit sexist)?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1833,
+      "end_ix": 1923,
+      "text": "\nNah, it\u2019s just CNN doing what CNN does\u2026 spewing more fake news for your viewing pleasure.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1834,
+          1922,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1923,
+      "end_ix": 1988,
+      "text": "\nGo to https://www.fbi.gov/wanted/terrorism and see for yourself.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1988,
+      "end_ix": 2062,
+      "text": "\nNo matter which category you choose, you won\u2019t be finding many white men.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2062,
+      "end_ix": 2112,
+      "text": "\nArticle posted with permission from Dean Garrison",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      145,
+      163,
+      "Loaded_Language"
+    ],
+    [
+      175,
+      229,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      485,
+      499,
+      "Loaded_Language"
+    ],
+    [
+      526,
+      550,
+      "Loaded_Language"
+    ],
+    [
+      729,
+      738,
+      "Repetition"
+    ],
+    [
+      1834,
+      1922,
+      "Doubt"
+    ]
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "article_id": "771254016",
+  "sentence offsets in original": [
+    0,
+    261,
+    510,
+    570,
+    724,
+    968,
+    1219,
+    1295,
+    1447,
+    1650,
+    1721
+  ],
+  "original sentences": [
+    "French Jewish woman\u2019s killer found unfit to stand trial in 2nd evaluation\n\nThe suspect in the alleged murder of a Jewish physician in Paris was not responsible for his actions, a second psychiatric evaluation has determined, contradicting an earlier assessment.",
+    "\nThe president of the CRIF umbrella of French Jewish communities protested the court\u2019s decision to revisit the issue of suitability to stand trial of Kobili Traore, which the court pursued on its own initiative and not at the request of his defense.",
+    "\nIn January, Traore was determined to be fit to stand trial.",
+    "\nHe was placed in a psychiatric hospital for weeks after his arrest in the April 2017 killing of Sarah Halimi despite having no history of mental illness.",
+    "\nGet The Times of Israel's Daily Edition by email and never miss our top stories Free Sign Up\nBut a judge requested a second series of tests, which determined that the Malian immigrant was not able to stand trial, 20 Minutes reported Wednesday.",
+    "\n\u201cWe do not understand the determination and procrastination that consistently seeks to turn this killer into a demented person, when he is a murderer whose presumed detention doesn\u2019t even hide his hateful anti-Semitism,\u201d CRIF\u2019s Francis Kalifat wrote.",
+    "\nA third evaluation will follow before the court finally reaches a decision.",
+    "\nTraore, 28, is accused of torturing and killing Halimi while shouting about Allah and subsequently throwing her off the balcony of her Paris apartment.",
+    "\nAn aggravated element of a hate crime was added to Traore\u2019s indictment following vocal protests by CRIF, which said that the omission of such charges may have part of a \u201ccover up\u201d by French authorities.",
+    "\nWitnesses said Traore called Halimi a \u201cdemon\u201d as he was pummeling her.",
+    "\nHalimi\u2019s daughter said following the murder that Traore called her, the daughter, a \u201cdirty Jewess\u201d two years before the killing when they passed each other in the building."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 261,
+      "text": "French Jewish woman\u2019s killer found unfit to stand trial in 2nd evaluation\n\nThe suspect in the alleged murder of a Jewish physician in Paris was not responsible for his actions, a second psychiatric evaluation has determined, contradicting an earlier assessment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 261,
+      "end_ix": 510,
+      "text": "\nThe president of the CRIF umbrella of French Jewish communities protested the court\u2019s decision to revisit the issue of suitability to stand trial of Kobili Traore, which the court pursued on its own initiative and not at the request of his defense.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 510,
+      "end_ix": 570,
+      "text": "\nIn January, Traore was determined to be fit to stand trial.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 570,
+      "end_ix": 724,
+      "text": "\nHe was placed in a psychiatric hospital for weeks after his arrest in the April 2017 killing of Sarah Halimi despite having no history of mental illness.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 724,
+      "end_ix": 968,
+      "text": "\nGet The Times of Israel's Daily Edition by email and never miss our top stories Free Sign Up\nBut a judge requested a second series of tests, which determined that the Malian immigrant was not able to stand trial, 20 Minutes reported Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 968,
+      "end_ix": 1219,
+      "text": "\n\u201cWe do not understand the determination and procrastination that consistently seeks to turn this killer into a demented person, when he is a murderer whose presumed detention doesn\u2019t even hide his hateful anti-Semitism,\u201d CRIF\u2019s Francis Kalifat wrote.",
+      "new_text": "\n\u201cWe do not understand the determination and procrastination that consistently seeks to turn this killer into a demented person, when he is a murderer whose presumed detention doesn\u2019t even hide his hateful anti-Semitism,\u201d CRIF\u2019s Francis Kalifat wrote.",
+      "prop_spans": [
+        [
+          1066,
+          1072,
+          "Loaded_Language"
+        ],
+        [
+          1110,
+          1118,
+          "Loaded_Language"
+        ],
+        [
+          1166,
+          1173,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1219,
+      "end_ix": 1295,
+      "text": "\nA third evaluation will follow before the court finally reaches a decision.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1295,
+      "end_ix": 1447,
+      "text": "\nTraore, 28, is accused of torturing and killing Halimi while shouting about Allah and subsequently throwing her off the balcony of her Paris apartment.",
+      "new_text": "\nTraore, 28, is accused of maltreating and murdering Halimi while shouting about Allah and subsequently throwing her off the balcony of her Paris apartment.",
+      "prop_spans": [
+        [
+          1322,
+          1331,
+          "Loaded_Language"
+        ],
+        [
+          1336,
+          1343,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1447,
+      "end_ix": 1650,
+      "text": "\nAn aggravated element of a hate crime was added to Traore\u2019s indictment following vocal protests by CRIF, which said that the omission of such charges may have part of a \u201ccover up\u201d by French authorities.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1650,
+      "end_ix": 1721,
+      "text": "\nWitnesses said Traore called Halimi a \u201cdemon\u201d as he was pummeling her.",
+      "new_text": "\nWitnesses said Traore called Halimi a \u201cdemon\u201d as he was hitting her.",
+      "prop_spans": [
+        [
+          1690,
+          1695,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1707,
+          1716,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1721,
+      "end_ix": 1894,
+      "text": "\nHalimi\u2019s daughter said following the murder that Traore called her, the daughter, a \u201cdirty Jewess\u201d two years before the killing when they passed each other in the building.",
+      "new_text": "\nHalimi\u2019s daughter said following the murder that Traore called her, the daughter, a \u201cdirty Jewess\u201d two years before the killing when they passed each other in the building.",
+      "prop_spans": [
+        [
+          1806,
+          1820,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1066,
+      1072,
+      "Loaded_Language"
+    ],
+    [
+      1110,
+      1118,
+      "Loaded_Language"
+    ],
+    [
+      1166,
+      1173,
+      "Loaded_Language"
+    ],
+    [
+      1322,
+      1331,
+      "Loaded_Language"
+    ],
+    [
+      1336,
+      1343,
+      "Loaded_Language"
+    ],
+    [
+      1690,
+      1695,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1707,
+      1716,
+      "Loaded_Language"
+    ],
+    [
+      1806,
+      1820,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

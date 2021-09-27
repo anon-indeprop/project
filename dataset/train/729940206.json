@@ -1,0 +1,361 @@
+{
+  "article_id": "729940206",
+  "sentence offsets in original": [
+    0,
+    218,
+    250,
+    403,
+    541,
+    610,
+    697,
+    896,
+    984,
+    1083,
+    1088,
+    1166,
+    1177,
+    1217,
+    1283,
+    1393,
+    1441,
+    1598,
+    1714,
+    1773,
+    1823,
+    1861,
+    1965,
+    2125
+  ],
+  "original sentences": [
+    "Online Sociology Course Founders Over Whether Australia is a Country\n\nI'm not all that concerned with students working toward a major in poetry, media studies or some of the more ridiculous courses some colleges offer.",
+    "\nIt's sociology that worries me.",
+    "\nSociology helped generate a whole range of fake new academic subjects while corrupting existing ones into a toxic stew of racism and meaningless jargon.",
+    "\nAll too often, all you need is some statistics software (or its online equivalent), a politically correct premise and absolute ignorance.",
+    "\nAdd the internet and you get a perfect storm of sociology stupidity.",
+    "\nThe story concerns Ashley Arnold, a 27-year-old working on an online sociology degree.",
+    "\nAs part of her final class, for which she paid almost $1,000, students were required to complete a project outline last month in which they would compare a social norm in the US and another country.",
+    "\nFor her \"norm\" Arnold picked social media use, and for her country she chose Australia.",
+    "\nBut when Arnold got her grade back on Feb. 1, she was shocked to see her professor had failed her.",
+    "\nWhy?",
+    "\nBecause, according to the teacher, \"Australia is a continent; not a country.\"",
+    "\nSociology.",
+    "\nYou really don't need to know anything.",
+    "\nThe professor, who has a PhD in philosophy...\nOf course she does.",
+    "\nI believe I got zero or partial credit because the instructor said, 'Australia is a continent; not a country.",
+    "\nHowever, I believe that Australia is a country.",
+    "\nThe research starter on the SNHU\u2019s Shapiro library written by John Pearson (2013) states, that Australia is the 'sixth-largest country in the world' (n.p.).",
+    "\nThe full name of the country is the Commonwealth of Australia, meaning Australia is both a continent and a country.",
+    "\nTherefore, these sections of the rubric should be amended.",
+    "\nAustralia's nationhood is not a matter of belief.",
+    "\nBut we are in the age of, \"My truth\".",
+    "\nAnd my truth has a different belief about Australia than yours does because of my degree of oppression.",
+    "\nFinally,\nthe professor responded: Thank you for this web-address\n\nAfter I do some independent research on the continent/country issue I will review your paper.",
+    "\nWho can really say?"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 218,
+      "text": "Online Sociology Course Founders Over Whether Australia is a Country\n\nI'm not all that concerned with students working toward a major in poetry, media studies or some of the more ridiculous courses some colleges offer.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 218,
+      "end_ix": 250,
+      "text": "\nIt's sociology that worries me.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 250,
+      "end_ix": 403,
+      "text": "\nSociology helped generate a whole range of fake new academic subjects while corrupting existing ones into a toxic stew of racism and meaningless jargon.",
+      "new_text": "\nSociology might have helped generate a whole range of fake new academic subjects while corrupting existing ones into a toxic stew of racism and meaningless jargon.",
+      "prop_spans": [
+        [
+          251,
+          402,
+          "Doubt"
+        ],
+        [
+          327,
+          338,
+          "Loaded_Language"
+        ],
+        [
+          357,
+          402,
+          "Name_Calling,Labeling"
+        ],
+        [
+          357,
+          402,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 403,
+      "end_ix": 541,
+      "text": "\nAll too often, all you need is some statistics software (or its online equivalent), a politically correct premise and absolute ignorance.",
+      "new_text": "\nAll too often, all you need is some statistics software (or its online equivalent), a politically correct premise and ignorance.",
+      "prop_spans": [
+        [
+          522,
+          540,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 541,
+      "end_ix": 610,
+      "text": "\nAdd the internet and you get a perfect storm of sociology stupidity.",
+      "new_text": "\nAdd the internet and you get great sociology stupidity.",
+      "prop_spans": [
+        [
+          571,
+          609,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 610,
+      "end_ix": 697,
+      "text": "\nThe story concerns Ashley Arnold, a 27-year-old working on an online sociology degree.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 697,
+      "end_ix": 896,
+      "text": "\nAs part of her final class, for which she paid almost $1,000, students were required to complete a project outline last month in which they would compare a social norm in the US and another country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 896,
+      "end_ix": 984,
+      "text": "\nFor her \"norm\" Arnold picked social media use, and for her country she chose Australia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 984,
+      "end_ix": 1083,
+      "text": "\nBut when Arnold got her grade back on Feb. 1, she was shocked to see her professor had failed her.",
+      "new_text": "\nBut when Arnold got her grade back on Feb. 1, she was shocked to see her professor had failed her.",
+      "prop_spans": [
+        [
+          1039,
+          1047,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1083,
+      "end_ix": 1088,
+      "text": "\nWhy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1088,
+      "end_ix": 1166,
+      "text": "\nBecause, according to the teacher, \"Australia is a continent; not a country.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1166,
+      "end_ix": 1177,
+      "text": "\nSociology.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1167,
+          1177,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1177,
+      "end_ix": 1217,
+      "text": "\nYou really don't need to know anything.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1177,
+          1216,
+          "Doubt"
+        ],
+        [
+          1178,
+          1216,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1217,
+      "end_ix": 1283,
+      "text": "\nThe professor, who has a PhD in philosophy...\nOf course she does.",
+      "new_text": "\nThe professor, who has a PhD in philosophy...",
+      "prop_spans": [
+        [
+          1218,
+          1282,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1283,
+      "end_ix": 1393,
+      "text": "\nI believe I got zero or partial credit because the instructor said, 'Australia is a continent; not a country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1393,
+      "end_ix": 1441,
+      "text": "\nHowever, I believe that Australia is a country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1441,
+      "end_ix": 1598,
+      "text": "\nThe research starter on the SNHU\u2019s Shapiro library written by John Pearson (2013) states, that Australia is the 'sixth-largest country in the world' (n.p.).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1598,
+      "end_ix": 1714,
+      "text": "\nThe full name of the country is the Commonwealth of Australia, meaning Australia is both a continent and a country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1714,
+      "end_ix": 1773,
+      "text": "\nTherefore, these sections of the rubric should be amended.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1773,
+      "end_ix": 1823,
+      "text": "\nAustralia's nationhood is not a matter of belief.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1823,
+      "end_ix": 1861,
+      "text": "\nBut we are in the age of, \"My truth\".",
+      "new_text": "\nBut we are in the age of, \"My truth\".",
+      "prop_spans": [
+        [
+          1838,
+          1859,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1861,
+      "end_ix": 1965,
+      "text": "\nAnd my truth has a different belief about Australia than yours does because of my degree of oppression.",
+      "new_text": "\nAnd it has a different belief about Australia than yours does because of my degree of oppression.",
+      "prop_spans": [
+        [
+          1866,
+          1874,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1965,
+      "end_ix": 2125,
+      "text": "\nFinally,\nthe professor responded: Thank you for this web-address\n\nAfter I do some independent research on the continent/country issue I will review your paper.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2125,
+      "end_ix": 2145,
+      "text": "\nWho can really say?",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      251,
+      402,
+      "Doubt"
+    ],
+    [
+      327,
+      338,
+      "Loaded_Language"
+    ],
+    [
+      357,
+      402,
+      "Name_Calling,Labeling"
+    ],
+    [
+      357,
+      402,
+      "Loaded_Language"
+    ],
+    [
+      522,
+      540,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      571,
+      609,
+      "Loaded_Language"
+    ],
+    [
+      1039,
+      1047,
+      "Loaded_Language"
+    ],
+    [
+      1167,
+      1216,
+      "Doubt"
+    ],
+    [
+      1178,
+      1216,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1218,
+      1282,
+      "Doubt"
+    ],
+    [
+      1838,
+      1859,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1866,
+      1874,
+      "Repetition"
+    ]
+  ]
+}

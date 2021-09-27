@@ -1,0 +1,239 @@
+{
+  "article_id": "735855251",
+  "sentence offsets in original": [
+    0,
+    96,
+    357,
+    536,
+    620,
+    683,
+    859,
+    1074,
+    1193,
+    1322,
+    1536,
+    1593,
+    1676,
+    1737,
+    1817,
+    1853,
+    1958,
+    2153,
+    2328,
+    2454
+  ],
+  "original sentences": [
+    "ICE arrests 20 in Kansas City during 4-day operation targeting criminal aliens\n\nKANSAS CITY, Mo.",
+    "\n\u2014 Federal officers with U.S. Immigration and Customs Enforcement\u2019s (ICE) Enforcement and Removal Operations (ERO) arrested 20 criminal aliens and immigration violators in the Kansas City metro area during a four-day enforcement operation, which ended Thursday.",
+    "\nDuring this operation, ERO deportation officers made arrests in the following Missouri cities: St. Joseph (6), Belton (1), Blue Springs (1), Independence (2) and Kansas City (6).",
+    "\nICE officers also made arrests in the Kansas cities of Olathe (3) and Lawrence (1).",
+    "\nFifteen men and five women, ages ranging 18-61, were arrested.",
+    "\nAliens arrested during this operation are from the following countries: Brazil (1), El Salvador (3), Guatemala (6), Honduras (1), Mexico (7), Romania (1) and Sierra Leone (1).",
+    "\nSeveral of the aliens targeted by ERO deportation officers during this operation had prior criminal histories that included driving under the influence, child neglect, child abuse, drug offenses, fraud and larceny.",
+    "\nFour of these were arrested for illegally re-entering the United States after having been deported, which is a felony.",
+    "\nTwo overstayed lawful visits to the U.S.\nAll were amenable to arrest and removal under the U.S. Immigration and Nationality Act.",
+    "\nThe following are criminal summaries of some of the offenders arrested in the Kansas City area during this operation:\nA 55-year-old, Mexican citizen who overstayed a lawful visit to the U.S. by more than 12 years.",
+    "\nShe was arrested Feb. 26, 2018 in Johnson County Kansas.",
+    "\nShe was previously convicted of child neglect and was sentenced to a year in jail.",
+    "\nShe is currently in ICE custody pending removal proceedings.",
+    "\nOn Feb. 28, 2018, a 38-year-old Mexican citizen was arrested in Olathe, Kansas.",
+    "\nHe has a 2012 conviction for fraud.",
+    "\nHe was issued a warrant of removal and was placed in ICE custody pending removal from the United States.",
+    "\nDepending on an alien\u2019s criminality, an alien who re-enters the United States after having been previously deported commits a felony punishable by up to 20 years in federal prison, if convicted.",
+    "\n\u201cThe continued results of our deportation officers underscore ICE\u2019s ongoing and steady commitment to public safety,\u201d said Ricardo Wong, field office director for ERO Chicago.",
+    "\n\u201cAs part of this operation, we continue focus on the arrest of individuals who are criminal aliens and public safety threats.",
+    "\nBecause of the tireless efforts of these professional officers, there are fewer criminals in our communities.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 96,
+      "text": "ICE arrests 20 in Kansas City during 4-day operation targeting criminal aliens\n\nKANSAS CITY, Mo.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 96,
+      "end_ix": 357,
+      "text": "\n\u2014 Federal officers with U.S. Immigration and Customs Enforcement\u2019s (ICE) Enforcement and Removal Operations (ERO) arrested 20 criminal aliens and immigration violators in the Kansas City metro area during a four-day enforcement operation, which ended Thursday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 357,
+      "end_ix": 536,
+      "text": "\nDuring this operation, ERO deportation officers made arrests in the following Missouri cities: St. Joseph (6), Belton (1), Blue Springs (1), Independence (2) and Kansas City (6).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 536,
+      "end_ix": 620,
+      "text": "\nICE officers also made arrests in the Kansas cities of Olathe (3) and Lawrence (1).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 620,
+      "end_ix": 683,
+      "text": "\nFifteen men and five women, ages ranging 18-61, were arrested.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 683,
+      "end_ix": 859,
+      "text": "\nAliens arrested during this operation are from the following countries: Brazil (1), El Salvador (3), Guatemala (6), Honduras (1), Mexico (7), Romania (1) and Sierra Leone (1).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 859,
+      "end_ix": 1074,
+      "text": "\nSeveral of the aliens targeted by ERO deportation officers during this operation had prior criminal histories that included driving under the influence, child neglect, child abuse, drug offenses, fraud and larceny.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1074,
+      "end_ix": 1193,
+      "text": "\nFour of these were arrested for illegally re-entering the United States after having been deported, which is a felony.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1193,
+      "end_ix": 1322,
+      "text": "\nTwo overstayed lawful visits to the U.S.\nAll were amenable to arrest and removal under the U.S. Immigration and Nationality Act.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1322,
+      "end_ix": 1536,
+      "text": "\nThe following are criminal summaries of some of the offenders arrested in the Kansas City area during this operation:\nA 55-year-old, Mexican citizen who overstayed a lawful visit to the U.S. by more than 12 years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1536,
+      "end_ix": 1593,
+      "text": "\nShe was arrested Feb. 26, 2018 in Johnson County Kansas.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1593,
+      "end_ix": 1676,
+      "text": "\nShe was previously convicted of child neglect and was sentenced to a year in jail.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1676,
+      "end_ix": 1737,
+      "text": "\nShe is currently in ICE custody pending removal proceedings.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1737,
+      "end_ix": 1817,
+      "text": "\nOn Feb. 28, 2018, a 38-year-old Mexican citizen was arrested in Olathe, Kansas.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1817,
+      "end_ix": 1853,
+      "text": "\nHe has a 2012 conviction for fraud.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1853,
+      "end_ix": 1958,
+      "text": "\nHe was issued a warrant of removal and was placed in ICE custody pending removal from the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1958,
+      "end_ix": 2153,
+      "text": "\nDepending on an alien\u2019s criminality, an alien who re-enters the United States after having been previously deported commits a felony punishable by up to 20 years in federal prison, if convicted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2153,
+      "end_ix": 2328,
+      "text": "\n\u201cThe continued results of our deportation officers underscore ICE\u2019s ongoing and steady commitment to public safety,\u201d said Ricardo Wong, field office director for ERO Chicago.",
+      "new_text": "\n\u201cThe continued results of our deportation officers underscore ICE\u2019s ongoing and steady commitment to public safety,\u201d said Ricardo Wong, field office director for ERO Chicago.",
+      "prop_spans": [
+        [
+          2216,
+          2270,
+          "Appeal_to_Authority"
+        ],
+        [
+          2216,
+          2270,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2328,
+      "end_ix": 2454,
+      "text": "\n\u201cAs part of this operation, we continue focus on the arrest of individuals who are criminal aliens and public safety threats.",
+      "new_text": "\n\u201cAs part of this operation, we continue focus on the arrest of individuals who are criminal aliens and public safety threats.",
+      "prop_spans": [
+        [
+          2357,
+          2454,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2454,
+      "end_ix": 2565,
+      "text": "\nBecause of the tireless efforts of these professional officers, there are fewer criminals in our communities.\u201d",
+      "new_text": "\nBecause of the tireless efforts of these professional officers, there are fewer criminals in our communities.\u201d",
+      "prop_spans": [
+        [
+          2454,
+          2454,
+          "Repetition"
+        ],
+        [
+          2455,
+          2565,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      2216,
+      2270,
+      "Appeal_to_Authority"
+    ],
+    [
+      2216,
+      2270,
+      "Repetition"
+    ],
+    [
+      2357,
+      2454,
+      "Repetition"
+    ],
+    [
+      2455,
+      2565,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

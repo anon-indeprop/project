@@ -1,0 +1,408 @@
+{
+  "article_id": "7383612089",
+  "sentence offsets in original": [
+    0,
+    228,
+    367,
+    395,
+    439,
+    523,
+    668,
+    822,
+    907,
+    1039,
+    1095,
+    1456,
+    1635,
+    1777,
+    2032,
+    2155,
+    2295,
+    2395,
+    2722,
+    2914,
+    3055,
+    3406,
+    3597,
+    3848,
+    3950
+  ],
+  "original sentences": [
+    "Trump fires Tillerson, replaces with former top spook\n\nFollowing what has appeared for months to be a strained relationship between President Donald Trump and Secretary of State Rex Tillerson, the top diplomat is being replaced.",
+    "\nTrump announced Tillerson\u2019s ouster via Twitter Tuesday, saying: \u201cMike Pompeo, Director of the CIA, will become our new Secretary of State.",
+    "\nHe will do a fantastic job!",
+    "\nThank you to Rex Tillerson for his service!",
+    "\nGina Haspel will become the new Director of the CIA, and the first woman so chosen.",
+    "\nCongratulations to all!\u201d\nThis is yet another big shake-up for Trump\u2019s still-young administration \u2014 and it may be the most important one to date.",
+    "\nThe move creates some big questions about both the administration\u2019s foreign policy ambitions as well as the president\u2019s relationship with the deep state.",
+    "\nIf you enjoyed Hillary Clinton\u2019s tenure as Secretary of State, you\u2019ll like Pompeo\u2019s.",
+    "\nLike Clinton and her Democrat allies, Pompeo has long subscribed to the belief that Russia is perpetually meddling in U.S. affairs.",
+    "\nIn fact, he believes Barack Obama got Russian help too.",
+    "\nWhile he was being confirmed as CIA chief, the former lawmaker lashed out at Russia for reasserting \u201d itself aggressively, invading and occupying Ukraine, threatening Europe, and doing nearly nothing to aid in the destruction and defeat of ISIS.\u201d\nAgain, if you liked Obama-era, world-on-fire, Russians everywhere State Department shenanigans, this is your guy.",
+    "\nPompeo also isn\u2019t a huge fan of calling the federal government out when it is clearly violating the rights of Americans, as shown by his statements last year regarding WikiLeaks.",
+    "\n\u201cIt is time to call out WikiLeaks for what it really is \u2013 a non-state hostile intelligence service often abetted by state actors like Russia.",
+    "\nIn January of this year, our Intelligence Community determined that Russian military intelligence \u2014 the GRU \u2014 had used WikiLeaks to release data of U.S. victims that the GRU had obtained through cyber operations against the Democratic National Committee.",
+    "\nAnd the report also found that Russia\u2019s primary propaganda outlet, RT, has actively collaborated with WikiLeaks,\u201d he said.",
+    "\nPompeo favors increased U.S. involvement in Syria (hello, Russian proxy war), ratcheting pressure on Iran and regime change in North Korea.",
+    "\nClinton City\u2026\nMoving on to Haspel, who will now be heading the CIA, nothing\u2019s looking any brighter.",
+    "\nShe\u2019s a big fan of torture, according to a 2013 Washington Post article pointed out this morning by The Intercept:\nIN MAY 2013, the Washington Post\u2019s Greg Miller reported that the head of the CIA\u2019s clandestine service was being shifted out of that position as a result of \u201ca management shake-up\u201d by then-Director John Brennan.",
+    "\nAs Miller documented, this official \u2014 whom the paper did not name because she was a covert agent at the time \u2014 was centrally involved in the worst abuses of the CIA\u2019s Bush-era torture regime.",
+    "\nAs Miller put it, she was \u201cdirectly involved in its controversial interrogation program\u201d and had an \u201cextensive role\u201d in torturing detainees.",
+    "\nEven more troubling, she \u201chad run a secret prison in Thailand\u201d \u2014 part of the CIA\u2019s network of \u201cblack sites\u201d \u2014 \u201cwhere two detainees were subjected to waterboarding and other harsh techniques.\u201d The Senate Intelligence Committee\u2019s report on torture also detailed the central role she played in the particularly gruesome torture of detainee Abu Zubaydah.",
+    "\nBeyond all that, she played a vital role in the destruction of interrogation videotapes that showed the torture of detainees both at the black site she ran and other secret agency locations.",
+    "\nThe concealment of those interrogation tapes, which violated multiple court orders as well as the demands of the 9/11 commission and the advice of White House lawyers, was condemned as \u201cobstruction\u201d by commission chairs Lee Hamilton and Thomas Keane.",
+    "\nA special prosecutor and grand jury investigated those actions but ultimately chose not to prosecute.",
+    "\nBottom line, George W. Bush/Barack Obama era foreign policy and intelligence doctrines aren\u2019t going anywhere under Trump."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 228,
+      "text": "Trump fires Tillerson, replaces with former top spook\n\nFollowing what has appeared for months to be a strained relationship between President Donald Trump and Secretary of State Rex Tillerson, the top diplomat is being replaced.",
+      "new_text": "Trump fires Tillerson, replaces with former top diplomat\n\nFollowing what has appeared for months to be a strained relationship between President Donald Trump and Secretary of State Rex Tillerson, the top diplomat is being replaced.",
+      "prop_spans": [
+        [
+          37,
+          53,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 228,
+      "end_ix": 367,
+      "text": "\nTrump announced Tillerson\u2019s ouster via Twitter Tuesday, saying: \u201cMike Pompeo, Director of the CIA, will become our new Secretary of State.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 367,
+      "end_ix": 395,
+      "text": "\nHe will do a fantastic job!",
+      "new_text": "\nHe will do a fantastic job!",
+      "prop_spans": [
+        [
+          368,
+          394,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 395,
+      "end_ix": 439,
+      "text": "\nThank you to Rex Tillerson for his service!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 439,
+      "end_ix": 523,
+      "text": "\nGina Haspel will become the new Director of the CIA, and the first woman so chosen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 523,
+      "end_ix": 668,
+      "text": "\nCongratulations to all!\u201d\nThis is yet another big shake-up for Trump\u2019s still-young administration \u2014 and it may be the most important one to date.",
+      "new_text": "\nCongratulations to all!\u201d\nThis is yet another big shake-up for Trump\u2019s still-young administration.",
+      "prop_spans": [
+        [
+          623,
+          667,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 668,
+      "end_ix": 822,
+      "text": "\nThe move creates some big questions about both the administration\u2019s foreign policy ambitions as well as the president\u2019s relationship with the deep state.",
+      "new_text": "\nThe move creates curiosity about both the administration\u2019s foreign policy ambitions as well as the president\u2019s relationship with the deep state.",
+      "prop_spans": [
+        [
+          669,
+          821,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 822,
+      "end_ix": 907,
+      "text": "\nIf you enjoyed Hillary Clinton\u2019s tenure as Secretary of State, you\u2019ll like Pompeo\u2019s.",
+      "new_text": "\nIf you enjoyed Hillary Clinton\u2019s tenure as Secretary of State, you\u2019ll probably like Pompeo\u2019s.",
+      "prop_spans": [
+        [
+          823,
+          906,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 907,
+      "end_ix": 1039,
+      "text": "\nLike Clinton and her Democrat allies, Pompeo has long subscribed to the belief that Russia is perpetually meddling in U.S. affairs.",
+      "new_text": "\nLike Clinton and her Democrat allies, Pompeo has long subscribed to the belief that Russia is interfering in U.S. affairs.",
+      "prop_spans": [
+        [
+          999,
+          1023,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1039,
+      "end_ix": 1095,
+      "text": "\nIn fact, he believes Barack Obama got Russian help too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1095,
+      "end_ix": 1456,
+      "text": "\nWhile he was being confirmed as CIA chief, the former lawmaker lashed out at Russia for reasserting \u201d itself aggressively, invading and occupying Ukraine, threatening Europe, and doing nearly nothing to aid in the destruction and defeat of ISIS.\u201d\nAgain, if you liked Obama-era, world-on-fire, Russians everywhere State Department shenanigans, this is your guy.",
+      "new_text": "\nWhile he was being confirmed as CIA chief, the former lawmaker said at Russia for reasserting \u201d itself aggressively, invading and occupying Ukraine, threatening Europe, and doing nearly nothing to aid in the destruction and defeat of ISIS.\u201d\nAgain, if you liked Obama-era, world-on-fire, Russians everywhere State Department problems, this may be the reason.",
+      "prop_spans": [
+        [
+          1159,
+          1170,
+          "Loaded_Language"
+        ],
+        [
+          1184,
+          1340,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1426,
+          1437,
+          "Loaded_Language"
+        ],
+        [
+          1439,
+          1455,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1456,
+      "end_ix": 1635,
+      "text": "\nPompeo also isn\u2019t a huge fan of calling the federal government out when it is clearly violating the rights of Americans, as shown by his statements last year regarding WikiLeaks.",
+      "new_text": "\nPompeo also isn\u2019t a huge fan of calling the federal government out when it is clearly violating the rights of the people, as shown by his statements last year regarding WikiLeaks.",
+      "prop_spans": [
+        [
+          1457,
+          1576,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1635,
+      "end_ix": 1777,
+      "text": "\n\u201cIt is time to call out WikiLeaks for what it really is \u2013 a non-state hostile intelligence service often abetted by state actors like Russia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1777,
+      "end_ix": 2032,
+      "text": "\nIn January of this year, our Intelligence Community determined that Russian military intelligence \u2014 the GRU \u2014 had used WikiLeaks to release data of U.S. victims that the GRU had obtained through cyber operations against the Democratic National Committee.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2032,
+      "end_ix": 2155,
+      "text": "\nAnd the report also found that Russia\u2019s primary propaganda outlet, RT, has actively collaborated with WikiLeaks,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2155,
+      "end_ix": 2295,
+      "text": "\nPompeo favors increased U.S. involvement in Syria (hello, Russian proxy war), ratcheting pressure on Iran and regime change in North Korea.",
+      "new_text": "\nPompeo favors increased U.S. involvement in Syria (hello, Russian proxy war), pressure on Iran and regime change in North Korea.",
+      "prop_spans": [
+        [
+          2234,
+          2245,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2295,
+      "end_ix": 2395,
+      "text": "\nClinton City\u2026\nMoving on to Haspel, who will now be heading the CIA, nothing\u2019s looking any brighter.",
+      "new_text": "\nClinton City\u2026\nMoving on to Haspel, who will now be heading the CIA, there are some possible issues.",
+      "prop_spans": [
+        [
+          2364,
+          2394,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          2364,
+          2394,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2395,
+      "end_ix": 2722,
+      "text": "\nShe\u2019s a big fan of torture, according to a 2013 Washington Post article pointed out this morning by The Intercept:\nIN MAY 2013, the Washington Post\u2019s Greg Miller reported that the head of the CIA\u2019s clandestine service was being shifted out of that position as a result of \u201ca management shake-up\u201d by then-Director John Brennan.",
+      "new_text": "\nAccording to a 2013 Washington Post article pointed out this morning by The Intercept:\nIN MAY 2013, the Washington Post\u2019s Greg Miller reported that the head of the CIA\u2019s clandestine service was being shifted out of that position as a result of \u201ca management shake-up\u201d by then-Director John Brennan.",
+      "prop_spans": [
+        [
+          2396,
+          2422,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2722,
+      "end_ix": 2914,
+      "text": "\nAs Miller documented, this official \u2014 whom the paper did not name because she was a covert agent at the time \u2014 was centrally involved in the worst abuses of the CIA\u2019s Bush-era torture regime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2914,
+      "end_ix": 3055,
+      "text": "\nAs Miller put it, she was \u201cdirectly involved in its controversial interrogation program\u201d and had an \u201cextensive role\u201d in torturing detainees.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3055,
+      "end_ix": 3406,
+      "text": "\nEven more troubling, she \u201chad run a secret prison in Thailand\u201d \u2014 part of the CIA\u2019s network of \u201cblack sites\u201d \u2014 \u201cwhere two detainees were subjected to waterboarding and other harsh techniques.\u201d The Senate Intelligence Committee\u2019s report on torture also detailed the central role she played in the particularly gruesome torture of detainee Abu Zubaydah.",
+      "new_text": "\nEven more troubling, she \u201chad run a secret prison in Thailand\u201d \u2014 part of the CIA\u2019s network of \u201cblack sites\u201d \u2014 \u201cwhere two detainees were subjected to waterboarding and other harsh techniques.\u201d The Senate Intelligence Committee\u2019s report on torture also detailed the central role she played in case of detainee Abu Zubaydah.",
+      "prop_spans": [
+        [
+          3351,
+          3381,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3406,
+      "end_ix": 3597,
+      "text": "\nBeyond all that, she played a vital role in the destruction of interrogation videotapes that showed the torture of detainees both at the black site she ran and other secret agency locations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3597,
+      "end_ix": 3848,
+      "text": "\nThe concealment of those interrogation tapes, which violated multiple court orders as well as the demands of the 9/11 commission and the advice of White House lawyers, was condemned as \u201cobstruction\u201d by commission chairs Lee Hamilton and Thomas Keane.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3848,
+      "end_ix": 3950,
+      "text": "\nA special prosecutor and grand jury investigated those actions but ultimately chose not to prosecute.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3950,
+      "end_ix": 4072,
+      "text": "\nBottom line, George W. Bush/Barack Obama era foreign policy and intelligence doctrines aren\u2019t going anywhere under Trump.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      37,
+      53,
+      "Name_Calling,Labeling"
+    ],
+    [
+      368,
+      394,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      623,
+      667,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      669,
+      821,
+      "Doubt"
+    ],
+    [
+      823,
+      906,
+      "Causal_Oversimplification"
+    ],
+    [
+      999,
+      1023,
+      "Loaded_Language"
+    ],
+    [
+      1159,
+      1170,
+      "Loaded_Language"
+    ],
+    [
+      1184,
+      1340,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1426,
+      1437,
+      "Loaded_Language"
+    ],
+    [
+      1439,
+      1455,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1457,
+      1576,
+      "Flag-Waving"
+    ],
+    [
+      2234,
+      2245,
+      "Loaded_Language"
+    ],
+    [
+      2364,
+      2394,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2364,
+      2394,
+      "Loaded_Language"
+    ],
+    [
+      2396,
+      2422,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3351,
+      3381,
+      "Loaded_Language"
+    ]
+  ]
+}

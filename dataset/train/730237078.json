@@ -1,0 +1,252 @@
+{
+  "article_id": "730237078",
+  "sentence offsets in original": [
+    0,
+    288,
+    443,
+    582,
+    623,
+    656,
+    682,
+    760,
+    921,
+    1192,
+    1487,
+    1679,
+    1868,
+    2035,
+    2171
+  ],
+  "original sentences": [
+    "NASA releases images captured at a record-breaking 3.79 billion miles from Earth\n\nNASA has a whole lot of fancy image-gathering hardware on Earth and in space, and we\u2019ve seen countless of stunning snapshots taken from here on Earth as well as nearby planets like Mars, Jupiter and Saturn.",
+    "\nThe pictures are often gorgeously detailed eye candy, but the latest batch of images from the space agency is remarkable for an entirely different reason.",
+    "\nCaptured by NASA\u2019s New Horizons spacecraft, the images were gathered at a greatest distance from Earth than any in the history of mankind.",
+    "\nSo, just how far is \u201cthe farthest ever\u201d?",
+    "\nRight around 3.79 billion miles.",
+    "\nYeah, it\u2019s kind of crazy.",
+    "\nThere are three images in total, each focusing on a different distant object.",
+    "\nThe subjects include the \u2018Wishing Well\u2019 star cluster as well as two large objects in the Kuiper Belt which have never been observed from such a distance before.",
+    "\n\u201cNew Horizons has long been a mission of firsts \u2014 first to explore Pluto, first to explore the Kuiper Belt, fastest spacecraft ever launched,\u201d New Horizons Principal Investigator Alan Stern, of the Southwest Research Institute in Boulder, Colorado, notes in a statement.",
+    "\n\u201cAnd now, we\u2019ve been able to make images farther from Earth than any spacecraft in history.\u201d\nThe images, as seen above (Kuiper Belt objects) and below (Wishing Well cluster), are somewhat grainy and not the most detailed we\u2019ve seen from NASA, but that doesn\u2019t make the feat any less remarkable.",
+    "\nNew Horizons originally launched way back in early 2006, and it the spacecraft has made close passes of a number of planets during its more than a decade of cruising through our Solar System.",
+    "\nIts primary mission was set to last roughly 10 years, but was extended once it became clear that the spacecraft was healthy enough to continue sending back observations for a while longer.",
+    "\nIts new extended mission will wrap up in early 2021 after it performs a number of flybys of large objects in the Kuiper Belt that scientists want to learn more about.",
+    "\nHowever, that might not be the last we hear from New Horizons, as its power source could continue to provide life into 2026 and beyond.",
+    "\nIf it makes it that long, NASA plans to use the spacecraft to study the outer heliosphere."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 288,
+      "text": "NASA releases images captured at a record-breaking 3.79 billion miles from Earth\n\nNASA has a whole lot of fancy image-gathering hardware on Earth and in space, and we\u2019ve seen countless of stunning snapshots taken from here on Earth as well as nearby planets like Mars, Jupiter and Saturn.",
+      "new_text": "NASA releases images captured at a great 3.79 billion miles from Earth\n\nNASA has a whole lot of amazing image-gathering hardware on Earth and in space, and we\u2019ve seen countless of astonishing snapshots taken from here on Earth as well as nearby planets like Mars, Jupiter and Saturn.",
+      "prop_spans": [
+        [
+          33,
+          51,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          35,
+          51,
+          "Loaded_Language"
+        ],
+        [
+          106,
+          137,
+          "Loaded_Language"
+        ],
+        [
+          188,
+          196,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 288,
+      "end_ix": 443,
+      "text": "\nThe pictures are often gorgeously detailed eye candy, but the latest batch of images from the space agency is remarkable for an entirely different reason.",
+      "new_text": "\nThe pictures are often gorgeously detailed and beatiful, but the latest batch of images from the space agency is remarkable for an entirely different reason.",
+      "prop_spans": [
+        [
+          312,
+          341,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 443,
+      "end_ix": 582,
+      "text": "\nCaptured by NASA\u2019s New Horizons spacecraft, the images were gathered at a greatest distance from Earth than any in the history of mankind.",
+      "new_text": "\nCaptured by NASA\u2019s New Horizons spacecraft, the images were gathered at a greatest distance from Earth.",
+      "prop_spans": [
+        [
+          516,
+          581,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 582,
+      "end_ix": 623,
+      "text": "\nSo, just how far is \u201cthe farthest ever\u201d?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 623,
+      "end_ix": 656,
+      "text": "\nRight around 3.79 billion miles.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 656,
+      "end_ix": 682,
+      "text": "\nYeah, it\u2019s kind of crazy.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          657,
+          681,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          657,
+          681,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 682,
+      "end_ix": 760,
+      "text": "\nThere are three images in total, each focusing on a different distant object.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 760,
+      "end_ix": 921,
+      "text": "\nThe subjects include the \u2018Wishing Well\u2019 star cluster as well as two large objects in the Kuiper Belt which have never been observed from such a distance before.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 921,
+      "end_ix": 1192,
+      "text": "\n\u201cNew Horizons has long been a mission of firsts \u2014 first to explore Pluto, first to explore the Kuiper Belt, fastest spacecraft ever launched,\u201d New Horizons Principal Investigator Alan Stern, of the Southwest Research Institute in Boulder, Colorado, notes in a statement.",
+      "new_text": "\n\u201cNew Horizons has long been a mission of firsts \u2014 first to explore Pluto, first to explore the Kuiper Belt, fastest spacecraft ever launched,\u201d New Horizons Principal Investigator Alan Stern, of the Southwest Research Institute in Boulder, Colorado, notes in a statement.",
+      "prop_spans": [
+        [
+          1030,
+          1062,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1192,
+      "end_ix": 1487,
+      "text": "\n\u201cAnd now, we\u2019ve been able to make images farther from Earth than any spacecraft in history.\u201d\nThe images, as seen above (Kuiper Belt objects) and below (Wishing Well cluster), are somewhat grainy and not the most detailed we\u2019ve seen from NASA, but that doesn\u2019t make the feat any less remarkable.",
+      "new_text": "\n\u201cAnd now, we\u2019ve been able to make images farther from Earth than any spacecraft in history.\u201d\nThe images, as seen above (Kuiper Belt objects) and below (Wishing Well cluster), are somewhat grainy and not the most detailed we\u2019ve seen from NASA, but that doesn\u2019t make the feat any less remarkable.",
+      "prop_spans": [
+        [
+          1234,
+          1283,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1487,
+      "end_ix": 1679,
+      "text": "\nNew Horizons originally launched way back in early 2006, and it the spacecraft has made close passes of a number of planets during its more than a decade of cruising through our Solar System.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1679,
+      "end_ix": 1868,
+      "text": "\nIts primary mission was set to last roughly 10 years, but was extended once it became clear that the spacecraft was healthy enough to continue sending back observations for a while longer.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1868,
+      "end_ix": 2035,
+      "text": "\nIts new extended mission will wrap up in early 2021 after it performs a number of flybys of large objects in the Kuiper Belt that scientists want to learn more about.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2035,
+      "end_ix": 2171,
+      "text": "\nHowever, that might not be the last we hear from New Horizons, as its power source could continue to provide life into 2026 and beyond.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2171,
+      "end_ix": 2262,
+      "text": "\nIf it makes it that long, NASA plans to use the spacecraft to study the outer heliosphere.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      33,
+      51,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      35,
+      51,
+      "Loaded_Language"
+    ],
+    [
+      106,
+      137,
+      "Loaded_Language"
+    ],
+    [
+      188,
+      196,
+      "Loaded_Language"
+    ],
+    [
+      312,
+      341,
+      "Loaded_Language"
+    ],
+    [
+      516,
+      581,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      657,
+      681,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      657,
+      681,
+      "Loaded_Language"
+    ],
+    [
+      1030,
+      1062,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1234,
+      1283,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

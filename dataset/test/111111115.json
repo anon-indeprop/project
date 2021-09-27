@@ -1,0 +1,249 @@
+{
+  "article_id": "111111115",
+  "sentence offsets in original": [
+    0,
+    260,
+    357,
+    447,
+    639,
+    753,
+    889,
+    980,
+    1096,
+    1200,
+    1316,
+    1408,
+    1509,
+    1612,
+    1746,
+    1918,
+    1990,
+    2133,
+    2222,
+    2278,
+    2443
+  ],
+  "original sentences": [
+    "Here are all the sexual misconduct accusations against Sen. Al Franken\n\nSen. Al Franken announced his resignationon the Senate floor Thursday morning, as Democratic calls for his resignation mount following the latest sexual misconduct accusations against him.",
+    "\n\nAbout 30 Senate Democrats, starting with women, have urged the Minnesota Democrat to step down.",
+    "\n\nFranken on Thursday denied most of the allegations, which started to surface last month.",
+    "\nHere are the eight accusations he faces:\n\nLeeann Tweeden, a radio news anchor, says Franken groped and forcibly kissed her during a USO tour in 2006, before the former comedian was a senator.",
+    "\nShe says Franken \"aggressively stuck his tongue in my mouth\" when the pair rehearsed a skit that featured a kiss.",
+    "\nA photo also surfaced showing Franken looking at a camera while pretending to grab Tweeden's breasts as she was sleeping while clothed.",
+    "\nThe senator apologized for the photo but said he remembered the skit incident differently.",
+    "\nLindsay Menz says Franken grabbed her buttocks when the pair posed for a photo at the Minnesota State Fair in 2010.",
+    "\nFranken later said he did not remember taking the picture but \"felt badly\" that Menz felt disrespected.",
+    "\nTwo other unidentified women told HuffPost that Franken grabbed their buttocks at separate events in 2007 and 2008.",
+    "\nOne of the women says Franken suggested that he and she should go to the bathroom together.",
+    "\nFranken said he did not remember the events and denied asking anyone to visit the bathroom with him.",
+    "\nStephanie Kemplin, an Army veteran, says Franken put his hand on her breast during a USO tour in 2003.",
+    "\nIn a statement following that accusation, Franken's office said he has not \"intentionally engage in\" the \"kind of conduct\" described.",
+    "\nA woman described as a \"former elected official in New England\" told the Jezebel website that Franken tried to give her a \"wet, open-mouthed kiss\" during an event in 2006.",
+    "\nThe senator has not appeared to respond specifically to the allegation.",
+    "\nAn unnamed former Democratic congressional aide told Politico that the senator tried to forcibly kiss her after he taped a radio show in 2006.",
+    "\nShe says she avoided the kiss, then heard Franken say \"it's my right as an entertainer.\"",
+    "\nFranken called the allegation \"categorically not true.\"",
+    "\nTina Dupuy writes in The Atlantic that Franken put his hand around her waist while the pair posed for a photo and squeezed \"at least twice\" during an event in 2009.",
+    "\nThe senator has not specifically responded to that allegation."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 260,
+      "text": "Here are all the sexual misconduct accusations against Sen. Al Franken\n\nSen. Al Franken announced his resignationon the Senate floor Thursday morning, as Democratic calls for his resignation mount following the latest sexual misconduct accusations against him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 260,
+      "end_ix": 357,
+      "text": "\n\nAbout 30 Senate Democrats, starting with women, have urged the Minnesota Democrat to step down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 357,
+      "end_ix": 447,
+      "text": "\n\nFranken on Thursday denied most of the allegations, which started to surface last month.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 447,
+      "end_ix": 639,
+      "text": "\nHere are the eight accusations he faces:\n\nLeeann Tweeden, a radio news anchor, says Franken groped and forcibly kissed her during a USO tour in 2006, before the former comedian was a senator.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 639,
+      "end_ix": 753,
+      "text": "\nShe says Franken \"aggressively stuck his tongue in my mouth\" when the pair rehearsed a skit that featured a kiss.",
+      "new_text": "\nShe says Franken \"aggressively stuck his tongue in my mouth\" when the pair rehearsed a skit that featured a kiss.",
+      "prop_spans": [
+        [
+          658,
+          700,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 753,
+      "end_ix": 889,
+      "text": "\nA photo also surfaced showing Franken looking at a camera while pretending to grab Tweeden's breasts as she was sleeping while clothed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 889,
+      "end_ix": 980,
+      "text": "\nThe senator apologized for the photo but said he remembered the skit incident differently.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 980,
+      "end_ix": 1096,
+      "text": "\nLindsay Menz says Franken grabbed her buttocks when the pair posed for a photo at the Minnesota State Fair in 2010.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1096,
+      "end_ix": 1200,
+      "text": "\nFranken later said he did not remember taking the picture but \"felt badly\" that Menz felt disrespected.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1200,
+      "end_ix": 1316,
+      "text": "\nTwo other unidentified women told HuffPost that Franken grabbed their buttocks at separate events in 2007 and 2008.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1316,
+      "end_ix": 1408,
+      "text": "\nOne of the women says Franken suggested that he and she should go to the bathroom together.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1408,
+      "end_ix": 1509,
+      "text": "\nFranken said he did not remember the events and denied asking anyone to visit the bathroom with him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1509,
+      "end_ix": 1612,
+      "text": "\nStephanie Kemplin, an Army veteran, says Franken put his hand on her breast during a USO tour in 2003.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1612,
+      "end_ix": 1746,
+      "text": "\nIn a statement following that accusation, Franken's office said he has not \"intentionally engage in\" the \"kind of conduct\" described.",
+      "new_text": "\nIn a statement following that accusation, Franken's office said he has not \"intentionally engage in\" the \"kind of conduct\" described.",
+      "prop_spans": [
+        [
+          1655,
+          1746,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1746,
+      "end_ix": 1918,
+      "text": "\nA woman described as a \"former elected official in New England\" told the Jezebel website that Franken tried to give her a \"wet, open-mouthed kiss\" during an event in 2006.",
+      "new_text": "\nA woman described as a \"former elected official in New England\" told the Jezebel website that Franken tried to give her a \"wet, open-mouthed kiss\" during an event in 2006.",
+      "prop_spans": [
+        [
+          1746,
+          1746,
+          "Appeal_to_Authority"
+        ],
+        [
+          1870,
+          1893,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1918,
+      "end_ix": 1990,
+      "text": "\nThe senator has not appeared to respond specifically to the allegation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1990,
+      "end_ix": 2133,
+      "text": "\nAn unnamed former Democratic congressional aide told Politico that the senator tried to forcibly kiss her after he taped a radio show in 2006.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2133,
+      "end_ix": 2222,
+      "text": "\nShe says she avoided the kiss, then heard Franken say \"it's my right as an entertainer.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2222,
+      "end_ix": 2278,
+      "text": "\nFranken called the allegation \"categorically not true.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2278,
+      "end_ix": 2443,
+      "text": "\nTina Dupuy writes in The Atlantic that Franken put his hand around her waist while the pair posed for a photo and squeezed \"at least twice\" during an event in 2009.",
+      "new_text": "\nTina Dupuy writes in The Atlantic that Franken put his hand around her waist while the pair posed for a photo and squeezed \"at least twice\" during an event in 2009.",
+      "prop_spans": [
+        [
+          2389,
+          2418,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2443,
+      "end_ix": 2506,
+      "text": "\nThe senator has not specifically responded to that allegation.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      658,
+      700,
+      "Loaded_Language"
+    ],
+    [
+      1655,
+      1746,
+      "Appeal_to_Authority"
+    ],
+    [
+      1870,
+      1893,
+      "Loaded_Language"
+    ],
+    [
+      2389,
+      2418,
+      "Loaded_Language"
+    ]
+  ]
+}

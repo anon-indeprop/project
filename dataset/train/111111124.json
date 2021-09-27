@@ -1,0 +1,370 @@
+{
+  "article_id": "111111124",
+  "sentence offsets in original": [
+    0,
+    339,
+    568,
+    901,
+    1082,
+    1428,
+    2065,
+    2242,
+    2404,
+    2623,
+    2784,
+    2952,
+    3158,
+    3306,
+    3455,
+    3707,
+    4012,
+    4392,
+    4619,
+    4776,
+    4982
+  ],
+  "original sentences": [
+    "Agencies scramble to prep Russia probe files for release after sweeping Trump order\n\nIntelligence agencies were scrambling Tuesday to comply with a sweeping order by President Trump to declassify key documents that could shed light on the origins of the Russia collusion probe that has hamstrung the administration for more than 18 months.",
+    "\n\nThe documents Trump ordered declassified involve a renewed Foreign Intelligence Surveillance Act warrant against former campaign aide Carter Page and text messages from disgraced former FBI officials Peter Strzok and Lisa Page.",
+    "\n\n\nThe president on Monday afternoon ordered that the documents be released by the Office of the Director of National Intelligence (ODNI) and the Justice Department \u201c[a]t the request of a number of committees of Congress, and for reasons of transparency,\u201d according to a statement issued by White House Press Secretary Sarah Sanders.",
+    "\n\nIt is not immediately clear how and when the documents will be released, but by Monday evening, intelligence agencies said they had already begun working to prepare the documents.",
+    "\n\n\u201cWhen the President issues such an order, it triggers a declassification review process that is conducted by various agencies within the intelligence community, in conjunction with the White House Counsel, to seek to ensure the safety of America\u2019s national security interests,\u201d a Justice Department spokesperson said in a statement to Fox News.",
+    "\n\u201cThe Department and the Federal Bureau of Investigation are already working with the Director of National Intelligence to comply with the President\u2019s order.\u201d\n\nODNI spokeswoman Kellie Wade also said that the agency was \u201cworking expeditiously with our interagency partners to conduct a declassification review of the documents the President has identified for declassification.\u201d\n\nThe documents include all FBI reports on interviews, also known as 302s, with Justice Department official Bruce Ohr and all FBI reports of interviews prepared in connection with applications to surveil Carter Page, as well as 21 pages of one renewed warrant.",
+    "\nThe 21 pages make up only a small portion of the 412 pages of FISA applications and warrants related to Page released by the FBI earlier this year in a heavily redacted format.",
+    "\nThe June 2017 application was the last of four filed by the Justice Department in support of FISA court orders allowing the monitoring of Page for nearly a year.",
+    "\n\nThe president also ordered the release of unredacted text messages from fired FBI Special Agent Peter Strzok, former FBI counsel Lisa Page, former FBI Director James Comey and former FBI Deputy Director Andrew McCabe.",
+    "\n\nThe president for months has blasted Strzok and Page for the bias revealed in their text messages, as well as Comey and McCabe for their leadership of the FBI.",
+    "\nComey was fired from the bureau in May 2017; McCabe was fired by Attorney General Jeff Sessions in March; Page left the bureau in May; and Strzok was fired last month.",
+    "\nA source familiar with the timing of the declassification told Fox News they expected the Carter Page warrant application to be declassified first, followed by the FBI reports on agent interviews with Ohr.",
+    "\n\nThe source added that the Justice Department is working on a \"compressed timeline\" and they expect the first release of records in days or sooner.",
+    "\nThe text messages are expected to take longer because of the sheer number involved and the fact that Trump ordered their release without redactions.",
+    "\n\nRepublicans on Capitol Hill, including House Intelligence Committee Chairman Devin Nunes, R-Calif., are touting the president\u2019s order, saying it covers \u201cpretty much everything that he wanted\u2026and the text messages are a bonus,\u201d a source said of Nunes.",
+    "\n\nCongressional Republicans are hoping the files reveal details about the start of the Russia investigation led by the FBI, which evolved into Special Counsel Robert Mueller's investigation into Russian meddling and potential collusion with Trump campaign associates during the 2016 presidential election.",
+    "\n\nBut Democrats,including the committee\u2019s ranking member, Rep. Adam Schiff, D-Calif., are blasting the declassification order as a \u201cclear abuse of power.\u201d\n\n\"[Trump] has decided to intervene in a pending law enforcement investigation by ordering the selective release of materials he believes are helpful to his defense team and thinks will advance a false narrative,\" Schiff said.",
+    "\n\"With respect to some of these materials, I have been previously informed by the FBI and Justice Department that they would consider their release a red line that must not be crossed as they may compromise sources and methods.",
+    "\n\n\"This is evidently of no consequence to a President who cares about nothing about the country and everything about his narrow self-interest,\" Schiff added.",
+    "\n\nThe president\u2019s order is similar to his February move, when he cleared the way for the Republican-led House Intelligence Committee to release a partisan memo about the surveillance warrant on Carter Page.",
+    "\nDemocrats, weeks later, released their own version of the memo."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 339,
+      "text": "Agencies scramble to prep Russia probe files for release after sweeping Trump order\n\nIntelligence agencies were scrambling Tuesday to comply with a sweeping order by President Trump to declassify key documents that could shed light on the origins of the Russia collusion probe that has hamstrung the administration for more than 18 months.",
+      "new_text": "Agencies haste prep Russia probe files for release after sweeping Trump order\n\nIntelligence agencies were busy on Tuesday to comply with a sweeping order by President Trump to declassify key documents that could shed light on the origins of the Russia collusion probe that has delayed the administration for atleast 18 months.",
+      "prop_spans": [
+        [
+          0,
+          18,
+          "Loaded_Language"
+        ],
+        [
+          107,
+          123,
+          "Loaded_Language"
+        ],
+        [
+          282,
+          338,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 339,
+      "end_ix": 568,
+      "text": "\n\nThe documents Trump ordered declassified involve a renewed Foreign Intelligence Surveillance Act warrant against former campaign aide Carter Page and text messages from disgraced former FBI officials Peter Strzok and Lisa Page.",
+      "new_text": "\n\nThe documents Trump ordered declassified involve a renewed Foreign Intelligence Surveillance Act warrant against former campaign aide Carter Page and text messages from former FBI officials Peter Strzok and Lisa Page.",
+      "prop_spans": [
+        [
+          510,
+          541,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 568,
+      "end_ix": 901,
+      "text": "\n\n\nThe president on Monday afternoon ordered that the documents be released by the Office of the Director of National Intelligence (ODNI) and the Justice Department \u201c[a]t the request of a number of committees of Congress, and for reasons of transparency,\u201d according to a statement issued by White House Press Secretary Sarah Sanders.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 901,
+      "end_ix": 1082,
+      "text": "\n\nIt is not immediately clear how and when the documents will be released, but by Monday evening, intelligence agencies said they had already begun working to prepare the documents.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1082,
+      "end_ix": 1428,
+      "text": "\n\n\u201cWhen the President issues such an order, it triggers a declassification review process that is conducted by various agencies within the intelligence community, in conjunction with the White House Counsel, to seek to ensure the safety of America\u2019s national security interests,\u201d a Justice Department spokesperson said in a statement to Fox News.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1428,
+      "end_ix": 2065,
+      "text": "\n\u201cThe Department and the Federal Bureau of Investigation are already working with the Director of National Intelligence to comply with the President\u2019s order.\u201d\n\nODNI spokeswoman Kellie Wade also said that the agency was \u201cworking expeditiously with our interagency partners to conduct a declassification review of the documents the President has identified for declassification.\u201d\n\nThe documents include all FBI reports on interviews, also known as 302s, with Justice Department official Bruce Ohr and all FBI reports of interviews prepared in connection with applications to surveil Carter Page, as well as 21 pages of one renewed warrant.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2065,
+      "end_ix": 2242,
+      "text": "\nThe 21 pages make up only a small portion of the 412 pages of FISA applications and warrants related to Page released by the FBI earlier this year in a heavily redacted format.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2242,
+      "end_ix": 2404,
+      "text": "\nThe June 2017 application was the last of four filed by the Justice Department in support of FISA court orders allowing the monitoring of Page for nearly a year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2404,
+      "end_ix": 2623,
+      "text": "\n\nThe president also ordered the release of unredacted text messages from fired FBI Special Agent Peter Strzok, former FBI counsel Lisa Page, former FBI Director James Comey and former FBI Deputy Director Andrew McCabe.",
+      "new_text": "\n\nThe president also ordered the release of unredacted text messages from former FBI Special Agent Peter Strzok, former FBI counsel Lisa Page, former FBI Director James Comey and former FBI Deputy Director Andrew McCabe.",
+      "prop_spans": [
+        [
+          2478,
+          2502,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2623,
+      "end_ix": 2784,
+      "text": "\n\nThe president for months has blasted Strzok and Page for the bias revealed in their text messages, as well as Comey and McCabe for their leadership of the FBI.",
+      "new_text": "\n\nThe president for months has spoken against Strzok and Page for the bias revealed in their text messages, as well as Comey and McCabe for their leadership of the FBI.",
+      "prop_spans": [
+        [
+          2650,
+          2662,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2784,
+      "end_ix": 2952,
+      "text": "\nComey was fired from the bureau in May 2017; McCabe was fired by Attorney General Jeff Sessions in March; Page left the bureau in May; and Strzok was fired last month.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2952,
+      "end_ix": 3158,
+      "text": "\nA source familiar with the timing of the declassification told Fox News they expected the Carter Page warrant application to be declassified first, followed by the FBI reports on agent interviews with Ohr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3158,
+      "end_ix": 3306,
+      "text": "\n\nThe source added that the Justice Department is working on a \"compressed timeline\" and they expect the first release of records in days or sooner.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3306,
+      "end_ix": 3455,
+      "text": "\nThe text messages are expected to take longer because of the sheer number involved and the fact that Trump ordered their release without redactions.",
+      "new_text": "\nThe text messages are expected to take longer because of the size involved and the fact that Trump ordered their release without redactions.",
+      "prop_spans": [
+        [
+          3368,
+          3381,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3455,
+      "end_ix": 3707,
+      "text": "\n\nRepublicans on Capitol Hill, including House Intelligence Committee Chairman Devin Nunes, R-Calif., are touting the president\u2019s order, saying it covers \u201cpretty much everything that he wanted\u2026and the text messages are a bonus,\u201d a source said of Nunes.",
+      "new_text": "\n\nRepublicans on Capitol Hill, including House Intelligence Committee Chairman Devin Nunes, R-Calif., are in support of the president\u2019s order, saying it covers \u201cpretty much everything that he wanted\u2026and the text messages are a bonus,\u201d a source said of Nunes.",
+      "prop_spans": [
+        [
+          3557,
+          3590,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3707,
+      "end_ix": 4012,
+      "text": "\n\nCongressional Republicans are hoping the files reveal details about the start of the Russia investigation led by the FBI, which evolved into Special Counsel Robert Mueller's investigation into Russian meddling and potential collusion with Trump campaign associates during the 2016 presidential election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4012,
+      "end_ix": 4392,
+      "text": "\n\nBut Democrats,including the committee\u2019s ranking member, Rep. Adam Schiff, D-Calif., are blasting the declassification order as a \u201cclear abuse of power.\u201d\n\n\"[Trump] has decided to intervene in a pending law enforcement investigation by ordering the selective release of materials he believes are helpful to his defense team and thinks will advance a false narrative,\" Schiff said.",
+      "new_text": "\n\nBut Democrats,including the committee\u2019s ranking member, Rep. Adam Schiff, D-Calif., are accusing  the declassification order as a \u201cclear abuse of power.\u201d\n\n\"[Trump] has decided to intervene in a pending law enforcement investigation by ordering the selective release of materials he believes are helpful to his defense team and thinks will advance a false narrative,\" Schiff said.",
+      "prop_spans": [
+        [
+          4098,
+          4111,
+          "Loaded_Language"
+        ],
+        [
+          4144,
+          4164,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4170,
+          4377,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4392,
+      "end_ix": 4619,
+      "text": "\n\"With respect to some of these materials, I have been previously informed by the FBI and Justice Department that they would consider their release a red line that must not be crossed as they may compromise sources and methods.",
+      "new_text": "\n\"With respect to some of these materials, I have been previously informed by the FBI and Justice Department that they would consider their release a red line that must not be crossed as they may compromise sources and methods.",
+      "prop_spans": [
+        [
+          4540,
+          4576,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4619,
+      "end_ix": 4776,
+      "text": "\n\n\"This is evidently of no consequence to a President who cares about nothing about the country and everything about his narrow self-interest,\" Schiff added.",
+      "new_text": "\n\n\"This is evidently of no consequence to a President who cares about nothing about the country and everything about his narrow self-interest,\" Schiff added.",
+      "prop_spans": [
+        [
+          4622,
+          4760,
+          "Flag-Waving"
+        ],
+        [
+          4622,
+          4760,
+          "Doubt"
+        ],
+        [
+          4661,
+          4760,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4776,
+      "end_ix": 4982,
+      "text": "\n\nThe president\u2019s order is similar to his February move, when he cleared the way for the Republican-led House Intelligence Committee to release a partisan memo about the surveillance warrant on Carter Page.",
+      "new_text": "\n\nThe president\u2019s order is similar to his February move, when he cleared the way for the Republican-led House Intelligence Committee to release a memo about the surveillance warrant on Carter Page.",
+      "prop_spans": [
+        [
+          4920,
+          4936,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4982,
+      "end_ix": 5046,
+      "text": "\nDemocrats, weeks later, released their own version of the memo.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      0,
+      18,
+      "Loaded_Language"
+    ],
+    [
+      107,
+      123,
+      "Loaded_Language"
+    ],
+    [
+      282,
+      338,
+      "Loaded_Language"
+    ],
+    [
+      510,
+      541,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2478,
+      2502,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2650,
+      2662,
+      "Loaded_Language"
+    ],
+    [
+      3368,
+      3381,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3557,
+      3590,
+      "Loaded_Language"
+    ],
+    [
+      4098,
+      4111,
+      "Loaded_Language"
+    ],
+    [
+      4144,
+      4164,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4170,
+      4377,
+      "Causal_Oversimplification"
+    ],
+    [
+      4540,
+      4576,
+      "Loaded_Language"
+    ],
+    [
+      4622,
+      4760,
+      "Flag-Waving"
+    ],
+    [
+      4622,
+      4760,
+      "Doubt"
+    ],
+    [
+      4661,
+      4760,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4920,
+      4936,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

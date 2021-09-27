@@ -1,0 +1,255 @@
+{
+  "article_id": "778507244",
+  "sentence offsets in original": [
+    0,
+    182,
+    361,
+    528,
+    709,
+    906,
+    1000,
+    1056,
+    1112,
+    1141,
+    1171,
+    1253,
+    1335,
+    1363,
+    1426,
+    1645,
+    1768,
+    1831,
+    2013,
+    2118
+  ],
+  "original sentences": [
+    "Linda Sarsour's Mentor, The WTC Bombing & A School Shooting Plot In New Mexico\n\nWhen the left made Linda Sarsour into its role model, it climbed into bed with the worst of the worst.",
+    "\nThe father of a missing 4-year-old Georgia boy was training children at a filthy New Mexico compound to commit school shootings, prosecutors alleged in court documents Wednesday.",
+    "\nThe documents say Siraj Ibn Wahhaj was conducting weapons training with assault rifles at the compound near the Colorado border that was raided by authorities Friday.",
+    "\nProsecutor Timothy Hasson filed the court documents while asking that Wahhaj be held without bail after he was arrested last week with four other adults facing child abuse charges.",
+    "\nAuthorities are also awaiting word on whether human remains found at the site were those of Wahhaj's son, who is severely disabled and went missing in December in Jonesboro, Georgia, near Atlanta.",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nIn the court documents, authorities said a foster parent of one of the 11 children removed from the compound had told authorities the child had been trained to use an assault rifle in preparation for a school shooting.",
+    "\nTaos County Sheriff Jerry Hogrefe previously said adults at the compound were \"considered extremist of the Muslim belief.\"",
+    "\nHe did not elaborate, saying it was part of the investigation.",
+    "\nCBS News has learned Wednesday that Wahhaj is the son of a Brooklyn imam who was a possible co-conspirator in the bombing of the World Trade Center in 1993 -- but was never charged.",
+    "\nThe elder Wahhaj heads the Masjid At-Taqwa, a mosque that has attracted radical speakers over the years.",
+    "\nWahhaj met Mahmud Abouhalima when he came to the site to raise money for Muslims in Afghanistan."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 182,
+      "text": "Linda Sarsour's Mentor, The WTC Bombing & A School Shooting Plot In New Mexico\n\nWhen the left made Linda Sarsour into its role model, it climbed into bed with the worst of the worst.",
+      "new_text": "Linda Sarsour's Mentor, The WTC Bombing & A School Shooting Plot In New Mexico\n\nWhen the left made Linda Sarsour into its idol, it promoted someone bad.",
+      "prop_spans": [
+        [
+          118,
+          132,
+          "Name_Calling,Labeling"
+        ],
+        [
+          134,
+          154,
+          "Loaded_Language"
+        ],
+        [
+          154,
+          181,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 182,
+      "end_ix": 361,
+      "text": "\nThe father of a missing 4-year-old Georgia boy was training children at a filthy New Mexico compound to commit school shootings, prosecutors alleged in court documents Wednesday.",
+      "new_text": "\nThe father of a missing 4-year-old Georgia boy was training children at a compound to commit school shootings, prosecutors alleged in court documents Wednesday.",
+      "prop_spans": [
+        [
+          255,
+          284,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 361,
+      "end_ix": 528,
+      "text": "\nThe documents say Siraj Ibn Wahhaj was conducting weapons training with assault rifles at the compound near the Colorado border that was raided by authorities Friday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 528,
+      "end_ix": 709,
+      "text": "\nProsecutor Timothy Hasson filed the court documents while asking that Wahhaj be held without bail after he was arrested last week with four other adults facing child abuse charges.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 709,
+      "end_ix": 906,
+      "text": "\nAuthorities are also awaiting word on whether human remains found at the site were those of Wahhaj's son, who is severely disabled and went missing in December in Jonesboro, Georgia, near Atlanta.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 906,
+      "end_ix": 1000,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1000,
+      "end_ix": 1056,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1056,
+      "end_ix": 1112,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1112,
+      "end_ix": 1141,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1141,
+      "end_ix": 1171,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1171,
+      "end_ix": 1253,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1253,
+      "end_ix": 1335,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1335,
+      "end_ix": 1363,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1363,
+      "end_ix": 1426,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1426,
+      "end_ix": 1645,
+      "text": "\nIn the court documents, authorities said a foster parent of one of the 11 children removed from the compound had told authorities the child had been trained to use an assault rifle in preparation for a school shooting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1645,
+      "end_ix": 1768,
+      "text": "\nTaos County Sheriff Jerry Hogrefe previously said adults at the compound were \"considered extremist of the Muslim belief.\"",
+      "new_text": "\nTaos County Sheriff Jerry Hogrefe previously said adults at the compound were \"considered extremist of the Muslim belief.\"",
+      "prop_spans": [
+        [
+          1736,
+          1766,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1768,
+      "end_ix": 1831,
+      "text": "\nHe did not elaborate, saying it was part of the investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1831,
+      "end_ix": 2013,
+      "text": "\nCBS News has learned Wednesday that Wahhaj is the son of a Brooklyn imam who was a possible co-conspirator in the bombing of the World Trade Center in 1993 -- but was never charged.",
+      "new_text": "\nCBS News has learned Wednesday that Wahhaj is the son of a Brooklyn imam who was a possible co-conspirator in the bombing of the World Trade Center in 1993 -- but was never charged.",
+      "prop_spans": [
+        [
+          1913,
+          1988,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2013,
+      "end_ix": 2118,
+      "text": "\nThe elder Wahhaj heads the Masjid At-Taqwa, a mosque that has attracted radical speakers over the years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2118,
+      "end_ix": 2215,
+      "text": "\nWahhaj met Mahmud Abouhalima when he came to the site to raise money for Muslims in Afghanistan.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      118,
+      132,
+      "Name_Calling,Labeling"
+    ],
+    [
+      134,
+      154,
+      "Loaded_Language"
+    ],
+    [
+      154,
+      181,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      255,
+      284,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1736,
+      1766,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1913,
+      1988,
+      "Reductio_ad_hitlerum"
+    ]
+  ]
+}

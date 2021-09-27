@@ -1,0 +1,179 @@
+{
+  "article_id": "715790840",
+  "sentence offsets in original": [
+    0,
+    83,
+    401,
+    612,
+    1074,
+    1294,
+    1615,
+    2066,
+    2103,
+    2246,
+    2467
+  ],
+  "original sentences": [
+    "Cardinal Burke to Michael Matt: \"Amoris Not An Exercise of Magisterium\" (Now what?)",
+    "\n\nGiven that Pope Francis has, since that interview took place, attempted to make the Argentine bishops\u2019 interpretation of AL 'magisterial'--an interpretation that allows public adulterers to receive Holy Communion--Cardinal Burke\u2019s reply to my question on January 9th of this year would seem to take on new relevancy.",
+    "\nIn my interview of Raymond Cardinal Burke less than one year ago, I asked His Eminence to clarify what, exactly, is the level of authoritative weight of Pope Francis\u2019s post-synodal exhortation, Amoris Laetitia.",
+    "\nNow, Cardinal Francesco Coccopalmerio, president of the Pontifical Council for Legislative Texts, made it very clear to the Catholic News Service on December 5 what the Pope is up to: \u201cThe fact that the pope requested that his letter and the interpretations of the Buenos Aires bishops be published in the AAS means that His Holiness has given these documents a particular qualification that elevates them to the level of being official teachings of the church.",
+    "\nWhile the content of the pope\u2019s letter itself does not contain teachings on faith and morals, it does point toward the interpretations of the Argentine bishops and confirms them as authentically reflecting his own mind.",
+    "\nThus together the two documents became the Holy Father\u2019s authentic magisterium for the whole church.\u201d\nWhat Cardinal Burke rightly describes as lacking in any magisterial weight whatsoever\u2014and, in fact, in dire need of clarification and correction\u2014 has by papal fiat been declared magisterial, and thus binding on us all.",
+    "\nFrancis made it clear that the Argentine bishops\u2019 interpretation of AL allowing public adulterers to receive Holy Communion \u201cexplains precisely the meaning of Chapter VIII of \u2018Amoris Laetitia.\u2019 There are no other interpretations.\u201d\nI would imagine this outrageous overreach of papal authority on the Pope's part would make it ominously clear to Cardinal Burke that the time has come to issue his public correction of Pope Francis's erroneous teaching.",
+    "\nThe moment, it would seem, has come.",
+    "\nCardinal Burke, please and in God's Holy Name, we beg you to act now -- before Pope Francis succeeds in tearing the Church in half completely.",
+    "\nWe fear that your silence now, in the face of this latest papal travesty, may suggest consent to the claim that Amoris Laetitia is magisterial, and thus prove more damaging than if you had never raised your voice at all.",
+    "\nWe thank God for the courage you've shown in defending His Church thus far, and we pray he will continue to bless and protect you as you do what must now be done."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 83,
+      "text": "Cardinal Burke to Michael Matt: \"Amoris Not An Exercise of Magisterium\" (Now what?)",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 83,
+      "end_ix": 401,
+      "text": "\n\nGiven that Pope Francis has, since that interview took place, attempted to make the Argentine bishops\u2019 interpretation of AL 'magisterial'--an interpretation that allows public adulterers to receive Holy Communion--Cardinal Burke\u2019s reply to my question on January 9th of this year would seem to take on new relevancy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 401,
+      "end_ix": 612,
+      "text": "\nIn my interview of Raymond Cardinal Burke less than one year ago, I asked His Eminence to clarify what, exactly, is the level of authoritative weight of Pope Francis\u2019s post-synodal exhortation, Amoris Laetitia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 612,
+      "end_ix": 1074,
+      "text": "\nNow, Cardinal Francesco Coccopalmerio, president of the Pontifical Council for Legislative Texts, made it very clear to the Catholic News Service on December 5 what the Pope is up to: \u201cThe fact that the pope requested that his letter and the interpretations of the Buenos Aires bishops be published in the AAS means that His Holiness has given these documents a particular qualification that elevates them to the level of being official teachings of the church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1074,
+      "end_ix": 1294,
+      "text": "\nWhile the content of the pope\u2019s letter itself does not contain teachings on faith and morals, it does point toward the interpretations of the Argentine bishops and confirms them as authentically reflecting his own mind.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1294,
+      "end_ix": 1615,
+      "text": "\nThus together the two documents became the Holy Father\u2019s authentic magisterium for the whole church.\u201d\nWhat Cardinal Burke rightly describes as lacking in any magisterial weight whatsoever\u2014and, in fact, in dire need of clarification and correction\u2014 has by papal fiat been declared magisterial, and thus binding on us all.",
+      "new_text": "\nThus together the two documents became the Holy Father\u2019s authentic magisterium for the whole church.\u201d\nWhat Cardinal Burke rightly describes as lacking in any weight whatsoever\u2014and, in fact, in dire need of clarification and correction\u2014 has by papal fiat been declared magisterial, and thus binding on us all.",
+      "prop_spans": [
+        [
+          1438,
+          1483,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1615,
+      "end_ix": 2066,
+      "text": "\nFrancis made it clear that the Argentine bishops\u2019 interpretation of AL allowing public adulterers to receive Holy Communion \u201cexplains precisely the meaning of Chapter VIII of \u2018Amoris Laetitia.\u2019 There are no other interpretations.\u201d\nI would imagine this outrageous overreach of papal authority on the Pope's part would make it ominously clear to Cardinal Burke that the time has come to issue his public correction of Pope Francis's erroneous teaching.",
+      "new_text": "\nFrancis made it clear that the Argentine bishops\u2019 interpretation of AL allowing public adulterers to receive Holy Communion \u201cexplains precisely the meaning of Chapter VIII of \u2018Amoris Laetitia.\u2019 There are no other interpretations.\u201d\nI would imagine this papal authority on the Pope's part would make it clear to Cardinal Burke that the time has come to issue his public correction of Pope Francis's erroneous teaching.",
+      "prop_spans": [
+        [
+          1616,
+          1847,
+          "Appeal_to_Authority"
+        ],
+        [
+          1868,
+          1907,
+          "Loaded_Language"
+        ],
+        [
+          1941,
+          1956,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2066,
+      "end_ix": 2103,
+      "text": "\nThe moment, it would seem, has come.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2103,
+      "end_ix": 2246,
+      "text": "\nCardinal Burke, please and in God's Holy Name, we beg you to act now -- before Pope Francis succeeds in tearing the Church in half completely.",
+      "new_text": "\nCardinal Burke, please and in God's Holy Name, we beg you to act now.",
+      "prop_spans": [
+        [
+          2134,
+          2246,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2246,
+      "end_ix": 2467,
+      "text": "\nWe fear that your silence now, in the face of this latest papal travesty, may suggest consent to the claim that Amoris Laetitia is magisterial, and thus prove more damaging than if you had never raised your voice at all.",
+      "new_text": "\nWe fear that your silence now, in the face of this latest act, may suggest consent to the claim that Amoris Laetitia is magisterial, and thus prove more damaging than if you had never raised your voice at all.",
+      "prop_spans": [
+        [
+          2246,
+          2247,
+          "Loaded_Language"
+        ],
+        [
+          2293,
+          2320,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2467,
+      "end_ix": 2630,
+      "text": "\nWe thank God for the courage you've shown in defending His Church thus far, and we pray he will continue to bless and protect you as you do what must now be done.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1438,
+      1483,
+      "Loaded_Language"
+    ],
+    [
+      1616,
+      1847,
+      "Appeal_to_Authority"
+    ],
+    [
+      1868,
+      1907,
+      "Loaded_Language"
+    ],
+    [
+      1941,
+      1956,
+      "Loaded_Language"
+    ],
+    [
+      2134,
+      2247,
+      "Loaded_Language"
+    ],
+    [
+      2293,
+      2320,
+      "Loaded_Language"
+    ]
+  ]
+}

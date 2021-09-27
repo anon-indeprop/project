@@ -1,0 +1,240 @@
+{
+  "article_id": "697444415",
+  "sentence offsets in original": [
+    0,
+    421,
+    685,
+    882,
+    1064,
+    1195,
+    1358,
+    1470,
+    1597,
+    1722,
+    1946,
+    2145,
+    2214,
+    2330,
+    2503,
+    2593,
+    2777
+  ],
+  "original sentences": [
+    "Las Vegas Shooting Victim: \u201cThere Was 100% More Than One Shooter,\u201d Gates To Concert Were Locked Shortly Before Attack\n\nLas Vegas mass shooting victim Rocky Palermo was shot in the pelvis during the horrific attack and is now speaking out about what he saw and believes happened, including the presence of multiple shooters as well as locked concert gates and police telling frantic civilians to go in the other direction.",
+    "\nPalermo, who has done various interviews since the attack, appeared on \u201cThe Blast\u201d with a series of shocking comments that correlate with various other reports indicating that multiple shooters carried out the attack and that the FBI is actively covering this up.",
+    "\n\u201cI definitely do believe that there was 100% more than one shooter, every other person that I\u2019ve talked to that did unfortunately get hit as well, have all said the same things,\u201d Palermo detailed.",
+    "\nThe man then goes on to explain that after being shot he ran \u201cabout 200 yards\u201d to hide behind a car, all the while hearing bullets fly past him at what he believes was ground level.",
+    "\n\u201cI\u2019m waiting and all of a sudden we hear a little whizzing going by us, all of a sudden bullets are just flying by,\u201d he continued.",
+    "\n\u201cWhen something is coming up and down or at least from a different angle they are either going to hit the ground or\u2026 alot of different things are going to happen.",
+    "\nWhen someone is shooting form a horizontal line its just going to keep shooting,\u201d Palermo attempted to explain.",
+    "\nTake note that what he means here is that people were being shot at from ground level rather than the 32nd floor of the hotel.",
+    "\nPalermo then specifically heard the gun shots get \u201ccloser and closer\u201d before quickly deciding it was once again time to run.",
+    "\nShockingly, he then goes on to detail the fact that at the end of the concert the previous two nights everyone had exited a specific way but on the night of the shooting this route was locked down shortly before the attack.",
+    "\n\u201cEvery other night at the concert, everybody kinda exited right off Las Vegas Blvd, that was standard, that was routine, you get out of the concert and you go down to the next casino,\u201d he continued.",
+    "\n\u201cAt 10pm they closed every exit on Las Vegas Blvd, every single one.",
+    "\nThey gated them all closed with chain-link fences, 10:08 the shooting started and we were pigs sitting in a corral.",
+    "\nWe only had one exit to go out of\u2026..everyone was just kinda following the sheep.\u201d\nPalermo makes clear this confused concert goers who had used the normal exits in the past.",
+    "\n\u201cThe same exits we had came in and left Friday and Saturday night were definitely closed.",
+    "\nThere were people that went over there and tried to leave and there were cops that were telling them no, you can\u2019t go out here, you have to go the other way,\u201d he shockingly concluded.",
+    "\nThis stunning testimony is obviously a huge bombshell in the ongoing investigation of the Las Vegas mass shooting and is sure to continue to add credence to the growing belief that we are not being told what actually happened that fateful night."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 421,
+      "text": "Las Vegas Shooting Victim: \u201cThere Was 100% More Than One Shooter,\u201d Gates To Concert Were Locked Shortly Before Attack\n\nLas Vegas mass shooting victim Rocky Palermo was shot in the pelvis during the horrific attack and is now speaking out about what he saw and believes happened, including the presence of multiple shooters as well as locked concert gates and police telling frantic civilians to go in the other direction.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 421,
+      "end_ix": 685,
+      "text": "\nPalermo, who has done various interviews since the attack, appeared on \u201cThe Blast\u201d with a series of shocking comments that correlate with various other reports indicating that multiple shooters carried out the attack and that the FBI is actively covering this up.",
+      "new_text": "\nPalermo, who has done various interviews since the attack, appeared on \u201cThe Blast\u201d with a series of comments that correlate with various other reports indicating that multiple shooters carried out the attack and that the FBI is actively covering this up.",
+      "prop_spans": [
+        [
+          512,
+          539,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 685,
+      "end_ix": 882,
+      "text": "\n\u201cI definitely do believe that there was 100% more than one shooter, every other person that I\u2019ve talked to that did unfortunately get hit as well, have all said the same things,\u201d Palermo detailed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 882,
+      "end_ix": 1064,
+      "text": "\nThe man then goes on to explain that after being shot he ran \u201cabout 200 yards\u201d to hide behind a car, all the while hearing bullets fly past him at what he believes was ground level.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1064,
+      "end_ix": 1195,
+      "text": "\n\u201cI\u2019m waiting and all of a sudden we hear a little whizzing going by us, all of a sudden bullets are just flying by,\u201d he continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1195,
+      "end_ix": 1358,
+      "text": "\n\u201cWhen something is coming up and down or at least from a different angle they are either going to hit the ground or\u2026 alot of different things are going to happen.",
+      "new_text": "\n\u201cWhen something is coming up and down or at least from a different angle they are either going to hit the ground or\u2026 alot of different things are going to happen.",
+      "prop_spans": [
+        [
+          1313,
+          1358,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1358,
+      "end_ix": 1470,
+      "text": "\nWhen someone is shooting form a horizontal line its just going to keep shooting,\u201d Palermo attempted to explain.",
+      "new_text": "\nWhen someone is shooting form a horizontal line its just going to keep shooting,\u201d Palermo attempted to explain.",
+      "prop_spans": [
+        [
+          1358,
+          1358,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1470,
+      "end_ix": 1597,
+      "text": "\nTake note that what he means here is that people were being shot at from ground level rather than the 32nd floor of the hotel.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1471,
+          1597,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1597,
+      "end_ix": 1722,
+      "text": "\nPalermo then specifically heard the gun shots get \u201ccloser and closer\u201d before quickly deciding it was once again time to run.",
+      "new_text": "\nPalermo then specifically heard the gun shots get \u201ccloser and closer\u201d before quickly deciding it was once again time to run.",
+      "prop_spans": [
+        [
+          1597,
+          1598,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1722,
+      "end_ix": 1946,
+      "text": "\nShockingly, he then goes on to detail the fact that at the end of the concert the previous two nights everyone had exited a specific way but on the night of the shooting this route was locked down shortly before the attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1946,
+      "end_ix": 2145,
+      "text": "\n\u201cEvery other night at the concert, everybody kinda exited right off Las Vegas Blvd, that was standard, that was routine, you get out of the concert and you go down to the next casino,\u201d he continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2145,
+      "end_ix": 2214,
+      "text": "\n\u201cAt 10pm they closed every exit on Las Vegas Blvd, every single one.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2214,
+      "end_ix": 2330,
+      "text": "\nThey gated them all closed with chain-link fences, 10:08 the shooting started and we were pigs sitting in a corral.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2330,
+      "end_ix": 2503,
+      "text": "\nWe only had one exit to go out of\u2026..everyone was just kinda following the sheep.\u201d\nPalermo makes clear this confused concert goers who had used the normal exits in the past.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2503,
+      "end_ix": 2593,
+      "text": "\n\u201cThe same exits we had came in and left Friday and Saturday night were definitely closed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2593,
+      "end_ix": 2777,
+      "text": "\nThere were people that went over there and tried to leave and there were cops that were telling them no, you can\u2019t go out here, you have to go the other way,\u201d he shockingly concluded.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2777,
+      "end_ix": 3023,
+      "text": "\nThis stunning testimony is obviously a huge bombshell in the ongoing investigation of the Las Vegas mass shooting and is sure to continue to add credence to the growing belief that we are not being told what actually happened that fateful night.",
+      "new_text": "\nThis stunning testimony is obviously a new development in the ongoing investigation of the Las Vegas mass shooting and is sure to continue to add credence to the growing belief that we are not being told what actually happened that fateful night.",
+      "prop_spans": [
+        [
+          2815,
+          2860,
+          "Doubt"
+        ],
+        [
+          2817,
+          2831,
+          "Loaded_Language"
+        ],
+        [
+          2959,
+          3023,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      512,
+      539,
+      "Loaded_Language"
+    ],
+    [
+      1313,
+      1358,
+      "Obfuscation,Intentional_Vagueness,Confusion"
+    ],
+    [
+      1471,
+      1598,
+      "Straw_Men"
+    ],
+    [
+      2815,
+      2860,
+      "Doubt"
+    ],
+    [
+      2817,
+      2831,
+      "Loaded_Language"
+    ],
+    [
+      2959,
+      3024,
+      "Doubt"
+    ]
+  ]
+}

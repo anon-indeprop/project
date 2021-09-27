@@ -1,0 +1,345 @@
+{
+  "article_id": "757964238",
+  "sentence offsets in original": [
+    0,
+    323,
+    515,
+    624,
+    803,
+    1044,
+    1147,
+    1212,
+    1277,
+    1476,
+    1558,
+    1586,
+    1649,
+    1852,
+    1997,
+    2070,
+    2165,
+    2210,
+    2282,
+    2364,
+    2440,
+    2663,
+    2921
+  ],
+  "original sentences": [
+    "People Call On White House To Pardon Oregon Ranchers Steve & Dwight Hammond\n\nA couple of years ago, I introduced you to the Hammon family, a rancher family out of Oregon that was targeted after the patriarch in the family and his son went to jail for doing what ranchers do, setting fires to protect property and livestock.",
+    "\nHowever, in the day and age of unmitigated \"terrorism\" charges, once they served their sentence the federal government went after both men for more time inside their prison for profit system.",
+    "\nTheir story ultimately led to the Malheur Wildlife Refuge protest, which led to the murder of LaVoy Finicum.",
+    "\nNow, many who have seen what took place both in the Oregon trials and the Bundy Ranch trials are calling on President Donald Trump to issue a pardon for Steve and Dwight Hammond.",
+    "\nAccording to the White House petition on behalf of Dwight and Steven Hammond by Protect The Harvest:\nThe Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",
+    "\ntake our poll - story continues below Whom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nAs long as Dwight and Steven Hammond remain in jail for what is obviously a gross miscarriage of justice, this matter remains a blight on the federal regulatory agencies and the criminal justice system.",
+    "\nRural communities of the West are greatly appreciative of the efforts of the Trump administration to restore the economies of these communities.",
+    "\nWe respectfully ask President Trump to pardon Dwight and Steven Hammond.",
+    "\nI completely agree with that assessment and fully support President Trump pardoning these men.",
+    "\nThey are the furthest thing from terrorists.",
+    "\nThey are hard-working, family ranchers who simply were doing their job.",
+    "\nI've written on the Hammond's case in several articles, which you can view below.",
+    "\nMany of you followed these stories when the mainstream wouldn't cover them.",
+    "\nMany of you followed Bundy Ranch until after the trials, but when we asked for people to step up and sign a petition to bring Bundy Ranch prosecutor Steven Myhre to justice for his crimes, we couldn't get 1,000 signatures.",
+    "\nPlease, put yourself in the position of these humble ranchers and consider if you would appreciate someone simply taking the time to put their name on a petition to which the President of the united States might have to respond to by setting these men free.",
+    "\nConsider that and then, please, support the petition by clicking here."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 323,
+      "text": "People Call On White House To Pardon Oregon Ranchers Steve & Dwight Hammond\n\nA couple of years ago, I introduced you to the Hammon family, a rancher family out of Oregon that was targeted after the patriarch in the family and his son went to jail for doing what ranchers do, setting fires to protect property and livestock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 323,
+      "end_ix": 515,
+      "text": "\nHowever, in the day and age of unmitigated \"terrorism\" charges, once they served their sentence the federal government went after both men for more time inside their prison for profit system.",
+      "new_text": "\nHowever, in the day and age of unmitigated \"terrorism\" charges, once they served their sentence the federal government went after both men for more time inside their prison for profit system.",
+      "prop_spans": [
+        [
+          497,
+          514,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 515,
+      "end_ix": 624,
+      "text": "\nTheir story ultimately led to the Malheur Wildlife Refuge protest, which led to the murder of LaVoy Finicum.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 624,
+      "end_ix": 803,
+      "text": "\nNow, many who have seen what took place both in the Oregon trials and the Bundy Ranch trials are calling on President Donald Trump to issue a pardon for Steve and Dwight Hammond.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 803,
+      "end_ix": 1044,
+      "text": "\nAccording to the White House petition on behalf of Dwight and Steven Hammond by Protect The Harvest:\nThe Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",
+      "new_text": "\nAccording to the White House petition on behalf of Dwight and Steven Hammond by Protect The Harvest:\nThe Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",
+      "prop_spans": [
+        [
+          988,
+          996,
+          "Loaded_Language"
+        ],
+        [
+          997,
+          1019,
+          "Repetition"
+        ],
+        [
+          1028,
+          1043,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1044,
+      "end_ix": 1147,
+      "text": "\ntake our poll - story continues below Whom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1147,
+      "end_ix": 1212,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1212,
+      "end_ix": 1277,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1277,
+      "end_ix": 1476,
+      "text": "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1476,
+      "end_ix": 1558,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1558,
+      "end_ix": 1586,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1586,
+      "end_ix": 1649,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1649,
+      "end_ix": 1852,
+      "text": "\nAs long as Dwight and Steven Hammond remain in jail for what is obviously a gross miscarriage of justice, this matter remains a blight on the federal regulatory agencies and the criminal justice system.",
+      "new_text": "\nAs long as Dwight and Steven Hammond remain in jail for what is obviously a miscarriage of justice, this matter remains a blotch on the federal regulatory agencies and the criminal justice system.",
+      "prop_spans": [
+        [
+          1726,
+          1731,
+          "Loaded_Language"
+        ],
+        [
+          1732,
+          1754,
+          "Repetition"
+        ],
+        [
+          1778,
+          1784,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1852,
+      "end_ix": 1997,
+      "text": "\nRural communities of the West are greatly appreciative of the efforts of the Trump administration to restore the economies of these communities.",
+      "new_text": "\nRural communities of the West are appreciative of the efforts of the Trump administration to restore the economies of these communities.",
+      "prop_spans": [
+        [
+          1887,
+          1894,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1997,
+      "end_ix": 2070,
+      "text": "\nWe respectfully ask President Trump to pardon Dwight and Steven Hammond.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2070,
+      "end_ix": 2165,
+      "text": "\nI completely agree with that assessment and fully support President Trump pardoning these men.",
+      "new_text": "\nI agree with that assessment and support President Trump pardoning these men.",
+      "prop_spans": [
+        [
+          2071,
+          2089,
+          "Appeal_to_Authority"
+        ],
+        [
+          2115,
+          2128,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2165,
+      "end_ix": 2210,
+      "text": "\nThey are the furthest thing from terrorists.",
+      "new_text": "\nThey are the furthest thing from terrorists.",
+      "prop_spans": [
+        [
+          2175,
+          2193,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2210,
+      "end_ix": 2282,
+      "text": "\nThey are hard-working, family ranchers who simply were doing their job.",
+      "new_text": "\nThey are family ranchers who simply were doing their job.",
+      "prop_spans": [
+        [
+          2220,
+          2232,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2282,
+      "end_ix": 2364,
+      "text": "\nI've written on the Hammond's case in several articles, which you can view below.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2364,
+      "end_ix": 2440,
+      "text": "\nMany of you followed these stories when the mainstream wouldn't cover them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2440,
+      "end_ix": 2663,
+      "text": "\nMany of you followed Bundy Ranch until after the trials, but when we asked for people to step up and sign a petition to bring Bundy Ranch prosecutor Steven Myhre to justice for his crimes, we couldn't get 1,000 signatures.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2663,
+      "end_ix": 2921,
+      "text": "\nPlease, put yourself in the position of these humble ranchers and consider if you would appreciate someone simply taking the time to put their name on a petition to which the President of the united States might have to respond to by setting these men free.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2921,
+      "end_ix": 2992,
+      "text": "\nConsider that and then, please, support the petition by clicking here.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      497,
+      514,
+      "Causal_Oversimplification"
+    ],
+    [
+      988,
+      996,
+      "Loaded_Language"
+    ],
+    [
+      997,
+      1019,
+      "Repetition"
+    ],
+    [
+      1028,
+      1043,
+      "Loaded_Language"
+    ],
+    [
+      1726,
+      1731,
+      "Loaded_Language"
+    ],
+    [
+      1732,
+      1754,
+      "Repetition"
+    ],
+    [
+      1778,
+      1784,
+      "Loaded_Language"
+    ],
+    [
+      1887,
+      1894,
+      "Loaded_Language"
+    ],
+    [
+      2071,
+      2089,
+      "Appeal_to_Authority"
+    ],
+    [
+      2115,
+      2128,
+      "Appeal_to_Authority"
+    ],
+    [
+      2175,
+      2193,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2220,
+      2232,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

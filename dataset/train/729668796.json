@@ -1,0 +1,624 @@
+{
+  "article_id": "729668796",
+  "sentence offsets in original": [
+    0,
+    361,
+    474,
+    501,
+    830,
+    1062,
+    1174,
+    1241,
+    1268,
+    1372,
+    1481,
+    1625,
+    1866,
+    2047,
+    2116,
+    2302,
+    2556,
+    2629,
+    3097,
+    3290,
+    3333,
+    3419,
+    3541,
+    3575,
+    3637,
+    3803,
+    3920,
+    3956,
+    4125,
+    4153
+  ],
+  "original sentences": [
+    "Hungary PM Viktor Orban Vows to \u201cFight Those Who Want to Change the Christian Identity of Europe\u201d\n\nHungary's Prime Minister Viktor Orban has been somewhat of a lone voice in Europe against the Muslim invasion, and on Wednesday he gave a \"Hungary First\" speech in which he declared that he would \"fight those who want to change the Christian Identity of Europe.\"",
+    "\n\u201cOur presidency has taken a stand: we cannot give in to extortion,\" Orban said in a video statement on Facebook.",
+    "\n\"For us, Hungary is first.",
+    "\nWe will fight those who want to change the Christian identity of Hungary and Europe.\u201d\nEln\u00f6ks\u00e9gi \u00fcl\u00e9s ut\u00e1n Eln\u00f6ks\u00e9gi \u00fcl\u00e9s ut\u00e1n // After the meeting of the presidency Posted by Orb\u00e1n Viktor on Wednesday, February 7, 2018\nOrban's words are reminiscent of those of US President Donald Trump, who spoke about putting \"America First.\"",
+    "\n\"The presidency of Fidesz has discussed yesterday the announcement of the Belgian Prime Minister, that they will \u2013 if necessary with force \u2013 obligate Central European countries, including Hungary, to accept migrants,\u201d Orban stated.",
+    "\n\u201cAccording to their plan, this will happen in June at the summit of the prime ministers in Brussels,\" he added.",
+    "\n\u201cOur presidency has taken a stand: we cannot give in to extortion.",
+    "\nFor us, Hungary is first.\"",
+    "\n\u201cWe will fight those who want to change the Christian identity of Hungary and Europe,\u201d Orban concluded.",
+    "\nAccording to the Hungarian Government's website, posted about the ultimatum that was given over the weekend.",
+    "\nOver the weekend, Belgian prime minister Charles Michel spoke about sending \u201can ultimatum\u201d to the Visegr\u00e1d countries which \u201creject solidarity\u201d.",
+    "\nThe essence of this ultimatum would be that if by the end of June a consensus is not reached in the council of EU heads of government, then the planned reforms would be adopted with a qualified majority vote which would overrule dissenters.",
+    "\nMinister of Foreign Affairs and Trade P\u00e9ter Szijj\u00e1rt\u00f3 said on Tuesday,\u201cHungary will not become an immigrant country, it has never admitted and will never admit illegal immigrants.\"",
+    "\nHe also referred to Michel's ultimatum as unacceptable and shocking.",
+    "\n\u201cHungary has never admitted and will never admit illegal immigrants, irrespective of whether there is any pressure in this direction along the borders or from Brussels,\u201d Szijj\u00e1rt\u00f3 said.",
+    "\n\u201cThe Belgian Prime Minister\u2019s statement is also outrageous because this is the first time that people in Brussels are openly planning to push the mandatory resettlement quota through by force while totally ignoring the will of certain EU member states.\"",
+    "\n\u201cWe regard this whole thing as unacceptable and we reject it,\" he added.",
+    "\n\u201cThe countries of the Visegr\u00e1d Group do not support the introduction of any kind of mandatory quota.\u201d\n\u201cPerhaps it doesn\u2019t bother the Belgian Prime Minister that there are no-go zones in many Western European cities, or that people with immigrant backgrounds have committed 27 major terrorist attacks in Europe recently, but this bothers the V4 because they do not want to live on a continent were the threat of terrorism becomes an everyday regularity,\" he continued.",
+    "\nJust this week, we reported that Hungary had grown weary of the talks of pushing illegal Muslim migrants on their country and Europe, and was preparing to walk away from the negotiating table.",
+    "\nOrban has taken a tough stance in Hungary.",
+    "\nHe has ordered all illegal Muslim invaders to get out of Hungary and never come back.",
+    "\nIn December, he said that he was not concerned with what Brussels wanted, but was determined to defend Hungary's borders.",
+    "\nPM Orban has done just that, too.",
+    "\nOrban's border wall virtually eliminated illegal immigration.",
+    "\nOrban is openly Christian and seems to understand something that many do not and that is you do not allow a wholesale flood of antichrists to pour into your country.",
+    "\nWere the Ammonites and Moabites not kept out of the assembly of Israel because of their hatred of the people of God?",
+    "\n(Deuteronoy 23:3-6) Yes, they were.",
+    "\nWhile Muslims need the Gospel for sure, one cannot allow such an influx into the country, or all you are asking for is the judgments God warned about in Deuteronomy 28.",
+    "\nI say, well done Mr. Orban.",
+    "\nI would like to hear more of that kind of talk from America's representatives."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 361,
+      "text": "Hungary PM Viktor Orban Vows to \u201cFight Those Who Want to Change the Christian Identity of Europe\u201d\n\nHungary's Prime Minister Viktor Orban has been somewhat of a lone voice in Europe against the Muslim invasion, and on Wednesday he gave a \"Hungary First\" speech in which he declared that he would \"fight those who want to change the Christian Identity of Europe.\"",
+      "new_text": "Hungary PM Viktor Orban Vows to \u201cFight Those Who Want to Change the Christian Identity of Europe\u201d\n\nHungary's Prime Minister Viktor Orban has been somewhat of a lone voice in Europe against the Muslim invasion, and on Wednesday he gave a \"Hungary First\" speech in which he declared that he would \"fight those who want to change the Christian Identity of Europe.\"",
+      "prop_spans": [
+        [
+          68,
+          96,
+          "Flag-Waving"
+        ],
+        [
+          238,
+          251,
+          "Flag-Waving"
+        ],
+        [
+          238,
+          251,
+          "Slogans"
+        ],
+        [
+          296,
+          361,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 361,
+      "end_ix": 474,
+      "text": "\n\u201cOur presidency has taken a stand: we cannot give in to extortion,\" Orban said in a video statement on Facebook.",
+      "new_text": "\n\u201cOur presidency has taken a stand: we cannot give in to extortion,\" Orban said in a video statement on Facebook.",
+      "prop_spans": [
+        [
+          361,
+          362,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 474,
+      "end_ix": 501,
+      "text": "\n\"For us, Hungary is first.",
+      "new_text": "\n\"For us, Hungary is first.",
+      "prop_spans": [
+        [
+          476,
+          500,
+          "Flag-Waving"
+        ],
+        [
+          476,
+          500,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 501,
+      "end_ix": 830,
+      "text": "\nWe will fight those who want to change the Christian identity of Hungary and Europe.\u201d\nEln\u00f6ks\u00e9gi \u00fcl\u00e9s ut\u00e1n Eln\u00f6ks\u00e9gi \u00fcl\u00e9s ut\u00e1n // After the meeting of the presidency Posted by Orb\u00e1n Viktor on Wednesday, February 7, 2018\nOrban's words are reminiscent of those of US President Donald Trump, who spoke about putting \"America First.\"",
+      "new_text": "\nWe will fight those who want to change the Christian identity of Hungary and Europe.\u201d\nEln\u00f6ks\u00e9gi \u00fcl\u00e9s ut\u00e1n Eln\u00f6ks\u00e9gi \u00fcl\u00e9s ut\u00e1n // After the meeting of the presidency Posted by Orb\u00e1n Viktor on Wednesday, February 7, 2018\nOrban's words are reminiscent of those of US President Donald Trump, who spoke about putting \"America First.\"",
+      "prop_spans": [
+        [
+          545,
+          585,
+          "Repetition"
+        ],
+        [
+          545,
+          585,
+          "Flag-Waving"
+        ],
+        [
+          815,
+          828,
+          "Flag-Waving"
+        ],
+        [
+          815,
+          828,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 830,
+      "end_ix": 1062,
+      "text": "\n\"The presidency of Fidesz has discussed yesterday the announcement of the Belgian Prime Minister, that they will \u2013 if necessary with force \u2013 obligate Central European countries, including Hungary, to accept migrants,\u201d Orban stated.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1062,
+      "end_ix": 1174,
+      "text": "\n\u201cAccording to their plan, this will happen in June at the summit of the prime ministers in Brussels,\" he added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1174,
+      "end_ix": 1241,
+      "text": "\n\u201cOur presidency has taken a stand: we cannot give in to extortion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1241,
+      "end_ix": 1268,
+      "text": "\nFor us, Hungary is first.\"",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1242,
+          1266,
+          "Repetition"
+        ],
+        [
+          1242,
+          1266,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1268,
+      "end_ix": 1372,
+      "text": "\n\u201cWe will fight those who want to change the Christian identity of Hungary and Europe,\u201d Orban concluded.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1270,
+          1353,
+          "Repetition"
+        ],
+        [
+          1270,
+          1353,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1372,
+      "end_ix": 1481,
+      "text": "\nAccording to the Hungarian Government's website, posted about the ultimatum that was given over the weekend.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1481,
+      "end_ix": 1625,
+      "text": "\nOver the weekend, Belgian prime minister Charles Michel spoke about sending \u201can ultimatum\u201d to the Visegr\u00e1d countries which \u201creject solidarity\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1625,
+      "end_ix": 1866,
+      "text": "\nThe essence of this ultimatum would be that if by the end of June a consensus is not reached in the council of EU heads of government, then the planned reforms would be adopted with a qualified majority vote which would overrule dissenters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1866,
+      "end_ix": 2047,
+      "text": "\nMinister of Foreign Affairs and Trade P\u00e9ter Szijj\u00e1rt\u00f3 said on Tuesday,\u201cHungary will not become an immigrant country, it has never admitted and will never admit illegal immigrants.\"",
+      "new_text": "\nMinister of Foreign Affairs and Trade P\u00e9ter Szijj\u00e1rt\u00f3 said on Tuesday,\u201cHungary will not become an immigrant country, it has never admitted and will never admit illegal immigrants.\"",
+      "prop_spans": [
+        [
+          1938,
+          2047,
+          "Loaded_Language"
+        ],
+        [
+          1938,
+          2045,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2047,
+      "end_ix": 2116,
+      "text": "\nHe also referred to Michel's ultimatum as unacceptable and shocking.",
+      "new_text": "\nHe also referred to Michel's ultimatum as unacceptable.",
+      "prop_spans": [
+        [
+          2047,
+          2048,
+          "Loaded_Language"
+        ],
+        [
+          2090,
+          2115,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2116,
+      "end_ix": 2302,
+      "text": "\n\u201cHungary has never admitted and will never admit illegal immigrants, irrespective of whether there is any pressure in this direction along the borders or from Brussels,\u201d Szijj\u00e1rt\u00f3 said.",
+      "new_text": "\n\u201cHungary has never admitted and will never admit illegal immigrants, irrespective of whether there is any pressure in this direction along the borders or from Brussels,\u201d Szijj\u00e1rt\u00f3 said.",
+      "prop_spans": [
+        [
+          2118,
+          2184,
+          "Repetition"
+        ],
+        [
+          2118,
+          2184,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2302,
+      "end_ix": 2556,
+      "text": "\n\u201cThe Belgian Prime Minister\u2019s statement is also outrageous because this is the first time that people in Brussels are openly planning to push the mandatory resettlement quota through by force while totally ignoring the will of certain EU member states.\"",
+      "new_text": "\n\u201cThe Belgian Prime Minister\u2019s statement is also outrageous because this is the first time that people in Brussels are openly planning to push the mandatory resettlement quota through by force while totally ignoring the will of certain EU member states.\"",
+      "prop_spans": [
+        [
+          2351,
+          2361,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2556,
+      "end_ix": 2629,
+      "text": "\n\u201cWe regard this whole thing as unacceptable and we reject it,\" he added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2629,
+      "end_ix": 3097,
+      "text": "\n\u201cThe countries of the Visegr\u00e1d Group do not support the introduction of any kind of mandatory quota.\u201d\n\u201cPerhaps it doesn\u2019t bother the Belgian Prime Minister that there are no-go zones in many Western European cities, or that people with immigrant backgrounds have committed 27 major terrorist attacks in Europe recently, but this bothers the V4 because they do not want to live on a continent were the threat of terrorism becomes an everyday regularity,\" he continued.",
+      "new_text": "\n\u201cThe countries of the Visegr\u00e1d Group do not support the introduction of any kind of mandatory quota.\u201d\n\u201cPerhaps it doesn\u2019t bother the Belgian Prime Minister that there are no-go zones in many Western European cities, or that people with immigrant backgrounds have committed 27 major terrorist attacks in Europe recently, but this bothers the V4 because they do not want to live on a continent were the threat of terrorism becomes an everyday regularity,\" he continued.",
+      "prop_spans": [
+        [
+          2854,
+          2939,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3027,
+          3081,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3097,
+      "end_ix": 3290,
+      "text": "\nJust this week, we reported that Hungary had grown weary of the talks of pushing illegal Muslim migrants on their country and Europe, and was preparing to walk away from the negotiating table.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3290,
+      "end_ix": 3333,
+      "text": "\nOrban has taken a tough stance in Hungary.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3333,
+      "end_ix": 3419,
+      "text": "\nHe has ordered all illegal Muslim invaders to get out of Hungary and never come back.",
+      "new_text": "\nHe has ordered all undocumented immigrants to get out of Hungary and never come back.",
+      "prop_spans": [
+        [
+          3341,
+          3419,
+          "Loaded_Language"
+        ],
+        [
+          3361,
+          3377,
+          "Repetition"
+        ],
+        [
+          3361,
+          3376,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3419,
+      "end_ix": 3541,
+      "text": "\nIn December, he said that he was not concerned with what Brussels wanted, but was determined to defend Hungary's borders.",
+      "new_text": "\nIn December, he said that he was not concerned with what Brussels wanted, but was determined to defend Hungary's borders.",
+      "prop_spans": [
+        [
+          3419,
+          3420,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3541,
+      "end_ix": 3575,
+      "text": "\nPM Orban has done just that, too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3575,
+      "end_ix": 3637,
+      "text": "\nOrban's border wall virtually eliminated illegal immigration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3637,
+      "end_ix": 3803,
+      "text": "\nOrban is openly Christian and seems to understand something that many do not and that is you do not allow a wholesale flood of antichrists to pour into your country.",
+      "new_text": "\nOrban is Christian and seems to understand something that many do not and that is you do not allow a huge number of disbelievers to pour into your country.",
+      "prop_spans": [
+        [
+          3647,
+          3663,
+          "Flag-Waving"
+        ],
+        [
+          3756,
+          3776,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3803,
+      "end_ix": 3920,
+      "text": "\nWere the Ammonites and Moabites not kept out of the assembly of Israel because of their hatred of the people of God?",
+      "new_text": "\nWere the Ammonites and Moabites not kept out of the assembly of Israel because of their hatred of the people of God?",
+      "prop_spans": [
+        [
+          3804,
+          3920,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3920,
+      "end_ix": 3956,
+      "text": "\n(Deuteronoy 23:3-6) Yes, they were.",
+      "new_text": "\n(Deuteronoy 23:3-6) Yes, they were.",
+      "prop_spans": [
+        [
+          3920,
+          3940,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3956,
+      "end_ix": 4125,
+      "text": "\nWhile Muslims need the Gospel for sure, one cannot allow such an influx into the country, or all you are asking for is the judgments God warned about in Deuteronomy 28.",
+      "new_text": "\nWhile Muslims need the Gospel for sure, one should not allow such an influx into the country, or you might face the judgments God warned about in Deuteronomy 28.",
+      "prop_spans": [
+        [
+          3997,
+          4125,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4125,
+      "end_ix": 4153,
+      "text": "\nI say, well done Mr. Orban.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          4125,
+          4126,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          4133,
+          4142,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4153,
+      "end_ix": 4232,
+      "text": "\nI would like to hear more of that kind of talk from America's representatives.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      68,
+      96,
+      "Flag-Waving"
+    ],
+    [
+      238,
+      251,
+      "Flag-Waving"
+    ],
+    [
+      238,
+      251,
+      "Slogans"
+    ],
+    [
+      296,
+      362,
+      "Repetition"
+    ],
+    [
+      476,
+      500,
+      "Flag-Waving"
+    ],
+    [
+      476,
+      500,
+      "Slogans"
+    ],
+    [
+      545,
+      585,
+      "Repetition"
+    ],
+    [
+      545,
+      585,
+      "Flag-Waving"
+    ],
+    [
+      815,
+      828,
+      "Flag-Waving"
+    ],
+    [
+      815,
+      828,
+      "Slogans"
+    ],
+    [
+      1242,
+      1266,
+      "Repetition"
+    ],
+    [
+      1242,
+      1266,
+      "Flag-Waving"
+    ],
+    [
+      1270,
+      1353,
+      "Repetition"
+    ],
+    [
+      1270,
+      1353,
+      "Flag-Waving"
+    ],
+    [
+      1938,
+      2048,
+      "Loaded_Language"
+    ],
+    [
+      1938,
+      2045,
+      "Flag-Waving"
+    ],
+    [
+      2090,
+      2115,
+      "Loaded_Language"
+    ],
+    [
+      2118,
+      2184,
+      "Repetition"
+    ],
+    [
+      2118,
+      2184,
+      "Loaded_Language"
+    ],
+    [
+      2351,
+      2361,
+      "Loaded_Language"
+    ],
+    [
+      2854,
+      2939,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3027,
+      3081,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3341,
+      3420,
+      "Loaded_Language"
+    ],
+    [
+      3361,
+      3377,
+      "Repetition"
+    ],
+    [
+      3361,
+      3376,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3647,
+      3663,
+      "Flag-Waving"
+    ],
+    [
+      3756,
+      3776,
+      "Loaded_Language"
+    ],
+    [
+      3804,
+      3940,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      3997,
+      4126,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      4133,
+      4142,
+      "Thought-terminating_Cliches"
+    ]
+  ]
+}

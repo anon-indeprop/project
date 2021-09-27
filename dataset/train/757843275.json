@@ -1,0 +1,377 @@
+{
+  "article_id": "757843275",
+  "sentence offsets in original": [
+    0,
+    209,
+    252,
+    431,
+    681,
+    756,
+    853,
+    929,
+    1004,
+    1082,
+    1110,
+    1205,
+    1306,
+    1455,
+    1566,
+    1786,
+    1970,
+    2088,
+    2154,
+    2203,
+    2263,
+    2351,
+    2444,
+    2492,
+    2550,
+    2620,
+    2810,
+    2895,
+    2971,
+    3050,
+    3214
+  ],
+  "original sentences": [
+    "EXPERIMENTAL Ebola Vaccine Will Be Administered In Congo As Ebola Death Toll Climbs\n\nAn experimental Ebola vaccine is being rolled out in Congo as the death toll from the infectious disease continues to climb.",
+    "\nThe vaccination campaign will begin today.",
+    "\n\u201cThe vaccination campaign begins tomorrow, Monday, in Mbandaka, capital of the province,\u201d Minister of Health Oly Ilunga told The Associated Press as reported by 9 News Australia.",
+    "\n\u201cIt will target, first, the health staff, the contacts of the sick and the contacts of the contacts.\u201d The World Health Organization has been warning about the \u201cEbola situation\u201d in Congo, and it appears their only solution is an experimental vaccine.",
+    "\nAn experimental vaccine is one that has never been tried on humans before.",
+    "\nEbola hemorrhagic fever, seen mostly only in Africa, is one of the world\u2019s most feared diseases.",
+    "\nIt begins with flu-like symptoms, followed by bloody diarrhea and vomiting.",
+    "\nDays later, some victims begin bleeding through the nose, mouth, and eyes.",
+    "\nDepending on the strain of the Ebola virus, it can kill up to 90% of victims.",
+    "\nThere is no cure for Ebola.",
+    "\nThe virus is spread through direct contact with the blood or secretions of an infected person.",
+    "\nSo, is the Ebola virus reaching a terrifying enough level that an experimental vaccine is warranted?",
+    "\nThe death toll has reached 26 and the vaccine will be rolled out at Mbandaka, the north-western city of 1.2 million recently struck by the outbreak.",
+    "\nSince the virus is spread through direct contact, an isn\u2019t airborne, it isn\u2019t nearly as deadly as it could be.",
+    "\nRead more here about Ebola and how it is transmitted:\nInitially, the campaign will target 600 people, mainly medical staff, contacts of suspected cases, and those who have been in contact with the contacts, Ilunga said.",
+    "\nOfficials are working urgently to prevent the disease from spreading beyond Mbandaka, which lies on the Congo River, a busy traffic corridor, and is an hour\u2019s flight from the capital.",
+    "\nThe spread of Ebola from a rural area to Mbandaka has raised alarm as Ebola can spread more quickly in urban centers.",
+    "\nThe fever can cause severe internal bleeding that is often fatal.",
+    "\nMeaning, the virus itself doesn\u2019t actually kill.",
+    "\nThe immune system\u2019s response to the virus is what\u2019s deadly.",
+    "\nZMapp is also an experimental drug that could aid in the recovery from the Ebola virus.",
+    "\nBut, like the vaccine being administered, it has not been tested for safety or efficacy yet.",
+    "\nIt is not a vaccine \u2013 it is a therapeutic drug.",
+    "\nOf the seven people given the drug so far, two have died.",
+    "\nZMapp show \u201cpromise,\u201d although scientific results are not definitive.",
+    "\nThe risk of Ebola spreading within Congo is \u201cvery high,\u201d according to authorities, and the disease could also move into nine neighboring countries, the World Health Organization has warned.",
+    "\nThe WHO, however, stopped short of declaring the outbreak a global health emergency.",
+    "\nWHO said there should not be restrictions on international travel or trade.",
+    "\nIn the meantime, it\u2019s important to prevent oneself from contracting the virus.",
+    "\nUnfortunately, health care workers are at the greatest risk as they try to cull the suffering: which is why they will be the first to get the experimental vaccine.",
+    "\nFor their sake, let\u2019s hope it works better than this year\u2019s flu vaccine."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 209,
+      "text": "EXPERIMENTAL Ebola Vaccine Will Be Administered In Congo As Ebola Death Toll Climbs\n\nAn experimental Ebola vaccine is being rolled out in Congo as the death toll from the infectious disease continues to climb.",
+      "new_text": "EXPERIMENTAL Ebola Vaccine Will Be Administered In Congo As Ebola Death Toll Climbs\n\nAn experimental Ebola vaccine is being rolled out in Congo.",
+      "prop_spans": [
+        [
+          147,
+          208,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 209,
+      "end_ix": 252,
+      "text": "\nThe vaccination campaign will begin today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 252,
+      "end_ix": 431,
+      "text": "\n\u201cThe vaccination campaign begins tomorrow, Monday, in Mbandaka, capital of the province,\u201d Minister of Health Oly Ilunga told The Associated Press as reported by 9 News Australia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 431,
+      "end_ix": 681,
+      "text": "\n\u201cIt will target, first, the health staff, the contacts of the sick and the contacts of the contacts.\u201d The World Health Organization has been warning about the \u201cEbola situation\u201d in Congo, and it appears their only solution is an experimental vaccine.",
+      "new_text": "\n\u201cIt will target, first, the health staff, the contacts of the sick and the contacts of the contacts.\u201d The World Health Organization has been warning about the \u201cEbola situation\u201d in Congo, and it appears their solution is an experimental vaccine.",
+      "prop_spans": [
+        [
+          640,
+          653,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 681,
+      "end_ix": 756,
+      "text": "\nAn experimental vaccine is one that has never been tried on humans before.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 756,
+      "end_ix": 853,
+      "text": "\nEbola hemorrhagic fever, seen mostly only in Africa, is one of the world\u2019s most feared diseases.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 853,
+      "end_ix": 929,
+      "text": "\nIt begins with flu-like symptoms, followed by bloody diarrhea and vomiting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 929,
+      "end_ix": 1004,
+      "text": "\nDays later, some victims begin bleeding through the nose, mouth, and eyes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1004,
+      "end_ix": 1082,
+      "text": "\nDepending on the strain of the Ebola virus, it can kill up to 90% of victims.",
+      "new_text": "\nDepending on the strain of the Ebola virus, it can kill up to 90% of victims.",
+      "prop_spans": [
+        [
+          1049,
+          1081,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1082,
+      "end_ix": 1110,
+      "text": "\nThere is no cure for Ebola.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1110,
+      "end_ix": 1205,
+      "text": "\nThe virus is spread through direct contact with the blood or secretions of an infected person.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1205,
+      "end_ix": 1306,
+      "text": "\nSo, is the Ebola virus reaching a terrifying enough level that an experimental vaccine is warranted?",
+      "new_text": "\nSo, is the Ebola virus reaching a level that an experimental vaccine is warranted?",
+      "prop_spans": [
+        [
+          1240,
+          1250,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1306,
+      "end_ix": 1455,
+      "text": "\nThe death toll has reached 26 and the vaccine will be rolled out at Mbandaka, the north-western city of 1.2 million recently struck by the outbreak.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1455,
+      "end_ix": 1566,
+      "text": "\nSince the virus is spread through direct contact, an isn\u2019t airborne, it isn\u2019t nearly as deadly as it could be.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1566,
+      "end_ix": 1786,
+      "text": "\nRead more here about Ebola and how it is transmitted:\nInitially, the campaign will target 600 people, mainly medical staff, contacts of suspected cases, and those who have been in contact with the contacts, Ilunga said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1786,
+      "end_ix": 1970,
+      "text": "\nOfficials are working urgently to prevent the disease from spreading beyond Mbandaka, which lies on the Congo River, a busy traffic corridor, and is an hour\u2019s flight from the capital.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1970,
+      "end_ix": 2088,
+      "text": "\nThe spread of Ebola from a rural area to Mbandaka has raised alarm as Ebola can spread more quickly in urban centers.",
+      "new_text": "\nThe spread of Ebola from a rural area to Mbandaka has raised alarm.",
+      "prop_spans": [
+        [
+          2032,
+          2087,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2088,
+      "end_ix": 2154,
+      "text": "\nThe fever can cause severe internal bleeding that is often fatal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2154,
+      "end_ix": 2203,
+      "text": "\nMeaning, the virus itself doesn\u2019t actually kill.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2203,
+      "end_ix": 2263,
+      "text": "\nThe immune system\u2019s response to the virus is what\u2019s deadly.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2263,
+      "end_ix": 2351,
+      "text": "\nZMapp is also an experimental drug that could aid in the recovery from the Ebola virus.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2351,
+      "end_ix": 2444,
+      "text": "\nBut, like the vaccine being administered, it has not been tested for safety or efficacy yet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2444,
+      "end_ix": 2492,
+      "text": "\nIt is not a vaccine \u2013 it is a therapeutic drug.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2492,
+      "end_ix": 2550,
+      "text": "\nOf the seven people given the drug so far, two have died.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2550,
+      "end_ix": 2620,
+      "text": "\nZMapp show \u201cpromise,\u201d although scientific results are not definitive.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2620,
+      "end_ix": 2810,
+      "text": "\nThe risk of Ebola spreading within Congo is \u201cvery high,\u201d according to authorities, and the disease could also move into nine neighboring countries, the World Health Organization has warned.",
+      "new_text": "\nThe risk of Ebola spreading within Congo is \u201cvery high,\u201d according to authorities, and the disease could also move into nine neighboring countries, the World Health Organization has warned.",
+      "prop_spans": [
+        [
+          2666,
+          2675,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          2708,
+          2767,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2810,
+      "end_ix": 2895,
+      "text": "\nThe WHO, however, stopped short of declaring the outbreak a global health emergency.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2895,
+      "end_ix": 2971,
+      "text": "\nWHO said there should not be restrictions on international travel or trade.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2971,
+      "end_ix": 3050,
+      "text": "\nIn the meantime, it\u2019s important to prevent oneself from contracting the virus.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3050,
+      "end_ix": 3214,
+      "text": "\nUnfortunately, health care workers are at the greatest risk as they try to cull the suffering: which is why they will be the first to get the experimental vaccine.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3214,
+      "end_ix": 3287,
+      "text": "\nFor their sake, let\u2019s hope it works better than this year\u2019s flu vaccine.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3263,
+          3286,
+          "Red_Herring"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      147,
+      208,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      640,
+      653,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      1049,
+      1081,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1240,
+      1250,
+      "Loaded_Language"
+    ],
+    [
+      2032,
+      2087,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2666,
+      2675,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2708,
+      2767,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3263,
+      3286,
+      "Red_Herring"
+    ]
+  ]
+}

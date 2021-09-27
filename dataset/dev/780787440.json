@@ -1,0 +1,395 @@
+{
+  "article_id": "780787440",
+  "sentence offsets in original": [
+    0,
+    694,
+    925,
+    1151,
+    1415,
+    1491,
+    1701,
+    1843,
+    1923,
+    2108,
+    2338,
+    2411,
+    2523,
+    2735,
+    3263,
+    3487,
+    3739,
+    3920,
+    4318
+  ],
+  "original sentences": [
+    "Pope admits Catholic Church has \u2018long ignored\u2019 problem of child abuse\n\nVATICAN CITY \u2014 Pope Francis on Monday asked forgiveness for child abuse crimes and cover-ups within the Catholic Church, admitting that the pain of victims \u201cwas long ignored, kept quiet or silenced.\u201d\nThe strongly worded statement came ahead of an Aug. 25-26 papal pilgrimage to Ireland, one of the countries rocked by clergy sex abuse scandals, and followed an expose of pedophile priests in the U.S.\n\u201cThe heart-wrenching pain of these victims, which cries out to heaven, was long ignored, kept quiet or silenced,\u201d Francis said in a Letter to the People of God, a rarely-issued address to the world\u2019s 1.3 billion Catholics.",
+    "\nOn Aug. 17, a Pennsylvania grand jury report, based on hidden archives of the U.S. church, named 301 priests from the state as credibly accused child sex abusers and accused church leaders of a systematic cover-up of their crimes.",
+    "\nThe report \u201cdetailed the experiences of at least a thousand survivors, victims of sexual abuse, the abuse of power and of conscience at the hands of priests over a period of approximately seventy years,\u201d Francis acknowledged.",
+    "\n\u201cIt is essential that we, as a Church, be able to acknowledge and condemn, with sorrow and shame, the atrocities perpetrated by consecrated persons, clerics, and all those entrusted with the mission of watching over and caring for those most vulnerable,\u201d he said.",
+    "\n\u201cLet us beg forgiveness for our own sins and the sins of others,\u201d he added.",
+    "\nIn the run-up to Francis\u2019 visit to Ireland, the head of the Irish Catholic Church, Archbishop Eamon Martin, said he expected the pope to meet with victims of clergy sex abuse and to promise effective remedies.",
+    "\n\u201cI\u2019m not sure what his words will be and I\u2019m not sure that a simple apology is what survivors of abuse want,\u201d Martin said in a BBC interview.",
+    "\n\u201cIf he expresses an apology, it needs to be more than \u2018we\u2019re sorry,\u2019\u201d he added.",
+    "\nIn his letter, Francis repeated a famous 2005 quote by his predecessor Benedict XVI, who, a month before being elected pope, lamented \u201chow much filth\u201d there was in the Catholic Church.",
+    "\n\u201cWith shame and repentance, we acknowledge as an ecclesial community that we were not where we should have been, that we did not act in a timely manner, realizing the magnitude and the gravity of the damage done to so many lives.",
+    "\nWe showed no care for the little ones; we abandoned them,\u201d Francis said.",
+    "\n\u201cLooking back to the past, no effort to beg pardon and to seek to repair the harm done will ever be sufficient.",
+    "\nLooking ahead to the future, no effort must be spared to create a culture able to prevent such situations from happening, but also to prevent the possibility of their being covered up and perpetuated,\u201d he added.",
+    "\nColm O\u2019Gorman, an Irish abuse survivor who founded One in Four, the main survivors\u2019 group in Ireland, commented on Twitter that the pope offered \u201cMuch stronger language than ever used before.\u201d\nBut O\u2019Gorman added: \u201c(The pope) begs for forgiveness, but still does not admit or own the deliberate policy of cover up designed & implemented by the #Vatican.\u201d\nLike his predecessor, Francis has promised \u201czero tolerance\u201d on child abuse, but scandals have kept recurring in several parts of the world \u2014 including in Australia recently.",
+    "\nIn January, the pope was accused of insensitivity and tone-deafness after insisting, during a visit to Chile, that local abuse survivors had no \u201cproof\u201d against a bishop who allegedly witnessed abuse and failed to report it.",
+    "\nFollowing an outcry, Francis apologized for his remarks, held private meetings with victims at the Vatican, and, after envoys he sent to Chile backed up victims\u2019 claims, the entire leadership of the Chilean Catholic church tendered their resignations.",
+    "\nAccording to church expert John L Allen, an editor at specialized website Crux.com, the Catholic Church has a structural problem when it comes to dealing with cover up accusations.",
+    "\n\u201cSixteen years since the crisis first erupted in the U.S., almost ten years since that happened in Ireland, and now more than five years since Francis was elected, the Catholic Church still has no credible, transparent process for handling cases when the accusation against a bishop isn\u2019t the direct commission of abuse but rather covering up someone else\u2019s crimes,\u201d Allen said in a Sunday column.",
+    "\n\u2014 Alvise Armellini\ndpa\n\u2014\u2014\u2014\n\u00a92018 Deutsche Presse-Agentur GmbH (Hamburg, Germany), Distributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 694,
+      "text": "Pope admits Catholic Church has \u2018long ignored\u2019 problem of child abuse\n\nVATICAN CITY \u2014 Pope Francis on Monday asked forgiveness for child abuse crimes and cover-ups within the Catholic Church, admitting that the pain of victims \u201cwas long ignored, kept quiet or silenced.\u201d\nThe strongly worded statement came ahead of an Aug. 25-26 papal pilgrimage to Ireland, one of the countries rocked by clergy sex abuse scandals, and followed an expose of pedophile priests in the U.S.\n\u201cThe heart-wrenching pain of these victims, which cries out to heaven, was long ignored, kept quiet or silenced,\u201d Francis said in a Letter to the People of God, a rarely-issued address to the world\u2019s 1.3 billion Catholics.",
+      "new_text": "Pope admits Catholic Church has \u2018long ignored\u2019 problem of child abuse\n\nVATICAN CITY \u2014 Pope Francis on Monday asked forgiveness for child abuse crimes and cover-ups within the Catholic Church, admitting that the pain of victims \u201cwas long ignored, kept quiet or silenced.\u201d\nThe strongly worded statement came ahead of an Aug. 25-26 papal pilgrimage to Ireland, one of the countries affected by clergy sex abuse incidents, and followed an expose of pedophile priests in the U.S.\n\u201cThe heart-wrenching pain of these victims, which cries out to heaven, was long ignored, kept quiet or silenced,\u201d Francis said in a Letter to the People of God, a rarely-issued address to the world\u2019s 1.3 billion Catholics.",
+      "prop_spans": [
+        [
+          379,
+          414,
+          "Loaded_Language"
+        ],
+        [
+          473,
+          498,
+          "Loaded_Language"
+        ],
+        [
+          516,
+          541,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 694,
+      "end_ix": 925,
+      "text": "\nOn Aug. 17, a Pennsylvania grand jury report, based on hidden archives of the U.S. church, named 301 priests from the state as credibly accused child sex abusers and accused church leaders of a systematic cover-up of their crimes.",
+      "new_text": "\nOn Aug. 17, a Pennsylvania grand jury report, based on hidden archives of the U.S. church, named 301 priests from the state as child sex violators and accused church leaders of a systematic cover-up of their crimes.",
+      "prop_spans": [
+        [
+          822,
+          857,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 925,
+      "end_ix": 1151,
+      "text": "\nThe report \u201cdetailed the experiences of at least a thousand survivors, victims of sexual abuse, the abuse of power and of conscience at the hands of priests over a period of approximately seventy years,\u201d Francis acknowledged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1151,
+      "end_ix": 1415,
+      "text": "\n\u201cIt is essential that we, as a Church, be able to acknowledge and condemn, with sorrow and shame, the atrocities perpetrated by consecrated persons, clerics, and all those entrusted with the mission of watching over and caring for those most vulnerable,\u201d he said.",
+      "new_text": "\n\u201cIt is essential that we, as a Church, be able to acknowledge and condemn, with sorrow and shame, the atrocities perpetrated by consecrated persons, clerics, and all those entrusted with the mission of watching over and caring for those most vulnerable,\u201d he said.",
+      "prop_spans": [
+        [
+          1153,
+          1404,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1227,
+          1248,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1415,
+      "end_ix": 1491,
+      "text": "\n\u201cLet us beg forgiveness for our own sins and the sins of others,\u201d he added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1491,
+      "end_ix": 1701,
+      "text": "\nIn the run-up to Francis\u2019 visit to Ireland, the head of the Irish Catholic Church, Archbishop Eamon Martin, said he expected the pope to meet with victims of clergy sex abuse and to promise effective remedies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1701,
+      "end_ix": 1843,
+      "text": "\n\u201cI\u2019m not sure what his words will be and I\u2019m not sure that a simple apology is what survivors of abuse want,\u201d Martin said in a BBC interview.",
+      "new_text": "\n\u201cI\u2019m not sure what his words will be and I\u2019m not sure that a simple apology is what survivors of abuse want,\u201d Martin said in a BBC interview.",
+      "prop_spans": [
+        [
+          1703,
+          1809,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1843,
+      "end_ix": 1923,
+      "text": "\n\u201cIf he expresses an apology, it needs to be more than \u2018we\u2019re sorry,\u2019\u201d he added.",
+      "new_text": "\n\u201cIf he expresses an apology, it needs to be more than \u2018we\u2019re sorry,\u2019\u201d he added.",
+      "prop_spans": [
+        [
+          1845,
+          1910,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1923,
+      "end_ix": 2108,
+      "text": "\nIn his letter, Francis repeated a famous 2005 quote by his predecessor Benedict XVI, who, a month before being elected pope, lamented \u201chow much filth\u201d there was in the Catholic Church.",
+      "new_text": "\nIn his letter, Francis repeated a famous 2005 quote by his predecessor Benedict XVI, who, a month before being elected pope, lamented \u201chow much filth\u201d there was in the Catholic Church.",
+      "prop_spans": [
+        [
+          2059,
+          2073,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2108,
+      "end_ix": 2338,
+      "text": "\n\u201cWith shame and repentance, we acknowledge as an ecclesial community that we were not where we should have been, that we did not act in a timely manner, realizing the magnitude and the gravity of the damage done to so many lives.",
+      "new_text": "\n\u201cWith shame and repentance, we acknowledge as an ecclesial community that we were not where we should have been, that we did not act in a timely manner, realizing the magnitude and the gravity of the damage done to so many lives.",
+      "prop_spans": [
+        [
+          2110,
+          2338,
+          "Doubt"
+        ],
+        [
+          2110,
+          2135,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2338,
+      "end_ix": 2411,
+      "text": "\nWe showed no care for the little ones; we abandoned them,\u201d Francis said.",
+      "new_text": "\nWe showed no care for the little ones; we abandoned them,\u201d Francis said.",
+      "prop_spans": [
+        [
+          2338,
+          2395,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2411,
+      "end_ix": 2523,
+      "text": "\n\u201cLooking back to the past, no effort to beg pardon and to seek to repair the harm done will ever be sufficient.",
+      "new_text": "\n\u201cLooking back to the past, no effort to beg pardon and to seek to repair the harm done will ever be sufficient.",
+      "prop_spans": [
+        [
+          2439,
+          2522,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2523,
+      "end_ix": 2735,
+      "text": "\nLooking ahead to the future, no effort must be spared to create a culture able to prevent such situations from happening, but also to prevent the possibility of their being covered up and perpetuated,\u201d he added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2735,
+      "end_ix": 3263,
+      "text": "\nColm O\u2019Gorman, an Irish abuse survivor who founded One in Four, the main survivors\u2019 group in Ireland, commented on Twitter that the pope offered \u201cMuch stronger language than ever used before.\u201d\nBut O\u2019Gorman added: \u201c(The pope) begs for forgiveness, but still does not admit or own the deliberate policy of cover up designed & implemented by the #Vatican.\u201d\nLike his predecessor, Francis has promised \u201czero tolerance\u201d on child abuse, but scandals have kept recurring in several parts of the world \u2014 including in Australia recently.",
+      "new_text": "\nColm O\u2019Gorman, an Irish abuse survivor who founded One in Four, the main survivors\u2019 group in Ireland, commented on Twitter that the pope offered \u201cMuch stronger language than ever used before.\u201d\nBut O\u2019Gorman added: \u201c(The pope) begs for forgiveness, but still does not admit or own the deliberate policy of cover up designed & implemented by the #Vatican.\u201d\nLike his predecessor, Francis has promised \u201czero tolerance\u201d on child abuse, but scandals have kept recurring in several parts of the world \u2014 including in Australia recently.",
+      "prop_spans": [
+        [
+          2951,
+          3087,
+          "Doubt"
+        ],
+        [
+          3090,
+          3262,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3263,
+      "end_ix": 3487,
+      "text": "\nIn January, the pope was accused of insensitivity and tone-deafness after insisting, during a visit to Chile, that local abuse survivors had no \u201cproof\u201d against a bishop who allegedly witnessed abuse and failed to report it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3487,
+      "end_ix": 3739,
+      "text": "\nFollowing an outcry, Francis apologized for his remarks, held private meetings with victims at the Vatican, and, after envoys he sent to Chile backed up victims\u2019 claims, the entire leadership of the Chilean Catholic church tendered their resignations.",
+      "new_text": "\nFollowing complaints, Francis apologized for his remarks, held private meetings with victims at the Vatican, and, after envoys he sent to Chile backed up victims\u2019 claims, the entire leadership of the Chilean Catholic church tendered their resignations.",
+      "prop_spans": [
+        [
+          3501,
+          3507,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3739,
+      "end_ix": 3920,
+      "text": "\nAccording to church expert John L Allen, an editor at specialized website Crux.com, the Catholic Church has a structural problem when it comes to dealing with cover up accusations.",
+      "new_text": "\nAccording to John L Allen, the Catholic Church has a structural problem when it comes to dealing with cover up accusations.",
+      "prop_spans": [
+        [
+          3740,
+          3920,
+          "Appeal_to_Authority"
+        ],
+        [
+          3824,
+          3919,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3920,
+      "end_ix": 4318,
+      "text": "\n\u201cSixteen years since the crisis first erupted in the U.S., almost ten years since that happened in Ireland, and now more than five years since Francis was elected, the Catholic Church still has no credible, transparent process for handling cases when the accusation against a bishop isn\u2019t the direct commission of abuse but rather covering up someone else\u2019s crimes,\u201d Allen said in a Sunday column.",
+      "new_text": "\n\u201cSixteen years since the crisis first erupted in the U.S., almost ten years since that happened in Ireland, and now more than five years since Francis was elected, the Catholic Church still has no credible, transparent process for handling cases when the accusation against a bishop isn\u2019t the direct commission of abuse but rather covering up someone else\u2019s crimes,\u201d Allen said in a Sunday column.",
+      "prop_spans": [
+        [
+          3920,
+          4317,
+          "Appeal_to_Authority"
+        ],
+        [
+          3959,
+          3967,
+          "Loaded_Language"
+        ],
+        [
+          4085,
+          4285,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4318,
+      "end_ix": 4444,
+      "text": "\n\u2014 Alvise Armellini\ndpa\n\u2014\u2014\u2014\n\u00a92018 Deutsche Presse-Agentur GmbH (Hamburg, Germany), Distributed by Tribune Content Agency, LLC.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      379,
+      414,
+      "Loaded_Language"
+    ],
+    [
+      473,
+      498,
+      "Loaded_Language"
+    ],
+    [
+      516,
+      541,
+      "Loaded_Language"
+    ],
+    [
+      822,
+      857,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1153,
+      1404,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1227,
+      1248,
+      "Loaded_Language"
+    ],
+    [
+      1703,
+      1809,
+      "Doubt"
+    ],
+    [
+      1845,
+      1910,
+      "Doubt"
+    ],
+    [
+      2059,
+      2073,
+      "Loaded_Language"
+    ],
+    [
+      2110,
+      2395,
+      "Doubt"
+    ],
+    [
+      2110,
+      2135,
+      "Loaded_Language"
+    ],
+    [
+      2439,
+      2522,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2951,
+      3087,
+      "Doubt"
+    ],
+    [
+      3090,
+      3262,
+      "Doubt"
+    ],
+    [
+      3501,
+      3507,
+      "Loaded_Language"
+    ],
+    [
+      3740,
+      4317,
+      "Appeal_to_Authority"
+    ],
+    [
+      3824,
+      3919,
+      "Doubt"
+    ],
+    [
+      3959,
+      3967,
+      "Loaded_Language"
+    ],
+    [
+      4085,
+      4285,
+      "Doubt"
+    ]
+  ]
+}

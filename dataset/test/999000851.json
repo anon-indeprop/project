@@ -1,0 +1,256 @@
+{
+  "article_id": "999000851",
+  "sentence offsets in original": [
+    0,
+    158,
+    494,
+    786,
+    968,
+    1137,
+    1254,
+    1423,
+    1474,
+    1525,
+    1563,
+    1614,
+    1621,
+    1653,
+    1734,
+    1817,
+    1845,
+    1908,
+    2040,
+    2331,
+    2451,
+    2540,
+    2592,
+    2890,
+    3112,
+    3441
+  ],
+  "original sentences": [
+    "White House Restores CNN Acosta\u2019s Pass But Imposes Strict Conduct Rules\n\nThanks to Jim Acosta, all White House correspondents have to adhere to the new rules.",
+    "\nCNN\u2019s White House correspondent Jim Acosta will get his \u201chard pass\u201d restored, but thanks to his antics and confrontations with President Trump and White House press secretary Sarah Huckabee Sanders, all journalists seeking access to the presidential press room will now have to abide by written rules of conduct due to his misbehavior.",
+    "\nSanders and deputy chief of staff for communications Bill Shine sent a letter to Acosta on Monday, notifying him that his hard pass was restored, but that it could be suspended or revoked again if he fails to abide by the new rules that apply to all White House correspondents going forward.",
+    "\nUnder the rules laid out in the letter, each journalist gets \u201ca single question\u201d before having to yield the floor, with follow-ups solely at the discretion of White House officials.",
+    "\nFailure to obey the rules may result in suspension or revocation of the \u201chard pass,\u201d the document allowing major networks regular access to the White House, RT reports.",
+    "\nBREAKING NEWS: White House agrees to fully reinstate press pass of CNN's Jim Acosta and has set the following rules.",
+    "\npic.twitter.com/xAVa9TJW70 \u2014 Michael Moates (@freedom_moates) November 19, 2018\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u201cShould you refuse to follow these rules in the future, we will take action in accordance with the rules,\u201d wrote Sanders and Shine.",
+    "\nAcosta\u2019s pass was yanked following an incident at President Donald Trump\u2019s November 7 press conference, where the CNN correspondent argued with Trump instead of asking questions (not for the first time) and physically prevented a White House intern from taking the microphone away from him.",
+    "\nCNN responded by suing the White House, claiming that Acosta\u2019s due process and free speech rights were being infringed.",
+    "\nLast week, a federal judge ordered the pass temporarily restored on due process grounds.",
+    "\nIn response to the letter, CNN dropped the lawsuit.",
+    "\nMainstream media outlets that had joined CNN in suing Trump celebrated Monday\u2019s letter, framing it as the White House \u201cbacking down\u201d in face of the legal challenge while largely ignoring the implications of the new rules: that the media critical of Trump might have won a battle, but lost the war.",
+    "\nWhite House backs down from legal fight, restores Jim Acosta's press passhttps://t.co/LQoIVgSnCv \u2014 AprilDRyan (@AprilDRyan) November 19, 2018\n\u201cWe have created these rules with a degree of regret,\u201d Sanders and Shine wrote.",
+    "\n\u201cBut, given the position taken by CNN, we now feel obligated to replace previously shared practices with explicit rules.\u201d\nThis means that Acosta, or any other reporter covering the White House, can get their pass suspended or revoked over specific conduct going forward, without having a leg to stand on in terms of due process.",
+    "\nThat leaves the First Amendment grounds, effectively arguing that access to the White House is a civil right under the US Constitution, for which there is no precedent under US law."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 158,
+      "text": "White House Restores CNN Acosta\u2019s Pass But Imposes Strict Conduct Rules\n\nThanks to Jim Acosta, all White House correspondents have to adhere to the new rules.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 158,
+      "end_ix": 494,
+      "text": "\nCNN\u2019s White House correspondent Jim Acosta will get his \u201chard pass\u201d restored, but thanks to his antics and confrontations with President Trump and White House press secretary Sarah Huckabee Sanders, all journalists seeking access to the presidential press room will now have to abide by written rules of conduct due to his misbehavior.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 494,
+      "end_ix": 786,
+      "text": "\nSanders and deputy chief of staff for communications Bill Shine sent a letter to Acosta on Monday, notifying him that his hard pass was restored, but that it could be suspended or revoked again if he fails to abide by the new rules that apply to all White House correspondents going forward.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 786,
+      "end_ix": 968,
+      "text": "\nUnder the rules laid out in the letter, each journalist gets \u201ca single question\u201d before having to yield the floor, with follow-ups solely at the discretion of White House officials.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 968,
+      "end_ix": 1137,
+      "text": "\nFailure to obey the rules may result in suspension or revocation of the \u201chard pass,\u201d the document allowing major networks regular access to the White House, RT reports.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1137,
+      "end_ix": 1254,
+      "text": "\nBREAKING NEWS: White House agrees to fully reinstate press pass of CNN's Jim Acosta and has set the following rules.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1254,
+      "end_ix": 1423,
+      "text": "\npic.twitter.com/xAVa9TJW70 \u2014 Michael Moates (@freedom_moates) November 19, 2018\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1423,
+      "end_ix": 1474,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1474,
+      "end_ix": 1525,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1525,
+      "end_ix": 1563,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1563,
+      "end_ix": 1614,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1614,
+      "end_ix": 1621,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1621,
+      "end_ix": 1653,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1653,
+      "end_ix": 1734,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1734,
+      "end_ix": 1817,
+      "text": "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1817,
+      "end_ix": 1845,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1845,
+      "end_ix": 1908,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1908,
+      "end_ix": 2040,
+      "text": "\n\u201cShould you refuse to follow these rules in the future, we will take action in accordance with the rules,\u201d wrote Sanders and Shine.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2040,
+      "end_ix": 2331,
+      "text": "\nAcosta\u2019s pass was yanked following an incident at President Donald Trump\u2019s November 7 press conference, where the CNN correspondent argued with Trump instead of asking questions (not for the first time) and physically prevented a White House intern from taking the microphone away from him.",
+      "new_text": "\nAcosta\u2019s pass was taken away following an incident at President Donald Trump\u2019s November 7 press conference, where the CNN correspondent argued with Trump instead of asking questions (not for the first time) and physically prevented a White House intern from taking the microphone away from him.",
+      "prop_spans": [
+        [
+          2059,
+          2065,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2331,
+      "end_ix": 2451,
+      "text": "\nCNN responded by suing the White House, claiming that Acosta\u2019s due process and free speech rights were being infringed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2451,
+      "end_ix": 2540,
+      "text": "\nLast week, a federal judge ordered the pass temporarily restored on due process grounds.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2540,
+      "end_ix": 2592,
+      "text": "\nIn response to the letter, CNN dropped the lawsuit.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2592,
+      "end_ix": 2890,
+      "text": "\nMainstream media outlets that had joined CNN in suing Trump celebrated Monday\u2019s letter, framing it as the White House \u201cbacking down\u201d in face of the legal challenge while largely ignoring the implications of the new rules: that the media critical of Trump might have won a battle, but lost the war.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2890,
+      "end_ix": 3112,
+      "text": "\nWhite House backs down from legal fight, restores Jim Acosta's press passhttps://t.co/LQoIVgSnCv \u2014 AprilDRyan (@AprilDRyan) November 19, 2018\n\u201cWe have created these rules with a degree of regret,\u201d Sanders and Shine wrote.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3112,
+      "end_ix": 3441,
+      "text": "\n\u201cBut, given the position taken by CNN, we now feel obligated to replace previously shared practices with explicit rules.\u201d\nThis means that Acosta, or any other reporter covering the White House, can get their pass suspended or revoked over specific conduct going forward, without having a leg to stand on in terms of due process.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3441,
+      "end_ix": 3623,
+      "text": "\nThat leaves the First Amendment grounds, effectively arguing that access to the White House is a civil right under the US Constitution, for which there is no precedent under US law.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      2059,
+      2065,
+      "Loaded_Language"
+    ]
+  ]
+}

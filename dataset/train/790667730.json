@@ -1,0 +1,347 @@
+{
+  "article_id": "790667730",
+  "sentence offsets in original": [
+    0,
+    423,
+    597,
+    687,
+    908,
+    1056,
+    1186,
+    1216,
+    1311,
+    1438,
+    1500,
+    1562,
+    1717,
+    1799,
+    1827,
+    1890,
+    1986
+  ],
+  "original sentences": [
+    "Senator Lindsey Graham Unleashes Firestorm At Democrat Senators For \"Most Unethical Sham\" Since He's Been In Politics\n\nI'm not a fan of Senator Lindsey Graham (R-SC), and he's my senator, but I have to tell you that he was right on point on Thursday when he berated Senate Democrats in their relentless assault on Judge Brett Kavanaugh while at the same time believing every word of Dr. Christine Ford without any evidence.",
+    "\nIn fact, all of the evidence and all of the witnesses to date, including Dr. Ford's friend, whom she claims was in the same house that the attack occurred refute her claims.",
+    "\nWhen Graham had his time to speak, he said what many of us thought should have been said.",
+    "\nAfter Kavanaugh unleashed his own refutation of the charges and blasted Democrats for their attacks on him, near the closing of the hearing, Graham finally said what everyone had been waiting on and said it with passion.",
+    "\n\"What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,\" Graham blasted Democrat Senators on the committee.",
+    "\nSen. Lindsey Graham to committee Democrats: \"This is the most unethical sham since I've been in politics...Boy, y'all want power.",
+    "\nBoy, I hope you never get it.",
+    "\nI hope the American people can see through this sham, that you knew about it and you held it.\"",
+    "\npic.twitter.com/NnpcF33smC take our poll - story continues below Who should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+    "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u2014 Axios (@axios) September 27, 2018\nGraham continued, \"Would you say you've been through hell?\"",
+    "\nKavanaugh responded, \"I've been through hell and then some.\""
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 423,
+      "text": "Senator Lindsey Graham Unleashes Firestorm At Democrat Senators For \"Most Unethical Sham\" Since He's Been In Politics\n\nI'm not a fan of Senator Lindsey Graham (R-SC), and he's my senator, but I have to tell you that he was right on point on Thursday when he berated Senate Democrats in their relentless assault on Judge Brett Kavanaugh while at the same time believing every word of Dr. Christine Ford without any evidence.",
+      "new_text": "Senator Lindsey Graham Speaks Against At Democrat Senators\n\nI'm not a fan of Senator Lindsey Graham (R-SC), and he's my senator, but I have to tell you that he was right on point on Thursday when he berated Senate Democrats actions on Judge Brett Kavanaugh while at the same time aggreeing with Dr. Christine.",
+      "prop_spans": [
+        [
+          23,
+          43,
+          "Loaded_Language"
+        ],
+        [
+          69,
+          117,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          69,
+          88,
+          "Name_Calling,Labeling"
+        ],
+        [
+          84,
+          88,
+          "Loaded_Language"
+        ],
+        [
+          292,
+          311,
+          "Loaded_Language"
+        ],
+        [
+          359,
+          422,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 423,
+      "end_ix": 597,
+      "text": "\nIn fact, all of the evidence and all of the witnesses to date, including Dr. Ford's friend, whom she claims was in the same house that the attack occurred refute her claims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 597,
+      "end_ix": 687,
+      "text": "\nWhen Graham had his time to speak, he said what many of us thought should have been said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 687,
+      "end_ix": 908,
+      "text": "\nAfter Kavanaugh unleashed his own refutation of the charges and blasted Democrats for their attacks on him, near the closing of the hearing, Graham finally said what everyone had been waiting on and said it with passion.",
+      "new_text": "\nAfter Kavanaugh unleashed his own refutation of the charges refuted the Democrats claims on him, near the closing of the hearing, Graham finally said what everyone had been waiting on and said it with passion.",
+      "prop_spans": [
+        [
+          752,
+          794,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 908,
+      "end_ix": 1056,
+      "text": "\n\"What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,\" Graham blasted Democrat Senators on the committee.",
+      "new_text": "\n\"What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,\" Graham blasted Democrat Senators on the committee.",
+      "prop_spans": [
+        [
+          910,
+          1003,
+          "Causal_Oversimplification"
+        ],
+        [
+          910,
+          956,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1056,
+      "end_ix": 1186,
+      "text": "\nSen. Lindsey Graham to committee Democrats: \"This is the most unethical sham since I've been in politics...Boy, y'all want power.",
+      "new_text": "\nSen. Lindsey Graham to committee Democrats: \"This is the most unethical sham since I've been in politics...Boy, y'all want power.",
+      "prop_spans": [
+        [
+          1110,
+          1161,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1110,
+          1134,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1129,
+          1134,
+          "Loaded_Language"
+        ],
+        [
+          1164,
+          1186,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1186,
+      "end_ix": 1216,
+      "text": "\nBoy, I hope you never get it.",
+      "new_text": "\nBoy, I hope you never get it.",
+      "prop_spans": [
+        [
+          1186,
+          1215,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1216,
+      "end_ix": 1311,
+      "text": "\nI hope the American people can see through this sham, that you knew about it and you held it.\"",
+      "new_text": "\nI hope the American people can see through this sham, that you knew about it and you held it.\"",
+      "prop_spans": [
+        [
+          1217,
+          1309,
+          "Flag-Waving"
+        ],
+        [
+          1265,
+          1269,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1311,
+      "end_ix": 1438,
+      "text": "\npic.twitter.com/NnpcF33smC take our poll - story continues below Who should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1438,
+      "end_ix": 1500,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1500,
+      "end_ix": 1562,
+      "text": "\nWho should replace Nikki Haley as our ambassador to the U.N.?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1562,
+      "end_ix": 1717,
+      "text": "\n* John Bolton Richard Grenell Dina Powell Heather Nauert Ivanka Trump\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1717,
+      "end_ix": 1799,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1799,
+      "end_ix": 1827,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1827,
+      "end_ix": 1890,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1890,
+      "end_ix": 1986,
+      "text": "\n\u2014 Axios (@axios) September 27, 2018\nGraham continued, \"Would you say you've been through hell?\"",
+      "new_text": "\n\u2014 Axios (@axios) September 27, 2018\nGraham continued, \"Would you say you've been through hell?\"",
+      "prop_spans": [
+        [
+          1967,
+          1984,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1986,
+      "end_ix": 2047,
+      "text": "\nKavanaugh responded, \"I've been through hell and then some.\"",
+      "new_text": "\nKavanaugh responded, \"I've been through hell and then some.\"",
+      "prop_spans": [
+        [
+          2019,
+          2045,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      23,
+      43,
+      "Loaded_Language"
+    ],
+    [
+      69,
+      117,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      69,
+      88,
+      "Name_Calling,Labeling"
+    ],
+    [
+      84,
+      88,
+      "Loaded_Language"
+    ],
+    [
+      292,
+      311,
+      "Loaded_Language"
+    ],
+    [
+      359,
+      422,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      752,
+      794,
+      "Loaded_Language"
+    ],
+    [
+      910,
+      1003,
+      "Causal_Oversimplification"
+    ],
+    [
+      910,
+      956,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1110,
+      1161,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1110,
+      1134,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1129,
+      1134,
+      "Loaded_Language"
+    ],
+    [
+      1164,
+      1215,
+      "Loaded_Language"
+    ],
+    [
+      1217,
+      1309,
+      "Flag-Waving"
+    ],
+    [
+      1265,
+      1269,
+      "Loaded_Language"
+    ],
+    [
+      1967,
+      1984,
+      "Loaded_Language"
+    ],
+    [
+      2019,
+      2045,
+      "Loaded_Language"
+    ]
+  ]
+}

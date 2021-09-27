@@ -1,0 +1,193 @@
+{
+  "article_id": "787955075",
+  "sentence offsets in original": [
+    0,
+    204,
+    330,
+    553,
+    769,
+    972,
+    1134,
+    1535,
+    2006,
+    2583,
+    2833
+  ],
+  "original sentences": [
+    "Trump Orders Declassification Of \u2018Russian Probe\u2019 Documents, Including Texts\n\nPresident Donald Trump ordered the feds to declassify documents relating the Russian election meddling investigation yesterday.",
+    "\nAmong the documents to be declassified are all of the text messages between disgraced FBI figures Peter Strzok and Lisa Page.",
+    "\nThe documents to be declassified include all FBI reports on interviews with Justice Department official Bruce Ohr and all FBI reports of interviews prepared in connection with all other applications to surveil Carter Page.",
+    "\nTrump also asked that other important documents be declassified as well, including 21 pages worth of an application for a renewed surveillance warrant against former campaign aide Carter Page, according to Fox News.",
+    "\nThe 21 pages Trump wants to be declassified only make up a small part of the 412 pages of FISA applications and warrants related to Page released by the FBI earlier this year in heavily redacted format.",
+    "\nThe June 2017 application was the last of four filed by the Justice Department in support of FISA court orders allowing the monitoring of Page for nearly a year.",
+    "\nAccording to the redacted version as reported by Fox News, three of the declassified pages contain information included in a section titled \u201cThe Russian Government\u2019s Coordinated Efforts to Influence the 2016 U.S. Presidential Election.\u201d That section includes reference to the potential coordination between people associated with Trump\u2019s campaign and the alleged Russian election interference effort.",
+    "\nWhite House Press Secretary Sarah Sanders said President Trump had ordered the documents released by the Office of the Director of National Intelligence (ODNI) and the Justice Department \u201c[a]t the request of a number of committees of Congress, and for reasons of transparency.\u201d\nThe text messages are to be released \u201cwithout redaction,\u201d and those include messages from Ohr, Strzok, Lisa Page, former FBI Director James Comey, and former FBI Deputy Director Andrew McCabe.",
+    "\nCarter Page told Fox News\u2019 Sean Hannity on Monday night that the FBI\u2019s investigation was \u201cso incredibly stupid to begin with.\u201d He added, \u201cMy biggest concern is all the damage that this did to the U.S. government [and] the mockery it made out of the Constitution and all of the wrongdoing that was done by various officials within the Department of Justice, the FBI and the DNC [Democratic National Committee].\u201d\nIt is so far unknown when these documents will be declassified in an unredacted version, but it is safe to say that Democrats are probably panicking right about now.",
+    "\nFox News further reported that a source familiar with the timing of the declassification told the media outlet that they expected the Carter Page warrant application to be declassified first, followed by the FBI reports on agent interviews with Ohr.",
+    "\nA Justice Department spokesperson told Fox News that the DOJ and FBI \u201care already working with the Director of National Intelligence to comply with the President\u2019s order.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 204,
+      "text": "Trump Orders Declassification Of \u2018Russian Probe\u2019 Documents, Including Texts\n\nPresident Donald Trump ordered the feds to declassify documents relating the Russian election meddling investigation yesterday.",
+      "new_text": "Trump Orders Declassification Of \u2018Russian Probe\u2019 Documents, Including Texts\n\nPresident Donald Trump ordered to declassify documents relating the Russian election meddling investigation yesterday.",
+      "prop_spans": [
+        [
+          108,
+          117,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 204,
+      "end_ix": 330,
+      "text": "\nAmong the documents to be declassified are all of the text messages between disgraced FBI figures Peter Strzok and Lisa Page.",
+      "new_text": "\nAmong the documents to be declassified are all of the text messages between FBI figures Peter Strzok and Lisa Page.",
+      "prop_spans": [
+        [
+          281,
+          303,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 330,
+      "end_ix": 553,
+      "text": "\nThe documents to be declassified include all FBI reports on interviews with Justice Department official Bruce Ohr and all FBI reports of interviews prepared in connection with all other applications to surveil Carter Page.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 553,
+      "end_ix": 769,
+      "text": "\nTrump also asked that other important documents be declassified as well, including 21 pages worth of an application for a renewed surveillance warrant against former campaign aide Carter Page, according to Fox News.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 769,
+      "end_ix": 972,
+      "text": "\nThe 21 pages Trump wants to be declassified only make up a small part of the 412 pages of FISA applications and warrants related to Page released by the FBI earlier this year in heavily redacted format.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 972,
+      "end_ix": 1134,
+      "text": "\nThe June 2017 application was the last of four filed by the Justice Department in support of FISA court orders allowing the monitoring of Page for nearly a year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1134,
+      "end_ix": 1535,
+      "text": "\nAccording to the redacted version as reported by Fox News, three of the declassified pages contain information included in a section titled \u201cThe Russian Government\u2019s Coordinated Efforts to Influence the 2016 U.S. Presidential Election.\u201d That section includes reference to the potential coordination between people associated with Trump\u2019s campaign and the alleged Russian election interference effort.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1535,
+      "end_ix": 2006,
+      "text": "\nWhite House Press Secretary Sarah Sanders said President Trump had ordered the documents released by the Office of the Director of National Intelligence (ODNI) and the Justice Department \u201c[a]t the request of a number of committees of Congress, and for reasons of transparency.\u201d\nThe text messages are to be released \u201cwithout redaction,\u201d and those include messages from Ohr, Strzok, Lisa Page, former FBI Director James Comey, and former FBI Deputy Director Andrew McCabe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2006,
+      "end_ix": 2583,
+      "text": "\nCarter Page told Fox News\u2019 Sean Hannity on Monday night that the FBI\u2019s investigation was \u201cso incredibly stupid to begin with.\u201d He added, \u201cMy biggest concern is all the damage that this did to the U.S. government [and] the mockery it made out of the Constitution and all of the wrongdoing that was done by various officials within the Department of Justice, the FBI and the DNC [Democratic National Committee].\u201d\nIt is so far unknown when these documents will be declassified in an unredacted version, but it is safe to say that Democrats are probably panicking right about now.",
+      "new_text": "\nCarter Page told Fox News\u2019 Sean Hannity on Monday night that the FBI\u2019s investigation was \u201cso incredibly stupid to begin with.\u201d He added, \u201cMy biggest concern is all the damage that this did to the U.S. government [and] the mockery it made out of the Constitution and all of the wrongdoing that was done by various officials within the Department of Justice, the FBI and the DNC [Democratic National Committee].\u201d\nIt is so far unknown when these documents will be declassified in an unredacted version, but it is safe to say that Democrats are concerned.",
+      "prop_spans": [
+        [
+          2097,
+          2131,
+          "Loaded_Language"
+        ],
+        [
+          2097,
+          2131,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2145,
+          2414,
+          "Flag-Waving"
+        ],
+        [
+          2225,
+          2269,
+          "Loaded_Language"
+        ],
+        [
+          2269,
+          2414,
+          "Doubt"
+        ],
+        [
+          2557,
+          2582,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2583,
+      "end_ix": 2833,
+      "text": "\nFox News further reported that a source familiar with the timing of the declassification told the media outlet that they expected the Carter Page warrant application to be declassified first, followed by the FBI reports on agent interviews with Ohr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2833,
+      "end_ix": 3005,
+      "text": "\nA Justice Department spokesperson told Fox News that the DOJ and FBI \u201care already working with the Director of National Intelligence to comply with the President\u2019s order.\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      108,
+      117,
+      "Name_Calling,Labeling"
+    ],
+    [
+      281,
+      303,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2097,
+      2131,
+      "Loaded_Language"
+    ],
+    [
+      2097,
+      2131,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2145,
+      2414,
+      "Flag-Waving"
+    ],
+    [
+      2225,
+      2269,
+      "Loaded_Language"
+    ],
+    [
+      2269,
+      2414,
+      "Doubt"
+    ],
+    [
+      2557,
+      2582,
+      "Loaded_Language"
+    ]
+  ]
+}

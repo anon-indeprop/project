@@ -1,0 +1,312 @@
+{
+  "article_id": "731063195",
+  "sentence offsets in original": [
+    0,
+    98,
+    199,
+    335,
+    452,
+    523,
+    633,
+    798,
+    889,
+    1041,
+    1124,
+    1258,
+    1397,
+    1448,
+    1508,
+    1619,
+    1854,
+    1956,
+    2122,
+    2288,
+    2451,
+    2572,
+    2718,
+    2883,
+    3022,
+    3097,
+    3174,
+    3299,
+    3346,
+    3497,
+    3696
+  ],
+  "original sentences": [
+    "One Trillion Stars\n\nThe nearest neighboring major galaxy to the Milky Way is the Andromeda Galaxy.",
+    "\nThe large galaxy is stunning in size and has around three times as many stars as the Milky Way does.",
+    "\nIt can easily be seen with the naked eye from Earth, and it is found in the constellation of Andromeda, from which its name originates.",
+    "\nFar from being just a pretty sight in the sky, the Andromeda Galaxy is an impressive, turbulent patch of the cosmos.",
+    "\nIt is even expected to collide with the Milky Way years down the road.",
+    "\nIf you find that fascinating, then you are going to enjoy these ten amazing facts about the Andromeda Galaxy.",
+    "\n10 Also Known As Messier 31\nCelestron NexStar 90SL... Buy New $309.95 (as of 04:50 EDT - Details)\nOur closest neighboring galaxy is also known as Messier 31 or M31.",
+    "\nThe name came from Charles Messier, the French astronomer who catalogued the large galaxy.",
+    "\nMessier documented many objects in the skies of the Northern Hemisphere, and they are collectively known as the Messier objects or the Messier Catalog.",
+    "\n(Note that Messier wasn\u2019t always the first to observe the objects in his catalog.)",
+    "\nIn 1757, he had begun searching for Halley\u2019s Comet, but the calculations given to him had sent him to a different section of the sky.",
+    "\nThat wrong section of the sky is where he observed a nebula that became the first entry in the catalog: M1, also known as the Crab Nebula.",
+    "\nIn 1764, Charles Messier added M31 to his catalog.",
+    "\nBy the end of the year, he had added a total of 38 objects.",
+    "\nBy 1781, he had logged a total of 103 objects into his catalog, 40 of which had been found by Messier himself.",
+    "\n[1]\n9 Named After The Andromeda Constellation\nPhoto credit: Keilana, Roberta Mura\nIf you look up into the northern night sky between Cassiopeia\u2019s \u201cW\u201d asterism and the Great Square of Pegasus, you will find the constellation Andromeda.",
+    "\nThe star pattern was named after the mythical princess Andromeda, the wife of the Greek hero Perseus.",
+    "\nThe constellation was first cataloged by the Greek astronomer Ptolemy in the second century, and it is also known by the names of Chained Maiden, Persea, or Cepheis.",
+    "\nCelestron Sky Maps Celstron Best Price: $15.97 Buy New $18.95 (as of 04:55 EDT - Details)\nThe Andromeda constellation is also home to various other deep sky objects.",
+    "\nAndromeda is located outside the galactic plane, and it does not contain any clusters or nebulae of the Milky Way; it does contain other visible galaxies, though.",
+    "\nThe most famous of these galaxies is, of course, the Andromeda Galaxy, which gets its name from the large constellation.",
+    "\nThe constellation is best-known for the Andromeda Galaxy, which is one of the most famous objects in the sky that can be seen with the naked eye.",
+    "\n[2]\n8 Larger Than The Milky Way\nIn astronomy, a light-year is a commonly used unit to measure distance, but some astronomers prefer to use a unit called the parsec.",
+    "\nWhen referring to something larger, they use kiloparsecs, which are equal to 1,000 parsecs, and megaparsecs, equal to one million parsecs.",
+    "\nThe Milky Way measures about 100,000 light-years or 30 kiloparsecs across.",
+    "\nThis may seem large, but it is rather small when compared to other galaxies.",
+    "\nThe Andromeda Galaxy has an approximate diameter of 220,000 light years, which is more than double of that of the Milky Way.",
+    "\nIt is the largest galaxy in the Local Cluster.",
+    "\nIf it were bright enough, the Andromeda Galaxy would appear larger than the Moon in the sky (as depicted above), even with it being much farther away.",
+    "\nThe galaxy is 9.5 trillion kilometers away from Earth, whereas the Moon is only 384,400 kilometers (238,900 mi) away\u2014that should give you a better understanding of just how big the galaxy really is.",
+    "\n[3]\nRead the Whole Article"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 98,
+      "text": "One Trillion Stars\n\nThe nearest neighboring major galaxy to the Milky Way is the Andromeda Galaxy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 98,
+      "end_ix": 199,
+      "text": "\nThe large galaxy is stunning in size and has around three times as many stars as the Milky Way does.",
+      "new_text": "\nThe large galaxy is astonishing in size and has around three times as many stars as the Milky Way does.",
+      "prop_spans": [
+        [
+          119,
+          128,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 199,
+      "end_ix": 335,
+      "text": "\nIt can easily be seen with the naked eye from Earth, and it is found in the constellation of Andromeda, from which its name originates.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 335,
+      "end_ix": 452,
+      "text": "\nFar from being just a pretty sight in the sky, the Andromeda Galaxy is an impressive, turbulent patch of the cosmos.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 452,
+      "end_ix": 523,
+      "text": "\nIt is even expected to collide with the Milky Way years down the road.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 523,
+      "end_ix": 633,
+      "text": "\nIf you find that fascinating, then you are going to enjoy these ten amazing facts about the Andromeda Galaxy.",
+      "new_text": "\nIf you find that fascinating, then you are going to enjoy these ten great facts about the Andromeda Galaxy.",
+      "prop_spans": [
+        [
+          592,
+          599,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 633,
+      "end_ix": 798,
+      "text": "\n10 Also Known As Messier 31\nCelestron NexStar 90SL... Buy New $309.95 (as of 04:50 EDT - Details)\nOur closest neighboring galaxy is also known as Messier 31 or M31.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 798,
+      "end_ix": 889,
+      "text": "\nThe name came from Charles Messier, the French astronomer who catalogued the large galaxy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 889,
+      "end_ix": 1041,
+      "text": "\nMessier documented many objects in the skies of the Northern Hemisphere, and they are collectively known as the Messier objects or the Messier Catalog.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1041,
+      "end_ix": 1124,
+      "text": "\n(Note that Messier wasn\u2019t always the first to observe the objects in his catalog.)",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1124,
+      "end_ix": 1258,
+      "text": "\nIn 1757, he had begun searching for Halley\u2019s Comet, but the calculations given to him had sent him to a different section of the sky.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1258,
+      "end_ix": 1397,
+      "text": "\nThat wrong section of the sky is where he observed a nebula that became the first entry in the catalog: M1, also known as the Crab Nebula.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1397,
+      "end_ix": 1448,
+      "text": "\nIn 1764, Charles Messier added M31 to his catalog.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1448,
+      "end_ix": 1508,
+      "text": "\nBy the end of the year, he had added a total of 38 objects.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1508,
+      "end_ix": 1619,
+      "text": "\nBy 1781, he had logged a total of 103 objects into his catalog, 40 of which had been found by Messier himself.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1619,
+      "end_ix": 1854,
+      "text": "\n[1]\n9 Named After The Andromeda Constellation\nPhoto credit: Keilana, Roberta Mura\nIf you look up into the northern night sky between Cassiopeia\u2019s \u201cW\u201d asterism and the Great Square of Pegasus, you will find the constellation Andromeda.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1854,
+      "end_ix": 1956,
+      "text": "\nThe star pattern was named after the mythical princess Andromeda, the wife of the Greek hero Perseus.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1956,
+      "end_ix": 2122,
+      "text": "\nThe constellation was first cataloged by the Greek astronomer Ptolemy in the second century, and it is also known by the names of Chained Maiden, Persea, or Cepheis.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2122,
+      "end_ix": 2288,
+      "text": "\nCelestron Sky Maps Celstron Best Price: $15.97 Buy New $18.95 (as of 04:55 EDT - Details)\nThe Andromeda constellation is also home to various other deep sky objects.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2288,
+      "end_ix": 2451,
+      "text": "\nAndromeda is located outside the galactic plane, and it does not contain any clusters or nebulae of the Milky Way; it does contain other visible galaxies, though.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2451,
+      "end_ix": 2572,
+      "text": "\nThe most famous of these galaxies is, of course, the Andromeda Galaxy, which gets its name from the large constellation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2572,
+      "end_ix": 2718,
+      "text": "\nThe constellation is best-known for the Andromeda Galaxy, which is one of the most famous objects in the sky that can be seen with the naked eye.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2718,
+      "end_ix": 2883,
+      "text": "\n[2]\n8 Larger Than The Milky Way\nIn astronomy, a light-year is a commonly used unit to measure distance, but some astronomers prefer to use a unit called the parsec.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2883,
+      "end_ix": 3022,
+      "text": "\nWhen referring to something larger, they use kiloparsecs, which are equal to 1,000 parsecs, and megaparsecs, equal to one million parsecs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3022,
+      "end_ix": 3097,
+      "text": "\nThe Milky Way measures about 100,000 light-years or 30 kiloparsecs across.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3097,
+      "end_ix": 3174,
+      "text": "\nThis may seem large, but it is rather small when compared to other galaxies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3174,
+      "end_ix": 3299,
+      "text": "\nThe Andromeda Galaxy has an approximate diameter of 220,000 light years, which is more than double of that of the Milky Way.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3299,
+      "end_ix": 3346,
+      "text": "\nIt is the largest galaxy in the Local Cluster.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3346,
+      "end_ix": 3497,
+      "text": "\nIf it were bright enough, the Andromeda Galaxy would appear larger than the Moon in the sky (as depicted above), even with it being much farther away.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3497,
+      "end_ix": 3696,
+      "text": "\nThe galaxy is 9.5 trillion kilometers away from Earth, whereas the Moon is only 384,400 kilometers (238,900 mi) away\u2014that should give you a better understanding of just how big the galaxy really is.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3696,
+      "end_ix": 3723,
+      "text": "\n[3]\nRead the Whole Article",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      119,
+      128,
+      "Loaded_Language"
+    ],
+    [
+      592,
+      599,
+      "Loaded_Language"
+    ]
+  ]
+}

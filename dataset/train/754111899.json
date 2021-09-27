@@ -1,0 +1,175 @@
+{
+  "article_id": "754111899",
+  "sentence offsets in original": [
+    0,
+    198,
+    363,
+    586,
+    751,
+    808,
+    901,
+    1010,
+    1136,
+    1233,
+    1306,
+    1363,
+    1596,
+    1702,
+    1812,
+    1953,
+    2099
+  ],
+  "original sentences": [
+    "Two cases of Ebola confirmed in the Democratic Republic of the Congo\n\nTwo cases of Ebola have been confirmed in the Democratic Republic of the Congo (DRC), according to a government health official.",
+    "\nJean Jack Muyembe, head of the national institute for biological research, said that at least ten more cases were also suspected in the northwestern town of Bikoro.",
+    "\nLocal health officials in Democratic Republic of Congo reported 21 patients showing signs of hemorrhagic fever and 17 deaths in the affected area before an Ebola outbreak was confirmed on Tuesday, the health ministry said.",
+    "\nMedical teams have taken five samples from suspected active cases and two tested positive for the Zaire strain of the Ebola virus, the ministry said in a statement.",
+    "\nIt is the ninth time Ebola has been recorded in the DRC.",
+    "\nLast year, eight people were infected and four people died after an outbreak of the disease.",
+    "\nEbola virus disease, formerly known as Ebola haemorrhagic fever, is a severe, often fatal illness in humans.",
+    "\nThe virus is transmitted to people from wild animals and spreads in the human population through human-to-human transmission.",
+    "\nIt is believed to be spread over long distances by bats, which can host the virus without dying.",
+    "\nThese animals then infect other tree-dwelling creatures such as monkeys.",
+    "\nEbola can often spread to humans from infected bushmeat.",
+    "\nImage: Ebola is a difficult illness to contain and efforts to stop it spreading are vital\nThe World Health Organisation reports that the first Ebola outbreaks occurred in remote villages in Central Africa, near tropical rainforests.",
+    "\nThe two-year outbreak in West Africa that began in 2014 involved major urban areas as well as rural ones.",
+    "\nMore than 11,300 people died and some 28,600 were infected, most of them in Guinea, Sierra Leone and Liberia.",
+    "\nSporadic cases of Ebola have occurred since the epidemic was brought under control, with a small number of patients being confirmed in 2017.",
+    "\nThe disease was first detected in 1976 in two simultaneous outbreaks, one in what is now Nzara, South Sudan, and the other in Yambuku in the DRC.",
+    "\nThe latter occurred near the River Ebola, after which the disease is named."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 198,
+      "text": "Two cases of Ebola confirmed in the Democratic Republic of the Congo\n\nTwo cases of Ebola have been confirmed in the Democratic Republic of the Congo (DRC), according to a government health official.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 198,
+      "end_ix": 363,
+      "text": "\nJean Jack Muyembe, head of the national institute for biological research, said that at least ten more cases were also suspected in the northwestern town of Bikoro.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 363,
+      "end_ix": 586,
+      "text": "\nLocal health officials in Democratic Republic of Congo reported 21 patients showing signs of hemorrhagic fever and 17 deaths in the affected area before an Ebola outbreak was confirmed on Tuesday, the health ministry said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 586,
+      "end_ix": 751,
+      "text": "\nMedical teams have taken five samples from suspected active cases and two tested positive for the Zaire strain of the Ebola virus, the ministry said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 751,
+      "end_ix": 808,
+      "text": "\nIt is the ninth time Ebola has been recorded in the DRC.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 808,
+      "end_ix": 901,
+      "text": "\nLast year, eight people were infected and four people died after an outbreak of the disease.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 901,
+      "end_ix": 1010,
+      "text": "\nEbola virus disease, formerly known as Ebola haemorrhagic fever, is a severe, often fatal illness in humans.",
+      "new_text": "\nEbola virus disease, formerly known as Ebola haemorrhagic fever, is a severe, often fatal illness in humans.",
+      "prop_spans": [
+        [
+          972,
+          978,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1010,
+      "end_ix": 1136,
+      "text": "\nThe virus is transmitted to people from wild animals and spreads in the human population through human-to-human transmission.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1136,
+      "end_ix": 1233,
+      "text": "\nIt is believed to be spread over long distances by bats, which can host the virus without dying.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1233,
+      "end_ix": 1306,
+      "text": "\nThese animals then infect other tree-dwelling creatures such as monkeys.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1306,
+      "end_ix": 1363,
+      "text": "\nEbola can often spread to humans from infected bushmeat.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1363,
+      "end_ix": 1596,
+      "text": "\nImage: Ebola is a difficult illness to contain and efforts to stop it spreading are vital\nThe World Health Organisation reports that the first Ebola outbreaks occurred in remote villages in Central Africa, near tropical rainforests.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1596,
+      "end_ix": 1702,
+      "text": "\nThe two-year outbreak in West Africa that began in 2014 involved major urban areas as well as rural ones.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1702,
+      "end_ix": 1812,
+      "text": "\nMore than 11,300 people died and some 28,600 were infected, most of them in Guinea, Sierra Leone and Liberia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1812,
+      "end_ix": 1953,
+      "text": "\nSporadic cases of Ebola have occurred since the epidemic was brought under control, with a small number of patients being confirmed in 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1953,
+      "end_ix": 2099,
+      "text": "\nThe disease was first detected in 1976 in two simultaneous outbreaks, one in what is now Nzara, South Sudan, and the other in Yambuku in the DRC.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2099,
+      "end_ix": 2175,
+      "text": "\nThe latter occurred near the River Ebola, after which the disease is named.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      972,
+      978,
+      "Loaded_Language"
+    ]
+  ]
+}

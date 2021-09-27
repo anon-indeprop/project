@@ -1,0 +1,302 @@
+{
+  "article_id": "999000147",
+  "sentence offsets in original": [
+    0,
+    234,
+    531,
+    710,
+    891,
+    1024,
+    1119,
+    1214,
+    1252,
+    1285,
+    1370,
+    1452,
+    1480,
+    1543,
+    1643,
+    1841,
+    2073,
+    2221,
+    2558,
+    2679,
+    2919,
+    3084,
+    3169,
+    3230
+  ],
+  "original sentences": [
+    "Kamala Harris & Elizabeth Warren Have Ethics Complaint Filed Against Them In Senate\n\nThe faces of the criminal Democrat Party, at least two of them, have now had an ethics complaint filed against them in the US Senate, and rightly so.",
+    "\nSenators Kamala Harris, who basically said that Judge Brett Kavanaugh was guilty because she believed Christine Blasey Ford's unsubstantiated and uncorroborated accusations against him, and Elizabeth Warren, also known as \"Fauxahontas,\" are the two members of the Senate who will be investigated.",
+    "\nLooks like when you are so gung ho to go after someone based on 36-year-old allegations in which there are no witnesses and no evidence, it will eventually come back to bite you.",
+    "\nBoth Harris and Warren stand accused of breaking fundraising rules by sending out fundraising emails asking for donations to support their votes against Justice Brett M. Kavanaugh.",
+    "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThe Washington Times reports:\nA watchdog group filed a Senate ethics complaint Monday against Sens.",
+    "\nKamala Harris and Elizabeth Warren for sending out fundraising emails asking for donations to support their votes against Justice Brett M. Kavanaugh \u2014 even before they cast their votes against him.",
+    "\nWhile voting and then asking supporters to back that decision with cash is common, the watchdog group, the Foundation for Accountability and Civic Trust (FACT), says asking for money ahead of time crosses the line into vote-buying.",
+    "\nFACT asked the Senate ethics committee to probe fundraising emails sent by Ms. Warren, Massachusetts Democrat, and Ms. Harris, California Democrat.",
+    "\nMs. Warren\u2019s email said she was demanding a delay on the judge\u2019s confirmation vote and asked for donations for her 2018 election campaign, while Ms. Harris\u2019s emails detailed several of her actions as a member of the Judiciary Committee, including her questioning of the president\u2019s pick for the high court, and asking for contributions.",
+    "\nThe Senate's own rules prohibit this kind of behavior, but will the Senate hold these women to the standard they've set?",
+    "\n\u201cThis is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials \u2018cashing in\u2019 on their official position for political purposes,\u201d said Kendra Arnold, executive director of FACT.",
+    "\nOf course, but like most of these kinds of violations, the only thing that might actually occur here is censure, and that is highly unlikely in the current climate.",
+    "\nHowever, voters should be aware of the unethical practice of both of these senators.",
+    "\nWhile Harris is not up for re-election this year, Warren is.",
+    "\nCould the good people of Massachusetts do us all a favor and elect someone else in her place?"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 234,
+      "text": "Kamala Harris & Elizabeth Warren Have Ethics Complaint Filed Against Them In Senate\n\nThe faces of the criminal Democrat Party, at least two of them, have now had an ethics complaint filed against them in the US Senate, and rightly so.",
+      "new_text": "The faces of the criminal Democrat Party, at least two of them, have now had an ethics complaint filed against them in the US Senate.",
+      "prop_spans": [
+        [
+          219,
+          233,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          219,
+          233,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 234,
+      "end_ix": 531,
+      "text": "\nSenators Kamala Harris, who basically said that Judge Brett Kavanaugh was guilty because she believed Christine Blasey Ford's unsubstantiated and uncorroborated accusations against him, and Elizabeth Warren, also known as \"Fauxahontas,\" are the two members of the Senate who will be investigated.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 531,
+      "end_ix": 710,
+      "text": "\nLooks like when you are so gung ho to go after someone based on 36-year-old allegations in which there are no witnesses and no evidence, it will eventually come back to bite you.",
+      "new_text": "\nLooks like when you are so gung ho to go after someone based on 36-year-old allegations in which there are no witnesses and no evidence, it will eventually come back to hurt you.",
+      "prop_spans": [
+        [
+          701,
+          709,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 710,
+      "end_ix": 891,
+      "text": "\nBoth Harris and Warren stand accused of breaking fundraising rules by sending out fundraising emails asking for donations to support their votes against Justice Brett M. Kavanaugh.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 891,
+      "end_ix": 1024,
+      "text": "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1024,
+      "end_ix": 1119,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1119,
+      "end_ix": 1214,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1214,
+      "end_ix": 1252,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1252,
+      "end_ix": 1285,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1285,
+      "end_ix": 1370,
+      "text": "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1370,
+      "end_ix": 1452,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1452,
+      "end_ix": 1480,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1480,
+      "end_ix": 1543,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1543,
+      "end_ix": 1643,
+      "text": "\nThe Washington Times reports:\nA watchdog group filed a Senate ethics complaint Monday against Sens.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1643,
+      "end_ix": 1841,
+      "text": "\nKamala Harris and Elizabeth Warren for sending out fundraising emails asking for donations to support their votes against Justice Brett M. Kavanaugh \u2014 even before they cast their votes against him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1841,
+      "end_ix": 2073,
+      "text": "\nWhile voting and then asking supporters to back that decision with cash is common, the watchdog group, the Foundation for Accountability and Civic Trust (FACT), says asking for money ahead of time crosses the line into vote-buying.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2073,
+      "end_ix": 2221,
+      "text": "\nFACT asked the Senate ethics committee to probe fundraising emails sent by Ms. Warren, Massachusetts Democrat, and Ms. Harris, California Democrat.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2221,
+      "end_ix": 2558,
+      "text": "\nMs. Warren\u2019s email said she was demanding a delay on the judge\u2019s confirmation vote and asked for donations for her 2018 election campaign, while Ms. Harris\u2019s emails detailed several of her actions as a member of the Judiciary Committee, including her questioning of the president\u2019s pick for the high court, and asking for contributions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2558,
+      "end_ix": 2679,
+      "text": "\nThe Senate's own rules prohibit this kind of behavior, but will the Senate hold these women to the standard they've set?",
+      "new_text": "\nThe Senate's own rules prohibit this kind of behavior.",
+      "prop_spans": [
+        [
+          2559,
+          2678,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2679,
+      "end_ix": 2919,
+      "text": "\n\u201cThis is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials \u2018cashing in\u2019 on their official position for political purposes,\u201d said Kendra Arnold, executive director of FACT.",
+      "new_text": "\n\u201cThis is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials \u2018cashing in\u2019 on their official position for political purposes,\u201d said Kendra Arnold.",
+      "prop_spans": [
+        [
+          2681,
+          2918,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2919,
+      "end_ix": 3084,
+      "text": "\nOf course, but like most of these kinds of violations, the only thing that might actually occur here is censure, and that is highly unlikely in the current climate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3084,
+      "end_ix": 3169,
+      "text": "\nHowever, voters should be aware of the unethical practice of both of these senators.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3169,
+      "end_ix": 3230,
+      "text": "\nWhile Harris is not up for re-election this year, Warren is.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3230,
+      "end_ix": 3324,
+      "text": "\nCould the good people of Massachusetts do us all a favor and elect someone else in her place?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          3231,
+          3323,
+          "Flag-Waving"
+        ],
+        [
+          3241,
+          3324,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      219,
+      233,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      219,
+      233,
+      "Loaded_Language"
+    ],
+    [
+      701,
+      709,
+      "Loaded_Language"
+    ],
+    [
+      2559,
+      2678,
+      "Doubt"
+    ],
+    [
+      2681,
+      2918,
+      "Appeal_to_Authority"
+    ],
+    [
+      3231,
+      3323,
+      "Flag-Waving"
+    ],
+    [
+      3241,
+      3324,
+      "Doubt"
+    ]
+  ]
+}

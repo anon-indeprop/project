@@ -1,0 +1,375 @@
+{
+  "article_id": "706088110",
+  "sentence offsets in original": [
+    0,
+    28,
+    141,
+    260,
+    345,
+    668,
+    796,
+    932,
+    1116,
+    1230,
+    1409,
+    1604,
+    1874,
+    2027,
+    2118,
+    2283,
+    2336,
+    2477,
+    2622,
+    2688,
+    3024,
+    3355
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nYears ago numerous Indonesian Christians came illegally to the United States and submitted asylum applications.",
+    "\nThose asylum applications were reviewed by the Executive Office for Immigration Review (EOIR), the immigration courts.",
+    "\nThe claims were rejected as unsubstantiated and the illegal aliens ordered deported.",
+    "\nHowever, the Department of Homeland Security (DHS) declined to enforce those deportation orders, called Final Order Of Removal\nDuring the 10 or so years that the cases involving Indonesian Christians were free to remain in the United States, those illegal aliens did not make any effort to appeal their outstanding orders.",
+    "\nThen the United States had an election, and the policy of not enforcing those and many other Final Orders of Removal was ended.",
+    "\nThen suddenly, those illegal aliens claimed they were being denied an opportunity to file for asylum or were not receiving due process.",
+    "\nThey filed a case in the Federal courts and were assigned to a Kritarch, Patti Saris, who apparently thinks she runs immigration policy, even after aliens have had their day in court.",
+    "\nSaris thinks she can usurp the Constitution of the United States based on her whims regarding immigration policy.",
+    "\nKritarch Patti Saris\nIn her latest excursion into immigration enforcement policy, she decided that illegal aliens can't be held in custody for their return to their home country.",
+    "\nBOSTON (Reuters) - A U.S. judge on Wednesday ordered the release of an illegal immigrant who is among 47 Indonesians in New Hampshire challenging the Trump administration\u2019s order to deport them.",
+    "\nThe man, Terry Rombot, had been allowed to remain under the terms of a 2010 deal with U.S. Immigration and Customs Enforcement until this year, when President Donald Trump instructed ICE that all people living in the United States illegally were subject to deportation.",
+    "\n[U.S. Judge Frees Indonesian Immigrant Held By Trump Order, by Nate Raymond, Reuters, November 1, 2017]\nFirst, let's deal with the misleading reporting.",
+    "\nRombot was not taken into custody based on any ICE policy of deporting all illegal aliens.",
+    "\nRombot was taken into custody because he had an outstanding Final Order Of Removal; that's a big difference and symptomatic of the lies from reporters like Raymond.",
+    "\nSaris previously ordered a stay to the deportations.",
+    "\nShe is currently weighing whether she can order a longer delay to give the affected people time to renew their efforts to gain legal status.",
+    "\nNow, with regard to Saris, she has no authority to interfere with the pre-deportation custody of an illegal alien with a Final Order Of Removal.",
+    "\nRombot was taken into custody because he was soon to be deported.",
+    "\nThere was no issue of Indonesia not accepting him nor of Indonesia not providing a travel document, so there was no question of him being held in custody longer than allowed in the St. Cyr decision that restricted custody of illegal aliens with Final Orders Of Removal who for whatever reason were unlikely to be successfully deported.",
+    "\nShe still thinks that she can review the underlying decision of the immigration court as well.In fact, Saris' actions appear to more akin to that of the Mexican kritarch Monica Herranz who aided an illegal alien to escape arrest by ICE when she let that illegal alien leave her courtroom through the exit to her judicial chambers.",
+    "\nSaris is clearly scheming to help Rombot escape deportation by disappearing into the almost 1 million illegal aliens absconding from Final Orders of Removal\nTime for Congress to impeach Saris and to remove authority from lesser courts to review immigration law enforcement, detention, and deportation decisions."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 141,
+      "text": "\n\nYears ago numerous Indonesian Christians came illegally to the United States and submitted asylum applications.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 141,
+      "end_ix": 260,
+      "text": "\nThose asylum applications were reviewed by the Executive Office for Immigration Review (EOIR), the immigration courts.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 260,
+      "end_ix": 345,
+      "text": "\nThe claims were rejected as unsubstantiated and the illegal aliens ordered deported.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 345,
+      "end_ix": 668,
+      "text": "\nHowever, the Department of Homeland Security (DHS) declined to enforce those deportation orders, called Final Order Of Removal\nDuring the 10 or so years that the cases involving Indonesian Christians were free to remain in the United States, those illegal aliens did not make any effort to appeal their outstanding orders.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 668,
+      "end_ix": 796,
+      "text": "\nThen the United States had an election, and the policy of not enforcing those and many other Final Orders of Removal was ended.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 796,
+      "end_ix": 932,
+      "text": "\nThen suddenly, those illegal aliens claimed they were being denied an opportunity to file for asylum or were not receiving due process.",
+      "new_text": "\nThen suddenly, those immigrants claimed they were being denied an opportunity to file for asylum or were not receiving due process.",
+      "prop_spans": [
+        [
+          818,
+          833,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 932,
+      "end_ix": 1116,
+      "text": "\nThey filed a case in the Federal courts and were assigned to a Kritarch, Patti Saris, who apparently thinks she runs immigration policy, even after aliens have had their day in court.",
+      "new_text": "\nThey filed a case in the Federal courts and were assigned to a Kritarch, Patti Saris, even after immigrants have had their day in court.",
+      "prop_spans": [
+        [
+          1019,
+          1069,
+          "Causal_Oversimplification"
+        ],
+        [
+          1081,
+          1088,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1116,
+      "end_ix": 1230,
+      "text": "\nSaris thinks she can usurp the Constitution of the United States based on her whims regarding immigration policy.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1117,
+          1230,
+          "Causal_Oversimplification"
+        ],
+        [
+          1117,
+          1230,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1230,
+      "end_ix": 1409,
+      "text": "\nKritarch Patti Saris\nIn her latest excursion into immigration enforcement policy, she decided that illegal aliens can't be held in custody for their return to their home country.",
+      "new_text": "\nKritarch Patti Saris\nIn her latest excursion into immigration enforcement policy, she decided that immigrants can't be held in custody for their return to their home country.",
+      "prop_spans": [
+        [
+          1230,
+          1231,
+          "Causal_Oversimplification"
+        ],
+        [
+          1230,
+          1231,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1330,
+          1345,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1409,
+      "end_ix": 1604,
+      "text": "\nBOSTON (Reuters) - A U.S. judge on Wednesday ordered the release of an illegal immigrant who is among 47 Indonesians in New Hampshire challenging the Trump administration\u2019s order to deport them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1604,
+      "end_ix": 1874,
+      "text": "\nThe man, Terry Rombot, had been allowed to remain under the terms of a 2010 deal with U.S. Immigration and Customs Enforcement until this year, when President Donald Trump instructed ICE that all people living in the United States illegally were subject to deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1874,
+      "end_ix": 2027,
+      "text": "\n[U.S. Judge Frees Indonesian Immigrant Held By Trump Order, by Nate Raymond, Reuters, November 1, 2017]\nFirst, let's deal with the misleading reporting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2027,
+      "end_ix": 2118,
+      "text": "\nRombot was not taken into custody based on any ICE policy of deporting all illegal aliens.",
+      "new_text": "\nRombot was not taken into custody based on any ICE policy of deporting all immigrants.",
+      "prop_spans": [
+        [
+          2103,
+          2117,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2118,
+      "end_ix": 2283,
+      "text": "\nRombot was taken into custody because he had an outstanding Final Order Of Removal; that's a big difference and symptomatic of the lies from reporters like Raymond.",
+      "new_text": "\nRombot was taken into custody because he had an outstanding Final Order Of Removal",
+      "prop_spans": [
+        [
+          2203,
+          2283,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2283,
+      "end_ix": 2336,
+      "text": "\nSaris previously ordered a stay to the deportations.",
+      "new_text": "\nSaris previously ordered a stay to the deportations.",
+      "prop_spans": [
+        [
+          2283,
+          2284,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2336,
+      "end_ix": 2477,
+      "text": "\nShe is currently weighing whether she can order a longer delay to give the affected people time to renew their efforts to gain legal status.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2477,
+      "end_ix": 2622,
+      "text": "\nNow, with regard to Saris, she has no authority to interfere with the pre-deportation custody of an illegal alien with a Final Order Of Removal.",
+      "new_text": "\nNow, with regard to Saris, she has no authority to interfere with the pre-deportation custody of an immigrant with a Final Order Of Removal.",
+      "prop_spans": [
+        [
+          2578,
+          2592,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2622,
+      "end_ix": 2688,
+      "text": "\nRombot was taken into custody because he was soon to be deported.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2688,
+      "end_ix": 3024,
+      "text": "\nThere was no issue of Indonesia not accepting him nor of Indonesia not providing a travel document, so there was no question of him being held in custody longer than allowed in the St. Cyr decision that restricted custody of illegal aliens with Final Orders Of Removal who for whatever reason were unlikely to be successfully deported.",
+      "new_text": "\nThere was no issue of Indonesia not accepting him nor of Indonesia not providing a travel document, so there was no question of him being held in custody longer than allowed in the St. Cyr decision that restricted custody of immigrants with Final Orders Of Removal who for whatever reason were unlikely to be successfully deported.",
+      "prop_spans": [
+        [
+          2914,
+          2929,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3024,
+      "end_ix": 3355,
+      "text": "\nShe still thinks that she can review the underlying decision of the immigration court as well.In fact, Saris' actions appear to more akin to that of the Mexican kritarch Monica Herranz who aided an illegal alien to escape arrest by ICE when she let that illegal alien leave her courtroom through the exit to her judicial chambers.",
+      "new_text": "\nShe still thinks that she can review the underlying decision of the immigration court as well.In fact, Saris' actions appear to more akin to that of the Mexican kritarch Monica Herranz who aided an immigrant to escape arrest by ICE when she let that immigrant leave her courtroom through the exit to her judicial chambers.",
+      "prop_spans": [
+        [
+          3223,
+          3237,
+          "Repetition"
+        ],
+        [
+          3279,
+          3292,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3355,
+      "end_ix": 3667,
+      "text": "\nSaris is clearly scheming to help Rombot escape deportation by disappearing into the almost 1 million illegal aliens absconding from Final Orders of Removal\nTime for Congress to impeach Saris and to remove authority from lesser courts to review immigration law enforcement, detention, and deportation decisions.",
+      "new_text": "\nSaris is clearly scheming to help Rombot escape deportation by disappearing into the almost 1 million immigrants absconding from Final Orders of Removal.",
+      "prop_spans": [
+        [
+          3458,
+          3473,
+          "Repetition"
+        ],
+        [
+          3513,
+          3590,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      818,
+      833,
+      "Repetition"
+    ],
+    [
+      1019,
+      1069,
+      "Causal_Oversimplification"
+    ],
+    [
+      1081,
+      1088,
+      "Repetition"
+    ],
+    [
+      1117,
+      1231,
+      "Causal_Oversimplification"
+    ],
+    [
+      1117,
+      1231,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1330,
+      1345,
+      "Repetition"
+    ],
+    [
+      2103,
+      2117,
+      "Repetition"
+    ],
+    [
+      2203,
+      2284,
+      "Red_Herring"
+    ],
+    [
+      2578,
+      2592,
+      "Repetition"
+    ],
+    [
+      2914,
+      2929,
+      "Repetition"
+    ],
+    [
+      3223,
+      3237,
+      "Repetition"
+    ],
+    [
+      3279,
+      3292,
+      "Repetition"
+    ],
+    [
+      3458,
+      3473,
+      "Repetition"
+    ],
+    [
+      3513,
+      3590,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

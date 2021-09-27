@@ -1,0 +1,276 @@
+{
+  "article_id": "999000599",
+  "sentence offsets in original": [
+    0,
+    407,
+    690,
+    736,
+    806,
+    1137,
+    1185,
+    1396,
+    1415,
+    1591,
+    1807,
+    1863,
+    1897,
+    1972
+  ],
+  "original sentences": [
+    "\u201cThey All Look The Same\u201d \u2013 Hillary Cracks Racist Joke After Booker/Holder Mix-Up\n\nThis article was originally published by Tyler Durden at Zero Hedge\nBeing the paragon of political-correctness and queen of virtue-signaling opportunism, Hillary Clinton sat down with Recode\u2019s Kara Swisher this weekend to answer questions about just how evil and awful conservative opponents have been in the last few months.",
+    "\nThe conversation began normally, with Clinton hypocritically toeing the progressive line of identity politics by explaining how each of the groups are different but can be managed by the same liberal movement:\n\u201cWhat\u2019s often called political correctness is politeness,\u201d Clinton said.",
+    "\n\u201cIt\u2019s not being rude and insulting to people.",
+    "\nIt\u2019s respecting the diversity that we have in our society,\u201d she said.",
+    "\n\u201cThe Democratic Party is a much more diverse political party, attracting people who are African-American, Latino, LGBT, whatever the reason why people feel more comfortable where they are taken in, where they are included as part of a political movement or party.\u201d \u201cAnd I don\u2019t think it\u2019s politically correct to say we value that.",
+    "\nAnd I don\u2019t want to go around insulting people.",
+    "\nI don\u2019t want to paint with a broad brush every immigrant is this, every African-American is that, every, you know, other person with different religious beliefs or whatever \u2013 that\u2019s childish.\u201d\nChildish, indeed.",
+    "\nInsulting, indeed.",
+    "\nJust 30 seconds later, as Swisher asked:\n\u201cwhat do you think of Cory Booker\u2026 saying \u2018kick them in the shins,\u2019 essentially\u2026\u201d incorrectly recalling Eric Holder\u2019s recent comments.",
+    "\nWhich Clinton quickly corrected:\n\u201cWell that was Eric Holder\u2026\u201d\nAdding, rather extraordinarily,\n\u201cYeah, I know they all look alike,\u201d Clinton joked, triggering howls of laughter from the apparently mind-numbed audience.",
+    "\nSorry Hillary, we don\u2019t think they look anything alike.",
+    "\nOr did you mean all black people?",
+    "\nFinally, we have one question \u2013 what would have happened if Trump said it?",
+    "\nAs The American Mirror\u2019s Kyle Olsen concludes so eloquently, Hillary Clinton appears to benefit from her progressive privilege \u2013 it is the only thing that protects her from getting the \u2018Roseanne treatment\u2019, and not being dismissed in disgrace."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 407,
+      "text": "\u201cThey All Look The Same\u201d \u2013 Hillary Cracks Racist Joke After Booker/Holder Mix-Up\n\nThis article was originally published by Tyler Durden at Zero Hedge\nBeing the paragon of political-correctness and queen of virtue-signaling opportunism, Hillary Clinton sat down with Recode\u2019s Kara Swisher this weekend to answer questions about just how evil and awful conservative opponents have been in the last few months.",
+      "new_text": "\u201cThey All Look The Same\u201d \u2013 Hillary Makes Racist Remark After Booker/Holder Mix-Up\n\nThis article was originally published by Tyler Durden at Zero Hedge\nBeing the paragon of political-correctness and queen of virtue-signaling opportunism, Hillary Clinton sat down with Recode\u2019s Kara Swisher this weekend to answer questions about just how conservative opponents have been in the last few months.",
+      "prop_spans": [
+        [
+          35,
+          54,
+          "Loaded_Language"
+        ],
+        [
+          327,
+          351,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 407,
+      "end_ix": 690,
+      "text": "\nThe conversation began normally, with Clinton hypocritically toeing the progressive line of identity politics by explaining how each of the groups are different but can be managed by the same liberal movement:\n\u201cWhat\u2019s often called political correctness is politeness,\u201d Clinton said.",
+      "new_text": "\nThe conversation began normally, with Clinton approaching the progressive line of identity politics by explaining how each of the groups are different but can be managed by the same liberal movement:\n\u201cWhat\u2019s often called political correctness is politeness,\u201d Clinton said.",
+      "prop_spans": [
+        [
+          454,
+          476,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 690,
+      "end_ix": 736,
+      "text": "\n\u201cIt\u2019s not being rude and insulting to people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 736,
+      "end_ix": 806,
+      "text": "\nIt\u2019s respecting the diversity that we have in our society,\u201d she said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 806,
+      "end_ix": 1137,
+      "text": "\n\u201cThe Democratic Party is a much more diverse political party, attracting people who are African-American, Latino, LGBT, whatever the reason why people feel more comfortable where they are taken in, where they are included as part of a political movement or party.\u201d \u201cAnd I don\u2019t think it\u2019s politically correct to say we value that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1137,
+      "end_ix": 1185,
+      "text": "\nAnd I don\u2019t want to go around insulting people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1185,
+      "end_ix": 1396,
+      "text": "\nI don\u2019t want to paint with a broad brush every immigrant is this, every African-American is that, every, you know, other person with different religious beliefs or whatever \u2013 that\u2019s childish.\u201d\nChildish, indeed.",
+      "new_text": "\nI don\u2019t want to paint with a broad brush every immigrant is this, every African-American is that, every, you know, other person with different religious beliefs or whatever \u2013 that's childish.\"",
+      "prop_spans": [
+        [
+          1361,
+          1376,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          1361,
+          1376,
+          "Loaded_Language"
+        ],
+        [
+          1379,
+          1396,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1396,
+      "end_ix": 1415,
+      "text": "\nInsulting, indeed.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1396,
+          1414,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1415,
+      "end_ix": 1591,
+      "text": "\nJust 30 seconds later, as Swisher asked:\n\u201cwhat do you think of Cory Booker\u2026 saying \u2018kick them in the shins,\u2019 essentially\u2026\u201d incorrectly recalling Eric Holder\u2019s recent comments.",
+      "new_text": "\nJust 30 seconds later, as Swisher asked:\n\u201cwhat do you think of Cory Booker\u2026 saying \u2018kick them in the shins,\u2019 essentially\u2026\u201d incorrectly recalling Eric Holder\u2019s recent comments.",
+      "prop_spans": [
+        [
+          1500,
+          1522,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1591,
+      "end_ix": 1807,
+      "text": "\nWhich Clinton quickly corrected:\n\u201cWell that was Eric Holder\u2026\u201d\nAdding, rather extraordinarily,\n\u201cYeah, I know they all look alike,\u201d Clinton joked, triggering howls of laughter from the apparently mind-numbed audience.",
+      "new_text": "\nWhich Clinton quickly corrected:\n\u201cWell that was Eric Holder\u2026\u201d\nAdding, \u201cYeah, I know they all look alike,\u201d Clinton joked, triggering howls of laughter from the apparently mind-numbed audience.",
+      "prop_spans": [
+        [
+          1662,
+          1684,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1807,
+      "end_ix": 1863,
+      "text": "\nSorry Hillary, we don\u2019t think they look anything alike.",
+      "new_text": "\nIt is inappropriate to comment that they look alike.",
+      "prop_spans": [
+        [
+          1808,
+          1863,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1863,
+      "end_ix": 1897,
+      "text": "\nOr did you mean all black people?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1863,
+          1896,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1897,
+      "end_ix": 1972,
+      "text": "\nFinally, we have one question \u2013 what would have happened if Trump said it?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1972,
+      "end_ix": 2216,
+      "text": "\nAs The American Mirror\u2019s Kyle Olsen concludes so eloquently, Hillary Clinton appears to benefit from her progressive privilege \u2013 it is the only thing that protects her from getting the \u2018Roseanne treatment\u2019, and not being dismissed in disgrace.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1973,
+          2215,
+          "Appeal_to_Authority"
+        ],
+        [
+          2009,
+          2032,
+          "Loaded_Language"
+        ],
+        [
+          2194,
+          2215,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      35,
+      54,
+      "Loaded_Language"
+    ],
+    [
+      327,
+      351,
+      "Loaded_Language"
+    ],
+    [
+      454,
+      476,
+      "Loaded_Language"
+    ],
+    [
+      1361,
+      1376,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1361,
+      1376,
+      "Loaded_Language"
+    ],
+    [
+      1379,
+      1414,
+      "Loaded_Language"
+    ],
+    [
+      1500,
+      1522,
+      "Loaded_Language"
+    ],
+    [
+      1662,
+      1684,
+      "Loaded_Language"
+    ],
+    [
+      1808,
+      1896,
+      "Doubt"
+    ],
+    [
+      1973,
+      2215,
+      "Appeal_to_Authority"
+    ],
+    [
+      2009,
+      2032,
+      "Loaded_Language"
+    ],
+    [
+      2194,
+      2215,
+      "Loaded_Language"
+    ]
+  ]
+}

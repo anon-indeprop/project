@@ -1,0 +1,163 @@
+{
+  "article_id": "730061195",
+  "sentence offsets in original": [
+    0,
+    295,
+    458,
+    555,
+    651,
+    845,
+    911,
+    964,
+    1113,
+    1184,
+    1295,
+    1380,
+    1526,
+    1665,
+    1741,
+    1869,
+    1948
+  ],
+  "original sentences": [
+    "Ohio Cop Killing Suspect\u2019s Wife Hid in Bushes While Husband Shot Officers, 911 Call Shows\n\nThe wife of the Ohio man suspected of killing two police officers on Saturday hid in the bushes as she called 911 to report that her husband had shot the cops, according to an audio recording of the call.",
+    "\nWesterville Police Department officers Eric Joering, 39, and Anthony Morelli, 54, were allegedly shot dead by Quentin Smith after responding to a 911 hangup call.",
+    "\nThe call, which prompted officers to respond to the scene, came in just around noon on Saturday.",
+    "\nIn it, a woman can be heard crying before the line goes dead, the Cincinnati Enquirer reported.",
+    "\nAfter dispatchers' attempts to return the call sent them to voicemail, Joering and Morelli went to the house, which had a history of domestic violence calls, according to the Columbus Dispatch.",
+    "\nReuters Reuters\nIn the following call, the woman pleads for help.",
+    "\n\u201cPlease help, please help,\u201d she asks the dispatcher.",
+    "\n\u201cMy husband shot the police officers,\u201d the woman adds, telling the dispatcher she is hiding in the bushes while her one-year-old daughter is inside.",
+    "\nShe reported Smith shot one of the officers as he came into the house.",
+    "\nKeep up with this story and more by subscribing now\n\u201cI don\u2019t hear my daughter crying anymore,\u201d the woman says.",
+    "\nOfficers later said they found her daughter on the couch and held Smith at gunpoint.",
+    "\nPolice have not released many details about the way the events transpired, but did say that Smith had injuries and was transported from the home.",
+    "\nAuthorities had responded to the house as recently as three weeks ago for a reported disturbance, records obtained by the Enquirer showed.",
+    "\nAt the time, the home's residents told police that there was nothing amiss.",
+    "\nSmith\u2019s wife had told police in November that her husband illegally carried a \u201cgun all of the time,\u201d according to the Enquirer.",
+    "\nSmith was convicted of burglary in 2008, barring him for possessing a firearm.",
+    "\nAuthorities have not released which type of gun was used in the shooting."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 295,
+      "text": "Ohio Cop Killing Suspect\u2019s Wife Hid in Bushes While Husband Shot Officers, 911 Call Shows\n\nThe wife of the Ohio man suspected of killing two police officers on Saturday hid in the bushes as she called 911 to report that her husband had shot the cops, according to an audio recording of the call.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 295,
+      "end_ix": 458,
+      "text": "\nWesterville Police Department officers Eric Joering, 39, and Anthony Morelli, 54, were allegedly shot dead by Quentin Smith after responding to a 911 hangup call.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 458,
+      "end_ix": 555,
+      "text": "\nThe call, which prompted officers to respond to the scene, came in just around noon on Saturday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 555,
+      "end_ix": 651,
+      "text": "\nIn it, a woman can be heard crying before the line goes dead, the Cincinnati Enquirer reported.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 651,
+      "end_ix": 845,
+      "text": "\nAfter dispatchers' attempts to return the call sent them to voicemail, Joering and Morelli went to the house, which had a history of domestic violence calls, according to the Columbus Dispatch.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 845,
+      "end_ix": 911,
+      "text": "\nReuters Reuters\nIn the following call, the woman pleads for help.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 911,
+      "end_ix": 964,
+      "text": "\n\u201cPlease help, please help,\u201d she asks the dispatcher.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 964,
+      "end_ix": 1113,
+      "text": "\n\u201cMy husband shot the police officers,\u201d the woman adds, telling the dispatcher she is hiding in the bushes while her one-year-old daughter is inside.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1113,
+      "end_ix": 1184,
+      "text": "\nShe reported Smith shot one of the officers as he came into the house.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1184,
+      "end_ix": 1295,
+      "text": "\nKeep up with this story and more by subscribing now\n\u201cI don\u2019t hear my daughter crying anymore,\u201d the woman says.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1295,
+      "end_ix": 1380,
+      "text": "\nOfficers later said they found her daughter on the couch and held Smith at gunpoint.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1380,
+      "end_ix": 1526,
+      "text": "\nPolice have not released many details about the way the events transpired, but did say that Smith had injuries and was transported from the home.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1526,
+      "end_ix": 1665,
+      "text": "\nAuthorities had responded to the house as recently as three weeks ago for a reported disturbance, records obtained by the Enquirer showed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1665,
+      "end_ix": 1741,
+      "text": "\nAt the time, the home's residents told police that there was nothing amiss.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1741,
+      "end_ix": 1869,
+      "text": "\nSmith\u2019s wife had told police in November that her husband illegally carried a \u201cgun all of the time,\u201d according to the Enquirer.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1869,
+      "end_ix": 1948,
+      "text": "\nSmith was convicted of burglary in 2008, barring him for possessing a firearm.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1948,
+      "end_ix": 2022,
+      "text": "\nAuthorities have not released which type of gun was used in the shooting.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

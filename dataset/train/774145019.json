@@ -1,0 +1,782 @@
+{
+  "article_id": "774145019",
+  "sentence offsets in original": [
+    0,
+    64,
+    197,
+    343,
+    378,
+    440,
+    517,
+    551,
+    615,
+    700,
+    794,
+    850,
+    906,
+    935,
+    965,
+    1046,
+    1128,
+    1156,
+    1219,
+    1319,
+    1501,
+    1646,
+    1725,
+    1773,
+    1876,
+    1915,
+    2046,
+    2090,
+    2136,
+    2180,
+    2269,
+    2390,
+    2474,
+    2625,
+    2820,
+    3012,
+    3063,
+    3171,
+    3296,
+    3359,
+    3574,
+    3705,
+    3765,
+    4150,
+    4312,
+    4408,
+    4536,
+    4631,
+    4763,
+    4912,
+    5100
+  ],
+  "original sentences": [
+    "Obama Was Never As Tough On Russia As Trump\n\nThis is just silly.",
+    "\nThe constant hand-wringing, from the left-wing media, over President Trump\u2019s loyalties and his connection with Russia is just silly.",
+    "\nThe media has been hanging on every word the President says and arguing that his rhetoric is proof positive that he is some kind of Russian mole.",
+    "\nThe only problem with this thesis?",
+    "\nEverything that the President is DOING belies their argument.",
+    "\nIf President Trump were a mole, wouldn\u2019t he have made life easier for Putin?",
+    "\nWouldn\u2019t he have eased sanctions?",
+    "\nWouldn\u2019t he have been less confrontational than Obama in Syria?",
+    "\nWouldn\u2019t the President be making Putin\u2019s attempts at expanding his influence easier?",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nInstead, President Trump\u2019s POLICIES have actually made life more difficult for Putin at every turn.",
+    "\nHere\u2019s The Federalist\u2019s Mollie Hemingway explaining:\nOur relationship with Russia is at a significant low point where just having some conversations can lead us to a better outcome.",
+    "\nAnd there are so many important things that they are involved with that we care about, whether it\u2019s Syria, Ukraine, North Korea or nuclear arms.",
+    "\nI\u2019m kind of surprised there\u2019s been this much angst over this press conference.",
+    "\nNot that he said things the way he should have.",
+    "\nPresident Trump really did mess up with that press conference but I don\u2019t quite know what people want.",
+    "\nHe actually is pretty tough on Russia.",
+    "\nAnd in the last couple of years, we\u2019ve seen an increase in the military budget, we\u2019ve seen an increase in the intelligence budget.",
+    "\nWe are doing NATO exercises in the Baltics.",
+    "\nWe provided legal aid to Ukraine and Georgia.",
+    "\nWe\u2019re developing low-yield nuclear weapons.",
+    "\nHe implemented sanctions that were even stronger than required by Congressional mandate.",
+    "\nSo if you care about actual actions, I think there\u2019s a lot to be happy about in terms of a tough posture towards Russia.",
+    "\nPeople are obsessed about words and they should maybe focus on the actions as well.",
+    "\nFormer Speaker of the House, Newt Gingrich, concurred with Hemingway arguing that by any standard Trump has been far tougher on Russia than Obama was.",
+    "\nFirst, the very people who have been loudest in attacking President Trump about his performance at the Helsinki summit are the people who failed to protect America from Russian meddling in 2016.",
+    "\nThe very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.",
+    "\nIt was their duty in 2016 \u2013 not candidate Trump\u2019s.",
+    "\nSecond, the Trump administration has been far tougher on Russia than President Obama ever dreamed of being.",
+    "\nThe Trump administration is taking real actions designed to weaken Russia and force Putin to change his aggressive behavior.",
+    "\nThe Trump administration has levied tough sanctions on Russia.",
+    "\nAlso, President Trump\u2019s public lecture about Germany not buying natural gas from Russia was aimed at cutting Putin off from hard currency worth tens of billions of dollars and further weakening the Russian economy.",
+    "\nFurthermore, President Trump\u2019s efforts to get our European allies to increase their defense spending has a direct impact on Putin.",
+    "\nThe stronger NATO is, the less maneuvering room Russia has.",
+    "\nBeyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",
+    "\nWhen the Russians used chemical weapons in Great Britain, President Trump joined our allies and expelled 60 Russian intelligence officers from the United States.",
+    "\nWhen the Russians retaliated, the Trump administration closed the Russian consulate in Seattle.",
+    "\nPresident Trump had previously shuttered the Russian consulate in San Francisco and smaller annexes in Washington and New York.",
+    "\nMore than 100 Russian individuals and companies have been sanctioned for a variety of reasons.",
+    "\nDespite the hysteria of the left, it is impossible to see the Trump administration as anything but firm in its dealing with Russia.",
+    "\nNothing done in Helsinki made life easier for the Putin regime in its continued economic decay and diplomatic isolation due to the sanctions regime.",
+    "\nAny intellectually honest review of the last decade of foreign policy would lead one to admit that President Trump has most assuredly been tougher on Putin and Russia than Obama ever was.",
+    "\nArticle posted with permission from Constitution.com"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 64,
+      "text": "Obama Was Never As Tough On Russia As Trump\n\nThis is just silly.",
+      "new_text": "Obama Was Never As Tough On Russia As Trump\n\nThis is just silly.",
+      "prop_spans": [
+        [
+          58,
+          63,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 64,
+      "end_ix": 197,
+      "text": "\nThe constant hand-wringing, from the left-wing media, over President Trump\u2019s loyalties and his connection with Russia is just silly.",
+      "new_text": "\nThe constant hand-wringing, from the left-wing media, over President Trump\u2019s loyalties and his connection with Russia is silly.",
+      "prop_spans": [
+        [
+          191,
+          196,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 197,
+      "end_ix": 343,
+      "text": "\nThe media has been hanging on every word the President says and arguing that his rhetoric is proof positive that he is some kind of Russian mole.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 343,
+      "end_ix": 378,
+      "text": "\nThe only problem with this thesis?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 378,
+      "end_ix": 440,
+      "text": "\nEverything that the President is DOING belies their argument.",
+      "new_text": "\nEverything that the President is doing belies their argument.",
+      "prop_spans": [
+        [
+          412,
+          417,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 440,
+      "end_ix": 517,
+      "text": "\nIf President Trump were a mole, wouldn\u2019t he have made life easier for Putin?",
+      "new_text": "\nIf President Trump were a mole, he would probably have made life easier for Putin.",
+      "prop_spans": [
+        [
+          441,
+          517,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 517,
+      "end_ix": 551,
+      "text": "\nWouldn\u2019t he have eased sanctions?",
+      "new_text": "\nAnd would have eased sanctions.",
+      "prop_spans": [
+        [
+          517,
+          518,
+          "Doubt"
+        ],
+        [
+          518,
+          551,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 551,
+      "end_ix": 615,
+      "text": "\nWouldn\u2019t he have been less confrontational than Obama in Syria?",
+      "new_text": "And would have been less confrontational than Obama in Syria.",
+      "prop_spans": [
+        [
+          551,
+          551,
+          "Doubt"
+        ],
+        [
+          552,
+          615,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 615,
+      "end_ix": 700,
+      "text": "\nWouldn\u2019t the President be making Putin\u2019s attempts at expanding his influence easier?",
+      "new_text": "\nAnd would be making Putin\u2019s attempts at expanding his influence easier.",
+      "prop_spans": [
+        [
+          615,
+          616,
+          "Doubt"
+        ],
+        [
+          616,
+          700,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 700,
+      "end_ix": 794,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "prop_spans": [
+        [
+          700,
+          701,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 794,
+      "end_ix": 850,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 850,
+      "end_ix": 906,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 906,
+      "end_ix": 935,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 935,
+      "end_ix": 965,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 965,
+      "end_ix": 1046,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1046,
+      "end_ix": 1128,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1128,
+      "end_ix": 1156,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1156,
+      "end_ix": 1219,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1219,
+      "end_ix": 1319,
+      "text": "\nInstead, President Trump\u2019s POLICIES have actually made life more difficult for Putin at every turn.",
+      "new_text": "\nInstead, President Trump\u2019s policies have actually made life more difficult for Putin at every turn.",
+      "prop_spans": [
+        [
+          1247,
+          1255,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1319,
+      "end_ix": 1501,
+      "text": "\nHere\u2019s The Federalist\u2019s Mollie Hemingway explaining:\nOur relationship with Russia is at a significant low point where just having some conversations can lead us to a better outcome.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1501,
+      "end_ix": 1646,
+      "text": "\nAnd there are so many important things that they are involved with that we care about, whether it\u2019s Syria, Ukraine, North Korea or nuclear arms.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1646,
+      "end_ix": 1725,
+      "text": "\nI\u2019m kind of surprised there\u2019s been this much angst over this press conference.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1725,
+      "end_ix": 1773,
+      "text": "\nNot that he said things the way he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1773,
+      "end_ix": 1876,
+      "text": "\nPresident Trump really did mess up with that press conference but I don\u2019t quite know what people want.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1876,
+      "end_ix": 1915,
+      "text": "\nHe actually is pretty tough on Russia.",
+      "new_text": "\nHe actually is pretty hard on Russia.",
+      "prop_spans": [
+        [
+          1899,
+          1904,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1915,
+      "end_ix": 2046,
+      "text": "\nAnd in the last couple of years, we\u2019ve seen an increase in the military budget, we\u2019ve seen an increase in the intelligence budget.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2046,
+      "end_ix": 2090,
+      "text": "\nWe are doing NATO exercises in the Baltics.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2090,
+      "end_ix": 2136,
+      "text": "\nWe provided legal aid to Ukraine and Georgia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2136,
+      "end_ix": 2180,
+      "text": "\nWe\u2019re developing low-yield nuclear weapons.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2180,
+      "end_ix": 2269,
+      "text": "\nHe implemented sanctions that were even stronger than required by Congressional mandate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2269,
+      "end_ix": 2390,
+      "text": "\nSo if you care about actual actions, I think there\u2019s a lot to be happy about in terms of a tough posture towards Russia.",
+      "new_text": "\nSo if you care about actual actions, I think there\u2019s a lot to be happy about in terms of a hard posture towards Russia.",
+      "prop_spans": [
+        [
+          2361,
+          2366,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2390,
+      "end_ix": 2474,
+      "text": "\nPeople are obsessed about words and they should maybe focus on the actions as well.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2474,
+      "end_ix": 2625,
+      "text": "\nFormer Speaker of the House, Newt Gingrich, concurred with Hemingway arguing that by any standard Trump has been far tougher on Russia than Obama was.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2625,
+      "end_ix": 2820,
+      "text": "\nFirst, the very people who have been loudest in attacking President Trump about his performance at the Helsinki summit are the people who failed to protect America from Russian meddling in 2016.",
+      "new_text": "\nFirst, the very people who have been loudest in attacking President Trump about his performance at the Helsinki summit are the people who failed to protect us from Russian meddling in 2016.",
+      "prop_spans": [
+        [
+          2774,
+          2789,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2820,
+      "end_ix": 3012,
+      "text": "\nThe very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.",
+      "new_text": "\nThe intensity and unpleasantness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect us.",
+      "prop_spans": [
+        [
+          2825,
+          2829,
+          "Loaded_Language"
+        ],
+        [
+          2844,
+          2853,
+          "Loaded_Language"
+        ],
+        [
+          2996,
+          3011,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3012,
+      "end_ix": 3063,
+      "text": "\nIt was their duty in 2016 \u2013 not candidate Trump\u2019s.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3063,
+      "end_ix": 3171,
+      "text": "\nSecond, the Trump administration has been far tougher on Russia than President Obama ever dreamed of being.",
+      "new_text": "\nSecond, the Trump administration has been far harder on Russia than President Obama ever dreamed of being.",
+      "prop_spans": [
+        [
+          3110,
+          3117,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3171,
+      "end_ix": 3296,
+      "text": "\nThe Trump administration is taking real actions designed to weaken Russia and force Putin to change his aggressive behavior.",
+      "new_text": "\nThey are taking real actions designed to weaken Russia and force Putin to change his hostile behavior.",
+      "prop_spans": [
+        [
+          3172,
+          3196,
+          "Repetition"
+        ],
+        [
+          3276,
+          3286,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3296,
+      "end_ix": 3359,
+      "text": "\nThe Trump administration has levied tough sanctions on Russia.",
+      "new_text": "\nThey have levied hard sanctions on Russia.",
+      "prop_spans": [
+        [
+          3297,
+          3321,
+          "Repetition"
+        ],
+        [
+          3333,
+          3338,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3359,
+      "end_ix": 3574,
+      "text": "\nAlso, President Trump\u2019s public lecture about Germany not buying natural gas from Russia was aimed at cutting Putin off from hard currency worth tens of billions of dollars and further weakening the Russian economy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3574,
+      "end_ix": 3705,
+      "text": "\nFurthermore, President Trump\u2019s efforts to get our European allies to increase their defense spending has a direct impact on Putin.",
+      "new_text": "\nFurthermore, President Trump\u2019s efforts to get European allies to increase their defense spending has a direct impact on Putin.",
+      "prop_spans": [
+        [
+          3621,
+          3624,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3705,
+      "end_ix": 3765,
+      "text": "\nThe stronger NATO is, the less maneuvering room Russia has.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3765,
+      "end_ix": 4150,
+      "text": "\nBeyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",
+      "new_text": "\nBeyond pressuring them, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was very weak), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",
+      "prop_spans": [
+        [
+          3784,
+          3794,
+          "Repetition"
+        ],
+        [
+          3992,
+          4020,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4150,
+      "end_ix": 4312,
+      "text": "\nWhen the Russians used chemical weapons in Great Britain, President Trump joined our allies and expelled 60 Russian intelligence officers from the United States.",
+      "new_text": "\nWhen the Russians used chemical weapons in Great Britain, President Trump joined our allies and expelled 60 Russian intelligence officers from the United States.",
+      "prop_spans": [
+        [
+          4232,
+          4242,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4312,
+      "end_ix": 4408,
+      "text": "\nWhen the Russians retaliated, the Trump administration closed the Russian consulate in Seattle.",
+      "new_text": "\nWhen the Russians retaliated, the Trump administration closed the Russian consulate in Seattle.",
+      "prop_spans": [
+        [
+          4343,
+          4367,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4408,
+      "end_ix": 4536,
+      "text": "\nPresident Trump had previously shuttered the Russian consulate in San Francisco and smaller annexes in Washington and New York.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4536,
+      "end_ix": 4631,
+      "text": "\nMore than 100 Russian individuals and companies have been sanctioned for a variety of reasons.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4631,
+      "end_ix": 4763,
+      "text": "\nDespite the hysteria of the left, it is impossible to see the Trump administration as anything but firm in its dealing with Russia.",
+      "new_text": "\nDespite the irrationality of the left, it is impossible to see them as anything but firm in its dealing with Russia.",
+      "prop_spans": [
+        [
+          4644,
+          4652,
+          "Loaded_Language"
+        ],
+        [
+          4690,
+          4714,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4763,
+      "end_ix": 4912,
+      "text": "\nNothing done in Helsinki made life easier for the Putin regime in its continued economic decay and diplomatic isolation due to the sanctions regime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4912,
+      "end_ix": 5100,
+      "text": "\nAny intellectually honest review of the last decade of foreign policy would lead one to admit that President Trump has most assuredly been tougher on Putin and Russia than Obama ever was.",
+      "new_text": "\nAny intellectually honest review of the last decade of foreign policy would lead one to admit that President Trump has most assuredly been harder on Putin and Russia than Obama ever was.",
+      "prop_spans": [
+        [
+          5052,
+          5059,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5100,
+      "end_ix": 5153,
+      "text": "\nArticle posted with permission from Constitution.com",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      58,
+      63,
+      "Loaded_Language"
+    ],
+    [
+      191,
+      196,
+      "Repetition"
+    ],
+    [
+      412,
+      417,
+      "Loaded_Language"
+    ],
+    [
+      441,
+      518,
+      "Doubt"
+    ],
+    [
+      518,
+      551,
+      "Doubt"
+    ],
+    [
+      552,
+      616,
+      "Doubt"
+    ],
+    [
+      616,
+      701,
+      "Doubt"
+    ],
+    [
+      1247,
+      1255,
+      "Loaded_Language"
+    ],
+    [
+      1899,
+      1904,
+      "Repetition"
+    ],
+    [
+      2361,
+      2366,
+      "Repetition"
+    ],
+    [
+      2774,
+      2789,
+      "Flag-Waving"
+    ],
+    [
+      2825,
+      2829,
+      "Loaded_Language"
+    ],
+    [
+      2844,
+      2853,
+      "Loaded_Language"
+    ],
+    [
+      2996,
+      3011,
+      "Repetition"
+    ],
+    [
+      3110,
+      3117,
+      "Repetition"
+    ],
+    [
+      3172,
+      3196,
+      "Repetition"
+    ],
+    [
+      3276,
+      3286,
+      "Loaded_Language"
+    ],
+    [
+      3297,
+      3321,
+      "Repetition"
+    ],
+    [
+      3333,
+      3338,
+      "Repetition"
+    ],
+    [
+      3621,
+      3624,
+      "Flag-Waving"
+    ],
+    [
+      3784,
+      3794,
+      "Repetition"
+    ],
+    [
+      3992,
+      4020,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      4232,
+      4242,
+      "Repetition"
+    ],
+    [
+      4343,
+      4367,
+      "Repetition"
+    ],
+    [
+      4644,
+      4652,
+      "Loaded_Language"
+    ],
+    [
+      4690,
+      4714,
+      "Repetition"
+    ],
+    [
+      5052,
+      5059,
+      "Repetition"
+    ]
+  ]
+}

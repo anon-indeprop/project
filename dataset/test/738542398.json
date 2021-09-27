@@ -1,0 +1,167 @@
+{
+  "article_id": "738542398",
+  "sentence offsets in original": [
+    0,
+    139,
+    254,
+    476,
+    668,
+    809,
+    1160,
+    1351,
+    1602,
+    1704,
+    1794,
+    1939
+  ],
+  "original sentences": [
+    "Gina Haspel, New CIA Director\n\nPresident Donald Trump nominated Gina Haspel as the new director of the CIA, announcing the news on Twitter.",
+    "\nMike Pompeo, the previous director, was nominated to run the State Department to replace the ousted Rex Tillerson.",
+    "\n* * * * *\nIN MAY 2013, the Washington Post\u2019s Greg Miller reported that the head of the CIA\u2019s clandestine service was being shifted out of that position as a result of \u201ca management shake-up\u201d by then-Director John Brennan.",
+    "\nAs Miller documented, this official \u2014 whom the paper did not name because she was a covert agent at the time \u2014 was centrally involved in the worst abuses of the CIA\u2019s Bush-era torture regime.",
+    "\nAs Miller put it, she was \u201cdirectly involved in its controversial interrogation program\u201d and had an \u201cextensive role\u201d in torturing detainees.",
+    "\nEven more troubling, she \u201chad run a secret prison in Thailand\u201d \u2014 part of the CIA\u2019s network of \u201cblack sites\u201d \u2014 \u201cwhere two detainees were subjected to waterboarding and other harsh techniques.\u201d The Senate Intelligence Committee\u2019s report on torture also detailed the central role she played in the particularly gruesome torture of detainee Abu Zubaydah.",
+    "\nBeyond all that, she played a vital role in the destruction of interrogation videotapes that showed the torture of detainees both at the black site she ran and other secret agency locations.",
+    "\nThe concealment of those interrogation tapes, which violated multiple court orders as well as the demands of the 9/11 commission and the advice of White House lawyers, was condemned as \u201cobstruction\u201d by commission chairs Lee Hamilton and Thomas Keane.",
+    "\nA special prosecutor and grand jury investigated those actions but ultimately chose not to prosecute.",
+    "\nThe name of that CIA official whose torture activities the Post described is Gina Haspel.",
+    "\nToday, as BuzzFeed\u2019s Jason Leopold noted, CIA Director Mike Pompeo announced that Haspel was selected by Trump to be deputy director of the CIA.",
+    "\nRead the Whole Article"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 139,
+      "text": "Gina Haspel, New CIA Director\n\nPresident Donald Trump nominated Gina Haspel as the new director of the CIA, announcing the news on Twitter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 139,
+      "end_ix": 254,
+      "text": "\nMike Pompeo, the previous director, was nominated to run the State Department to replace the ousted Rex Tillerson.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 254,
+      "end_ix": 476,
+      "text": "\n* * * * *\nIN MAY 2013, the Washington Post\u2019s Greg Miller reported that the head of the CIA\u2019s clandestine service was being shifted out of that position as a result of \u201ca management shake-up\u201d by then-Director John Brennan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 476,
+      "end_ix": 668,
+      "text": "\nAs Miller documented, this official \u2014 whom the paper did not name because she was a covert agent at the time \u2014 was centrally involved in the worst abuses of the CIA\u2019s Bush-era torture regime.",
+      "new_text": "\nAs Miller documented, this official \u2014 whom the paper did not name because she was a covert agent at the time \u2014 was centrally involved in the worst abuses of the CIA\u2019s torture regime.",
+      "prop_spans": [
+        [
+          614,
+          668,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          644,
+          667,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 668,
+      "end_ix": 809,
+      "text": "\nAs Miller put it, she was \u201cdirectly involved in its controversial interrogation program\u201d and had an \u201cextensive role\u201d in torturing detainees.",
+      "new_text": "\nAs Miller put it, she was \u201cdirectly involved in its controversial interrogation program\u201d and had an \u201cextensive role\u201d in torturing detainees.",
+      "prop_spans": [
+        [
+          668,
+          668,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 809,
+      "end_ix": 1160,
+      "text": "\nEven more troubling, she \u201chad run a secret prison in Thailand\u201d \u2014 part of the CIA\u2019s network of \u201cblack sites\u201d \u2014 \u201cwhere two detainees were subjected to waterboarding and other harsh techniques.\u201d The Senate Intelligence Committee\u2019s report on torture also detailed the central role she played in the particularly gruesome torture of detainee Abu Zubaydah.",
+      "new_text": "\nEven more troubling, she \u201chad run a secret prison in Thailand\u201d \u2014 part of the CIA\u2019s network of \u201cblack sites\u201d \u2014 \u201cwhere two detainees were subjected to waterboarding and other harsh techniques.\u201d The Senate Intelligence Committee\u2019s report on torture also detailed the central role she played in the torture of detainee Abu Zubaydah.",
+      "prop_spans": [
+        [
+          983,
+          999,
+          "Loaded_Language"
+        ],
+        [
+          1105,
+          1134,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1160,
+      "end_ix": 1351,
+      "text": "\nBeyond all that, she played a vital role in the destruction of interrogation videotapes that showed the torture of detainees both at the black site she ran and other secret agency locations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1351,
+      "end_ix": 1602,
+      "text": "\nThe concealment of those interrogation tapes, which violated multiple court orders as well as the demands of the 9/11 commission and the advice of White House lawyers, was condemned as \u201cobstruction\u201d by commission chairs Lee Hamilton and Thomas Keane.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1602,
+      "end_ix": 1704,
+      "text": "\nA special prosecutor and grand jury investigated those actions but ultimately chose not to prosecute.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1704,
+      "end_ix": 1794,
+      "text": "\nThe name of that CIA official whose torture activities the Post described is Gina Haspel.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1794,
+      "end_ix": 1939,
+      "text": "\nToday, as BuzzFeed\u2019s Jason Leopold noted, CIA Director Mike Pompeo announced that Haspel was selected by Trump to be deputy director of the CIA.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1939,
+      "end_ix": 1962,
+      "text": "\nRead the Whole Article",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      614,
+      668,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      644,
+      667,
+      "Name_Calling,Labeling"
+    ],
+    [
+      983,
+      999,
+      "Loaded_Language"
+    ],
+    [
+      1105,
+      1134,
+      "Loaded_Language"
+    ]
+  ]
+}

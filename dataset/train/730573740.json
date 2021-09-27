@@ -1,0 +1,314 @@
+{
+  "article_id": "730573740",
+  "sentence offsets in original": [
+    0,
+    324,
+    503,
+    746,
+    1506,
+    1711,
+    1879,
+    2029,
+    2175,
+    2239,
+    2346,
+    2448,
+    2573,
+    3262,
+    3489,
+    3665,
+    4179
+  ],
+  "original sentences": [
+    "Cardinal M\u00fcller: Blessing homosexual couples would be an \u2018atrocity\u2019\n\nNewsCatholic Church\nBRATISLAVA, Slovakia, February 13, 2018 (LifeSiteNews) \u2013 Former Vatican doctrine chief Cardinal Gerhard Ludwig M\u00fcller has decried the Church's current adaptation to the modern world and rejected the idea of blessing homosexual couples.",
+    "\nThe remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",
+    "\nCardinal M\u00fcller, former Prefect of the Congregation for the Doctrine of the Faith, spoke at a conference on John Paul II's encyclical Veritatis Splendor at the Comenius University in Bratislava, organized by the Slovakian Bishops' Conference.",
+    "\nIn remarks after his address, reported by the German Catholic newspaper Die Tagespost, the cardinal made it clear what he thinks about the recently presented German idea of blessing homosexual unions, even if only in individual cases: \u201cIf a priest blesses a homosexual couple, then this is an atrocity at a holy site, namely, to approve of something that God does not approve of.\u201d\nAccording to the Tagespost report, Cardinal M\u00fcller said in his address that he regrets the separation of the Church's doctrinal and moral teaching and called Christianity a \u201ctheocentric humanism.\u201d He said the \u201csubmissive change of the Church into a NGO for the embetterment of the this-worldly life conditions\u201d is a \u201csuicidal modernization\u201d that denies mankind the Truth of God.",
+    "\nIn this context, the German cardinal also criticized Martin Luther's own denial of man's free will and his teaching about the total depravity of man that separates morality from the relationship with God.",
+    "\nMorality, M\u00fcller explained, is rooted in Grace; that is why any teaching about \u201crules and exceptions\u201d ignores the character of the ethics of the Covenant and of Grace.",
+    "\nIn the discussion following his talk, Cardinal M\u00fcller also responded to questions concerning Pope Francis' post-synodal exhortation, Amoris Laetitia.",
+    "\nThe cardinal said that he is \u201cnot happy\u201d about the fact that there are different interpretations of this papal text by some bishops' conferences.",
+    "\n\u201cIn dogmatic questions, there cannot be a plurality,\u201d he added.",
+    "\nThere is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",
+    "\nContradictory conceptions concerning the Sacraments, said the cardinal, lead into chaotic conditions.",
+    "\nThus, explained the cardinal, the Sacraments have to be celebrated the way Christ Himself willed it when he instituted them.",
+    "\nThe controversial eighth chapter of Amoris Laetitia has to be understood \u201cin an orthodox way,\u201d namely that \u201che who lives in the state of mortal sin cannot receive Holy Communion.\u201d It is, in M\u00fcller's eyes, the pope's duty \u201cto unite the Church, that is what the pope is there for.\u201d This is what he, M\u00fcller, himself told the pope: when the bishops' conferences present different interpretations of Amoris Laetitia, the Church enters \u201cinto a situation like the one before the Reformation.\u201d\nArchbishop Stanislav Zvolensy, President of the Slovakian Bishops' Conference and archbishop of Bratislava, told Die Tagespost that Veritatis Splendor is not only still valid, but shows timeless truths.",
+    "\nPromulgated 25 years ago, the encyclical rejects authoritatively the theory of situation ethics, a theory that seems to be getting again much attention in our time, for example by theologians such as Professor Maurizio Chiodi.",
+    "\nProfessor Livio Melina, the former President of the Pontifical John Paul II Institute for Studies on Marriage and the Family, was another speaker at the February 6 conference.",
+    "\nHe stressed that Amoris Laetitia has to be \u201cread in the context of the magisterial instructions of the encyclical Veritatis Splendor, which recalls the connection between conscience and truth, as well as the necessity of a well-formed conscience.\u201d In returning to that encyclical, explained the Italian professor and theologian, Amoris Laetitia could be given a hermeneutic in light of a \u201ccontinuity with the Magisterium of the Church.\u201d He also said: \u201cThe Commandments are an expression of the Love of God for us.",
+    "\nIf we fulfill them, we are united with God.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 324,
+      "text": "Cardinal M\u00fcller: Blessing homosexual couples would be an \u2018atrocity\u2019\n\nNewsCatholic Church\nBRATISLAVA, Slovakia, February 13, 2018 (LifeSiteNews) \u2013 Former Vatican doctrine chief Cardinal Gerhard Ludwig M\u00fcller has decried the Church's current adaptation to the modern world and rejected the idea of blessing homosexual couples.",
+      "new_text": "Cardinal M\u00fcller: Blessing homosexual couples would be an \u2018atrocity\u2019\n\nNewsCatholic Church\nBRATISLAVA, Slovakia, February 13, 2018 (LifeSiteNews) \u2013 Former Vatican doctrine chief Cardinal Gerhard Ludwig M\u00fcller has decried the Church's current adaptation to the modern world and rejected the idea of blessing homosexual couples.",
+      "prop_spans": [
+        [
+          45,
+          68,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 324,
+      "end_ix": 503,
+      "text": "\nThe remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 503,
+      "end_ix": 746,
+      "text": "\nCardinal M\u00fcller, former Prefect of the Congregation for the Doctrine of the Faith, spoke at a conference on John Paul II's encyclical Veritatis Splendor at the Comenius University in Bratislava, organized by the Slovakian Bishops' Conference.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 746,
+      "end_ix": 1506,
+      "text": "\nIn remarks after his address, reported by the German Catholic newspaper Die Tagespost, the cardinal made it clear what he thinks about the recently presented German idea of blessing homosexual unions, even if only in individual cases: \u201cIf a priest blesses a homosexual couple, then this is an atrocity at a holy site, namely, to approve of something that God does not approve of.\u201d\nAccording to the Tagespost report, Cardinal M\u00fcller said in his address that he regrets the separation of the Church's doctrinal and moral teaching and called Christianity a \u201ctheocentric humanism.\u201d He said the \u201csubmissive change of the Church into a NGO for the embetterment of the this-worldly life conditions\u201d is a \u201csuicidal modernization\u201d that denies mankind the Truth of God.",
+      "new_text": "\nIn remarks after his address, reported by the German Catholic newspaper Die Tagespost, the cardinal made it clear what he thinks about the recently presented German idea of blessing homosexual unions, even if only in individual cases: \u201cIf a priest blesses a homosexual couple, then this is an atrocity at a holy site, namely, to approve of something that God does not approve of.\u201d\nAccording to the Tagespost report, Cardinal M\u00fcller said in his address that he regrets the separation of the Church's doctrinal and moral teaching and called Christianity a \u201ctheocentric humanism.\u201d He said the \u201csubmissive change of the Church into a NGO for the embetterment of the this-worldly life conditions\u201d is a \u201csuicidal modernization\u201d that denies mankind the Truth of God.",
+      "prop_spans": [
+        [
+          834,
+          846,
+          "Appeal_to_Authority"
+        ],
+        [
+          983,
+          1128,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          1029,
+          1064,
+          "Loaded_Language"
+        ],
+        [
+          1302,
+          1322,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1338,
+          1506,
+          "Loaded_Language"
+        ],
+        [
+          1445,
+          1467,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1506,
+      "end_ix": 1711,
+      "text": "\nIn this context, the German cardinal also criticized Martin Luther's own denial of man's free will and his teaching about the total depravity of man that separates morality from the relationship with God.",
+      "new_text": "\nIn this context, the German cardinal also criticized Martin Luther's own denial of man's free will and his teaching about the total depravity of man that separates morality from the relationship with God.",
+      "prop_spans": [
+        [
+          1506,
+          1506,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1711,
+      "end_ix": 1879,
+      "text": "\nMorality, M\u00fcller explained, is rooted in Grace; that is why any teaching about \u201crules and exceptions\u201d ignores the character of the ethics of the Covenant and of Grace.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1879,
+      "end_ix": 2029,
+      "text": "\nIn the discussion following his talk, Cardinal M\u00fcller also responded to questions concerning Pope Francis' post-synodal exhortation, Amoris Laetitia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2029,
+      "end_ix": 2175,
+      "text": "\nThe cardinal said that he is \u201cnot happy\u201d about the fact that there are different interpretations of this papal text by some bishops' conferences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2175,
+      "end_ix": 2239,
+      "text": "\n\u201cIn dogmatic questions, there cannot be a plurality,\u201d he added.",
+      "new_text": "\n\u201cIn dogmatic questions, there cannot be a plurality,\u201d he added.",
+      "prop_spans": [
+        [
+          2177,
+          2229,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2239,
+      "end_ix": 2346,
+      "text": "\nThere is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",
+      "new_text": "\nThere is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",
+      "prop_spans": [
+        [
+          2240,
+          2346,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2346,
+      "end_ix": 2448,
+      "text": "\nContradictory conceptions concerning the Sacraments, said the cardinal, lead into chaotic conditions.",
+      "new_text": "\nContradictory conceptions concerning the Sacraments, said the cardinal, lead into chaotic conditions.",
+      "prop_spans": [
+        [
+          2346,
+          2346,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2448,
+      "end_ix": 2573,
+      "text": "\nThus, explained the cardinal, the Sacraments have to be celebrated the way Christ Himself willed it when he instituted them.",
+      "new_text": "\nThus, explained the cardinal, the Sacraments should be celebrated in the correct way.",
+      "prop_spans": [
+        [
+          2479,
+          2573,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2573,
+      "end_ix": 3262,
+      "text": "\nThe controversial eighth chapter of Amoris Laetitia has to be understood \u201cin an orthodox way,\u201d namely that \u201che who lives in the state of mortal sin cannot receive Holy Communion.\u201d It is, in M\u00fcller's eyes, the pope's duty \u201cto unite the Church, that is what the pope is there for.\u201d This is what he, M\u00fcller, himself told the pope: when the bishops' conferences present different interpretations of Amoris Laetitia, the Church enters \u201cinto a situation like the one before the Reformation.\u201d\nArchbishop Stanislav Zvolensy, President of the Slovakian Bishops' Conference and archbishop of Bratislava, told Die Tagespost that Veritatis Splendor is not only still valid, but shows timeless truths.",
+      "new_text": "\nThe controversial eighth chapter of Amoris Laetitia has to be understood \u201cin an orthodox way,\u201d namely that \u201che who lives in the state of mortal sin cannot receive Holy Communion.\u201d It is, in M\u00fcller's eyes, the pope's duty \u201cto unite the Church, that is what the pope is there for.\u201d This is what he, M\u00fcller, himself told the pope: when the bishops' conferences present different interpretations of Amoris Laetitia, the Church enters \u201cinto a situation like the one before the Reformation.\u201d\nArchbishop Stanislav Zvolensy, President of the Slovakian Bishops' Conference and archbishop of Bratislava, told Die Tagespost that Veritatis Splendor is not only still valid, but shows timeless truths.",
+      "prop_spans": [
+        [
+          2573,
+          2573,
+          "Appeal_to_Authority"
+        ],
+        [
+          2682,
+          2753,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3262,
+      "end_ix": 3489,
+      "text": "\nPromulgated 25 years ago, the encyclical rejects authoritatively the theory of situation ethics, a theory that seems to be getting again much attention in our time, for example by theologians such as Professor Maurizio Chiodi.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3489,
+      "end_ix": 3665,
+      "text": "\nProfessor Livio Melina, the former President of the Pontifical John Paul II Institute for Studies on Marriage and the Family, was another speaker at the February 6 conference.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3665,
+      "end_ix": 4179,
+      "text": "\nHe stressed that Amoris Laetitia has to be \u201cread in the context of the magisterial instructions of the encyclical Veritatis Splendor, which recalls the connection between conscience and truth, as well as the necessity of a well-formed conscience.\u201d In returning to that encyclical, explained the Italian professor and theologian, Amoris Laetitia could be given a hermeneutic in light of a \u201ccontinuity with the Magisterium of the Church.\u201d He also said: \u201cThe Commandments are an expression of the Love of God for us.",
+      "new_text": "\nHe stressed that Amoris Laetitia has to be \u201cread in the context of the magisterial instructions of the encyclical Veritatis Splendor, which recalls the connection between conscience and truth, as well as the necessity of a well-formed conscience.\u201d In returning to that encyclical, explained the Italian professor and theologian, Amoris Laetitia could be given a hermeneutic in light of a \u201ccontinuity with the Magisterium of the Church.\u201d He also said: \u201cThe Commandments are an expression of the Love of God for us.",
+      "prop_spans": [
+        [
+          4118,
+          4179,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4179,
+      "end_ix": 4224,
+      "text": "\nIf we fulfill them, we are united with God.\u201d",
+      "new_text": "\nIf we fulfill them, we are united with God.\u201d",
+      "prop_spans": [
+        [
+          4179,
+          4224,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      45,
+      68,
+      "Loaded_Language"
+    ],
+    [
+      834,
+      846,
+      "Appeal_to_Authority"
+    ],
+    [
+      983,
+      1128,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      1029,
+      1064,
+      "Loaded_Language"
+    ],
+    [
+      1302,
+      1322,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1338,
+      1506,
+      "Loaded_Language"
+    ],
+    [
+      1445,
+      1467,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2177,
+      2229,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2240,
+      2346,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2479,
+      2573,
+      "Appeal_to_Authority"
+    ],
+    [
+      2682,
+      2753,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      4118,
+      4225,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

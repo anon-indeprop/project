@@ -1,0 +1,416 @@
+{
+  "article_id": "770956434",
+  "sentence offsets in original": [
+    0,
+    23,
+    48,
+    169,
+    365,
+    531,
+    674,
+    768,
+    824,
+    880,
+    909,
+    939,
+    1020,
+    1102,
+    1130,
+    1193,
+    1449,
+    1512,
+    1649,
+    1666,
+    1753,
+    1825,
+    1907,
+    2108,
+    2233,
+    2291,
+    2331,
+    2474,
+    2612,
+    2683,
+    2804,
+    2904,
+    3026
+  ],
+  "original sentences": [
+    "Trump Pardons Hammonds!",
+    "\n\nNow, this is good news!",
+    "\nOn Tuesday, President Trump Oregon cattle ranchers, Dwight and Steven Hammond, who had been serving sentences for arson.",
+    "\nA Statement from the White House read as follows:\nToday, President Donald J. Trump signed Executive Grants of Clemency (Full Pardons) for Dwight Lincoln Hammond, Jr., and his son, Steven Hammond.",
+    "\nThe Hammonds are multi-generation cattle ranchers in Oregon imprisoned in connection with a fire that leaked onto a small portion of neighboring public grazing land.",
+    "\nThe evidence at trial regarding the Hammonds\u2019 responsibility for the fire was conflicting, and the jury acquitted them on most of the charges.",
+    "\ntake our poll - story continues below Will Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nAt the Hammonds\u2019 original sentencing, the judge noted that they are respected in the community and that imposing the mandatory minimum, 5-year prison sentence would \u201cshock the conscience\u201d and be \u201cgrossly disproportionate to the severity\u201d of their conduct.",
+    "\nAs a result, the judge imposed significantly lesser sentences.",
+    "\nThe previous administration, however, filed an overzealous appeal that resulted in the Hammonds being sentenced to five years in prison.",
+    "\nThis was unjust.",
+    "\nDwight Hammond is now 76 years old and has served approximately three years in prison.",
+    "\nSteven Hammond is 49 and has served approximately four years in prison.",
+    "\nThey have also paid $400,000 to the United States to settle a related civil suit.",
+    "\nThe Hammonds are devoted family men, respected contributors to their local community, and have widespread support from their neighbors, local law enforcement, and farmers and ranchers across the West.",
+    "\nJustice is overdue for Dwight and Steven Hammond, both of whom are entirely deserving of these Grants of Executive Clemency.",
+    "\nWell, it took long enough, but thank you President Trump.",
+    "\nYou did the right thing in this matter.",
+    "\nAnd for all those who took the time to keep this story alive and urge people to petition the White House on behalf of the Hammonds, thank you!",
+    "\nIt should be noted that the protests that took place in Oregon a couple of years ago were a response to the injustice the Hammonds faced.",
+    "\nAs a result, Robert \"LaVoy\" Finicum was killed by Oregon State Police.",
+    "\nThose who led the protest were all acquitted of all charges and reporter Pete Santilli had all of his charges dismissed.",
+    "\nNo doubt, Finicum would have been found not guilty as well, but that's not how tyrants work, is it?",
+    "\nToday is a day to celebrate a wrong that has not been fully made right, but has definitely turned in the right direction!",
+    "\nArticle posted with permission from The Washington Standard"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 23,
+      "text": "Trump Pardons Hammonds!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23,
+      "end_ix": 48,
+      "text": "\n\nNow, this is good news!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 48,
+      "end_ix": 169,
+      "text": "\nOn Tuesday, President Trump Oregon cattle ranchers, Dwight and Steven Hammond, who had been serving sentences for arson.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 169,
+      "end_ix": 365,
+      "text": "\nA Statement from the White House read as follows:\nToday, President Donald J. Trump signed Executive Grants of Clemency (Full Pardons) for Dwight Lincoln Hammond, Jr., and his son, Steven Hammond.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 365,
+      "end_ix": 531,
+      "text": "\nThe Hammonds are multi-generation cattle ranchers in Oregon imprisoned in connection with a fire that leaked onto a small portion of neighboring public grazing land.",
+      "new_text": "\nThe Hammonds are multi-generation cattle ranchers in Oregon imprisoned in connection with a fire that leaked onto a portion of neighboring public grazing land.",
+      "prop_spans": [
+        [
+          482,
+          487,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 531,
+      "end_ix": 674,
+      "text": "\nThe evidence at trial regarding the Hammonds\u2019 responsibility for the fire was conflicting, and the jury acquitted them on most of the charges.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 674,
+      "end_ix": 768,
+      "text": "\ntake our poll - story continues below Will Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 768,
+      "end_ix": 824,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 824,
+      "end_ix": 880,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 880,
+      "end_ix": 909,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 909,
+      "end_ix": 939,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 939,
+      "end_ix": 1020,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1020,
+      "end_ix": 1102,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1102,
+      "end_ix": 1130,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1130,
+      "end_ix": 1193,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1193,
+      "end_ix": 1449,
+      "text": "\nAt the Hammonds\u2019 original sentencing, the judge noted that they are respected in the community and that imposing the mandatory minimum, 5-year prison sentence would \u201cshock the conscience\u201d and be \u201cgrossly disproportionate to the severity\u201d of their conduct.",
+      "new_text": "\nAt the Hammonds\u2019 original sentencing, the judge noted that they are respected in the community and that imposing the mandatory minimum, 5-year prison sentence would \u201cshock the conscience\u201d and be \u201cgrossly disproportionate to the severity\u201d of their conduct.",
+      "prop_spans": [
+        [
+          1360,
+          1380,
+          "Loaded_Language"
+        ],
+        [
+          1390,
+          1430,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1449,
+      "end_ix": 1512,
+      "text": "\nAs a result, the judge imposed significantly lesser sentences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1512,
+      "end_ix": 1649,
+      "text": "\nThe previous administration, however, filed an overzealous appeal that resulted in the Hammonds being sentenced to five years in prison.",
+      "new_text": "\nThe previous administration, however, filed a fanatical appeal that resulted in the Hammonds being sentenced to five years in prison.",
+      "prop_spans": [
+        [
+          1560,
+          1571,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1649,
+      "end_ix": 1666,
+      "text": "\nThis was unjust.",
+      "new_text": "\nThis was unjust.",
+      "prop_spans": [
+        [
+          1659,
+          1665,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1666,
+      "end_ix": 1753,
+      "text": "\nDwight Hammond is now 76 years old and has served approximately three years in prison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1753,
+      "end_ix": 1825,
+      "text": "\nSteven Hammond is 49 and has served approximately four years in prison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1825,
+      "end_ix": 1907,
+      "text": "\nThey have also paid $400,000 to the United States to settle a related civil suit.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1907,
+      "end_ix": 2108,
+      "text": "\nThe Hammonds are devoted family men, respected contributors to their local community, and have widespread support from their neighbors, local law enforcement, and farmers and ranchers across the West.",
+      "new_text": "\nThe Hammonds are devoted, respected, and have widespread support from their neighbors, local law enforcement, and farmers and ranchers across the West.",
+      "prop_spans": [
+        [
+          1925,
+          1943,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1945,
+          1967,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2108,
+      "end_ix": 2233,
+      "text": "\nJustice is overdue for Dwight and Steven Hammond, both of whom are entirely deserving of these Grants of Executive Clemency.",
+      "new_text": "\nJustice is overdue for Dwight and Steven Hammond, both of whom are deserving of these Grants of Executive Clemency.",
+      "prop_spans": [
+        [
+          2176,
+          2194,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2233,
+      "end_ix": 2291,
+      "text": "\nWell, it took long enough, but thank you President Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2291,
+      "end_ix": 2331,
+      "text": "\nYou did the right thing in this matter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2331,
+      "end_ix": 2474,
+      "text": "\nAnd for all those who took the time to keep this story alive and urge people to petition the White House on behalf of the Hammonds, thank you!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2474,
+      "end_ix": 2612,
+      "text": "\nIt should be noted that the protests that took place in Oregon a couple of years ago were a response to the injustice the Hammonds faced.",
+      "new_text": "\nIt should be noted that the protests that took place in Oregon a couple of years ago were a response to the injustice the Hammonds faced.",
+      "prop_spans": [
+        [
+          2583,
+          2592,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2612,
+      "end_ix": 2683,
+      "text": "\nAs a result, Robert \"LaVoy\" Finicum was killed by Oregon State Police.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2683,
+      "end_ix": 2804,
+      "text": "\nThose who led the protest were all acquitted of all charges and reporter Pete Santilli had all of his charges dismissed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2804,
+      "end_ix": 2904,
+      "text": "\nNo doubt, Finicum would have been found not guilty as well, but that's not how tyrants work, is it?",
+      "new_text": "\nNo doubt, Finicum would have been found not guilty as well, but that's not how people work, is it?",
+      "prop_spans": [
+        [
+          2884,
+          2891,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2904,
+      "end_ix": 3026,
+      "text": "\nToday is a day to celebrate a wrong that has not been fully made right, but has definitely turned in the right direction!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3026,
+      "end_ix": 3086,
+      "text": "\nArticle posted with permission from The Washington Standard",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      482,
+      487,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1360,
+      1380,
+      "Loaded_Language"
+    ],
+    [
+      1390,
+      1430,
+      "Loaded_Language"
+    ],
+    [
+      1560,
+      1571,
+      "Loaded_Language"
+    ],
+    [
+      1659,
+      1665,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1925,
+      1943,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1945,
+      1967,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2176,
+      2194,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2583,
+      2592,
+      "Loaded_Language"
+    ],
+    [
+      2884,
+      2891,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

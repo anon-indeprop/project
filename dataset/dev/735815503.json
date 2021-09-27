@@ -1,0 +1,126 @@
+{
+  "article_id": "735815503",
+  "sentence offsets in original": [
+    0,
+    58,
+    136,
+    177,
+    412,
+    583,
+    794,
+    1008,
+    1333
+  ],
+  "original sentences": [
+    "How Many Child Rapists Did a Sanctuary City Mayor Tip Off?",
+    "\n\nThe price of a sanctuary city for illegal aliens is paid in abused children.",
+    "\nJust ask the abused children of Oakland.",
+    "\nA sweep of Northern California by federal immigration officials this week, which was partly thwarted when the Oakland mayor sounded the alarm, nabbed a number of illegal immigrants convicted of a variety of serious and violent crimes.",
+    "\nImmigrations and Customs Enforcement (ICE) officials announced this week that the four-day raid led to the arrest of 232 illegal immigrants in the San Francisco Bay Area.",
+    "\nOf those 232, 180 \u201cwere either convicted criminals, had been issued a final order of removal and failed to depart the United States, or had been previously removed\u201d from the country and had come back illegally.",
+    "\nThe arrests included 115 who \"had prior felony convictions for serious or violent offenses, such as child sex crimes, weapons charges and assault, or had past convictions for significant or multiple misdemeanors.\"",
+    "\nThe numbers might have been greater, but for the intervention of Oakland Mayor Libby Schaaf, who tweeted out a warning of the impending raid, tipping off others who might have been caught...\n\"I did what I believe was right for my community as well as to protect public safety,\" Schaaf said Friday, according to NBC Bay Area.",
+    "\n\"People should be able to live without fear or panic and know their rights and responsibilities as well as their recourses.\""
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 58,
+      "text": "How Many Child Rapists Did a Sanctuary City Mayor Tip Off?",
+      "new_text": "How Many Child Rapists Did a City Mayor Tip Off?",
+      "prop_spans": [
+        [
+          29,
+          38,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 58,
+      "end_ix": 136,
+      "text": "\n\nThe price of a sanctuary city for illegal aliens is paid in abused children.",
+      "new_text": "\n\nThe price of a sanctuary city for undocumented immigrants is paid in exploited children.",
+      "prop_spans": [
+        [
+          60,
+          136,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 136,
+      "end_ix": 177,
+      "text": "\nJust ask the abused children of Oakland.",
+      "new_text": "\nJust ask the exploited children of Oakland.",
+      "prop_spans": [
+        [
+          136,
+          177,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 177,
+      "end_ix": 412,
+      "text": "\nA sweep of Northern California by federal immigration officials this week, which was partly thwarted when the Oakland mayor sounded the alarm, nabbed a number of illegal immigrants convicted of a variety of serious and violent crimes.",
+      "new_text": "\nA sweep of Northern California by federal immigration officials this week, which was partly thwarted when the Oakland mayor sounded the alarm, nabbed a number of undocumented immigrants convicted of a variety of serious offences.",
+      "prop_spans": [
+        [
+          177,
+          178,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 412,
+      "end_ix": 583,
+      "text": "\nImmigrations and Customs Enforcement (ICE) officials announced this week that the four-day raid led to the arrest of 232 illegal immigrants in the San Francisco Bay Area.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 583,
+      "end_ix": 794,
+      "text": "\nOf those 232, 180 \u201cwere either convicted criminals, had been issued a final order of removal and failed to depart the United States, or had been previously removed\u201d from the country and had come back illegally.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 794,
+      "end_ix": 1008,
+      "text": "\nThe arrests included 115 who \"had prior felony convictions for serious or violent offenses, such as child sex crimes, weapons charges and assault, or had past convictions for significant or multiple misdemeanors.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1008,
+      "end_ix": 1333,
+      "text": "\nThe numbers might have been greater, but for the intervention of Oakland Mayor Libby Schaaf, who tweeted out a warning of the impending raid, tipping off others who might have been caught...\n\"I did what I believe was right for my community as well as to protect public safety,\" Schaaf said Friday, according to NBC Bay Area.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1333,
+      "end_ix": 1458,
+      "text": "\n\"People should be able to live without fear or panic and know their rights and responsibilities as well as their recourses.\"",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      29,
+      38,
+      "Name_Calling,Labeling"
+    ],
+    [
+      60,
+      178,
+      "Loaded_Language"
+    ]
+  ]
+}

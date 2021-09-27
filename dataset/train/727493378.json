@@ -1,0 +1,308 @@
+{
+  "article_id": "727493378",
+  "sentence offsets in original": [
+    0,
+    253,
+    492,
+    534,
+    562,
+    707,
+    824,
+    1064,
+    1271,
+    1286,
+    1436,
+    1767,
+    1867,
+    1964,
+    1996,
+    2266,
+    2415,
+    2634,
+    2726,
+    2869,
+    3071,
+    3150
+  ],
+  "original sentences": [
+    "Coroner Defies Court Order: Won't Release Las Vegas Shooter's Autopsy Report\n\nClark County Nevada Coroner John Fudenberg has determined to defy a court order from a district court judge to release the autopsy report of Las Vegas shooter Stephen Paddock.",
+    "\nThough the order was issued on Tuesday, Fudenberg conferred with others and seems determined to not release the autopsy report until, as he said, it is \"finalized,\" The Las Vegas Review-Journal reported, which sued for the autopsy report.",
+    "\nSeriously, it's been four months already!",
+    "\nThe body has been cremated!",
+    "\nThe family finally got the remains in a box marked \"evidence\" over three months after the shooting and the autopsy report hasn't been finalized?",
+    "\nWait, were the same guys in the autopsy room that were there when the doctors and coroners examined John F Kennedy ?",
+    "\n\u201cI don\u2019t believe this is consistent with what the court ordered,\u201d said Las Vegas attorney Maggie McLetchie, who represents the Las Vegas Review-Journal and The Associated Press in their November action demanding the release of the reports.",
+    "\n\u201cThey (the coroner\u2019s office) have delayed this for too long, and whatever stage the coroner\u2019s report on Paddock is in, it should be provided to the Review-Journal and Associated Press without further delay.",
+    "\nNo more games.",
+    "\nRelease the records.\u201d\n\u201cThe court correctly recognized the presumption of public access to records, even when a mass tragedy occurs,\u201d McLetchie added.",
+    "\n\u201c(The judge) also rejected arguments by the coroner\u2019s office that there were any privacy interests with regards to the autopsy of Stephen Paddock, let alone any that outweighed the strong presumption of access to records in Nevada.\u201d\n\u201cThe shooter\u2019s body was cremated Dec. 21,\" said Review-Journal Editor-in-Chief Keith Moyer added.",
+    "\n\"How can the autopsy report not be \u2018finalized\u2019 when the body was cremated more than five weeks ago?",
+    "\nThe law is squarely on the side of the public\u2019s right to open government.\u201d\nThat's exactly right!",
+    "\nSomething is rotten in Denmark!",
+    "\nOn top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",
+    "\nMcLetchie has been trying to obtain as much information for the public as possible, including video of Paddock at the Mandalay Bay Hotel and Casino.",
+    "\nHowever, she has been told by Las Vegas Metro Police Department attornies that they can't release that information until they finalize their investigation into other suspects which may also produce charges in the case.",
+    "\n\u201cThe coroner\u2019s office has fought to keep autopsy reports confidential,\u201d the Review-Journal.",
+    "\nThe coroner was ordered on January 11 to pay nearly $32,000 in legal costs to the Review-Journal because it refused to release public records.",
+    "\nWhile the preliminary report indicated the Paddock died of a gun shot wound to the head through the mouth, it's all the details that aren't given that seem to be problematic for the coroner to release.",
+    "\nBy the way, the toxicology report was not mentioned in the preliminary report.",
+    "\nArticle posted with permission from Sons Of Liberty Media"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 253,
+      "text": "Coroner Defies Court Order: Won't Release Las Vegas Shooter's Autopsy Report\n\nClark County Nevada Coroner John Fudenberg has determined to defy a court order from a district court judge to release the autopsy report of Las Vegas shooter Stephen Paddock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 253,
+      "end_ix": 492,
+      "text": "\nThough the order was issued on Tuesday, Fudenberg conferred with others and seems determined to not release the autopsy report until, as he said, it is \"finalized,\" The Las Vegas Review-Journal reported, which sued for the autopsy report.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 492,
+      "end_ix": 534,
+      "text": "\nSeriously, it's been four months already!",
+      "new_text": "\nIt's been four months already!",
+      "prop_spans": [
+        [
+          493,
+          502,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 534,
+      "end_ix": 562,
+      "text": "\nThe body has been cremated!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 562,
+      "end_ix": 707,
+      "text": "\nThe family finally got the remains in a box marked \"evidence\" over three months after the shooting and the autopsy report hasn't been finalized?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          563,
+          707,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 707,
+      "end_ix": 824,
+      "text": "\nWait, were the same guys in the autopsy room that were there when the doctors and coroners examined John F Kennedy ?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          707,
+          823,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 824,
+      "end_ix": 1064,
+      "text": "\n\u201cI don\u2019t believe this is consistent with what the court ordered,\u201d said Las Vegas attorney Maggie McLetchie, who represents the Las Vegas Review-Journal and The Associated Press in their November action demanding the release of the reports.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1064,
+      "end_ix": 1271,
+      "text": "\n\u201cThey (the coroner\u2019s office) have delayed this for too long, and whatever stage the coroner\u2019s report on Paddock is in, it should be provided to the Review-Journal and Associated Press without further delay.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1271,
+      "end_ix": 1286,
+      "text": "\nNo more games.",
+      "new_text": "\nNo more games.",
+      "prop_spans": [
+        [
+          1272,
+          1285,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          1272,
+          1285,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1286,
+      "end_ix": 1436,
+      "text": "\nRelease the records.\u201d\n\u201cThe court correctly recognized the presumption of public access to records, even when a mass tragedy occurs,\u201d McLetchie added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1436,
+      "end_ix": 1767,
+      "text": "\n\u201c(The judge) also rejected arguments by the coroner\u2019s office that there were any privacy interests with regards to the autopsy of Stephen Paddock, let alone any that outweighed the strong presumption of access to records in Nevada.\u201d\n\u201cThe shooter\u2019s body was cremated Dec. 21,\" said Review-Journal Editor-in-Chief Keith Moyer added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1767,
+      "end_ix": 1867,
+      "text": "\n\"How can the autopsy report not be \u2018finalized\u2019 when the body was cremated more than five weeks ago?",
+      "new_text": "\n\"How can the autopsy report not be \u2018finalized\u2019 when the body was cremated more than five weeks ago?",
+      "prop_spans": [
+        [
+          1769,
+          1866,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1867,
+      "end_ix": 1964,
+      "text": "\nThe law is squarely on the side of the public\u2019s right to open government.\u201d\nThat's exactly right!",
+      "new_text": "\nThe law is squarely on the side of the public\u2019s right to open government.\u201d\nThat's true",
+      "prop_spans": [
+        [
+          1943,
+          1964,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1964,
+      "end_ix": 1996,
+      "text": "\nSomething is rotten in Denmark!",
+      "new_text": "\nSomething is not right in Denmark",
+      "prop_spans": [
+        [
+          1964,
+          1995,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1996,
+      "end_ix": 2266,
+      "text": "\nOn top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",
+      "new_text": "\nOn top of that, the body might not be of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",
+      "prop_spans": [
+        [
+          1997,
+          2265,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2266,
+      "end_ix": 2415,
+      "text": "\nMcLetchie has been trying to obtain as much information for the public as possible, including video of Paddock at the Mandalay Bay Hotel and Casino.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2415,
+      "end_ix": 2634,
+      "text": "\nHowever, she has been told by Las Vegas Metro Police Department attornies that they can't release that information until they finalize their investigation into other suspects which may also produce charges in the case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2634,
+      "end_ix": 2726,
+      "text": "\n\u201cThe coroner\u2019s office has fought to keep autopsy reports confidential,\u201d the Review-Journal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2726,
+      "end_ix": 2869,
+      "text": "\nThe coroner was ordered on January 11 to pay nearly $32,000 in legal costs to the Review-Journal because it refused to release public records.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2869,
+      "end_ix": 3071,
+      "text": "\nWhile the preliminary report indicated the Paddock died of a gun shot wound to the head through the mouth, it's all the details that aren't given that seem to be problematic for the coroner to release.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3071,
+      "end_ix": 3150,
+      "text": "\nBy the way, the toxicology report was not mentioned in the preliminary report.",
+      "new_text": "\nThe toxicology report was not mentioned in the preliminary report.",
+      "prop_spans": [
+        [
+          3072,
+          3149,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3150,
+      "end_ix": 3208,
+      "text": "\nArticle posted with permission from Sons Of Liberty Media",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      493,
+      502,
+      "Loaded_Language"
+    ],
+    [
+      563,
+      823,
+      "Doubt"
+    ],
+    [
+      1272,
+      1285,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1272,
+      1285,
+      "Loaded_Language"
+    ],
+    [
+      1769,
+      1866,
+      "Doubt"
+    ],
+    [
+      1943,
+      1995,
+      "Loaded_Language"
+    ],
+    [
+      1997,
+      2265,
+      "Doubt"
+    ],
+    [
+      3072,
+      3149,
+      "Doubt"
+    ]
+  ]
+}

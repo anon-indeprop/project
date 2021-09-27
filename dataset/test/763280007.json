@@ -1,0 +1,942 @@
+{
+  "article_id": "763280007",
+  "sentence offsets in original": [
+    0,
+    121,
+    279,
+    352,
+    371,
+    390,
+    433,
+    501,
+    521,
+    542,
+    551,
+    587,
+    618,
+    727,
+    1227,
+    1332,
+    1479,
+    1593,
+    1772,
+    1945,
+    2016,
+    2045,
+    2076,
+    2134,
+    2330,
+    2388,
+    2515,
+    2553,
+    2663,
+    2781,
+    2924,
+    3128,
+    3366,
+    3520,
+    3683,
+    3929,
+    4007,
+    4035,
+    4090,
+    4115,
+    4153,
+    4186,
+    4271,
+    4327,
+    4407,
+    4436,
+    4477,
+    4523,
+    4570,
+    4777
+  ],
+  "original sentences": [
+    "Geert Wilders Puts the Political Elites On Notice\n\nGeert Wilders spoke at a massive rally for Tommy Robinson on Saturday.",
+    "\n20,000 people came out to call for Tommy\u2019s release, and Wilders took the opportunity to put the political elites of Britain and continental Europe on notice.",
+    "\n\u201cOur governments,\u201d Wilders declared, \u201csold us out with mass immigration.",
+    "\nWith Islamization.",
+    "\nWith open borders.",
+    "\nWe are almost foreigners in our own lands.",
+    "\nAnd if we complain about it, they call us racists and Islamophobes.",
+    "\nBut I say, no more!",
+    "\nAnd what do you say?",
+    "\nNo more!",
+    "\nAnd that\u2019s right: enough is enough.",
+    "\nWe will not be gagged anymore.",
+    "\nNo more tyranny.\u201d\nIt was extraordinary that the British authorities allowed Wilders into the country at all.",
+    "\nSeveral years ago he was banned from entering the country, but although the ban was reversed on appeal, the British government recently banned Martin Sellner, Brittany Pettibone, Lauren Southern and Lutz Bachmann from entering, all for the crime of opposing jihad terror and Sharia oppression, and thereby made it clear that it is more authoritarian and unwilling to uphold the freedom of speech than ever \u2013 at least when it comes to criticism of Islam, Muslim rape gangs, and mass Muslim migration.",
+    "\nEven worse, the bannings of Sellner, Pettibone, Southern, and Bachmann were just part of a long pattern.",
+    "\nPamela Geller and I were banned from entering Britain in 2013, apparently for life, also for the crime of telling the truth about Islam and jihad.",
+    "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers without a moment of hesitation.",
+    "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+    "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+    "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+    "\nSecond \u2013 burn them to death.",
+    "\nThird \u2013 throw \u2019em off a cliff.",
+    "\nFourth \u2013 tear down a wall on them so they die under that.",
+    "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s relentlessly appeasement-minded government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+    "\nOne of them was welcomed by the Archbishop of Canterbury.",
+    "\nMeanwhile, the UK banned three bishops from areas of Iraq and Syria where Christians are persecuted from entering the country.",
+    "\nBut now matters are coming to a head.",
+    "\nApparently British authorities decided that it would be too politically costly for them to bar Wilders again.",
+    "\nAnd so he entered, and spoke, and gave them a strong dose of the reality that they are determined to ignore and deny.",
+    "\nTommy Robinson is in prison today because he violated a court order demanding that he not film videos outside the trials of Muslim rape gangs.",
+    "\nClearly the government\u2019s intent was to make sure that as few people as possible discovered the truth about its massive, years-long cover-up of those rape gangs, and refusal to prosecute the perpetrators.",
+    "\nTheresa May and company obvious hope that other Britons who are furious about the sacrifice of thousands of British girls to the idols of \u201cdiversity\u201d and \u201cmulticulturalism\u201d will see what happened to Tommy, and be frightened into silence.",
+    "\nThe British government, in imprisoning Tommy Robinson, has shown itself willing to incarcerate people for having opinions that it considers unacceptable.",
+    "\nThat heralds the death of Britain as a free society and the beginning of an authoritarian police state there, unless this slide to totalitarianism is stopped now.",
+    "\nBritish public figures, whatever criticism they have leveled against Tommy Robinson in the past, should be calling for him to be freed today, or else they will be exposing themselves as supporting the degeneration of Britain into a police state.",
+    "\nWilders addressed this endeavor head-on, declaring: \u201cWe will not be silenced.",
+    "\nWe will not be intimidated.",
+    "\nAnd we tell the governments, we are not afraid of you.",
+    "\nWe will never surrender.",
+    "\nWe will stand strong and do our duty.",
+    "\nWe will defend our civilization.",
+    "\nAnd we will protect our people.\u201d\nWilders added: \u201cAnd I tell you, to the governments.",
+    "\nYou can throw us in jail, but you will never defeat us.",
+    "\nBecause, my friends, for every Tommy whom you imprison, thousands will rise up.",
+    "\nSo take notice, Theresa May.",
+    "\nTake notice, Dutch Prime Minister Rutte.",
+    "\nTake notice, Mrs. Merkel or President Macron.",
+    "\nTake notice: the future is ours and not yours.",
+    "\nWe will defeat you politically, because we, my friends, we are the people.\u201d\nIf Wilders\u2019 words don\u2019t prove true, it will be because the death of free societies in Britain and Western Europe is truly at hand.",
+    "\n[Photo by Jan Kranendonk]"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 121,
+      "text": "Geert Wilders Puts the Political Elites On Notice\n\nGeert Wilders spoke at a massive rally for Tommy Robinson on Saturday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 121,
+      "end_ix": 279,
+      "text": "\n20,000 people came out to call for Tommy\u2019s release, and Wilders took the opportunity to put the political elites of Britain and continental Europe on notice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 279,
+      "end_ix": 352,
+      "text": "\n\u201cOur governments,\u201d Wilders declared, \u201csold us out with mass immigration.",
+      "new_text": "\n\u201cOur governments,\u201d Wilders declared, \u201csold us out with mass immigration.",
+      "prop_spans": [
+        [
+          281,
+          296,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 352,
+      "end_ix": 371,
+      "text": "\nWith Islamization.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 371,
+      "end_ix": 390,
+      "text": "\nWith open borders.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 390,
+      "end_ix": 433,
+      "text": "\nWe are almost foreigners in our own lands.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 433,
+      "end_ix": 501,
+      "text": "\nAnd if we complain about it, they call us racists and Islamophobes.",
+      "new_text": "\nAnd if we complain about it, they call us racists and Islamophobes.",
+      "prop_spans": [
+        [
+          476,
+          500,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 501,
+      "end_ix": 521,
+      "text": "\nBut I say, no more!",
+      "new_text": "\nBut I say, no more!",
+      "prop_spans": [
+        [
+          513,
+          521,
+          "Repetition"
+        ],
+        [
+          513,
+          521,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 521,
+      "end_ix": 542,
+      "text": "\nAnd what do you say?",
+      "new_text": "\nAnd what do you say?",
+      "prop_spans": [
+        [
+          521,
+          521,
+          "Repetition"
+        ],
+        [
+          521,
+          521,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 542,
+      "end_ix": 551,
+      "text": "\nNo more!",
+      "new_text": "\nNo more!",
+      "prop_spans": [
+        [
+          543,
+          551,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 551,
+      "end_ix": 587,
+      "text": "\nAnd that\u2019s right: enough is enough.",
+      "new_text": "\nAnd that\u2019s right: enough is enough.",
+      "prop_spans": [
+        [
+          551,
+          551,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 587,
+      "end_ix": 618,
+      "text": "\nWe will not be gagged anymore.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 618,
+      "end_ix": 727,
+      "text": "\nNo more tyranny.\u201d\nIt was extraordinary that the British authorities allowed Wilders into the country at all.",
+      "new_text": "\nNo more tyranny.\u201d\nIt was extraordinary that the British authorities allowed Wilders into the country at all.",
+      "prop_spans": [
+        [
+          619,
+          626,
+          "Repetition"
+        ],
+        [
+          619,
+          634,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 727,
+      "end_ix": 1227,
+      "text": "\nSeveral years ago he was banned from entering the country, but although the ban was reversed on appeal, the British government recently banned Martin Sellner, Brittany Pettibone, Lauren Southern and Lutz Bachmann from entering, all for the crime of opposing jihad terror and Sharia oppression, and thereby made it clear that it is more authoritarian and unwilling to uphold the freedom of speech than ever \u2013 at least when it comes to criticism of Islam, Muslim rape gangs, and mass Muslim migration.",
+      "new_text": "\nSeveral years ago he was banned from entering the country, but although the ban was reversed on appeal, the British government recently banned Martin Sellner, Brittany Pettibone, Lauren Southern and Lutz Bachmann from entering, all for the crime of opposing jihad terror and Sharia oppression, and thereby made it clear that it is more authoritarian and unwilling to uphold the freedom of speech than ever \u2013 at least when it comes to criticism of Islam, rape gangs, and mass Muslim migration.",
+      "prop_spans": [
+        [
+          1182,
+          1199,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1227,
+      "end_ix": 1332,
+      "text": "\nEven worse, the bannings of Sellner, Pettibone, Southern, and Bachmann were just part of a long pattern.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1332,
+      "end_ix": 1479,
+      "text": "\nPamela Geller and I were banned from entering Britain in 2013, apparently for life, also for the crime of telling the truth about Islam and jihad.",
+      "new_text": "\nPamela Geller and I were banned from entering Britain in 2013, apparently for life, also for the crime of telling the truth i our opinion about Islam and jihad.",
+      "prop_spans": [
+        [
+          1447,
+          1478,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1479,
+      "end_ix": 1593,
+      "text": "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers without a moment of hesitation.",
+      "new_text": "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers.",
+      "prop_spans": [
+        [
+          1562,
+          1592,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1593,
+      "end_ix": 1772,
+      "text": "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+      "new_text": "\nSyed Muzaffar Shah Qadri\u2019s preaching of violence was so strict that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+      "prop_spans": [
+        [
+          1621,
+          1659,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1667,
+          1675,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1772,
+      "end_ix": 1945,
+      "text": "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1945,
+      "end_ix": 2016,
+      "text": "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2016,
+      "end_ix": 2045,
+      "text": "\nSecond \u2013 burn them to death.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2045,
+      "end_ix": 2076,
+      "text": "\nThird \u2013 throw \u2019em off a cliff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2076,
+      "end_ix": 2134,
+      "text": "\nFourth \u2013 tear down a wall on them so they die under that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2134,
+      "end_ix": 2330,
+      "text": "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s relentlessly appeasement-minded government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+      "new_text": "\nFifth \u2013 a combination of the above.\u201d\nTheresa May\u2019s government also admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+      "prop_spans": [
+        [
+          2186,
+          2217,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2330,
+      "end_ix": 2388,
+      "text": "\nOne of them was welcomed by the Archbishop of Canterbury.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2388,
+      "end_ix": 2515,
+      "text": "\nMeanwhile, the UK banned three bishops from areas of Iraq and Syria where Christians are persecuted from entering the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2515,
+      "end_ix": 2553,
+      "text": "\nBut now matters are coming to a head.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2553,
+      "end_ix": 2663,
+      "text": "\nApparently British authorities decided that it would be too politically costly for them to bar Wilders again.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2663,
+      "end_ix": 2781,
+      "text": "\nAnd so he entered, and spoke, and gave them a strong dose of the reality that they are determined to ignore and deny.",
+      "new_text": "\nAnd so he entered, and spoke, and gave them a strong dose of the reality that they are determined to ignore and deny.",
+      "prop_spans": [
+        [
+          2729,
+          2736,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2781,
+      "end_ix": 2924,
+      "text": "\nTommy Robinson is in prison today because he violated a court order demanding that he not film videos outside the trials of Muslim rape gangs.",
+      "new_text": "\nTommy Robinson is in prison today because he violated a court order demanding that he not film videos outside the trials of the rape gangs.",
+      "prop_spans": [
+        [
+          2906,
+          2923,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2924,
+      "end_ix": 3128,
+      "text": "\nClearly the government\u2019s intent was to make sure that as few people as possible discovered the truth about its massive, years-long cover-up of those rape gangs, and refusal to prosecute the perpetrators.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2933,
+          3025,
+          "Straw_Men"
+        ],
+        [
+          3074,
+          3084,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3128,
+      "end_ix": 3366,
+      "text": "\nTheresa May and company obvious hope that other Britons who are furious about the sacrifice of thousands of British girls to the idols of \u201cdiversity\u201d and \u201cmulticulturalism\u201d will see what happened to Tommy, and be frightened into silence.",
+      "new_text": "\nTheresa May and company obvious hope that other Britons who are furious about the giving up of thousands of girls to the idols of \u201cdiversity\u201d and \u201cmulticulturalism\u201d will see what happened to Tommy, and be frightened into silence.",
+      "prop_spans": [
+        [
+          3211,
+          3233,
+          "Loaded_Language"
+        ],
+        [
+          3237,
+          3250,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3366,
+      "end_ix": 3520,
+      "text": "\nThe British government, in imprisoning Tommy Robinson, has shown itself willing to incarcerate people for having opinions that it considers unacceptable.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3520,
+      "end_ix": 3683,
+      "text": "\nThat heralds the death of Britain as a free society and the beginning of an authoritarian police state there, unless this slide to totalitarianism is stopped now.",
+      "new_text": "\nThat heralds the end of us as a free society and the beginning of a dictatorial police state there, unless some measure is taken.",
+      "prop_spans": [
+        [
+          3534,
+          3572,
+          "Loaded_Language"
+        ],
+        [
+          3547,
+          3572,
+          "Flag-Waving"
+        ],
+        [
+          3581,
+          3623,
+          "Loaded_Language"
+        ],
+        [
+          3631,
+          3682,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3683,
+      "end_ix": 3929,
+      "text": "\nBritish public figures, whatever criticism they have leveled against Tommy Robinson in the past, should be calling for him to be freed today, or else they will be exposing themselves as supporting the degeneration of Britain into a police state.",
+      "new_text": "\nBritish public figures, whatever criticism they have leveled against Tommy Robinson in the past, should be calling for him to be freed today.",
+      "prop_spans": [
+        [
+          3826,
+          3908,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3929,
+      "end_ix": 4007,
+      "text": "\nWilders addressed this endeavor head-on, declaring: \u201cWe will not be silenced.",
+      "new_text": "\nWilders addressed this endeavor head-on, declaring: \u201cWe will not be silenced.",
+      "prop_spans": [
+        [
+          3983,
+          4006,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4007,
+      "end_ix": 4035,
+      "text": "\nWe will not be intimidated.",
+      "new_text": "\nWe will not be intimidated.",
+      "prop_spans": [
+        [
+          4008,
+          4034,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4035,
+      "end_ix": 4090,
+      "text": "\nAnd we tell the governments, we are not afraid of you.",
+      "new_text": "\nAnd we tell the governments, we are not afraid of you.",
+      "prop_spans": [
+        [
+          4036,
+          4089,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4090,
+      "end_ix": 4115,
+      "text": "\nWe will never surrender.",
+      "new_text": "\nWe will never surrender.",
+      "prop_spans": [
+        [
+          4091,
+          4114,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4115,
+      "end_ix": 4153,
+      "text": "\nWe will stand strong and do our duty.",
+      "new_text": "\nWe will stand strong and do our duty.",
+      "prop_spans": [
+        [
+          4116,
+          4152,
+          "Slogans"
+        ],
+        [
+          4141,
+          4152,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4153,
+      "end_ix": 4186,
+      "text": "\nWe will defend our civilization.",
+      "new_text": "\nWe will defend our civilization.",
+      "prop_spans": [
+        [
+          4154,
+          4185,
+          "Slogans"
+        ],
+        [
+          4169,
+          4185,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4186,
+      "end_ix": 4271,
+      "text": "\nAnd we will protect our people.\u201d\nWilders added: \u201cAnd I tell you, to the governments.",
+      "new_text": "\nAnd we will protect our people.\u201d\nWilders added: \u201cAnd I tell you, to the governments.",
+      "prop_spans": [
+        [
+          4187,
+          4217,
+          "Slogans"
+        ],
+        [
+          4207,
+          4217,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4271,
+      "end_ix": 4327,
+      "text": "\nYou can throw us in jail, but you will never defeat us.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4327,
+      "end_ix": 4407,
+      "text": "\nBecause, my friends, for every Tommy whom you imprison, thousands will rise up.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4407,
+      "end_ix": 4436,
+      "text": "\nSo take notice, Theresa May.",
+      "new_text": "\nSo take notice, Theresa May.",
+      "prop_spans": [
+        [
+          4411,
+          4422,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4436,
+      "end_ix": 4477,
+      "text": "\nTake notice, Dutch Prime Minister Rutte.",
+      "new_text": "\nTake notice, Dutch Prime Minister Rutte.",
+      "prop_spans": [
+        [
+          4437,
+          4448,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4477,
+      "end_ix": 4523,
+      "text": "\nTake notice, Mrs. Merkel or President Macron.",
+      "new_text": "\nTake notice, Mrs. Merkel or President Macron.",
+      "prop_spans": [
+        [
+          4478,
+          4489,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4523,
+      "end_ix": 4570,
+      "text": "\nTake notice: the future is ours and not yours.",
+      "new_text": "\nTake notice: the future is ours and not yours.",
+      "prop_spans": [
+        [
+          4524,
+          4535,
+          "Repetition"
+        ],
+        [
+          4537,
+          4555,
+          "Flag-Waving"
+        ],
+        [
+          4537,
+          4569,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4570,
+      "end_ix": 4777,
+      "text": "\nWe will defeat you politically, because we, my friends, we are the people.\u201d\nIf Wilders\u2019 words don\u2019t prove true, it will be because the death of free societies in Britain and Western Europe is truly at hand.",
+      "new_text": "\nWe will defeat you politically, because we, my friends, we are the people.\u201d\nIf Wilders\u2019 words don\u2019t prove true, it will be maybe because of the end of free societies in Britain and Western Europe.",
+      "prop_spans": [
+        [
+          4627,
+          4644,
+          "Flag-Waving"
+        ],
+        [
+          4627,
+          4644,
+          "Slogans"
+        ],
+        [
+          4647,
+          4777,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4777,
+      "end_ix": 4803,
+      "text": "\n[Photo by Jan Kranendonk]",
+      "new_text": "\n[Photo by Jan Kranendonk]",
+      "prop_spans": [
+        [
+          4777,
+          4778,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      281,
+      296,
+      "Flag-Waving"
+    ],
+    [
+      476,
+      500,
+      "Name_Calling,Labeling"
+    ],
+    [
+      513,
+      521,
+      "Repetition"
+    ],
+    [
+      513,
+      521,
+      "Slogans"
+    ],
+    [
+      543,
+      551,
+      "Slogans"
+    ],
+    [
+      619,
+      626,
+      "Repetition"
+    ],
+    [
+      619,
+      634,
+      "Slogans"
+    ],
+    [
+      1182,
+      1199,
+      "Repetition"
+    ],
+    [
+      1447,
+      1478,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      1562,
+      1592,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1621,
+      1659,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1667,
+      1675,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2186,
+      2217,
+      "Loaded_Language"
+    ],
+    [
+      2729,
+      2736,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2906,
+      2923,
+      "Repetition"
+    ],
+    [
+      2933,
+      3025,
+      "Straw_Men"
+    ],
+    [
+      3074,
+      3084,
+      "Repetition"
+    ],
+    [
+      3211,
+      3233,
+      "Loaded_Language"
+    ],
+    [
+      3237,
+      3250,
+      "Flag-Waving"
+    ],
+    [
+      3534,
+      3572,
+      "Loaded_Language"
+    ],
+    [
+      3547,
+      3572,
+      "Flag-Waving"
+    ],
+    [
+      3581,
+      3623,
+      "Loaded_Language"
+    ],
+    [
+      3631,
+      3682,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      3826,
+      3908,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      3983,
+      4006,
+      "Slogans"
+    ],
+    [
+      4008,
+      4034,
+      "Slogans"
+    ],
+    [
+      4036,
+      4089,
+      "Slogans"
+    ],
+    [
+      4091,
+      4114,
+      "Slogans"
+    ],
+    [
+      4116,
+      4152,
+      "Slogans"
+    ],
+    [
+      4141,
+      4152,
+      "Flag-Waving"
+    ],
+    [
+      4154,
+      4185,
+      "Slogans"
+    ],
+    [
+      4169,
+      4185,
+      "Flag-Waving"
+    ],
+    [
+      4187,
+      4217,
+      "Slogans"
+    ],
+    [
+      4207,
+      4217,
+      "Flag-Waving"
+    ],
+    [
+      4411,
+      4422,
+      "Repetition"
+    ],
+    [
+      4437,
+      4448,
+      "Repetition"
+    ],
+    [
+      4478,
+      4489,
+      "Repetition"
+    ],
+    [
+      4524,
+      4535,
+      "Repetition"
+    ],
+    [
+      4537,
+      4555,
+      "Flag-Waving"
+    ],
+    [
+      4537,
+      4569,
+      "Slogans"
+    ],
+    [
+      4627,
+      4644,
+      "Flag-Waving"
+    ],
+    [
+      4627,
+      4644,
+      "Slogans"
+    ],
+    [
+      4647,
+      4778,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

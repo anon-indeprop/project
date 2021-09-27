@@ -1,0 +1,483 @@
+{
+  "article_id": "111111113",
+  "sentence offsets in original": [
+    0,
+    468,
+    667,
+    817,
+    934,
+    1127,
+    1316,
+    1511,
+    1748,
+    1929,
+    2008,
+    2285,
+    2423,
+    2805,
+    2962,
+    3163,
+    3263,
+    3408,
+    3577,
+    3800,
+    3985,
+    4177,
+    4317,
+    4520,
+    4741,
+    5007,
+    5128,
+    5336,
+    5553,
+    5723,
+    5774,
+    5791,
+    5806,
+    5978,
+    6155,
+    6255
+  ],
+  "original sentences": [
+    "Kate Steinle's death at the hands of a Mexican national became a flashpoint in the immigration debate \u2014 here's the story behind her killing\n\nThe surprise acquittal of Jose Ines Garcia Zarate in the shooting death of San Francisco woman Kate Steinle set off a firestorm of outrage Thursday night, as top conservatives and critics of so-called \"sanctuary cities\" pinned blame for Steinle's death on illegal immigration and insufficiently aggressive deportation policies.",
+    "\n\nGarcia Zarate, a 45-year-old Mexican national who was homeless and living in the US illegally when he fired the shot that killed Steinle, was acquitted by a jury on murder and manslaughter charges.",
+    "\nThe jury convicted him of the lesser charge of being a felon in possession of a gun, which carries a maximum sentence of three years in state prison.",
+    "\n\nSteinle, 32, was fatally shot while she walked along Pier 14 of the San Francisco Bay with her father in July 2015.",
+    "\nThe bullet that pierced her back had ricocheted off the concrete ground after it was fired by Garcia Zarate from a handgun belonging to a federal ranger that had been stolen four days earlier.",
+    "\n\nGarcia Zarate's defense attorneys argued that the shooting was an accident \u2014 they said he found the gun wrapped in a T-shirt or cloth under a pier bench and unintentionally discharged it.",
+    "\nLead attorney Matt Gonzalez has argued that the weapon was a SIG Sauer with a \"hair trigger in single-action mode\" \u2014 a model well-known for accidental discharges even among experienced shooters.",
+    "\nGonzalez told the jury, according to the San Francisco Chronicle, that Garcia Zarate had never handled a firearm before, was frightened by the noise of the gunshot, then flung the weapon into the bay where it was later found by a diver.",
+    "\n\nProsecutors, however, alleged that Garcia Zarate brought the weapon to the pier deliberately to do harm, and intentionally aimed and shot Steinle after firmly pulling the trigger.",
+    "\nThey said Garcia Zarate then threw the weapon into the bay and fled the scene.",
+    "\n\nBeyond the shooting itself, perhaps the most controversial aspect of Garcia Zarate's case involves his previous criminal activity and history of deportations, and how San Francisco and federal authorities handled his custody before he ever picked up the gun and shot Steinle.",
+    "\nAt the time of Steinle's death, Garcia Zarate had been convicted of nonviolent drug crimes and deported five times since the early 1990s.",
+    "\n\nHe faced a sixth deportation in 2015, and was in Justice Department (DOJ) custody that March after serving 46 months in prison for a felony re-entry into the US, but instead of transferring him into the custody of Immigration and Customs Enforcement (ICE) for deportation, the department transferred him to the San Francisco County Jail for prosecution of a 1995 marijuana charge.",
+    "\n\nSan Francisco prosecutors, who had long ago deprioritized marijuana charges, dismissed the decades-old charge and released Garcia Zarate on April 15, 2015.",
+    "\nDue to San Francisco's policy of limiting cooperation with federal immigration authorities \u2014 which some refer to as a \"sanctuary\" policy \u2014 the city did not inform ICE when they released Garcia Zarate.",
+    "\n\nAs a result of the case, both the DOJ and the city of San Francisco have changed several policies.",
+    "\nThe DOJ announced in 2016 it would no longer release potentially deportable detainees to local jails without first allowing ICE to take custody.",
+    "\nSan Francisco, meanwhile, has adjusted its policy to notify ICE if they are releasing suspected undocumented immigrants who face charges of serious or violent felonies.",
+    "\n\n\"This tragedy could have been prevented if San Francisco had simply turned the alien over to ICE as we requested, instead of releasing him back onto the streets,\" ICE Director Thomas Homan said in a statement on Thursday.",
+    "\n\"It is unconscionable that politicians across this country continue to endanger the lives of Americans with sanctuary policies while ignoring the harm inflicted on their constituents.\"",
+    "\n\nBut ICE has faced criticism of its own over not seeking a judicial warrant to legally obtain custody of Garcia Zarate when it discovered he had been transferred into San Francisco's custody.",
+    "\nThe agency has argued that obtaining judicial warrants are unnecessary and would place too much burden on ICE officials and federal courts.",
+    "\n\nThough the agency did issue a request to the city to detain Garcia Zarate until ICE officials could pick him up, their detainer requests are not signed by a judge and are therefore not legally binding.",
+    "\nSan Francisco's policy is to ignore such requests if they are not accompanied by judge-signed warrants, and the city has cited federal court cases concluding that such detentions violate inmates' Fourth Amendment rights.",
+    "\n\nGarcia Zarate's deportation and criminal history made him an effective target for immigration hardliners, who argued that Steinle would still be alive were it not for an insecure border and lenient treatment toward suspected undocumented immigrants in local jails.",
+    "\nPresident Donald Trump immediately seized on the verdict on Thursday as evidence of the perils of \"Illegal Immigration.\"",
+    "\nTrump frequently villainized Garcia Zarate and cited Steinle's death during his presidential campaign, using the case to bolster his argument for a border wall and aid his crusade against \"sanctuary cities.\"",
+    "\n\nEarly on Friday, Trump also falsely claimed on Twitter that Garcia Zarate had previously committed violent crimes and had illegally entered the US six times due to lax border security under the Obama administration.",
+    "\n\n\"The Kate Steinle killer came back and back over the weakly protected Obama border, always committing crimes and being violent, and yet this info was not used in court.",
+    "\nHis exoneration is a complete travesty of justice.",
+    "\nBUILD THE WALL!\"",
+    "\nTrump tweeted.",
+    "\n\nIn fact, Garcia Zarate had never been convicted of a violent crime before Steinle's shooting \u2014 his previous convictions were for nonviolent drug crimes and illegal entry.",
+    "\nLax border security, too, does not appear to be a factor since Garcia Zarate was caught by border patrol agents each time he entered the country under the Obama administration.",
+    "\n\nIn contrast, Steinle's family has expressed nuanced views on immigration and \"sanctuary\" policies.",
+    "\nThey have both condemned Trump for \"sensationalizing\" Steinle's death to advance anti-immigration policies, and expressed frustration with San Francisco officials, who they believe went too far in refusing to cooperate with federal immigration authorities."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 468,
+      "text": "Kate Steinle's death at the hands of a Mexican national became a flashpoint in the immigration debate \u2014 here's the story behind her killing\n\nThe surprise acquittal of Jose Ines Garcia Zarate in the shooting death of San Francisco woman Kate Steinle set off a firestorm of outrage Thursday night, as top conservatives and critics of so-called \"sanctuary cities\" pinned blame for Steinle's death on illegal immigration and insufficiently aggressive deportation policies.",
+      "new_text": "Kate Steinle's death at the hands of a Mexican national became a flashpoint in the immigration debate \u2014 here's the story behind her killing\n\nThe surprise acquittal of Jose Ines Garcia Zarate in the shooting death of San Francisco woman Kate Steinle set off an outrage Thursday night, as top conservatives and critics of so-called \"sanctuary cities\" pinned blame for Steinle's death on the possible illegal immigration and insufficiently aggressive deportation policies.",
+      "prop_spans": [
+        [
+          259,
+          280,
+          "Loaded_Language"
+        ],
+        [
+          361,
+          468,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 468,
+      "end_ix": 667,
+      "text": "\n\nGarcia Zarate, a 45-year-old Mexican national who was homeless and living in the US illegally when he fired the shot that killed Steinle, was acquitted by a jury on murder and manslaughter charges.",
+      "new_text": "\n\nGarcia Zarate, a 45-year-old Mexican national who was homeless and living in the US illegally when he fired the shot that killed Steinle, was acquitted by a jury on murder and manslaughter charges.",
+      "prop_spans": [
+        [
+          468,
+          469,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 667,
+      "end_ix": 817,
+      "text": "\nThe jury convicted him of the lesser charge of being a felon in possession of a gun, which carries a maximum sentence of three years in state prison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 817,
+      "end_ix": 934,
+      "text": "\n\nSteinle, 32, was fatally shot while she walked along Pier 14 of the San Francisco Bay with her father in July 2015.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 934,
+      "end_ix": 1127,
+      "text": "\nThe bullet that pierced her back had ricocheted off the concrete ground after it was fired by Garcia Zarate from a handgun belonging to a federal ranger that had been stolen four days earlier.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1127,
+      "end_ix": 1316,
+      "text": "\n\nGarcia Zarate's defense attorneys argued that the shooting was an accident \u2014 they said he found the gun wrapped in a T-shirt or cloth under a pier bench and unintentionally discharged it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1316,
+      "end_ix": 1511,
+      "text": "\nLead attorney Matt Gonzalez has argued that the weapon was a SIG Sauer with a \"hair trigger in single-action mode\" \u2014 a model well-known for accidental discharges even among experienced shooters.",
+      "new_text": "\nLead attorney Matt Gonzalez has argued that the weapon was a SIG Sauer with a \"hair trigger in single-action mode\" \u2014 a model well-known for accidental discharges even among experienced shooters.",
+      "prop_spans": [
+        [
+          1396,
+          1430,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1511,
+      "end_ix": 1748,
+      "text": "\nGonzalez told the jury, according to the San Francisco Chronicle, that Garcia Zarate had never handled a firearm before, was frightened by the noise of the gunshot, then flung the weapon into the bay where it was later found by a diver.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1748,
+      "end_ix": 1929,
+      "text": "\n\nProsecutors, however, alleged that Garcia Zarate brought the weapon to the pier deliberately to do harm, and intentionally aimed and shot Steinle after firmly pulling the trigger.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1929,
+      "end_ix": 2008,
+      "text": "\nThey said Garcia Zarate then threw the weapon into the bay and fled the scene.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2008,
+      "end_ix": 2285,
+      "text": "\n\nBeyond the shooting itself, perhaps the most controversial aspect of Garcia Zarate's case involves his previous criminal activity and history of deportations, and how San Francisco and federal authorities handled his custody before he ever picked up the gun and shot Steinle.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2285,
+      "end_ix": 2423,
+      "text": "\nAt the time of Steinle's death, Garcia Zarate had been convicted of nonviolent drug crimes and deported five times since the early 1990s.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2423,
+      "end_ix": 2805,
+      "text": "\n\nHe faced a sixth deportation in 2015, and was in Justice Department (DOJ) custody that March after serving 46 months in prison for a felony re-entry into the US, but instead of transferring him into the custody of Immigration and Customs Enforcement (ICE) for deportation, the department transferred him to the San Francisco County Jail for prosecution of a 1995 marijuana charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2805,
+      "end_ix": 2962,
+      "text": "\n\nSan Francisco prosecutors, who had long ago deprioritized marijuana charges, dismissed the decades-old charge and released Garcia Zarate on April 15, 2015.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2962,
+      "end_ix": 3163,
+      "text": "\nDue to San Francisco's policy of limiting cooperation with federal immigration authorities \u2014 which some refer to as a \"sanctuary\" policy \u2014 the city did not inform ICE when they released Garcia Zarate.",
+      "new_text": "\nDue to San Francisco's policy of limiting cooperation with federal immigration authorities \u2014 the city did not inform ICE when they released Garcia Zarate.",
+      "prop_spans": [
+        [
+          3082,
+          3099,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3163,
+      "end_ix": 3263,
+      "text": "\n\nAs a result of the case, both the DOJ and the city of San Francisco have changed several policies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3263,
+      "end_ix": 3408,
+      "text": "\nThe DOJ announced in 2016 it would no longer release potentially deportable detainees to local jails without first allowing ICE to take custody.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3408,
+      "end_ix": 3577,
+      "text": "\nSan Francisco, meanwhile, has adjusted its policy to notify ICE if they are releasing suspected undocumented immigrants who face charges of serious or violent felonies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3577,
+      "end_ix": 3800,
+      "text": "\n\n\"This tragedy could have been prevented if San Francisco had simply turned the alien over to ICE as we requested, instead of releasing him back onto the streets,\" ICE Director Thomas Homan said in a statement on Thursday.",
+      "new_text": "\n\n\"This tragedy could have been prevented if San Francisco had simply turned the alien over to ICE as we requested, instead of releasing him back onto the streets,\" ICE Director Thomas Homan said in a statement on Thursday.",
+      "prop_spans": [
+        [
+          3580,
+          3741,
+          "Causal_Oversimplification"
+        ],
+        [
+          3658,
+          3664,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3800,
+      "end_ix": 3985,
+      "text": "\n\"It is unconscionable that politicians across this country continue to endanger the lives of Americans with sanctuary policies while ignoring the harm inflicted on their constituents.\"",
+      "new_text": "\n\"It is unconscionable that politicians across this country continue to endanger the lives of Americans with sanctuary policies while ignoring the harm inflicted on their constituents.\"",
+      "prop_spans": [
+        [
+          3828,
+          3985,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3985,
+      "end_ix": 4177,
+      "text": "\n\nBut ICE has faced criticism of its own over not seeking a judicial warrant to legally obtain custody of Garcia Zarate when it discovered he had been transferred into San Francisco's custody.",
+      "new_text": "\n\nBut ICE has faced criticism of its own over not seeking a judicial warrant to legally obtain custody of Garcia Zarate when it discovered he had been transferred into San Francisco's custody.",
+      "prop_spans": [
+        [
+          3985,
+          3985,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4177,
+      "end_ix": 4317,
+      "text": "\nThe agency has argued that obtaining judicial warrants are unnecessary and would place too much burden on ICE officials and federal courts.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4317,
+      "end_ix": 4520,
+      "text": "\n\nThough the agency did issue a request to the city to detain Garcia Zarate until ICE officials could pick him up, their detainer requests are not signed by a judge and are therefore not legally binding.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4520,
+      "end_ix": 4741,
+      "text": "\nSan Francisco's policy is to ignore such requests if they are not accompanied by judge-signed warrants, and the city has cited federal court cases concluding that such detentions violate inmates' Fourth Amendment rights.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4741,
+      "end_ix": 5007,
+      "text": "\n\nGarcia Zarate's deportation and criminal history made him an effective target for immigration hardliners, who argued that Steinle would still be alive were it not for an insecure border and lenient treatment toward suspected undocumented immigrants in local jails.",
+      "new_text": "\n\nGarcia Zarate's deportation and criminal history made him an effective target for immigration hardliners, who argued that Steinle would possibly have higher chance of survival if not for an insecure border and lenient treatment toward suspected undocumented immigrants in local jails.",
+      "prop_spans": [
+        [
+          4865,
+          5007,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5007,
+      "end_ix": 5128,
+      "text": "\nPresident Donald Trump immediately seized on the verdict on Thursday as evidence of the perils of \"Illegal Immigration.\"",
+      "new_text": "\nPresident Donald Trump immediately seized on the verdict on Thursday as evidence of the perils of \"Illegal Immigration.\"",
+      "prop_spans": [
+        [
+          5007,
+          5007,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5128,
+      "end_ix": 5336,
+      "text": "\nTrump frequently villainized Garcia Zarate and cited Steinle's death during his presidential campaign, using the case to bolster his argument for a border wall and aid his crusade against \"sanctuary cities.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5336,
+      "end_ix": 5553,
+      "text": "\n\nEarly on Friday, Trump also falsely claimed on Twitter that Garcia Zarate had previously committed violent crimes and had illegally entered the US six times due to lax border security under the Obama administration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5553,
+      "end_ix": 5723,
+      "text": "\n\n\"The Kate Steinle killer came back and back over the weakly protected Obama border, always committing crimes and being violent, and yet this info was not used in court.",
+      "new_text": "\n\n\"The Kate Steinle killer came back and back over the weakly protected Obama border, always committing crimes and being violent, and yet this info was not used in court.",
+      "prop_spans": [
+        [
+          5556,
+          5580,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5723,
+      "end_ix": 5774,
+      "text": "\nHis exoneration is a complete travesty of justice.",
+      "new_text": "\nHis exoneration is a complete travesty of justice.",
+      "prop_spans": [
+        [
+          5743,
+          5774,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5774,
+      "end_ix": 5791,
+      "text": "\nBUILD THE WALL!\"",
+      "new_text": "\nBUILD THE WALL!\"",
+      "prop_spans": [
+        [
+          5774,
+          5774,
+          "Loaded_Language"
+        ],
+        [
+          5775,
+          5791,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5791,
+      "end_ix": 5806,
+      "text": "\nTrump tweeted.",
+      "new_text": "\nTrump tweeted.",
+      "prop_spans": [
+        [
+          5791,
+          5791,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5806,
+      "end_ix": 5978,
+      "text": "\n\nIn fact, Garcia Zarate had never been convicted of a violent crime before Steinle's shooting \u2014 his previous convictions were for nonviolent drug crimes and illegal entry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5978,
+      "end_ix": 6155,
+      "text": "\nLax border security, too, does not appear to be a factor since Garcia Zarate was caught by border patrol agents each time he entered the country under the Obama administration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6155,
+      "end_ix": 6255,
+      "text": "\n\nIn contrast, Steinle's family has expressed nuanced views on immigration and \"sanctuary\" policies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6255,
+      "end_ix": 6512,
+      "text": "\nThey have both condemned Trump for \"sensationalizing\" Steinle's death to advance anti-immigration policies, and expressed frustration with San Francisco officials, who they believe went too far in refusing to cooperate with federal immigration authorities.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      259,
+      280,
+      "Loaded_Language"
+    ],
+    [
+      361,
+      469,
+      "Causal_Oversimplification"
+    ],
+    [
+      1396,
+      1430,
+      "Loaded_Language"
+    ],
+    [
+      3082,
+      3099,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3580,
+      3741,
+      "Causal_Oversimplification"
+    ],
+    [
+      3658,
+      3664,
+      "Loaded_Language"
+    ],
+    [
+      3828,
+      3985,
+      "Whataboutism"
+    ],
+    [
+      4865,
+      5007,
+      "Causal_Oversimplification"
+    ],
+    [
+      5556,
+      5580,
+      "Name_Calling,Labeling"
+    ],
+    [
+      5743,
+      5774,
+      "Loaded_Language"
+    ],
+    [
+      5775,
+      5791,
+      "Slogans"
+    ]
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "article_id": "776345502",
+  "sentence offsets in original": [
+    0,
+    129,
+    332,
+    359,
+    373,
+    514,
+    535,
+    562,
+    576,
+    1534,
+    1784,
+    1908,
+    1953,
+    2047,
+    2103,
+    2159,
+    2188,
+    2218,
+    2299,
+    2381,
+    2409,
+    2472,
+    2694,
+    2773,
+    3001,
+    3148,
+    3361,
+    3514,
+    3719,
+    3866,
+    3977,
+    4146
+  ],
+  "original sentences": [
+    "Trump To Jeff Sessions: Put An End to Russia Probe - Prosecutors Doing Mueller\u2019s \u2018Dirty Work Are A Disgrace\u2019 To America\n\nFinally.",
+    "\nPresident Donald Trump took to Twitter Wednesday to call on his Attorney General Jeff Sessions to shut down special counsel Robert Mueller\u2019s investigation into Russian interference in the 2016 election.",
+    "\nSessions is a weak sister.",
+    "\nHe has to go.",
+    "\nThis leftwing witch hunt has been ongoing since day one of Trump\u2019s presidency in order to impair and impede his ability to get the job done.",
+    "\nIt\u2019s a stealth coup.",
+    "\nSessions is a weak sister.",
+    "\nHe has to go.",
+    "\nBREAKING NEWS: TRUMP TELLS JEFF SESSIONS TO PUT AN END TO RUSSIA PROBE AS HE CLAIMS PROSECUTORS DOING MUELLER\u2019S \u2018DIRTY WORK ARE A DISGRACE\u2019 TO AMERICA\nWhite House WON\u2019T say if Trump will order Jeff Sessions to fire Robert Mueller\nBut the president tweeted Wednesday that Sessions should end Mueller\u2019s probe\nSessions recused himself from Russia-election-meddling matters in March 2017\nThat led to Mueller\u2019s appointment as an outside investigator, not loyal to Trump\nNew tension comes as former Trump campaign chair Paul Manafort goes on trial, facing unrelated financial-crime charges, with Mueller\u2019s team prosecuting him\nDonald Trump has ratcheted up his pressure on Attorney General Jeff Sessions, saying in a tweet that the Attorney General of the United States should step in and put an end to Special Counsel Robert Mueller\u2019s long-running Russia probe\n\u2018Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now,\u2019 the president tweeted.",
+    "\n\u2018Bob Mueller is totally conflicted, and his 17 Angry Democrats that are doing his dirty work are a disgrace to USA!\u2019\nThe White House ignored a Wednesday Wednesday about whether Trump will push the envelope further and order Sessions to fire Mueller.",
+    "\nTrump\u2019s mention of 17 prosecution lawyers is a reference to what he claims is an abundance of Democrats on Mueller\u2019s staff.",
+    "\nThe special counsel himself is a Republican.",
+    "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nSessions, who was a Trump campaign adviser and the first sitting senator to endorse his candidacy, recused himself from the Russia probe in March 2016 because he expected the campaign to be one focus of the investigation.",
+    "\nThat gave the reins to his deputy Rod Rosenstein, who later appointed Mueller.",
+    "\nTrump has publicly criticized Sessions before, tweeting in June that the Mueller \u2018witch hunt\u2019 was only proceeding \u2018because Jeff Sessions didn\u2019t tell me he was going to recuse himself.\u2019\n\u2018I would have quickly picked someone else.",
+    "\nSo much time and money wasted, so many lives ruined \u2026 and Sessions knew better than most that there was No Collusion\u2019 with the Kremlin,\u2019 he added.",
+    "\nThe new tensions between the president and the nation\u2019s top law enforcer come as Mueller\u2019s team is prosecuting former Trump campaign chairman Paul Manafort on money laundering, tax evasion and bank fraud charges.",
+    "\nThe allegations in that trial, which began Tuesday, are related to Manafort\u2019s financial dealings long before he was involved in the 2016 election cycle.",
+    "\nBut firing Mueller would likely send a signal to Democrats that the White House is worried about potential blowback from a Manafort conviction just three months before the congressional midterm elections.",
+    "\nStill, Trump went all-in with a new intensity on Wednesday, opening up on Mueller and his team with both barrels of his massive Twitter following.",
+    "\n\u2018Russian Collusion with the Trump Campaign, one of the most successful in history, is a TOTAL HOAX,\u2019 he wrote.",
+    "\n\u2018The Democrats paid for the phony and discredited Dossier which was, along with Comey, McCabe, Strzok and his lover, the lovely Lisa Page, used to begin the Witch Hunt.",
+    "\nDisgraceful!\u2019"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 129,
+      "text": "Trump To Jeff Sessions: Put An End to Russia Probe - Prosecutors Doing Mueller\u2019s \u2018Dirty Work Are A Disgrace\u2019 To America\n\nFinally.",
+      "new_text": "Trump To Jeff Sessions: Put An End to Russia Probe\n\nFinally.",
+      "prop_spans": [
+        [
+          53,
+          119,
+          "Flag-Waving"
+        ],
+        [
+          82,
+          93,
+          "Loaded_Language"
+        ],
+        [
+          97,
+          119,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 129,
+      "end_ix": 332,
+      "text": "\nPresident Donald Trump took to Twitter Wednesday to call on his Attorney General Jeff Sessions to shut down special counsel Robert Mueller\u2019s investigation into Russian interference in the 2016 election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 332,
+      "end_ix": 359,
+      "text": "\nSessions is a weak sister.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          333,
+          358,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 359,
+      "end_ix": 373,
+      "text": "\nHe has to go.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 373,
+      "end_ix": 514,
+      "text": "\nThis leftwing witch hunt has been ongoing since day one of Trump\u2019s presidency in order to impair and impede his ability to get the job done.",
+      "new_text": "\nThis alledgedly witch hunt has been supposedly ongoing since day one of Trump\u2019s presidency possibly to impair and impede his ability to get the job done.",
+      "prop_spans": [
+        [
+          374,
+          513,
+          "Causal_Oversimplification"
+        ],
+        [
+          379,
+          399,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 514,
+      "end_ix": 535,
+      "text": "\nIt\u2019s a stealth coup.",
+      "new_text": "\nIt\u2019s a possible change of power.",
+      "prop_spans": [
+        [
+          520,
+          534,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 535,
+      "end_ix": 562,
+      "text": "\nSessions is a weak sister.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 562,
+      "end_ix": 576,
+      "text": "\nHe has to go.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 576,
+      "end_ix": 1534,
+      "text": "\nBREAKING NEWS: TRUMP TELLS JEFF SESSIONS TO PUT AN END TO RUSSIA PROBE AS HE CLAIMS PROSECUTORS DOING MUELLER\u2019S \u2018DIRTY WORK ARE A DISGRACE\u2019 TO AMERICA\nWhite House WON\u2019T say if Trump will order Jeff Sessions to fire Robert Mueller\nBut the president tweeted Wednesday that Sessions should end Mueller\u2019s probe\nSessions recused himself from Russia-election-meddling matters in March 2017\nThat led to Mueller\u2019s appointment as an outside investigator, not loyal to Trump\nNew tension comes as former Trump campaign chair Paul Manafort goes on trial, facing unrelated financial-crime charges, with Mueller\u2019s team prosecuting him\nDonald Trump has ratcheted up his pressure on Attorney General Jeff Sessions, saying in a tweet that the Attorney General of the United States should step in and put an end to Special Counsel Robert Mueller\u2019s long-running Russia probe\n\u2018Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now,\u2019 the president tweeted.",
+      "new_text": "\nBREAKING NEWS: TRUMP TELLS JEFF SESSIONS TO PUT AN END TO RUSSIA PROBE AS HE CLAIMS PROSECUTORS DOING MUELLER\u2019S \u2018DIRTY WORK ARE A DISGRACE\u2019 TO AMERICA\nWhite House WON\u2019T say if Trump will order Jeff Sessions to fire Robert Mueller\nBut the president tweeted Wednesday that Sessions should end Mueller\u2019s probe\nSessions recused himself from Russia-election-meddling matters in March 2017\nThat led to Mueller\u2019s appointment as an outside investigator, not loyal to Trump\nNew tension comes as former Trump campaign chair Paul Manafort goes on trial, facing unrelated financial-crime charges, with Mueller\u2019s team prosecuting him\nDonald Trump has ratcheted up his pressure on Attorney General Jeff Sessions, saying in a tweet that he should intervene and supposedly end this Special Counsel Robert Mueller's Russia probe\n\u2018Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now,\u2019 the president tweeted.",
+      "prop_spans": [
+        [
+          661,
+          727,
+          "Flag-Waving"
+        ],
+        [
+          690,
+          701,
+          "Loaded_Language"
+        ],
+        [
+          705,
+          727,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1299,
+          1432,
+          "Appeal_to_Authority"
+        ],
+        [
+          1434,
+          1509,
+          "Appeal_to_Authority"
+        ],
+        [
+          1477,
+          1500,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1534,
+      "end_ix": 1784,
+      "text": "\n\u2018Bob Mueller is totally conflicted, and his 17 Angry Democrats that are doing his dirty work are a disgrace to USA!\u2019\nThe White House ignored a Wednesday Wednesday about whether Trump will push the envelope further and order Sessions to fire Mueller.",
+      "new_text": "\n\u2018Bob Mueller is totally conflicted, and his 17 Angry Democrats that are doing his dirty work are a disgrace to USA!\u2019\nThe White House ignored a Wednesday Wednesday about whether Trump will push the envelope further and order Sessions to fire Mueller.",
+      "prop_spans": [
+        [
+          1551,
+          1569,
+          "Loaded_Language"
+        ],
+        [
+          1575,
+          1649,
+          "Flag-Waving"
+        ],
+        [
+          1575,
+          1628,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1617,
+          1628,
+          "Loaded_Language"
+        ],
+        [
+          1632,
+          1649,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1723,
+          1749,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1784,
+      "end_ix": 1908,
+      "text": "\nTrump\u2019s mention of 17 prosecution lawyers is a reference to what he claims is an abundance of Democrats on Mueller\u2019s staff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1908,
+      "end_ix": 1953,
+      "text": "\nThe special counsel himself is a Republican.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1953,
+      "end_ix": 2047,
+      "text": "\ntake our poll - story continues below\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2047,
+      "end_ix": 2103,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2103,
+      "end_ix": 2159,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2159,
+      "end_ix": 2188,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2188,
+      "end_ix": 2218,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2218,
+      "end_ix": 2299,
+      "text": "\nEmail *\nName This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2299,
+      "end_ix": 2381,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2381,
+      "end_ix": 2409,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2409,
+      "end_ix": 2472,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2472,
+      "end_ix": 2694,
+      "text": "\nSessions, who was a Trump campaign adviser and the first sitting senator to endorse his candidacy, recused himself from the Russia probe in March 2016 because he expected the campaign to be one focus of the investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2694,
+      "end_ix": 2773,
+      "text": "\nThat gave the reins to his deputy Rod Rosenstein, who later appointed Mueller.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2773,
+      "end_ix": 3001,
+      "text": "\nTrump has publicly criticized Sessions before, tweeting in June that the Mueller \u2018witch hunt\u2019 was only proceeding \u2018because Jeff Sessions didn\u2019t tell me he was going to recuse himself.\u2019\n\u2018I would have quickly picked someone else.",
+      "new_text": "\nTrump has publicly criticized Sessions before, tweeting in June that the Mueller \u2018witch hunt\u2019 was only proceeding \u2018because Jeff Sessions didn\u2019t tell me he was going to recuse himself.\u2019\n\u2018I would have quickly picked someone else.",
+      "prop_spans": [
+        [
+          2843,
+          2866,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3001,
+      "end_ix": 3148,
+      "text": "\nSo much time and money wasted, so many lives ruined \u2026 and Sessions knew better than most that there was No Collusion\u2019 with the Kremlin,\u2019 he added.",
+      "new_text": "\nSo much time and money wasted, so many lives ruined \u2026 and Sessions knew better than most that there was No Collusion\u2019 with the Kremlin,\u2019 he added.",
+      "prop_spans": [
+        [
+          3002,
+          3054,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3148,
+      "end_ix": 3361,
+      "text": "\nThe new tensions between the president and the nation\u2019s top law enforcer come as Mueller\u2019s team is prosecuting former Trump campaign chairman Paul Manafort on money laundering, tax evasion and bank fraud charges.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3361,
+      "end_ix": 3514,
+      "text": "\nThe allegations in that trial, which began Tuesday, are related to Manafort\u2019s financial dealings long before he was involved in the 2016 election cycle.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3514,
+      "end_ix": 3719,
+      "text": "\nBut firing Mueller would likely send a signal to Democrats that the White House is worried about potential blowback from a Manafort conviction just three months before the congressional midterm elections.",
+      "new_text": "\nBut firing Mueller would likely send a signal to Democrats that the White House is worried about negative feedback from a Manafort conviction just three months before the congressional midterm elections.",
+      "prop_spans": [
+        [
+          3612,
+          3631,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3719,
+      "end_ix": 3866,
+      "text": "\nStill, Trump went all-in with a new intensity on Wednesday, opening up on Mueller and his team with both barrels of his massive Twitter following.",
+      "new_text": "\nStill, Trump had a new intensity on Wednesday, with the tweets on Mueller and his team.",
+      "prop_spans": [
+        [
+          3733,
+          3745,
+          "Loaded_Language"
+        ],
+        [
+          3780,
+          3856,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3866,
+      "end_ix": 3977,
+      "text": "\n\u2018Russian Collusion with the Trump Campaign, one of the most successful in history, is a TOTAL HOAX,\u2019 he wrote.",
+      "new_text": "\n\u2018Russian Collusion with the Trump Campaign, one of the most successful in history, is a TOTAL HOAX,\u2019 he wrote.",
+      "prop_spans": [
+        [
+          3911,
+          3965,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3953,
+          3965,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3977,
+      "end_ix": 4146,
+      "text": "\n\u2018The Democrats paid for the phony and discredited Dossier which was, along with Comey, McCabe, Strzok and his lover, the lovely Lisa Page, used to begin the Witch Hunt.",
+      "new_text": "\n\u2018The Democrats paid for the phony and discredited Dossier which was, along with Comey, McCabe, Strzok and his lover, the lovely Lisa Page, used to begin the Witch Hunt.",
+      "prop_spans": [
+        [
+          3979,
+          4146,
+          "Doubt"
+        ],
+        [
+          4002,
+          4036,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4095,
+          4115,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4131,
+          4145,
+          "Name_Calling,Labeling"
+        ],
+        [
+          4131,
+          4145,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4146,
+      "end_ix": 4160,
+      "text": "\nDisgraceful!\u2019",
+      "new_text": "\nDisgraceful!\u2019",
+      "prop_spans": [
+        [
+          4146,
+          4158,
+          "Doubt"
+        ],
+        [
+          4147,
+          4158,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      53,
+      119,
+      "Flag-Waving"
+    ],
+    [
+      82,
+      93,
+      "Loaded_Language"
+    ],
+    [
+      97,
+      119,
+      "Name_Calling,Labeling"
+    ],
+    [
+      333,
+      358,
+      "Name_Calling,Labeling"
+    ],
+    [
+      374,
+      513,
+      "Causal_Oversimplification"
+    ],
+    [
+      379,
+      399,
+      "Name_Calling,Labeling"
+    ],
+    [
+      520,
+      534,
+      "Name_Calling,Labeling"
+    ],
+    [
+      661,
+      727,
+      "Flag-Waving"
+    ],
+    [
+      690,
+      701,
+      "Loaded_Language"
+    ],
+    [
+      705,
+      727,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1299,
+      1432,
+      "Appeal_to_Authority"
+    ],
+    [
+      1434,
+      1509,
+      "Appeal_to_Authority"
+    ],
+    [
+      1477,
+      1500,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1551,
+      1569,
+      "Loaded_Language"
+    ],
+    [
+      1575,
+      1649,
+      "Flag-Waving"
+    ],
+    [
+      1575,
+      1628,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1617,
+      1628,
+      "Loaded_Language"
+    ],
+    [
+      1632,
+      1649,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1723,
+      1749,
+      "Loaded_Language"
+    ],
+    [
+      2843,
+      2866,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3002,
+      3054,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3612,
+      3631,
+      "Loaded_Language"
+    ],
+    [
+      3733,
+      3745,
+      "Loaded_Language"
+    ],
+    [
+      3780,
+      3856,
+      "Loaded_Language"
+    ],
+    [
+      3911,
+      3965,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3953,
+      3965,
+      "Loaded_Language"
+    ],
+    [
+      3979,
+      4158,
+      "Doubt"
+    ],
+    [
+      4002,
+      4036,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4095,
+      4115,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4131,
+      4145,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4131,
+      4145,
+      "Repetition"
+    ],
+    [
+      4147,
+      4158,
+      "Loaded_Language"
+    ]
+  ]
+}

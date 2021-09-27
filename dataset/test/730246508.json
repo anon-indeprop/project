@@ -1,0 +1,488 @@
+{
+  "article_id": "730246508",
+  "sentence offsets in original": [
+    0,
+    251,
+    490,
+    709,
+    904,
+    944,
+    1102,
+    1133,
+    1224,
+    1356,
+    1500,
+    1557,
+    1769,
+    1834,
+    1934,
+    2088,
+    2204,
+    2293,
+    2355,
+    2532,
+    2616,
+    2762,
+    2878,
+    2981,
+    3089,
+    3168,
+    3291,
+    3376,
+    3488,
+    3573,
+    3730,
+    3839,
+    4110,
+    4254,
+    4278,
+    4537,
+    4622,
+    4758,
+    4842,
+    5051,
+    5098,
+    5100,
+    5239,
+    5321,
+    5367
+  ],
+  "original sentences": [
+    "Man arrested for allegedly buying gun used in killing of Ohio officers at scene of 911 hang-up call\n\nA second man has been arrested in the slaying of two Ohio police officers for allegedly buying the gun using in the killing, federal authorities said.",
+    "\nGerald Lawson III, 30, is accused of acting as a straw purchaser for the suspect, 30-year-old Quentin Lamar Smith, who is a convicted felon and not permitted to buy a firearm, the Justice Department for the Southern District of Ohio said.",
+    "\nThe Saturday shooting took place when Westerville police officers Eric Joering and Anthony Morelli responded to a 911 hang-up Saturday and were \"immediately met with gunfire\" and exchanged fire with Smith, police said.",
+    "\nAndrew Welsh-Huggins/AP\nTom Dodge/The Columbus Dispatch via AP\nSmith, who allegedly had a Glock semi-automatic handgun, was also injured in the shooting and is in the hospital, authorities said.",
+    "\nHe is expected to survive, police said.",
+    "\nThe Columbus Division of Police, which is leading the investigation, has filed two counts of aggravated murder charges, according to the city of Westerville.",
+    "\nHe has not yet entered a plea.",
+    "\nLawson and Smith \"have a long history of friendship,\" according to the Justice Department.",
+    "\nThe Justice Department said a witness told investigators Smith gave Lawson money for the firearm and an extra $100 as compensation.",
+    "\nLawson was arrested today and charged with aiding and abetting the possession of a firearm by a prohibited person, the Justice Department said.",
+    "\nHe is scheduled to appear before a judge this afternoon.",
+    "\nTom Dodge/The Columbus Dispatch via AP\nTom Dodge/The Columbus Dispatch via AP\nThe officers were \"true American heroes\" and \"were two of the best we had,\" Westerville Police Chief Joe Morbitzer said this weekend.",
+    "\n\u201cThis was their calling, and they did it right,\" Morbitzer said.",
+    "\nSam Greene/Cincinnati Enquirer via USA TODAY\nSam Greene/Cincinnati Enquirer via USA TODAY\nOhio Gov.",
+    "\nJohn Kasich today ordered all flags be flown at half-staff in the state in honor of two police officers, who were gunned down in the governor's hometown.",
+    "\nA procession was held this morning for the fallen officers, leading from the coroner's office to the funeral homes.",
+    "\nDozens of officers outside the coroners office honoring the fallen Westerville officers.",
+    "\nWe\u2019ll share the escort live in a few minutes on CPD Facebook.",
+    "\n@tellwesterville @WestervillePD pic.twitter.com/OVGUvozPDZ \u2014 Columbus Ohio Police (@ColumbusPolice) February 12, 2018\nWBNS\nMorelli, 54, was a 29-year veteran of the department.",
+    "\nWesterville Police Department\nJoering, 39, was a 16-year veteran of the department.",
+    "\nWesterville Police Department\nMorelli was married with two children and Joering was married with four daughters, according to The New York Times.",
+    "\nMorelli's and Joering's families released a statement saying how \"thankful\" they are for the Westerville community.",
+    "\n\"We feel loved and blessed, and we are appreciative of the outpouring of support,\" the statement read.",
+    "\n\"We have seen and heard so much from people who have shared stories about how our men impacted their lives.",
+    "\nThey will be so greatly missed, not only by us, but by everyone they touched.\"",
+    "\nThe statement described the fallen officers as \"dedicated,\" both to their jobs and as their roles as fathers and husbands.",
+    "\n\"We are so sad that Eric will not see his three daughters graduate from high school.",
+    "\nWe\u2019re devastated Tony will not be able to walk his daughter down the aisle at her wedding,\" the statement read.",
+    "\nThe families requested privacy and \"time to heal\" to mourn the loss of the officers.",
+    "\nMorbitzer said Sunday that as the department works with the families on funeral arrangements, the police \"have seen fake GoFundMe pages established already.",
+    "\nWe have had people calling our radio room screaming threats, obscenities and vulgarities at our radio techs.",
+    "\nAnd quite frankly there\u2019s a special place in hell for those people, and my wish is that it comes very soon.\u201d\nPresident Donald Trump tweeted Sunday that he spoke to Kasich \"to express condolences and prayers to all for the horrible shooting of two great police officers.\"",
+    "\nJust spoke to @JohnKasich to express condolences and prayers to all for the horrible shooting of two great police officers from @WestervillePD.",
+    "\nThis is a true tragedy!",
+    "\n\u2014 Donald J. Trump (@realDonaldTrump) February 11, 2018\nKasich tweeted about the shooting several times, including to say, \"The finest among us are those who risk it all everyday for our safety, and Officers Anthony Morelli and Eric Joering were those people.",
+    "\nTheir deaths are a terrible tragedy for my hometown of Westerville and all of Ohio.\"",
+    "\nThe finest among us are those who risk it all everyday for our safety, and Officers Anthony Morelli and Eric Joering were those people.",
+    "\nTheir deaths are a terrible tragedy for my hometown of Westerville and all of Ohio.",
+    "\n(1/2) \u2014 John Kasich (@JohnKasich) February 10, 2018\nNew York City Police Commissioner James O'Neill also spoke out, tweeting, \"Everyone should be as upset about this as America\u2019s law enforcement officers are.",
+    "\nNo cop, anywhere, 'signed up' to be murdered.\"",
+    "\n.",
+    "\n@WestervillePD confirms 2 officers ambushed & killed today after responding to a 911 hang-up; fired upon when they arrived at the address.",
+    "\nEveryone should be as upset about this as America\u2019s law enforcement officers are.",
+    "\nNo cop, anywhere, \u201csigned up\u201d to be murdered.",
+    "\n#NYPD pic.twitter.com/JZcso4cguN \u2014 Commissioner O'Neill (@NYPDONeill) February 10, 2018\nLawson was not required to enter a plea in federal court on Monday during a brief appearance, according to The Associated Press."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 251,
+      "text": "Man arrested for allegedly buying gun used in killing of Ohio officers at scene of 911 hang-up call\n\nA second man has been arrested in the slaying of two Ohio police officers for allegedly buying the gun using in the killing, federal authorities said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 251,
+      "end_ix": 490,
+      "text": "\nGerald Lawson III, 30, is accused of acting as a straw purchaser for the suspect, 30-year-old Quentin Lamar Smith, who is a convicted felon and not permitted to buy a firearm, the Justice Department for the Southern District of Ohio said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 490,
+      "end_ix": 709,
+      "text": "\nThe Saturday shooting took place when Westerville police officers Eric Joering and Anthony Morelli responded to a 911 hang-up Saturday and were \"immediately met with gunfire\" and exchanged fire with Smith, police said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 709,
+      "end_ix": 904,
+      "text": "\nAndrew Welsh-Huggins/AP\nTom Dodge/The Columbus Dispatch via AP\nSmith, who allegedly had a Glock semi-automatic handgun, was also injured in the shooting and is in the hospital, authorities said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 904,
+      "end_ix": 944,
+      "text": "\nHe is expected to survive, police said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 944,
+      "end_ix": 1102,
+      "text": "\nThe Columbus Division of Police, which is leading the investigation, has filed two counts of aggravated murder charges, according to the city of Westerville.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1102,
+      "end_ix": 1133,
+      "text": "\nHe has not yet entered a plea.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1133,
+      "end_ix": 1224,
+      "text": "\nLawson and Smith \"have a long history of friendship,\" according to the Justice Department.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1224,
+      "end_ix": 1356,
+      "text": "\nThe Justice Department said a witness told investigators Smith gave Lawson money for the firearm and an extra $100 as compensation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1356,
+      "end_ix": 1500,
+      "text": "\nLawson was arrested today and charged with aiding and abetting the possession of a firearm by a prohibited person, the Justice Department said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1500,
+      "end_ix": 1557,
+      "text": "\nHe is scheduled to appear before a judge this afternoon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1557,
+      "end_ix": 1769,
+      "text": "\nTom Dodge/The Columbus Dispatch via AP\nTom Dodge/The Columbus Dispatch via AP\nThe officers were \"true American heroes\" and \"were two of the best we had,\" Westerville Police Chief Joe Morbitzer said this weekend.",
+      "new_text": "\nTom Dodge/The Columbus Dispatch via AP\nTom Dodge/The Columbus Dispatch via AP\nThe officers were \"true American heroes\" and \"were two of the best we had,\" Westerville Police Chief Joe Morbitzer said this weekend.",
+      "prop_spans": [
+        [
+          1654,
+          1676,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1769,
+      "end_ix": 1834,
+      "text": "\n\u201cThis was their calling, and they did it right,\" Morbitzer said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1834,
+      "end_ix": 1934,
+      "text": "\nSam Greene/Cincinnati Enquirer via USA TODAY\nSam Greene/Cincinnati Enquirer via USA TODAY\nOhio Gov.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1934,
+      "end_ix": 2088,
+      "text": "\nJohn Kasich today ordered all flags be flown at half-staff in the state in honor of two police officers, who were gunned down in the governor's hometown.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2088,
+      "end_ix": 2204,
+      "text": "\nA procession was held this morning for the fallen officers, leading from the coroner's office to the funeral homes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2204,
+      "end_ix": 2293,
+      "text": "\nDozens of officers outside the coroners office honoring the fallen Westerville officers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2293,
+      "end_ix": 2355,
+      "text": "\nWe\u2019ll share the escort live in a few minutes on CPD Facebook.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2355,
+      "end_ix": 2532,
+      "text": "\n@tellwesterville @WestervillePD pic.twitter.com/OVGUvozPDZ \u2014 Columbus Ohio Police (@ColumbusPolice) February 12, 2018\nWBNS\nMorelli, 54, was a 29-year veteran of the department.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2532,
+      "end_ix": 2616,
+      "text": "\nWesterville Police Department\nJoering, 39, was a 16-year veteran of the department.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2616,
+      "end_ix": 2762,
+      "text": "\nWesterville Police Department\nMorelli was married with two children and Joering was married with four daughters, according to The New York Times.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2762,
+      "end_ix": 2878,
+      "text": "\nMorelli's and Joering's families released a statement saying how \"thankful\" they are for the Westerville community.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2878,
+      "end_ix": 2981,
+      "text": "\n\"We feel loved and blessed, and we are appreciative of the outpouring of support,\" the statement read.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2981,
+      "end_ix": 3089,
+      "text": "\n\"We have seen and heard so much from people who have shared stories about how our men impacted their lives.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3089,
+      "end_ix": 3168,
+      "text": "\nThey will be so greatly missed, not only by us, but by everyone they touched.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3168,
+      "end_ix": 3291,
+      "text": "\nThe statement described the fallen officers as \"dedicated,\" both to their jobs and as their roles as fathers and husbands.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3291,
+      "end_ix": 3376,
+      "text": "\n\"We are so sad that Eric will not see his three daughters graduate from high school.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3376,
+      "end_ix": 3488,
+      "text": "\nWe\u2019re devastated Tony will not be able to walk his daughter down the aisle at her wedding,\" the statement read.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3488,
+      "end_ix": 3573,
+      "text": "\nThe families requested privacy and \"time to heal\" to mourn the loss of the officers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3573,
+      "end_ix": 3730,
+      "text": "\nMorbitzer said Sunday that as the department works with the families on funeral arrangements, the police \"have seen fake GoFundMe pages established already.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3730,
+      "end_ix": 3839,
+      "text": "\nWe have had people calling our radio room screaming threats, obscenities and vulgarities at our radio techs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3839,
+      "end_ix": 4110,
+      "text": "\nAnd quite frankly there\u2019s a special place in hell for those people, and my wish is that it comes very soon.\u201d\nPresident Donald Trump tweeted Sunday that he spoke to Kasich \"to express condolences and prayers to all for the horrible shooting of two great police officers.\"",
+      "new_text": "\nAnd quite frankly there\u2019s a special place in hell for those people, and my wish is that it comes very soon.\u201d\nPresident Donald Trump tweeted Sunday that he spoke to Kasich \"to express condolences and prayers to all for the horrible shooting of two great police officers.\"",
+      "prop_spans": [
+        [
+          3840,
+          3949,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4110,
+      "end_ix": 4254,
+      "text": "\nJust spoke to @JohnKasich to express condolences and prayers to all for the horrible shooting of two great police officers from @WestervillePD.",
+      "new_text": "\nJust spoke to @JohnKasich to express condolences and prayers to all for the shooting of two great police officers from @WestervillePD.",
+      "prop_spans": [
+        [
+          4187,
+          4195,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4254,
+      "end_ix": 4278,
+      "text": "\nThis is a true tragedy!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4278,
+      "end_ix": 4537,
+      "text": "\n\u2014 Donald J. Trump (@realDonaldTrump) February 11, 2018\nKasich tweeted about the shooting several times, including to say, \"The finest among us are those who risk it all everyday for our safety, and Officers Anthony Morelli and Eric Joering were those people.",
+      "new_text": "\n\u2014 Donald J. Trump (@realDonaldTrump) February 11, 2018\nKasich tweeted about the shooting several times, including to say, \"The finest among us are those who risk it all everyday for our safety, and Officers Anthony Morelli and Eric Joering were those people.",
+      "prop_spans": [
+        [
+          4406,
+          4412,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4537,
+      "end_ix": 4622,
+      "text": "\nTheir deaths are a terrible tragedy for my hometown of Westerville and all of Ohio.\"",
+      "new_text": "\nTheir deaths are a terrible tragedy for my hometown of Westerville and all of Ohio.\"",
+      "prop_spans": [
+        [
+          4557,
+          4573,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4622,
+      "end_ix": 4758,
+      "text": "\nThe finest among us are those who risk it all everyday for our safety, and Officers Anthony Morelli and Eric Joering were those people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4758,
+      "end_ix": 4842,
+      "text": "\nTheir deaths are a terrible tragedy for my hometown of Westerville and all of Ohio.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4842,
+      "end_ix": 5051,
+      "text": "\n(1/2) \u2014 John Kasich (@JohnKasich) February 10, 2018\nNew York City Police Commissioner James O'Neill also spoke out, tweeting, \"Everyone should be as upset about this as America\u2019s law enforcement officers are.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5051,
+      "end_ix": 5098,
+      "text": "\nNo cop, anywhere, 'signed up' to be murdered.\"",
+      "new_text": "\nNo cop, anywhere, 'signed up' to be murdered.\"",
+      "prop_spans": [
+        [
+          5052,
+          5098,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5098,
+      "end_ix": 5100,
+      "text": "\n.",
+      "new_text": "\n.",
+      "prop_spans": [
+        [
+          5098,
+          5099,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5100,
+      "end_ix": 5239,
+      "text": "\n@WestervillePD confirms 2 officers ambushed & killed today after responding to a 911 hang-up; fired upon when they arrived at the address.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5239,
+      "end_ix": 5321,
+      "text": "\nEveryone should be as upset about this as America\u2019s law enforcement officers are.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5321,
+      "end_ix": 5367,
+      "text": "\nNo cop, anywhere, \u201csigned up\u201d to be murdered.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5367,
+      "end_ix": 5584,
+      "text": "\n#NYPD pic.twitter.com/JZcso4cguN \u2014 Commissioner O'Neill (@NYPDONeill) February 10, 2018\nLawson was not required to enter a plea in federal court on Monday during a brief appearance, according to The Associated Press.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1654,
+      1676,
+      "Flag-Waving"
+    ],
+    [
+      3840,
+      3949,
+      "Loaded_Language"
+    ],
+    [
+      4187,
+      4195,
+      "Loaded_Language"
+    ],
+    [
+      4406,
+      4412,
+      "Loaded_Language"
+    ],
+    [
+      4557,
+      4573,
+      "Loaded_Language"
+    ],
+    [
+      5052,
+      5099,
+      "Loaded_Language"
+    ]
+  ]
+}

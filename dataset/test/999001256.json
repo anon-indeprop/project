@@ -1,0 +1,502 @@
+{
+  "article_id": "999001256",
+  "sentence offsets in original": [
+    0,
+    269,
+    441,
+    525,
+    559,
+    634,
+    766,
+    817,
+    868,
+    906,
+    957,
+    964,
+    996,
+    1081,
+    1163,
+    1191,
+    1254,
+    1497,
+    1675,
+    1828,
+    2003,
+    2076,
+    2134,
+    2196,
+    2257,
+    2390,
+    2423,
+    2522,
+    2735,
+    2772,
+    2809,
+    2885,
+    2944,
+    3118,
+    3164,
+    3223,
+    3319,
+    3342,
+    3356,
+    3538,
+    3544
+  ],
+  "original sentences": [
+    "Sore Loser: Stacey Abrams Ends Challenges In Georgia Gubernatorial Race - Won't Concede - Set To File Lawsuit\n\nDefeated Georgia gubernatorial candidate Stacey Abrams finally ended her challenges on Friday and ended her challenges against Republican opponent Brian Kemp.",
+    "\nHowever, in the same breath that she ended the challenges, she also declared she would be filing a federal lawsuit over what she called \"gross mismanagement\" of elections.",
+    "\nIf you ask me, all she's looking for here will only hurt herself and her own party.",
+    "\nThis woman wouldn't even concede!",
+    "\nTalk about a poor sport, but Democrats are often like that in these races.",
+    "\nThe Atlanta Journal-Constitution reported:\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nStacey Abrams ended her run for Georgia governor on Friday, but the Democrat said she would not concede the contest to Republican Brian Kemp and planned to launch a voting rights group to file \u201cmajor\u201d litigation challenging election policies.",
+    "\nAs state officials prepare to certify the vote, Abrams acknowledged the law \u201callows no further viable remedy\u201d to extend her quest to be the nation\u2019s first black female governor.",
+    "\nBut she laced her speech with biting criticism of Kemp, who she accused of leveraging his role as the state\u2019s top elections official to suppress voters.",
+    "\n\u201cI will not concede,\u201d she added, \u201cbecause the erosion of our democracy is not right.\u201d\nYou mean like having a sister waiting in the wings of any campaign lawsuits, Ms. Abrams?",
+    "\nWhat about invalid provisional ballots getting mixed in with valid ones?",
+    "\nMaybe a little electronic voter manipulation, Ms. Abrams?",
+    "\nHow about non-citizens and illegal aliens voting, Ms. Abrams?",
+    "\nAre these evidence of the erosion of the democratic process?",
+    "\nSure they are and they appear to all be coming from the party that Stacey Abrams represents, but she's not going to talk about that.",
+    "\nBut she wasn't going to concede.",
+    "\nNope, that arrogant wanna-be first female governor of Georgia simply would not bow out gracefully.",
+    "\n\u201cTo watch an elected official who claims to represent the people in this state baldly pin his hopes for election on the suppression of the people\u2019s democratic right to vote has been truly appalling,\u201d Abrams said.",
+    "\n\u201cSo, let\u2019s be clear,\" she continued.",
+    "\n\"This is not a speech of concession.",
+    "\nBecause concession means to acknowledge an action is right, true or proper.",
+    "\nAs a woman of conscience and faith, I cannot concede that.",
+    "\nBut my assessment is the law currently allows no further viable remedy.\u201d\nNo, concession means \"a thing that is granted, especially in response to demands; a thing conceded.\"",
+    "\nAbrams was easily defeated in terms of votes.",
+    "\nShe was the one trying to \"find\" and count votes remember?",
+    "\nShe is the one claiming there was cancellation of hundreds of thousands of voter registrations.",
+    "\nWhere is her evidence?",
+    "\nShe has none.",
+    "\nStacey Abrams is a sore loser just like Hillary Clinton and this little temper tantrum she put on display will probably sink any chances she may have had in the future to run again.",
+    "\nGood!",
+    "\nThank God, Georgia didn't elect this peach."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 269,
+      "text": "Sore Loser: Stacey Abrams Ends Challenges In Georgia Gubernatorial Race - Won't Concede - Set To File Lawsuit\n\nDefeated Georgia gubernatorial candidate Stacey Abrams finally ended her challenges on Friday and ended her challenges against Republican opponent Brian Kemp.",
+      "new_text": "Sore Loser: Stacey Abrams Ends Challenges In Georgia Gubernatorial Race - Won't Concede - Set To File Lawsuit\n\nStacey Abrams finally ended her challenges on Friday and ended her challenges against Republican opponent Brian Kemp.",
+      "prop_spans": [
+        [
+          111,
+          152,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 269,
+      "end_ix": 441,
+      "text": "\nHowever, in the same breath that she ended the challenges, she also declared she would be filing a federal lawsuit over what she called \"gross mismanagement\" of elections.",
+      "new_text": "\nHowever, in the same breath that she ended the challenges, she also declared she would be filing a federal lawsuit over what she called \"gross mismanagement\" of elections.",
+      "prop_spans": [
+        [
+          407,
+          427,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 441,
+      "end_ix": 525,
+      "text": "\nIf you ask me, all she's looking for here will only hurt herself and her own party.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          442,
+          524,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 525,
+      "end_ix": 559,
+      "text": "\nThis woman wouldn't even concede!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 559,
+      "end_ix": 634,
+      "text": "\nTalk about a poor sport, but Democrats are often like that in these races.",
+      "new_text": "\nDemocrats are often like that in these races.",
+      "prop_spans": [
+        [
+          560,
+          583,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 634,
+      "end_ix": 766,
+      "text": "\nThe Atlanta Journal-Constitution reported:\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 766,
+      "end_ix": 817,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 817,
+      "end_ix": 868,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 868,
+      "end_ix": 906,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 906,
+      "end_ix": 957,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 957,
+      "end_ix": 964,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 964,
+      "end_ix": 996,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 996,
+      "end_ix": 1081,
+      "text": "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1081,
+      "end_ix": 1163,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1163,
+      "end_ix": 1191,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1191,
+      "end_ix": 1254,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1254,
+      "end_ix": 1497,
+      "text": "\nStacey Abrams ended her run for Georgia governor on Friday, but the Democrat said she would not concede the contest to Republican Brian Kemp and planned to launch a voting rights group to file \u201cmajor\u201d litigation challenging election policies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1497,
+      "end_ix": 1675,
+      "text": "\nAs state officials prepare to certify the vote, Abrams acknowledged the law \u201callows no further viable remedy\u201d to extend her quest to be the nation\u2019s first black female governor.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1675,
+      "end_ix": 1828,
+      "text": "\nBut she laced her speech with biting criticism of Kemp, who she accused of leveraging his role as the state\u2019s top elections official to suppress voters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1828,
+      "end_ix": 2003,
+      "text": "\n\u201cI will not concede,\u201d she added, \u201cbecause the erosion of our democracy is not right.\u201d\nYou mean like having a sister waiting in the wings of any campaign lawsuits, Ms. Abrams?",
+      "new_text": "\n\u201cI will not concede,\u201d she added, \u201cbecause the erosion of our democracy is not right.\u201d\n",
+      "prop_spans": [
+        [
+          1915,
+          2003,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2003,
+      "end_ix": 2076,
+      "text": "\nWhat about invalid provisional ballots getting mixed in with valid ones?",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2003,
+          2076,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2076,
+      "end_ix": 2134,
+      "text": "\nMaybe a little electronic voter manipulation, Ms. Abrams?",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2076,
+          2134,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2134,
+      "end_ix": 2196,
+      "text": "\nHow about non-citizens and illegal aliens voting, Ms. Abrams?",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          2134,
+          2195,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2196,
+      "end_ix": 2257,
+      "text": "\nAre these evidence of the erosion of the democratic process?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2257,
+      "end_ix": 2390,
+      "text": "\nSure they are and they appear to all be coming from the party that Stacey Abrams represents, but she's not going to talk about that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2390,
+      "end_ix": 2423,
+      "text": "\nBut she wasn't going to concede.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2423,
+      "end_ix": 2522,
+      "text": "\nNope, that arrogant wanna-be first female governor of Georgia simply would not bow out gracefully.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2522,
+      "end_ix": 2735,
+      "text": "\n\u201cTo watch an elected official who claims to represent the people in this state baldly pin his hopes for election on the suppression of the people\u2019s democratic right to vote has been truly appalling,\u201d Abrams said.",
+      "new_text": "\n\u201cTo watch an elected official who claims to represent the people in this state baldly pin his hopes for election on the suppression of the people\u2019s democratic right to vote has been truly appalling,\u201d Abrams said.",
+      "prop_spans": [
+        [
+          2602,
+          2623,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2735,
+      "end_ix": 2772,
+      "text": "\n\u201cSo, let\u2019s be clear,\" she continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2772,
+      "end_ix": 2809,
+      "text": "\n\"This is not a speech of concession.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2809,
+      "end_ix": 2885,
+      "text": "\nBecause concession means to acknowledge an action is right, true or proper.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2885,
+      "end_ix": 2944,
+      "text": "\nAs a woman of conscience and faith, I cannot concede that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2944,
+      "end_ix": 3118,
+      "text": "\nBut my assessment is the law currently allows no further viable remedy.\u201d\nNo, concession means \"a thing that is granted, especially in response to demands; a thing conceded.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3118,
+      "end_ix": 3164,
+      "text": "\nAbrams was easily defeated in terms of votes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3164,
+      "end_ix": 3223,
+      "text": "\nShe was the one trying to \"find\" and count votes remember?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3223,
+      "end_ix": 3319,
+      "text": "\nShe is the one claiming there was cancellation of hundreds of thousands of voter registrations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3319,
+      "end_ix": 3342,
+      "text": "\nWhere is her evidence?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3342,
+      "end_ix": 3356,
+      "text": "\nShe has none.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3356,
+      "end_ix": 3538,
+      "text": "\nStacey Abrams is a sore loser just like Hillary Clinton and this little temper tantrum she put on display will probably sink any chances she may have had in the future to run again.",
+      "new_text": "\nStacey Abrams is a sore loser just like Hillary Clinton and this little temper tantrum she put on display will probably destroy any chances she may have had in the future to run again.",
+      "prop_spans": [
+        [
+          3477,
+          3494,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3538,
+      "end_ix": 3544,
+      "text": "\nGood!",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          3539,
+          3544,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3544,
+      "end_ix": 3588,
+      "text": "\nThank God, Georgia didn't elect this peach.",
+      "new_text": "\nThank God, Georgia didn't elect her.",
+      "prop_spans": [
+        [
+          3544,
+          3587,
+          "Doubt"
+        ],
+        [
+          3582,
+          3587,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      111,
+      152,
+      "Name_Calling,Labeling"
+    ],
+    [
+      407,
+      427,
+      "Loaded_Language"
+    ],
+    [
+      442,
+      524,
+      "Doubt"
+    ],
+    [
+      560,
+      583,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1915,
+      2195,
+      "Whataboutism"
+    ],
+    [
+      2602,
+      2623,
+      "Loaded_Language"
+    ],
+    [
+      3477,
+      3494,
+      "Loaded_Language"
+    ],
+    [
+      3539,
+      3587,
+      "Doubt"
+    ],
+    [
+      3582,
+      3587,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

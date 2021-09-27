@@ -1,0 +1,531 @@
+{
+  "article_id": "711622457",
+  "sentence offsets in original": [
+    0,
+    383,
+    441,
+    574,
+    601,
+    733,
+    757,
+    998,
+    1646,
+    1755,
+    1775,
+    2007,
+    2121,
+    2300,
+    2473,
+    2544,
+    2573,
+    2604,
+    2662,
+    2813,
+    2871,
+    2998,
+    3099,
+    3489,
+    3672,
+    3902,
+    4168,
+    4316,
+    4388,
+    4475
+  ],
+  "original sentences": [
+    "UK: Labour MP Cites Ban of Robert Spencer & Pamela Geller in Calling for Trump to be Banned from Country\n\nThe brouhaha over President Trump\u2019s retweets of videos depicting Muslims being violent continues in the UK, and is yet another manifestation of the general tendency to blame those who call attention to jihad atrocities rather than to focus upon the jihad atrocities themselves.",
+    "\nTrump himself said it best, tweeting yesterday evening:\u201d.",
+    "\n@ Theresa_May, don\u2019t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",
+    "\nWe are doing just fine!\u201d\n.",
+    "\n@Theresa_May, don\u2019t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",
+    "\nWe are doing just fine!",
+    "\n\u2014 Donald J. Trump (@realDonaldTrump) November 30, 2017\nI\u2019m not sure we\u2019re doing just fine, but Trump is right that the real problem is jihad terror and Sharia supremacism, and British authorities want to ignore that and shoot the messenger.",
+    "\nAnd so Chris Bryant, \u201ca senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is \u2018not conducive to the public good\u2019, a senior Labour MP has said.\u201d\nFor Chris Bryant, apparently \u201cfascism\u201d means \u201cdefense of Britain and its values against jihad terror.\u201d\nBryant \u201ccited the cases of two US far-right bloggers, Robert Spencer and Pamela Geller , who were banned by May in 2013 from entering the UK to take part in English Defence League rallies, as precedents for taking action against Trump.\u201d\nWhy are we \u201cfar right\u201d?",
+    "\nEverything we do is in defense of the freedom of speech and equality of rights of all people before the law.",
+    "\nThat\u2019s \u201cfar right\u201d?",
+    "\nIn any case, note well: the letter to me from the UK Home Office said that I was banned for saying that \u201c[Islam] is a religion and is a belief system that mandates warfare against unbelievers\u2026\u201d\nThat\u2019s a demonstrably true statement.",
+    "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers without a moment of hesitation.",
+    "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+    "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+    "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+    "\nSecond \u2013 burn them to death.",
+    "\nThird \u2013 throw \u2019em off a cliff.",
+    "\nFourth \u2013 tear down a wall on them so they die under that.",
+    "\nFifth \u2013 a combination of the above.\u201d\nMay\u2019s government admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+    "\nOne of them was welcomed by the Archbishop of Canterbury.",
+    "\nMeanwhile, the UK banned three bishops from areas of Iraq and Syria where Christians are persecuted from entering the country.",
+    "\nChris Bryant had nothing to say about any of those jihad preachers entering Britain with no problem.",
+    "\n\u201cUK ambassador conveys concerns over Trump retweet to White House,\u201d by Rowena Mason, Guardian, November 30, 2017:\n\u2026Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is \u201cnot conducive to the public good\u201d, a senior Labour MP has said.",
+    "\nBryant, a former Foreign Office minister, said the prime minister should issue a prohibition order against the president like those that apply to other far right figures from the US.",
+    "\nHe cited the cases of two US far right bloggers, Robert Spencer and Pamela Geller, who were banned by May in 2013 from entering the UK to take part in English Defence League rallies, as precedents for taking action against Trump.",
+    "\nIn a letter to May, he said: \u201cI am writing to you to ask you and the home secretary to take immediate action to ban the president of the United States, Donald Trump, from entering the United Kingdom, due to his apparent support for far-right groups in this country.",
+    "\n\u201cIn retweeting Jayda Fransen\u2019s posts, it is absolutely clear to me that President Trump is supporting and condoning fascism and far-right activity.",
+    "\nThis activity has frequently taken the form of violence on our streets.",
+    "\nMs Fransen herself has a long history of racism and Islamophobia, some of it criminal.",
+    "\nMany of the people you have rightly banned from entering the UK were guilty of less than this.\u201d\u2026\nArticle posted with permission from Robert Spencer"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 383,
+      "text": "UK: Labour MP Cites Ban of Robert Spencer & Pamela Geller in Calling for Trump to be Banned from Country\n\nThe brouhaha over President Trump\u2019s retweets of videos depicting Muslims being violent continues in the UK, and is yet another manifestation of the general tendency to blame those who call attention to jihad atrocities rather than to focus upon the jihad atrocities themselves.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 383,
+      "end_ix": 441,
+      "text": "\nTrump himself said it best, tweeting yesterday evening:\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 441,
+      "end_ix": 574,
+      "text": "\n@ Theresa_May, don\u2019t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",
+      "new_text": "\n@ Theresa_May, don\u2019t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",
+      "prop_spans": [
+        [
+          457,
+          574,
+          "Whataboutism"
+        ],
+        [
+          489,
+          527,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 574,
+      "end_ix": 601,
+      "text": "\nWe are doing just fine!\u201d\n.",
+      "new_text": "\nWe are doing just fine!\u201d\n.",
+      "prop_spans": [
+        [
+          574,
+          574,
+          "Whataboutism"
+        ],
+        [
+          575,
+          600,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 601,
+      "end_ix": 733,
+      "text": "\n@Theresa_May, don\u2019t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",
+      "new_text": "\n@Theresa_May, don\u2019t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",
+      "prop_spans": [
+        [
+          616,
+          733,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 733,
+      "end_ix": 757,
+      "text": "\nWe are doing just fine!",
+      "new_text": "\nWe are doing just fine!",
+      "prop_spans": [
+        [
+          733,
+          733,
+          "Whataboutism"
+        ],
+        [
+          734,
+          757,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 757,
+      "end_ix": 998,
+      "text": "\n\u2014 Donald J. Trump (@realDonaldTrump) November 30, 2017\nI\u2019m not sure we\u2019re doing just fine, but Trump is right that the real problem is jihad terror and Sharia supremacism, and British authorities want to ignore that and shoot the messenger.",
+      "new_text": "\n\u2014 Donald J. Trump (@realDonaldTrump) November 30, 2017\nI do not think just fine, but Trump is right that the real problem is jihad terror and Sharia supremacism, and British authorities might ignore that and shoot the messenger.",
+      "prop_spans": [
+        [
+          757,
+          757,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          813,
+          847,
+          "Doubt"
+        ],
+        [
+          934,
+          998,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 998,
+      "end_ix": 1646,
+      "text": "\nAnd so Chris Bryant, \u201ca senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is \u2018not conducive to the public good\u2019, a senior Labour MP has said.\u201d\nFor Chris Bryant, apparently \u201cfascism\u201d means \u201cdefense of Britain and its values against jihad terror.\u201d\nBryant \u201ccited the cases of two US far-right bloggers, Robert Spencer and Pamela Geller , who were banned by May in 2013 from entering the UK to take part in English Defence League rallies, as precedents for taking action against Trump.\u201d\nWhy are we \u201cfar right\u201d?",
+      "new_text": "\nAnd so Chris Bryant, \u201ca senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is \u2018not conducive to the public good\u2019, a senior Labour MP has said.\u201d\nFor Chris Bryant, apparently \u201cfascism\u201d means \u201cdefense of people its values against jihad terror.\u201d\nBryant \u201ccited the cases of two US far-right bloggers, Robert Spencer and Pamela Geller , who were banned by May in 2013 from entering the UK to take part in English Defence League rallies, as precedents for taking action against Trump.\u201d\nWhy are we \u201cfar right\u201d?",
+      "prop_spans": [
+        [
+          998,
+          998,
+          "Causal_Oversimplification"
+        ],
+        [
+          1095,
+          1252,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1095,
+          1252,
+          "Reductio_ad_hitlerum"
+        ],
+        [
+          1329,
+          1362,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1646,
+      "end_ix": 1755,
+      "text": "\nEverything we do is in defense of the freedom of speech and equality of rights of all people before the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1755,
+      "end_ix": 1775,
+      "text": "\nThat\u2019s \u201cfar right\u201d?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1775,
+      "end_ix": 2007,
+      "text": "\nIn any case, note well: the letter to me from the UK Home Office said that I was banned for saying that \u201c[Islam] is a religion and is a belief system that mandates warfare against unbelievers\u2026\u201d\nThat\u2019s a demonstrably true statement.",
+      "new_text": "\nIn any case, note well: the letter to me from the UK Home Office said that I was banned for saying that \u201c[Islam] is a religion and is a belief system that mandates warfare against unbelievers\u2026\u201d\nThat\u2019s a demonstrably true statement.",
+      "prop_spans": [
+        [
+          1882,
+          1969,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2007,
+      "end_ix": 2121,
+      "text": "\nMeanwhile, Britain has a steadily lengthening record of admitting jihad preachers without a moment of hesitation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2121,
+      "end_ix": 2300,
+      "text": "\nSyed Muzaffar Shah Qadri\u2019s preaching of hatred and jihad violence was so hardline that he was banned from preaching in Pakistan, but the UK Home Office welcomed him into Britain.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2300,
+      "end_ix": 2473,
+      "text": "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+      "new_text": "\nThe UK Home Office also admitted Shaykh Hamza Sodagar into the country, despite the fact that he has said: \u201cIf there\u2019s homosexual men, the punishment is one of five things.",
+      "prop_spans": [
+        [
+          2407,
+          2473,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2409,
+          2473,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2473,
+      "end_ix": 2544,
+      "text": "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+      "new_text": "\nOne \u2013 the easiest one maybe \u2013 chop their head off, that\u2019s the easiest.",
+      "prop_spans": [
+        [
+          2473,
+          2544,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2473,
+          2544,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2544,
+      "end_ix": 2573,
+      "text": "\nSecond \u2013 burn them to death.",
+      "new_text": "\nSecond \u2013 burn them to death.",
+      "prop_spans": [
+        [
+          2544,
+          2573,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2544,
+          2573,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2573,
+      "end_ix": 2604,
+      "text": "\nThird \u2013 throw \u2019em off a cliff.",
+      "new_text": "\nThird \u2013 throw \u2019em off a cliff.",
+      "prop_spans": [
+        [
+          2573,
+          2604,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2573,
+          2604,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2604,
+      "end_ix": 2662,
+      "text": "\nFourth \u2013 tear down a wall on them so they die under that.",
+      "new_text": "\nFourth \u2013 tear down a wall on them so they die under that.",
+      "prop_spans": [
+        [
+          2604,
+          2662,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2604,
+          2662,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2662,
+      "end_ix": 2813,
+      "text": "\nFifth \u2013 a combination of the above.\u201d\nMay\u2019s government admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+      "new_text": "\nFifth \u2013 a combination of the above.\u201d\nMay\u2019s government admitted two jihad preachers who had praised the murderer of a foe of Pakistan\u2019s blasphemy laws.",
+      "prop_spans": [
+        [
+          2662,
+          2700,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2662,
+          2697,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          2754,
+          2813,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2813,
+      "end_ix": 2871,
+      "text": "\nOne of them was welcomed by the Archbishop of Canterbury.",
+      "new_text": "\nOne of them was welcomed by the Archbishop of Canterbury.",
+      "prop_spans": [
+        [
+          2813,
+          2813,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2871,
+      "end_ix": 2998,
+      "text": "\nMeanwhile, the UK banned three bishops from areas of Iraq and Syria where Christians are persecuted from entering the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2998,
+      "end_ix": 3099,
+      "text": "\nChris Bryant had nothing to say about any of those jihad preachers entering Britain with no problem.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3099,
+      "end_ix": 3489,
+      "text": "\n\u201cUK ambassador conveys concerns over Trump retweet to White House,\u201d by Rowena Mason, Guardian, November 30, 2017:\n\u2026Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is \u201cnot conducive to the public good\u201d, a senior Labour MP has said.",
+      "new_text": "\n\u201cUK ambassador conveys concerns over Trump retweet to White House,\u201d by Rowena Mason, Guardian, November 30, 2017:\n\u2026Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is \u201cnot conducive to the public good\u201d, a senior Labour MP has said.",
+      "prop_spans": [
+        [
+          3303,
+          3460,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3303,
+          3460,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3489,
+      "end_ix": 3672,
+      "text": "\nBryant, a former Foreign Office minister, said the prime minister should issue a prohibition order against the president like those that apply to other far right figures from the US.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3672,
+      "end_ix": 3902,
+      "text": "\nHe cited the cases of two US far right bloggers, Robert Spencer and Pamela Geller, who were banned by May in 2013 from entering the UK to take part in English Defence League rallies, as precedents for taking action against Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3902,
+      "end_ix": 4168,
+      "text": "\nIn a letter to May, he said: \u201cI am writing to you to ask you and the home secretary to take immediate action to ban the president of the United States, Donald Trump, from entering the United Kingdom, due to his apparent support for far-right groups in this country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4168,
+      "end_ix": 4316,
+      "text": "\n\u201cIn retweeting Jayda Fransen\u2019s posts, it is absolutely clear to me that President Trump is supporting and condoning fascism and far-right activity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4316,
+      "end_ix": 4388,
+      "text": "\nThis activity has frequently taken the form of violence on our streets.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4388,
+      "end_ix": 4475,
+      "text": "\nMs Fransen herself has a long history of racism and Islamophobia, some of it criminal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4475,
+      "end_ix": 4623,
+      "text": "\nMany of the people you have rightly banned from entering the UK were guilty of less than this.\u201d\u2026\nArticle posted with permission from Robert Spencer",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      457,
+      574,
+      "Whataboutism"
+    ],
+    [
+      489,
+      527,
+      "Loaded_Language"
+    ],
+    [
+      575,
+      600,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      616,
+      733,
+      "Whataboutism"
+    ],
+    [
+      734,
+      757,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      813,
+      847,
+      "Doubt"
+    ],
+    [
+      934,
+      998,
+      "Causal_Oversimplification"
+    ],
+    [
+      1095,
+      1252,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1095,
+      1252,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      1329,
+      1362,
+      "Flag-Waving"
+    ],
+    [
+      1882,
+      1969,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2407,
+      2700,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2409,
+      2697,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2754,
+      2813,
+      "Loaded_Language"
+    ],
+    [
+      3303,
+      3460,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3303,
+      3460,
+      "Reductio_ad_hitlerum"
+    ]
+  ]
+}

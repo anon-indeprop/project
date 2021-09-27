@@ -1,0 +1,4727 @@
+{
+  "article_id": "728972961",
+  "sentence offsets in original": [
+    0,
+    321,
+    612,
+    821,
+    959,
+    1284,
+    1418,
+    1434,
+    1451,
+    1768,
+    2188,
+    2248,
+    2501,
+    2608,
+    2663,
+    2813,
+    2879,
+    2935,
+    3079,
+    3084,
+    3168,
+    3279,
+    3348,
+    3401,
+    3522,
+    3544,
+    3571,
+    3603,
+    3801,
+    3819,
+    3840,
+    3845,
+    3866,
+    3946,
+    3951,
+    4186,
+    4191,
+    4325,
+    4394,
+    4421,
+    4653,
+    4735,
+    4779,
+    4936,
+    5016,
+    5045,
+    5067,
+    5196,
+    5254,
+    5266,
+    5299,
+    5369,
+    5564,
+    5658,
+    5747,
+    5784,
+    5918,
+    6035,
+    6212,
+    6330,
+    6419,
+    6569,
+    6663,
+    6989,
+    7020,
+    7034,
+    7143,
+    7401,
+    7417,
+    7434,
+    7468,
+    7608,
+    7802,
+    7919,
+    8075,
+    8291,
+    8337,
+    8374,
+    8504,
+    9032,
+    9074,
+    9160,
+    9237,
+    9350,
+    9382,
+    9408,
+    9444,
+    9548,
+    9648,
+    9684,
+    10015,
+    10393,
+    10453,
+    10540,
+    10564,
+    10612,
+    10722,
+    10794,
+    10812,
+    10817,
+    10920,
+    10948,
+    11009,
+    11182,
+    11273,
+    11418,
+    11434,
+    11490,
+    11602,
+    11789,
+    11827,
+    11861,
+    11992,
+    12093,
+    12110,
+    12137,
+    12275,
+    12320,
+    12399,
+    12675,
+    13121,
+    13234,
+    13248,
+    13259,
+    13274,
+    13460,
+    13625,
+    13649,
+    13864,
+    13992,
+    14014,
+    14094,
+    14213,
+    14299,
+    14335,
+    14409,
+    14490,
+    14738,
+    15012,
+    15032,
+    15044,
+    15154,
+    15254,
+    15274,
+    15323,
+    15339,
+    15421,
+    15555,
+    15585,
+    15606,
+    15627,
+    15637,
+    15728,
+    15749,
+    15767,
+    15785,
+    15829,
+    15881,
+    15941,
+    16021,
+    16056,
+    16150,
+    16262,
+    16278,
+    16302,
+    16350,
+    16400,
+    16434,
+    16473,
+    16478,
+    16532,
+    16551,
+    16698,
+    16717,
+    16784,
+    16892,
+    16915,
+    17041,
+    17071,
+    17118,
+    17191,
+    17255,
+    17288,
+    17335,
+    17399,
+    17454,
+    17473,
+    17578,
+    17717,
+    17811,
+    18032,
+    18042,
+    18170,
+    18204,
+    18274,
+    18303,
+    18376,
+    18475,
+    18518,
+    18545,
+    18710,
+    18772,
+    18796,
+    18813,
+    18892,
+    18963,
+    19023,
+    19244,
+    19316,
+    19516,
+    19578,
+    19671,
+    19707,
+    19768,
+    19796,
+    19825,
+    19841,
+    19936,
+    19984,
+    20025,
+    20039,
+    20060,
+    20075,
+    20120,
+    20155,
+    20193,
+    20272,
+    20295,
+    20343,
+    20357,
+    20533,
+    20549,
+    20668,
+    20774,
+    20788,
+    20803,
+    20892,
+    20917,
+    20953,
+    21004,
+    21014,
+    21028,
+    21042,
+    21079,
+    21181,
+    21242,
+    21365,
+    21387,
+    21428,
+    21457,
+    21515,
+    21572,
+    21612,
+    21636,
+    21683,
+    21769,
+    21787,
+    21813,
+    21846,
+    21864,
+    21901,
+    21910,
+    21933,
+    21953,
+    22002,
+    22058,
+    22074,
+    22087,
+    22167,
+    22277,
+    22366,
+    22387,
+    22475,
+    22603,
+    22770,
+    22786,
+    22806,
+    22828,
+    22843,
+    22858,
+    22898,
+    23018,
+    23045,
+    23146,
+    23160,
+    23220,
+    23283,
+    23304,
+    23336,
+    23360,
+    23413,
+    23447,
+    23500,
+    23514,
+    23536,
+    23619,
+    23751,
+    23945,
+    23966,
+    23994,
+    24013,
+    24029,
+    24149,
+    24222,
+    24226,
+    24238,
+    24250,
+    24266,
+    24308,
+    24331,
+    24348,
+    24358,
+    24383,
+    24402,
+    24509,
+    24544,
+    24638,
+    24662,
+    24721,
+    24894,
+    25034,
+    25064,
+    25086,
+    25116,
+    25135,
+    25146,
+    25203,
+    25258,
+    25290,
+    25311,
+    25353,
+    25387,
+    25466,
+    25520,
+    25550,
+    25568,
+    25596,
+    25697,
+    25736,
+    25782,
+    25923,
+    25964,
+    26031,
+    26056,
+    26167,
+    26345,
+    26506,
+    26530,
+    26570,
+    26634,
+    26673,
+    26711,
+    26725,
+    26869,
+    27012,
+    27107,
+    27137,
+    27168,
+    27247,
+    27290,
+    27299,
+    27321,
+    27400,
+    27490,
+    27627,
+    27686,
+    27698,
+    27832,
+    28005,
+    28071,
+    28080,
+    28163,
+    28179,
+    28200,
+    28238,
+    28262,
+    28386,
+    28504,
+    28641,
+    28670,
+    28722,
+    28840,
+    28890,
+    28923,
+    28956,
+    29024,
+    29152,
+    29243,
+    29274,
+    29360,
+    29419,
+    29538,
+    29654,
+    29699,
+    29757,
+    29780,
+    29837,
+    29872,
+    29895,
+    29920,
+    29945,
+    29967,
+    29999,
+    30220,
+    30442,
+    30544,
+    30613,
+    30616,
+    30811,
+    30983,
+    31163
+  ],
+  "original sentences": [
+    "FOR THE FIRST TIME ONLINE: Archbishop Lefebvre\u2019s Prophetic Address to The Remnant, 1976\n\nOn that occasion Archbishop Lefebvre delivered an address on the desperate state of the Church at that time\u201442 years ago\u2014that was never transcribed or published until we did so for the December 15, 2017 print edition of The Remnant.",
+    "\nIt was held at the Radisson South Hotel, Minneapolis, on Tuesday, May 12, 1976, and its stated purpose was to assist the Archbishop in gaining a stronger foothold for the Society of St. Pius X in the States during the unprecedented crisis Blessed Pope Paul had helped unleash on the Church.",
+    "\nI\u2019m posting the address here because I'm convinced the Archbishop\u2019s words provide recent recruits to Tradition with vital historical context for the diabolical debacle that is the pontificate of Pope Francis.",
+    "\nAnd for those of us who\u2019ve been in the trenches for a long, long time it also provides welcome reminder of why we must continue to fight.",
+    "\nEven though I personally was in attendance back in 1976 when Archbishop Lefebvre delivered this address in Minneapolis, I was only ten years old and of course didn't realize how prophetic he was on that occasion, or how devastated by the Second Vatican Council, the New Mass, and the Freemasonic infiltration of the Vatican.",
+    "\nIn fact, this transcript reads like a message of encouragement at a crucial moment in the history of this movement\u2014Stay in the fight!",
+    "\nKeep the Faith.",
+    "\nNever surrender!",
+    "\nThis address also makes it absolutely clear that everything Archbishop Lefebvre did was part of an eleventh-hour defence of the Kingship of Christ (ignored completely by the Second Vatican Council) and a desperate last stand for Tradition, the infallible teachings of Mother Church and of course her ancient liturgy.",
+    "\nAnd now that Pope Francis has inadvertently unmasked the true spirit of Vatican II, it becomes obvious how and why those who resisted that spirit were right to have done so and will certainly be hailed by history as the heroic band of Catholic brothers that mounted the twentieth century\u2019s last stand for Christ the King and, while scorned and mocked at the time, were nevertheless totally vindicated fifty years later.",
+    "\nMay we continue to earn the right to stand with them today.",
+    "\nMJM\nThe Archbishop Speaks\nLadies and Gentlemen:\nAs I said to Mr. [Walter] Matt, I can say in bad English what he says in good English, because he said all of the things I want to say [Referring here to Walter Matt\u2019s introductory talk referenced above.]",
+    "\nAnd I thank you, Mr. Matt, very much, for his invitation, and I thank you for your coming, and I thank Fr.",
+    "\nWard for what he said about the Society of St. Pius X.",
+    "\nAnd I hope that you can understand my poor English, but I think it is better to speak some bad English because to translate would take too much time.",
+    "\nAs Mr. Matt said, the crisis in the Church is very extraordinary.",
+    "\nIt is very difficult to understand the situation today.",
+    "\nMy seminary in Econe (in Switzerland) and the seminaries in Germany and here in America, in Armada, are in very difficult situations with Rome.",
+    "\nWhy?",
+    "\nThese seminaries are the same as seminaries were before the Second Vatican Council.",
+    "\nThey have the same discipline and the same studies, they make good priests; I think they are good seminarians.",
+    "\nAll is done as all the seminaries before the Second Vatican Council.",
+    "\nWhy are we now in this very sad situation with Rome?",
+    "\nI think that because in the Second Vatican Council, and after the Council, there is a mutation, a change, in the Church.",
+    "\nBut we do not change.",
+    "\nWe continue the Tradition.",
+    "\nSo why do they now say, as Mgr.",
+    "\n(Archbishop) Benelli[1] said to me months ago on the 19th of March, \u201cyou are out of communion with the Church.\u201d I am out of communion with the Church because I continue the Tradition of the Church?",
+    "\nThis is possible?",
+    "\nI do not understand.",
+    "\nWhy?",
+    "\nI have done nothing.",
+    "\nI believe nothing other than what the Church has believed for twenty centuries.",
+    "\nMgr.",
+    "\nBenelli then said to me, you must put down in a writing to the Holy Father that you accept the Second Vatican Council, you accept the reform that followed the Council, and that you accept the orientations that have been given by Rome.",
+    "\nMgr.",
+    "\nBenelli took the book of the New Ordo, gave it to me, and said, \u201cYou must say this New Mass in all of your houses.\u201d\nI wonder why Mgr.",
+    "\nBenelli did not communicate this condition to me before our meeting.",
+    "\n[2] He could have done so.",
+    "\nFor example, one year ago three cardinals sent me a letter (Cardinals Wright, Tabera [Arturo Carinal Tabera Araoz, one of the Council Fathers MJM], and Gabriel-Marie Garrone) telling me (in effect) that I must close the seminaries.",
+    "\nWell, I refused, because I refuse to contribute to the destruction of the Church.",
+    "\nBecause now they are destroying the Church.",
+    "\nWhen I die and go before the judge, God will not be able to say to me, \u201cYou destroyed the Church.\u201d I refused to contribute to the destruction of the Church.",
+    "\nI am sure that my seminaries are contributing to the restoration of the Church.",
+    "\nI do not destroy the Church.",
+    "\nAnd so I said to Mgr.",
+    "\nBenelli, \u201cNo, I will not sign that writing.\u201d\nI think that the mutation in the Church came in through the Second Vatican Council.",
+    "\nAnd do you think this change in the Church came suddenly?",
+    "\nWhen, then?",
+    "\nAt the beginning of the Council?",
+    "\nNo, this change in the Church began one century before [the Council].",
+    "\nPope Pius VI said during the French Revolution that if the Church continues to remain under the influence of the prince of the revolution, then, in the future a crisis will come upon the Church.",
+    "\nIn [1844], Pope Pius IX ordered Cardinal Rigoli to publish the Instructions of the Carbonari.",
+    "\n[3] The Pope himself asked Cardinal Rigoli to publish the Instructions of the Carbonari.",
+    "\nAnd what did these Instructions say?",
+    "\nThe Instructions said that they [the Carbonari/Freemasons] must begin to fight against the Church by bringing reform into the Church.",
+    "\nThe Instructions said the infiltration will take perhaps not one year, perhaps not ten years, but perhaps a century.",
+    "\nThe Carbonari must enter into the seminary, into the convent, into the sacristy, and slowly, very slowly, the priests will have the ideals of the revolution; of the Freemasons.",
+    "\nOne day these priests, imbued with Masonic principles, will become bishops, and these bishops can then choose a pope.",
+    "\nAnd even if the pope is not a Freemason, he will have the same ideals as the Freemasons.",
+    "\nPope Pius IX called for the publishing of these Instructions in order to warn the bishops and priests of those times of the fight against the church.",
+    "\nIn 1895, the Catholic Antonia Fogazzaro, a known modernist, founded a masonic lodge in Milan.",
+    "\nHe wrote in his book, Il Santo, that \u201cWe [modernists]\u2026want a reform in the Church\u2026without rebellion, carried out by legitimate authority\u2026even if this takes 20, 30, or 50 years.\u201d[4] \u201cThe reform will have to be brought about in the name of obedience.\u201d The modernist ideas in the Church introduced and enacted through obedience!",
+    "\nAnd I think\u2026well, here we are!",
+    "\nIn this time!",
+    "\nThe reform is here, and it is brought about through obedience, to the Council, to the bishop, to the priest.",
+    "\nAnd all they say is \u201cObedience, obedience, obedience.\u201d\nThe Instructions of the Carbonari say the bishop and the priest will think that they are following the tiara of the Pope, but they will be following the flag of Freemasonry [\u201cthe banner of revolution\u201d].",
+    "\nThey said that.",
+    "\nThey wrote that!",
+    "\nOne century before [the Council]!",
+    "\nThus, it is very important to know that they prepared for the beginning of the Second Vatican Council for a century, perhaps two centuries!",
+    "\nAs the Archbishop of Dakar and President of the Episcopal Commission for French-speaking West Africa, I was appointed member of the Central Preparatory Commission of the Second Vatican Council.",
+    "\nThere were some seventy cardinals, twenty bishops, and four super-authorities of the religious orders, among others.",
+    "\nBefore the last meeting of this Commission the members received two schemas on the same subject: one from Cardinal Ottaviani and another from Cardinal Bea.",
+    "\nThe schema from Cardinal Ottaviani was titled \u201c\u2026On Religious Tolerance\u201d and the other, from Cardinal Bea, was titled \u201cOn Religious Freedom [Liberty].\u201d When we read these two schemas, we thought, \u201cThis is impossible.",
+    "\nHow is it we can receive two opposing theses?",
+    "\nOne says we must not tolerate error.",
+    "\nThe other says that error has the right to exist in the name of the dignity of the human person.\u201d And so, we go into the meeting.",
+    "\nCardinal Ottaviani, standing, says to Cardinal Bea, \u201cYou have no authority to compose this schema, because it is a theological thesis and therefore within the competence of the Theological Commission.\u201d As Cardinal Bea stands up, he says, \u201cI do have the right to compose this schema because if anything concerns Christian Unity it is religious liberty, and I am the President of the Secretariat for Promoting Christian Unity.\u201d Cardinal Bea, addressing Cardinal Ottaviani, further said, \u201cI am opposed to your schema.\u201d\nImpossible!",
+    "\nWe were in a very sad, serious situation.",
+    "\nCardinal Ruffini had to intervene as we were in front of two cardinals, our brothers.",
+    "\nHe said we must wait for the authority to say who is right and who is wrong.",
+    "\nBut before the Pope came (because the Pope came many times to present at these meetings) we voted on the schema.",
+    "\nWho is with Cardinal Ottaviani?",
+    "\nWho is with Cardinal Bea?",
+    "\nThe conservatives and the liberals.",
+    "\nAs the last meeting of the Preparatory Commission, it was for me the first image of the future Council.",
+    "\nThis historic address appeared for the first time ever in a print edition of The Remnant last year.",
+    "\nIsn't it time for you to subscribe?",
+    "\nAnd as we go into the Council, you know that on the first day of the Council, Cardinal Lienart was the chief of the liberal cardinals in the Council, [together] with all of the Cardinals of the Rhine (such as Cardinal Alfrink, Cardinal Frings, Cardinal Dopfner, Cardinal Suenens, Cardinal Leinart, and Cardinal Koenig of Austria).",
+    "\nAnd now one month ago in Rome, the traditional periodical Chiesa Viva published a photo of Cardinal Lienart with all of the appurtenances of Freemasonry, the date of his inscription in Masonry, the date [of his rising to] the 20th Degree of Freemasonry, the date [of his rising to] the 30th Degree of Freemasonry, and the places where he [attended] the meetings of Freemasonry.",
+    "\nThis Cardinal was the chief of the liberals in the Council.",
+    "\nThat is my cardinal; he ordained me to the priesthood, and he consecrated me a bishop.",
+    "\nAnd now this is public.",
+    "\nNobody has been able to refute the publication.",
+    "\nAnd so, we have (I am confident) a mutation in the church by the Council and by the reform after the Council.",
+    "\nNow, some say the Council is (was) good, but only the reforms were bad.",
+    "\nThat is not true.",
+    "\nWhy?",
+    "\nBecause when the reforms come, Rome always says the reforms are being done in the name of the Council.",
+    "\nIn the name of the Council!",
+    "\nIt is evident that all of the reforms came from the Council.",
+    "\nAnd if the reforms are bad, then it is impossible that the Council is good and all the reforms are bad, because that is the authentic interpretation of the Council by Rome.",
+    "\nRome said in the name of the Declaration of Liturgy, we [implement] the liturgical reform.",
+    "\nWe can say that [these bad changes are] not in the text of the Declaration, but this man has the authority to say that this is from the Council.",
+    "\nThey know that.",
+    "\nAnd I am sure that it [the mutation] is in the Council.",
+    "\nEven if it is not explicitly [stated] in the Council but [rather] in the spirit of the Council, it is the same!",
+    "\nFor example, with religious freedom: now the Holy See and all the Nuncios are against the Catholic State in the name of the Council - in the name of the Declaration of Religious Freedom.",
+    "\nI have heard this (personally) twice.",
+    "\nThe first time I was in Columbia.",
+    "\nWhen I was in Columbia, I read in the paper about the change in the first article of the Constitution of the Republic of Columbia.",
+    "\n[The first article] stated that only the Republic of Columbia recognizes only the Catholic religion.",
+    "\nThey changed it.",
+    "\nThey removed this article.",
+    "\nI read the discourse of the President of Columbia with the Nuncios of Columbia and the Secretary of the Episcopal Conference in Columbia.",
+    "\nThe President said he is very, very anxious.",
+    "\nHe said to the people, \u201ceven though we remove this article we remain Catholic.",
+    "\nI am a Catholic, I shall remain Catholic, and I do everything possible for the Council and the Catholics in our country.\u201d\nThen, the discourse of the Nuncio was the discourse of a Freemason: all of it was \u201cprogress,\u201d \u201chumanity,\u201d \u201cevolution,\u201d and all the hubris of a Freemason.",
+    "\nAnd during the discourse of the Secretary of the Episcopal Conference, [the Secretary] said, \u201cin the name of the Declaration of Religious Freedom [of Vatican II], we ask the President to remove this article in the Constitution.\u201d\nI met this Secretary of the Episcopal Conference during my visit in Columbia, and he said for two years they [had been asking] the President, in the name of the Holy See, to change this article in their Constitution.",
+    "\nBut I will never\u2026I do not accept the concept, because you destroy the Catholic State in the name of the Council.",
+    "\nAre you sure?",
+    "\nYes, sure.",
+    "\nIt is evident.",
+    "\nNow I said to the [Secretary], \u201cAs I speak with you now about Columbia, I know that you are the one responsible for the change in the constitution of Valais in Switzerland one year ago.",
+    "\nThe change in the Constitution of Valais was the same.\u201d (Because you know Switzerland is a Federation where some states are Protestant and some states are Catholic.",
+    "\nThe Valais is Catholic.",
+    "\nAnd in its constitution, the words of the first article [of the constitution] of the State of Valais \u2013 Econe, where we are located, is in the State of Valais - only one religion is recognized: The Catholic Church.)",
+    "\nAnd [the Secretary] said, \u201cYes, I am responsible for this change.\u201d Brother, what did you do with the Social Kingship of Christ?",
+    "\nWhat is this for you?",
+    "\nWhat do you say when you say \u201cthy kingdom come\u201d in your prayer, the Our Father?",
+    "\n\u201cAh,\u201d the Nuncio said to me, \u201cNow it is impossible.\u201d What did you do with the encyclical of Pope Pius XI, Quas Primas?",
+    "\n\u201cAh, but now the Pope cannot write an encyclical like Quas Primas.\u201d\nIt is incredible.",
+    "\nAnd all in the name of the Council.",
+    "\nWe must take care, because this change in the church is a liberal change.",
+    "\nThe liberal principles have entered the Church now, and they destroy the Church.",
+    "\nIf we cannot set out the true principles of the Church, if we in the name of religious freedom said that all religions have the same right in every state in the world\u2026\n[missing audio...]\nThe truth is the only one King of the World is Jesus Christ.",
+    "\nWe say in the Gloria in Excelsis Deo, \u201cTu solus Altissimus,\u201d \u201cTu solus Dominus,\u201d \u201cYou alone are the Highest,\u201d \u201cYou alone are the Lord.\u201d But practically, we would refuse this Kingdom of Jesus Christ if we said that Luther, Mohammed, Buddha and Jesus Christ are all the same.",
+    "\nWe cannot say that.",
+    "\nImpossible.",
+    "\nWe know that in many states (it is a pity) it is impossible [to recognize Catholicism as the state religion].",
+    "\nWe must tolerate - have tolerance for the error - but never give the same right to error and truth.",
+    "\nThat is impossible.",
+    "\nAnd the change in the liturgy is very important.",
+    "\nIt is very bad.",
+    "\nOne of the principles of modern man, as they say now, \u201cmodern man,\u201d is democracy.",
+    "\nAnd democracy can have a good sense but not if [by that term is meant] that those who govern receive their authority from the people.",
+    "\nThe authority comes from God.",
+    "\nNot from the people.",
+    "\nNot from the masses.",
+    "\nFrom God.",
+    "\nBut today the principle, the democratic principle, is that the authority is in the people.",
+    "\nIt is in the masses.",
+    "\nThat is not true.",
+    "\nIt is impossible.",
+    "\nAnd our liturgy is the school of our Faith.",
+    "\nIt is the first school of our Faith for all people.",
+    "\nI was in Africa as a missionary and as bishop for 30 years.",
+    "\nI know the liturgy was the best school of the Faith for people who cannot read.",
+    "\nThey can see what the priest does.",
+    "\nThey can see what the priest does at the adoration of the Body and the Blood of Jesus Christ.",
+    "\nAnd they know that Jesus Christ is present - His real presence is on the altar - by the attitude of the priest.",
+    "\nThey know that.",
+    "\nThat is very important.",
+    "\nBut the change in the Mass destroys the Church.",
+    "\nBecause we know the liturgy teaches us hierarchy.",
+    "\nThe true liturgy is hierarchical.",
+    "\nIt is not democratic but hierarchical.",
+    "\nWhy?",
+    "\nBecause we have God, the priest, and then the people.",
+    "\nThat is hierarchy.",
+    "\nWhen we are in Church we know God is on the altar; the priest is between God and the people; and the people receive God at the hand of the priest.",
+    "\nThat is hierarchy.",
+    "\nBut now the new liturgy is more democratic - all around the table.",
+    "\nThe priest is only the president, and sometimes another man can take the role of the president of the meal.",
+    "\nThat is a new liturgy.",
+    "\nThat is very bad, because we have no sense of the hierarchical; whereas the sense of hierarchy is very important in our life.",
+    "\nWe need the authority of God.",
+    "\nWe need the Real Presence of God on our altar.",
+    "\nWe need the Sacrifice of the Mass \u2013 not a meal only \u2013 but the Sacrifice.",
+    "\nSo, the Victim of the Sacrifice is really present on our altar.",
+    "\nThat is the school of our Faith.",
+    "\nAnd slowly, slowly, this new Mass equivocates.",
+    "\nIt moves the minds of the faithful in a Protestant [direction].",
+    "\nI do not say that all [Novus Ordo] Masses are invalid.",
+    "\nI do not say that.",
+    "\nBut perhaps, more and more, they become invalid because [the ministers lose faith in the Real Presence].",
+    "\nRecently, in France, a progressive paper conducted a statistical survey to see how many priests no longer have faith in the Real Presence.",
+    "\nThey found that twenty-two percent no longer have the faith, the belief in the Real Presence.",
+    "\nBut I think that if they directed this question to all of the priests who are under 50 years of age, they would find that fifty percent [have lost the faith in the Real Presence], because the young priests have no faith.",
+    "\nNo faith.",
+    "\nLast year, Bishop Adam (in our Diocese of Sion, Switzerland) ordained one priest for my Congregation of the Holy Ghost Fathers.",
+    "\nThis one priest came from France.",
+    "\nHis uncle had died in a road accident when his cab fell in the river.",
+    "\nThe uncle had nine children.",
+    "\nThe Bishop said to the new priest, \u201cNow you can say Mass for your uncle.",
+    "\nNow you are a priest, and you can say Mass for your uncle.\u201d The new priest said, \u201cNo, never.\u201d Why?",
+    "\nIt is not useful to say Mass for the dead?",
+    "\n\u201cNo, no, it is impossible.",
+    "\nThey are already in heaven.\u201d This young priest who was ordained by the Bishop last year for my Congregation is now a professor in the minor seminary in Switzerland.",
+    "\nThey are not learning theology, not philosophy, not anything.",
+    "\nThey learn nothing now.",
+    "\nAnother example.",
+    "\nRecently, I had two young [potential] seminarians come to my house near Paris.",
+    "\nOne of them works in a factory, and the other is a university student.",
+    "\nThey told me they were [considering] the seminary of Paris.",
+    "\nI asked them, \u201cWhy do you come to see me?\u201d They told me that they had a meeting in the house of the Oblate of Maria with the priest who oversees young men who may have vocations to the priesthood in the Diocese of Paris.",
+    "\nThere was a total of fifteen young men for all of the Diocese of Paris.",
+    "\nDuring the meeting, the priest, before he celebrated the Eucharist, said, \u201cToday we celebrate the Eucharist, but we do not believe in the Real Presence.\u201d These two young men said \u201cThat is impossible.",
+    "\nWe cannot remain in this seminary.\u201d So, they came to meet me.",
+    "\nThey said that Econe is the only seminary where they seem to be able to find the True Faith.",
+    "\nThey asked for admittance to Econe.",
+    "\nAnd I think that they shall be coming to Econe next October.",
+    "\nBut that is a new religion.",
+    "\nIt is a Protestant religion.",
+    "\nThat is a fact.",
+    "\nPerhaps you can say, \u201cHow is it possible that the pope gives the authorization to this change?",
+    "\nHow is it possible the pope signed this decree?",
+    "\nSigned this constitution?\u201d I don\u2019t know.",
+    "\nI don\u2019t know.",
+    "\nIt is a big mystery.",
+    "\nA big mystery.",
+    "\nThere are many proposed theological answers.",
+    "\nI cannot subscribe to all of them.",
+    "\nSome say the pope is not responsible.",
+    "\nPerhaps someone gave the pope an injection, a drug, and he is not responsible.",
+    "\nPerhaps, I don\u2019t know.",
+    "\nSome say there are two popes [(a body double)].",
+    "\nI don\u2019t know.",
+    "\nSome say the pope was liberal before he was elected pope, and perhaps (we do not know) he gave his name to Freemasonry (thereby incurring excommunication before the conclave).",
+    "\nWe do not know.",
+    "\nWe do know now that Bugnini was primarily responsible for the change in liturgy, and that he is an infamous Freemason.",
+    "\nAnd because he had an indiscretion with his Masonic appurtenances, the Pope sent him as a Nuncio in Iran.",
+    "\nI don\u2019t know.",
+    "\nWe don\u2019t know.",
+    "\nNow, you cannot say that Archbishop Lefebvre said the pope gave his name to Freemasonry.",
+    "\nNo, you cannot say that.",
+    "\nIt is possible, but we do not know.",
+    "\nBut if he was excommunicated, then he is not pope.",
+    "\nNot pope.",
+    "\nIllegitimate.",
+    "\nI don\u2019t know.",
+    "\nIt is a mystery I cannot understand.",
+    "\nBut the fact is that the Catholic Church is being destroyed, and now even the pope himself says that.",
+    "\nThis pope has referred to the auto-demolition of the Church.",
+    "\nHe said, \u201cThe smoke of Satan has entered the Church.\u201d But where are the men responsible for the destruction of the Church?",
+    "\nWell, there they are.",
+    "\nThey are the men who destroy the Church.",
+    "\nWe must show where they are.",
+    "\nWhere is this smoke of Satan that has entered the Church?",
+    "\nI do not know, but it is the pope himself who said that.",
+    "\nAnd I have these experiences every day.",
+    "\nI visit many countries.",
+    "\nI was in Spain during the Christmas Holy Days.",
+    "\nThen I was in Bonn, near Cologne, Germany, three weeks ago, to speak at a conference.",
+    "\nMany people came.",
+    "\nMany people are confused.",
+    "\nWhat is happening in the Church?",
+    "\nThey are anxious.",
+    "\nBut many people say that we disobey.",
+    "\nDisobey?",
+    "\nObedience is relative.",
+    "\nIt is not absolute.",
+    "\nIt is relative to the good, but not to the evil.",
+    "\nWe cannot obey our parents if they command a bad thing.",
+    "\nWe cannot obey.",
+    "\nIt is clear.",
+    "\nAnd I know that in Spain, for example, the situation in the Church is very bad.",
+    "\nThe new nominees of bishops and many auxiliary bishops are, approximately, communist, Marxist, and socialist.",
+    "\nAnd so, a majority of the bishops in the Episcopal Conference of Spain are progressives.",
+    "\nThey are modernists.",
+    "\nWhereas, the majority of the bishops [from Spain] during the Council were conservative.",
+    "\nSo, Rome is responsible [for the situation of the Church in Spain] because it is Rome who approves the nominations for bishops.",
+    "\nAnd we know in France, in Germany, and in Europe generally, that all of the young bishops are worse [than the bishops in Spain] in that they are more or less Marxist.",
+    "\nThat is a fact.",
+    "\nThat is impossible.",
+    "\nHow can they do that?",
+    "\nI do not know.",
+    "\nI do not know.",
+    "\nI have not spent my whole life in Rome.",
+    "\nI do know Rome very well, because I was an apostolic delegate, and I was in the Secretariate of the Secretary of State.",
+    "\nAnd I know that very well.",
+    "\nBut I think that the devil is in Rome, as was said by our Lady of Fatima and Our Lady of La Salette.",
+    "\nWe must pray.",
+    "\nWe must ask God to put an end to this crisis of the Church.",
+    "\nBecause if this crisis continues, many people will go to hell.",
+    "\nThey lose the faith.",
+    "\nThey cannot go into the church.",
+    "\nThey abandon the faith.",
+    "\nYou know that many priests have abandoned the faith.",
+    "\nMany priests have gotten married.",
+    "\nAnd many sisters have abandoned their congregations.",
+    "\nIt is a pity.",
+    "\nAnd it is everywhere.",
+    "\nI was in Melbourne, Australia, during the 40th International Eucharistic Congress.",
+    "\nCardinal Knox, who was the man responsible for the Eucharistic Congress, is now the Prefect of the Congregation for Divine Worship.",
+    "\nI read in the newspaper about a Mass Cardinal Knox celebrated during the Eucharistic Congress where sensual dancing was performed at the same time the words of the Consecration were pronounced.",
+    "\nThat is a sacrilege.",
+    "\nYou cannot go to that Mass.",
+    "\nThat is sacrilege.",
+    "\nThis is a fact.",
+    "\nThey also called me by phone in Melbourne to say I was on the list of the bishops [attending] the Eucharistic Congress.",
+    "\nThey asked me to concelebrate Mass with a Protestant pastor and a rabbi.",
+    "\nAy.",
+    "\nImpossible.",
+    "\nImpossible.",
+    "\nNo, no, no, no.",
+    "\n[applause]\nThis change is not accidental.",
+    "\nIt is not superficial.",
+    "\nIt is very deep.",
+    "\nVery bad.",
+    "\nIt is against our faith.",
+    "\nAgainst our faith.",
+    "\nAnd so, we cannot accept this Council and this reform and this orientation even though it comes from Rome.",
+    "\nFrom Rome we expect only the good.",
+    "\nWe do not expect the bad, the ill. We do not expect the abandonment of adoration in the Mass.",
+    "\nWe need this adoration.",
+    "\nWe need to have the faith in the divinity of Jesus Christ.",
+    "\nBecause all [of this change] is [oriented] against the divinity of Jesus Christ, against the Kingdom of Jesus Christ, against the Real Presence of Jesus Christ in the Mass.",
+    "\nIt is a sin when we abandon the truth of the Kingdom of Jesus Christ, everywhere, and we abandon the Faith of the divinity of Jesus Christ.",
+    "\nHe is King because he is God.",
+    "\nHe is the Son of God.",
+    "\nSo, He is King by His nature.",
+    "\nThis is essential.",
+    "\nEssential!",
+    "\nAnd if He is God, we must give Him the adoration of God.",
+    "\nAnd so, we cannot accept the diminution of this Truth.",
+    "\nJesus Christ is the Son of God.",
+    "\nJesus Christ is God.",
+    "\nThat is a fundamental truth of our Faith.",
+    "\nAnd it all depends on this Truth.",
+    "\nAnd we know now that the theologians and the bishops have [a new orientation].",
+    "\nThey do not express this truth clearly and perfectly.",
+    "\nThey are afraid of the truth.",
+    "\nThat is very bad.",
+    "\nAnd it is the same in Rome.",
+    "\nI think they refuse [to grant me an audience with] the pope, [because they are afraid of the Truth].",
+    "\nWhen I was in Rome one month ago, Mgr.",
+    "\nBenelli told me he visits the pope every day.",
+    "\nHe said that when he left me, he would go immediately to the pope to express the importance of the work we had conducted during our meeting.",
+    "\nImmediately, he said, he would be going.",
+    "\nSo, why do they not grant me the possibility of visiting the pope?",
+    "\nBecause they are afraid.",
+    "\nMeanwhile the Vatican operated a veritable swinging door where actual heretics and schismatics were concerned.",
+    "\nHere, again, is Blessed Paul VI, famously meeting for the first time ever with the heretic Archbishop of Canterbury in St. Peter's:\nCardinal Villot said, \u201cWe are afraid if Msgr.",
+    "\nLefebvre meets and speaks with the pope that perhaps the pope will change his mind.\u201d Because [the pope] is not too sure; the pope is not man of true conviction.",
+    "\nHe is a mysterious man.",
+    "\nWe cannot give a definition of the man.",
+    "\nHe expresses the truth, and then he does the contrary/opposite.",
+    "\nSome part of him will speak the truth.",
+    "\nAnother part of him is open to error.",
+    "\nVery curious.",
+    "\nAnd they are afraid that if I reveal the truth [and tell the Pope] \u201cyou must affirm the Kingdom of Jesus Christ everywhere and always each day.",
+    "\nYou must affirm the Real Presence in the Mass - in the Sacrifice of the Mass,\u201d then perhaps it is possible that the Pope will change his mind.",
+    "\nAnd so, Cardinal Villot says, there is a confusion, and they do not want me to visit the pope.",
+    "\nIt is impossible to admit me.",
+    "\nAnd I know the pope very well!",
+    "\nWhen I was the apostolic delegate to Pius XII, I was going to Rome every year.",
+    "\nAnd during those eleven years, I met Msgr.",
+    "\nMontini.",
+    "\nI know him very well.",
+    "\nHe received me twice during the Council, for a private audience with the pope.",
+    "\nBut, now, with my position against the Council and the reforms, he says: \u201cNo, impossible!",
+    "\nYou must sign in writing that you [accept] the Council and all the reforms before I will receive you in audience.\u201d But I cannot do that.",
+    "\nFor me, if I do that, then I betray my mother, the Church.",
+    "\nThe Church!",
+    "\nSo, I thank you very much for your encouragement, and I must say that we have a very good generation of young men and good vocations.",
+    "\nFor the coming year we have 59 applications to our seminary in Econe, Switzerland \u2013 applications from the United States, from England, from Germany, from France, and Spain.",
+    "\nGood young men with good dispositions are coming from everywhere.",
+    "\nAnd why?",
+    "\nWhy do they come to this seminary when they know we are in difficulties with Rome?",
+    "\nThey know that.",
+    "\nBut still they come.",
+    "\nI ask them, why do you come to Econe?",
+    "\nYou know our situation.",
+    "\nThey say, \u201cYes, we know your situation, but we want to become true priests and not protestant pastors or modernist priests.",
+    "\nWe are coming to your seminary because we know that the end of the priest is to offer the true Sacrifice of the Mass.",
+    "\nAnd so, we are Coming to Econe.\u201d\nAnd as I have visited my seminary here in Armada for the past five days, I can see it is the same here.",
+    "\nWe have very good young men.",
+    "\nI also have some Americans in my seminary in Econe.",
+    "\nIn six weeks I will ordain one American priest from Detroit, who is a very good seminarian and will be a good priest.",
+    "\nBut these young men refuse to become protestants.",
+    "\nThey refuse to become modernist.",
+    "\nThey ask to become true priests.",
+    "\nAnd it is a pity there are not 100 bishops opening good seminaries.",
+    "\nSo, I ask you to pray for these seminarians because when they become priests they will have many worries and many difficulties.",
+    "\nI think, however, they are very well prepared to deal with these difficulties and worries.",
+    "\nAnd we have confidence in God.",
+    "\nSince I began this work six years ago, now, I have evidence that God is assisting us.",
+    "\nBecause it is impossible, I realize, to do this by myself.",
+    "\nWe now have houses in Switzerland (3), Munich, France (6), Brussels (1), England, Armada, San Francisco, and New York.",
+    "\nIn Albano, near Rome, we have a congregation of sisters where I have five vocations from the states (good sisters).",
+    "\nAnd I am building a seminary in Switzerland.",
+    "\nIt is impossible to do all this without God\u2019s assistance.",
+    "\nSo, I have confidence.",
+    "\nIt is impossible for the Church to change its tradition.",
+    "\nThe tradition of twenty centuries.",
+    "\nThat we cannot change.",
+    "\nThe Church is tradition.",
+    "\nThe Church is tradition.",
+    "\nIt is not revolution.",
+    "\nI thank you for your attention.",
+    "\nNOTES:\n[1] Archbishop Benelli, who had the title of \u201cSubstitute\u201d (meaning the Assistant to the Secretary of State) of the Vatican Secretariat of State, later created Cardinal and appointed Archbishop of Florence in 1977.",
+    "\n[2] Until the date of this meeting, March 19, 1976, nothing had been said to Archbishop Lefebvre about this condition of submission, which submission was demanded of him as a condition to his request for a Papal Audience.",
+    "\nMany noted that, at the time, it was only of Archbishop Lefebvre that these conditions were demanded.",
+    "\nPaul VI received all kinds of people (abortionists, freemasons, etc.",
+    "\n).",
+    "\n[3] Otherwise known as the \u201cPermanent Instruction of the Alta Vendita,\u201d a secret document written in the early 19th Century that mapped out a blueprint for the subversion of the Catholic Church.",
+    "\nThe Alta Vendita was the highest lodge of the Carbonari, an Italian secret society with links to Freemasonry and which, along with Freemasonry, was condemned by the Popes.",
+    "\n[4] During the pontificate of St. Pius X, a lay politician and author Antonio Fogazzaro, advocated a path to reform the Church and Papacy in his novel Il Santo, published in 1907.",
+    "\nFogazzaro was a known Modernist whose works were banned by the Church and placed on the Index of Forbidden Books."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 321,
+      "text": "FOR THE FIRST TIME ONLINE: Archbishop Lefebvre\u2019s Prophetic Address to The Remnant, 1976\n\nOn that occasion Archbishop Lefebvre delivered an address on the desperate state of the Church at that time\u201442 years ago\u2014that was never transcribed or published until we did so for the December 15, 2017 print edition of The Remnant.",
+      "new_text": "FOR THE FIRST TIME ONLINE: Archbishop Lefebvre\u2019s Prophetic Address to The Remnant, 1976\n\nOn that occasion Archbishop Lefebvre delivered an address on the state of the Church at that time\u201442 years ago\u2014that was never transcribed or published until we did so for the December 15, 2017 print edition of The Remnant.",
+      "prop_spans": [
+        [
+          154,
+          169,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 321,
+      "end_ix": 612,
+      "text": "\nIt was held at the Radisson South Hotel, Minneapolis, on Tuesday, May 12, 1976, and its stated purpose was to assist the Archbishop in gaining a stronger foothold for the Society of St. Pius X in the States during the unprecedented crisis Blessed Pope Paul had helped unleash on the Church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 612,
+      "end_ix": 821,
+      "text": "\nI\u2019m posting the address here because I'm convinced the Archbishop\u2019s words provide recent recruits to Tradition with vital historical context for the diabolical debacle that is the pontificate of Pope Francis.",
+      "new_text": "\nI\u2019m posting the address here because I'm convinced the Archbishop\u2019s words provide recent recruits to Tradition with vital historical context for the debacle that is the pontificate of Pope Francis.",
+      "prop_spans": [
+        [
+          762,
+          781,
+          "Name_Calling,Labeling"
+        ],
+        [
+          762,
+          781,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 821,
+      "end_ix": 959,
+      "text": "\nAnd for those of us who\u2019ve been in the trenches for a long, long time it also provides welcome reminder of why we must continue to fight.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 959,
+      "end_ix": 1284,
+      "text": "\nEven though I personally was in attendance back in 1976 when Archbishop Lefebvre delivered this address in Minneapolis, I was only ten years old and of course didn't realize how prophetic he was on that occasion, or how devastated by the Second Vatican Council, the New Mass, and the Freemasonic infiltration of the Vatican.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1284,
+      "end_ix": 1418,
+      "text": "\nIn fact, this transcript reads like a message of encouragement at a crucial moment in the history of this movement\u2014Stay in the fight!",
+      "new_text": "\nIn fact, this transcript reads like a message of encouragement at a crucial moment in the history of this movement\u2014Stay in the fight!",
+      "prop_spans": [
+        [
+          1400,
+          1418,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1418,
+      "end_ix": 1434,
+      "text": "\nKeep the Faith.",
+      "new_text": "\nKeep the Faith.",
+      "prop_spans": [
+        [
+          1418,
+          1434,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1434,
+      "end_ix": 1451,
+      "text": "\nNever surrender!",
+      "new_text": "\nNever surrender!",
+      "prop_spans": [
+        [
+          1434,
+          1451,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1451,
+      "end_ix": 1768,
+      "text": "\nThis address also makes it absolutely clear that everything Archbishop Lefebvre did was part of an eleventh-hour defence of the Kingship of Christ (ignored completely by the Second Vatican Council) and a desperate last stand for Tradition, the infallible teachings of Mother Church and of course her ancient liturgy.",
+      "new_text": "\nThis address also makes it absolutely clear that everything Archbishop Lefebvre did was part of an eleventh-hour defence of the Kingship of Christ (ignored completely by the Second Vatican Council) and a desperate last stand for Tradition, the teachings of Mother Church and of course her ancient liturgy.",
+      "prop_spans": [
+        [
+          1451,
+          1452,
+          "Slogans"
+        ],
+        [
+          1692,
+          1733,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1768,
+      "end_ix": 2188,
+      "text": "\nAnd now that Pope Francis has inadvertently unmasked the true spirit of Vatican II, it becomes obvious how and why those who resisted that spirit were right to have done so and will certainly be hailed by history as the heroic band of Catholic brothers that mounted the twentieth century\u2019s last stand for Christ the King and, while scorned and mocked at the time, were nevertheless totally vindicated fifty years later.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2188,
+      "end_ix": 2248,
+      "text": "\nMay we continue to earn the right to stand with them today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2248,
+      "end_ix": 2501,
+      "text": "\nMJM\nThe Archbishop Speaks\nLadies and Gentlemen:\nAs I said to Mr. [Walter] Matt, I can say in bad English what he says in good English, because he said all of the things I want to say [Referring here to Walter Matt\u2019s introductory talk referenced above.]",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2501,
+      "end_ix": 2608,
+      "text": "\nAnd I thank you, Mr. Matt, very much, for his invitation, and I thank you for your coming, and I thank Fr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2608,
+      "end_ix": 2663,
+      "text": "\nWard for what he said about the Society of St. Pius X.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2663,
+      "end_ix": 2813,
+      "text": "\nAnd I hope that you can understand my poor English, but I think it is better to speak some bad English because to translate would take too much time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2813,
+      "end_ix": 2879,
+      "text": "\nAs Mr. Matt said, the crisis in the Church is very extraordinary.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2879,
+      "end_ix": 2935,
+      "text": "\nIt is very difficult to understand the situation today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2935,
+      "end_ix": 3079,
+      "text": "\nMy seminary in Econe (in Switzerland) and the seminaries in Germany and here in America, in Armada, are in very difficult situations with Rome.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3079,
+      "end_ix": 3084,
+      "text": "\nWhy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3084,
+      "end_ix": 3168,
+      "text": "\nThese seminaries are the same as seminaries were before the Second Vatican Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3168,
+      "end_ix": 3279,
+      "text": "\nThey have the same discipline and the same studies, they make good priests; I think they are good seminarians.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3279,
+      "end_ix": 3348,
+      "text": "\nAll is done as all the seminaries before the Second Vatican Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3348,
+      "end_ix": 3401,
+      "text": "\nWhy are we now in this very sad situation with Rome?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3401,
+      "end_ix": 3522,
+      "text": "\nI think that because in the Second Vatican Council, and after the Council, there is a mutation, a change, in the Church.",
+      "new_text": "\nI think that because in the Second Vatican Council, and after the Council, there is a change in the Church.",
+      "prop_spans": [
+        [
+          3486,
+          3522,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3522,
+      "end_ix": 3544,
+      "text": "\nBut we do not change.",
+      "new_text": "\nBut we do not change.",
+      "prop_spans": [
+        [
+          3522,
+          3522,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3544,
+      "end_ix": 3571,
+      "text": "\nWe continue the Tradition.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3571,
+      "end_ix": 3603,
+      "text": "\nSo why do they now say, as Mgr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3603,
+      "end_ix": 3801,
+      "text": "\n(Archbishop) Benelli[1] said to me months ago on the 19th of March, \u201cyou are out of communion with the Church.\u201d I am out of communion with the Church because I continue the Tradition of the Church?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3801,
+      "end_ix": 3819,
+      "text": "\nThis is possible?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3819,
+      "end_ix": 3840,
+      "text": "\nI do not understand.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3840,
+      "end_ix": 3845,
+      "text": "\nWhy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3845,
+      "end_ix": 3866,
+      "text": "\nI have done nothing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3866,
+      "end_ix": 3946,
+      "text": "\nI believe nothing other than what the Church has believed for twenty centuries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3946,
+      "end_ix": 3951,
+      "text": "\nMgr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3951,
+      "end_ix": 4186,
+      "text": "\nBenelli then said to me, you must put down in a writing to the Holy Father that you accept the Second Vatican Council, you accept the reform that followed the Council, and that you accept the orientations that have been given by Rome.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4186,
+      "end_ix": 4191,
+      "text": "\nMgr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4191,
+      "end_ix": 4325,
+      "text": "\nBenelli took the book of the New Ordo, gave it to me, and said, \u201cYou must say this New Mass in all of your houses.\u201d\nI wonder why Mgr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4325,
+      "end_ix": 4394,
+      "text": "\nBenelli did not communicate this condition to me before our meeting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4394,
+      "end_ix": 4421,
+      "text": "\n[2] He could have done so.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4421,
+      "end_ix": 4653,
+      "text": "\nFor example, one year ago three cardinals sent me a letter (Cardinals Wright, Tabera [Arturo Carinal Tabera Araoz, one of the Council Fathers MJM], and Gabriel-Marie Garrone) telling me (in effect) that I must close the seminaries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4653,
+      "end_ix": 4735,
+      "text": "\nWell, I refused, because I refuse to contribute to the destruction of the Church.",
+      "new_text": "\nWell, I refused, because I refuse to contribute against the Church.",
+      "prop_spans": [
+        [
+          4679,
+          4735,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4735,
+      "end_ix": 4779,
+      "text": "\nBecause now they are destroying the Church.",
+      "new_text": "\nBecause now they are attacking the Church.",
+      "prop_spans": [
+        [
+          4735,
+          4735,
+          "Loaded_Language"
+        ],
+        [
+          4757,
+          4779,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4779,
+      "end_ix": 4936,
+      "text": "\nWhen I die and go before the judge, God will not be able to say to me, \u201cYou destroyed the Church.\u201d I refused to contribute to the destruction of the Church.",
+      "new_text": "\nWhen I die and go before the judge, God will not be able to say to me, \u201cYou destroyed the Church.\u201d I refused to contribute to the destruction of the Church.",
+      "prop_spans": [
+        [
+          4779,
+          4779,
+          "Repetition"
+        ],
+        [
+          4852,
+          4878,
+          "Repetition"
+        ],
+        [
+          4910,
+          4936,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4936,
+      "end_ix": 5016,
+      "text": "\nI am sure that my seminaries are contributing to the restoration of the Church.",
+      "new_text": "\nI am sure that my seminaries are contributing to the restoration of the Church.",
+      "prop_spans": [
+        [
+          4936,
+          4936,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5016,
+      "end_ix": 5045,
+      "text": "\nI do not destroy the Church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5045,
+      "end_ix": 5067,
+      "text": "\nAnd so I said to Mgr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5067,
+      "end_ix": 5196,
+      "text": "\nBenelli, \u201cNo, I will not sign that writing.\u201d\nI think that the mutation in the Church came in through the Second Vatican Council.",
+      "new_text": "\nBenelli, \u201cNo, I will not sign that writing.\u201d\nI think that the change in the Church came in through the Second Vatican Council.",
+      "prop_spans": [
+        [
+          5126,
+          5152,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5196,
+      "end_ix": 5254,
+      "text": "\nAnd do you think this change in the Church came suddenly?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5254,
+      "end_ix": 5266,
+      "text": "\nWhen, then?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5266,
+      "end_ix": 5299,
+      "text": "\nAt the beginning of the Council?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5299,
+      "end_ix": 5369,
+      "text": "\nNo, this change in the Church began one century before [the Council].",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5369,
+      "end_ix": 5564,
+      "text": "\nPope Pius VI said during the French Revolution that if the Church continues to remain under the influence of the prince of the revolution, then, in the future a crisis will come upon the Church.",
+      "new_text": "\nPope Pius VI said during the French Revolution that if the Church continues to remain under the influence of the prince of the revolution, then, in the future a crisis will come upon the Church.",
+      "prop_spans": [
+        [
+          5422,
+          5563,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5564,
+      "end_ix": 5658,
+      "text": "\nIn [1844], Pope Pius IX ordered Cardinal Rigoli to publish the Instructions of the Carbonari.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5658,
+      "end_ix": 5747,
+      "text": "\n[3] The Pope himself asked Cardinal Rigoli to publish the Instructions of the Carbonari.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5747,
+      "end_ix": 5784,
+      "text": "\nAnd what did these Instructions say?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5784,
+      "end_ix": 5918,
+      "text": "\nThe Instructions said that they [the Carbonari/Freemasons] must begin to fight against the Church by bringing reform into the Church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5918,
+      "end_ix": 6035,
+      "text": "\nThe Instructions said the infiltration will take perhaps not one year, perhaps not ten years, but perhaps a century.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6035,
+      "end_ix": 6212,
+      "text": "\nThe Carbonari must enter into the seminary, into the convent, into the sacristy, and slowly, very slowly, the priests will have the ideals of the revolution; of the Freemasons.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6212,
+      "end_ix": 6330,
+      "text": "\nOne day these priests, imbued with Masonic principles, will become bishops, and these bishops can then choose a pope.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6330,
+      "end_ix": 6419,
+      "text": "\nAnd even if the pope is not a Freemason, he will have the same ideals as the Freemasons.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6419,
+      "end_ix": 6569,
+      "text": "\nPope Pius IX called for the publishing of these Instructions in order to warn the bishops and priests of those times of the fight against the church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6569,
+      "end_ix": 6663,
+      "text": "\nIn 1895, the Catholic Antonia Fogazzaro, a known modernist, founded a masonic lodge in Milan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6663,
+      "end_ix": 6989,
+      "text": "\nHe wrote in his book, Il Santo, that \u201cWe [modernists]\u2026want a reform in the Church\u2026without rebellion, carried out by legitimate authority\u2026even if this takes 20, 30, or 50 years.\u201d[4] \u201cThe reform will have to be brought about in the name of obedience.\u201d The modernist ideas in the Church introduced and enacted through obedience!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 6989,
+      "end_ix": 7020,
+      "text": "\nAnd I think\u2026well, here we are!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 7020,
+      "end_ix": 7034,
+      "text": "\nIn this time!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 7034,
+      "end_ix": 7143,
+      "text": "\nThe reform is here, and it is brought about through obedience, to the Council, to the bishop, to the priest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 7143,
+      "end_ix": 7401,
+      "text": "\nAnd all they say is \u201cObedience, obedience, obedience.\u201d\nThe Instructions of the Carbonari say the bishop and the priest will think that they are following the tiara of the Pope, but they will be following the flag of Freemasonry [\u201cthe banner of revolution\u201d].",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 7401,
+      "end_ix": 7417,
+      "text": "\nThey said that.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          7402,
+          7417,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 7417,
+      "end_ix": 7434,
+      "text": "\nThey wrote that!",
+      "new_text": "\nThey wrote that!",
+      "prop_spans": [
+        [
+          7417,
+          7433,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 7434,
+      "end_ix": 7468,
+      "text": "\nOne century before [the Council]!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 7468,
+      "end_ix": 7608,
+      "text": "\nThus, it is very important to know that they prepared for the beginning of the Second Vatican Council for a century, perhaps two centuries!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 7608,
+      "end_ix": 7802,
+      "text": "\nAs the Archbishop of Dakar and President of the Episcopal Commission for French-speaking West Africa, I was appointed member of the Central Preparatory Commission of the Second Vatican Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 7802,
+      "end_ix": 7919,
+      "text": "\nThere were some seventy cardinals, twenty bishops, and four super-authorities of the religious orders, among others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 7919,
+      "end_ix": 8075,
+      "text": "\nBefore the last meeting of this Commission the members received two schemas on the same subject: one from Cardinal Ottaviani and another from Cardinal Bea.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 8075,
+      "end_ix": 8291,
+      "text": "\nThe schema from Cardinal Ottaviani was titled \u201c\u2026On Religious Tolerance\u201d and the other, from Cardinal Bea, was titled \u201cOn Religious Freedom [Liberty].\u201d When we read these two schemas, we thought, \u201cThis is impossible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 8291,
+      "end_ix": 8337,
+      "text": "\nHow is it we can receive two opposing theses?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 8337,
+      "end_ix": 8374,
+      "text": "\nOne says we must not tolerate error.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 8374,
+      "end_ix": 8504,
+      "text": "\nThe other says that error has the right to exist in the name of the dignity of the human person.\u201d And so, we go into the meeting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 8504,
+      "end_ix": 9032,
+      "text": "\nCardinal Ottaviani, standing, says to Cardinal Bea, \u201cYou have no authority to compose this schema, because it is a theological thesis and therefore within the competence of the Theological Commission.\u201d As Cardinal Bea stands up, he says, \u201cI do have the right to compose this schema because if anything concerns Christian Unity it is religious liberty, and I am the President of the Secretariat for Promoting Christian Unity.\u201d Cardinal Bea, addressing Cardinal Ottaviani, further said, \u201cI am opposed to your schema.\u201d\nImpossible!",
+      "new_text": "\nCardinal Ottaviani, standing, says to Cardinal Bea, \u201cYou have no authority to compose this schema, because it is a theological thesis and therefore within the competence of the Theological Commission.\u201d As Cardinal Bea stands up, he says, \u201cI do have the right to compose this schema because if anything concerns Christian Unity it is religious liberty, and I am the President of the Secretariat for Promoting Christian Unity.\u201d Cardinal Bea, addressing Cardinal Ottaviani, further said, \u201cI am opposed to your schema.\u201d\nImpossible!",
+      "prop_spans": [
+        [
+          8558,
+          8706,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          8744,
+          8930,
+          "Appeal_to_Authority"
+        ],
+        [
+          9021,
+          9032,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 9032,
+      "end_ix": 9074,
+      "text": "\nWe were in a very sad, serious situation.",
+      "new_text": "\nWe were in a serious situation.",
+      "prop_spans": [
+        [
+          9032,
+          9032,
+          "Loaded_Language"
+        ],
+        [
+          9033,
+          9073,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 9074,
+      "end_ix": 9160,
+      "text": "\nCardinal Ruffini had to intervene as we were in front of two cardinals, our brothers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9160,
+      "end_ix": 9237,
+      "text": "\nHe said we must wait for the authority to say who is right and who is wrong.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9237,
+      "end_ix": 9350,
+      "text": "\nBut before the Pope came (because the Pope came many times to present at these meetings) we voted on the schema.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9350,
+      "end_ix": 9382,
+      "text": "\nWho is with Cardinal Ottaviani?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9382,
+      "end_ix": 9408,
+      "text": "\nWho is with Cardinal Bea?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9408,
+      "end_ix": 9444,
+      "text": "\nThe conservatives and the liberals.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9444,
+      "end_ix": 9548,
+      "text": "\nAs the last meeting of the Preparatory Commission, it was for me the first image of the future Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9548,
+      "end_ix": 9648,
+      "text": "\nThis historic address appeared for the first time ever in a print edition of The Remnant last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9648,
+      "end_ix": 9684,
+      "text": "\nIsn't it time for you to subscribe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 9684,
+      "end_ix": 10015,
+      "text": "\nAnd as we go into the Council, you know that on the first day of the Council, Cardinal Lienart was the chief of the liberal cardinals in the Council, [together] with all of the Cardinals of the Rhine (such as Cardinal Alfrink, Cardinal Frings, Cardinal Dopfner, Cardinal Suenens, Cardinal Leinart, and Cardinal Koenig of Austria).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 10015,
+      "end_ix": 10393,
+      "text": "\nAnd now one month ago in Rome, the traditional periodical Chiesa Viva published a photo of Cardinal Lienart with all of the appurtenances of Freemasonry, the date of his inscription in Masonry, the date [of his rising to] the 20th Degree of Freemasonry, the date [of his rising to] the 30th Degree of Freemasonry, and the places where he [attended] the meetings of Freemasonry.",
+      "new_text": "\nAnd now one month ago in Rome, the traditional periodical Chiesa Viva published a photo of Cardinal Lienart with all of the appurtenances of Freemasonry, the date of his inscription in Masonry, the date [of his rising to] the 20th Degree, the date [of his rising to] the 30th Degree, and the places where he [attended] the meetings.",
+      "prop_spans": [
+        [
+          10157,
+          10169,
+          "Repetition"
+        ],
+        [
+          10257,
+          10269,
+          "Repetition"
+        ],
+        [
+          10317,
+          10329,
+          "Repetition"
+        ],
+        [
+          10381,
+          10393,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 10393,
+      "end_ix": 10453,
+      "text": "\nThis Cardinal was the chief of the liberals in the Council.",
+      "new_text": "\nThis Cardinal was the chief of the liberals in the Council.",
+      "prop_spans": [
+        [
+          10393,
+          10393,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 10453,
+      "end_ix": 10540,
+      "text": "\nThat is my cardinal; he ordained me to the priesthood, and he consecrated me a bishop.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 10540,
+      "end_ix": 10564,
+      "text": "\nAnd now this is public.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 10564,
+      "end_ix": 10612,
+      "text": "\nNobody has been able to refute the publication.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 10612,
+      "end_ix": 10722,
+      "text": "\nAnd so, we have (I am confident) a mutation in the church by the Council and by the reform after the Council.",
+      "new_text": "\nAnd so, we have (I am confident) a change in the church by the Council and by the reform after the Council.",
+      "prop_spans": [
+        [
+          10646,
+          10670,
+          "Repetition"
+        ],
+        [
+          10646,
+          10670,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 10722,
+      "end_ix": 10794,
+      "text": "\nNow, some say the Council is (was) good, but only the reforms were bad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 10794,
+      "end_ix": 10812,
+      "text": "\nThat is not true.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 10812,
+      "end_ix": 10817,
+      "text": "\nWhy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 10817,
+      "end_ix": 10920,
+      "text": "\nBecause when the reforms come, Rome always says the reforms are being done in the name of the Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 10920,
+      "end_ix": 10948,
+      "text": "\nIn the name of the Council!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          10921,
+          10947,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 10948,
+      "end_ix": 11009,
+      "text": "\nIt is evident that all of the reforms came from the Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11009,
+      "end_ix": 11182,
+      "text": "\nAnd if the reforms are bad, then it is impossible that the Council is good and all the reforms are bad, because that is the authentic interpretation of the Council by Rome.",
+      "new_text": "\nAnd if the reforms are bad, then it might be that the Council is good and all the reforms are bad.",
+      "prop_spans": [
+        [
+          11014,
+          11182,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 11182,
+      "end_ix": 11273,
+      "text": "\nRome said in the name of the Declaration of Liturgy, we [implement] the liturgical reform.",
+      "new_text": "\nRome said in the name of the Declaration of Liturgy, we [implement] the liturgical reform.",
+      "prop_spans": [
+        [
+          11182,
+          11182,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 11273,
+      "end_ix": 11418,
+      "text": "\nWe can say that [these bad changes are] not in the text of the Declaration, but this man has the authority to say that this is from the Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11418,
+      "end_ix": 11434,
+      "text": "\nThey know that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11434,
+      "end_ix": 11490,
+      "text": "\nAnd I am sure that it [the mutation] is in the Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11490,
+      "end_ix": 11602,
+      "text": "\nEven if it is not explicitly [stated] in the Council but [rather] in the spirit of the Council, it is the same!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11602,
+      "end_ix": 11789,
+      "text": "\nFor example, with religious freedom: now the Holy See and all the Nuncios are against the Catholic State in the name of the Council - in the name of the Declaration of Religious Freedom.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11789,
+      "end_ix": 11827,
+      "text": "\nI have heard this (personally) twice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11827,
+      "end_ix": 11861,
+      "text": "\nThe first time I was in Columbia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11861,
+      "end_ix": 11992,
+      "text": "\nWhen I was in Columbia, I read in the paper about the change in the first article of the Constitution of the Republic of Columbia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 11992,
+      "end_ix": 12093,
+      "text": "\n[The first article] stated that only the Republic of Columbia recognizes only the Catholic religion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 12093,
+      "end_ix": 12110,
+      "text": "\nThey changed it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 12110,
+      "end_ix": 12137,
+      "text": "\nThey removed this article.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 12137,
+      "end_ix": 12275,
+      "text": "\nI read the discourse of the President of Columbia with the Nuncios of Columbia and the Secretary of the Episcopal Conference in Columbia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 12275,
+      "end_ix": 12320,
+      "text": "\nThe President said he is very, very anxious.",
+      "new_text": "\nThe President said he is anxious.",
+      "prop_spans": [
+        [
+          12301,
+          12320,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 12320,
+      "end_ix": 12399,
+      "text": "\nHe said to the people, \u201ceven though we remove this article we remain Catholic.",
+      "new_text": "\nHe said to the people, \u201ceven though we remove this article we remain Catholic.",
+      "prop_spans": [
+        [
+          12320,
+          12320,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 12399,
+      "end_ix": 12675,
+      "text": "\nI am a Catholic, I shall remain Catholic, and I do everything possible for the Council and the Catholics in our country.\u201d\nThen, the discourse of the Nuncio was the discourse of a Freemason: all of it was \u201cprogress,\u201d \u201chumanity,\u201d \u201cevolution,\u201d and all the hubris of a Freemason.",
+      "new_text": "\nI am a Catholic, I shall remain Catholic, and I do everything possible for the Council and the Catholics in our country.\u201d\nThen, the discourse of the Nuncio was the discourse of a Freemason: all of it was \u201cprogress,\u201d \u201chumanity,\u201d \u201cevolution,\u201d and all the hubris of a Freemason.",
+      "prop_spans": [
+        [
+          12446,
+          12519,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 12675,
+      "end_ix": 13121,
+      "text": "\nAnd during the discourse of the Secretary of the Episcopal Conference, [the Secretary] said, \u201cin the name of the Declaration of Religious Freedom [of Vatican II], we ask the President to remove this article in the Constitution.\u201d\nI met this Secretary of the Episcopal Conference during my visit in Columbia, and he said for two years they [had been asking] the President, in the name of the Holy See, to change this article in their Constitution.",
+      "new_text": "\nAnd during the discourse of the Secretary of the Episcopal Conference, [the Secretary] said, \u201cin the name of the Declaration of Religious Freedom [of Vatican II], we ask the President to remove this article in the Constitution.\u201d\nI met this Secretary of the Episcopal Conference during my visit in Columbia, and he said for two years they [had been asking] the President, to change this article in their Constitution.",
+      "prop_spans": [
+        [
+          12770,
+          12902,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          13047,
+          13075,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 13121,
+      "end_ix": 13234,
+      "text": "\nBut I will never\u2026I do not accept the concept, because you destroy the Catholic State in the name of the Council.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13234,
+      "end_ix": 13248,
+      "text": "\nAre you sure?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13248,
+      "end_ix": 13259,
+      "text": "\nYes, sure.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13259,
+      "end_ix": 13274,
+      "text": "\nIt is evident.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13274,
+      "end_ix": 13460,
+      "text": "\nNow I said to the [Secretary], \u201cAs I speak with you now about Columbia, I know that you are the one responsible for the change in the constitution of Valais in Switzerland one year ago.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13460,
+      "end_ix": 13625,
+      "text": "\nThe change in the Constitution of Valais was the same.\u201d (Because you know Switzerland is a Federation where some states are Protestant and some states are Catholic.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13625,
+      "end_ix": 13649,
+      "text": "\nThe Valais is Catholic.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13649,
+      "end_ix": 13864,
+      "text": "\nAnd in its constitution, the words of the first article [of the constitution] of the State of Valais \u2013 Econe, where we are located, is in the State of Valais - only one religion is recognized: The Catholic Church.)",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13864,
+      "end_ix": 13992,
+      "text": "\nAnd [the Secretary] said, \u201cYes, I am responsible for this change.\u201d Brother, what did you do with the Social Kingship of Christ?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 13992,
+      "end_ix": 14014,
+      "text": "\nWhat is this for you?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 14014,
+      "end_ix": 14094,
+      "text": "\nWhat do you say when you say \u201cthy kingdom come\u201d in your prayer, the Our Father?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 14094,
+      "end_ix": 14213,
+      "text": "\n\u201cAh,\u201d the Nuncio said to me, \u201cNow it is impossible.\u201d What did you do with the encyclical of Pope Pius XI, Quas Primas?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 14213,
+      "end_ix": 14299,
+      "text": "\n\u201cAh, but now the Pope cannot write an encyclical like Quas Primas.\u201d\nIt is incredible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 14299,
+      "end_ix": 14335,
+      "text": "\nAnd all in the name of the Council.",
+      "new_text": "\nAnd all in the name of the Council.",
+      "prop_spans": [
+        [
+          14308,
+          14335,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 14335,
+      "end_ix": 14409,
+      "text": "\nWe must take care, because this change in the church is a liberal change.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          14335,
+          14336,
+          "Repetition"
+        ],
+        [
+          14336,
+          14409,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 14409,
+      "end_ix": 14490,
+      "text": "\nThe liberal principles have entered the Church now, and they destroy the Church.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          14409,
+          14489,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 14490,
+      "end_ix": 14738,
+      "text": "\nIf we cannot set out the true principles of the Church, if we in the name of religious freedom said that all religions have the same right in every state in the world\u2026\n[missing audio...]\nThe truth is the only one King of the World is Jesus Christ.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 14738,
+      "end_ix": 15012,
+      "text": "\nWe say in the Gloria in Excelsis Deo, \u201cTu solus Altissimus,\u201d \u201cTu solus Dominus,\u201d \u201cYou alone are the Highest,\u201d \u201cYou alone are the Lord.\u201d But practically, we would refuse this Kingdom of Jesus Christ if we said that Luther, Mohammed, Buddha and Jesus Christ are all the same.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15012,
+      "end_ix": 15032,
+      "text": "\nWe cannot say that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15032,
+      "end_ix": 15044,
+      "text": "\nImpossible.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          15033,
+          15043,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15044,
+      "end_ix": 15154,
+      "text": "\nWe know that in many states (it is a pity) it is impossible [to recognize Catholicism as the state religion].",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15154,
+      "end_ix": 15254,
+      "text": "\nWe must tolerate - have tolerance for the error - but never give the same right to error and truth.",
+      "new_text": "\nWe cannot give the same right to error and truth.",
+      "prop_spans": [
+        [
+          15155,
+          15254,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15254,
+      "end_ix": 15274,
+      "text": "\nThat is impossible.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          15254,
+          15274,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15274,
+      "end_ix": 15323,
+      "text": "\nAnd the change in the liturgy is very important.",
+      "new_text": "\nAnd the change in the liturgy is very important.",
+      "prop_spans": [
+        [
+          15274,
+          15275,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15323,
+      "end_ix": 15339,
+      "text": "\nIt is very bad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15339,
+      "end_ix": 15421,
+      "text": "\nOne of the principles of modern man, as they say now, \u201cmodern man,\u201d is democracy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15421,
+      "end_ix": 15555,
+      "text": "\nAnd democracy can have a good sense but not if [by that term is meant] that those who govern receive their authority from the people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15555,
+      "end_ix": 15585,
+      "text": "\nThe authority comes from God.",
+      "new_text": "\nThe authority comes from God.",
+      "prop_spans": [
+        [
+          15556,
+          15585,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15585,
+      "end_ix": 15606,
+      "text": "\nNot from the people.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          15585,
+          15606,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15606,
+      "end_ix": 15627,
+      "text": "\nNot from the masses.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          15606,
+          15627,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15627,
+      "end_ix": 15637,
+      "text": "\nFrom God.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          15627,
+          15636,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15637,
+      "end_ix": 15728,
+      "text": "\nBut today the principle, the democratic principle, is that the authority is in the people.",
+      "new_text": "\nBut today the principle, is that the authority is in the people.",
+      "prop_spans": [
+        [
+          15667,
+          15687,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15728,
+      "end_ix": 15749,
+      "text": "\nIt is in the masses.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          15735,
+          15748,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 15749,
+      "end_ix": 15767,
+      "text": "\nThat is not true.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15767,
+      "end_ix": 15785,
+      "text": "\nIt is impossible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15785,
+      "end_ix": 15829,
+      "text": "\nAnd our liturgy is the school of our Faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15829,
+      "end_ix": 15881,
+      "text": "\nIt is the first school of our Faith for all people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15881,
+      "end_ix": 15941,
+      "text": "\nI was in Africa as a missionary and as bishop for 30 years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 15941,
+      "end_ix": 16021,
+      "text": "\nI know the liturgy was the best school of the Faith for people who cannot read.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16021,
+      "end_ix": 16056,
+      "text": "\nThey can see what the priest does.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16056,
+      "end_ix": 16150,
+      "text": "\nThey can see what the priest does at the adoration of the Body and the Blood of Jesus Christ.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16150,
+      "end_ix": 16262,
+      "text": "\nAnd they know that Jesus Christ is present - His real presence is on the altar - by the attitude of the priest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16262,
+      "end_ix": 16278,
+      "text": "\nThey know that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16278,
+      "end_ix": 16302,
+      "text": "\nThat is very important.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16302,
+      "end_ix": 16350,
+      "text": "\nBut the change in the Mass destroys the Church.",
+      "new_text": "\nBut the change in the Mass affected the Church.",
+      "prop_spans": [
+        [
+          16330,
+          16350,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 16350,
+      "end_ix": 16400,
+      "text": "\nBecause we know the liturgy teaches us hierarchy.",
+      "new_text": "\nBecause we know the liturgy teaches us hierarchy.",
+      "prop_spans": [
+        [
+          16350,
+          16350,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 16400,
+      "end_ix": 16434,
+      "text": "\nThe true liturgy is hierarchical.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16434,
+      "end_ix": 16473,
+      "text": "\nIt is not democratic but hierarchical.",
+      "new_text": "\nIt is hierarchical.",
+      "prop_spans": [
+        [
+          16460,
+          16472,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 16473,
+      "end_ix": 16478,
+      "text": "\nWhy?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16478,
+      "end_ix": 16532,
+      "text": "\nBecause we have God, the priest, and then the people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16532,
+      "end_ix": 16551,
+      "text": "\nThat is hierarchy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16551,
+      "end_ix": 16698,
+      "text": "\nWhen we are in Church we know God is on the altar; the priest is between God and the people; and the people receive God at the hand of the priest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16698,
+      "end_ix": 16717,
+      "text": "\nThat is hierarchy.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          16699,
+          16716,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 16717,
+      "end_ix": 16784,
+      "text": "\nBut now the new liturgy is more democratic - all around the table.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16784,
+      "end_ix": 16892,
+      "text": "\nThe priest is only the president, and sometimes another man can take the role of the president of the meal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16892,
+      "end_ix": 16915,
+      "text": "\nThat is a new liturgy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16915,
+      "end_ix": 17041,
+      "text": "\nThat is very bad, because we have no sense of the hierarchical; whereas the sense of hierarchy is very important in our life.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17041,
+      "end_ix": 17071,
+      "text": "\nWe need the authority of God.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17071,
+      "end_ix": 17118,
+      "text": "\nWe need the Real Presence of God on our altar.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17118,
+      "end_ix": 17191,
+      "text": "\nWe need the Sacrifice of the Mass \u2013 not a meal only \u2013 but the Sacrifice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17191,
+      "end_ix": 17255,
+      "text": "\nSo, the Victim of the Sacrifice is really present on our altar.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17255,
+      "end_ix": 17288,
+      "text": "\nThat is the school of our Faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17288,
+      "end_ix": 17335,
+      "text": "\nAnd slowly, slowly, this new Mass equivocates.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17335,
+      "end_ix": 17399,
+      "text": "\nIt moves the minds of the faithful in a Protestant [direction].",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17399,
+      "end_ix": 17454,
+      "text": "\nI do not say that all [Novus Ordo] Masses are invalid.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17454,
+      "end_ix": 17473,
+      "text": "\nI do not say that.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          17455,
+          17472,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 17473,
+      "end_ix": 17578,
+      "text": "\nBut perhaps, more and more, they become invalid because [the ministers lose faith in the Real Presence].",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17578,
+      "end_ix": 17717,
+      "text": "\nRecently, in France, a progressive paper conducted a statistical survey to see how many priests no longer have faith in the Real Presence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 17717,
+      "end_ix": 17811,
+      "text": "\nThey found that twenty-two percent no longer have the faith, the belief in the Real Presence.",
+      "new_text": "\nThey found that twenty-two percent no longer have the faith in the Real Presence.",
+      "prop_spans": [
+        [
+          17779,
+          17790,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 17811,
+      "end_ix": 18032,
+      "text": "\nBut I think that if they directed this question to all of the priests who are under 50 years of age, they would find that fifty percent [have lost the faith in the Real Presence], because the young priests have no faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18032,
+      "end_ix": 18042,
+      "text": "\nNo faith.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          18033,
+          18041,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 18042,
+      "end_ix": 18170,
+      "text": "\nLast year, Bishop Adam (in our Diocese of Sion, Switzerland) ordained one priest for my Congregation of the Holy Ghost Fathers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18170,
+      "end_ix": 18204,
+      "text": "\nThis one priest came from France.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18204,
+      "end_ix": 18274,
+      "text": "\nHis uncle had died in a road accident when his cab fell in the river.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18274,
+      "end_ix": 18303,
+      "text": "\nThe uncle had nine children.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18303,
+      "end_ix": 18376,
+      "text": "\nThe Bishop said to the new priest, \u201cNow you can say Mass for your uncle.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18376,
+      "end_ix": 18475,
+      "text": "\nNow you are a priest, and you can say Mass for your uncle.\u201d The new priest said, \u201cNo, never.\u201d Why?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18475,
+      "end_ix": 18518,
+      "text": "\nIt is not useful to say Mass for the dead?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18518,
+      "end_ix": 18545,
+      "text": "\n\u201cNo, no, it is impossible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18545,
+      "end_ix": 18710,
+      "text": "\nThey are already in heaven.\u201d This young priest who was ordained by the Bishop last year for my Congregation is now a professor in the minor seminary in Switzerland.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18710,
+      "end_ix": 18772,
+      "text": "\nThey are not learning theology, not philosophy, not anything.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18772,
+      "end_ix": 18796,
+      "text": "\nThey learn nothing now.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          18773,
+          18795,
+          "Repetition"
+        ],
+        [
+          18773,
+          18795,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 18796,
+      "end_ix": 18813,
+      "text": "\nAnother example.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18813,
+      "end_ix": 18892,
+      "text": "\nRecently, I had two young [potential] seminarians come to my house near Paris.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18892,
+      "end_ix": 18963,
+      "text": "\nOne of them works in a factory, and the other is a university student.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 18963,
+      "end_ix": 19023,
+      "text": "\nThey told me they were [considering] the seminary of Paris.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 19023,
+      "end_ix": 19244,
+      "text": "\nI asked them, \u201cWhy do you come to see me?\u201d They told me that they had a meeting in the house of the Oblate of Maria with the priest who oversees young men who may have vocations to the priesthood in the Diocese of Paris.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 19244,
+      "end_ix": 19316,
+      "text": "\nThere was a total of fifteen young men for all of the Diocese of Paris.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 19316,
+      "end_ix": 19516,
+      "text": "\nDuring the meeting, the priest, before he celebrated the Eucharist, said, \u201cToday we celebrate the Eucharist, but we do not believe in the Real Presence.\u201d These two young men said \u201cThat is impossible.",
+      "new_text": "\nDuring the meeting, the priest, before he celebrated the Eucharist, said, \u201cToday we celebrate the Eucharist, but we do not believe in the Real Presence.\u201d These two young men said \u201cThat is impossible.",
+      "prop_spans": [
+        [
+          19505,
+          19516,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 19516,
+      "end_ix": 19578,
+      "text": "\nWe cannot remain in this seminary.\u201d So, they came to meet me.",
+      "new_text": "\nWe cannot remain in this seminary.\u201d So, they came to meet me.",
+      "prop_spans": [
+        [
+          19516,
+          19516,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 19578,
+      "end_ix": 19671,
+      "text": "\nThey said that Econe is the only seminary where they seem to be able to find the True Faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 19671,
+      "end_ix": 19707,
+      "text": "\nThey asked for admittance to Econe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 19707,
+      "end_ix": 19768,
+      "text": "\nAnd I think that they shall be coming to Econe next October.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 19768,
+      "end_ix": 19796,
+      "text": "\nBut that is a new religion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 19796,
+      "end_ix": 19825,
+      "text": "\nIt is a Protestant religion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 19825,
+      "end_ix": 19841,
+      "text": "\nThat is a fact.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          19826,
+          19841,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 19841,
+      "end_ix": 19936,
+      "text": "\nPerhaps you can say, \u201cHow is it possible that the pope gives the authorization to this change?",
+      "new_text": "\nPerhaps you can say, \u201cHow is it possible that the pope gives the authorization to this change?",
+      "prop_spans": [
+        [
+          19841,
+          19842,
+          "Repetition"
+        ],
+        [
+          19864,
+          19936,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 19936,
+      "end_ix": 19984,
+      "text": "\nHow is it possible the pope signed this decree?",
+      "new_text": "\nHow is it possible the pope signed this decree?",
+      "prop_spans": [
+        [
+          19936,
+          19984,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 19984,
+      "end_ix": 20025,
+      "text": "\nSigned this constitution?\u201d I don\u2019t know.",
+      "new_text": "\nSigned this constitution?\u201d I don\u2019t know.",
+      "prop_spans": [
+        [
+          19984,
+          20009,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20025,
+      "end_ix": 20039,
+      "text": "\nI don\u2019t know.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          20026,
+          20038,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20039,
+      "end_ix": 20060,
+      "text": "\nIt is a big mystery.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20060,
+      "end_ix": 20075,
+      "text": "\nA big mystery.",
+      "new_text": "\nA big mystery.",
+      "prop_spans": [
+        [
+          20061,
+          20074,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20075,
+      "end_ix": 20120,
+      "text": "\nThere are many proposed theological answers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20120,
+      "end_ix": 20155,
+      "text": "\nI cannot subscribe to all of them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20155,
+      "end_ix": 20193,
+      "text": "\nSome say the pope is not responsible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20193,
+      "end_ix": 20272,
+      "text": "\nPerhaps someone gave the pope an injection, a drug, and he is not responsible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20272,
+      "end_ix": 20295,
+      "text": "\nPerhaps, I don\u2019t know.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20295,
+      "end_ix": 20343,
+      "text": "\nSome say there are two popes [(a body double)].",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20343,
+      "end_ix": 20357,
+      "text": "\nI don\u2019t know.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          20344,
+          20356,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20357,
+      "end_ix": 20533,
+      "text": "\nSome say the pope was liberal before he was elected pope, and perhaps (we do not know) he gave his name to Freemasonry (thereby incurring excommunication before the conclave).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20533,
+      "end_ix": 20549,
+      "text": "\nWe do not know.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20549,
+      "end_ix": 20668,
+      "text": "\nWe do know now that Bugnini was primarily responsible for the change in liturgy, and that he is an infamous Freemason.",
+      "new_text": "\nWe do know now that Bugnini was primarily responsible for the change in liturgy.",
+      "prop_spans": [
+        [
+          20640,
+          20668,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20668,
+      "end_ix": 20774,
+      "text": "\nAnd because he had an indiscretion with his Masonic appurtenances, the Pope sent him as a Nuncio in Iran.",
+      "new_text": "\nAnd because he had an indiscretion with his Masonic appurtenances, the Pope sent him as a Nuncio in Iran.",
+      "prop_spans": [
+        [
+          20668,
+          20668,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20774,
+      "end_ix": 20788,
+      "text": "\nI don\u2019t know.",
+      "new_text": "\nI don\u2019t know.",
+      "prop_spans": [
+        [
+          20775,
+          20788,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20788,
+      "end_ix": 20803,
+      "text": "\nWe don\u2019t know.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          20788,
+          20802,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20803,
+      "end_ix": 20892,
+      "text": "\nNow, you cannot say that Archbishop Lefebvre said the pope gave his name to Freemasonry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20892,
+      "end_ix": 20917,
+      "text": "\nNo, you cannot say that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 20917,
+      "end_ix": 20953,
+      "text": "\nIt is possible, but we do not know.",
+      "new_text": "\nIt is possible.",
+      "prop_spans": [
+        [
+          20938,
+          20952,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 20953,
+      "end_ix": 21004,
+      "text": "\nBut if he was excommunicated, then he is not pope.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21004,
+      "end_ix": 21014,
+      "text": "\nNot pope.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          21005,
+          21013,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 21014,
+      "end_ix": 21028,
+      "text": "\nIllegitimate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21028,
+      "end_ix": 21042,
+      "text": "\nI don\u2019t know.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21042,
+      "end_ix": 21079,
+      "text": "\nIt is a mystery I cannot understand.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21079,
+      "end_ix": 21181,
+      "text": "\nBut the fact is that the Catholic Church is being destroyed, and now even the pope himself says that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21181,
+      "end_ix": 21242,
+      "text": "\nThis pope has referred to the auto-demolition of the Church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21242,
+      "end_ix": 21365,
+      "text": "\nHe said, \u201cThe smoke of Satan has entered the Church.\u201d But where are the men responsible for the destruction of the Church?",
+      "new_text": "\nHe said, \u201cThe smoke of Satan has entered the Church.\u201d But where are the men responsible for the destruction of the Church?",
+      "prop_spans": [
+        [
+          21257,
+          21271,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 21365,
+      "end_ix": 21387,
+      "text": "\nWell, there they are.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21387,
+      "end_ix": 21428,
+      "text": "\nThey are the men who destroy the Church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21428,
+      "end_ix": 21457,
+      "text": "\nWe must show where they are.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21457,
+      "end_ix": 21515,
+      "text": "\nWhere is this smoke of Satan that has entered the Church?",
+      "new_text": "\nWhere is this smoke that has entered the Church?",
+      "prop_spans": [
+        [
+          21472,
+          21486,
+          "Repetition"
+        ],
+        [
+          21472,
+          21486,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 21515,
+      "end_ix": 21572,
+      "text": "\nI do not know, but it is the pope himself who said that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21572,
+      "end_ix": 21612,
+      "text": "\nAnd I have these experiences every day.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21612,
+      "end_ix": 21636,
+      "text": "\nI visit many countries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21636,
+      "end_ix": 21683,
+      "text": "\nI was in Spain during the Christmas Holy Days.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21683,
+      "end_ix": 21769,
+      "text": "\nThen I was in Bonn, near Cologne, Germany, three weeks ago, to speak at a conference.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21769,
+      "end_ix": 21787,
+      "text": "\nMany people came.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21787,
+      "end_ix": 21813,
+      "text": "\nMany people are confused.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21813,
+      "end_ix": 21846,
+      "text": "\nWhat is happening in the Church?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21846,
+      "end_ix": 21864,
+      "text": "\nThey are anxious.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21864,
+      "end_ix": 21901,
+      "text": "\nBut many people say that we disobey.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21901,
+      "end_ix": 21910,
+      "text": "\nDisobey?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21910,
+      "end_ix": 21933,
+      "text": "\nObedience is relative.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21933,
+      "end_ix": 21953,
+      "text": "\nIt is not absolute.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 21953,
+      "end_ix": 22002,
+      "text": "\nIt is relative to the good, but not to the evil.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22002,
+      "end_ix": 22058,
+      "text": "\nWe cannot obey our parents if they command a bad thing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22058,
+      "end_ix": 22074,
+      "text": "\nWe cannot obey.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22074,
+      "end_ix": 22087,
+      "text": "\nIt is clear.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22087,
+      "end_ix": 22167,
+      "text": "\nAnd I know that in Spain, for example, the situation in the Church is very bad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22167,
+      "end_ix": 22277,
+      "text": "\nThe new nominees of bishops and many auxiliary bishops are, approximately, communist, Marxist, and socialist.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22277,
+      "end_ix": 22366,
+      "text": "\nAnd so, a majority of the bishops in the Episcopal Conference of Spain are progressives.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22366,
+      "end_ix": 22387,
+      "text": "\nThey are modernists.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22387,
+      "end_ix": 22475,
+      "text": "\nWhereas, the majority of the bishops [from Spain] during the Council were conservative.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22475,
+      "end_ix": 22603,
+      "text": "\nSo, Rome is responsible [for the situation of the Church in Spain] because it is Rome who approves the nominations for bishops.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22603,
+      "end_ix": 22770,
+      "text": "\nAnd we know in France, in Germany, and in Europe generally, that all of the young bishops are worse [than the bishops in Spain] in that they are more or less Marxist.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22770,
+      "end_ix": 22786,
+      "text": "\nThat is a fact.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22786,
+      "end_ix": 22806,
+      "text": "\nThat is impossible.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22806,
+      "end_ix": 22828,
+      "text": "\nHow can they do that?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22828,
+      "end_ix": 22843,
+      "text": "\nI do not know.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22843,
+      "end_ix": 22858,
+      "text": "\nI do not know.",
+      "new_text": "\nI do not know.",
+      "prop_spans": [
+        [
+          22844,
+          22857,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 22858,
+      "end_ix": 22898,
+      "text": "\nI have not spent my whole life in Rome.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 22898,
+      "end_ix": 23018,
+      "text": "\nI do know Rome very well, because I was an apostolic delegate, and I was in the Secretariate of the Secretary of State.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23018,
+      "end_ix": 23045,
+      "text": "\nAnd I know that very well.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23045,
+      "end_ix": 23146,
+      "text": "\nBut I think that the devil is in Rome, as was said by our Lady of Fatima and Our Lady of La Salette.",
+      "new_text": "\nBut I think that the devil is in Rome, as was said by our Lady of Fatima and Our Lady of La Salette.",
+      "prop_spans": [
+        [
+          23063,
+          23084,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 23146,
+      "end_ix": 23160,
+      "text": "\nWe must pray.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23160,
+      "end_ix": 23220,
+      "text": "\nWe must ask God to put an end to this crisis of the Church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23220,
+      "end_ix": 23283,
+      "text": "\nBecause if this crisis continues, many people will go to hell.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          23221,
+          23282,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 23283,
+      "end_ix": 23304,
+      "text": "\nThey lose the faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23304,
+      "end_ix": 23336,
+      "text": "\nThey cannot go into the church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23336,
+      "end_ix": 23360,
+      "text": "\nThey abandon the faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23360,
+      "end_ix": 23413,
+      "text": "\nYou know that many priests have abandoned the faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23413,
+      "end_ix": 23447,
+      "text": "\nMany priests have gotten married.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23447,
+      "end_ix": 23500,
+      "text": "\nAnd many sisters have abandoned their congregations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23500,
+      "end_ix": 23514,
+      "text": "\nIt is a pity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23514,
+      "end_ix": 23536,
+      "text": "\nAnd it is everywhere.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23536,
+      "end_ix": 23619,
+      "text": "\nI was in Melbourne, Australia, during the 40th International Eucharistic Congress.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23619,
+      "end_ix": 23751,
+      "text": "\nCardinal Knox, who was the man responsible for the Eucharistic Congress, is now the Prefect of the Congregation for Divine Worship.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23751,
+      "end_ix": 23945,
+      "text": "\nI read in the newspaper about a Mass Cardinal Knox celebrated during the Eucharistic Congress where sensual dancing was performed at the same time the words of the Consecration were pronounced.",
+      "new_text": "\nI read in the newspaper about a Mass Cardinal Knox celebrated during the Eucharistic Congress where dancing was performed at the same time the words of the Consecration were pronounced.",
+      "prop_spans": [
+        [
+          23852,
+          23867,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 23945,
+      "end_ix": 23966,
+      "text": "\nThat is a sacrilege.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          23956,
+          23965,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 23966,
+      "end_ix": 23994,
+      "text": "\nYou cannot go to that Mass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 23994,
+      "end_ix": 24013,
+      "text": "\nThat is sacrilege.",
+      "new_text": "\nThat is sacrilege.",
+      "prop_spans": [
+        [
+          23995,
+          24012,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 24013,
+      "end_ix": 24029,
+      "text": "\nThis is a fact.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24029,
+      "end_ix": 24149,
+      "text": "\nThey also called me by phone in Melbourne to say I was on the list of the bishops [attending] the Eucharistic Congress.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24149,
+      "end_ix": 24222,
+      "text": "\nThey asked me to concelebrate Mass with a Protestant pastor and a rabbi.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24222,
+      "end_ix": 24226,
+      "text": "\nAy.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          24223,
+          24226,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 24226,
+      "end_ix": 24238,
+      "text": "\nImpossible.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          24226,
+          24238,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 24238,
+      "end_ix": 24250,
+      "text": "\nImpossible.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          24238,
+          24250,
+          "Loaded_Language"
+        ],
+        [
+          24239,
+          24249,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 24250,
+      "end_ix": 24266,
+      "text": "\nNo, no, no, no.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          24250,
+          24266,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 24266,
+      "end_ix": 24308,
+      "text": "\n[applause]\nThis change is not accidental.",
+      "new_text": "\n[applause]\nThis change is not accidental.",
+      "prop_spans": [
+        [
+          24266,
+          24266,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 24308,
+      "end_ix": 24331,
+      "text": "\nIt is not superficial.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24331,
+      "end_ix": 24348,
+      "text": "\nIt is very deep.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24348,
+      "end_ix": 24358,
+      "text": "\nVery bad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24358,
+      "end_ix": 24383,
+      "text": "\nIt is against our faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24383,
+      "end_ix": 24402,
+      "text": "\nAgainst our faith.",
+      "new_text": "\nAgainst our faith.",
+      "prop_spans": [
+        [
+          24384,
+          24401,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 24402,
+      "end_ix": 24509,
+      "text": "\nAnd so, we cannot accept this Council and this reform and this orientation even though it comes from Rome.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24509,
+      "end_ix": 24544,
+      "text": "\nFrom Rome we expect only the good.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24544,
+      "end_ix": 24638,
+      "text": "\nWe do not expect the bad, the ill. We do not expect the abandonment of adoration in the Mass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24638,
+      "end_ix": 24662,
+      "text": "\nWe need this adoration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24662,
+      "end_ix": 24721,
+      "text": "\nWe need to have the faith in the divinity of Jesus Christ.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24721,
+      "end_ix": 24894,
+      "text": "\nBecause all [of this change] is [oriented] against the divinity of Jesus Christ, against the Kingdom of Jesus Christ, against the Real Presence of Jesus Christ in the Mass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 24894,
+      "end_ix": 25034,
+      "text": "\nIt is a sin when we abandon the truth of the Kingdom of Jesus Christ, everywhere, and we abandon the Faith of the divinity of Jesus Christ.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25034,
+      "end_ix": 25064,
+      "text": "\nHe is King because he is God.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25064,
+      "end_ix": 25086,
+      "text": "\nHe is the Son of God.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25086,
+      "end_ix": 25116,
+      "text": "\nSo, He is King by His nature.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25116,
+      "end_ix": 25135,
+      "text": "\nThis is essential.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25135,
+      "end_ix": 25146,
+      "text": "\nEssential!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          25136,
+          25145,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 25146,
+      "end_ix": 25203,
+      "text": "\nAnd if He is God, we must give Him the adoration of God.",
+      "new_text": "\nAnd if He is God, we must give Him the love of God.",
+      "prop_spans": [
+        [
+          25147,
+          25203,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 25203,
+      "end_ix": 25258,
+      "text": "\nAnd so, we cannot accept the diminution of this Truth.",
+      "new_text": "\nAnd so, we cannot accept the diminution of this Truth.",
+      "prop_spans": [
+        [
+          25203,
+          25203,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 25258,
+      "end_ix": 25290,
+      "text": "\nJesus Christ is the Son of God.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25290,
+      "end_ix": 25311,
+      "text": "\nJesus Christ is God.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25311,
+      "end_ix": 25353,
+      "text": "\nThat is a fundamental truth of our Faith.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25353,
+      "end_ix": 25387,
+      "text": "\nAnd it all depends on this Truth.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25387,
+      "end_ix": 25466,
+      "text": "\nAnd we know now that the theologians and the bishops have [a new orientation].",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25466,
+      "end_ix": 25520,
+      "text": "\nThey do not express this truth clearly and perfectly.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25520,
+      "end_ix": 25550,
+      "text": "\nThey are afraid of the truth.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25550,
+      "end_ix": 25568,
+      "text": "\nThat is very bad.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25568,
+      "end_ix": 25596,
+      "text": "\nAnd it is the same in Rome.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25596,
+      "end_ix": 25697,
+      "text": "\nI think they refuse [to grant me an audience with] the pope, [because they are afraid of the Truth].",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25697,
+      "end_ix": 25736,
+      "text": "\nWhen I was in Rome one month ago, Mgr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25736,
+      "end_ix": 25782,
+      "text": "\nBenelli told me he visits the pope every day.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25782,
+      "end_ix": 25923,
+      "text": "\nHe said that when he left me, he would go immediately to the pope to express the importance of the work we had conducted during our meeting.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25923,
+      "end_ix": 25964,
+      "text": "\nImmediately, he said, he would be going.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 25964,
+      "end_ix": 26031,
+      "text": "\nSo, why do they not grant me the possibility of visiting the pope?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26031,
+      "end_ix": 26056,
+      "text": "\nBecause they are afraid.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26056,
+      "end_ix": 26167,
+      "text": "\nMeanwhile the Vatican operated a veritable swinging door where actual heretics and schismatics were concerned.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26167,
+      "end_ix": 26345,
+      "text": "\nHere, again, is Blessed Paul VI, famously meeting for the first time ever with the heretic Archbishop of Canterbury in St. Peter's:\nCardinal Villot said, \u201cWe are afraid if Msgr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26345,
+      "end_ix": 26506,
+      "text": "\nLefebvre meets and speaks with the pope that perhaps the pope will change his mind.\u201d Because [the pope] is not too sure; the pope is not man of true conviction.",
+      "new_text": "\nLefebvre meets and speaks with the pope that perhaps the pope will change his mind.\u201d Because [the pope] is not too sure.",
+      "prop_spans": [
+        [
+          26467,
+          26506,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 26506,
+      "end_ix": 26530,
+      "text": "\nHe is a mysterious man.",
+      "new_text": "\nHe is a mysterious man.",
+      "prop_spans": [
+        [
+          26506,
+          26506,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 26530,
+      "end_ix": 26570,
+      "text": "\nWe cannot give a definition of the man.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26570,
+      "end_ix": 26634,
+      "text": "\nHe expresses the truth, and then he does the contrary/opposite.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26634,
+      "end_ix": 26673,
+      "text": "\nSome part of him will speak the truth.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26673,
+      "end_ix": 26711,
+      "text": "\nAnother part of him is open to error.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26711,
+      "end_ix": 26725,
+      "text": "\nVery curious.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26725,
+      "end_ix": 26869,
+      "text": "\nAnd they are afraid that if I reveal the truth [and tell the Pope] \u201cyou must affirm the Kingdom of Jesus Christ everywhere and always each day.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 26869,
+      "end_ix": 27012,
+      "text": "\nYou must affirm the Real Presence in the Mass - in the Sacrifice of the Mass,\u201d then perhaps it is possible that the Pope will change his mind.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27012,
+      "end_ix": 27107,
+      "text": "\nAnd so, Cardinal Villot says, there is a confusion, and they do not want me to visit the pope.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27107,
+      "end_ix": 27137,
+      "text": "\nIt is impossible to admit me.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27137,
+      "end_ix": 27168,
+      "text": "\nAnd I know the pope very well!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27168,
+      "end_ix": 27247,
+      "text": "\nWhen I was the apostolic delegate to Pius XII, I was going to Rome every year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27247,
+      "end_ix": 27290,
+      "text": "\nAnd during those eleven years, I met Msgr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27290,
+      "end_ix": 27299,
+      "text": "\nMontini.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27299,
+      "end_ix": 27321,
+      "text": "\nI know him very well.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          27300,
+          27320,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 27321,
+      "end_ix": 27400,
+      "text": "\nHe received me twice during the Council, for a private audience with the pope.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27400,
+      "end_ix": 27490,
+      "text": "\nBut, now, with my position against the Council and the reforms, he says: \u201cNo, impossible!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27490,
+      "end_ix": 27627,
+      "text": "\nYou must sign in writing that you [accept] the Council and all the reforms before I will receive you in audience.\u201d But I cannot do that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 27627,
+      "end_ix": 27686,
+      "text": "\nFor me, if I do that, then I betray my mother, the Church.",
+      "new_text": "\nFor me, if I do that, then I betray my mother, the Church.",
+      "prop_spans": [
+        [
+          27636,
+          27686,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 27686,
+      "end_ix": 27698,
+      "text": "\nThe Church!",
+      "new_text": "",
+      "prop_spans": [
+        [
+          27686,
+          27698,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 27698,
+      "end_ix": 27832,
+      "text": "\nSo, I thank you very much for your encouragement, and I must say that we have a very good generation of young men and good vocations.",
+      "new_text": "\nSo, I thank you very much for your encouragement, and I must say that we have a very good generation of young men and good vocations.",
+      "prop_spans": [
+        [
+          27698,
+          27699,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 27832,
+      "end_ix": 28005,
+      "text": "\nFor the coming year we have 59 applications to our seminary in Econe, Switzerland \u2013 applications from the United States, from England, from Germany, from France, and Spain.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28005,
+      "end_ix": 28071,
+      "text": "\nGood young men with good dispositions are coming from everywhere.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28071,
+      "end_ix": 28080,
+      "text": "\nAnd why?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28080,
+      "end_ix": 28163,
+      "text": "\nWhy do they come to this seminary when they know we are in difficulties with Rome?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28163,
+      "end_ix": 28179,
+      "text": "\nThey know that.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28179,
+      "end_ix": 28200,
+      "text": "\nBut still they come.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28200,
+      "end_ix": 28238,
+      "text": "\nI ask them, why do you come to Econe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28238,
+      "end_ix": 28262,
+      "text": "\nYou know our situation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28262,
+      "end_ix": 28386,
+      "text": "\nThey say, \u201cYes, we know your situation, but we want to become true priests and not protestant pastors or modernist priests.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28386,
+      "end_ix": 28504,
+      "text": "\nWe are coming to your seminary because we know that the end of the priest is to offer the true Sacrifice of the Mass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28504,
+      "end_ix": 28641,
+      "text": "\nAnd so, we are Coming to Econe.\u201d\nAnd as I have visited my seminary here in Armada for the past five days, I can see it is the same here.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28641,
+      "end_ix": 28670,
+      "text": "\nWe have very good young men.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28670,
+      "end_ix": 28722,
+      "text": "\nI also have some Americans in my seminary in Econe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28722,
+      "end_ix": 28840,
+      "text": "\nIn six weeks I will ordain one American priest from Detroit, who is a very good seminarian and will be a good priest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28840,
+      "end_ix": 28890,
+      "text": "\nBut these young men refuse to become protestants.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28890,
+      "end_ix": 28923,
+      "text": "\nThey refuse to become modernist.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28923,
+      "end_ix": 28956,
+      "text": "\nThey ask to become true priests.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28956,
+      "end_ix": 29024,
+      "text": "\nAnd it is a pity there are not 100 bishops opening good seminaries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29024,
+      "end_ix": 29152,
+      "text": "\nSo, I ask you to pray for these seminarians because when they become priests they will have many worries and many difficulties.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29152,
+      "end_ix": 29243,
+      "text": "\nI think, however, they are very well prepared to deal with these difficulties and worries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29243,
+      "end_ix": 29274,
+      "text": "\nAnd we have confidence in God.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29274,
+      "end_ix": 29360,
+      "text": "\nSince I began this work six years ago, now, I have evidence that God is assisting us.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29360,
+      "end_ix": 29419,
+      "text": "\nBecause it is impossible, I realize, to do this by myself.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29419,
+      "end_ix": 29538,
+      "text": "\nWe now have houses in Switzerland (3), Munich, France (6), Brussels (1), England, Armada, San Francisco, and New York.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29538,
+      "end_ix": 29654,
+      "text": "\nIn Albano, near Rome, we have a congregation of sisters where I have five vocations from the states (good sisters).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29654,
+      "end_ix": 29699,
+      "text": "\nAnd I am building a seminary in Switzerland.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29699,
+      "end_ix": 29757,
+      "text": "\nIt is impossible to do all this without God\u2019s assistance.",
+      "new_text": "\nIt is impossible to do all this without God\u2019s assistance.",
+      "prop_spans": [
+        [
+          29700,
+          29757,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 29757,
+      "end_ix": 29780,
+      "text": "\nSo, I have confidence.",
+      "new_text": "\nSo, I have confidence.",
+      "prop_spans": [
+        [
+          29757,
+          29758,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 29780,
+      "end_ix": 29837,
+      "text": "\nIt is impossible for the Church to change its tradition.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29837,
+      "end_ix": 29872,
+      "text": "\nThe tradition of twenty centuries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29872,
+      "end_ix": 29895,
+      "text": "\nThat we cannot change.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          29873,
+          29894,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 29895,
+      "end_ix": 29920,
+      "text": "\nThe Church is tradition.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29920,
+      "end_ix": 29945,
+      "text": "\nThe Church is tradition.",
+      "new_text": "\nThe Church is tradition.",
+      "prop_spans": [
+        [
+          29921,
+          29944,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 29945,
+      "end_ix": 29967,
+      "text": "\nIt is not revolution.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 29967,
+      "end_ix": 29999,
+      "text": "\nI thank you for your attention.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          29968,
+          29998,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 29999,
+      "end_ix": 30220,
+      "text": "\nNOTES:\n[1] Archbishop Benelli, who had the title of \u201cSubstitute\u201d (meaning the Assistant to the Secretary of State) of the Vatican Secretariat of State, later created Cardinal and appointed Archbishop of Florence in 1977.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 30220,
+      "end_ix": 30442,
+      "text": "\n[2] Until the date of this meeting, March 19, 1976, nothing had been said to Archbishop Lefebvre about this condition of submission, which submission was demanded of him as a condition to his request for a Papal Audience.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 30442,
+      "end_ix": 30544,
+      "text": "\nMany noted that, at the time, it was only of Archbishop Lefebvre that these conditions were demanded.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 30544,
+      "end_ix": 30613,
+      "text": "\nPaul VI received all kinds of people (abortionists, freemasons, etc.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 30613,
+      "end_ix": 30616,
+      "text": "\n).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 30616,
+      "end_ix": 30811,
+      "text": "\n[3] Otherwise known as the \u201cPermanent Instruction of the Alta Vendita,\u201d a secret document written in the early 19th Century that mapped out a blueprint for the subversion of the Catholic Church.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 30811,
+      "end_ix": 30983,
+      "text": "\nThe Alta Vendita was the highest lodge of the Carbonari, an Italian secret society with links to Freemasonry and which, along with Freemasonry, was condemned by the Popes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 30983,
+      "end_ix": 31163,
+      "text": "\n[4] During the pontificate of St. Pius X, a lay politician and author Antonio Fogazzaro, advocated a path to reform the Church and Papacy in his novel Il Santo, published in 1907.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 31163,
+      "end_ix": 31277,
+      "text": "\nFogazzaro was a known Modernist whose works were banned by the Church and placed on the Index of Forbidden Books.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      154,
+      169,
+      "Loaded_Language"
+    ],
+    [
+      762,
+      781,
+      "Name_Calling,Labeling"
+    ],
+    [
+      762,
+      781,
+      "Loaded_Language"
+    ],
+    [
+      1400,
+      1452,
+      "Slogans"
+    ],
+    [
+      1692,
+      1733,
+      "Loaded_Language"
+    ],
+    [
+      3486,
+      3522,
+      "Loaded_Language"
+    ],
+    [
+      4679,
+      4735,
+      "Loaded_Language"
+    ],
+    [
+      4757,
+      4779,
+      "Repetition"
+    ],
+    [
+      4852,
+      4878,
+      "Repetition"
+    ],
+    [
+      4910,
+      4936,
+      "Repetition"
+    ],
+    [
+      5126,
+      5152,
+      "Loaded_Language"
+    ],
+    [
+      5422,
+      5563,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      7402,
+      7433,
+      "Repetition"
+    ],
+    [
+      8558,
+      8706,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      8744,
+      8930,
+      "Appeal_to_Authority"
+    ],
+    [
+      9021,
+      9032,
+      "Loaded_Language"
+    ],
+    [
+      9033,
+      9073,
+      "Loaded_Language"
+    ],
+    [
+      10157,
+      10169,
+      "Repetition"
+    ],
+    [
+      10257,
+      10269,
+      "Repetition"
+    ],
+    [
+      10317,
+      10329,
+      "Repetition"
+    ],
+    [
+      10381,
+      10393,
+      "Repetition"
+    ],
+    [
+      10646,
+      10670,
+      "Repetition"
+    ],
+    [
+      10646,
+      10670,
+      "Loaded_Language"
+    ],
+    [
+      10921,
+      10947,
+      "Repetition"
+    ],
+    [
+      11014,
+      11182,
+      "Causal_Oversimplification"
+    ],
+    [
+      12301,
+      12320,
+      "Loaded_Language"
+    ],
+    [
+      12446,
+      12519,
+      "Flag-Waving"
+    ],
+    [
+      12770,
+      12902,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      13047,
+      13075,
+      "Loaded_Language"
+    ],
+    [
+      14308,
+      14336,
+      "Repetition"
+    ],
+    [
+      14336,
+      14489,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      15033,
+      15043,
+      "Repetition"
+    ],
+    [
+      15155,
+      15275,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      15556,
+      15636,
+      "Repetition"
+    ],
+    [
+      15667,
+      15687,
+      "Repetition"
+    ],
+    [
+      15735,
+      15748,
+      "Repetition"
+    ],
+    [
+      16330,
+      16350,
+      "Repetition"
+    ],
+    [
+      16460,
+      16472,
+      "Repetition"
+    ],
+    [
+      16699,
+      16716,
+      "Repetition"
+    ],
+    [
+      17455,
+      17472,
+      "Repetition"
+    ],
+    [
+      17779,
+      17790,
+      "Repetition"
+    ],
+    [
+      18033,
+      18041,
+      "Repetition"
+    ],
+    [
+      18773,
+      18795,
+      "Repetition"
+    ],
+    [
+      18773,
+      18795,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      19505,
+      19516,
+      "Repetition"
+    ],
+    [
+      19826,
+      19842,
+      "Repetition"
+    ],
+    [
+      19864,
+      20009,
+      "Doubt"
+    ],
+    [
+      20026,
+      20038,
+      "Repetition"
+    ],
+    [
+      20061,
+      20074,
+      "Repetition"
+    ],
+    [
+      20344,
+      20356,
+      "Repetition"
+    ],
+    [
+      20640,
+      20668,
+      "Name_Calling,Labeling"
+    ],
+    [
+      20775,
+      20802,
+      "Repetition"
+    ],
+    [
+      20938,
+      20952,
+      "Repetition"
+    ],
+    [
+      21005,
+      21013,
+      "Repetition"
+    ],
+    [
+      21257,
+      21271,
+      "Loaded_Language"
+    ],
+    [
+      21472,
+      21486,
+      "Repetition"
+    ],
+    [
+      21472,
+      21486,
+      "Loaded_Language"
+    ],
+    [
+      22844,
+      22857,
+      "Repetition"
+    ],
+    [
+      23063,
+      23084,
+      "Loaded_Language"
+    ],
+    [
+      23221,
+      23282,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      23852,
+      23867,
+      "Loaded_Language"
+    ],
+    [
+      23956,
+      23965,
+      "Loaded_Language"
+    ],
+    [
+      23995,
+      24012,
+      "Repetition"
+    ],
+    [
+      24223,
+      24266,
+      "Loaded_Language"
+    ],
+    [
+      24239,
+      24249,
+      "Repetition"
+    ],
+    [
+      24384,
+      24401,
+      "Repetition"
+    ],
+    [
+      25136,
+      25145,
+      "Repetition"
+    ],
+    [
+      25147,
+      25203,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      26467,
+      26506,
+      "Doubt"
+    ],
+    [
+      27300,
+      27320,
+      "Repetition"
+    ],
+    [
+      27636,
+      27699,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      29700,
+      29758,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      29873,
+      29894,
+      "Repetition"
+    ],
+    [
+      29921,
+      29944,
+      "Repetition"
+    ],
+    [
+      29968,
+      29998,
+      "Thought-terminating_Cliches"
+    ]
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "article_id": "999001419",
+  "sentence offsets in original": [
+    0,
+    314,
+    398,
+    661,
+    740,
+    917,
+    1143,
+    1208,
+    1429,
+    1520,
+    1614,
+    1806,
+    1998,
+    2223,
+    2310,
+    2510,
+    2740,
+    2835,
+    2907,
+    3060,
+    3135,
+    3307,
+    3365,
+    3448,
+    3507,
+    3672,
+    3887,
+    3918,
+    3986,
+    4171,
+    4360,
+    4480,
+    4617,
+    4680,
+    4774,
+    4913,
+    4987,
+    5029,
+    5114
+  ],
+  "original sentences": [
+    "Trump Vows to Kick CNN\u2019s Acosta Out Again\n\nPresident Trump took CNN\u2019s improbable court victory temporarily restoring CNN White House correspondent Jim Acosta\u2019s \u201chard pass\u201d media credential for the executive mansion in stride, vowing to kick Acosta out again in the future if he breaches White House protocol again.",
+    "\nThe yanking of the physical credential, by the way, isn\u2019t exactly a grave hardship.",
+    "\nIt just means Acosta would need to make an appointment through the White House press office every time he wanted to visit the White House grounds, just as the rest of the non-hard pass-holding journalists who don\u2019t work for big media outlets like CNN have to do.",
+    "\nLacking a hard pass does not prevent anyone from reporting on the White House.",
+    "\nSpeaking to Chris Wallace of Fox News Channel in an interview that aired Sunday, Trump had some new ideas on how to deal with Acosta, who picks fights with him during pressers.",
+    "\n\"I think one of the things we\u2019ll do is maybe turn the camera off that faces them, because then they don\u2019t have any air time, although I\u2019ll probably be sued for that and maybe, you know, win or lose it, who knows,\" Trump said.",
+    "\n\"I mean, with this stuff you never know what\u2019s going to happen.\"",
+    "\nThe president described Acosta as \"unbelievably rude to [White House Press Secretary] Sarah Huckabee, who\u2019s a wonderful woman,\" and said his administration is drawing up \"rules and regulations\" for White House reporters.",
+    "\n\"And if he misbehaves, we\u2019ll throw him out or we\u2019ll stop the news conference,\" Trump said.",
+    "\nAcosta\u2019s hard pass was pulled after a contentious Nov. 7 press conference at the White House.",
+    "\nAfter interacting with President Trump \u2013 Acosta said he wanted to \u201cchallenge\u201d him on calling the Central American caravans an \u201cinvasion\u201d \u2013 the president called upon another reporter to speak.",
+    "\nAfter lecturing Trump, Acosta belligerently refused to yield the microphone to a White House staffer and pushed her arm away as she reached for the device, all of which was captured on video.",
+    "\nOn Nov. 16, U.S. District Judge Timothy J. Kelly of Washington, D.C., who was appointed by Trump, ruled against the administration and ordered Acosta\u2019s hard pass restored for 14 days, pending further hearings in the lawsuit.",
+    "\nBut it was not a vindication of Acosta\u2019s free speech rights under the First Amendment.",
+    "\nThe judge specifically said that the First Amendment claim made by Acosta and CNN had not yet been adjudicated and added that the president was free not to call on Acosta at future press conferences.",
+    "\nThe temporary restraining order was nowhere to be found online at press time, but according to media reports, Kelly found that the administration violated Acosta\u2019s due process rights under the Fifth Amendment to the Constitution.",
+    "\nThe White House vowed to remedy the situation by drawing up rules governing press conferences.",
+    "\nThe U.S. Department of Justice said the court ruling was disappointing.",
+    "\n\u201cThe President has broad authority to regulate access to the White House, including to ensure fair and orderly White House events and press conferences.",
+    "\nWe look forward to continuing to defend the White House's lawful actions.\"",
+    "\nAcosta ignorantly blathered on to reporters when he returned to the White House Friday after the court ruling, incorrectly claiming he won a great First Amendment victory.",
+    "\n\"I'm very grateful for what happened today,\" Acosta said.",
+    "\n\"I'm grateful for my colleagues in the press who stood by us through all of this.\"",
+    "\n\"This was a test and I think we passed the test,\" he said.",
+    "\n\"Journalists need to know that in this country their First Amendment rights of freedom of the press are sacred, they're protected in our Constitution,\" Acosta said.",
+    "\n\"Throughout all of this I was confident and I thought that this would be the result at the end of the day that our rights would be protected as we continue to cover our government and hold our leaders accountable.\"",
+    "\nThe court case isn\u2019t over yet.",
+    "\nThe legal antagonists have to report to the court Monday afternoon.",
+    "\nThe court ordered the parties to \u201cfile a joint status report proposing how they would like to proceed in this case by 3:00 p.m. on November 19, 2018[,]\u201d according to its online docket.",
+    "\nAccording to CNN, \u201cWhite House officials sent Acosta a letter stating that his pass is set to be suspended again once the restraining order expires.\u201d\nFrom the looks of the letter, the W.H.",
+    "\nis trying to establish a paper trail that will empower the administration to boot Acosta again at the end of the month.",
+    "\nCNN responded with this statement on Sunday: \"The White House is continuing to violate the First and 5th Amendments of the Constitution.",
+    "\nThese actions threaten all journalists and news organizations.",
+    "\nJim Acosta and CNN will continue to report the news about the White House and the President.\"",
+    "\nThe Acosta-CNN lawsuit was filed by Ted Boutrous and Trump-hating Republican lawyer Ted Olson, of the law firm Gibson, Dunn, and Crutcher.",
+    "\nOlson was solicitor general in President George W. Bush\u2019s administration.",
+    "\n(The legal complaint may be viewed here.)",
+    "\nBoutrous said CNN is prepared to dig in for a protracted legal fight if it needs to.",
+    "\n\"We're ready to litigate as long as we have to, to protect these First Amendment rights, to ask the court to declare rules of the road going forward,\" he said."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 314,
+      "text": "Trump Vows to Kick CNN\u2019s Acosta Out Again\n\nPresident Trump took CNN\u2019s improbable court victory temporarily restoring CNN White House correspondent Jim Acosta\u2019s \u201chard pass\u201d media credential for the executive mansion in stride, vowing to kick Acosta out again in the future if he breaches White House protocol again.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 314,
+      "end_ix": 398,
+      "text": "\nThe yanking of the physical credential, by the way, isn\u2019t exactly a grave hardship.",
+      "new_text": "\nThe yanking of the physical credential, by the way, isn\u2019t exactly a serious hardship.",
+      "prop_spans": [
+        [
+          383,
+          397,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 398,
+      "end_ix": 661,
+      "text": "\nIt just means Acosta would need to make an appointment through the White House press office every time he wanted to visit the White House grounds, just as the rest of the non-hard pass-holding journalists who don\u2019t work for big media outlets like CNN have to do.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 661,
+      "end_ix": 740,
+      "text": "\nLacking a hard pass does not prevent anyone from reporting on the White House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 740,
+      "end_ix": 917,
+      "text": "\nSpeaking to Chris Wallace of Fox News Channel in an interview that aired Sunday, Trump had some new ideas on how to deal with Acosta, who picks fights with him during pressers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 917,
+      "end_ix": 1143,
+      "text": "\n\"I think one of the things we\u2019ll do is maybe turn the camera off that faces them, because then they don\u2019t have any air time, although I\u2019ll probably be sued for that and maybe, you know, win or lose it, who knows,\" Trump said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1143,
+      "end_ix": 1208,
+      "text": "\n\"I mean, with this stuff you never know what\u2019s going to happen.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1208,
+      "end_ix": 1429,
+      "text": "\nThe president described Acosta as \"unbelievably rude to [White House Press Secretary] Sarah Huckabee, who\u2019s a wonderful woman,\" and said his administration is drawing up \"rules and regulations\" for White House reporters.",
+      "new_text": "\nThe president described Acosta as \"unbelievably rude to [White House Press Secretary] Sarah Huckabee, who\u2019s a wonderful woman,\" and said his administration is drawing up \"rules and regulations\" for White House reporters.",
+      "prop_spans": [
+        [
+          1244,
+          1261,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1319,
+          1334,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1429,
+      "end_ix": 1520,
+      "text": "\n\"And if he misbehaves, we\u2019ll throw him out or we\u2019ll stop the news conference,\" Trump said.",
+      "new_text": "\n\"And if he misbehaves, we\u2019ll throw him out or we\u2019ll stop the news conference,\" Trump said.",
+      "prop_spans": [
+        [
+          1435,
+          1506,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1520,
+      "end_ix": 1614,
+      "text": "\nAcosta\u2019s hard pass was pulled after a contentious Nov. 7 press conference at the White House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1614,
+      "end_ix": 1806,
+      "text": "\nAfter interacting with President Trump \u2013 Acosta said he wanted to \u201cchallenge\u201d him on calling the Central American caravans an \u201cinvasion\u201d \u2013 the president called upon another reporter to speak.",
+      "new_text": "\nAfter interacting with President Trump \u2013 Acosta said he wanted to \u201cchallenge\u201d him on calling the Central American caravans an \u201cinvasion\u201d \u2013 the president called upon another reporter to speak.",
+      "prop_spans": [
+        [
+          1741,
+          1751,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1806,
+      "end_ix": 1998,
+      "text": "\nAfter lecturing Trump, Acosta belligerently refused to yield the microphone to a White House staffer and pushed her arm away as she reached for the device, all of which was captured on video.",
+      "new_text": "\nAfter lecturing Trump, Acosta refused to yield the microphone to a White House staffer and pushed her arm away as she reached for the device, all of which was captured on video.",
+      "prop_spans": [
+        [
+          1837,
+          1850,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1998,
+      "end_ix": 2223,
+      "text": "\nOn Nov. 16, U.S. District Judge Timothy J. Kelly of Washington, D.C., who was appointed by Trump, ruled against the administration and ordered Acosta\u2019s hard pass restored for 14 days, pending further hearings in the lawsuit.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2223,
+      "end_ix": 2310,
+      "text": "\nBut it was not a vindication of Acosta\u2019s free speech rights under the First Amendment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2310,
+      "end_ix": 2510,
+      "text": "\nThe judge specifically said that the First Amendment claim made by Acosta and CNN had not yet been adjudicated and added that the president was free not to call on Acosta at future press conferences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2510,
+      "end_ix": 2740,
+      "text": "\nThe temporary restraining order was nowhere to be found online at press time, but according to media reports, Kelly found that the administration violated Acosta\u2019s due process rights under the Fifth Amendment to the Constitution.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2740,
+      "end_ix": 2835,
+      "text": "\nThe White House vowed to remedy the situation by drawing up rules governing press conferences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2835,
+      "end_ix": 2907,
+      "text": "\nThe U.S. Department of Justice said the court ruling was disappointing.",
+      "new_text": "\nThe U.S. Department of Justice said the court ruling was saddening.",
+      "prop_spans": [
+        [
+          2893,
+          2906,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2907,
+      "end_ix": 3060,
+      "text": "\n\u201cThe President has broad authority to regulate access to the White House, including to ensure fair and orderly White House events and press conferences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3060,
+      "end_ix": 3135,
+      "text": "\nWe look forward to continuing to defend the White House's lawful actions.\"",
+      "new_text": "\nWe look forward to continuing to defend the White House's lawful actions.\"",
+      "prop_spans": [
+        [
+          3119,
+          3125,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3135,
+      "end_ix": 3307,
+      "text": "\nAcosta ignorantly blathered on to reporters when he returned to the White House Friday after the court ruling, incorrectly claiming he won a great First Amendment victory.",
+      "new_text": "\nAcosta ignorantly yapped on to reporters when he returned to the White House Friday after the court ruling, incorrectly claiming he won a great First Amendment victory.",
+      "prop_spans": [
+        [
+          3143,
+          3153,
+          "Loaded_Language"
+        ],
+        [
+          3154,
+          3163,
+          "Loaded_Language"
+        ],
+        [
+          3275,
+          3306,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3307,
+      "end_ix": 3365,
+      "text": "\n\"I'm very grateful for what happened today,\" Acosta said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3365,
+      "end_ix": 3448,
+      "text": "\n\"I'm grateful for my colleagues in the press who stood by us through all of this.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3448,
+      "end_ix": 3507,
+      "text": "\n\"This was a test and I think we passed the test,\" he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3507,
+      "end_ix": 3672,
+      "text": "\n\"Journalists need to know that in this country their First Amendment rights of freedom of the press are sacred, they're protected in our Constitution,\" Acosta said.",
+      "new_text": "\n\"Journalists need to know that in this country their First Amendment rights of freedom of the press are sacred, they're protected in our Constitution,\" Acosta said.",
+      "prop_spans": [
+        [
+          3641,
+          3657,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3672,
+      "end_ix": 3887,
+      "text": "\n\"Throughout all of this I was confident and I thought that this would be the result at the end of the day that our rights would be protected as we continue to cover our government and hold our leaders accountable.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3887,
+      "end_ix": 3918,
+      "text": "\nThe court case isn\u2019t over yet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3918,
+      "end_ix": 3986,
+      "text": "\nThe legal antagonists have to report to the court Monday afternoon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3986,
+      "end_ix": 4171,
+      "text": "\nThe court ordered the parties to \u201cfile a joint status report proposing how they would like to proceed in this case by 3:00 p.m. on November 19, 2018[,]\u201d according to its online docket.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4171,
+      "end_ix": 4360,
+      "text": "\nAccording to CNN, \u201cWhite House officials sent Acosta a letter stating that his pass is set to be suspended again once the restraining order expires.\u201d\nFrom the looks of the letter, the W.H.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4360,
+      "end_ix": 4480,
+      "text": "\nis trying to establish a paper trail that will empower the administration to boot Acosta again at the end of the month.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4480,
+      "end_ix": 4617,
+      "text": "\nCNN responded with this statement on Sunday: \"The White House is continuing to violate the First and 5th Amendments of the Constitution.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4617,
+      "end_ix": 4680,
+      "text": "\nThese actions threaten all journalists and news organizations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4680,
+      "end_ix": 4774,
+      "text": "\nJim Acosta and CNN will continue to report the news about the White House and the President.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4774,
+      "end_ix": 4913,
+      "text": "\nThe Acosta-CNN lawsuit was filed by Ted Boutrous and Trump-hating Republican lawyer Ted Olson, of the law firm Gibson, Dunn, and Crutcher.",
+      "new_text": "\nThe Acosta-CNN lawsuit was filed by Ted Boutrous and lawyer Ted Olson, of the law firm Gibson, Dunn, and Crutcher.",
+      "prop_spans": [
+        [
+          4828,
+          4851,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4913,
+      "end_ix": 4987,
+      "text": "\nOlson was solicitor general in President George W. Bush\u2019s administration.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4987,
+      "end_ix": 5029,
+      "text": "\n(The legal complaint may be viewed here.)",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5029,
+      "end_ix": 5114,
+      "text": "\nBoutrous said CNN is prepared to dig in for a protracted legal fight if it needs to.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5114,
+      "end_ix": 5274,
+      "text": "\n\"We're ready to litigate as long as we have to, to protect these First Amendment rights, to ask the court to declare rules of the road going forward,\" he said.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      383,
+      397,
+      "Loaded_Language"
+    ],
+    [
+      1244,
+      1261,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1319,
+      1334,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1435,
+      1506,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      1741,
+      1751,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1837,
+      1850,
+      "Loaded_Language"
+    ],
+    [
+      2893,
+      2906,
+      "Loaded_Language"
+    ],
+    [
+      3119,
+      3125,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3143,
+      3153,
+      "Loaded_Language"
+    ],
+    [
+      3154,
+      3163,
+      "Loaded_Language"
+    ],
+    [
+      3275,
+      3306,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3641,
+      3657,
+      "Flag-Waving"
+    ],
+    [
+      4828,
+      4851,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "article_id": "725824328",
+  "sentence offsets in original": [
+    0,
+    28,
+    470,
+    773,
+    895,
+    1099,
+    1161,
+    1222,
+    1345,
+    1470,
+    1590,
+    1807,
+    2178,
+    2298,
+    2461,
+    2655,
+    2837,
+    2982,
+    3140,
+    3303,
+    3336,
+    3523,
+    3789,
+    4000
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nFrom TPM:\nThe Photo That Never Saw The Light of Day: Obama With Farrakhan In 2005 By Esme Cribb | January 25, 2018 2:16 pm A journalist announced last week that he will publish a photograph of then-Illinois Sen. Barack Obama (D) and Nation of Islam leader Louis Farrakhan that he took in 2005 at a Congressional Black Caucus meeting, but did not make public because he believed it would have \u201cmade a difference\u201d to Obama\u2019s political future.",
+    "\nThe photographer, Askia Muhammad, told the Trice Edney News Wire that he \u201cgave the picture up at the time and basically swore secrecy.\u201d \u201cBut after the nomination was secured and all the way up until the inauguration; then for eight years after he was President, it was kept under cover,\u201d Muhammad said.",
+    "\nAsked whether he thought the photo\u2019s release would have affected Obama\u2019s presidential campaign, Muhammad said, \u201cI insist.",
+    "\nIt absolutely would have made a difference.\u201d Reached by TPM on Thursday, Muhammad said a \u201cstaff member\u201d for the CBC contacted him \u201csort of in a panic\u201d after he took the photo at a caucus meeting in 2005.",
+    "\nTPM has published the photo above with Muhammad\u2019s permission.",
+    "\n\u201cI sort of understood what was going on,\u201d Muhammad told TPM.",
+    "\n\u201cI promised and made arrangements to give the picture to Leonard Farrakhan,\u201d the minister\u2019s son-in-law and chief of staff.",
+    "\nMuhammad said he gave away \u201cthe disk\u201d from his camera but \u201ccopied the photograph from that day onto a file\u201d on his computer.",
+    "\n\u201cRealizing that I had given it up, I mean, it was sort of like a promise to keep the photograph secret,\u201d Muhammad said.",
+    "\nMuhammad said he did not release his copy of the photograph because he thought it would be perceived as a betrayal of that promise: \u201cI was really, I guess, afraid of them.\u201d\nMalcolm X wasn\u2019t adequately afraid of them.",
+    "\nHere\u2019s what happened to him:\nhttps://youtu.be/qSm1t3Uv9QI\nMuhammad said he thought the photograph would be \u201cdamaging politically\u201d if it were released and was afraid that someone might \u201cbreak into his apartment\u201d looking for it, like \u201cthat Watergate crap.\u201d He said he \u201cfelt a little bit more at ease\u201d after Farrakhan in 2016 claimed that Obama visited his home in Chicago.",
+    "\nMuhammad contacted Farrakhan in autumn 2017 with the \u201cfinal manuscript\u201d for a self-published book containing the photo.",
+    "\n\u201cI sent him a copy of the manuscript suggesting that, showing him the picture, and saying to him, if he did not object, I was going to publish it,\u201d Muhammad said.",
+    "\n\u201cHe had no objection.\u201d \u2026 During Obama\u2019s presidential campaign, conservatives pushed multiple apparently racially motivated conspiracy theories about Obama\u2019s religion and supposed ties to Islam.",
+    "\nFor example, in Obama\u2019s memoir subtitled A Story of Race and Inheritance, Obama recounts his being a regular reader of Minister Farrakhan\u2019s Nation of Islam newspaper The Final Call.",
+    "\nObama recollects Farrakhan\u2019s black nationalist capitalist campaign to get black people to use toothpaste manufactured by black-owned businesses.",
+    "\nFarrakhan\u2019s eventual failure suggests to Obama that\u2019s there is more economic upside for blacks in shaking down white institutions than in building their own.",
+    "\nDuring the 2008 presidential election, conservatives questioned the indirect ties between Farrakhan and Obama, who attended a church that gave Farrakhan an award.",
+    "\nObama\u2019s \u201cspiritual advisor\u201d Rev.",
+    "\nJeremiah Wright gave Farrakhan his church\u2019s Lifetime Achievement award in a downtown Chicago Hyatt Regency in November 2007, but the story didn\u2019t make the press until the following year.",
+    "\nSimilarly, very little media attention was paid to the close relationship between Obama\u2019s fundraiser and private mentor Tony Rezko and the Nation of Islam, even though Rezko\u2019s role was business manager for Nation of Islam assets, such as the career of Muhammad Ali.",
+    "\nBut after all, what could be more boring than a story than involves a Presidential candidate, the Syrian Christian crook who helped him buy his house, the Nation of Islam, and the most famous boxer of all time?",
+    "\nReading Obama\u2019s 1995 memoir, you might almost get the impression that after a prudent first term, during his second he might side with, I dunno, Black Lives Matter and encourage a wave of black rage and police retreat that drove up the death toll from murder by 20% in his last two years in office, an incremental death toll a little bigger than the U.S. combat death toll from the equally stupid Iraq War."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 470,
+      "text": "\n\nFrom TPM:\nThe Photo That Never Saw The Light of Day: Obama With Farrakhan In 2005 By Esme Cribb | January 25, 2018 2:16 pm A journalist announced last week that he will publish a photograph of then-Illinois Sen. Barack Obama (D) and Nation of Islam leader Louis Farrakhan that he took in 2005 at a Congressional Black Caucus meeting, but did not make public because he believed it would have \u201cmade a difference\u201d to Obama\u2019s political future.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 470,
+      "end_ix": 773,
+      "text": "\nThe photographer, Askia Muhammad, told the Trice Edney News Wire that he \u201cgave the picture up at the time and basically swore secrecy.\u201d \u201cBut after the nomination was secured and all the way up until the inauguration; then for eight years after he was President, it was kept under cover,\u201d Muhammad said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 773,
+      "end_ix": 895,
+      "text": "\nAsked whether he thought the photo\u2019s release would have affected Obama\u2019s presidential campaign, Muhammad said, \u201cI insist.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 895,
+      "end_ix": 1099,
+      "text": "\nIt absolutely would have made a difference.\u201d Reached by TPM on Thursday, Muhammad said a \u201cstaff member\u201d for the CBC contacted him \u201csort of in a panic\u201d after he took the photo at a caucus meeting in 2005.",
+      "new_text": "\nIt absolutely would have made a difference.\u201d Reached by TPM on Thursday, Muhammad said a \u201cstaff member\u201d for the CBC contacted him \u201csort of in a panic\u201d after he took the photo at a caucus meeting in 2005.",
+      "prop_spans": [
+        [
+          1027,
+          1045,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1099,
+      "end_ix": 1161,
+      "text": "\nTPM has published the photo above with Muhammad\u2019s permission.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1161,
+      "end_ix": 1222,
+      "text": "\n\u201cI sort of understood what was going on,\u201d Muhammad told TPM.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1222,
+      "end_ix": 1345,
+      "text": "\n\u201cI promised and made arrangements to give the picture to Leonard Farrakhan,\u201d the minister\u2019s son-in-law and chief of staff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1345,
+      "end_ix": 1470,
+      "text": "\nMuhammad said he gave away \u201cthe disk\u201d from his camera but \u201ccopied the photograph from that day onto a file\u201d on his computer.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1470,
+      "end_ix": 1590,
+      "text": "\n\u201cRealizing that I had given it up, I mean, it was sort of like a promise to keep the photograph secret,\u201d Muhammad said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1590,
+      "end_ix": 1807,
+      "text": "\nMuhammad said he did not release his copy of the photograph because he thought it would be perceived as a betrayal of that promise: \u201cI was really, I guess, afraid of them.\u201d\nMalcolm X wasn\u2019t adequately afraid of them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1807,
+      "end_ix": 2178,
+      "text": "\nHere\u2019s what happened to him:\nhttps://youtu.be/qSm1t3Uv9QI\nMuhammad said he thought the photograph would be \u201cdamaging politically\u201d if it were released and was afraid that someone might \u201cbreak into his apartment\u201d looking for it, like \u201cthat Watergate crap.\u201d He said he \u201cfelt a little bit more at ease\u201d after Farrakhan in 2016 claimed that Obama visited his home in Chicago.",
+      "new_text": "\nHere\u2019s what happened to him:\nhttps://youtu.be/qSm1t3Uv9QI\nMuhammad said he thought the photograph would be \u201cdamaging politically\u201d if it were released and was afraid that someone might \u201cbreak into his apartment\u201d looking for it, like \u201cthat Watergate crap.\u201d He said he \u201cfelt a little bit more at ease\u201d after Farrakhan in 2016 claimed that Obama visited his home in Chicago.",
+      "prop_spans": [
+        [
+          1962,
+          2033,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          2056,
+          2060,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2178,
+      "end_ix": 2298,
+      "text": "\nMuhammad contacted Farrakhan in autumn 2017 with the \u201cfinal manuscript\u201d for a self-published book containing the photo.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2298,
+      "end_ix": 2461,
+      "text": "\n\u201cI sent him a copy of the manuscript suggesting that, showing him the picture, and saying to him, if he did not object, I was going to publish it,\u201d Muhammad said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2461,
+      "end_ix": 2655,
+      "text": "\n\u201cHe had no objection.\u201d \u2026 During Obama\u2019s presidential campaign, conservatives pushed multiple apparently racially motivated conspiracy theories about Obama\u2019s religion and supposed ties to Islam.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2655,
+      "end_ix": 2837,
+      "text": "\nFor example, in Obama\u2019s memoir subtitled A Story of Race and Inheritance, Obama recounts his being a regular reader of Minister Farrakhan\u2019s Nation of Islam newspaper The Final Call.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2837,
+      "end_ix": 2982,
+      "text": "\nObama recollects Farrakhan\u2019s black nationalist capitalist campaign to get black people to use toothpaste manufactured by black-owned businesses.",
+      "new_text": "\nObama recollects Farrakhan\u2019s black nationalist capitalist campaign to get black people to use toothpaste manufactured by black-owned businesses.",
+      "prop_spans": [
+        [
+          2959,
+          2964,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2982,
+      "end_ix": 3140,
+      "text": "\nFarrakhan\u2019s eventual failure suggests to Obama that\u2019s there is more economic upside for blacks in shaking down white institutions than in building their own.",
+      "new_text": "\nFarrakhan\u2019s eventual failure suggests to Obama that\u2019s there is more economic upside for blacks in shaking down white institutions than in building their own.",
+      "prop_spans": [
+        [
+          3081,
+          3113,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3140,
+      "end_ix": 3303,
+      "text": "\nDuring the 2008 presidential election, conservatives questioned the indirect ties between Farrakhan and Obama, who attended a church that gave Farrakhan an award.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3303,
+      "end_ix": 3336,
+      "text": "\nObama\u2019s \u201cspiritual advisor\u201d Rev.",
+      "new_text": "\nObama\u2019s \u201cspiritual advisor\u201d Rev.",
+      "prop_spans": [
+        [
+          3313,
+          3330,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3336,
+      "end_ix": 3523,
+      "text": "\nJeremiah Wright gave Farrakhan his church\u2019s Lifetime Achievement award in a downtown Chicago Hyatt Regency in November 2007, but the story didn\u2019t make the press until the following year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3523,
+      "end_ix": 3789,
+      "text": "\nSimilarly, very little media attention was paid to the close relationship between Obama\u2019s fundraiser and private mentor Tony Rezko and the Nation of Islam, even though Rezko\u2019s role was business manager for Nation of Islam assets, such as the career of Muhammad Ali.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3789,
+      "end_ix": 4000,
+      "text": "\nBut after all, what could be more boring than a story than involves a Presidential candidate, the Syrian Christian crook who helped him buy his house, the Nation of Islam, and the most famous boxer of all time?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4000,
+      "end_ix": 4407,
+      "text": "\nReading Obama\u2019s 1995 memoir, you might almost get the impression that after a prudent first term, during his second he might side with, I dunno, Black Lives Matter and encourage a wave of black rage and police retreat that drove up the death toll from murder by 20% in his last two years in office, an incremental death toll a little bigger than the U.S. combat death toll from the equally stupid Iraq War.",
+      "new_text": "\nReading Obama\u2019s 1995 memoir, you might almost get the impression that after a prudent first term, during his second he might side with, I dunno, Black Lives Matter and encourage a wave of black rage and police retreat that drove up the death toll from murder by 20% in his last two years in office, an incremental death toll a little bigger than the U.S. combat death toll from the equally stupid Iraq War.",
+      "prop_spans": [
+        [
+          4001,
+          4406,
+          "Doubt"
+        ],
+        [
+          4189,
+          4200,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1027,
+      1045,
+      "Loaded_Language"
+    ],
+    [
+      1962,
+      2033,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2056,
+      2060,
+      "Loaded_Language"
+    ],
+    [
+      2959,
+      2964,
+      "Repetition"
+    ],
+    [
+      3081,
+      3113,
+      "Loaded_Language"
+    ],
+    [
+      3313,
+      3330,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4001,
+      4406,
+      "Doubt"
+    ],
+    [
+      4189,
+      4200,
+      "Loaded_Language"
+    ]
+  ]
+}

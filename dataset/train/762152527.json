@@ -1,0 +1,293 @@
+{
+  "article_id": "762152527",
+  "sentence offsets in original": [
+    0,
+    16,
+    190,
+    312,
+    369,
+    553,
+    618,
+    897,
+    975,
+    1073,
+    1224,
+    1424,
+    1565,
+    1785,
+    1869,
+    1913,
+    1954,
+    2027
+  ],
+  "original sentences": [
+    "Spygate Coverup?",
+    "\n\nhttps://www.lewrockwell.com/lrc-blog/spygate-coverup/\nRep. Ron DeSantis (R-FL) accuses the Republican House leadership of dragging their heels in the Spygate investigation.",
+    "\nThis has been evident for months now, as there are many connections and obvious questions that haven\u2019t been investigated.",
+    "\nThe FBI files contain memos that need to be scoured too.",
+    "\nThe House leaders are Paul Ryan (Speaker of the House), Kevin McCarthy (Majority Leader), Steve Scalise (Majority Whip) and Cathy McMorris Rodgers (House Republican Conference Chair).",
+    "\nThere is a decided lack of aggressiveness of this investigation.",
+    "\nOne source is Paul Ryan: Evidence: \u201cHouse Speaker Paul Ryan said Wednesday that Oversight Chairman Trey Gowdy was \u2018accurate\u2019 when he argued the FBI has acted appropriately in its ongoing probe of potential Russian links to the Trump campaign.\u201d How could Ryan possibly know this?",
+    "\nIsn\u2019t he prejudging the case without even finding out what actually happened?",
+    "\nIf Ryan is correct, an investigation will show it; but the current evidence suggests he is wrong.",
+    "\nBy short-circuiting the investigation, Ryan is betraying the interest of the American people to learn what the FBI and CIA actually did against Trump.",
+    "\nAnother Republican who wants to stop investigating is former RNC Chair, Michael Steele: \u201cThere is no Spygate because there are no spies in the campaign.\u201d The attitude of Steve Scalise is wishy-washy.",
+    "\nHe\u2019s open to a special prosecutor, but his responses come across as passive, lacking push, zeal and enthusiasm to delve deeply into Spygate.",
+    "\nThere is a kind of coverup at work here in which important Republicans do not want to bolster Trump by adding substance to Spygate, and they do not want to clean up the FBI by aggressively investigating Spygate further.",
+    "\nThey don\u2019t want the rotten inner workings of the organization to be aired publicly.",
+    "\nThey want to preserve the FBI\u2019s reputation.",
+    "\nThey don\u2019t care to see Trump vindicated.",
+    "\nThe contrast with the Watergate investigation and hearings is startling.",
+    "\n1:33 pm on June 6, 2018\nThe Best of Michael S. Rozeff"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 16,
+      "text": "Spygate Coverup?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 16,
+      "end_ix": 190,
+      "text": "\n\nhttps://www.lewrockwell.com/lrc-blog/spygate-coverup/\nRep. Ron DeSantis (R-FL) accuses the Republican House leadership of dragging their heels in the Spygate investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 190,
+      "end_ix": 312,
+      "text": "\nThis has been evident for months now, as there are many connections and obvious questions that haven\u2019t been investigated.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 312,
+      "end_ix": 369,
+      "text": "\nThe FBI files contain memos that need to be scoured too.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 369,
+      "end_ix": 553,
+      "text": "\nThe House leaders are Paul Ryan (Speaker of the House), Kevin McCarthy (Majority Leader), Steve Scalise (Majority Whip) and Cathy McMorris Rodgers (House Republican Conference Chair).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 553,
+      "end_ix": 618,
+      "text": "\nThere is a decided lack of aggressiveness of this investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 618,
+      "end_ix": 897,
+      "text": "\nOne source is Paul Ryan: Evidence: \u201cHouse Speaker Paul Ryan said Wednesday that Oversight Chairman Trey Gowdy was \u2018accurate\u2019 when he argued the FBI has acted appropriately in its ongoing probe of potential Russian links to the Trump campaign.\u201d How could Ryan possibly know this?",
+      "new_text": "\nOne source is Paul Ryan: Evidence: \u201cHouse Speaker Paul Ryan said Wednesday that Oversight Chairman Trey Gowdy was \u2018accurate\u2019 when he argued the FBI has acted appropriately in its ongoing probe of potential Russian links to the Trump campaign.\u201d How could Ryan know this?",
+      "prop_spans": [
+        [
+          863,
+          897,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 897,
+      "end_ix": 975,
+      "text": "\nIsn\u2019t he prejudging the case without even finding out what actually happened?",
+      "new_text": "\nIsn\u2019t he probably prejudging the case?",
+      "prop_spans": [
+        [
+          897,
+          897,
+          "Doubt"
+        ],
+        [
+          898,
+          975,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 975,
+      "end_ix": 1073,
+      "text": "\nIf Ryan is correct, an investigation will show it; but the current evidence suggests he is wrong.",
+      "new_text": "\nIf Ryan is correct, an investigation will show it; but the current evidence suggests he might be wrong.",
+      "prop_spans": [
+        [
+          975,
+          975,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1073,
+      "end_ix": 1224,
+      "text": "\nBy short-circuiting the investigation, Ryan is betraying the interest of the American people to learn what the FBI and CIA actually did against Trump.",
+      "new_text": "\nBy short-circuiting the investigation, Ryan is betraying the interest of the people to learn what the FBI and CIA actually did against Trump.",
+      "prop_spans": [
+        [
+          1121,
+          1166,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1224,
+      "end_ix": 1424,
+      "text": "\nAnother Republican who wants to stop investigating is former RNC Chair, Michael Steele: \u201cThere is no Spygate because there are no spies in the campaign.\u201d The attitude of Steve Scalise is wishy-washy.",
+      "new_text": "\nAnother Republican who wants to stop investigating is former RNC Chair, Michael Steele: \u201cThere is no Spygate because there are no spies in the campaign.\u201d The attitude of Steve Scalise is weak.",
+      "prop_spans": [
+        [
+          1412,
+          1423,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1424,
+      "end_ix": 1565,
+      "text": "\nHe\u2019s open to a special prosecutor, but his responses come across as passive, lacking push, zeal and enthusiasm to delve deeply into Spygate.",
+      "new_text": "\nHe\u2019s open to a special prosecutor, but his responses come across as passive, lacking enthusiasm to delve deeply into Spygate.",
+      "prop_spans": [
+        [
+          1502,
+          1535,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1565,
+      "end_ix": 1785,
+      "text": "\nThere is a kind of coverup at work here in which important Republicans do not want to bolster Trump by adding substance to Spygate, and they do not want to clean up the FBI by aggressively investigating Spygate further.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1785,
+      "end_ix": 1869,
+      "text": "\nThey don\u2019t want the rotten inner workings of the organization to be aired publicly.",
+      "new_text": "\nThey don\u2019t want the bad inner workings of the organization to be aired publicly.",
+      "prop_spans": [
+        [
+          1802,
+          1827,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1869,
+      "end_ix": 1913,
+      "text": "\nThey want to preserve the FBI\u2019s reputation.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1870,
+          1913,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1913,
+      "end_ix": 1954,
+      "text": "\nThey don\u2019t care to see Trump vindicated.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1913,
+          1913,
+          "Straw_Men"
+        ],
+        [
+          1914,
+          1954,
+          "Straw_Men"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1954,
+      "end_ix": 2027,
+      "text": "\nThe contrast with the Watergate investigation and hearings is startling.",
+      "new_text": "\nThe contrast with the Watergate investigation and hearings is amazing.",
+      "prop_spans": [
+        [
+          1954,
+          1954,
+          "Straw_Men"
+        ],
+        [
+          2017,
+          2026,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2027,
+      "end_ix": 2081,
+      "text": "\n1:33 pm on June 6, 2018\nThe Best of Michael S. Rozeff",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      863,
+      897,
+      "Doubt"
+    ],
+    [
+      898,
+      975,
+      "Doubt"
+    ],
+    [
+      1121,
+      1166,
+      "Flag-Waving"
+    ],
+    [
+      1412,
+      1423,
+      "Loaded_Language"
+    ],
+    [
+      1502,
+      1535,
+      "Loaded_Language"
+    ],
+    [
+      1802,
+      1827,
+      "Loaded_Language"
+    ],
+    [
+      1870,
+      1913,
+      "Straw_Men"
+    ],
+    [
+      1914,
+      1954,
+      "Straw_Men"
+    ],
+    [
+      2017,
+      2026,
+      "Loaded_Language"
+    ]
+  ]
+}

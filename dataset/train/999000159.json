@@ -1,0 +1,320 @@
+{
+  "article_id": "999000159",
+  "sentence offsets in original": [
+    0,
+    179,
+    346,
+    434,
+    583,
+    716,
+    811,
+    906,
+    944,
+    977,
+    1059,
+    1141,
+    1169,
+    1232,
+    1286,
+    1355,
+    1441,
+    1483,
+    1609,
+    1654,
+    1754,
+    1860,
+    1886,
+    1994
+  ],
+  "original sentences": [
+    "Scorecard: See If Your Representative Or Senator Supports The Second Amendment Or Not\n\nWith just weeks to go till the 2018 midterm elections, there are lots of seats up for grabs.",
+    "\nWith that in mind, one of the most important areas our representatives need to be strong in is on your right to keep and bear arms, protected in the Second Amendment.",
+    "\nGun Owners of America has put out their scorecard and for some, it will be eye-opening.",
+    "\nGOA Executive Director Erich Pratt writes:\nThe anti-gun Left is hopping-mad, now that Judge Brett Kavanaugh has been confirmed to the Supreme Court.",
+    "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nThey are motivated to get to the polls this November.",
+    "\nSo it is crucial that you and your pro-gun friends get to the polls.",
+    "\nAnd that\u2019s why GOA is putting the 2018 Congressional Voter Scorecard into your hands.",
+    "\nThere is a lot that\u2019s riding on the line.",
+    "\nIf the Democrats take over the Congress, Nancy Pelosi has already said that passing gun control is one of her top priorities.",
+    "\nBut we have an ace up our proverbial sleeve.",
+    "\nAccording to a recent study, the gun issue is an incredibly powerful, motivating issue in politics.",
+    "\nThe study reported that gun owners are more likely to show up to vote than those who support gun control.",
+    "\nThis is encouraging news.",
+    "\nHaving said that, gun owners can\u2019t make informed choices if they don\u2019t know who the pro-gun candidates are.",
+    "\nSo to that end, Gun Owners of America has released the recent voting records of your congressman and senators."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 179,
+      "text": "Scorecard: See If Your Representative Or Senator Supports The Second Amendment Or Not\n\nWith just weeks to go till the 2018 midterm elections, there are lots of seats up for grabs.",
+      "new_text": "With just weeks to go till the 2018 midterm elections, there are lots of seats to be won.",
+      "prop_spans": [
+        [
+          166,
+          178,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 179,
+      "end_ix": 346,
+      "text": "\nWith that in mind, one of the most important areas our representatives need to be strong in is on your right to keep and bear arms, protected in the Second Amendment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 346,
+      "end_ix": 434,
+      "text": "\nGun Owners of America has put out their scorecard and for some, it will be eye-opening.",
+      "new_text": "Gun Owners of America has put out their scorecard and for some, it will be eye-opening.",
+      "prop_spans": [
+        [
+          373,
+          433,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 434,
+      "end_ix": 583,
+      "text": "\nGOA Executive Director Erich Pratt writes:\nThe anti-gun Left is hopping-mad, now that Judge Brett Kavanaugh has been confirmed to the Supreme Court.",
+      "new_text": "\nThe Left is angry now that Judge Brett Kavanaugh has been confirmed to the Supreme Court.",
+      "prop_spans": [
+        [
+          478,
+          496,
+          "Name_Calling,Labeling"
+        ],
+        [
+          499,
+          511,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 583,
+      "end_ix": 716,
+      "text": "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 716,
+      "end_ix": 811,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 811,
+      "end_ix": 906,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 906,
+      "end_ix": 944,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 944,
+      "end_ix": 977,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 977,
+      "end_ix": 1059,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1059,
+      "end_ix": 1141,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1141,
+      "end_ix": 1169,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1169,
+      "end_ix": 1232,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1232,
+      "end_ix": 1286,
+      "text": "\nThey are motivated to get to the polls this November.",
+      "new_text": "\nThey would like to get to the polls this November.",
+      "prop_spans": [
+        [
+          1233,
+          1286,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1286,
+      "end_ix": 1355,
+      "text": "\nSo it is crucial that you and your pro-gun friends get to the polls.",
+      "new_text": "So it would help if you and your pro-gun friends get to the polls!",
+      "prop_spans": [
+        [
+          1286,
+          1354,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1355,
+      "end_ix": 1441,
+      "text": "\nAnd that\u2019s why GOA is putting the 2018 Congressional Voter Scorecard into your hands.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1441,
+      "end_ix": 1483,
+      "text": "\nThere is a lot that\u2019s riding on the line.",
+      "new_text": "\nThere is a lot that depends on this.",
+      "prop_spans": [
+        [
+          1464,
+          1482,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1483,
+      "end_ix": 1609,
+      "text": "\nIf the Democrats take over the Congress, Nancy Pelosi has already said that passing gun control is one of her top priorities.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1609,
+      "end_ix": 1654,
+      "text": "\nBut we have an ace up our proverbial sleeve.",
+      "new_text": "\nBut we have an idea.",
+      "prop_spans": [
+        [
+          1622,
+          1653,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1654,
+      "end_ix": 1754,
+      "text": "\nAccording to a recent study, the gun issue is an incredibly powerful, motivating issue in politics.",
+      "new_text": "According to a recent study, the gun issue is a powerful, motivating issue in politics.",
+      "prop_spans": [
+        [
+          1701,
+          1753,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1754,
+      "end_ix": 1860,
+      "text": "\nThe study reported that gun owners are more likely to show up to vote than those who support gun control.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1860,
+      "end_ix": 1886,
+      "text": "\nThis is encouraging news.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1886,
+      "end_ix": 1994,
+      "text": "\nHaving said that, gun owners can\u2019t make informed choices if they don\u2019t know who the pro-gun candidates are.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1994,
+      "end_ix": 2105,
+      "text": "\nSo to that end, Gun Owners of America has released the recent voting records of your congressman and senators.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      166,
+      178,
+      "Loaded_Language"
+    ],
+    [
+      373,
+      433,
+      "Loaded_Language"
+    ],
+    [
+      478,
+      496,
+      "Name_Calling,Labeling"
+    ],
+    [
+      499,
+      511,
+      "Loaded_Language"
+    ],
+    [
+      1233,
+      1354,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1464,
+      1482,
+      "Loaded_Language"
+    ],
+    [
+      1622,
+      1653,
+      "Loaded_Language"
+    ],
+    [
+      1701,
+      1753,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

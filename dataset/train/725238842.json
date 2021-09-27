@@ -1,0 +1,91 @@
+{
+  "article_id": "725238842",
+  "sentence offsets in original": [
+    0,
+    114,
+    267,
+    509,
+    614,
+    762,
+    855,
+    986,
+    1037
+  ],
+  "original sentences": [
+    "Arizona Border Patrol Nabs Armed Mexican National Attempting To Take Stolen Truck Into Mexico\n\nTUCSON, Ariz. \u2013U.S.",
+    "\nCustoms and Border Protection officers at Arizona\u2019s Port of Nogales stopped an armed Mexican national from taking a stolen truck into Mexico on Tuesday.",
+    "\nOfficers working outbound operations at the Dennis DeConcini Crossing yesterday afternoon referred a 23-year-old legal permanent resident alien male for further inspection of the Ford F350 truck he was driving before he could go into Mexico.",
+    "\nA records check confirmed the truck had been stolen, leading officers to place the subject under arrest.",
+    "\nOfficers seized a 9MM handgun the subject was carrying, and further search of his belongings uncovered a loaded magazine and additional ammunition.",
+    "\nThey also found trace amounts of marijuana, crystal methamphetamine, and drug paraphernalia.",
+    "\nOfficers arrested the subject, and turned him over to U.S. Immigration and Customs Enforcement\u2019s Homeland Security Investigations.",
+    "\nOfficers seized the drugs, weapon, and ammunition.",
+    "\nThe stolen truck has been turned over to the Arizona Regional Auto Theft Task Force."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 114,
+      "text": "Arizona Border Patrol Nabs Armed Mexican National Attempting To Take Stolen Truck Into Mexico\n\nTUCSON, Ariz. \u2013U.S.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 114,
+      "end_ix": 267,
+      "text": "\nCustoms and Border Protection officers at Arizona\u2019s Port of Nogales stopped an armed Mexican national from taking a stolen truck into Mexico on Tuesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 267,
+      "end_ix": 509,
+      "text": "\nOfficers working outbound operations at the Dennis DeConcini Crossing yesterday afternoon referred a 23-year-old legal permanent resident alien male for further inspection of the Ford F350 truck he was driving before he could go into Mexico.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 509,
+      "end_ix": 614,
+      "text": "\nA records check confirmed the truck had been stolen, leading officers to place the subject under arrest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 614,
+      "end_ix": 762,
+      "text": "\nOfficers seized a 9MM handgun the subject was carrying, and further search of his belongings uncovered a loaded magazine and additional ammunition.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 762,
+      "end_ix": 855,
+      "text": "\nThey also found trace amounts of marijuana, crystal methamphetamine, and drug paraphernalia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 855,
+      "end_ix": 986,
+      "text": "\nOfficers arrested the subject, and turned him over to U.S. Immigration and Customs Enforcement\u2019s Homeland Security Investigations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 986,
+      "end_ix": 1037,
+      "text": "\nOfficers seized the drugs, weapon, and ammunition.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1037,
+      "end_ix": 1122,
+      "text": "\nThe stolen truck has been turned over to the Arizona Regional Auto Theft Task Force.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

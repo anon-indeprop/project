@@ -1,0 +1,319 @@
+{
+  "article_id": "111111123",
+  "sentence offsets in original": [
+    0,
+    371,
+    580,
+    818,
+    894,
+    1183,
+    1307,
+    1410,
+    1525,
+    1626,
+    1706,
+    1856,
+    2041,
+    2224,
+    2324,
+    2554,
+    2721,
+    2755,
+    2886,
+    3005,
+    3065,
+    3173,
+    3233,
+    3300,
+    3352,
+    3676,
+    3994,
+    4069,
+    4131,
+    4161,
+    4248,
+    4346,
+    4449
+  ],
+  "original sentences": [
+    "Domestic abuse allegations against Keith Ellison cannot be substantiated, Dems' lawyer says\n\nA lawyer hired by Minnesota Democrats says she is unable to substantiate the accusations of domestic abuse against Rep. Keith Ellison because the lawmaker\u2019s ex-girlfriend refused to provide video of the incident - but the findings are still being turned over to law enforcement.",
+    "\n\nThe Associated Press on Monday reported that it obtained a draft of a report written by Susan Ellingstad, a lawyer hired by Minnesota's Democratic-Farmer-Labor Party to investigate the claim against Ellison.",
+    "\n\n\n\"The investigation report, which was released today without our knowledge by someone outside of our organization, was unable to substantiate the claim of physical abuse made by Ms. Monahan,\u201d DFL Chairman Ken Martin said in a statement.",
+    "\n\nMartin said they planned to turn over the report to local law enforcement.",
+    "\n\n\u201cFor the purpose of objectivity and getting all of the facts regarding these allegations, we have decided to forward the information in the investigation to local authorities in order to let them review the contents and determine whether further investigation is warranted,\u201d Martin said.",
+    "\nThe Democratic congressman, who serves as deputy chairman of the Democratic National Committee, has denied the allegations.",
+    "\n\nIn a statement, Ellison thanked Ellingstad for conducting a \"thorough, independent, and fair review.\"",
+    "\n\n\"I believe women who come forward must be heard, and to have their allegations fully investigated,\" Ellison said.",
+    "\n\"This is why I have complied with this investigation fully, and will do so with any other inquiries.",
+    "\n... At this time, I will be focusing on the issues of this important election.\"",
+    "\n\nEllison\u2019s ex-girlfriend, Karen Monahan, alleged in August that Ellison dragged her off a bed by her feet while screaming obscenities at her in 2016.",
+    "\nMonahan said she had video footage of the incident and levied the allegation just days ahead of a crowded Democratic primary for Minnesota attorney general that Ellison went on to win.",
+    "\n\nThe state's Democratic party launched an investigation into the claim, retaining a local attorney with links to the state party to determine whether the alleged incident took place.",
+    "\nDemocratic party chairman Ken Martin said last week he expected the investigation to conclude soon.",
+    "\n\nA draft report obtained by the AP noted Monahan's shifting rationale for refusing to produce the video footage, including that it was lost, was on a USB drive in storage and would be too embarrassing and traumatic to release it.",
+    "\n\nThe Ellison accusations have put Democrats in an uncomfortable position, as they speak out on sexual misconduct claims against Supreme Court nominee Brett Kavanaugh.",
+    "\nKavanaugh denies the accusations.",
+    "\n\nMonahan slammed the Democratic Party for its response to her allegations when compared to its treatment of Christine Blasey Ford.",
+    "\nFord has accused Kavanaugh of attempting to force himself onto her during a high school party nearly four decades ago.",
+    "\nMany prominent Democrats have supported Ford\u2019s allegations.",
+    "\n\n\u201cNo, they don't,\u201d Monahan tweeted in response to a question of whether the party believes women\u2019s stories.",
+    "\n\u201cI've been smeared, threatened, isolated from my own party.",
+    "\nI provided medical records from 2017, stating on two different Dr.",
+    "\nVisits, I told them about the abuse and who did it.",
+    "\nMy therapist released records stating I have been dealing and healing from the abuse.\u201d\n\nShe added: \u201cFour people, including my supervisor at the time, stated that I came to them after and shared the exact story I shared publicly, I shared multiple text between me and Keith, where I discuss the abuse with him and much more.",
+    "\nAs I said before, I knew I wouldn't be believed.\u201d\nMany other Democrats and progressives \u2013 who largely stayed silent after the accusations against Ellison emerged \u2013 came out in support of Ford, including Vermont Sen. Bernie Sanders and Tom Perez, chairman of the DNC, who urged to investigate the claims and Kavanaugh.",
+    "\n\nMonahan went to reiterate that her story has nothing to do with politics.",
+    "\n\u201cI have nothing to prove to anyone, I simply shared my story.",
+    "\nPeople can believe it or not.",
+    "\nI don\u2019t need anyone to affirm my humanity, I affirmed it,\u201d she wrote in another tweet.",
+    "\n\n\u201cThe fact that both parties only care if it scores political points is hypocritical,\u201d she added.",
+    "\n\u201cDo you think a person who has dealt with any form of abuse by politicians is thinking about politics?",
+    "\nNo, we & are families are trying to heal.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 371,
+      "text": "Domestic abuse allegations against Keith Ellison cannot be substantiated, Dems' lawyer says\n\nA lawyer hired by Minnesota Democrats says she is unable to substantiate the accusations of domestic abuse against Rep. Keith Ellison because the lawmaker\u2019s ex-girlfriend refused to provide video of the incident - but the findings are still being turned over to law enforcement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 371,
+      "end_ix": 580,
+      "text": "\n\nThe Associated Press on Monday reported that it obtained a draft of a report written by Susan Ellingstad, a lawyer hired by Minnesota's Democratic-Farmer-Labor Party to investigate the claim against Ellison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 580,
+      "end_ix": 818,
+      "text": "\n\n\n\"The investigation report, which was released today without our knowledge by someone outside of our organization, was unable to substantiate the claim of physical abuse made by Ms. Monahan,\u201d DFL Chairman Ken Martin said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 818,
+      "end_ix": 894,
+      "text": "\n\nMartin said they planned to turn over the report to local law enforcement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 894,
+      "end_ix": 1183,
+      "text": "\n\n\u201cFor the purpose of objectivity and getting all of the facts regarding these allegations, we have decided to forward the information in the investigation to local authorities in order to let them review the contents and determine whether further investigation is warranted,\u201d Martin said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1183,
+      "end_ix": 1307,
+      "text": "\nThe Democratic congressman, who serves as deputy chairman of the Democratic National Committee, has denied the allegations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1307,
+      "end_ix": 1410,
+      "text": "\n\nIn a statement, Ellison thanked Ellingstad for conducting a \"thorough, independent, and fair review.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1410,
+      "end_ix": 1525,
+      "text": "\n\n\"I believe women who come forward must be heard, and to have their allegations fully investigated,\" Ellison said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1525,
+      "end_ix": 1626,
+      "text": "\n\"This is why I have complied with this investigation fully, and will do so with any other inquiries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1626,
+      "end_ix": 1706,
+      "text": "\n... At this time, I will be focusing on the issues of this important election.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1706,
+      "end_ix": 1856,
+      "text": "\n\nEllison\u2019s ex-girlfriend, Karen Monahan, alleged in August that Ellison dragged her off a bed by her feet while screaming obscenities at her in 2016.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1856,
+      "end_ix": 2041,
+      "text": "\nMonahan said she had video footage of the incident and levied the allegation just days ahead of a crowded Democratic primary for Minnesota attorney general that Ellison went on to win.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2041,
+      "end_ix": 2224,
+      "text": "\n\nThe state's Democratic party launched an investigation into the claim, retaining a local attorney with links to the state party to determine whether the alleged incident took place.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2224,
+      "end_ix": 2324,
+      "text": "\nDemocratic party chairman Ken Martin said last week he expected the investigation to conclude soon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2324,
+      "end_ix": 2554,
+      "text": "\n\nA draft report obtained by the AP noted Monahan's shifting rationale for refusing to produce the video footage, including that it was lost, was on a USB drive in storage and would be too embarrassing and traumatic to release it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2554,
+      "end_ix": 2721,
+      "text": "\n\nThe Ellison accusations have put Democrats in an uncomfortable position, as they speak out on sexual misconduct claims against Supreme Court nominee Brett Kavanaugh.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2721,
+      "end_ix": 2755,
+      "text": "\nKavanaugh denies the accusations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2755,
+      "end_ix": 2886,
+      "text": "\n\nMonahan slammed the Democratic Party for its response to her allegations when compared to its treatment of Christine Blasey Ford.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2886,
+      "end_ix": 3005,
+      "text": "\nFord has accused Kavanaugh of attempting to force himself onto her during a high school party nearly four decades ago.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3005,
+      "end_ix": 3065,
+      "text": "\nMany prominent Democrats have supported Ford\u2019s allegations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3065,
+      "end_ix": 3173,
+      "text": "\n\n\u201cNo, they don't,\u201d Monahan tweeted in response to a question of whether the party believes women\u2019s stories.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3173,
+      "end_ix": 3233,
+      "text": "\n\u201cI've been smeared, threatened, isolated from my own party.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3233,
+      "end_ix": 3300,
+      "text": "\nI provided medical records from 2017, stating on two different Dr.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3300,
+      "end_ix": 3352,
+      "text": "\nVisits, I told them about the abuse and who did it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3352,
+      "end_ix": 3676,
+      "text": "\nMy therapist released records stating I have been dealing and healing from the abuse.\u201d\n\nShe added: \u201cFour people, including my supervisor at the time, stated that I came to them after and shared the exact story I shared publicly, I shared multiple text between me and Keith, where I discuss the abuse with him and much more.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3676,
+      "end_ix": 3994,
+      "text": "\nAs I said before, I knew I wouldn't be believed.\u201d\nMany other Democrats and progressives \u2013 who largely stayed silent after the accusations against Ellison emerged \u2013 came out in support of Ford, including Vermont Sen. Bernie Sanders and Tom Perez, chairman of the DNC, who urged to investigate the claims and Kavanaugh.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3994,
+      "end_ix": 4069,
+      "text": "\n\nMonahan went to reiterate that her story has nothing to do with politics.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4069,
+      "end_ix": 4131,
+      "text": "\n\u201cI have nothing to prove to anyone, I simply shared my story.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4131,
+      "end_ix": 4161,
+      "text": "\nPeople can believe it or not.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4161,
+      "end_ix": 4248,
+      "text": "\nI don\u2019t need anyone to affirm my humanity, I affirmed it,\u201d she wrote in another tweet.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4248,
+      "end_ix": 4346,
+      "text": "\n\n\u201cThe fact that both parties only care if it scores political points is hypocritical,\u201d she added.",
+      "new_text": "\n\n\u201cThe fact that both parties only care if it scores political points is hypocritical,\u201d she added.",
+      "prop_spans": [
+        [
+          4321,
+          4334,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4346,
+      "end_ix": 4449,
+      "text": "\n\u201cDo you think a person who has dealt with any form of abuse by politicians is thinking about politics?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4449,
+      "end_ix": 4492,
+      "text": "\nNo, we & are families are trying to heal.\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      4321,
+      4334,
+      "Loaded_Language"
+    ]
+  ]
+}

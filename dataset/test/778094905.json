@@ -1,0 +1,410 @@
+{
+  "article_id": "778094905",
+  "sentence offsets in original": [
+    0,
+    273,
+    356,
+    439,
+    522,
+    616,
+    672,
+    728,
+    757,
+    787,
+    872,
+    954,
+    982,
+    1045,
+    1397,
+    1580,
+    1693,
+    1876,
+    2034,
+    2094,
+    2149,
+    2365,
+    2479,
+    2603,
+    2659,
+    2727,
+    2789,
+    2825,
+    2930,
+    3067,
+    3199,
+    3512
+  ],
+  "original sentences": [
+    "Documents: Muslims Arrested In New Mexico Compound Were Training Children To Carry Out School Shootings\n\nOn Tuesday, it was reported that 11 children were rescued from an Islamic compound in New Mexico and that a Muslim man from Georgia and four other adults were arrested.",
+    "\nNow, we are learning what one of the men was attempting to do with these children.",
+    "\nHe was attempting to brainwash and train these kids to carry out school shootings.",
+    "\nThe initial report was placed on social media by Taos County Sheriff's Department.",
+    "\ntake our poll - story continues below Will Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+    "\n* Yes, he will be confirmed.",
+    "\nNo, he will not be confirmed.",
+    "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nFor immediate releaseAugust 4, 2018Issued by Sheriff Jerry Hogrefe Two males from Georgia are in custody after TCSO... Posted by Taos County Sheriff's Office on Saturday, August 4, 2018\nThe Atlanta Journal-Constitution reports on documents they obtained which claims that the adults were training these children to carry out mass shootings in schools.",
+    "\nThe documents claim Siraj Ibn Wahhaj and his co-defendants conducted weapons training at the camp where they were found Friday with 11 children in allegedly \u201cthird world\u201d conditions.",
+    "\nWahhaj is also wanted in Clayton County in a child abduction case involving his missing son, Abdul-Ghani Wahhaj.",
+    "\nThe documents, which suggest all the adults were involved in the training, say a person serving as a foster parent caring for one of the kids revealed the details about the training.",
+    "\nThe Associated Press confirms the report:\nBREAKING: Court documents say man arrested at New Mexico compound was training children to commit school shootings.",
+    "\n\u2014 The Associated Press (@AP) August 8, 2018\nThat's not all.",
+    "\nA young boy's body was discovered at the site as well.",
+    "\nAJC reports:\nSiraj Wahhaj learned Wednesday that prosecutors want him held without bond, along with his relatives also arrested at the compound: Lucas Allen Morton, Jany Leveille, Hujrah Wahhaj and Subhannah Wahhaj.",
+    "\nSiraj Wahhaj is also accused by Clayton County authorities of abducting his son, Abdul-Ghani Wahhaj, in December.",
+    "\nAuthorities are working to determine if the remains of a young boy found near the compound Monday are Abdul-Ghani Wahhaj\u2019s.",
+    "\nMonday was (or would\u2019ve been) the child\u2019s 4th birthday.",
+    "\nThe court filing says the remains were in a state of decomposition.",
+    "\n#Breaking: A child's remains were discovered on the compound.",
+    "\nDeputies do not have a positive ID.",
+    "\nSo it is too early to say if it Abdul-Ghani Wahajj who would have celebrated his 4th birthday yesterday.",
+    "\nhttps://t.co/e1RQbzDY8y \u2014 Ashley Homrich (@AshleyNewsATL) August 7, 2018\nWell, all of this should make Americans feel just comfy, right?",
+    "\nI mean, after all, Barack Hussein Obama Soetoro Sobarkah is out of office so these things aren't really going on in America, right?",
+    "\nHere's the thing, while this is making major news, you should be reminded that for decades, at least 22 verified Islamic jihadi camps have existed on American soil under the watchful, or maybe not so watchful, eye of the FBI, including one in the very country I reside in within eyeshot of a nuclear power plant.",
+    "\nPolitical correctness needs to be thrown out the window when dealing with those who take the Quran's teachings seriously and actually are devout, not radical, followers of Muhammad."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 273,
+      "text": "Documents: Muslims Arrested In New Mexico Compound Were Training Children To Carry Out School Shootings\n\nOn Tuesday, it was reported that 11 children were rescued from an Islamic compound in New Mexico and that a Muslim man from Georgia and four other adults were arrested.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 273,
+      "end_ix": 356,
+      "text": "\nNow, we are learning what one of the men was attempting to do with these children.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 356,
+      "end_ix": 439,
+      "text": "\nHe was attempting to brainwash and train these kids to carry out school shootings.",
+      "new_text": "\nHe was attempting to manipulate and train these kids to carry out school shootings.",
+      "prop_spans": [
+        [
+          375,
+          388,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 439,
+      "end_ix": 522,
+      "text": "\nThe initial report was placed on social media by Taos County Sheriff's Department.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 522,
+      "end_ix": 616,
+      "text": "\ntake our poll - story continues below Will Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 616,
+      "end_ix": 672,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 672,
+      "end_ix": 728,
+      "text": "\nWill Brett Kavanaugh be confirmed to the Supreme Court?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 728,
+      "end_ix": 757,
+      "text": "\n* Yes, he will be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 757,
+      "end_ix": 787,
+      "text": "\nNo, he will not be confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 787,
+      "end_ix": 872,
+      "text": "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 872,
+      "end_ix": 954,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 954,
+      "end_ix": 982,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 982,
+      "end_ix": 1045,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1045,
+      "end_ix": 1397,
+      "text": "\nFor immediate releaseAugust 4, 2018Issued by Sheriff Jerry Hogrefe Two males from Georgia are in custody after TCSO... Posted by Taos County Sheriff's Office on Saturday, August 4, 2018\nThe Atlanta Journal-Constitution reports on documents they obtained which claims that the adults were training these children to carry out mass shootings in schools.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1397,
+      "end_ix": 1580,
+      "text": "\nThe documents claim Siraj Ibn Wahhaj and his co-defendants conducted weapons training at the camp where they were found Friday with 11 children in allegedly \u201cthird world\u201d conditions.",
+      "new_text": "\nThe documents claim Siraj Ibn Wahhaj and his co-defendants conducted weapons training at the camp where they were found Friday with 11 children in allegedly \u201cthird world\u201d conditions.",
+      "prop_spans": [
+        [
+          1556,
+          1579,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1580,
+      "end_ix": 1693,
+      "text": "\nWahhaj is also wanted in Clayton County in a child abduction case involving his missing son, Abdul-Ghani Wahhaj.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1693,
+      "end_ix": 1876,
+      "text": "\nThe documents, which suggest all the adults were involved in the training, say a person serving as a foster parent caring for one of the kids revealed the details about the training.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1876,
+      "end_ix": 2034,
+      "text": "\nThe Associated Press confirms the report:\nBREAKING: Court documents say man arrested at New Mexico compound was training children to commit school shootings.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2034,
+      "end_ix": 2094,
+      "text": "\n\u2014 The Associated Press (@AP) August 8, 2018\nThat's not all.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2094,
+      "end_ix": 2149,
+      "text": "\nA young boy's body was discovered at the site as well.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2149,
+      "end_ix": 2365,
+      "text": "\nAJC reports:\nSiraj Wahhaj learned Wednesday that prosecutors want him held without bond, along with his relatives also arrested at the compound: Lucas Allen Morton, Jany Leveille, Hujrah Wahhaj and Subhannah Wahhaj.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2365,
+      "end_ix": 2479,
+      "text": "\nSiraj Wahhaj is also accused by Clayton County authorities of abducting his son, Abdul-Ghani Wahhaj, in December.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2479,
+      "end_ix": 2603,
+      "text": "\nAuthorities are working to determine if the remains of a young boy found near the compound Monday are Abdul-Ghani Wahhaj\u2019s.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2603,
+      "end_ix": 2659,
+      "text": "\nMonday was (or would\u2019ve been) the child\u2019s 4th birthday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2659,
+      "end_ix": 2727,
+      "text": "\nThe court filing says the remains were in a state of decomposition.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2727,
+      "end_ix": 2789,
+      "text": "\n#Breaking: A child's remains were discovered on the compound.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2789,
+      "end_ix": 2825,
+      "text": "\nDeputies do not have a positive ID.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2825,
+      "end_ix": 2930,
+      "text": "\nSo it is too early to say if it Abdul-Ghani Wahajj who would have celebrated his 4th birthday yesterday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2930,
+      "end_ix": 3067,
+      "text": "\nhttps://t.co/e1RQbzDY8y \u2014 Ashley Homrich (@AshleyNewsATL) August 7, 2018\nWell, all of this should make Americans feel just comfy, right?",
+      "new_text": "\nhttps://t.co/e1RQbzDY8y \u2014 Ashley Homrich (@AshleyNewsATL) August 7, 2018\nWell, all of this should make us feel just comfy, right?",
+      "prop_spans": [
+        [
+          3004,
+          3067,
+          "Flag-Waving"
+        ],
+        [
+          3044,
+          3066,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3067,
+      "end_ix": 3199,
+      "text": "\nI mean, after all, Barack Hussein Obama Soetoro Sobarkah is out of office so these things aren't really going on in America, right?",
+      "new_text": "\nI mean, after all, Barack Hussein Obama Soetoro Sobarkah is out of office so these things aren't really going on, right?",
+      "prop_spans": [
+        [
+          3067,
+          3198,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3199,
+      "end_ix": 3512,
+      "text": "\nHere's the thing, while this is making major news, you should be reminded that for decades, at least 22 verified Islamic jihadi camps have existed on American soil under the watchful, or maybe not so watchful, eye of the FBI, including one in the very country I reside in within eyeshot of a nuclear power plant.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          3200,
+          3511,
+          "Flag-Waving"
+        ],
+        [
+          3218,
+          3511,
+          "Whataboutism"
+        ],
+        [
+          3292,
+          3511,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3512,
+      "end_ix": 3694,
+      "text": "\nPolitical correctness needs to be thrown out the window when dealing with those who take the Quran's teachings seriously and actually are devout, not radical, followers of Muhammad.",
+      "new_text": "\nPolitical correctness should be thrown out the window when dealing with those who take the Quran's teachings seriously.",
+      "prop_spans": [
+        [
+          3513,
+          3693,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          3541,
+          3569,
+          "Loaded_Language"
+        ],
+        [
+          3651,
+          3694,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      375,
+      388,
+      "Loaded_Language"
+    ],
+    [
+      1556,
+      1579,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3004,
+      3198,
+      "Flag-Waving"
+    ],
+    [
+      3044,
+      3066,
+      "Loaded_Language"
+    ],
+    [
+      3200,
+      3511,
+      "Flag-Waving"
+    ],
+    [
+      3218,
+      3511,
+      "Whataboutism"
+    ],
+    [
+      3292,
+      3511,
+      "Doubt"
+    ],
+    [
+      3513,
+      3693,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3541,
+      3569,
+      "Loaded_Language"
+    ],
+    [
+      3651,
+      3695,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

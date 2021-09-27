@@ -1,0 +1,234 @@
+{
+  "article_id": "770581969",
+  "sentence offsets in original": [
+    0,
+    199,
+    378,
+    483,
+    654,
+    782,
+    843,
+    1017,
+    1083,
+    1159,
+    1348,
+    1453,
+    1717,
+    2021,
+    2146,
+    2214,
+    2415,
+    2531,
+    2635,
+    2829
+  ],
+  "original sentences": [
+    "Strange \u2018Sonic Attacks\u2019 Against Diplomats Reach Epic Proportions\n\nThe bizarre \u201csonic attacks\u201d against diplomats began in Cuba, but have now spread to other countries with over 200 illnesses reported.",
+    "\nIt all started in the fall of 2016 when diplomats at the United States Embassy in Cuba reported some hearing loss and mild brain damage after hearing unusual and puzzling sounds.",
+    "\nSHTFPlan originally detailed the symptoms experienced by US diplomats in Cuba back in September of 2017.",
+    "\nSeveral of the affected diplomats were recent arrivals at the embassy, which reopened in 2015 as part of Barack Obama\u2019s reestablishment of diplomatic relations with Cuba.",
+    "\nThe Daily Mail reported that one diplomat described being jolted awake in a Havana hotel room by a grinding, blaring cacophony.",
+    "\nWhen he moved a few feet across the room, the noise stopped.",
+    "\nWhen he got back into bed, the agonizing sound hit him again; as if, he told doctors, he had walked through some invisible wall cutting straight down the middle of his room.",
+    "\n\u2013SHTFPlan\nBut now, the sonic attacks have progressed beyond Cuba.",
+    "\nOther embassies have now reported the debilitating conditions of diplomats.",
+    "\nThe U.S. State Department has remained all but silent on the issue as well, other than to characterize their suspicion as unknown \u201csonic attacks\u201d targeted U.S. diplomats, according to WND.",
+    "\nDiplomats in at least seven cities in four different countries have sought testing for strange symptoms.",
+    "\nThe victims\u2019 symptoms include \u201chearing loss, dizziness, tinnitus, balance problems, visual difficulties, headaches, fatigue, cognitive issues and sleeping problems.\u201d\nThe latest incident occurred in conjunction with President Trump\u2019s recent visit with Kim Jong-Un.",
+    "\nAs Trump was heading to Singapore for the historic summit with North Korea\u2019s leader, a State Department diplomatic security agent who was part of the advanced team reported hearing an unusual sound he believed was similar to what was experienced by U.S. diplomats in Cuba and China who later became ill.",
+    "\nThe government employee experienced the symptoms from late 2017 until April of 2018, according to the U.S. State Department.",
+    "\n\u201cThe employee was sent to the United States for further evaluation.",
+    "\nOn May 18, 2018, the Embassy learned that the clinical findings of this evaluation matched mild traumatic brain injury (MTBI),\u201d Jinnie Lee, U.S. Embassy spokesperson in Beijing, told Gizmodo by email.",
+    "\n\u201cThe Chinese government has assured us they are also investigating and taking appropriate measures,\u201d Lee continued.",
+    "\n\u2013SHTFPlan\n\ufeff\nAnd now, some of the strange sounds have been now been recorded and released to the public.",
+    "\nThe U.S. government has issued an alert warning Americans traveling to China to seek medical attention if they experience \u201cauditory or sensory phenomena\u201d similar to what was reported in Havana.",
+    "\nAdditionally, the State Department recommended anyone traveling to Cuba should \u201creconsider\u201d their plans."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 199,
+      "text": "Strange \u2018Sonic Attacks\u2019 Against Diplomats Reach Epic Proportions\n\nThe bizarre \u201csonic attacks\u201d against diplomats began in Cuba, but have now spread to other countries with over 200 illnesses reported.",
+      "new_text": "Strange \u2018Sonic Attacks\u2019 Against Diplomats Reach Epic Proportions\n\nThe \u201csonic attacks\u201d against diplomats began in Cuba, but have now spread to other countries with over 200 illnesses reported.",
+      "prop_spans": [
+        [
+          70,
+          77,
+          "Loaded_Language"
+        ],
+        [
+          78,
+          93,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 199,
+      "end_ix": 378,
+      "text": "\nIt all started in the fall of 2016 when diplomats at the United States Embassy in Cuba reported some hearing loss and mild brain damage after hearing unusual and puzzling sounds.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 378,
+      "end_ix": 483,
+      "text": "\nSHTFPlan originally detailed the symptoms experienced by US diplomats in Cuba back in September of 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 483,
+      "end_ix": 654,
+      "text": "\nSeveral of the affected diplomats were recent arrivals at the embassy, which reopened in 2015 as part of Barack Obama\u2019s reestablishment of diplomatic relations with Cuba.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 654,
+      "end_ix": 782,
+      "text": "\nThe Daily Mail reported that one diplomat described being jolted awake in a Havana hotel room by a grinding, blaring cacophony.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 782,
+      "end_ix": 843,
+      "text": "\nWhen he moved a few feet across the room, the noise stopped.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 843,
+      "end_ix": 1017,
+      "text": "\nWhen he got back into bed, the agonizing sound hit him again; as if, he told doctors, he had walked through some invisible wall cutting straight down the middle of his room.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1017,
+      "end_ix": 1083,
+      "text": "\n\u2013SHTFPlan\nBut now, the sonic attacks have progressed beyond Cuba.",
+      "new_text": "\n\u2013SHTFPlan\nBut now, the attacks have progressed beyond Cuba.",
+      "prop_spans": [
+        [
+          1041,
+          1054,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1083,
+      "end_ix": 1159,
+      "text": "\nOther embassies have now reported the debilitating conditions of diplomats.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1159,
+      "end_ix": 1348,
+      "text": "\nThe U.S. State Department has remained all but silent on the issue as well, other than to characterize their suspicion as unknown \u201csonic attacks\u201d targeted U.S. diplomats, according to WND.",
+      "new_text": "\nThe U.S. State Department has remained all but silent on the issue as well, other than to characterize their suspicion as unknown attacks targeted U.S. diplomats, according to WND.",
+      "prop_spans": [
+        [
+          1290,
+          1305,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1348,
+      "end_ix": 1453,
+      "text": "\nDiplomats in at least seven cities in four different countries have sought testing for strange symptoms.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1453,
+      "end_ix": 1717,
+      "text": "\nThe victims\u2019 symptoms include \u201chearing loss, dizziness, tinnitus, balance problems, visual difficulties, headaches, fatigue, cognitive issues and sleeping problems.\u201d\nThe latest incident occurred in conjunction with President Trump\u2019s recent visit with Kim Jong-Un.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1717,
+      "end_ix": 2021,
+      "text": "\nAs Trump was heading to Singapore for the historic summit with North Korea\u2019s leader, a State Department diplomatic security agent who was part of the advanced team reported hearing an unusual sound he believed was similar to what was experienced by U.S. diplomats in Cuba and China who later became ill.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2021,
+      "end_ix": 2146,
+      "text": "\nThe government employee experienced the symptoms from late 2017 until April of 2018, according to the U.S. State Department.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2146,
+      "end_ix": 2214,
+      "text": "\n\u201cThe employee was sent to the United States for further evaluation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2214,
+      "end_ix": 2415,
+      "text": "\nOn May 18, 2018, the Embassy learned that the clinical findings of this evaluation matched mild traumatic brain injury (MTBI),\u201d Jinnie Lee, U.S. Embassy spokesperson in Beijing, told Gizmodo by email.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2415,
+      "end_ix": 2531,
+      "text": "\n\u201cThe Chinese government has assured us they are also investigating and taking appropriate measures,\u201d Lee continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2531,
+      "end_ix": 2635,
+      "text": "\n\u2013SHTFPlan\n\ufeff\nAnd now, some of the strange sounds have been now been recorded and released to the public.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2635,
+      "end_ix": 2829,
+      "text": "\nThe U.S. government has issued an alert warning Americans traveling to China to seek medical attention if they experience \u201cauditory or sensory phenomena\u201d similar to what was reported in Havana.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2829,
+      "end_ix": 2934,
+      "text": "\nAdditionally, the State Department recommended anyone traveling to Cuba should \u201creconsider\u201d their plans.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      70,
+      77,
+      "Loaded_Language"
+    ],
+    [
+      78,
+      93,
+      "Repetition"
+    ],
+    [
+      1041,
+      1054,
+      "Repetition"
+    ],
+    [
+      1290,
+      1305,
+      "Repetition"
+    ]
+  ]
+}

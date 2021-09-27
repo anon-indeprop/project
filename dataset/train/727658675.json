@@ -1,0 +1,313 @@
+{
+  "article_id": "727658675",
+  "sentence offsets in original": [
+    0,
+    440,
+    721,
+    994,
+    1591,
+    1893,
+    2137,
+    2272,
+    2469,
+    2843,
+    2916,
+    3343,
+    3395,
+    3531,
+    3777,
+    3893,
+    3936,
+    4130,
+    4251,
+    4398
+  ],
+  "original sentences": [
+    "Swiss bishop signs statement calling Pope\u2019s reading of Amoris Laetitia \u201calien\u201d to the Catholic Faith\n\nNewsCatholic Church, Family, Marriage\nROME, February 2, 2018 (LifeSiteNews) \u2014His Excellency Marian Eleganti, auxiliary bishop of Chur in Switzerland, today added his name to the \u201cProfession of Immutable Truths about Sacramental Marriage,\u201d bringing the total number of signatories to eight bishops and one cardinal, LifeSite has confirmed.",
+    "\nBishop Eleganti\u2019s support of the profession comes just three days after Bishop Athanasius Schneider, auxiliary of Astana, Kazakstan, invited the world\u2019s bishops to sign the document and join in raising a common voice in defense of the sanctity and the indissolubility of marriage.",
+    "\n\u201cGod decides the time, and the time will come when the Pope and the episcopacy again will proclaim, with all clarity, unambiguity and beauty, the sanctity of marriage, and of the family, and of the Eucharist,\u201d Schneider told LifesiteNews in an exclusive Jan. 15 interview.",
+    "\nRaising a Common Voice\nIn conversation with LifeSiteNews, Schneider said greater public support of the document from the world\u2019s 5,000 bishops would be \u201ca stronger voice for professing the constant truths of the Church, and it would be a beautiful common voice defending the sanctity and the indissolubility of marriage in the midst of a real neo-pagan society where divorce has become a plague and where sexual depravity is increasingly spreading.\u201d\nThe Profession of Immutable Truths about Sacramental Marriage was issued by three Kazakh Ordinaries, including Bishop Schneider, in early January.",
+    "\nIn the document, the three bishops solemnly professed the Church\u2019s received teaching and discipline regarding sacramental marriage and the limited conditions (see Familiaris Consortio, n. 84) under which Catholics who are divorced and \u201cremarried\u201d may receive sacramental absolution and Holy Communion.",
+    "\nThey presented their profession \u201cbefore God who will judge us,\u201d in response to certain pastoral norms issued by several bishops\u2019 conferences aimed at implementing chapter 8 of Pope Francis\u2019 apostolic exhortation on the family, Amoris Laetitia.",
+    "\nSome of these norms, Schneider told LifeSiteNews, give \u201cimplicit approval\u201d of divorce and of sexual activity outside a valid marriage.",
+    "\nSuch a reading is causing \u201crampant confusion,\u201d will spread \u201ca plague of divorce\u201d in the Church, and is \u201calien\u201d to the Church\u2019s entire faith and Tradition, the three bishops said in the profession.",
+    "\n\u201cThis is contrary to Divine Revelation,\u201d Schneider further told LifeSite, adding that the \u201cbeautiful explanations\u201d that are being presented to clergy and faithful as \u201cdiscernment\u201d and \u201cpastoral accompaniment,\u201d or a \u201cchange of paradigm\u201d and \u201cdiscovery of the subjective part of the truth,\u201d when translated into \u201ccommon sense language,\u201d are tantamount to an allowance to sin.",
+    "\n\u201cOur conscience as bishops calls to us to do this,\u201d Schneider explained.",
+    "\n\u201cWe were forced by our conscience, in the conscience of the Successors of the Apostles and colleagues of the Pope.\u201d\nAs Successors of the Apostles, Schneider said they \u201ccould not act in another way.\u201d\nBishop Marian Eleganti\nThe profession\u2019s most recent signatory, Bishop Marian Eleganti, O.S.B., is a monk of the abbey of the Missionary Benedictines in St. Otmarsberg in Uznach, located in the canton of St. Gallen, Switzerland.",
+    "\nHe was ordained to the priesthood on June 23, 1995.",
+    "\nIn July 1999, the monks of St. Otmarsberg Abbey (the youngest abbey in Switzerland) elected Eleganti the second abbot of the monastery.",
+    "\nThe Missionary Benedictines in Uznach belong to the Benedictine Congregation of St. Ottilien near Munich, with branches in Europe, East, West and South Africa, South America, Cuba and the USA, India, Korea, China, Kazakhstan and the Philippines.",
+    "\nIn 2009, Pope Benedict XVI appointed Abbot Marian Eleganti as auxiliary bishop of the diocese of Chur, Switzerland.",
+    "\nHe was ordained a bishop on Jan. 31, 2010.",
+    "\nSince 2011, Bishop Eleganti has served as the Swiss Youth Bishop for German-speaking Switzerland on behalf of the Swiss Bishops\u2019 Conference, and as vicar for religious and monastic communities.",
+    "\nHe is also the vicar for the philosophical-theological education and ongoing formation and training of pastoral workers.",
+    "\nBishop Marian Eleganti\u2019s public support of the Profession of Immutable Truths about Sacramental Marriage brings the number of signatories to nine.",
+    "\nTo date, in addition to the three original signatories from Kazakstan, the following prelates have signed the profession: Cardinal Janis Pujats, Emeritus Archbishop Metropolitan of Riga, Latvia; Archbishop Carlo Maria Vigan\u00f2, former apostolic nuncio to the United States; His Excellency Luigi Negri, Archbishop emeritus of Ferrara-Comacchio, Italy; Bishop Andreas Laun, Emeritus Auxiliary of Salzburg, Austria; and His Excellency Rene Gracida, Bishop emeritus of Corpus Christi, Texas, USA."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 440,
+      "text": "Swiss bishop signs statement calling Pope\u2019s reading of Amoris Laetitia \u201calien\u201d to the Catholic Faith\n\nNewsCatholic Church, Family, Marriage\nROME, February 2, 2018 (LifeSiteNews) \u2014His Excellency Marian Eleganti, auxiliary bishop of Chur in Switzerland, today added his name to the \u201cProfession of Immutable Truths about Sacramental Marriage,\u201d bringing the total number of signatories to eight bishops and one cardinal, LifeSite has confirmed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 440,
+      "end_ix": 721,
+      "text": "\nBishop Eleganti\u2019s support of the profession comes just three days after Bishop Athanasius Schneider, auxiliary of Astana, Kazakstan, invited the world\u2019s bishops to sign the document and join in raising a common voice in defense of the sanctity and the indissolubility of marriage.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 721,
+      "end_ix": 994,
+      "text": "\n\u201cGod decides the time, and the time will come when the Pope and the episcopacy again will proclaim, with all clarity, unambiguity and beauty, the sanctity of marriage, and of the family, and of the Eucharist,\u201d Schneider told LifesiteNews in an exclusive Jan. 15 interview.",
+      "new_text": "\n\u201cGod decides the time, and the time will come when the Pope and the episcopacy again will proclaim, with all clarity, unambiguity and beauty, the sanctity of marriage, and of the family, and of the Eucharist,\u201d Schneider told LifesiteNews in an exclusive Jan. 15 interview.",
+      "prop_spans": [
+        [
+          807,
+          863,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 994,
+      "end_ix": 1591,
+      "text": "\nRaising a Common Voice\nIn conversation with LifeSiteNews, Schneider said greater public support of the document from the world\u2019s 5,000 bishops would be \u201ca stronger voice for professing the constant truths of the Church, and it would be a beautiful common voice defending the sanctity and the indissolubility of marriage in the midst of a real neo-pagan society where divorce has become a plague and where sexual depravity is increasingly spreading.\u201d\nThe Profession of Immutable Truths about Sacramental Marriage was issued by three Kazakh Ordinaries, including Bishop Schneider, in early January.",
+      "new_text": "\nRaising a Common Voice\nIn conversation with LifeSiteNews, Schneider said greater public support of the document from the world\u2019s 5,000 bishops would be \u201ca stronger voice for professing the constant truths of the Church, and it would be a beautiful common voice defending the sanctity and the indissolubility of marriage in the midst of a real neo-pagan society where divorce has become a plague and where sexual depravity is increasingly spreading.\u201d\nThe Profession of Immutable Truths about Sacramental Marriage was issued by three Kazakh Ordinaries, including Bishop Schneider, in early January.",
+      "prop_spans": [
+        [
+          1215,
+          1445,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1222,
+          1445,
+          "Loaded_Language"
+        ],
+        [
+          1383,
+          1390,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1591,
+      "end_ix": 1893,
+      "text": "\nIn the document, the three bishops solemnly professed the Church\u2019s received teaching and discipline regarding sacramental marriage and the limited conditions (see Familiaris Consortio, n. 84) under which Catholics who are divorced and \u201cremarried\u201d may receive sacramental absolution and Holy Communion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1893,
+      "end_ix": 2137,
+      "text": "\nThey presented their profession \u201cbefore God who will judge us,\u201d in response to certain pastoral norms issued by several bishops\u2019 conferences aimed at implementing chapter 8 of Pope Francis\u2019 apostolic exhortation on the family, Amoris Laetitia.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2137,
+      "end_ix": 2272,
+      "text": "\nSome of these norms, Schneider told LifeSiteNews, give \u201cimplicit approval\u201d of divorce and of sexual activity outside a valid marriage.",
+      "new_text": "\nSome of these, Schneider told LifeSiteNews, give \u201cimplicit approval\u201d of divorce and of sexual activity outside a valid marriage.",
+      "prop_spans": [
+        [
+          2138,
+          2271,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2272,
+      "end_ix": 2469,
+      "text": "\nSuch a reading is causing \u201crampant confusion,\u201d will spread \u201ca plague of divorce\u201d in the Church, and is \u201calien\u201d to the Church\u2019s entire faith and Tradition, the three bishops said in the profession.",
+      "new_text": "\nSuch a reading is causing \u201crampant confusion,\u201d will spread \u201ca plague of divorce\u201d in the Church, and is \u201calien\u201d to the Church\u2019s entire faith and Tradition, the three bishops said in the profession.",
+      "prop_spans": [
+        [
+          2273,
+          2427,
+          "Loaded_Language"
+        ],
+        [
+          2335,
+          2352,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2469,
+      "end_ix": 2843,
+      "text": "\n\u201cThis is contrary to Divine Revelation,\u201d Schneider further told LifeSite, adding that the \u201cbeautiful explanations\u201d that are being presented to clergy and faithful as \u201cdiscernment\u201d and \u201cpastoral accompaniment,\u201d or a \u201cchange of paradigm\u201d and \u201cdiscovery of the subjective part of the truth,\u201d when translated into \u201ccommon sense language,\u201d are tantamount to an allowance to sin.",
+      "new_text": "\n\u201cThis is contrary to Divine Revelation,\u201d Schneider further told LifeSite, adding that the \u201cbeautiful explanations\u201d that are being presented to clergy and faithful as \u201cdiscernment\u201d and \u201cpastoral accompaniment,\u201d or a \u201cchange of paradigm\u201d and \u201cdiscovery of the subjective part of the truth,\u201d when translated into \u201ccommon sense language,\u201d are tantamount to an allowance to sin.",
+      "prop_spans": [
+        [
+          2471,
+          2842,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ],
+        [
+          2556,
+          2843,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2843,
+      "end_ix": 2916,
+      "text": "\n\u201cOur conscience as bishops calls to us to do this,\u201d Schneider explained.",
+      "new_text": "\n\u201cOur conscience as bishops calls to us to do this,\u201d Schneider explained.",
+      "prop_spans": [
+        [
+          2843,
+          2844,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2916,
+      "end_ix": 3343,
+      "text": "\n\u201cWe were forced by our conscience, in the conscience of the Successors of the Apostles and colleagues of the Pope.\u201d\nAs Successors of the Apostles, Schneider said they \u201ccould not act in another way.\u201d\nBishop Marian Eleganti\nThe profession\u2019s most recent signatory, Bishop Marian Eleganti, O.S.B., is a monk of the abbey of the Missionary Benedictines in St. Otmarsberg in Uznach, located in the canton of St. Gallen, Switzerland.",
+      "new_text": "\n\u201cWe were forced by our conscience, in the conscience of the Successors of the Apostles and colleagues of the Pope.\u201d\nAs Successors of the Apostles, Schneider said they \u201ccould not act in another way.\u201d\nBishop Marian Eleganti\nThe profession\u2019s most recent signatory, Bishop Marian Eleganti, O.S.B., is a monk of the abbey of the Missionary Benedictines in St. Otmarsberg in Uznach, located in the canton of St. Gallen, Switzerland.",
+      "prop_spans": [
+        [
+          3033,
+          3116,
+          "Causal_Oversimplification"
+        ],
+        [
+          3033,
+          3113,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3343,
+      "end_ix": 3395,
+      "text": "\nHe was ordained to the priesthood on June 23, 1995.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3395,
+      "end_ix": 3531,
+      "text": "\nIn July 1999, the monks of St. Otmarsberg Abbey (the youngest abbey in Switzerland) elected Eleganti the second abbot of the monastery.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3531,
+      "end_ix": 3777,
+      "text": "\nThe Missionary Benedictines in Uznach belong to the Benedictine Congregation of St. Ottilien near Munich, with branches in Europe, East, West and South Africa, South America, Cuba and the USA, India, Korea, China, Kazakhstan and the Philippines.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3777,
+      "end_ix": 3893,
+      "text": "\nIn 2009, Pope Benedict XVI appointed Abbot Marian Eleganti as auxiliary bishop of the diocese of Chur, Switzerland.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3893,
+      "end_ix": 3936,
+      "text": "\nHe was ordained a bishop on Jan. 31, 2010.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3936,
+      "end_ix": 4130,
+      "text": "\nSince 2011, Bishop Eleganti has served as the Swiss Youth Bishop for German-speaking Switzerland on behalf of the Swiss Bishops\u2019 Conference, and as vicar for religious and monastic communities.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4130,
+      "end_ix": 4251,
+      "text": "\nHe is also the vicar for the philosophical-theological education and ongoing formation and training of pastoral workers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4251,
+      "end_ix": 4398,
+      "text": "\nBishop Marian Eleganti\u2019s public support of the Profession of Immutable Truths about Sacramental Marriage brings the number of signatories to nine.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4398,
+      "end_ix": 4889,
+      "text": "\nTo date, in addition to the three original signatories from Kazakstan, the following prelates have signed the profession: Cardinal Janis Pujats, Emeritus Archbishop Metropolitan of Riga, Latvia; Archbishop Carlo Maria Vigan\u00f2, former apostolic nuncio to the United States; His Excellency Luigi Negri, Archbishop emeritus of Ferrara-Comacchio, Italy; Bishop Andreas Laun, Emeritus Auxiliary of Salzburg, Austria; and His Excellency Rene Gracida, Bishop emeritus of Corpus Christi, Texas, USA.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      807,
+      863,
+      "Loaded_Language"
+    ],
+    [
+      1215,
+      1445,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1222,
+      1445,
+      "Loaded_Language"
+    ],
+    [
+      1383,
+      1390,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2138,
+      2271,
+      "Appeal_to_Authority"
+    ],
+    [
+      2273,
+      2427,
+      "Loaded_Language"
+    ],
+    [
+      2335,
+      2352,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2471,
+      2842,
+      "Obfuscation,Intentional_Vagueness,Confusion"
+    ],
+    [
+      2556,
+      2844,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      3033,
+      3116,
+      "Causal_Oversimplification"
+    ],
+    [
+      3033,
+      3113,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

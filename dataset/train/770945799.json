@@ -1,0 +1,171 @@
+{
+  "article_id": "770945799",
+  "sentence offsets in original": [
+    0,
+    299,
+    452,
+    588,
+    714,
+    921,
+    1197,
+    1467,
+    1703,
+    1854,
+    2287,
+    2498,
+    2681
+  ],
+  "original sentences": [
+    "Ex-Sailor Pardoned By Trump, Sues Obama And Comey For NOT Prosecuting Hillary\n\nThe former Navy sailor pardoned by President Donald Trump after serving a year in federal prison for taking photos of classified sections of his submarine filed a lawsuit on Monday against Obama administration officials.",
+    "\nThe ex-sailor is alleging that he was subject to unequal protection of the law and cites Comey and Obama\u2019s willingness to not prosecute Hillary Clinton.",
+    "\nBarack Obama and former FBI director James Comey let Hillary off the hook before the election, while Kristian Saucier served hard time.",
+    "\nSaucier says that that action was \u201cunfair\u201d and \u201cunequal\u201d compared to the corruption and criminal activity of Hillary Clinton.",
+    "\nSaucier told Fox News he was scapegoated by Obama officials who found themselves under fire for not aggressively responding to Clinton\u2019s handling of classified information through her private email servers.",
+    "\nAccording to Fox News, Saucier\u2019s federal lawsuit alleges that the United States government was \u201coverzealous\u201d in prosecuting him for \u201cmishandling classified information\u201d while going easy on former Secretary of State Hillary Clinton for more serious violations of the same law.",
+    "\nSaucier\u2019s lawsuit names as defendants former President Barack Obama, former U.S. Attorney General Loretta Lynch, former FBI Director James Comey, former FBI Deputy Director Andrew McCabe, and Peter Strzok, the FBI agent who led the inquiry into Clinton\u2019s email account.",
+    "\n\u201cI could have just taken the pardon by President Trump and gone on with my life,\u201d Saucier said to Fox News, adding that he feels an obligation to get to the truth of what he sees as a double standard that let Clinton get off scot-free.",
+    "\n\u201cThe U.S. Constitution clearly states that all citizens are born with inalienable rights to be free from persecution by the government,\u201d Saucier said.",
+    "\n\u201cMy conviction and subsequent sentence for a minor military infraction compared to the treatment of politically connected individuals is a glaring example of a violation of the rights of all Americans to have equal protection under the law.\u201d\nThe former Navy sailor is acting as his own attorney after the Appellate Division of the New York State Supreme Court New York barred his lawyer, Ronald Daigle, from practicing for one year.",
+    "\nThe court\u2019s move came just as Daigle was helping Saucier prepare to file the lawsuit, prompting the navy sailor to accuse New York officials of trying to hinder his court fight against Obama, Comey, and others.",
+    "\n\u2013Fox News\nSaucier said that he realizes he had erred in taking the photos of the submarine, which he said he wanted to show only to his family so that they could see where he worked.",
+    "\nHe has also lashed out at Obama officials, saying that his prosecution was politically motivated, prompted by sensitivity about classified information amid the scandal involving Clinton\u2019s emails."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 299,
+      "text": "Ex-Sailor Pardoned By Trump, Sues Obama And Comey For NOT Prosecuting Hillary\n\nThe former Navy sailor pardoned by President Donald Trump after serving a year in federal prison for taking photos of classified sections of his submarine filed a lawsuit on Monday against Obama administration officials.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 299,
+      "end_ix": 452,
+      "text": "\nThe ex-sailor is alleging that he was subject to unequal protection of the law and cites Comey and Obama\u2019s willingness to not prosecute Hillary Clinton.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 452,
+      "end_ix": 588,
+      "text": "\nBarack Obama and former FBI director James Comey let Hillary off the hook before the election, while Kristian Saucier served hard time.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 588,
+      "end_ix": 714,
+      "text": "\nSaucier says that that action was \u201cunfair\u201d and \u201cunequal\u201d compared to the corruption and criminal activity of Hillary Clinton.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 714,
+      "end_ix": 921,
+      "text": "\nSaucier told Fox News he was scapegoated by Obama officials who found themselves under fire for not aggressively responding to Clinton\u2019s handling of classified information through her private email servers.",
+      "new_text": "\nSaucier told Fox News he was scapegoated by Obama officials who found themselves under fire for not responding to Clinton\u2019s handling of classified information through her private email servers.",
+      "prop_spans": [
+        [
+          815,
+          827,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 921,
+      "end_ix": 1197,
+      "text": "\nAccording to Fox News, Saucier\u2019s federal lawsuit alleges that the United States government was \u201coverzealous\u201d in prosecuting him for \u201cmishandling classified information\u201d while going easy on former Secretary of State Hillary Clinton for more serious violations of the same law.",
+      "new_text": "\nAccording to Fox News, Saucier\u2019s federal lawsuit alleges that the United States government was \u201coverzealous\u201d in prosecuting him for \u201cmishandling classified information\u201d while going easy on former Secretary of State Hillary Clinton for more serious violations of the same law.",
+      "prop_spans": [
+        [
+          1017,
+          1030,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1197,
+      "end_ix": 1467,
+      "text": "\nSaucier\u2019s lawsuit names as defendants former President Barack Obama, former U.S. Attorney General Loretta Lynch, former FBI Director James Comey, former FBI Deputy Director Andrew McCabe, and Peter Strzok, the FBI agent who led the inquiry into Clinton\u2019s email account.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1467,
+      "end_ix": 1703,
+      "text": "\n\u201cI could have just taken the pardon by President Trump and gone on with my life,\u201d Saucier said to Fox News, adding that he feels an obligation to get to the truth of what he sees as a double standard that let Clinton get off scot-free.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1703,
+      "end_ix": 1854,
+      "text": "\n\u201cThe U.S. Constitution clearly states that all citizens are born with inalienable rights to be free from persecution by the government,\u201d Saucier said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1854,
+      "end_ix": 2287,
+      "text": "\n\u201cMy conviction and subsequent sentence for a minor military infraction compared to the treatment of politically connected individuals is a glaring example of a violation of the rights of all Americans to have equal protection under the law.\u201d\nThe former Navy sailor is acting as his own attorney after the Appellate Division of the New York State Supreme Court New York barred his lawyer, Ronald Daigle, from practicing for one year.",
+      "new_text": "\n\u201cMy conviction and subsequent sentence for a minor military infraction compared to the treatment of politically connected individuals is a glaring example of a violation of the rights of all Americans to have equal protection under the law.\u201d\nThe former Navy sailor is acting as his own attorney after the Appellate Division of the New York State Supreme Court New York barred his lawyer, Ronald Daigle, from practicing for one year.",
+      "prop_spans": [
+        [
+          1994,
+          2001,
+          "Loaded_Language"
+        ],
+        [
+          2046,
+          2055,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2287,
+      "end_ix": 2498,
+      "text": "\nThe court\u2019s move came just as Daigle was helping Saucier prepare to file the lawsuit, prompting the navy sailor to accuse New York officials of trying to hinder his court fight against Obama, Comey, and others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2498,
+      "end_ix": 2681,
+      "text": "\n\u2013Fox News\nSaucier said that he realizes he had erred in taking the photos of the submarine, which he said he wanted to show only to his family so that they could see where he worked.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2681,
+      "end_ix": 2877,
+      "text": "\nHe has also lashed out at Obama officials, saying that his prosecution was politically motivated, prompted by sensitivity about classified information amid the scandal involving Clinton\u2019s emails.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      815,
+      827,
+      "Loaded_Language"
+    ],
+    [
+      1017,
+      1030,
+      "Loaded_Language"
+    ],
+    [
+      1994,
+      2001,
+      "Loaded_Language"
+    ],
+    [
+      2046,
+      2055,
+      "Flag-Waving"
+    ]
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "article_id": "729700539",
+  "sentence offsets in original": [
+    0,
+    178,
+    539,
+    1086,
+    1513,
+    1670,
+    2229,
+    2450,
+    2535
+  ],
+  "original sentences": [
+    "PressTV-Sun to cool down in next 30 years: Study\n\nScientists say our Sun will likely enter a cooldown cycle as soon as 2050, but the phase has almost no effect on global warming.",
+    "\nPhysicist Dan Lubin at the University of California San Diego and two of his colleges managed to collect and observe relevant data for the past 20 years and came to the conclusion that the giant burning ball of gas in our planetary system might enter a \u201cgrand minimum\u201d period of decreased ultraviolet radiation that would last for some 11 years by mid-century.",
+    "\n\u201cThe cooldown\u2026 [is] a periodic event during which the Sun\u2019s magnetism diminishes, sunspots form infrequently, and less ultraviolet radiation (UV) makes it to the surface of the planet,\u201d researchers noted in a statement earlier this week, adding that \u201cthe event is triggered at irregular intervals by random fluctuations related to the Sun\u2019s magnetic field.\u201d\nThe study, whose results were published in The Astrophysical Journal Letters, said the Sun is likely to be 6.9 percent cooler than its usual lowest amount of activity in the grand minimum.",
+    "\nAccording to the researchers, the cooldown phase could echo those experienced in Europe in the mid-17th century, called the \u201cMaunder Minimum,\u201d or the prolonged sunspot minimum, during which temperatures were low enough to cause London's River Thames to freeze over on a regular basis and to freeze the Baltic Sea to such an extent that Swedish troops were able to invade Denmark in 1658 on foot by marching across the sea ice.",
+    "\nHowever, scientists warned that it should not be assumed that the ultra-cooling of the sun would potentially prevent the negative effects of global warming.",
+    "\n\u201cThe cooling effect of a grand minimum is only a fraction of the warming effect caused by the increasing concentration of carbon dioxide in the atmosphere,\u201d they said, adding, \u201cAfter hundreds of thousands of years of CO2 levels never exceeding 300 parts per million in air, the concentration of the greenhouse gas is now over 400 parts per million, continuing a rise that began with the Industrial Revolution.\u201d\nThe study estimated that the Sun\u2019s mid-century cooldown would probably only result in cooling the Earth by some 0.25 percent between 2020 and 2070.",
+    "\nAs a result, the temperature at the surface of our cosmic home would decrease by up to several tenths of a degree Celsius, which is not sufficient to stop global warming, but it could at least soften its effects in part.",
+    "\n\u201cNow we have a benchmark from which we can perform better climate model simulations.",
+    "\nWe can therefore have a better idea of how changes in solar UV radiation affect climate change,\u201d said Lubin."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 178,
+      "text": "PressTV-Sun to cool down in next 30 years: Study\n\nScientists say our Sun will likely enter a cooldown cycle as soon as 2050, but the phase has almost no effect on global warming.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 178,
+      "end_ix": 539,
+      "text": "\nPhysicist Dan Lubin at the University of California San Diego and two of his colleges managed to collect and observe relevant data for the past 20 years and came to the conclusion that the giant burning ball of gas in our planetary system might enter a \u201cgrand minimum\u201d period of decreased ultraviolet radiation that would last for some 11 years by mid-century.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 539,
+      "end_ix": 1086,
+      "text": "\n\u201cThe cooldown\u2026 [is] a periodic event during which the Sun\u2019s magnetism diminishes, sunspots form infrequently, and less ultraviolet radiation (UV) makes it to the surface of the planet,\u201d researchers noted in a statement earlier this week, adding that \u201cthe event is triggered at irregular intervals by random fluctuations related to the Sun\u2019s magnetic field.\u201d\nThe study, whose results were published in The Astrophysical Journal Letters, said the Sun is likely to be 6.9 percent cooler than its usual lowest amount of activity in the grand minimum.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1086,
+      "end_ix": 1513,
+      "text": "\nAccording to the researchers, the cooldown phase could echo those experienced in Europe in the mid-17th century, called the \u201cMaunder Minimum,\u201d or the prolonged sunspot minimum, during which temperatures were low enough to cause London's River Thames to freeze over on a regular basis and to freeze the Baltic Sea to such an extent that Swedish troops were able to invade Denmark in 1658 on foot by marching across the sea ice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1513,
+      "end_ix": 1670,
+      "text": "\nHowever, scientists warned that it should not be assumed that the ultra-cooling of the sun would potentially prevent the negative effects of global warming.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1670,
+      "end_ix": 2229,
+      "text": "\n\u201cThe cooling effect of a grand minimum is only a fraction of the warming effect caused by the increasing concentration of carbon dioxide in the atmosphere,\u201d they said, adding, \u201cAfter hundreds of thousands of years of CO2 levels never exceeding 300 parts per million in air, the concentration of the greenhouse gas is now over 400 parts per million, continuing a rise that began with the Industrial Revolution.\u201d\nThe study estimated that the Sun\u2019s mid-century cooldown would probably only result in cooling the Earth by some 0.25 percent between 2020 and 2070.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2229,
+      "end_ix": 2450,
+      "text": "\nAs a result, the temperature at the surface of our cosmic home would decrease by up to several tenths of a degree Celsius, which is not sufficient to stop global warming, but it could at least soften its effects in part.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2450,
+      "end_ix": 2535,
+      "text": "\n\u201cNow we have a benchmark from which we can perform better climate model simulations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2535,
+      "end_ix": 2644,
+      "text": "\nWe can therefore have a better idea of how changes in solar UV radiation affect climate change,\u201d said Lubin.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

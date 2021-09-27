@@ -1,0 +1,226 @@
+{
+  "article_id": "697959084",
+  "sentence offsets in original": [
+    0,
+    518,
+    742,
+    904,
+    1072,
+    1148,
+    1352,
+    1509,
+    1565,
+    1688,
+    1791,
+    1896,
+    1944,
+    2646,
+    2768,
+    2913
+  ],
+  "original sentences": [
+    "Eyewitness Confessional: There Was An Active Shooter Targeting The Bellagio Hotel During The Las Vegas Massacre\n\nIn yet another astonishing eyewitness report that contradicts the official story surrounding the worst mass shooting in American history, a married couple who were celebrating their 10th anniversary in Las Vegas at the time of the shooting have come forward to reveal that there was an active shooter inside the Bellagio Hotel around the same time that supposed lone gunman Stephen Paddock was found dead.",
+    "\nDuring the confessional, a Canadian man by the name of Jeff detailed the fact that he and his wife were in the Bellagio Resort and Casino around 11:20pm on the night of the shooting when panic broke out in the hotels lobby.",
+    "\nJeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.",
+    "\n\u201cFirst of all, I think what needs to be said is that, from my perspective, there were multiple events that occurred around Las Vegas, up and down the Strip that night.",
+    "\nIt wasn\u2019t just centralized around the Mandalay Hotel,\u201d the witness claimed.",
+    "\nThe eyewitness then goes on to directly say that he and his wife were involved in an active shooter situation at a different hotel that authorities have so far done everything in their power to cover-up.",
+    "\n\u201cMy wife and I were in Las Vegas celebrating our 10th anniversary and on October 1st we were involved in an incident with an active shooter at the Bellagio.",
+    "\nThere is no mistake in my mind about it,\u201d he continued.",
+    "\nJeff then describes a scene in which he and his wife were walking through the main lobby when screams and gunfire erupted.",
+    "\nKeep in mind, this is all information that the police and the FBI has hidden from the American people.",
+    "\n\u201cAll of a sudden there was just a crescendo of screams that started behind us in the lobby,\u201d he claimed.",
+    "\n\u201cThen I heard somebody yell \u2018there\u2019s a shooter!",
+    "\nThere\u2019s a shooter!\u2019 And then I heard like five or six pops, like unmistakable gunfire, unmistakably.\u201d\n\u201cThat was about 11:20 when we heard the shots and the screams\u2026 at that point you could hear and see the screams and see hundreds of people coming towards us.\u201d\nAmazingly, as Shepard Ambellas noted, \u201cThe man\u2019s claims match up to actual events captured in police audio recordings from the night of the shooting which confirms that between 11:15 and 11:18 p.m. on the night of Oct. 1 there was, in fact, something going on at the Bellagio.\u201d\nThis testimony also backs up claims by another eyewitness, Rene Downs, who has spent the past few days doing interviews about a shooter inside the Bellagio Hotel.",
+    "\nSlowly but surely we are starting to see the official narrative regarding the Las Vegas Massacre be completely destroyed.",
+    "\nAt this point it is strikingly obvious that authorities have lied to the American people about the worst mass shooting in our countries history.",
+    "\nOne can only speculate as to what the reasons for these lies actually are?"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 518,
+      "text": "Eyewitness Confessional: There Was An Active Shooter Targeting The Bellagio Hotel During The Las Vegas Massacre\n\nIn yet another astonishing eyewitness report that contradicts the official story surrounding the worst mass shooting in American history, a married couple who were celebrating their 10th anniversary in Las Vegas at the time of the shooting have come forward to reveal that there was an active shooter inside the Bellagio Hotel around the same time that supposed lone gunman Stephen Paddock was found dead.",
+      "new_text": "Eyewitness Confessional: There Was An Active Shooter Targeting The Bellagio Hotel During The Las Vegas Massacre\n\nIn yet another eyewitness report that contradicts the official story surrounding the worst mass shooting in American history, a married couple who were celebrating their 10th anniversary in Las Vegas at the time of the shooting have come forward to reveal that there was an active shooter inside the Bellagio Hotel around the same time that supposed lone gunman Stephen Paddock was found dead.",
+      "prop_spans": [
+        [
+          128,
+          157,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 518,
+      "end_ix": 742,
+      "text": "\nDuring the confessional, a Canadian man by the name of Jeff detailed the fact that he and his wife were in the Bellagio Resort and Casino around 11:20pm on the night of the shooting when panic broke out in the hotels lobby.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 742,
+      "end_ix": 904,
+      "text": "\nJeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 904,
+      "end_ix": 1072,
+      "text": "\n\u201cFirst of all, I think what needs to be said is that, from my perspective, there were multiple events that occurred around Las Vegas, up and down the Strip that night.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1072,
+      "end_ix": 1148,
+      "text": "\nIt wasn\u2019t just centralized around the Mandalay Hotel,\u201d the witness claimed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1148,
+      "end_ix": 1352,
+      "text": "\nThe eyewitness then goes on to directly say that he and his wife were involved in an active shooter situation at a different hotel that authorities have so far done everything in their power to cover-up.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1352,
+      "end_ix": 1509,
+      "text": "\n\u201cMy wife and I were in Las Vegas celebrating our 10th anniversary and on October 1st we were involved in an incident with an active shooter at the Bellagio.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1509,
+      "end_ix": 1565,
+      "text": "\nThere is no mistake in my mind about it,\u201d he continued.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1565,
+      "end_ix": 1688,
+      "text": "\nJeff then describes a scene in which he and his wife were walking through the main lobby when screams and gunfire erupted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1688,
+      "end_ix": 1791,
+      "text": "\nKeep in mind, this is all information that the police and the FBI has hidden from the American people.",
+      "new_text": "\nKeep in mind, this is all information that the police and the FBI has hidden from the people.",
+      "prop_spans": [
+        [
+          1688,
+          1791,
+          "Flag-Waving"
+        ],
+        [
+          1689,
+          1765,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1791,
+      "end_ix": 1896,
+      "text": "\n\u201cAll of a sudden there was just a crescendo of screams that started behind us in the lobby,\u201d he claimed.",
+      "new_text": "\n\u201cAll of a sudden there was just a crescendo of screams that started behind us in the lobby,\u201d he claimed.",
+      "prop_spans": [
+        [
+          1791,
+          1792,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1896,
+      "end_ix": 1944,
+      "text": "\n\u201cThen I heard somebody yell \u2018there\u2019s a shooter!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1944,
+      "end_ix": 2646,
+      "text": "\nThere\u2019s a shooter!\u2019 And then I heard like five or six pops, like unmistakable gunfire, unmistakably.\u201d\n\u201cThat was about 11:20 when we heard the shots and the screams\u2026 at that point you could hear and see the screams and see hundreds of people coming towards us.\u201d\nAmazingly, as Shepard Ambellas noted, \u201cThe man\u2019s claims match up to actual events captured in police audio recordings from the night of the shooting which confirms that between 11:15 and 11:18 p.m. on the night of Oct. 1 there was, in fact, something going on at the Bellagio.\u201d\nThis testimony also backs up claims by another eyewitness, Rene Downs, who has spent the past few days doing interviews about a shooter inside the Bellagio Hotel.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2646,
+      "end_ix": 2768,
+      "text": "\nSlowly but surely we are starting to see the official narrative regarding the Las Vegas Massacre be completely destroyed.",
+      "new_text": "\nSlowly we are starting to see the official narrative regarding the Las Vegas Massacre be completely destroyed.",
+      "prop_spans": [
+        [
+          2647,
+          2665,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2768,
+      "end_ix": 2913,
+      "text": "\nAt this point it is strikingly obvious that authorities have lied to the American people about the worst mass shooting in our countries history.",
+      "new_text": "\nAt this point it is obvious that authorities have lied to the people about the worst mass shooting in our countries history.",
+      "prop_spans": [
+        [
+          2783,
+          2857,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2913,
+      "end_ix": 2988,
+      "text": "\nOne can only speculate as to what the reasons for these lies actually are?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2914,
+          2988,
+          "Doubt"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      128,
+      157,
+      "Loaded_Language"
+    ],
+    [
+      1688,
+      1792,
+      "Flag-Waving"
+    ],
+    [
+      1689,
+      1765,
+      "Doubt"
+    ],
+    [
+      2647,
+      2665,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2783,
+      2857,
+      "Repetition"
+    ],
+    [
+      2914,
+      2988,
+      "Doubt"
+    ]
+  ]
+}

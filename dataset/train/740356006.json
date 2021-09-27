@@ -1,0 +1,498 @@
+{
+  "article_id": "740356006",
+  "sentence offsets in original": [
+    0,
+    123,
+    251,
+    560,
+    861,
+    926,
+    1016,
+    1240,
+    1622,
+    1667,
+    1798,
+    1853,
+    1959,
+    2096,
+    2146,
+    2169,
+    2215,
+    2466,
+    2476,
+    2540,
+    2847,
+    2885,
+    2915,
+    2980,
+    3077,
+    3134
+  ],
+  "original sentences": [
+    "Rep. Danny Davis was For/Against/For/Against Farrakhan\n\nRep. Danny Davis helped get the ball rolling by praising Farrakhan.",
+    "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+    "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+    "\n\u201cI don\u2019t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,\u201d he emphasized later.",
+    "\nThen Rep. Davis' office issued a statement disavowing Farrakhan.",
+    "\nAnd then Davis got right back to talking to the Daily Caller and disavowed the disavowal.",
+    "\n\u201cThe congressman was insistent that The Daily Caller misquoted him during the interview and that he didn\u2019t subscribe to Farrakhan\u2019s anti-Semitic statements and actions in the past,\u201d the ADL official told JTA in a statement.",
+    "\n\u201cHe expressed an interest in seeing some of the latest statements made by Farrakhan vis-a-vis Jews, which we promptly shared with him.\u201d The congressman wasn\u2019t sure why the ADL wrote that he had been misquoted in his praise for the anti-Semite, and said he wasn\u2019t sure if someone from his office had told the ADL he was misquoted, he told The Daily Caller News Foundation on Sunday.",
+    "\n\u201cI think that was what they wanted to write.",
+    "\nNah, I don\u2019t have no problems with Farrakhan, I don\u2019t spend a whole lot of my time dealing with those kind of things,\u201d Davis said.",
+    "\n\u201cThat\u2019s just one segment of what goes on in our world.",
+    "\nThe world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.",
+    "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nThe term \"Jewish Question\" is largely used by anti-Semites.",
+    "\nSo Davis then sorta disavowed his own statements.",
+    "\nJ Street endorsed him.",
+    "\nAnd then he talked to the Daily Caller again.",
+    "\nDemocratic Illinois Rep. Danny Davis thinks Nation of Islam leader Louis Farrakhan, a notorious racist and anti-Semite, does \u201coutstanding work\u201d but doesn\u2019t agree with Farrakhan\u2019s positions that white people are \u201cdevils\u201d and Jewish people are satanic.",
+    "\nProgress!",
+    "\n\"I don\u2019t spend a lot of time, I buy Final Call when I see them.",
+    "\nI\u2019ve been to Saviour\u2019s Day, I\u2019ve read, I\u2019ve been a fan of Elijah Muhammad, so those are my positions, but I do disagree with the notion that white people are devils.\u201d\nI wonder how far a white congressman would get saying, \"I attended the Klavern, but I don't agree with the KKK's views about black people.\"",
+    "\nBut that's Rep. Davis' current views.",
+    "\nHe likes a racist hate group.",
+    "\nBut doesn't believe white people are devils or Jews are satanic.",
+    "\nWhoever the JTA has on the \"explain away Farrakhan's Dem fandom\" beat is going to be busy again.",
+    "\nBut this is typical of the Dems and their useful idiots.",
+    "\nAnd J Street is on record as endorsing a politician who praised a racist hate group leader and discussed the \"Jewish question.\""
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 123,
+      "text": "Rep. Danny Davis was For/Against/For/Against Farrakhan\n\nRep. Danny Davis helped get the ball rolling by praising Farrakhan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 123,
+      "end_ix": 251,
+      "text": "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+      "new_text": "\nDemocratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an \u201coutstanding human being\u201d on Monday.",
+      "prop_spans": [
+        [
+          216,
+          240,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 251,
+      "end_ix": 560,
+      "text": "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+      "new_text": "\nFarrakhan\u2019s history of racially extreme comments includes blaming Jews for the September 11 attacks, saying white people \u201cdeserve to die\u201d and praising Adolf Hitler as a \u201cvery great man.\u201d \u201cI personally know [Farrakhan], I\u2019ve been to his home, done meetings, participated in events with him,\u201d Davis told TheDC.",
+      "prop_spans": [
+        [
+          374,
+          389,
+          "Slogans"
+        ],
+        [
+          422,
+          438,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          440,
+          560,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 560,
+      "end_ix": 861,
+      "text": "\n\u201cI don\u2019t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,\u201d he emphasized later.",
+      "new_text": "\n\u201cI don\u2019t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,\u201d he emphasized later.",
+      "prop_spans": [
+        [
+          560,
+          861,
+          "Appeal_to_Authority"
+        ],
+        [
+          642,
+          665,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          744,
+          800,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 861,
+      "end_ix": 926,
+      "text": "\nThen Rep. Davis' office issued a statement disavowing Farrakhan.",
+      "new_text": "\nThen Rep. Davis' office issued a statement disavowing Farrakhan.",
+      "prop_spans": [
+        [
+          861,
+          862,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 926,
+      "end_ix": 1016,
+      "text": "\nAnd then Davis got right back to talking to the Daily Caller and disavowed the disavowal.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1016,
+      "end_ix": 1240,
+      "text": "\n\u201cThe congressman was insistent that The Daily Caller misquoted him during the interview and that he didn\u2019t subscribe to Farrakhan\u2019s anti-Semitic statements and actions in the past,\u201d the ADL official told JTA in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1240,
+      "end_ix": 1622,
+      "text": "\n\u201cHe expressed an interest in seeing some of the latest statements made by Farrakhan vis-a-vis Jews, which we promptly shared with him.\u201d The congressman wasn\u2019t sure why the ADL wrote that he had been misquoted in his praise for the anti-Semite, and said he wasn\u2019t sure if someone from his office had told the ADL he was misquoted, he told The Daily Caller News Foundation on Sunday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1622,
+      "end_ix": 1667,
+      "text": "\n\u201cI think that was what they wanted to write.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1667,
+      "end_ix": 1798,
+      "text": "\nNah, I don\u2019t have no problems with Farrakhan, I don\u2019t spend a whole lot of my time dealing with those kind of things,\u201d Davis said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1798,
+      "end_ix": 1853,
+      "text": "\n\u201cThat\u2019s just one segment of what goes on in our world.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1853,
+      "end_ix": 1959,
+      "text": "\nThe world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          1854,
+          1959,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1854,
+          1959,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1959,
+      "end_ix": 2096,
+      "text": "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nThe term \"Jewish Question\" is largely used by anti-Semites.",
+      "new_text": "\nFor those heavy into it, that\u2019s their thing, but it ain\u2019t my thing,\u201d he said\nThe term \"Jewish Question\" is largely used by anti-Semites.",
+      "prop_spans": [
+        [
+          1959,
+          1959,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1959,
+          1959,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2096,
+      "end_ix": 2146,
+      "text": "\nSo Davis then sorta disavowed his own statements.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2146,
+      "end_ix": 2169,
+      "text": "\nJ Street endorsed him.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2169,
+      "end_ix": 2215,
+      "text": "\nAnd then he talked to the Daily Caller again.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2215,
+      "end_ix": 2466,
+      "text": "\nDemocratic Illinois Rep. Danny Davis thinks Nation of Islam leader Louis Farrakhan, a notorious racist and anti-Semite, does \u201coutstanding work\u201d but doesn\u2019t agree with Farrakhan\u2019s positions that white people are \u201cdevils\u201d and Jewish people are satanic.",
+      "new_text": "\nDemocratic Illinois Rep. Danny Davis thinks Nation of Islam leader Louis Farrakhan does \u201coutstanding work\u201d but doesn\u2019t agree with Farrakhan\u2019s positions that white people are \u201cdevils\u201d and Jewish people are evil.",
+      "prop_spans": [
+        [
+          2300,
+          2335,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2342,
+          2359,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2410,
+          2465,
+          "Loaded_Language"
+        ],
+        [
+          2428,
+          2434,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2458,
+          2465,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2466,
+      "end_ix": 2476,
+      "text": "\nProgress!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2476,
+      "end_ix": 2540,
+      "text": "\n\"I don\u2019t spend a lot of time, I buy Final Call when I see them.",
+      "new_text": "\n\"I don\u2019t spend a lot of time, I buy Final Call when I see them.",
+      "prop_spans": [
+        [
+          2477,
+          2540,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2540,
+      "end_ix": 2847,
+      "text": "\nI\u2019ve been to Saviour\u2019s Day, I\u2019ve read, I\u2019ve been a fan of Elijah Muhammad, so those are my positions, but I do disagree with the notion that white people are devils.\u201d\nI wonder how far a white congressman would get saying, \"I attended the Klavern, but I don't agree with the KKK's views about black people.\"",
+      "new_text": "\nI\u2019ve been to Saviour\u2019s Day, I\u2019ve read, I\u2019ve been a fan of Elijah Muhammad, so those are my positions, but I do disagree with the notion that white people are devils.\u201d\nI wonder how far a white congressman would get saying, \"I attended the Klavern, but I don't agree with the KKK's views about black people.\"",
+      "prop_spans": [
+        [
+          2540,
+          2708,
+          "Red_Herring"
+        ],
+        [
+          2682,
+          2705,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2708,
+          2847,
+          "Red_Herring"
+        ],
+        [
+          2710,
+          2754,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2847,
+      "end_ix": 2885,
+      "text": "\nBut that's Rep. Davis' current views.",
+      "new_text": "\nBut that's Rep. Davis' current views.",
+      "prop_spans": [
+        [
+          2847,
+          2848,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2885,
+      "end_ix": 2915,
+      "text": "\nHe likes a racist hate group.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2915,
+      "end_ix": 2980,
+      "text": "\nBut doesn't believe white people are devils or Jews are satanic.",
+      "new_text": "\nBut doesn't believe the stereotypes abbout white people and Jews.",
+      "prop_spans": [
+        [
+          2953,
+          2960,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2972,
+          2979,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2980,
+      "end_ix": 3077,
+      "text": "\nWhoever the JTA has on the \"explain away Farrakhan's Dem fandom\" beat is going to be busy again.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3077,
+      "end_ix": 3134,
+      "text": "\nBut this is typical of the Dems and their useful idiots.",
+      "new_text": "\nBut this is typical of the Dems and their naive people.",
+      "prop_spans": [
+        [
+          3120,
+          3133,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3134,
+      "end_ix": 3262,
+      "text": "\nAnd J Street is on record as endorsing a politician who praised a racist hate group leader and discussed the \"Jewish question.\"",
+      "new_text": "\nAnd J Street is on record as endorsing a politician who praised a racist hate group leader and discussed the Jewish question.",
+      "prop_spans": [
+        [
+          3174,
+          3262,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      216,
+      240,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      374,
+      389,
+      "Slogans"
+    ],
+    [
+      422,
+      438,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      440,
+      862,
+      "Appeal_to_Authority"
+    ],
+    [
+      642,
+      665,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      744,
+      800,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1854,
+      1959,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1854,
+      1959,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      2300,
+      2335,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2342,
+      2359,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2410,
+      2465,
+      "Loaded_Language"
+    ],
+    [
+      2428,
+      2434,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2458,
+      2465,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2477,
+      2708,
+      "Red_Herring"
+    ],
+    [
+      2682,
+      2705,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2708,
+      2848,
+      "Red_Herring"
+    ],
+    [
+      2710,
+      2754,
+      "Doubt"
+    ],
+    [
+      2953,
+      2960,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2972,
+      2979,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3120,
+      3133,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3174,
+      3263,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

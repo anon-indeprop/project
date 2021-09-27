@@ -1,0 +1,398 @@
+{
+  "article_id": "999000142",
+  "sentence offsets in original": [
+    0,
+    277,
+    329,
+    508,
+    709,
+    782,
+    828,
+    888,
+    1021,
+    1116,
+    1211,
+    1249,
+    1282,
+    1364,
+    1446,
+    1474,
+    1537,
+    1812,
+    1894,
+    1943,
+    2198,
+    2317,
+    2418,
+    2526,
+    2596,
+    2661,
+    2741,
+    2824,
+    2941,
+    3035,
+    3159,
+    3178
+  ],
+  "original sentences": [
+    "Hillary Cracks Racist Joke After Mixing Up Cory Booker & Eric Holder: \"They All Look The Same\"\n\nSo, you were actually asking yourself who the real people are who engage in identity politics and viewing people with different skin colors or ethnic backgrounds as inferior people?",
+    "\nWell, this didn't come from President Donald Trump.",
+    "\nNope, Former Secretary of State Hillary Clinton mixed up Senator Cory Booker and former Attorney General Eric Holder and blew it off with a joke saying, \"They all look the same.\"",
+    "\nHillary Clinton sat down with Recode\u2019s Kara Swisher over the weekend to talk propaganda against her conservative political opponents and how mean, nasty and evil they have been in the past few months.",
+    "\n\u201cWhat\u2019s often called political correctness is politeness,\u201d Clinton said.",
+    "\n\u201cIt\u2019s not being rude and insulting to people.",
+    "\nIt\u2019s respecting the diversity that we have in our society.\"",
+    "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+    "\n* Yes, military force should be used.",
+    "\nNo, keep the military out of it.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u201cThe Democratic Party is a much more diverse political party, attracting people who are African-American, Latino, LGBT, whatever the reason why people feel more comfortable where they are taken in, where they are included as part of a political movement or party\u201d she added.",
+    "\n\u201cAnd I don\u2019t think it\u2019s politically correct to say we value that,\" she concluded.",
+    "\n\"And I don\u2019t want to go around insulting people.",
+    "\nI don\u2019t want to paint with a broad brush every immigrant is this, every African-American is that, every, you know, other person with different religious beliefs or whatever \u2013 that\u2019s childish.\u201d\nRight, except she does just that and so do many in her party.",
+    "\nHowever, in less than a minute she would insult both Booker and Holder, and every person with dark skin on the planet.",
+    "\nSwisher asked her, \"What do you think of Cory Booker\u2026 saying \u2018kick them in the shins,\u2019 essentially?\"",
+    "\nOf course, Swisher meant Eric Holder and Clinton corrected her, adding, \u201cYeah, I know they all look alike.\"",
+    "\nWhat was even more amazing is that the audience laughed hysterically.",
+    "\nCan you imagine if a conservative person uttered those comments?",
+    "\nThere would be a near lynching of them on the spot and surely for days to come.",
+    "\nThey might lose their livelihood and get death threats, but not \"Crooked\" Hillary.",
+    "\nClearly, she was speaking of all black people and not being specific to Holder or Booker as they look nothing alike.",
+    "\nThe only thing the two of them have in common is that they are criminals and have black skin.",
+    "\nClinton's comments were clearly racist, and those fawning over her during the interview laughed it up right along with her.",
+    "\nHere, take a look!",
+    "\nDisgusting that she continues to move and speak freely in this country with no justice being brought to bear on her for her many crimes, something we were promised from then-candidate Trump."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 277,
+      "text": "Hillary Cracks Racist Joke After Mixing Up Cory Booker & Eric Holder: \"They All Look The Same\"\n\nSo, you were actually asking yourself who the real people are who engage in identity politics and viewing people with different skin colors or ethnic backgrounds as inferior people?",
+      "new_text": "Hillary Makes Racist Comment After Mixing Up Cory Booker & Eric Holder: \"They All Look The Same\"\n\nSo, you were actually asking yourself who the real people are who engage in identity politics and viewing people with different skin colors or ethnic backgrounds as inferior people?",
+      "prop_spans": [
+        [
+          8,
+          27,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 277,
+      "end_ix": 329,
+      "text": "\nWell, this didn't come from President Donald Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 329,
+      "end_ix": 508,
+      "text": "\nNope, Former Secretary of State Hillary Clinton mixed up Senator Cory Booker and former Attorney General Eric Holder and blew it off with a joke saying, \"They all look the same.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 508,
+      "end_ix": 709,
+      "text": "\nHillary Clinton sat down with Recode\u2019s Kara Swisher over the weekend to talk propaganda against her conservative political opponents and how mean, nasty and evil they have been in the past few months.",
+      "new_text": "\nHillary Clinton sat down with Recode\u2019s Kara Swisher over the weekend to talk propaganda against her conservative political opponents and how mean they have been in the past few months.",
+      "prop_spans": [
+        [
+          646,
+          686,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 709,
+      "end_ix": 782,
+      "text": "\n\u201cWhat\u2019s often called political correctness is politeness,\u201d Clinton said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 782,
+      "end_ix": 828,
+      "text": "\n\u201cIt\u2019s not being rude and insulting to people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 828,
+      "end_ix": 888,
+      "text": "\nIt\u2019s respecting the diversity that we have in our society.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 888,
+      "end_ix": 1021,
+      "text": "\ntake our poll - story continues below\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1021,
+      "end_ix": 1116,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1116,
+      "end_ix": 1211,
+      "text": "\nShould military force be used to stop the caravan of migrants marching toward the U.S. border?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1211,
+      "end_ix": 1249,
+      "text": "\n* Yes, military force should be used.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1249,
+      "end_ix": 1282,
+      "text": "\nNo, keep the military out of it.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1282,
+      "end_ix": 1364,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1364,
+      "end_ix": 1446,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1446,
+      "end_ix": 1474,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1474,
+      "end_ix": 1537,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1537,
+      "end_ix": 1812,
+      "text": "\n\u201cThe Democratic Party is a much more diverse political party, attracting people who are African-American, Latino, LGBT, whatever the reason why people feel more comfortable where they are taken in, where they are included as part of a political movement or party\u201d she added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1812,
+      "end_ix": 1894,
+      "text": "\n\u201cAnd I don\u2019t think it\u2019s politically correct to say we value that,\" she concluded.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1894,
+      "end_ix": 1943,
+      "text": "\n\"And I don\u2019t want to go around insulting people.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1943,
+      "end_ix": 2198,
+      "text": "\nI don\u2019t want to paint with a broad brush every immigrant is this, every African-American is that, every, you know, other person with different religious beliefs or whatever \u2013 that\u2019s childish.\u201d\nRight, except she does just that and so do many in her party.",
+      "new_text": "\nI don\u2019t want to paint with a broad brush every immigrant is this, every African-American is that, every, you know, other person with different religious beliefs or whatever \u2013 that\u2019s childish.\u201d\nRight, except she does just that and so do many in her party.",
+      "prop_spans": [
+        [
+          2119,
+          2134,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2198,
+      "end_ix": 2317,
+      "text": "\nHowever, in less than a minute she would insult both Booker and Holder, and every person with dark skin on the planet.",
+      "new_text": "\nHowever, in less than a minute she would insult both Booker and Holder, and every person with dark skin.",
+      "prop_spans": [
+        [
+          2271,
+          2316,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2317,
+      "end_ix": 2418,
+      "text": "\nSwisher asked her, \"What do you think of Cory Booker\u2026 saying \u2018kick them in the shins,\u2019 essentially?\"",
+      "new_text": "\nSwisher asked her, \"What do you think of Cory Booker\u2026 saying \u2018kick them in the shins,\u2019 essentially?\"",
+      "prop_spans": [
+        [
+          2380,
+          2402,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2418,
+      "end_ix": 2526,
+      "text": "\nOf course, Swisher meant Eric Holder and Clinton corrected her, adding, \u201cYeah, I know they all look alike.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2526,
+      "end_ix": 2596,
+      "text": "\nWhat was even more amazing is that the audience laughed hysterically.",
+      "new_text": "\nAstonishingly, the audience laughed hysterically.",
+      "prop_spans": [
+        [
+          2527,
+          2554,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2596,
+      "end_ix": 2661,
+      "text": "\nCan you imagine if a conservative person uttered those comments?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2661,
+      "end_ix": 2741,
+      "text": "\nThere would be a near lynching of them on the spot and surely for days to come.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2741,
+      "end_ix": 2824,
+      "text": "\nThey might lose their livelihood and get death threats, but not \"Crooked\" Hillary.",
+      "new_text": "\nThey might lose their livelihood and get death threats, but not Hillary.",
+      "prop_spans": [
+        [
+          2807,
+          2823,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2824,
+      "end_ix": 2941,
+      "text": "\nClearly, she was speaking of all black people and not being specific to Holder or Booker as they look nothing alike.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2825,
+          2940,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2941,
+      "end_ix": 3035,
+      "text": "\nThe only thing the two of them have in common is that they are criminals and have black skin.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3035,
+      "end_ix": 3159,
+      "text": "\nClinton's comments were clearly racist, and those fawning over her during the interview laughed it up right along with her.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3159,
+      "end_ix": 3178,
+      "text": "\nHere, take a look!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3178,
+      "end_ix": 3369,
+      "text": "\nDisgusting that she continues to move and speak freely in this country with no justice being brought to bear on her for her many crimes, something we were promised from then-candidate Trump.",
+      "new_text": "\nIt is terrible that she continues to move and speak freely in this country with no justice being brought to bear on her for her many crimes, something we were promised from then-candidate Trump.",
+      "prop_spans": [
+        [
+          3179,
+          3190,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      8,
+      27,
+      "Loaded_Language"
+    ],
+    [
+      646,
+      686,
+      "Loaded_Language"
+    ],
+    [
+      2119,
+      2134,
+      "Loaded_Language"
+    ],
+    [
+      2271,
+      2316,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2380,
+      2402,
+      "Loaded_Language"
+    ],
+    [
+      2527,
+      2554,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2807,
+      2823,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2825,
+      2940,
+      "Causal_Oversimplification"
+    ],
+    [
+      3179,
+      3190,
+      "Loaded_Language"
+    ]
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "article_id": "999001033",
+  "sentence offsets in original": [
+    0,
+    439,
+    616,
+    754,
+    1130,
+    1159,
+    1427,
+    1436,
+    1467,
+    1597,
+    1770,
+    1821,
+    1878,
+    1902,
+    1958,
+    1984,
+    2026,
+    2111,
+    2156,
+    2245,
+    2589,
+    2741,
+    2931,
+    3070,
+    3137,
+    3477,
+    3545,
+    3650,
+    3759
+  ],
+  "original sentences": [
+    "Caught on video: Gillum staffer makes racist statements and admits campaign is lying to voters\n\nCaught on video: Gillum staffer makes racist statements and admits campaign is lying to voters\nIn the latest Project Veritas midterm election sting, staffers working for Florida Democratic candidate for governor Andrew Gillum are caught on camera revealing Gillum\u2019s campaign promises are lies and making racist statements about Florida voters.",
+    "\nOmar Smith, a Gillum campaign staffer who went to college with the candidate, says on video that if Gillum is elected, none of the things outlined in his platform would happen.",
+    "\nHe says that \u201cthat\u2019s not for [voters] to know.\u201d\n\u201cRemember our saying, modern-day fairy tales start with \u2018once I am elected,'\u201d Smith says.",
+    "\nNEW VERITAS: FL Gov Candidate Staffer Who Went to College with Gillum: \"Not for voters to know\" programs won't happen, \u201cModern day fairy tales start with once I am elected\u201d Florida is a \"F***ed up\" \"cracker state\" FULL REPORT: https://t.co/fjmYBsb30k pic.twitter.com/IIGkqzMfbr \u2014 PVeritas Action (@PVeritas_Action) November 1, 2018\nGILLUM ELECTION STRATEGY: \"You whip 'em up.",
+    "\nThe poor, the middle income.",
+    "\nYou have to whip them up into a frenzy in order for them to vote\" because Florida is a \"F***ed up,\" \"cracker state,\" \"you have to appeal to white guilt\" pic.twitter.com/d0fd85zLF8 \u2014 James O'Keefe (@JamesOKeefeIII) November 1, 2018\n\u201cThe rules in Florida are f***ed up.",
+    "\nAlright?",
+    "\nThis is a f***ed up ass state.",
+    "\nIt\u2019s a cracker state,\u201d Smith says, explaining that a progressive agenda cannot pass and using a racial slur against white voters.",
+    "\nHe points to specific campaign promises Gillum has made, including raising the corporate tax in Florida, raising teacher pay, and Medicare for All, admitting they are lies.",
+    "\nSo, let\u2019s go back to Mr. Gillum\u2019s platform, right?",
+    "\nRaise the corporate tax in Florida from 7 to 11 percent.",
+    "\nThat will never happen.",
+    "\nRaise teachers\u2019 pay to $50,000; that will never happen.",
+    "\nGive me another position.",
+    "\nMedicare for all; that will never happen.",
+    "\nThe reason being, the legislature that write the bills is all Republican-controlled.",
+    "\nDemocratic governor, Republican legislature.",
+    "\nSo, unless the legislature writes a bill, and it got voted on the floor, it cannot pass.",
+    "\nThe full video shows Smith saying that the strategy to change the Florida legislature is to take \u201cpoor\u201d and \u201cmiddle income\u201d people and \u201cwhip them up into a frenzy in order for them to vote.\u201d\nHe adds that \u201cyou have to appeal to white guilt.\u201d\nSmith defines Gillum\u2019s political beliefs as \u201cpart of the crazy crazy crazies\u201d on the progressive Left.",
+    "\nMore damaging footage includes Democratic operatives explaining Gillum\u2019s positions on gun control and indicating he would support banning AR-15 rifles.",
+    "\nFlorida Democrat Party community engagement specialist Adrian Young also admits on video that Gillum is not campaigning with that position because it would be unpopular with Florida voters.",
+    "\n\u201cI do think he\u2019s not saying specifically like I\u2019m going to ban bump stocks or I\u2019m against ARs, only because he\u2019s running a race right now.",
+    "\nI do think he would support anybody doing that stuff, Bill Nelson.",
+    "\n\u2026 But I don\u2019t think he can say it just [be]cause he\u2019s trying to get the moderates and the gun-toting people in North Florida.\u201d\n\u201cWhat we found in the Gillum campaign was just what we found in Missouri, Tennessee and Arizona, a candidate lying to the voters he needs to win the election,\u201d said Project Veritas Action President James O\u2019Keefe.",
+    "\nThe video evidence confirms that Gillum is lying to Florida voters.",
+    "\nWill there be wall-to-wall coverage in the media eviscerating Gilllum for making promises he can\u2019t keep?",
+    "\nWill Gillum be asked to denounce his campaign staffer using a racial slur to demean white voters in Florida?",
+    "\nWatch the full video:"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 439,
+      "text": "Caught on video: Gillum staffer makes racist statements and admits campaign is lying to voters\n\nCaught on video: Gillum staffer makes racist statements and admits campaign is lying to voters\nIn the latest Project Veritas midterm election sting, staffers working for Florida Democratic candidate for governor Andrew Gillum are caught on camera revealing Gillum\u2019s campaign promises are lies and making racist statements about Florida voters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 439,
+      "end_ix": 616,
+      "text": "\nOmar Smith, a Gillum campaign staffer who went to college with the candidate, says on video that if Gillum is elected, none of the things outlined in his platform would happen.",
+      "new_text": "\nOmar Smith, a Gillum campaign staffer who went to college with the candidate, says on video that if Gillum is elected, none of the things outlined in his platform would happen.",
+      "prop_spans": [
+        [
+          537,
+          616,
+          "Doubt"
+        ],
+        [
+          537,
+          615,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 616,
+      "end_ix": 754,
+      "text": "\nHe says that \u201cthat\u2019s not for [voters] to know.\u201d\n\u201cRemember our saying, modern-day fairy tales start with \u2018once I am elected,'\u201d Smith says.",
+      "new_text": "\nHe says that \u201cthat\u2019s not for [voters] to know.\u201d\n\u201cRemember our saying, modern-day fairy tales start with \u2018once I am elected,'\u201d Smith says.",
+      "prop_spans": [
+        [
+          616,
+          662,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 754,
+      "end_ix": 1130,
+      "text": "\nNEW VERITAS: FL Gov Candidate Staffer Who Went to College with Gillum: \"Not for voters to know\" programs won't happen, \u201cModern day fairy tales start with once I am elected\u201d Florida is a \"F***ed up\" \"cracker state\" FULL REPORT: https://t.co/fjmYBsb30k pic.twitter.com/IIGkqzMfbr \u2014 PVeritas Action (@PVeritas_Action) November 1, 2018\nGILLUM ELECTION STRATEGY: \"You whip 'em up.",
+      "new_text": "\nNEW VERITAS: FL Gov Candidate Staffer Who Went to College with Gillum: \"Not for voters to know\" programs won't happen, \u201cModern day fairy tales start with once I am elected\u201d Florida is a \"F***ed up\" \"cracker state\" FULL REPORT: https://t.co/fjmYBsb30k pic.twitter.com/IIGkqzMfbr \u2014 PVeritas Action (@PVeritas_Action) November 1, 2018\nGILLUM ELECTION STRATEGY: \"You whip 'em up.",
+      "prop_spans": [
+        [
+          827,
+          872,
+          "Doubt"
+        ],
+        [
+          939,
+          967,
+          "Loaded_Language"
+        ],
+        [
+          1114,
+          1130,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1130,
+      "end_ix": 1159,
+      "text": "\nThe poor, the middle income.",
+      "new_text": "\nThe poor, the middle income.",
+      "prop_spans": [
+        [
+          1130,
+          1159,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1159,
+      "end_ix": 1427,
+      "text": "\nYou have to whip them up into a frenzy in order for them to vote\" because Florida is a \"F***ed up,\" \"cracker state,\" \"you have to appeal to white guilt\" pic.twitter.com/d0fd85zLF8 \u2014 James O'Keefe (@JamesOKeefeIII) November 1, 2018\n\u201cThe rules in Florida are f***ed up.",
+      "new_text": "\nYou have to whip them up into a frenzy in order for them to vote\" because Florida is a \"F***ed up,\" \"cracker state,\" \"you have to appeal to white guilt\" pic.twitter.com/d0fd85zLF8 \u2014 James O'Keefe (@JamesOKeefeIII) November 1, 2018\n\u201cThe rules in Florida are f***ed up.",
+      "prop_spans": [
+        [
+          1159,
+          1224,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1245,
+          1274,
+          "Repetition"
+        ],
+        [
+          1245,
+          1274,
+          "Loaded_Language"
+        ],
+        [
+          1287,
+          1311,
+          "Loaded_Language"
+        ],
+        [
+          1392,
+          1426,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1427,
+      "end_ix": 1436,
+      "text": "\nAlright?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1436,
+      "end_ix": 1467,
+      "text": "\nThis is a f***ed up ass state.",
+      "new_text": "\nThis is a f***ed up ass state.",
+      "prop_spans": [
+        [
+          1445,
+          1466,
+          "Repetition"
+        ],
+        [
+          1445,
+          1466,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1467,
+      "end_ix": 1597,
+      "text": "\nIt\u2019s a cracker state,\u201d Smith says, explaining that a progressive agenda cannot pass and using a racial slur against white voters.",
+      "new_text": "\nIt\u2019s a cracker state,\u201d Smith says, explaining that a progressive agenda cannot pass and using a racial slur against white voters.",
+      "prop_spans": [
+        [
+          1473,
+          1488,
+          "Repetition"
+        ],
+        [
+          1473,
+          1488,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1597,
+      "end_ix": 1770,
+      "text": "\nHe points to specific campaign promises Gillum has made, including raising the corporate tax in Florida, raising teacher pay, and Medicare for All, admitting they are lies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1770,
+      "end_ix": 1821,
+      "text": "\nSo, let\u2019s go back to Mr. Gillum\u2019s platform, right?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1821,
+      "end_ix": 1878,
+      "text": "\nRaise the corporate tax in Florida from 7 to 11 percent.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1878,
+      "end_ix": 1902,
+      "text": "\nThat will never happen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1902,
+      "end_ix": 1958,
+      "text": "\nRaise teachers\u2019 pay to $50,000; that will never happen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1958,
+      "end_ix": 1984,
+      "text": "\nGive me another position.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1984,
+      "end_ix": 2026,
+      "text": "\nMedicare for all; that will never happen.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2026,
+      "end_ix": 2111,
+      "text": "\nThe reason being, the legislature that write the bills is all Republican-controlled.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2111,
+      "end_ix": 2156,
+      "text": "\nDemocratic governor, Republican legislature.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2156,
+      "end_ix": 2245,
+      "text": "\nSo, unless the legislature writes a bill, and it got voted on the floor, it cannot pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2245,
+      "end_ix": 2589,
+      "text": "\nThe full video shows Smith saying that the strategy to change the Florida legislature is to take \u201cpoor\u201d and \u201cmiddle income\u201d people and \u201cwhip them up into a frenzy in order for them to vote.\u201d\nHe adds that \u201cyou have to appeal to white guilt.\u201d\nSmith defines Gillum\u2019s political beliefs as \u201cpart of the crazy crazy crazies\u201d on the progressive Left.",
+      "new_text": "\nThe full video shows Smith saying that the strategy to change the Florida legislature is to take \u201cpoor\u201d and \u201cmiddle income\u201d people and \u201cwhip them up into a frenzy in order for them to vote.\u201d\nHe adds that \u201cyou have to appeal to white guilt.\u201d\nSmith defines Gillum\u2019s political beliefs as \u201cpart of the crazy crazy crazies\u201d on the progressive Left.",
+      "prop_spans": [
+        [
+          2460,
+          2484,
+          "Repetition"
+        ],
+        [
+          2460,
+          2484,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2589,
+      "end_ix": 2741,
+      "text": "\nMore damaging footage includes Democratic operatives explaining Gillum\u2019s positions on gun control and indicating he would support banning AR-15 rifles.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2741,
+      "end_ix": 2931,
+      "text": "\nFlorida Democrat Party community engagement specialist Adrian Young also admits on video that Gillum is not campaigning with that position because it would be unpopular with Florida voters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2931,
+      "end_ix": 3070,
+      "text": "\n\u201cI do think he\u2019s not saying specifically like I\u2019m going to ban bump stocks or I\u2019m against ARs, only because he\u2019s running a race right now.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3070,
+      "end_ix": 3137,
+      "text": "\nI do think he would support anybody doing that stuff, Bill Nelson.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3137,
+      "end_ix": 3477,
+      "text": "\n\u2026 But I don\u2019t think he can say it just [be]cause he\u2019s trying to get the moderates and the gun-toting people in North Florida.\u201d\n\u201cWhat we found in the Gillum campaign was just what we found in Missouri, Tennessee and Arizona, a candidate lying to the voters he needs to win the election,\u201d said Project Veritas Action President James O\u2019Keefe.",
+      "new_text": "\n\u2026 But I don\u2019t think he can say it just [be]cause he\u2019s trying to get the moderates and the gun-toting people in North Florida.\u201d\n\u201cWhat we found in the Gillum campaign was just what we found in Missouri, Tennessee and Arizona, a candidate lying to the voters he needs to win the election,\u201d said Project Veritas Action President James O\u2019Keefe.",
+      "prop_spans": [
+        [
+          3140,
+          3262,
+          "Doubt"
+        ],
+        [
+          3224,
+          3246,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3477,
+      "end_ix": 3545,
+      "text": "\nThe video evidence confirms that Gillum is lying to Florida voters.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3545,
+      "end_ix": 3650,
+      "text": "\nWill there be wall-to-wall coverage in the media eviscerating Gilllum for making promises he can\u2019t keep?",
+      "new_text": "\nWill there be coverage in the media denouncing Gilllum for making promises he can\u2019t keep?",
+      "prop_spans": [
+        [
+          3560,
+          3616,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3650,
+      "end_ix": 3759,
+      "text": "\nWill Gillum be asked to denounce his campaign staffer using a racial slur to demean white voters in Florida?",
+      "new_text": "\nWill Gillum be asked to denounce his campaign staffer using a racial insult to demean white voters in Florida?",
+      "prop_spans": [
+        [
+          3713,
+          3725,
+          "Loaded_Language"
+        ],
+        [
+          3735,
+          3748,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3759,
+      "end_ix": 3781,
+      "text": "\nWatch the full video:",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      537,
+      662,
+      "Doubt"
+    ],
+    [
+      537,
+      615,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      827,
+      872,
+      "Doubt"
+    ],
+    [
+      939,
+      967,
+      "Loaded_Language"
+    ],
+    [
+      1114,
+      1224,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1245,
+      1274,
+      "Repetition"
+    ],
+    [
+      1245,
+      1274,
+      "Loaded_Language"
+    ],
+    [
+      1287,
+      1311,
+      "Loaded_Language"
+    ],
+    [
+      1392,
+      1426,
+      "Loaded_Language"
+    ],
+    [
+      1445,
+      1466,
+      "Repetition"
+    ],
+    [
+      1445,
+      1466,
+      "Loaded_Language"
+    ],
+    [
+      1473,
+      1488,
+      "Repetition"
+    ],
+    [
+      1473,
+      1488,
+      "Loaded_Language"
+    ],
+    [
+      2460,
+      2484,
+      "Repetition"
+    ],
+    [
+      2460,
+      2484,
+      "Loaded_Language"
+    ],
+    [
+      3140,
+      3262,
+      "Doubt"
+    ],
+    [
+      3224,
+      3246,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3560,
+      3616,
+      "Loaded_Language"
+    ],
+    [
+      3713,
+      3725,
+      "Loaded_Language"
+    ],
+    [
+      3735,
+      3748,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

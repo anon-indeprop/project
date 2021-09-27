@@ -1,0 +1,310 @@
+{
+  "article_id": "999000878",
+  "sentence offsets in original": [
+    0,
+    149,
+    422,
+    643,
+    837,
+    926,
+    977,
+    1028,
+    1066,
+    1117,
+    1124,
+    1156,
+    1238,
+    1321,
+    1349,
+    1412,
+    1674,
+    1825,
+    1909,
+    1999,
+    2167,
+    2445,
+    2532,
+    2802,
+    2895,
+    2943
+  ],
+  "original sentences": [
+    "Report: Jim Acosta and CNN File Lawsuit Against Trump Administration\n\nCNN is taking the ongoing feud between President Trump and Jim Acosta to court.",
+    "\nAppearing on CNN\u2019s \u201cReliable Sources\u201d this Sunday, ABC\u2019s former White House correspondent Sam Donaldson made the claim that Jim Acosta and CNN had already filed a lawsuit against the Trump administration over the White House\u2019s decision to revoke the reporter\u2019s press pass.",
+    "\nIt appears that CNN is setting the wheels in motion for a lawsuit against the White House for removing the press credentials of Jim Acosta following a tense incident Wednesday during a news conference at the White House.",
+    "\n\u201cI hope I\u2019m not mistaken, but it\u2019s my understanding that CNN and Acosta have sued, that there will be a court hearing on Tuesday on this very matter that we\u2019ve been discussing,\u201d Donaldson said.",
+    "\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nDonaldson claims that he has already been asked to prepare an affidavit to be submitted to court, likely due to Donaldson\u2019s own reputation for confrontation with the White House, including trading personal insults with President George Bush in 2006, RT reports.",
+    "\nDonaldson also said that he had sent Acosta an email which encouraged him to \u2018Keep it up\u201d, and not to worry about the \u201cvicious attacks\u201d and \u201cthreats\u201d.",
+    "\nCNN released a statement saying no decision has been made as of yet on the lawsuit.",
+    "\nThe network has reached out to the White House on the issue but has \u201cgotten no response\u201d.",
+    "\nSunday\u2019s \u201cReliable Sources\u201d also featured constitutional lawyer Floyd Mayweather who emphasized that CNN would have a \u201creally strong lawsuit\u201d if they chose to proceed.",
+    "\nLast Wednesday White House press secretary Sarah Sanders made the announcement that Acosta\u2019s press pass had been suspended as a result of a tussle with a White House intern over a microphone following his sharp back-and-forth with Trump during the President\u2019s post-midterm Q&A.",
+    "\nAcosta has disputed the accusation claiming he never put his hands on the young woman.",
+    "\nWatching the full exchange it is obvious that President Trump was making a sincere effort to answer Acosta\u2019s questions, the president actually took the time to answer three of his questions before rightfully losing his patients when Acosta refused to hand the mic over.",
+    "\nNot only that, he used his hand to forcefully push the female interns arm away from the mic.",
+    "\nAcosta should have been escorted from the room.",
+    "\nHe deserved to have his credentials revoked."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 149,
+      "text": "Report: Jim Acosta and CNN File Lawsuit Against Trump Administration\n\nCNN is taking the ongoing feud between President Trump and Jim Acosta to court.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 149,
+      "end_ix": 422,
+      "text": "\nAppearing on CNN\u2019s \u201cReliable Sources\u201d this Sunday, ABC\u2019s former White House correspondent Sam Donaldson made the claim that Jim Acosta and CNN had already filed a lawsuit against the Trump administration over the White House\u2019s decision to revoke the reporter\u2019s press pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 422,
+      "end_ix": 643,
+      "text": "\nIt appears that CNN is setting the wheels in motion for a lawsuit against the White House for removing the press credentials of Jim Acosta following a tense incident Wednesday during a news conference at the White House.",
+      "new_text": "\nIt appears that CNN is setting the wheels in motion for a lawsuit against the White House for removing the press credentials of Jim Acosta following an incident Wednesday during a news conference at the White House.",
+      "prop_spans": [
+        [
+          574,
+          579,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 643,
+      "end_ix": 837,
+      "text": "\n\u201cI hope I\u2019m not mistaken, but it\u2019s my understanding that CNN and Acosta have sued, that there will be a court hearing on Tuesday on this very matter that we\u2019ve been discussing,\u201d Donaldson said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 837,
+      "end_ix": 926,
+      "text": "\ntake our poll - story continues below\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 926,
+      "end_ix": 977,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 977,
+      "end_ix": 1028,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1028,
+      "end_ix": 1066,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1066,
+      "end_ix": 1117,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1117,
+      "end_ix": 1124,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1124,
+      "end_ix": 1156,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1156,
+      "end_ix": 1238,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1238,
+      "end_ix": 1321,
+      "text": "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1321,
+      "end_ix": 1349,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1349,
+      "end_ix": 1412,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1412,
+      "end_ix": 1674,
+      "text": "\nDonaldson claims that he has already been asked to prepare an affidavit to be submitted to court, likely due to Donaldson\u2019s own reputation for confrontation with the White House, including trading personal insults with President George Bush in 2006, RT reports.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1674,
+      "end_ix": 1825,
+      "text": "\nDonaldson also said that he had sent Acosta an email which encouraged him to \u2018Keep it up\u201d, and not to worry about the \u201cvicious attacks\u201d and \u201cthreats\u201d.",
+      "new_text": "\nDonaldson also said that he had sent Acosta an email which encouraged him to \u2018Keep it up\u201d, and not to worry about the \u201cvicious attacks\u201d and \u201cthreats\u201d.",
+      "prop_spans": [
+        [
+          1793,
+          1810,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1825,
+      "end_ix": 1909,
+      "text": "\nCNN released a statement saying no decision has been made as of yet on the lawsuit.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1909,
+      "end_ix": 1999,
+      "text": "\nThe network has reached out to the White House on the issue but has \u201cgotten no response\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1999,
+      "end_ix": 2167,
+      "text": "\nSunday\u2019s \u201cReliable Sources\u201d also featured constitutional lawyer Floyd Mayweather who emphasized that CNN would have a \u201creally strong lawsuit\u201d if they chose to proceed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2167,
+      "end_ix": 2445,
+      "text": "\nLast Wednesday White House press secretary Sarah Sanders made the announcement that Acosta\u2019s press pass had been suspended as a result of a tussle with a White House intern over a microphone following his sharp back-and-forth with Trump during the President\u2019s post-midterm Q&A.",
+      "new_text": "\nLast Wednesday White House press secretary Sarah Sanders made the announcement that Acosta\u2019s press pass had been suspended as a result of a tussle with a White House intern over a microphone following his prompt back-and-forth with Trump during the President\u2019s post-midterm Q&A.",
+      "prop_spans": [
+        [
+          2373,
+          2378,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2445,
+      "end_ix": 2532,
+      "text": "\nAcosta has disputed the accusation claiming he never put his hands on the young woman.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2532,
+      "end_ix": 2802,
+      "text": "\nWatching the full exchange it is obvious that President Trump was making a sincere effort to answer Acosta\u2019s questions, the president actually took the time to answer three of his questions before rightfully losing his patients when Acosta refused to hand the mic over.",
+      "new_text": "\nWatching the full exchange it is obvious that President Trump was making an effort to answer Acosta\u2019s questions, the president actually took the time to answer three of his questions before losing his patients when Acosta refused to hand the mic over.",
+      "prop_spans": [
+        [
+          2608,
+          2615,
+          "Loaded_Language"
+        ],
+        [
+          2730,
+          2740,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2802,
+      "end_ix": 2895,
+      "text": "\nNot only that, he used his hand to forcefully push the female interns arm away from the mic.",
+      "new_text": "\nNot only that, he used his hand to push the female interns arm away from the mic.",
+      "prop_spans": [
+        [
+          2838,
+          2848,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2895,
+      "end_ix": 2943,
+      "text": "\nAcosta should have been escorted from the room.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2943,
+      "end_ix": 2988,
+      "text": "\nHe deserved to have his credentials revoked.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      574,
+      579,
+      "Loaded_Language"
+    ],
+    [
+      1793,
+      1810,
+      "Loaded_Language"
+    ],
+    [
+      2373,
+      2378,
+      "Loaded_Language"
+    ],
+    [
+      2608,
+      2615,
+      "Loaded_Language"
+    ],
+    [
+      2730,
+      2740,
+      "Loaded_Language"
+    ],
+    [
+      2838,
+      2848,
+      "Loaded_Language"
+    ]
+  ]
+}

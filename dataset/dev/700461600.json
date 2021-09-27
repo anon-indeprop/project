@@ -1,0 +1,693 @@
+{
+  "article_id": "700461600",
+  "sentence offsets in original": [
+    0,
+    28,
+    93,
+    150,
+    313,
+    390,
+    511,
+    641,
+    673,
+    761,
+    846,
+    1021,
+    1188,
+    1373,
+    1420,
+    1546,
+    1612,
+    1746,
+    1785,
+    1822,
+    1987,
+    2078,
+    2156,
+    2351,
+    2399,
+    2497,
+    2609,
+    2725,
+    2788,
+    2912,
+    3072,
+    3256,
+    3388,
+    3517,
+    3634,
+    3685,
+    3780,
+    3853,
+    3916,
+    3962,
+    4081,
+    4208,
+    4427,
+    4442,
+    4571,
+    4621,
+    4656,
+    4710,
+    4819
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nThe Kurds have no friends but the mountains, is an old lament .",
+    "\nLast week, it must have been very much on Kurdish minds.",
+    "\nAs their U.S. allies watched, the Kurdish peshmerga fighters were run out of Kirkuk and all the territory they had captured fighting ISIS alongside the Americans.",
+    "\nThe Iraqi army that ran them out was trained and armed by the United States.",
+    "\nThe U.S. had warned the Kurds against holding the referendum on independence on Sept. 25, which carried with 92 percent.",
+    "\nIran and Turkey had warned against an independent Kurdistan that could be a magnet for Kurdish minorities in their own countries.",
+    "\nBut the Iraqi Kurds went ahead.",
+    "\nNow they have lost Kirkuk and its oil, and their dream of independence is all but dead.",
+    "\nMore troubling for America is the new reality revealed by the rout of the peshmerga.",
+    "\nIraq, which George W. Bush and the neocons were going to fashion into a pro-Western democracy and American ally, appears to be as close to Iran as it is to the United States.",
+    "\nAfter 4,500 U.S. dead, scores of thousands wounded and a trillion dollars sunk, our 15-year war in Iraq could end with a Shiite-dominated Baghdad aligned with Tehran.",
+    "\nWith that grim prospect in mind, Secretary Rex Tillerson said Sunday , \"Iranian militias that are in Iraq, now that the fight against ... ISIS is coming to a close ... need to go home.",
+    "\nAny foreign fighters in Iraq need to go home.\"",
+    "\nTillerson meant Iran's Quds Force in Iraq should go home, and the Shiite militia in Iraq should be conscripted into the army.",
+    "\nBut what if the Baghdad regime of Haider al-Abadi does not agree?",
+    "\nWhat if the Quds Force does not go home to Iran and the Shiite militias that helped retake Kirkuk refuse to enlist in the Iraqi army?",
+    "\nWho then enforces Tillerson's demands?",
+    "\nConsider what is happening in Syria.",
+    "\nThe U.S.-backed Syrian Democratic Forces, largely Kurdish, just annihilated ISIS in Raqqa and drove 60 miles to seize Syria's largest oil field, al-Omar, from ISIS.",
+    "\nThe race is now on between the SDF and Bashar Assad's army to secure the border with Iraq.",
+    "\nBottom line: The U.S. goal of crushing the ISIS caliphate is almost attained.",
+    "\nBut if our victory in the war against ISIS leaves Iran in the catbird seat in Baghdad and Damascus, and its corridor from Tehran to Baghdad, Damascus and Beirut secure, is that really a victory?",
+    "\nDo we accept that outcome, pack up and go home?",
+    "\nOr do we leave our forces in Syria and Iraq and defy any demand from Assad to vacate his country?",
+    "\nSunday's editorial in The Washington Post, \"The Next Mideast Wars,\" raises the crucial questions now before us.",
+    "\nWould President Trump be willing to fight a new war to keep Iran from consolidating its position in Iraq and Syria?",
+    "\nWould the American people support such a war with U.S. troops?",
+    "\nWould Congress, apparently clueless to the presence of 800 U.S. troops in Niger, authorize a new U.S. war in Syria or Iraq?",
+    "\nIf Trump and his generals felt our vital interests could not allow Syria and Iraq to drift into the orbit of Iran, where would we find allies for such a fight?",
+    "\nIf we rely on the Kurds in Syria, we lose NATO ally Turkey, which regards Syria's Kurds as collaborators of the PKK in Turkey, which even the U.S. designates a terrorist organization.",
+    "\nThe decision as to whether this country should engage in new post-ISIS wars in the Mideast, however, may be taken out of our hands.",
+    "\nSaturday, Israel launched new air strikes against gun positions in Syria in retaliation for shells fired into the Golan Heights.",
+    "\nDamascus claims that Israel's \"terrorist\" allies inside Syria fired the shells, to give the IDF an excuse to attack.",
+    "\nWhy would Israel wish to provoke a war with Syria?",
+    "\nBecause the Israelis see the outcome of the six-year Syrian civil war as a strategic disaster.",
+    "\nHezbollah, stronger than ever, was part of Assad's victorious coalition.",
+    "\nIran may have secured its land corridor from Tehran to Beirut.",
+    "\nIts presence in Syria could now be permanent.",
+    "\nAnd only one force in the region has the power to reverse the present outcome of Syria's civil war--the United States.",
+    "\nBibi Netanyahu knows that if war with Syria breaks out, a clamor will arise in Congress to have the U.S. rush to Israel's aid.",
+    "\n\"A failure by the United States to defend its allies or promote new political arrangements for (Syria and Iraq) will lead only to more war, the rise of new terrorist threats, and, ultimately, the necessity of more U.S.",
+    "\nintervention.\"",
+    "\nClosing its Sunday editorial the Post instructed the president:The interventionist Post is saying: The situation is intolerable.",
+    "\nConfront Assad and Iran now, or fight them later.",
+    "\nTrump is being led to the Rubicon.",
+    "\nIf he crosses, he joins Bush II in the history books.",
+    "\nPatrick J. Buchanan needs no introduction to VDARE.COM readers; his books\nand\nare available from Amazon.com.",
+    "\nPatrick J. Buchanan is the author of\nHis latest book, published May 9, is"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 93,
+      "text": "\n\nThe Kurds have no friends but the mountains, is an old lament .",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 93,
+      "end_ix": 150,
+      "text": "\nLast week, it must have been very much on Kurdish minds.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 150,
+      "end_ix": 313,
+      "text": "\nAs their U.S. allies watched, the Kurdish peshmerga fighters were run out of Kirkuk and all the territory they had captured fighting ISIS alongside the Americans.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 313,
+      "end_ix": 390,
+      "text": "\nThe Iraqi army that ran them out was trained and armed by the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 390,
+      "end_ix": 511,
+      "text": "\nThe U.S. had warned the Kurds against holding the referendum on independence on Sept. 25, which carried with 92 percent.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 511,
+      "end_ix": 641,
+      "text": "\nIran and Turkey had warned against an independent Kurdistan that could be a magnet for Kurdish minorities in their own countries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 641,
+      "end_ix": 673,
+      "text": "\nBut the Iraqi Kurds went ahead.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 673,
+      "end_ix": 761,
+      "text": "\nNow they have lost Kirkuk and its oil, and their dream of independence is all but dead.",
+      "new_text": "\nNow they have lost Kirkuk and its oil, and their dream of independence is less likely.",
+      "prop_spans": [
+        [
+          717,
+          761,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 761,
+      "end_ix": 846,
+      "text": "\nMore troubling for America is the new reality revealed by the rout of the peshmerga.",
+      "new_text": "\nMore troubling for America is the new reality revealed by the rout of the peshmerga.",
+      "prop_spans": [
+        [
+          761,
+          761,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 846,
+      "end_ix": 1021,
+      "text": "\nIraq, which George W. Bush and the neocons were going to fashion into a pro-Western democracy and American ally, appears to be as close to Iran as it is to the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1021,
+      "end_ix": 1188,
+      "text": "\nAfter 4,500 U.S. dead, scores of thousands wounded and a trillion dollars sunk, our 15-year war in Iraq could end with a Shiite-dominated Baghdad aligned with Tehran.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1188,
+      "end_ix": 1373,
+      "text": "\nWith that grim prospect in mind, Secretary Rex Tillerson said Sunday , \"Iranian militias that are in Iraq, now that the fight against ... ISIS is coming to a close ... need to go home.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1373,
+      "end_ix": 1420,
+      "text": "\nAny foreign fighters in Iraq need to go home.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1420,
+      "end_ix": 1546,
+      "text": "\nTillerson meant Iran's Quds Force in Iraq should go home, and the Shiite militia in Iraq should be conscripted into the army.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1546,
+      "end_ix": 1612,
+      "text": "\nBut what if the Baghdad regime of Haider al-Abadi does not agree?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1547,
+          1612,
+          "Whataboutism"
+        ],
+        [
+          1551,
+          1562,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1612,
+      "end_ix": 1746,
+      "text": "\nWhat if the Quds Force does not go home to Iran and the Shiite militias that helped retake Kirkuk refuse to enlist in the Iraqi army?",
+      "new_text": "\nBut we have to consider a possibility that the Quds Force does not go home to Iran and the Shiite militias that helped retake Kirkuk refuse to enlist in the Iraqi army",
+      "prop_spans": [
+        [
+          1612,
+          1746,
+          "Whataboutism"
+        ],
+        [
+          1613,
+          1620,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1746,
+      "end_ix": 1785,
+      "text": "\nWho then enforces Tillerson's demands?",
+      "new_text": "\nWho then enforces Tillerson's demands?",
+      "prop_spans": [
+        [
+          1746,
+          1747,
+          "Whataboutism"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1785,
+      "end_ix": 1822,
+      "text": "\nConsider what is happening in Syria.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1822,
+      "end_ix": 1987,
+      "text": "\nThe U.S.-backed Syrian Democratic Forces, largely Kurdish, just annihilated ISIS in Raqqa and drove 60 miles to seize Syria's largest oil field, al-Omar, from ISIS.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1987,
+      "end_ix": 2078,
+      "text": "\nThe race is now on between the SDF and Bashar Assad's army to secure the border with Iraq.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2078,
+      "end_ix": 2156,
+      "text": "\nBottom line: The U.S. goal of crushing the ISIS caliphate is almost attained.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2156,
+      "end_ix": 2351,
+      "text": "\nBut if our victory in the war against ISIS leaves Iran in the catbird seat in Baghdad and Damascus, and its corridor from Tehran to Baghdad, Damascus and Beirut secure, is that really a victory?",
+      "new_text": "\nOur victory in the war against ISIS leaves Iran in the catbird seat in Baghdad and Damascus, and its corridor from Tehran to Baghdad, Damascus and Beirut secure.",
+      "prop_spans": [
+        [
+          2318,
+          2351,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2351,
+      "end_ix": 2399,
+      "text": "\nDo we accept that outcome, pack up and go home?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2351,
+          2351,
+          "Doubt"
+        ],
+        [
+          2352,
+          2399,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2399,
+      "end_ix": 2497,
+      "text": "\nOr do we leave our forces in Syria and Iraq and defy any demand from Assad to vacate his country?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2399,
+          2497,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2400,
+          2497,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2497,
+      "end_ix": 2609,
+      "text": "\nSunday's editorial in The Washington Post, \"The Next Mideast Wars,\" raises the crucial questions now before us.",
+      "new_text": "\nSunday's editorial in The Washington Post, \"The Next Mideast Wars,\" raises the crucial questions now before us.",
+      "prop_spans": [
+        [
+          2497,
+          2498,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          2497,
+          2498,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2609,
+      "end_ix": 2725,
+      "text": "\nWould President Trump be willing to fight a new war to keep Iran from consolidating its position in Iraq and Syria?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2725,
+      "end_ix": 2788,
+      "text": "\nWould the American people support such a war with U.S. troops?",
+      "new_text": "",
+      "prop_spans": [
+        [
+          2726,
+          2788,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2788,
+      "end_ix": 2912,
+      "text": "\nWould Congress, apparently clueless to the presence of 800 U.S. troops in Niger, authorize a new U.S. war in Syria or Iraq?",
+      "new_text": "\nWould Congress, apparently clueless to the presence of 800 U.S. troops in Niger, authorize a new U.S. war in Syria or Iraq?",
+      "prop_spans": [
+        [
+          2788,
+          2789,
+          "Flag-Waving"
+        ],
+        [
+          2805,
+          2869,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2912,
+      "end_ix": 3072,
+      "text": "\nIf Trump and his generals felt our vital interests could not allow Syria and Iraq to drift into the orbit of Iran, where would we find allies for such a fight?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3072,
+      "end_ix": 3256,
+      "text": "\nIf we rely on the Kurds in Syria, we lose NATO ally Turkey, which regards Syria's Kurds as collaborators of the PKK in Turkey, which even the U.S. designates a terrorist organization.",
+      "new_text": "\nIf we rely on the Kurds in Syria, we lose NATO ally Turkey, which regards Syria's Kurds as collaborators of the PKK in Turkey, which even the U.S. designates a terrorist organization.",
+      "prop_spans": [
+        [
+          3073,
+          3132,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          3073,
+          3256,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3256,
+      "end_ix": 3388,
+      "text": "\nThe decision as to whether this country should engage in new post-ISIS wars in the Mideast, however, may be taken out of our hands.",
+      "new_text": "\nThe decision as to whether this country should engage in new post-ISIS wars in the Mideast, however, may be taken out of our hands.",
+      "prop_spans": [
+        [
+          3256,
+          3257,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3388,
+      "end_ix": 3517,
+      "text": "\nSaturday, Israel launched new air strikes against gun positions in Syria in retaliation for shells fired into the Golan Heights.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3517,
+      "end_ix": 3634,
+      "text": "\nDamascus claims that Israel's \"terrorist\" allies inside Syria fired the shells, to give the IDF an excuse to attack.",
+      "new_text": "\nDamascus claims that Israel's \"terrorist\" allies inside Syria fired the shells, to give the IDF an excuse to attack.",
+      "prop_spans": [
+        [
+          3549,
+          3559,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3634,
+      "end_ix": 3685,
+      "text": "\nWhy would Israel wish to provoke a war with Syria?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3685,
+      "end_ix": 3780,
+      "text": "\nBecause the Israelis see the outcome of the six-year Syrian civil war as a strategic disaster.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3780,
+      "end_ix": 3853,
+      "text": "\nHezbollah, stronger than ever, was part of Assad's victorious coalition.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3853,
+      "end_ix": 3916,
+      "text": "\nIran may have secured its land corridor from Tehran to Beirut.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3916,
+      "end_ix": 3962,
+      "text": "\nIts presence in Syria could now be permanent.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3962,
+      "end_ix": 4081,
+      "text": "\nAnd only one force in the region has the power to reverse the present outcome of Syria's civil war--the United States.",
+      "new_text": "\nAnd only one force in the region has the power to reverse the present outcome of Syria's civil war--the United States.",
+      "prop_spans": [
+        [
+          3963,
+          4081,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4081,
+      "end_ix": 4208,
+      "text": "\nBibi Netanyahu knows that if war with Syria breaks out, a clamor will arise in Congress to have the U.S. rush to Israel's aid.",
+      "new_text": "\nBibi Netanyahu knows that if war with Syria breaks out, a clamor will arise in Congress to have the U.S. rush to Israel's aid.",
+      "prop_spans": [
+        [
+          4081,
+          4082,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4208,
+      "end_ix": 4427,
+      "text": "\n\"A failure by the United States to defend its allies or promote new political arrangements for (Syria and Iraq) will lead only to more war, the rise of new terrorist threats, and, ultimately, the necessity of more U.S.",
+      "new_text": "\n\"A failure by the United States to defend its allies or promote new political arrangements for (Syria and Iraq) will lead only to more war, the rise of new terrorist threats, and, ultimately, the necessity of more U.S.",
+      "prop_spans": [
+        [
+          4210,
+          4427,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4427,
+      "end_ix": 4442,
+      "text": "\nintervention.\"",
+      "new_text": "\nintervention.\"",
+      "prop_spans": [
+        [
+          4427,
+          4441,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4442,
+      "end_ix": 4571,
+      "text": "\nClosing its Sunday editorial the Post instructed the president:The interventionist Post is saying: The situation is intolerable.",
+      "new_text": "\nClosing its Sunday editorial the Post instructed the president:The interventionist Post is saying: The situation is intolerable.",
+      "prop_spans": [
+        [
+          4510,
+          4530,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4571,
+      "end_ix": 4621,
+      "text": "\nConfront Assad and Iran now, or fight them later.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4621,
+      "end_ix": 4656,
+      "text": "\nTrump is being led to the Rubicon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4656,
+      "end_ix": 4710,
+      "text": "\nIf he crosses, he joins Bush II in the history books.",
+      "new_text": "\nIf he crosses, he joins Bush II in the history books.",
+      "prop_spans": [
+        [
+          4657,
+          4710,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4710,
+      "end_ix": 4819,
+      "text": "\nPatrick J. Buchanan needs no introduction to VDARE.COM readers; his books\nand\nare available from Amazon.com.",
+      "new_text": "\nPatrick J. Buchanan needs no introduction to VDARE.COM readers; his books\nand\nare available from Amazon.com.",
+      "prop_spans": [
+        [
+          4710,
+          4710,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4819,
+      "end_ix": 4893,
+      "text": "\nPatrick J. Buchanan is the author of\nHis latest book, published May 9, is",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      717,
+      761,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1547,
+      1747,
+      "Whataboutism"
+    ],
+    [
+      1551,
+      1562,
+      "Doubt"
+    ],
+    [
+      1613,
+      1620,
+      "Doubt"
+    ],
+    [
+      2318,
+      2351,
+      "Doubt"
+    ],
+    [
+      2352,
+      2498,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      2400,
+      2498,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2726,
+      2789,
+      "Flag-Waving"
+    ],
+    [
+      2805,
+      2869,
+      "Doubt"
+    ],
+    [
+      3073,
+      3132,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      3073,
+      3257,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3549,
+      3559,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3963,
+      4082,
+      "Flag-Waving"
+    ],
+    [
+      4210,
+      4441,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      4510,
+      4530,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4657,
+      4710,
+      "Reductio_ad_hitlerum"
+    ]
+  ]
+}

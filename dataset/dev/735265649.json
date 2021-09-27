@@ -1,0 +1,241 @@
+{
+  "article_id": "735265649",
+  "sentence offsets in original": [
+    0,
+    276,
+    498,
+    715,
+    834,
+    1038,
+    1094,
+    1384,
+    1537,
+    1695,
+    1819
+  ],
+  "original sentences": [
+    "ICE Arrests Over 150 in Bay Area\n\nImmigrations and Customs Enforcement (ICE) arrested more than 150 illegals in the San Francisco Bay Area this week -- no thanks to the Democrat mayor of Oakland, who tried to warn the constituents of her sanctuary city of impending ICE raids.",
+    "\nFox News reports that \u201ctargeted immigration enforcement operations\u201d resulted in the arrests, about half of which snared fugitives with convictions for assault and battery, crimes against children, weapons charges and DUI.",
+    "\nOne such fugitive is a documented gang member whose \u201caccumulated criminal convictions in California... have resulted in more than 15 years of prison sentencings\u201d and who had previously been removed by ICE four times.",
+    "\nMany of the other arrested illegals had criminal convictions from Mexico and Guatemala throughout Northern California.",
+    "\nThe arrests came despite a press release tweeted by Libby Schaaf, the Democratic mayor of Oakland, which noted that \u201cmultiple credible sources\u201d told her ICE would be conducting the raids in the Bay Area.",
+    "\nThis did not win her any friends among law enforcement.",
+    "\nICE Deputy Director Thomas Homan said in a statement Tuesday,\nThe Oakland mayor\u2019s decision to publicize her suspicions about ICE operations further increased that risk for my officers and alerted criminal aliens \u2014 making clear that this reckless decision was based on her political agenda.",
+    "\nUnlike the politicians who attempt to undermine ICE\u2019s critical mission, our officers will continue to fulfill their sworn duty to protect public safety.",
+    "\nTrue to the left's support for criminality over law and order, Mayor Schaaf declared that she considered it her \"duty\" to warn criminal illegals in her area.",
+    "\nFox News notes that ICE officials are asking the Department of Justice to look into whether she broke any laws by doing so.",
+    "\nICE reports that 864 illegal immigrants with criminal convictions and other public safety threats \"remain at large\" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 276,
+      "text": "ICE Arrests Over 150 in Bay Area\n\nImmigrations and Customs Enforcement (ICE) arrested more than 150 illegals in the San Francisco Bay Area this week -- no thanks to the Democrat mayor of Oakland, who tried to warn the constituents of her sanctuary city of impending ICE raids.",
+      "new_text": "ICE Arrests Over 150 in Bay Area\n\nImmigrations and Customs Enforcement (ICE) arrested more than 150 illegals in the San Francisco Bay Area this week -- no thanks to the mayor of Oakland, who tried to warn the constituents of her sanctuary city of impending ICE raids.",
+      "prop_spans": [
+        [
+          169,
+          177,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 276,
+      "end_ix": 498,
+      "text": "\nFox News reports that \u201ctargeted immigration enforcement operations\u201d resulted in the arrests, about half of which snared fugitives with convictions for assault and battery, crimes against children, weapons charges and DUI.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 498,
+      "end_ix": 715,
+      "text": "\nOne such fugitive is a documented gang member whose \u201caccumulated criminal convictions in California... have resulted in more than 15 years of prison sentencings\u201d and who had previously been removed by ICE four times.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 715,
+      "end_ix": 834,
+      "text": "\nMany of the other arrested illegals had criminal convictions from Mexico and Guatemala throughout Northern California.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 834,
+      "end_ix": 1038,
+      "text": "\nThe arrests came despite a press release tweeted by Libby Schaaf, the Democratic mayor of Oakland, which noted that \u201cmultiple credible sources\u201d told her ICE would be conducting the raids in the Bay Area.",
+      "new_text": "\nThe arrests came despite a press release tweeted by Libby Schaaf, the mayor of Oakland, which noted that \u201cmultiple credible sources\u201d told her ICE would be conducting the raids in the Bay Area.",
+      "prop_spans": [
+        [
+          905,
+          915,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1038,
+      "end_ix": 1094,
+      "text": "\nThis did not win her any friends among law enforcement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1094,
+      "end_ix": 1384,
+      "text": "\nICE Deputy Director Thomas Homan said in a statement Tuesday,\nThe Oakland mayor\u2019s decision to publicize her suspicions about ICE operations further increased that risk for my officers and alerted criminal aliens \u2014 making clear that this reckless decision was based on her political agenda.",
+      "new_text": "\nICE Deputy Director Thomas Homan said in a statement Tuesday,\nThe Oakland mayor\u2019s decision to publicize her suspicions about ICE operations further increased that risk for my officers and alerted criminal aliens \u2014 which might be an indication that this decision was based on her political agenda.",
+      "prop_spans": [
+        [
+          1169,
+          1384,
+          "Appeal_to_Authority"
+        ],
+        [
+          1235,
+          1306,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          1332,
+          1349,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1384,
+      "end_ix": 1537,
+      "text": "\nUnlike the politicians who attempt to undermine ICE\u2019s critical mission, our officers will continue to fulfill their sworn duty to protect public safety.",
+      "new_text": "\nUnlike the politicians who attempt to undermine ICE\u2019s critical mission, the officers will continue to fulfill their duty to protect public safety.",
+      "prop_spans": [
+        [
+          1384,
+          1384,
+          "Appeal_to_Authority"
+        ],
+        [
+          1385,
+          1536,
+          "Appeal_to_Authority"
+        ],
+        [
+          1457,
+          1536,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1537,
+      "end_ix": 1695,
+      "text": "\nTrue to the left's support for criminality over law and order, Mayor Schaaf declared that she considered it her \"duty\" to warn criminal illegals in her area.",
+      "new_text": "Mayor Schaaf declared that she considered it her \"duty\" to warn criminal illegals in her area.",
+      "prop_spans": [
+        [
+          1538,
+          1600,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1695,
+      "end_ix": 1819,
+      "text": "\nFox News notes that ICE officials are asking the Department of Justice to look into whether she broke any laws by doing so.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1819,
+      "end_ix": 2089,
+      "text": "\nICE reports that 864 illegal immigrants with criminal convictions and other public safety threats \"remain at large\" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California.",
+      "new_text": "\nICE reports that 864 illegal immigrants with criminal convictions and other public safety threats \"remain at large\" in the area -- an indeterminate number of whom may have been tipped off by a mayor.",
+      "prop_spans": [
+        [
+          1865,
+          2089,
+          "Appeal_to_Authority"
+        ],
+        [
+          1919,
+          1934,
+          "Loaded_Language"
+        ],
+        [
+          2028,
+          2041,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2028,
+          2040,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      169,
+      177,
+      "Red_Herring"
+    ],
+    [
+      905,
+      915,
+      "Red_Herring"
+    ],
+    [
+      1169,
+      1384,
+      "Appeal_to_Authority"
+    ],
+    [
+      1235,
+      1306,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      1332,
+      1349,
+      "Loaded_Language"
+    ],
+    [
+      1385,
+      1536,
+      "Appeal_to_Authority"
+    ],
+    [
+      1457,
+      1536,
+      "Flag-Waving"
+    ],
+    [
+      1538,
+      1600,
+      "Appeal_to_Authority"
+    ],
+    [
+      1865,
+      2090,
+      "Appeal_to_Authority"
+    ],
+    [
+      1919,
+      1934,
+      "Loaded_Language"
+    ],
+    [
+      2028,
+      2041,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2028,
+      2040,
+      "Loaded_Language"
+    ]
+  ]
+}

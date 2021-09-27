@@ -1,0 +1,93 @@
+{
+  "article_id": "733754480",
+  "sentence offsets in original": [
+    0,
+    235,
+    378,
+    517,
+    700,
+    793
+  ],
+  "original sentences": [
+    "Brazilian arms dealer arrested in the United States\n\nRIO DE JANEIRO \u2014 Brazilian police say the man considered to be the country\u2019s largest arms dealer has been arrested in the United States by Immigration and Customs Enforcement agents.",
+    "\nInspector Fabricio Oliveira of Rio de Janeiro\u2019s police department says Frederik Barbieri was arrested Saturday morning at his home in Florida.",
+    "\nHe did not know the specific location of Barbieri\u2019s house and said that American authorities will provide details on the arrest next week.",
+    "\nOliveira said that police seized 60 AK-47, AR-10 and G3 rifles Barbieri had sent to Rio\u2019s international airport last May to supply drug traffickers operating in Rio de Janeiro slums.",
+    "\nHe also said that the arms trafficking operation had been dismantled with Barbieri\u2019s arrest.",
+    "\nThe Justice Ministry said in a brief statement issued Saturday that Barbieri\u2019s extradition has been requested."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 235,
+      "text": "Brazilian arms dealer arrested in the United States\n\nRIO DE JANEIRO \u2014 Brazilian police say the man considered to be the country\u2019s largest arms dealer has been arrested in the United States by Immigration and Customs Enforcement agents.",
+      "new_text": "Brazilian arms dealer arrested in the United States\n\nRIO DE JANEIRO \u2014 Brazilian police say the man allegedly considered to be a very larg arms dealer has been arrested in the United States by Immigration and Customs Enforcement agents.",
+      "prop_spans": [
+        [
+          91,
+          149,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 235,
+      "end_ix": 378,
+      "text": "\nInspector Fabricio Oliveira of Rio de Janeiro\u2019s police department says Frederik Barbieri was arrested Saturday morning at his home in Florida.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 378,
+      "end_ix": 517,
+      "text": "\nHe did not know the specific location of Barbieri\u2019s house and said that American authorities will provide details on the arrest next week.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 517,
+      "end_ix": 700,
+      "text": "\nOliveira said that police seized 60 AK-47, AR-10 and G3 rifles Barbieri had sent to Rio\u2019s international airport last May to supply drug traffickers operating in Rio de Janeiro slums.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 700,
+      "end_ix": 793,
+      "text": "\nHe also said that the arms trafficking operation had been dismantled with Barbieri\u2019s arrest.",
+      "new_text": "\nHe also said that the arms trafficking operation may had been dismantled with Barbieri\u2019s arrest.",
+      "prop_spans": [
+        [
+          719,
+          793,
+          "Appeal_to_Authority"
+        ]
+      ]
+    },
+    {
+      "start_ix": 793,
+      "end_ix": 904,
+      "text": "\nThe Justice Ministry said in a brief statement issued Saturday that Barbieri\u2019s extradition has been requested.",
+      "new_text": "\nThe Justice Ministry said in a brief statement issued Saturday that Barbieri\u2019s extradition has been requested.",
+      "prop_spans": [
+        [
+          793,
+          794,
+          "Appeal_to_Authority"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      91,
+      149,
+      "Appeal_to_Authority"
+    ],
+    [
+      719,
+      794,
+      "Appeal_to_Authority"
+    ]
+  ]
+}

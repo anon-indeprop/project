@@ -1,0 +1,118 @@
+{
+  "article_id": "730081389",
+  "sentence offsets in original": [
+    0,
+    311,
+    485,
+    651,
+    802,
+    866,
+    965,
+    999,
+    1169,
+    1365,
+    1471,
+    1707
+  ],
+  "original sentences": [
+    "Police had previously gone to home where Ohio patrol officers were killed\n\nCLEVELAND \u2014 Police invstigating domestic disputes had previously gone to the home where a man fatally shot two police officers over the weekend, but no arrests were ever made, police reports from the Columbus suburb of Westerville show.",
+    "\nWesterville Officers Eric Joering, 39, and Anthony Morelli, 54, were killed shortly after noon Saturday in this normally quiet suburb while responding to a 911 hang-up call.",
+    "\nThe suspect, 30-year-old Quentin Smith, was shot and wounded by the officers and taken to Ohio State University Wexner Medical Center in critical condition Saturday.",
+    "\nAdvertisement\nA series of 911 calls released by the city of Westerville provide some details about what happened Saturday at a complex of town houses.",
+    "\nSmith lived there with his wife, Candace, and a young daughter.",
+    "\nGet Ground Game in your inbox: Daily updates and analysis on national politics from James Pindell.",
+    "\nSign Up Thank you for signing up!",
+    "\nSign up for more newsletters here\nWesterville Police Chief Joe Morbitzer said at a news conference Saturday that Joering and Morelli were shot immediately upon entering.",
+    "\nAfter the initial hang-up call at noon, a dispatcher called the number back and reached a woman who was crying and could be heard saying, \u2018\u2018won\u2019t let me in.\u2019\u2019\nOfficers were then sent to the home.",
+    "\nAt 12:12 p.m., an officer tells a dispatcher that it\u2019s \u2018\u2018all quiet right now,\u2019\u2019 followed by a door knock.",
+    "\nAt 12:13 p.m., after a dispatcher confirmed contact has been made, a man\u2019s voice could be heard yelling, \u2018\u2018We have shots fired.\u2019\u2019\nFour minutes later, someone, presumably a police officer, told a dispatcher: \u2018\u2018We have two officers down.",
+    "\nChild on couch, one at gunpoint.\u2019\u2019\nAdvertisement\nASSOCIATED PRESS"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 311,
+      "text": "Police had previously gone to home where Ohio patrol officers were killed\n\nCLEVELAND \u2014 Police invstigating domestic disputes had previously gone to the home where a man fatally shot two police officers over the weekend, but no arrests were ever made, police reports from the Columbus suburb of Westerville show.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 311,
+      "end_ix": 485,
+      "text": "\nWesterville Officers Eric Joering, 39, and Anthony Morelli, 54, were killed shortly after noon Saturday in this normally quiet suburb while responding to a 911 hang-up call.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 485,
+      "end_ix": 651,
+      "text": "\nThe suspect, 30-year-old Quentin Smith, was shot and wounded by the officers and taken to Ohio State University Wexner Medical Center in critical condition Saturday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 651,
+      "end_ix": 802,
+      "text": "\nAdvertisement\nA series of 911 calls released by the city of Westerville provide some details about what happened Saturday at a complex of town houses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 802,
+      "end_ix": 866,
+      "text": "\nSmith lived there with his wife, Candace, and a young daughter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 866,
+      "end_ix": 965,
+      "text": "\nGet Ground Game in your inbox: Daily updates and analysis on national politics from James Pindell.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 965,
+      "end_ix": 999,
+      "text": "\nSign Up Thank you for signing up!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 999,
+      "end_ix": 1169,
+      "text": "\nSign up for more newsletters here\nWesterville Police Chief Joe Morbitzer said at a news conference Saturday that Joering and Morelli were shot immediately upon entering.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1169,
+      "end_ix": 1365,
+      "text": "\nAfter the initial hang-up call at noon, a dispatcher called the number back and reached a woman who was crying and could be heard saying, \u2018\u2018won\u2019t let me in.\u2019\u2019\nOfficers were then sent to the home.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1365,
+      "end_ix": 1471,
+      "text": "\nAt 12:12 p.m., an officer tells a dispatcher that it\u2019s \u2018\u2018all quiet right now,\u2019\u2019 followed by a door knock.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1471,
+      "end_ix": 1707,
+      "text": "\nAt 12:13 p.m., after a dispatcher confirmed contact has been made, a man\u2019s voice could be heard yelling, \u2018\u2018We have shots fired.\u2019\u2019\nFour minutes later, someone, presumably a police officer, told a dispatcher: \u2018\u2018We have two officers down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1707,
+      "end_ix": 1773,
+      "text": "\nChild on couch, one at gunpoint.\u2019\u2019\nAdvertisement\nASSOCIATED PRESS",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

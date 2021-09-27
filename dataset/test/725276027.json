@@ -1,0 +1,483 @@
+{
+  "article_id": "725276027",
+  "sentence offsets in original": [
+    0,
+    28,
+    175,
+    396,
+    544,
+    639,
+    764,
+    935,
+    1036,
+    1295,
+    1770,
+    2020,
+    2269,
+    2471,
+    2613,
+    2707,
+    2807,
+    2942,
+    3174,
+    3314,
+    3371,
+    3624,
+    4017,
+    4182,
+    4316,
+    4806,
+    5142,
+    5478,
+    5631,
+    5706,
+    5823
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nKritarch Patti Saris, who thinks it is the job of District Court judges to micromanage the deportation system of the United States, got her wish.",
+    "\nOne of the Indonesian illegal aliens benefiting from her little amnesty took the hint and used the opportunity that Saris created to flee from arrest and deportation, absconding to a sanctuary church to hide from arrest.",
+    "\nKritarch Patti Saris\nSaris like many other Federal judges does not like our current immigration system and wants another system more to her liking.",
+    "\nOne of those likings is an unlimited number of hearings as to previously denied asylum claims.",
+    "\nCarrying his 3-year-old daughter in his arms, Yohanes Tasik scoped out the church classroom he indefinitely would call home.",
+    "\nThe Indonesian Christian, facing mounting pressure to report to Immigration and Customs Enforcement, took refuge Friday night inside the Reformed Church of Highland Park.",
+    "\nHe is the third Indonesian Christian who claimed sanctuary within the church in fear of deportation.",
+    "\n[Indonesian Immigrant Finds Sanctuary In N.J. Church, by Steph Solis, USA Today, January 16, 2018]\nSaris should know that when the appeal of her decision that the Indonesian illegal aliens gets reviewed by the Supreme Court, her decision will be struck down.",
+    "\nSo she seem to have acted to encourage the illegal aliens in the case she is managing to see the writing on the wall, and use her order prohibiting their arrest and deportation to flee the authorities.Even the illegal aliens know that minor kritarchs have no authority over deportations, especially those that have been fully adjudicated and any claim of asylum found to be without any basis so they are taking up other options to fight deportation, like fleeing and hiding.",
+    "\nA federal judge on Wednesday signaled she may extend an order preventing the deportation of roughly 50 Indonesian Christians living illegally in New Hampshire, a process that immigration officials began after U.S. President Donald Trump took office.",
+    "\nU.S. District Judge Patti Saris in Boston expressed concern the Indonesians could be deported before their administrative appeals were finished, given their claims they could face religious persecution in the world\u2019s largest majority-Muslim nation.",
+    "\n[U.S. Judge May Extend Freeze On Indonesian Immigrants' Deportation, by Nate Raymond, Reuters, January 17, 2018]\nFederal officials contend they have always had the authority to deport them at any time.",
+    "\n\u201cThere\u2019s no legal basis for them to ask for more time,\u201d Vinita Andrapalliyal, a U.S. Justice Department lawyer, argued in court on Wednesday.",
+    "\nFederal law gives authority over immigration matters to the executive branch, not the courts.",
+    "\nOver the Justice Department\u2019s objections, Saris last year ruled she had jurisdiction over the case.",
+    "\nShe entered a temporary order blocking the Indonesians\u2019 deportation until she could decide whether to impose a preliminary injunction.",
+    "\nRonaldo Rauseo-Ricupero, a lawyer for the Indonesians, argued they should have 90 days to move to reopen their cases after receiving copies of their administrative case files and time to appeal any decision rejecting those motions.",
+    "\n\u201cWe don\u2019t want to put them on a ship back unless someone has had chance to look at if there\u2019s a really bad situation for them,\u201d Saris said.",
+    "\n\u201cThat\u2019s my concern.\u201d\nAnd Kritarch Saris has not stopped.",
+    "\nShe is moving forward with more orders to halt deportation of illegal aliens.Kritarch Saris just does not accept that the immigration courts found no basis for their claim of persecution, and there is no evidence that they would face persecution today.",
+    "\nShe and other kritarchs have acted outside the law, something that the reporter surprisingly puts in the story.And the Treason Bar attorney demanded that Kritarch Saris create a whole new second immigration appeals system of unlimited delay for these illegal aliens.Kritarch Saris thinks that her feelings about a deportation are the same as the law.Well, that is not Kritarch Saris' concern.",
+    "\nThe concern over persecution overseas is reviewed by the Executive Branch, and that decision was entered--there is no \"bad situation\" for her to be concerned about.",
+    "\nAnd Saris is not the only kritarch that thinks they run immigration policy--Mark Goldsmith thinks he runs immigration policy as well.",
+    "\nA federal judge in Michigan has ordered the government to give bond hearings in preparation for releasing hundreds of illegal immigrants from Iraq into the community, saying the Constitution protects them from indefinite detention in the U.S. U.S. District Judge Mark A Goldsmith, an Obama appointee, earlier had halted deportations for nearly 300 Iraqis, saying that although they had long been ordered removed, conditions on the ground in Iraq had changed and they deserved new hearings.",
+    "\nHis latest ruling Tuesday evening goes further, certifying some of the Iraqis as a class-action lawsuit and saying most of them should be \u201callowed to return to their productive lives\u201d while they wait for new hearings \u2014 meaning they must be released from detention unless the government can prove they are a major risk to public safety.",
+    "\n[Judge Orders Potential Release Of Hundreds Of Illegals From Iraq, by Stephen Dinan, Washington Times, January 3, 2018]\nHe is ordering the release of hundreds of Iraqi illegal aliens and criminal aliens, all because he wants them to have another bite at the apple--they, like the Indonesians, lost claims to political asylum years ago.",
+    "\nKritarch Mark Goldsmith\nBoth these kritarchs are part of illegal and unconstitutional #Resistance to the lawful immigration policies of President Trump.",
+    "\nIllegal aliens get only one hearing and one set of appeals to deportation.",
+    "\nThey don't get another new and illegal set of hearings and appeals just because some minor kritarch wants something.",
+    "\nTime for Congress to end this by prohibiting review of immigration and deportation decisions."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 175,
+      "text": "\n\nKritarch Patti Saris, who thinks it is the job of District Court judges to micromanage the deportation system of the United States, got her wish.",
+      "new_text": "\n\nKritarch Patti Saris, got her wish.",
+      "prop_spans": [
+        [
+          52,
+          161,
+          "Causal_Oversimplification"
+        ],
+        [
+          162,
+          174,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 175,
+      "end_ix": 396,
+      "text": "\nOne of the Indonesian illegal aliens benefiting from her little amnesty took the hint and used the opportunity that Saris created to flee from arrest and deportation, absconding to a sanctuary church to hide from arrest.",
+      "new_text": "\nOne of the Indonesian immigrants benefiting from her amnesty took the hint and used the opportunity that Saris created to flee from arrest and deportation, absconding to a sanctuary church to hide from arrest.",
+      "prop_spans": [
+        [
+          198,
+          213,
+          "Loaded_Language"
+        ],
+        [
+          229,
+          247,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 396,
+      "end_ix": 544,
+      "text": "\nKritarch Patti Saris\nSaris like many other Federal judges does not like our current immigration system and wants another system more to her liking.",
+      "new_text": "\nKritarch Patti Saris\nSaris does not like our current immigration system and wants another system more to her liking.",
+      "prop_spans": [
+        [
+          418,
+          499,
+          "Bandwagon"
+        ],
+        [
+          530,
+          544,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ]
+      ]
+    },
+    {
+      "start_ix": 544,
+      "end_ix": 639,
+      "text": "\nOne of those likings is an unlimited number of hearings as to previously denied asylum claims.",
+      "new_text": "\nOne of those likings is an unlimited number of hearings as to previously denied asylum claims.",
+      "prop_spans": [
+        [
+          544,
+          544,
+          "Obfuscation,Intentional_Vagueness,Confusion"
+        ]
+      ]
+    },
+    {
+      "start_ix": 639,
+      "end_ix": 764,
+      "text": "\nCarrying his 3-year-old daughter in his arms, Yohanes Tasik scoped out the church classroom he indefinitely would call home.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 764,
+      "end_ix": 935,
+      "text": "\nThe Indonesian Christian, facing mounting pressure to report to Immigration and Customs Enforcement, took refuge Friday night inside the Reformed Church of Highland Park.",
+      "new_text": "\nThe Indonesian Christian, facing mounting pressure to report to Immigration and Customs Enforcement, took refuge Friday night inside the Reformed Church of Highland Park.",
+      "prop_spans": [
+        [
+          765,
+          790,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 935,
+      "end_ix": 1036,
+      "text": "\nHe is the third Indonesian Christian who claimed sanctuary within the church in fear of deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1036,
+      "end_ix": 1295,
+      "text": "\n[Indonesian Immigrant Finds Sanctuary In N.J. Church, by Steph Solis, USA Today, January 16, 2018]\nSaris should know that when the appeal of her decision that the Indonesian illegal aliens gets reviewed by the Supreme Court, her decision will be struck down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1295,
+      "end_ix": 1770,
+      "text": "\nSo she seem to have acted to encourage the illegal aliens in the case she is managing to see the writing on the wall, and use her order prohibiting their arrest and deportation to flee the authorities.Even the illegal aliens know that minor kritarchs have no authority over deportations, especially those that have been fully adjudicated and any claim of asylum found to be without any basis so they are taking up other options to fight deportation, like fleeing and hiding.",
+      "new_text": "\nSo she seem to have acted to encourage the immigrants in the case she is managing to see the writing on the wall, and use her order prohibiting their arrest and deportation to flee the authorities.Even the immigrants know that minor kritarchs have no authority over deportations, especially those that have been fully adjudicated and any claim of asylum found to be without any basis so they are taking up other options to fight deportation, like fleeing and hiding.",
+      "prop_spans": [
+        [
+          1339,
+          1354,
+          "Repetition"
+        ],
+        [
+          1506,
+          1521,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1770,
+      "end_ix": 2020,
+      "text": "\nA federal judge on Wednesday signaled she may extend an order preventing the deportation of roughly 50 Indonesian Christians living illegally in New Hampshire, a process that immigration officials began after U.S. President Donald Trump took office.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2020,
+      "end_ix": 2269,
+      "text": "\nU.S. District Judge Patti Saris in Boston expressed concern the Indonesians could be deported before their administrative appeals were finished, given their claims they could face religious persecution in the world\u2019s largest majority-Muslim nation.",
+      "new_text": "\nU.S. District Judge Patti Saris in Boston expressed concern the Indonesians could be deported before their administrative appeals were finished, given their claims they could face religious persecution in the world\u2019s largest majority-Muslim nation.",
+      "prop_spans": [
+        [
+          2063,
+          2269,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2269,
+      "end_ix": 2471,
+      "text": "\n[U.S. Judge May Extend Freeze On Indonesian Immigrants' Deportation, by Nate Raymond, Reuters, January 17, 2018]\nFederal officials contend they have always had the authority to deport them at any time.",
+      "new_text": "\n[U.S. Judge May Extend Freeze On Indonesian Immigrants' Deportation, by Nate Raymond, Reuters, January 17, 2018]\nFederal officials contend they have always had the authority to deport them at any time.",
+      "prop_spans": [
+        [
+          2269,
+          2269,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2471,
+      "end_ix": 2613,
+      "text": "\n\u201cThere\u2019s no legal basis for them to ask for more time,\u201d Vinita Andrapalliyal, a U.S. Justice Department lawyer, argued in court on Wednesday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2613,
+      "end_ix": 2707,
+      "text": "\nFederal law gives authority over immigration matters to the executive branch, not the courts.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2707,
+      "end_ix": 2807,
+      "text": "\nOver the Justice Department\u2019s objections, Saris last year ruled she had jurisdiction over the case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2807,
+      "end_ix": 2942,
+      "text": "\nShe entered a temporary order blocking the Indonesians\u2019 deportation until she could decide whether to impose a preliminary injunction.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2942,
+      "end_ix": 3174,
+      "text": "\nRonaldo Rauseo-Ricupero, a lawyer for the Indonesians, argued they should have 90 days to move to reopen their cases after receiving copies of their administrative case files and time to appeal any decision rejecting those motions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3174,
+      "end_ix": 3314,
+      "text": "\n\u201cWe don\u2019t want to put them on a ship back unless someone has had chance to look at if there\u2019s a really bad situation for them,\u201d Saris said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3314,
+      "end_ix": 3371,
+      "text": "\n\u201cThat\u2019s my concern.\u201d\nAnd Kritarch Saris has not stopped.",
+      "new_text": "\n\u201cThat\u2019s my concern.\u201d\nAnd Kritarch Saris has not stopped.",
+      "prop_spans": [
+        [
+          3316,
+          3333,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3371,
+      "end_ix": 3624,
+      "text": "\nShe is moving forward with more orders to halt deportation of illegal aliens.Kritarch Saris just does not accept that the immigration courts found no basis for their claim of persecution, and there is no evidence that they would face persecution today.",
+      "new_text": "\nShe is moving forward with more orders to halt deportation of immigrants.Kritarch Saris just does not accept that the immigration courts found no basis for their claim of persecution, and there is no evidence that they would face persecution today.",
+      "prop_spans": [
+        [
+          3434,
+          3448,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3624,
+      "end_ix": 4017,
+      "text": "\nShe and other kritarchs have acted outside the law, something that the reporter surprisingly puts in the story.And the Treason Bar attorney demanded that Kritarch Saris create a whole new second immigration appeals system of unlimited delay for these illegal aliens.Kritarch Saris thinks that her feelings about a deportation are the same as the law.Well, that is not Kritarch Saris' concern.",
+      "new_text": "\nShe and other kritarchs have acted outside the law, something that the reporter surprisingly puts in the story.And the Treason Bar attorney demanded that Kritarch Saris create a whole new second immigration appeals system of unlimited delay for these immigrants.Kritarch Saris thinks that her feelings about a deportation are the same as the law.Well, that is not Kritarch Saris' concern.",
+      "prop_spans": [
+        [
+          3876,
+          3890,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4017,
+      "end_ix": 4182,
+      "text": "\nThe concern over persecution overseas is reviewed by the Executive Branch, and that decision was entered--there is no \"bad situation\" for her to be concerned about.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4182,
+      "end_ix": 4316,
+      "text": "\nAnd Saris is not the only kritarch that thinks they run immigration policy--Mark Goldsmith thinks he runs immigration policy as well.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4316,
+      "end_ix": 4806,
+      "text": "\nA federal judge in Michigan has ordered the government to give bond hearings in preparation for releasing hundreds of illegal immigrants from Iraq into the community, saying the Constitution protects them from indefinite detention in the U.S. U.S. District Judge Mark A Goldsmith, an Obama appointee, earlier had halted deportations for nearly 300 Iraqis, saying that although they had long been ordered removed, conditions on the ground in Iraq had changed and they deserved new hearings.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4806,
+      "end_ix": 5142,
+      "text": "\nHis latest ruling Tuesday evening goes further, certifying some of the Iraqis as a class-action lawsuit and saying most of them should be \u201callowed to return to their productive lives\u201d while they wait for new hearings \u2014 meaning they must be released from detention unless the government can prove they are a major risk to public safety.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5142,
+      "end_ix": 5478,
+      "text": "\n[Judge Orders Potential Release Of Hundreds Of Illegals From Iraq, by Stephen Dinan, Washington Times, January 3, 2018]\nHe is ordering the release of hundreds of Iraqi illegal aliens and criminal aliens, all because he wants them to have another bite at the apple--they, like the Indonesians, lost claims to political asylum years ago.",
+      "new_text": "\n[Judge Orders Potential Release Of Hundreds Of Illegals From Iraq, by Stephen Dinan, Washington Times, January 3, 2018]\nHe is ordering the release of hundreds of Iraqi immigrants and criminal aliens, all because he wants them to have another bite at the apple--they, like the Indonesians, lost claims to political asylum years ago.",
+      "prop_spans": [
+        [
+          5311,
+          5326,
+          "Repetition"
+        ],
+        [
+          5381,
+          5406,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5478,
+      "end_ix": 5631,
+      "text": "\nKritarch Mark Goldsmith\nBoth these kritarchs are part of illegal and unconstitutional #Resistance to the lawful immigration policies of President Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5631,
+      "end_ix": 5706,
+      "text": "\nIllegal aliens get only one hearing and one set of appeals to deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5706,
+      "end_ix": 5823,
+      "text": "\nThey don't get another new and illegal set of hearings and appeals just because some minor kritarch wants something.",
+      "new_text": "\nThey don't get another new and illegal set of hearings and appeals just because some minor kritarch wants something.",
+      "prop_spans": [
+        [
+          5787,
+          5806,
+          "Loaded_Language"
+        ],
+        [
+          5792,
+          5807,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5823,
+      "end_ix": 5917,
+      "text": "\nTime for Congress to end this by prohibiting review of immigration and deportation decisions.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      52,
+      161,
+      "Causal_Oversimplification"
+    ],
+    [
+      162,
+      174,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      198,
+      213,
+      "Loaded_Language"
+    ],
+    [
+      229,
+      247,
+      "Loaded_Language"
+    ],
+    [
+      418,
+      499,
+      "Bandwagon"
+    ],
+    [
+      530,
+      544,
+      "Obfuscation,Intentional_Vagueness,Confusion"
+    ],
+    [
+      765,
+      790,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1339,
+      1354,
+      "Repetition"
+    ],
+    [
+      1506,
+      1521,
+      "Repetition"
+    ],
+    [
+      2063,
+      2269,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      3316,
+      3333,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      3434,
+      3448,
+      "Repetition"
+    ],
+    [
+      3876,
+      3890,
+      "Repetition"
+    ],
+    [
+      5311,
+      5326,
+      "Repetition"
+    ],
+    [
+      5381,
+      5406,
+      "Loaded_Language"
+    ],
+    [
+      5787,
+      5806,
+      "Loaded_Language"
+    ],
+    [
+      5792,
+      5807,
+      "Name_Calling,Labeling"
+    ]
+  ]
+}

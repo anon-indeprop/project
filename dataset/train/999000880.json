@@ -1,0 +1,258 @@
+{
+  "article_id": "999000880",
+  "sentence offsets in original": [
+    0,
+    241,
+    407,
+    505,
+    576,
+    761,
+    1011,
+    1150,
+    1220,
+    1309,
+    1360,
+    1411,
+    1449,
+    1500,
+    1507,
+    1539,
+    1624,
+    1707,
+    1735,
+    1798,
+    2021,
+    2152,
+    2688,
+    2885,
+    3112
+  ],
+  "original sentences": [
+    "They Are Coming: Migrant Caravan Resumes March to US Border (Video)\n\nThousands of migrants are making their way to the US border where they will be met with barbed wire and American forces blocking their illegal entry into the United States.",
+    "\n665 SHARES Facebook Twitter\nThe migrant caravan has resumed their march through Mexico towards the U.S. border that is being reinforced by the Army and Marine Corps.",
+    "\nPresident Trump has effectively suspended the granting of asylum to migrants who cross illegally.",
+    "\nTrump signed the order on Friday, and it went into effect on Saturday.",
+    "\nThe order means that migrants will have to present themselves at U.S. ports of entry to qualify for asylum and follow other rules unveiled on Thursday that seek to limit asylum claims.",
+    "\nAfter spending almost a week in Mexico City, where many refused to accept asylum from Mexico, the caravan, made up mostly of male Hondurans, but also nationals of other Central American countries, is now on the move towards the United States border.",
+    "\nA Ruptly video shows hundreds of people getting on trains in Mexico subway, and boarding heavy trucks or buses somewhere outside the city.",
+    "\nOthers are seen using cars to continue their trek towards the border.",
+    "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nRT reports: To get there, migrants will have to travel some 1,700 miles (2,735km) to the northwest, a much longer route than to the nearest US border crossing at McAllen, Texas, which many consider to be the safest option.",
+    "\nMeanwhile on the other side of the US border, efforts are being made to reinforce it and make it less penetrable from the outside.",
+    "\nThe US has deployed 5,200 troops to help border protection thwart what Donald Trump has described as an impending migrant \u201cinvasion.\u201d Troops setting up barb wire under the Hidalgo Reynosa bridge #RGV -Miltares colocan cerca al\u00e1mbrica en la frontera #Texas #Telemundo40 vid @AntonioNewsT40 pic.twitter.com/8cr3XfH2T6 \u2014 Iris Rodriguez (@IrisNews) November 2, 2018 For now, the active-duty servicemen have mainly been erecting barbed-wire fences along the border and building shelter accommodation for customs and border protection staff.",
+    "\nIn addition to sheer numbers, the US forces will have drones, helicopters with night-vision capabilities, and fixed-wing aircraft at their disposal to ensure the success of the military operation.",
+    "\n\ufeff As the caravan approaches the US border, President Donald Trump has signed an immigration decree requiring asylum seekers to apply at their point of entry to the country and barring illegal immigrants from requesting asylum.",
+    "\n\u201cWe need people in our country but they have to come in legally and they have to have merit,\u201d Trump told reporters before departing for Paris."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 241,
+      "text": "They Are Coming: Migrant Caravan Resumes March to US Border (Video)\n\nThousands of migrants are making their way to the US border where they will be met with barbed wire and American forces blocking their illegal entry into the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 241,
+      "end_ix": 407,
+      "text": "\n665 SHARES Facebook Twitter\nThe migrant caravan has resumed their march through Mexico towards the U.S. border that is being reinforced by the Army and Marine Corps.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 407,
+      "end_ix": 505,
+      "text": "\nPresident Trump has effectively suspended the granting of asylum to migrants who cross illegally.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 505,
+      "end_ix": 576,
+      "text": "\nTrump signed the order on Friday, and it went into effect on Saturday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 576,
+      "end_ix": 761,
+      "text": "\nThe order means that migrants will have to present themselves at U.S. ports of entry to qualify for asylum and follow other rules unveiled on Thursday that seek to limit asylum claims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 761,
+      "end_ix": 1011,
+      "text": "\nAfter spending almost a week in Mexico City, where many refused to accept asylum from Mexico, the caravan, made up mostly of male Hondurans, but also nationals of other Central American countries, is now on the move towards the United States border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1011,
+      "end_ix": 1150,
+      "text": "\nA Ruptly video shows hundreds of people getting on trains in Mexico subway, and boarding heavy trucks or buses somewhere outside the city.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1150,
+      "end_ix": 1220,
+      "text": "\nOthers are seen using cars to continue their trek towards the border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1220,
+      "end_ix": 1309,
+      "text": "\ntake our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1309,
+      "end_ix": 1360,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1360,
+      "end_ix": 1411,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1411,
+      "end_ix": 1449,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1449,
+      "end_ix": 1500,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1500,
+      "end_ix": 1507,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1507,
+      "end_ix": 1539,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1539,
+      "end_ix": 1624,
+      "text": "\nEmail *\nComments This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1624,
+      "end_ix": 1707,
+      "text": "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1707,
+      "end_ix": 1735,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1735,
+      "end_ix": 1798,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1798,
+      "end_ix": 2021,
+      "text": "\nRT reports: To get there, migrants will have to travel some 1,700 miles (2,735km) to the northwest, a much longer route than to the nearest US border crossing at McAllen, Texas, which many consider to be the safest option.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2021,
+      "end_ix": 2152,
+      "text": "\nMeanwhile on the other side of the US border, efforts are being made to reinforce it and make it less penetrable from the outside.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2152,
+      "end_ix": 2688,
+      "text": "\nThe US has deployed 5,200 troops to help border protection thwart what Donald Trump has described as an impending migrant \u201cinvasion.\u201d Troops setting up barb wire under the Hidalgo Reynosa bridge #RGV -Miltares colocan cerca al\u00e1mbrica en la frontera #Texas #Telemundo40 vid @AntonioNewsT40 pic.twitter.com/8cr3XfH2T6 \u2014 Iris Rodriguez (@IrisNews) November 2, 2018 For now, the active-duty servicemen have mainly been erecting barbed-wire fences along the border and building shelter accommodation for customs and border protection staff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2688,
+      "end_ix": 2885,
+      "text": "\nIn addition to sheer numbers, the US forces will have drones, helicopters with night-vision capabilities, and fixed-wing aircraft at their disposal to ensure the success of the military operation.",
+      "new_text": "\nIn addition to large numbers, the US forces will have drones, helicopters with night-vision capabilities, and fixed-wing aircraft at their disposal to ensure the success of the military operation.",
+      "prop_spans": [
+        [
+          2704,
+          2710,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2885,
+      "end_ix": 3112,
+      "text": "\n\ufeff As the caravan approaches the US border, President Donald Trump has signed an immigration decree requiring asylum seekers to apply at their point of entry to the country and barring illegal immigrants from requesting asylum.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3112,
+      "end_ix": 3255,
+      "text": "\n\u201cWe need people in our country but they have to come in legally and they have to have merit,\u201d Trump told reporters before departing for Paris.",
+      "new_text": "\n\u201cWe need people in our country but they have to come in legally and they have to have merit,\u201d Trump told reporters before departing for Paris.",
+      "prop_spans": [
+        [
+          3114,
+          3143,
+          "Flag-Waving"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      2704,
+      2710,
+      "Loaded_Language"
+    ],
+    [
+      3114,
+      3143,
+      "Flag-Waving"
+    ]
+  ]
+}

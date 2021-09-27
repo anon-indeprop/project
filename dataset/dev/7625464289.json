@@ -1,0 +1,416 @@
+{
+  "article_id": "7625464289",
+  "sentence offsets in original": [
+    0,
+    243,
+    384,
+    510,
+    740,
+    797,
+    1004,
+    1060,
+    1348,
+    1448,
+    1560,
+    1809,
+    2066,
+    2272,
+    2344,
+    2553,
+    2651,
+    2714,
+    2889,
+    2988,
+    3114,
+    3200
+  ],
+  "original sentences": [
+    "Homeschooling Expands As Parents Seethe Over Liberal Social Engineering And Violence\n\nHomeschooling rates are skyrocketing as parents are continually getting more and more upset at the leftist social engineering taking place in public schools.",
+    "\nThe indoctrination is getting so bad, that some parents are even concerned about liberal violence against those who reject the brainwashing.",
+    "\nAccording to The Washington Times, the recent school shooting at Parkland, Florida, was the last straw for scores of parents.",
+    "\nThe paper noted that \u201cthe phones started ringing at the Texas Home School Coalition, and they haven\u2019t stopped yet.\u201d\n\u201cWhen the Parkland shooting happened, our phone calls and emails exploded,\u201d said coalition president Tim Lambert.",
+    "\n\u201cIn the last couple of months, our numbers have doubled.",
+    "\nWe\u2019re dealing with probably between 1,200 and 1,400 calls and emails per month, and prior to that it was 600 to 700.\u201d But according to Natural News, it isn\u2019t just the rampant violence worrying some parents.",
+    "\nThat\u2019s just the tip of the collectivist agenda iceberg.",
+    "\nChristopher Chin, head of Homeschool Louisiana, told The Times that parents are fed up with \u201cthe violence, the bullying, the unsafe environments.\u201d Many parents are also disturbed by the social engineering, which amounts to brainwashing and indoctrination that goes on in a public school.",
+    "\nFor example, a Minnesota public school is forcing Kindergarten students to study \u2018white privilege\u2019.",
+    "\nThe left-wing curriculum and common core are also driving parents to remove their children from public schools.",
+    "\nBrian D. Ray, who heads up the National Home Education Research Institute, in Salem, Oregon, who\u2019s conducted homeschooling research for 33 years, told The Times that concern over school curriculum has reached the top of the charts for most parents.",
+    "\nRay said the top three reasons that parents choose homeschooling are a desire to provide religious instruction or different values than those offered in public schools; dissatisfaction with the academic curriculum, and worries about the school environment.",
+    "\nSince teachers are not allowed to arm themselves to defend their students against the violence often perpetrated at schools simply because they are gun free zones, homeschooling takes care of that problem.",
+    "\n\u201cMost parents homeschool for more than one reason,\u201d Ray told the paper.",
+    "\n\u201cBut when we ask families why do they homeschool, near the top nowadays is concern about the environment of schools, and that includes safety, pressure to get into drugs, pressure to get into sexual activity.",
+    "\nIt includes all of that.\u201d\nIndoctrination means to teach a person to accept a belief uncritically.",
+    "\nIt\u2019s the very reason the governments of the world still exist.",
+    "\nPeople cannot logically and critically understand that hurting people and taking their things is wrong \u2013 even if people who declare themselves government is the one doing it.",
+    "\nGovernments are nothing more than a handful of people and have no right to aggress against others.",
+    "\nBut humans are taught at a young age to never question this and that belief has kept most of humanity enslaved for centuries.",
+    "\n\ufeff\nIt isn\u2019t a surprise that so many have decided to educate their children themselves.",
+    "\nAnd as schools continue to fail, and authoritarian policies continue to wreak havoc on our society, more will wake up to the absolute horror of what allowing the state to educate our children has done to the moral fabric of humanity."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 243,
+      "text": "Homeschooling Expands As Parents Seethe Over Liberal Social Engineering And Violence\n\nHomeschooling rates are skyrocketing as parents are continually getting more and more upset at the leftist social engineering taking place in public schools.",
+      "new_text": "Homeschooling Expands As Parents Seethe Over Liberal Social Engineering And Violence\n\nHomeschooling rates are skyrocketing as parents are continually getting more and more upset at the social engineering taking place in public schools.",
+      "prop_spans": [
+        [
+          185,
+          211,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 243,
+      "end_ix": 384,
+      "text": "\nThe indoctrination is getting so bad, that some parents are even concerned about liberal violence against those who reject the brainwashing.",
+      "new_text": "\nThe indoctrination is getting so bad, that some parents are even concerned about liberal attack against those who reject the manipulation.",
+      "prop_spans": [
+        [
+          277,
+          280,
+          "Loaded_Language"
+        ],
+        [
+          333,
+          341,
+          "Repetition"
+        ],
+        [
+          371,
+          383,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 384,
+      "end_ix": 510,
+      "text": "\nAccording to The Washington Times, the recent school shooting at Parkland, Florida, was the last straw for scores of parents.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 510,
+      "end_ix": 740,
+      "text": "\nThe paper noted that \u201cthe phones started ringing at the Texas Home School Coalition, and they haven\u2019t stopped yet.\u201d\n\u201cWhen the Parkland shooting happened, our phone calls and emails exploded,\u201d said coalition president Tim Lambert.",
+      "new_text": "\nThe paper noted that \u201cthe phones started ringing at the Texas Home School Coalition, and they haven\u2019t stopped yet.\u201d\n\u201cWhen the Parkland shooting happened, our phone calls and emails exploded,\u201d said coalition president Tim Lambert.",
+      "prop_spans": [
+        [
+          692,
+          700,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 740,
+      "end_ix": 797,
+      "text": "\n\u201cIn the last couple of months, our numbers have doubled.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 797,
+      "end_ix": 1004,
+      "text": "\nWe\u2019re dealing with probably between 1,200 and 1,400 calls and emails per month, and prior to that it was 600 to 700.\u201d But according to Natural News, it isn\u2019t just the rampant violence worrying some parents.",
+      "new_text": "\nWe\u2019re dealing with probably between 1,200 and 1,400 calls and emails per month, and prior to that it was 600 to 700.\u201d But according to Natural News, it isn\u2019t just the violence worrying some parents.",
+      "prop_spans": [
+        [
+          965,
+          972,
+          "Loaded_Language"
+        ],
+        [
+          973,
+          981,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1004,
+      "end_ix": 1060,
+      "text": "\nThat\u2019s just the tip of the collectivist agenda iceberg.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1060,
+      "end_ix": 1348,
+      "text": "\nChristopher Chin, head of Homeschool Louisiana, told The Times that parents are fed up with \u201cthe violence, the bullying, the unsafe environments.\u201d Many parents are also disturbed by the social engineering, which amounts to brainwashing and indoctrination that goes on in a public school.",
+      "new_text": "\nChristopher Chin, head of Homeschool Louisiana, told The Times that parents are fed up with \u201cthe violence, the bullying, the unsafe environments.\u201d Many parents are also disturbed by the social engineering, which amounts to manipulation that goes on in a public school.",
+      "prop_spans": [
+        [
+          1158,
+          1166,
+          "Repetition"
+        ],
+        [
+          1172,
+          1180,
+          "Loaded_Language"
+        ],
+        [
+          1230,
+          1239,
+          "Loaded_Language"
+        ],
+        [
+          1247,
+          1265,
+          "Repetition"
+        ],
+        [
+          1284,
+          1296,
+          "Repetition"
+        ],
+        [
+          1301,
+          1315,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1348,
+      "end_ix": 1448,
+      "text": "\nFor example, a Minnesota public school is forcing Kindergarten students to study \u2018white privilege\u2019.",
+      "new_text": "\nFor example, a Minnesota public school is making Kindergarten students study \u2018white privilege\u2019.",
+      "prop_spans": [
+        [
+          1391,
+          1398,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1448,
+      "end_ix": 1560,
+      "text": "\nThe left-wing curriculum and common core are also driving parents to remove their children from public schools.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1560,
+      "end_ix": 1809,
+      "text": "\nBrian D. Ray, who heads up the National Home Education Research Institute, in Salem, Oregon, who\u2019s conducted homeschooling research for 33 years, told The Times that concern over school curriculum has reached the top of the charts for most parents.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1809,
+      "end_ix": 2066,
+      "text": "\nRay said the top three reasons that parents choose homeschooling are a desire to provide religious instruction or different values than those offered in public schools; dissatisfaction with the academic curriculum, and worries about the school environment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2066,
+      "end_ix": 2272,
+      "text": "\nSince teachers are not allowed to arm themselves to defend their students against the violence often perpetrated at schools simply because they are gun free zones, homeschooling takes care of that problem.",
+      "new_text": "\nSince teachers are not allowed to arm themselves to defend their students against the violence often perpetrated at schools simply because they are gun free zones, homeschooling takes care of that problem.",
+      "prop_spans": [
+        [
+          2153,
+          2161,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2272,
+      "end_ix": 2344,
+      "text": "\n\u201cMost parents homeschool for more than one reason,\u201d Ray told the paper.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2344,
+      "end_ix": 2553,
+      "text": "\n\u201cBut when we ask families why do they homeschool, near the top nowadays is concern about the environment of schools, and that includes safety, pressure to get into drugs, pressure to get into sexual activity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2553,
+      "end_ix": 2651,
+      "text": "\nIt includes all of that.\u201d\nIndoctrination means to teach a person to accept a belief uncritically.",
+      "new_text": "\nIt includes all of that.\u201d\nIndoctrination means to teach a person to accept a belief uncritically.",
+      "prop_spans": [
+        [
+          2580,
+          2594,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2651,
+      "end_ix": 2714,
+      "text": "\nIt\u2019s the very reason the governments of the world still exist.",
+      "new_text": "\nIt\u2019s a probable reason the governments of the world still exist.",
+      "prop_spans": [
+        [
+          2652,
+          2714,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2714,
+      "end_ix": 2889,
+      "text": "\nPeople cannot logically and critically understand that hurting people and taking their things is wrong \u2013 even if people who declare themselves government is the one doing it.",
+      "new_text": "\nPeople cannot logically and critically understand that hurting people and taking their things is wrong \u2013 even if people who declare themselves government is the one doing it.",
+      "prop_spans": [
+        [
+          2714,
+          2714,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2889,
+      "end_ix": 2988,
+      "text": "\nGovernments are nothing more than a handful of people and have no right to aggress against others.",
+      "new_text": "\nGovernments have no right to aggress against others.",
+      "prop_spans": [
+        [
+          2890,
+          2943,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2988,
+      "end_ix": 3114,
+      "text": "\nBut humans are taught at a young age to never question this and that belief has kept most of humanity enslaved for centuries.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3114,
+      "end_ix": 3200,
+      "text": "\n\ufeff\nIt isn\u2019t a surprise that so many have decided to educate their children themselves.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3200,
+      "end_ix": 3434,
+      "text": "\nAnd as schools continue to fail, and authoritarian policies continue to wreak havoc on our society, more will wake up to the absolute horror of what allowing the state to educate our children has done to the moral fabric of humanity.",
+      "new_text": "\nAnd as schools continue to fail, and authoritarian policies continue to wreak havoc on our society, more will wake up to the dangers of what allowing the state to educate our children has done to the moral fabric of humanity.",
+      "prop_spans": [
+        [
+          3326,
+          3341,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      185,
+      211,
+      "Name_Calling,Labeling"
+    ],
+    [
+      277,
+      280,
+      "Loaded_Language"
+    ],
+    [
+      333,
+      341,
+      "Repetition"
+    ],
+    [
+      371,
+      383,
+      "Loaded_Language"
+    ],
+    [
+      692,
+      700,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      965,
+      972,
+      "Loaded_Language"
+    ],
+    [
+      973,
+      981,
+      "Repetition"
+    ],
+    [
+      1158,
+      1166,
+      "Repetition"
+    ],
+    [
+      1172,
+      1180,
+      "Loaded_Language"
+    ],
+    [
+      1230,
+      1239,
+      "Loaded_Language"
+    ],
+    [
+      1247,
+      1265,
+      "Repetition"
+    ],
+    [
+      1284,
+      1296,
+      "Repetition"
+    ],
+    [
+      1301,
+      1315,
+      "Repetition"
+    ],
+    [
+      1391,
+      1398,
+      "Loaded_Language"
+    ],
+    [
+      2153,
+      2161,
+      "Repetition"
+    ],
+    [
+      2580,
+      2594,
+      "Repetition"
+    ],
+    [
+      2652,
+      2714,
+      "Causal_Oversimplification"
+    ],
+    [
+      2890,
+      2943,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3326,
+      3341,
+      "Loaded_Language"
+    ]
+  ]
+}

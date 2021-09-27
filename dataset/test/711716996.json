@@ -1,0 +1,649 @@
+{
+  "article_id": "711716996",
+  "sentence offsets in original": [
+    0,
+    28,
+    227,
+    353,
+    520,
+    604,
+    723,
+    863,
+    993,
+    1302,
+    1500,
+    1711,
+    1935,
+    2065,
+    2123,
+    2210,
+    2269,
+    2552,
+    2667,
+    2744,
+    2844,
+    2899,
+    2942,
+    3291,
+    3550,
+    3734,
+    3993,
+    4284,
+    4473,
+    4558,
+    4811,
+    4927,
+    5093,
+    5146,
+    5179,
+    5299,
+    5373,
+    5656
+  ],
+  "original sentences": [
+    "America's Immigration Voice.",
+    "\n\nKritarch Patti Saris thinks she runs immigration policy, right down to how many times someone can have their case reviewed, though she seems confused as to who will do the reviewing of those cases.",
+    "\nAt issue is a large group of Indonesian Chinese Christians who fled a pogrom in Indonesia directed against them in the 1990s.",
+    "\nThe Chinese generally filed asylum applications after arriving in the United States, and, importantly, not at an American embassy or consulate in Indonesia or nearby.",
+    "\nAll were relatively wealthy and had or obtained tourist visas to the United States.",
+    "\nThis is important as most actual \"refugees\" drop everything to flee their homelands if they are under threat of death.",
+    "\nTellingly, these asylum applicants were the elite of Indonesian society, because their higher average IQ, than the rather dull Indonesians.",
+    "\n87 is the average Indonesian IQ , and note that average includes the higher average Chinese, so the locals really are a dull lot.",
+    "\nThis is important in that while there was anti-Chinese and anti-Christian violence, the non-Chinese Christians mostly stuck around, though the Chinese used tourist and student visas to come to the United States in a leisurely manner, taking time to either bring or otherwise secure their wealth in Indonesia.",
+    "\nIn any event, the persecution was limited in time and duration as the local elite know they need the Chinese to run the economy and to avoid Red China intervening on behalf of their fellow ethnics.",
+    "\nIn the United States, these Chinese went through the liberal asylum process, but did not manage to fool even the credulous \"judges\" at the Executive Office for Immigration Review (EOIR), the immigration courts.",
+    "\nFast forward to the Obama Regime Administrative Amnesty , where despite outstanding deportation orders, these illegal aliens, among millions of others, are allowed to remain, and then given employment authorization as well.",
+    "\nFortunately, elections have consequences, and the Obama Regime Administrative Amnesty, or parts of it, came to an inglorious end.",
+    "\nAnd end it was for this particular lot of illegal aliens.",
+    "\nBut Kritarch Patti Saris was having none of the immigration laws of the United States.",
+    "\nShe thought she was decider-in-chief on who gets deported.",
+    "\nAnd all on the flimsy excuse that the aliens need another bite at the apple, despite the clear fact that the Indonesian government had long ago quashed the ethnic riots directed against the market dominant minority of Chinese and the religious motivated violence against Christians.",
+    "\nWhile there are a couple of provinces in Indonesia that impose Sharia law on Muslims, most non-Muslims are exempt.",
+    "\nAs moderates go, Indonesia is about as close as it gets to moderate Muslims.",
+    "\nMostly because the country would not last long without an outside high IQ elite to run the country.",
+    "\nBefore it was the high IQ Dutch, now it's the Chinese.",
+    "\nRemember, an 87 IQ is just about retarded.",
+    "\nA federal judge on Monday ordered U.S. immigration officials to delay any efforts to deport 51 Indonesians living illegally in New Hampshire so the group can have time to argue that changing conditions in that country would make it dangerous to return... Federal law gives authority over immigration matters to the executive branch, not the courts.",
+    "\nChief U.S. District Judge Patti Saris in Boston found she had authority to ensure the Indonesians have a chance to argue that conditions in their home country had deteriorated significantly enough to reopen their cases for trying to stay in the United State.",
+    "\nShe worried that without the order, ICE officials could deport some of the Indonesians covered by the suit, at which time they would lose the opportunity to have their cases reopened.",
+    "\n[Judge Orders U.S. To Delay Deporting Indonesians In Immigration Fight, by Scott Malone, Reuters, November 27, 2017]\nKritarch Saris thought she knew better and has been running a deliberate campaign to prevent the deportation of these Chinese illegal aliens.",
+    "\nAnd now she has gone full rogue, prohibiting the deportation of all these illegal aliens who already had their day in immigration court.Saris appears to be making up immigration law and procedure on the fly, as her order appears to not understand either the EOIR process or immigration law.",
+    "\n\u201cThe government shall inform the court whether petitioners, who are not detained, will have access to emergency procedures if they must file their original motions to reopen,\u201d Saris wrote.",
+    "\nThis makes no sense in English, much less in the established procedures in the EOIR.",
+    "\nThe aliens have no emergency, there are no emergency procedures, and their original motions to reopen were denied for lack of legal basis in law or any changed conditions in the country they are being deported to that would avail them of another claim.",
+    "\nIndonesia is more hospitable to Chinese Christians today than the short period in the 90s when there was a problem.",
+    "\nBut basically, Saris wants the illegal aliens the opportunity to submit another asylum application, and benefit by the years it will take to adjudicate those claims.",
+    "\nBasically Saris wants these illegals to never leave.",
+    "\nThat, of course is not her role.",
+    "\nThe only claim they have before a Federal court is if they got the due process that Congress gave those illegal aliens.",
+    "\nAnd they did, they filed for asylum, had a hearing and appeals, and lost.",
+    "\nWith the legislative fight over DACA, the Trump Administration needs to include legislative language including more restrictions on kritarchs who want to make American immigration policy, as well as other reforms to lower legal immigration, build the wall, and deport illegals here.",
+    "\nOr impeachment, or both."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 28,
+      "text": "America's Immigration Voice.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 28,
+      "end_ix": 227,
+      "text": "\n\nKritarch Patti Saris thinks she runs immigration policy, right down to how many times someone can have their case reviewed, though she seems confused as to who will do the reviewing of those cases.",
+      "new_text": "\n\nKritarch Patti Saris might think that she runs immigration policy, right down to how many times someone can have their case reviewed, though she seems confused as to who will do the reviewing of those cases.",
+      "prop_spans": [
+        [
+          30,
+          86,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 227,
+      "end_ix": 353,
+      "text": "\nAt issue is a large group of Indonesian Chinese Christians who fled a pogrom in Indonesia directed against them in the 1990s.",
+      "new_text": "\nAt issue is a large group of Indonesian Chinese Christians who fled a massacre in Indonesia directed against them in the 1990s.",
+      "prop_spans": [
+        [
+          298,
+          305,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 353,
+      "end_ix": 520,
+      "text": "\nThe Chinese generally filed asylum applications after arriving in the United States, and, importantly, not at an American embassy or consulate in Indonesia or nearby.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 520,
+      "end_ix": 604,
+      "text": "\nAll were relatively wealthy and had or obtained tourist visas to the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 604,
+      "end_ix": 723,
+      "text": "\nThis is important as most actual \"refugees\" drop everything to flee their homelands if they are under threat of death.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 723,
+      "end_ix": 863,
+      "text": "\nTellingly, these asylum applicants were the elite of Indonesian society, because their higher average IQ, than the rather dull Indonesians.",
+      "new_text": "\nTellingly, these asylum applicants were probably the elite of Indonesian society, because their higher average IQ, than the rather dull Indonesians.",
+      "prop_spans": [
+        [
+          724,
+          863,
+          "Causal_Oversimplification"
+        ],
+        [
+          839,
+          862,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 863,
+      "end_ix": 993,
+      "text": "\n87 is the average Indonesian IQ , and note that average includes the higher average Chinese, so the locals really are a dull lot.",
+      "new_text": "\n87 is the average Indonesian IQ , and note that average includes the higher average Chinese, so the locals might be a dull lot.",
+      "prop_spans": [
+        [
+          863,
+          863,
+          "Causal_Oversimplification"
+        ],
+        [
+          957,
+          993,
+          "Loaded_Language"
+        ],
+        [
+          982,
+          992,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 993,
+      "end_ix": 1302,
+      "text": "\nThis is important in that while there was anti-Chinese and anti-Christian violence, the non-Chinese Christians mostly stuck around, though the Chinese used tourist and student visas to come to the United States in a leisurely manner, taking time to either bring or otherwise secure their wealth in Indonesia.",
+      "new_text": "\nThis is important in that while there was anti-Chinese and anti-Christian violence, the non-Chinese Christians mostly stuck around, though the Chinese used tourist and student visas to come to the United States in a leisurely manner, taking time to either bring or otherwise secure their wealth in Indonesia.",
+      "prop_spans": [
+        [
+          993,
+          993,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1302,
+      "end_ix": 1500,
+      "text": "\nIn any event, the persecution was limited in time and duration as the local elite know they need the Chinese to run the economy and to avoid Red China intervening on behalf of their fellow ethnics.",
+      "new_text": "\nIn any event, the persecution was limited in time and duration as the local elite know they need the Chinese to run the economy and to avoid China intervening on behalf of their fellow ethnics.",
+      "prop_spans": [
+        [
+          1444,
+          1453,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1500,
+      "end_ix": 1711,
+      "text": "\nIn the United States, these Chinese went through the liberal asylum process, but did not manage to fool even the credulous \"judges\" at the Executive Office for Immigration Review (EOIR), the immigration courts.",
+      "new_text": "\nIn the United States, these Chinese went through the liberal asylum process, but did not manage to fool even the \"judges\" at the Executive Office for Immigration Review (EOIR), the immigration courts.",
+      "prop_spans": [
+        [
+          1600,
+          1631,
+          "Loaded_Language"
+        ],
+        [
+          1610,
+          1632,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1711,
+      "end_ix": 1935,
+      "text": "\nFast forward to the Obama Regime Administrative Amnesty , where despite outstanding deportation orders, these illegal aliens, among millions of others, are allowed to remain, and then given employment authorization as well.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1935,
+      "end_ix": 2065,
+      "text": "\nFortunately, elections have consequences, and the Obama Regime Administrative Amnesty, or parts of it, came to an inglorious end.",
+      "new_text": "",
+      "prop_spans": [
+        [
+          1936,
+          2065,
+          "Red_Herring"
+        ],
+        [
+          2050,
+          2061,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2065,
+      "end_ix": 2123,
+      "text": "\nAnd end it was for this particular lot of illegal aliens.",
+      "new_text": "\nAnd end it was for this particular lot of illegal aliens.",
+      "prop_spans": [
+        [
+          2065,
+          2065,
+          "Red_Herring"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2123,
+      "end_ix": 2210,
+      "text": "\nBut Kritarch Patti Saris was having none of the immigration laws of the United States.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2210,
+      "end_ix": 2269,
+      "text": "\nShe thought she was decider-in-chief on who gets deported.",
+      "new_text": "\nShe thought she was a decision maker on who gets deported.",
+      "prop_spans": [
+        [
+          2231,
+          2269,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2269,
+      "end_ix": 2552,
+      "text": "\nAnd all on the flimsy excuse that the aliens need another bite at the apple, despite the clear fact that the Indonesian government had long ago quashed the ethnic riots directed against the market dominant minority of Chinese and the religious motivated violence against Christians.",
+      "new_text": "\nAnd all on the flimsy excuse that the immigrants need another bite at the apple, despite the clear fact that the Indonesian government had long ago quashed the ethnic riots directed against the market dominant minority of Chinese and the religious motivated violence against Christians.",
+      "prop_spans": [
+        [
+          2269,
+          2269,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2308,
+          2315,
+          "Loaded_Language"
+        ],
+        [
+          2308,
+          2315,
+          "Repetition"
+        ],
+        [
+          2320,
+          2346,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2552,
+      "end_ix": 2667,
+      "text": "\nWhile there are a couple of provinces in Indonesia that impose Sharia law on Muslims, most non-Muslims are exempt.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2667,
+      "end_ix": 2744,
+      "text": "\nAs moderates go, Indonesia is about as close as it gets to moderate Muslims.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2744,
+      "end_ix": 2844,
+      "text": "\nMostly because the country would not last long without an outside high IQ elite to run the country.",
+      "new_text": "\nMostly because the country might not last long without an outside high IQ elite to run the country.",
+      "prop_spans": [
+        [
+          2760,
+          2844,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2844,
+      "end_ix": 2899,
+      "text": "\nBefore it was the high IQ Dutch, now it's the Chinese.",
+      "new_text": "\nBefore it was the high IQ Dutch, now it's the Chinese.",
+      "prop_spans": [
+        [
+          2844,
+          2844,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2899,
+      "end_ix": 2942,
+      "text": "\nRemember, an 87 IQ is just about retarded.",
+      "new_text": "\nRemember, an 87 IQ is just about mentally underdeveloped.",
+      "prop_spans": [
+        [
+          2910,
+          2942,
+          "Loaded_Language"
+        ],
+        [
+          2933,
+          2941,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2942,
+      "end_ix": 3291,
+      "text": "\nA federal judge on Monday ordered U.S. immigration officials to delay any efforts to deport 51 Indonesians living illegally in New Hampshire so the group can have time to argue that changing conditions in that country would make it dangerous to return... Federal law gives authority over immigration matters to the executive branch, not the courts.",
+      "new_text": "\nA federal judge on Monday ordered U.S. immigration officials to delay any efforts to deport 51 Indonesians living illegally in New Hampshire so the group can have time to argue that changing conditions in that country would make it dangerous to return... Federal law gives authority over immigration matters to the executive branch, not the courts.",
+      "prop_spans": [
+        [
+          2942,
+          2943,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3291,
+      "end_ix": 3550,
+      "text": "\nChief U.S. District Judge Patti Saris in Boston found she had authority to ensure the Indonesians have a chance to argue that conditions in their home country had deteriorated significantly enough to reopen their cases for trying to stay in the United State.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3550,
+      "end_ix": 3734,
+      "text": "\nShe worried that without the order, ICE officials could deport some of the Indonesians covered by the suit, at which time they would lose the opportunity to have their cases reopened.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3734,
+      "end_ix": 3993,
+      "text": "\n[Judge Orders U.S. To Delay Deporting Indonesians In Immigration Fight, by Scott Malone, Reuters, November 27, 2017]\nKritarch Saris thought she knew better and has been running a deliberate campaign to prevent the deportation of these Chinese illegal aliens.",
+      "new_text": "\n[Judge Orders U.S. To Delay Deporting Indonesians In Immigration Fight, by Scott Malone, Reuters, November 27, 2017]\nKritarch Saris thought she knew better and has been running a deliberate campaign to prevent the deportation of these Chinese illegal immigrants.",
+      "prop_spans": [
+        [
+          3978,
+          3992,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3993,
+      "end_ix": 4284,
+      "text": "\nAnd now she has gone full rogue, prohibiting the deportation of all these illegal aliens who already had their day in immigration court.Saris appears to be making up immigration law and procedure on the fly, as her order appears to not understand either the EOIR process or immigration law.",
+      "new_text": "\nAnd now she has gone full rogue, prohibiting the deportation of all these immigrants who already had their day in immigration court.Saris appears to be making up immigration law and procedure on the fly, as her order appears to not understand either the EOIR process or immigration law.",
+      "prop_spans": [
+        [
+          4002,
+          4026,
+          "Loaded_Language"
+        ],
+        [
+          4068,
+          4083,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4284,
+      "end_ix": 4473,
+      "text": "\n\u201cThe government shall inform the court whether petitioners, who are not detained, will have access to emergency procedures if they must file their original motions to reopen,\u201d Saris wrote.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4473,
+      "end_ix": 4558,
+      "text": "\nThis makes no sense in English, much less in the established procedures in the EOIR.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4558,
+      "end_ix": 4811,
+      "text": "\nThe aliens have no emergency, there are no emergency procedures, and their original motions to reopen were denied for lack of legal basis in law or any changed conditions in the country they are being deported to that would avail them of another claim.",
+      "new_text": "\nThe immigrants have no emergency, there are no emergency procedures, and their original motions to reopen were denied for lack of legal basis in law or any changed conditions in the country they are being deported to that would avail them of another claim.",
+      "prop_spans": [
+        [
+          4563,
+          4570,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4811,
+      "end_ix": 4927,
+      "text": "\nIndonesia is more hospitable to Chinese Christians today than the short period in the 90s when there was a problem.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4927,
+      "end_ix": 5093,
+      "text": "\nBut basically, Saris wants the illegal aliens the opportunity to submit another asylum application, and benefit by the years it will take to adjudicate those claims.",
+      "new_text": "\nBut basically, Saris wants the immigrants the opportunity to submit another asylum application, and benefit by the years it will take to adjudicate those claims.",
+      "prop_spans": [
+        [
+          4959,
+          4974,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5093,
+      "end_ix": 5146,
+      "text": "\nBasically Saris wants these illegals to never leave.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5146,
+      "end_ix": 5179,
+      "text": "\nThat, of course is not her role.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5179,
+      "end_ix": 5299,
+      "text": "\nThe only claim they have before a Federal court is if they got the due process that Congress gave those illegal aliens.",
+      "new_text": "\nThe only claim they have before a Federal court is if they got the due process that Congress gave those immigrants.",
+      "prop_spans": [
+        [
+          5284,
+          5299,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5299,
+      "end_ix": 5373,
+      "text": "\nAnd they did, they filed for asylum, had a hearing and appeals, and lost.",
+      "new_text": "\nAnd they did, they filed for asylum, had a hearing and appeals, and lost.",
+      "prop_spans": [
+        [
+          5299,
+          5299,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 5373,
+      "end_ix": 5656,
+      "text": "\nWith the legislative fight over DACA, the Trump Administration needs to include legislative language including more restrictions on kritarchs who want to make American immigration policy, as well as other reforms to lower legal immigration, build the wall, and deport illegals here.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 5656,
+      "end_ix": 5681,
+      "text": "\nOr impeachment, or both.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      30,
+      86,
+      "Causal_Oversimplification"
+    ],
+    [
+      298,
+      305,
+      "Loaded_Language"
+    ],
+    [
+      724,
+      863,
+      "Causal_Oversimplification"
+    ],
+    [
+      839,
+      862,
+      "Name_Calling,Labeling"
+    ],
+    [
+      957,
+      993,
+      "Loaded_Language"
+    ],
+    [
+      982,
+      992,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1444,
+      1453,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1600,
+      1631,
+      "Loaded_Language"
+    ],
+    [
+      1610,
+      1632,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1936,
+      2065,
+      "Red_Herring"
+    ],
+    [
+      2050,
+      2061,
+      "Loaded_Language"
+    ],
+    [
+      2231,
+      2269,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2308,
+      2315,
+      "Loaded_Language"
+    ],
+    [
+      2308,
+      2315,
+      "Repetition"
+    ],
+    [
+      2320,
+      2346,
+      "Loaded_Language"
+    ],
+    [
+      2760,
+      2844,
+      "Causal_Oversimplification"
+    ],
+    [
+      2910,
+      2943,
+      "Loaded_Language"
+    ],
+    [
+      2933,
+      2941,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3978,
+      3992,
+      "Repetition"
+    ],
+    [
+      4002,
+      4026,
+      "Loaded_Language"
+    ],
+    [
+      4068,
+      4083,
+      "Repetition"
+    ],
+    [
+      4563,
+      4570,
+      "Repetition"
+    ],
+    [
+      4959,
+      4974,
+      "Repetition"
+    ],
+    [
+      5284,
+      5299,
+      "Repetition"
+    ]
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "article_id": "786250729",
+  "sentence offsets in original": [
+    0,
+    337,
+    480,
+    757,
+    859,
+    971,
+    1093,
+    1831,
+    1894,
+    2042,
+    2144,
+    2328,
+    2499,
+    2586,
+    2766,
+    3087,
+    3258
+  ],
+  "original sentences": [
+    "Google colluded with Clinton campaign with \u2018silent donations\u2019\n\nWhile the establishment continues to push the notion that a couple hundred thousand dollars of ad spends and some Russian bots on Facebook swayed the election to Donald Trump, more proof of real \u201ccollusion\u201d between Google and the Hillary Clinton campaign has been uncovered.",
+    "\nAnd Google likely violated federal election laws \u2014 not to mention the privacy of its users \u2014 in the services it provided the Clinton campaign.",
+    "\nFox News\u2019 Tucker Carlson read an internal email on Monday night\u2019s show that outlined in a Google\u2019 executive\u2019s own words how the company was providing a \u201csilent donation\u201d to a group that was creating ads and donating funds to bus Latinos to voting stations in key swing states.",
+    "\nThe email was sent by Eliana Murillo, the former head of Google\u2019s multicultural marketing department.",
+    "\nThe email was forwarded to Google vice presidents and other staff members throughout the company, Carlson said.",
+    "\nAccording to Carlson:\nIn her email, Mario touts Google\u2019s multi-faceted efforts to boost Hispanic turnout in the election.",
+    "\nShe noticed that Latino voters did record-breaking numbers, especially in states like Florida, Nevada and Arizona \u2014 the last of which she describes as \u201ca key state for us.\u201d She brags that the company used its power to ensure that millions of people saw certain hashtags and social media impressions, with the goal of influencing their behavior during the election.\u201d\nMurillo also brags that Google, \u201cused its power to ensure that millions of people saw certain hashtags and social media impressions, with the goal of influencing their behavior during the election.\u201d Unfortunately for Clinton and Google, as Murillo lamented, \u201c\u2026ultimately after all was said and done, the Latino community did come out to vote, and completely surprised us.",
+    "\nWe never anticipated that 29% of Latinos would vote for Trump.",
+    "\nNo one did.\u201d\nThe assistance Google provided to the Clinton campaign likely violated election laws and served as an unreported in-kind contribution.",
+    "\nOf course, anyone who paid attention was aware of Google\u2019s attempts to interfere on Clinton\u2019s behalf.",
+    "\nWikiLeaks\u2019 Julian Assange revealed two years ago that Google CEO Eric Schmidt and a number of Google employees created a company in 2015 specifically to place Clinton the White House.",
+    "\nEmails obtained by WikiLeaks showed correspondence between Schmidt and Clinton, along with a number of Clinton operatives discussing strategy meetings and campaign ideas.",
+    "\nAmong the strategies was the creation of a voter tracking database using smart phones.",
+    "\nA report by a research team earlier this year found that Google can manipulate opinions of undecided voters by inserting negative search suggestions under the name of a candidate.",
+    "\nMeanwhile, Trump took to Twitter early Tuesday morning to note the Department of Justice\u2019s inaction over the fact that disgraced anti-Trump FBI agent Peter Strzok and his mistress were engaged in a \u201cmedia leak strategy\u201d to plant negative stories which were then used to secure FISA warrants to spy on the Trump campaign.",
+    "\nNew Strzok-Page texts reveal \u201cMedia Leak Strategy.\u201d @FoxNews So terrible, and NOTHING is being done at DOJ or FBI \u2013 but the world is watching, and they get it completely.",
+    "\n\u2014 Donald J. Trump (@realDonaldTrump) September 11, 2018"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 337,
+      "text": "Google colluded with Clinton campaign with \u2018silent donations\u2019\n\nWhile the establishment continues to push the notion that a couple hundred thousand dollars of ad spends and some Russian bots on Facebook swayed the election to Donald Trump, more proof of real \u201ccollusion\u201d between Google and the Hillary Clinton campaign has been uncovered.",
+      "new_text": "Google colluded with Clinton campaign with \u2018silent donations\u2019\n\nWhile the establishment continues to push the notion that it is possible that a couple hundred thousand dollars of ad spends and some Russian bots on Facebook swayed the election to Donald Trump, more proof of real \u201ccollusion\u201d between Google and the Hillary Clinton campaign has been uncovered.",
+      "prop_spans": [
+        [
+          44,
+          60,
+          "Name_Calling,Labeling"
+        ],
+        [
+          121,
+          237,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 337,
+      "end_ix": 480,
+      "text": "\nAnd Google likely violated federal election laws \u2014 not to mention the privacy of its users \u2014 in the services it provided the Clinton campaign.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 480,
+      "end_ix": 757,
+      "text": "\nFox News\u2019 Tucker Carlson read an internal email on Monday night\u2019s show that outlined in a Google\u2019 executive\u2019s own words how the company was providing a \u201csilent donation\u201d to a group that was creating ads and donating funds to bus Latinos to voting stations in key swing states.",
+      "new_text": "\nFox News\u2019 Tucker Carlson read an internal email on Monday night\u2019s show that outlined in a Google\u2019 executive\u2019s own words how the company was providing a \u201csilent donation\u201d to a group that was creating ads and donating funds to bus Latinos to voting stations in key swing states.",
+      "prop_spans": [
+        [
+          631,
+          649,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 757,
+      "end_ix": 859,
+      "text": "\nThe email was sent by Eliana Murillo, the former head of Google\u2019s multicultural marketing department.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 859,
+      "end_ix": 971,
+      "text": "\nThe email was forwarded to Google vice presidents and other staff members throughout the company, Carlson said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 971,
+      "end_ix": 1093,
+      "text": "\nAccording to Carlson:\nIn her email, Mario touts Google\u2019s multi-faceted efforts to boost Hispanic turnout in the election.",
+      "new_text": "\nAccording to Carlson:\nIn her email, Mario touts Google\u2019s efforts to boost Hispanic turnout in the election.",
+      "prop_spans": [
+        [
+          1014,
+          1051,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1093,
+      "end_ix": 1831,
+      "text": "\nShe noticed that Latino voters did record-breaking numbers, especially in states like Florida, Nevada and Arizona \u2014 the last of which she describes as \u201ca key state for us.\u201d She brags that the company used its power to ensure that millions of people saw certain hashtags and social media impressions, with the goal of influencing their behavior during the election.\u201d\nMurillo also brags that Google, \u201cused its power to ensure that millions of people saw certain hashtags and social media impressions, with the goal of influencing their behavior during the election.\u201d Unfortunately for Clinton and Google, as Murillo lamented, \u201c\u2026ultimately after all was said and done, the Latino community did come out to vote, and completely surprised us.",
+      "new_text": "\nShe noticed that Latino voters did high numbers, especially in states like Florida, Nevada and Arizona \u2014 the last of which she describes as \u201ca key state for us.\u201d She brags that the company tried to ensure that millions of people saw certain hashtags and social media impressions, with the goal of influencing their behavior during the election.\u201d\nMurillo also brags that Google, \u201cused its power to ensure that millions of people saw certain hashtags and social media impressions, with the goal of influencing their behavior during the election.\u201d Unfortunately for Clinton and Google, as Murillo lamented, \u201c\u2026ultimately after all was said and done, the Latino community did come out to vote, and completely surprised us.",
+      "prop_spans": [
+        [
+          1129,
+          1152,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          1267,
+          1309,
+          "Loaded_Language"
+        ],
+        [
+          1468,
+          1508,
+          "Loaded_Language"
+        ],
+        [
+          1473,
+          1656,
+          "Repetition"
+        ],
+        [
+          1764,
+          1771,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1831,
+      "end_ix": 1894,
+      "text": "\nWe never anticipated that 29% of Latinos would vote for Trump.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1894,
+      "end_ix": 2042,
+      "text": "\nNo one did.\u201d\nThe assistance Google provided to the Clinton campaign likely violated election laws and served as an unreported in-kind contribution.",
+      "new_text": "\nNo one did.\u201d\nThe assistance Google provided to the Clinton campaign likely violated election laws and served as an unreported in-kind contribution.",
+      "prop_spans": [
+        [
+          1895,
+          1905,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2042,
+      "end_ix": 2144,
+      "text": "\nOf course, anyone who paid attention was aware of Google\u2019s attempts to interfere on Clinton\u2019s behalf.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2144,
+      "end_ix": 2328,
+      "text": "\nWikiLeaks\u2019 Julian Assange revealed two years ago that Google CEO Eric Schmidt and a number of Google employees created a company in 2015 specifically to place Clinton the White House.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2328,
+      "end_ix": 2499,
+      "text": "\nEmails obtained by WikiLeaks showed correspondence between Schmidt and Clinton, along with a number of Clinton operatives discussing strategy meetings and campaign ideas.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2499,
+      "end_ix": 2586,
+      "text": "\nAmong the strategies was the creation of a voter tracking database using smart phones.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2586,
+      "end_ix": 2766,
+      "text": "\nA report by a research team earlier this year found that Google can manipulate opinions of undecided voters by inserting negative search suggestions under the name of a candidate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2766,
+      "end_ix": 3087,
+      "text": "\nMeanwhile, Trump took to Twitter early Tuesday morning to note the Department of Justice\u2019s inaction over the fact that disgraced anti-Trump FBI agent Peter Strzok and his mistress were engaged in a \u201cmedia leak strategy\u201d to plant negative stories which were then used to secure FISA warrants to spy on the Trump campaign.",
+      "new_text": "\nMeanwhile, Trump took to Twitter early Tuesday morning to note the Department of Justice\u2019s inaction over the fact that Peter Strzok and his mistress were engaged in a \u201cmedia leak strategy\u201d to plant negative stories which were then used to secure FISA warrants to spy on the Trump campaign.",
+      "prop_spans": [
+        [
+          2886,
+          2917,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2934,
+          2947,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3087,
+      "end_ix": 3258,
+      "text": "\nNew Strzok-Page texts reveal \u201cMedia Leak Strategy.\u201d @FoxNews So terrible, and NOTHING is being done at DOJ or FBI \u2013 but the world is watching, and they get it completely.",
+      "new_text": "\nNew Strzok-Page texts reveal \u201cMedia Leak Strategy.\u201d @FoxNews So terrible, and little is being done at DOJ or FBI \u2013 but the world is watching, and they might get it.",
+      "prop_spans": [
+        [
+          3166,
+          3188,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3208,
+          3257,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3258,
+      "end_ix": 3314,
+      "text": "\n\u2014 Donald J. Trump (@realDonaldTrump) September 11, 2018",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      44,
+      60,
+      "Name_Calling,Labeling"
+    ],
+    [
+      121,
+      237,
+      "Causal_Oversimplification"
+    ],
+    [
+      631,
+      649,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1014,
+      1051,
+      "Loaded_Language"
+    ],
+    [
+      1129,
+      1152,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1267,
+      1309,
+      "Loaded_Language"
+    ],
+    [
+      1468,
+      1508,
+      "Loaded_Language"
+    ],
+    [
+      1473,
+      1656,
+      "Repetition"
+    ],
+    [
+      1764,
+      1771,
+      "Repetition"
+    ],
+    [
+      1895,
+      1905,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2886,
+      2917,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2934,
+      2947,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3166,
+      3188,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3208,
+      3257,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

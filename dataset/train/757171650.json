@@ -1,0 +1,255 @@
+{
+  "article_id": "757171650",
+  "sentence offsets in original": [
+    0,
+    302,
+    509,
+    585,
+    660,
+    817,
+    881,
+    954,
+    1368,
+    1540,
+    1715,
+    1871,
+    1962,
+    2042,
+    2285,
+    2408,
+    2648,
+    2746,
+    2864
+  ],
+  "original sentences": [
+    "\u201cWe Now Have Urban Ebola\u201d In Congo, WHO Warns Of \u201cPotentially Explosive Increase\u201d In Cases\n\nThis report was originally published by Tyler Durden at Zero Hedge\nExperts fear an \u201cexplosive increase\u201d in Ebola cases after an outbreak in Congo entered a \u201cnew phase\u201d and spread from the countryside to a city.",
+    "\nThe BBC reports that Health Minister Oly Ilunga Kalenga confirmed a case in Mbandaka, a city of a million people about 130km (80 miles) from the area where the first cases were confirmed earlier this month.",
+    "\nThe city is a major transportation hub with routes to the capital Kinshasa.",
+    "\nForty-four people have been infected and 23 people are known to have died.",
+    "\nSenior World Health Organization (WHO) official Peter Salama said the spread to Mbandaka meant there was the potential for an \u201cexplosive increase\u201d in cases.",
+    "\n\u201cThis is a major development in the outbreak,\u201d he told the BBC.",
+    "\n\u201cWe have urban Ebola, which is a very different animal from rural Ebola.",
+    "\nThe potential for an explosive increase in cases is now there.\u201d Mr Salama, the WHO\u2019s deputy director-general for emergency preparedness and response, said Mbandaka\u2019s location on the Congo river, widely used for transportation, raised the prospect of Ebola spreading to surrounding countries such as Congo-Brazzaville and the Central African Republic as well as downstream to Kinshasa, a city of 10 million people.",
+    "\n\u201cThis puts a whole different lens on this outbreak and gives us increased urgency to move very quickly into Mbandaka to stop this new first sign of transmission,\u201d he said.",
+    "\nThe BBC adds that the WHO said it was not recommending any trade or travel restrictions either within DR Congo, for example between Mbandaka and Kinshasa, or internationally.",
+    "\nBut Mr Salama said that 13 countries in the region were boosting border screening measures and said DR Congo itself was increasing exit screening measures.",
+    "\n\u201cThe good news is that the DR Congo population is very used to Ebola outbreaks,\u201d he added.",
+    "\n\u201cThey know to protect themselves by avoiding mass gatherings and mass funerals.",
+    "\nThey know as well that traditional healers can amplify the outbreak.\u201d\nAs The Daily Mail notes, it is the ninth time Ebola has been recorded in Congo since the disease made its first known appearance near its northern Ebola river in the 1970s.",
+    "\nEbola is most feared for the internal and external bleeding it can cause in victims owing to damage done to blood vessels.",
+    "\nThe Mail reports that health workers have recorded confirmed, probable and suspected cases of Ebola in three health zones of Congo\u2019s Equateur province, and have identified 432 people who may have had contact with the disease, the WHO said.",
+    "\nSupplies sent to Congo included more than 300 body bags for safe burials in affected communities.",
+    "\nThe vaccine will be reserved for people suspected of coming into contact with the disease, as well as health workers.",
+    "\nThe vaccine requires storage at a temperature between -60 and -80 degrees C, tricky in a country with unreliable electricity."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 302,
+      "text": "\u201cWe Now Have Urban Ebola\u201d In Congo, WHO Warns Of \u201cPotentially Explosive Increase\u201d In Cases\n\nThis report was originally published by Tyler Durden at Zero Hedge\nExperts fear an \u201cexplosive increase\u201d in Ebola cases after an outbreak in Congo entered a \u201cnew phase\u201d and spread from the countryside to a city.",
+      "new_text": "\u201cWe Now Have Urban Ebola\u201d In Congo, WHO Warns Of \u201cPotentially Explosive Increase\u201d In Cases\n\nThis report was originally published by Tyler Durden at Zero Hedge\nExperts fear an \u201cexplosive increase\u201d in Ebola cases after an outbreak in Congo entered a \u201cnew phase\u201d and spread from the countryside to a city.",
+      "prop_spans": [
+        [
+          50,
+          80,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          62,
+          71,
+          "Loaded_Language"
+        ],
+        [
+          176,
+          194,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 302,
+      "end_ix": 509,
+      "text": "\nThe BBC reports that Health Minister Oly Ilunga Kalenga confirmed a case in Mbandaka, a city of a million people about 130km (80 miles) from the area where the first cases were confirmed earlier this month.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 509,
+      "end_ix": 585,
+      "text": "\nThe city is a major transportation hub with routes to the capital Kinshasa.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 585,
+      "end_ix": 660,
+      "text": "\nForty-four people have been infected and 23 people are known to have died.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 660,
+      "end_ix": 817,
+      "text": "\nSenior World Health Organization (WHO) official Peter Salama said the spread to Mbandaka meant there was the potential for an \u201cexplosive increase\u201d in cases.",
+      "new_text": "\nSenior World Health Organization (WHO) official Peter Salama said the spread to Mbandaka meant there was the potential for an increase in cases.",
+      "prop_spans": [
+        [
+          788,
+          806,
+          "Repetition"
+        ],
+        [
+          788,
+          806,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 817,
+      "end_ix": 881,
+      "text": "\n\u201cThis is a major development in the outbreak,\u201d he told the BBC.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 881,
+      "end_ix": 954,
+      "text": "\n\u201cWe have urban Ebola, which is a very different animal from rural Ebola.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 954,
+      "end_ix": 1368,
+      "text": "\nThe potential for an explosive increase in cases is now there.\u201d Mr Salama, the WHO\u2019s deputy director-general for emergency preparedness and response, said Mbandaka\u2019s location on the Congo river, widely used for transportation, raised the prospect of Ebola spreading to surrounding countries such as Congo-Brazzaville and the Central African Republic as well as downstream to Kinshasa, a city of 10 million people.",
+      "new_text": "\nThe potential for an explosive increase in cases is now there.\u201d Mr Salama, the WHO\u2019s deputy director-general for emergency preparedness and response, said Mbandaka\u2019s location on the Congo river, widely used for transportation, raised the prospect of Ebola spreading to surrounding countries such as Congo-Brazzaville and the Central African Republic as well as downstream to Kinshasa, a city of 10 million people.",
+      "prop_spans": [
+        [
+          955,
+          1003,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          976,
+          994,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1368,
+      "end_ix": 1540,
+      "text": "\n\u201cThis puts a whole different lens on this outbreak and gives us increased urgency to move very quickly into Mbandaka to stop this new first sign of transmission,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1540,
+      "end_ix": 1715,
+      "text": "\nThe BBC adds that the WHO said it was not recommending any trade or travel restrictions either within DR Congo, for example between Mbandaka and Kinshasa, or internationally.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1715,
+      "end_ix": 1871,
+      "text": "\nBut Mr Salama said that 13 countries in the region were boosting border screening measures and said DR Congo itself was increasing exit screening measures.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1871,
+      "end_ix": 1962,
+      "text": "\n\u201cThe good news is that the DR Congo population is very used to Ebola outbreaks,\u201d he added.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1962,
+      "end_ix": 2042,
+      "text": "\n\u201cThey know to protect themselves by avoiding mass gatherings and mass funerals.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2042,
+      "end_ix": 2285,
+      "text": "\nThey know as well that traditional healers can amplify the outbreak.\u201d\nAs The Daily Mail notes, it is the ninth time Ebola has been recorded in Congo since the disease made its first known appearance near its northern Ebola river in the 1970s.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2285,
+      "end_ix": 2408,
+      "text": "\nEbola is most feared for the internal and external bleeding it can cause in victims owing to damage done to blood vessels.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2408,
+      "end_ix": 2648,
+      "text": "\nThe Mail reports that health workers have recorded confirmed, probable and suspected cases of Ebola in three health zones of Congo\u2019s Equateur province, and have identified 432 people who may have had contact with the disease, the WHO said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2648,
+      "end_ix": 2746,
+      "text": "\nSupplies sent to Congo included more than 300 body bags for safe burials in affected communities.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2746,
+      "end_ix": 2864,
+      "text": "\nThe vaccine will be reserved for people suspected of coming into contact with the disease, as well as health workers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2864,
+      "end_ix": 2990,
+      "text": "\nThe vaccine requires storage at a temperature between -60 and -80 degrees C, tricky in a country with unreliable electricity.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      50,
+      80,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      62,
+      71,
+      "Loaded_Language"
+    ],
+    [
+      176,
+      194,
+      "Repetition"
+    ],
+    [
+      788,
+      806,
+      "Repetition"
+    ],
+    [
+      788,
+      806,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      955,
+      1003,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      976,
+      994,
+      "Repetition"
+    ]
+  ]
+}

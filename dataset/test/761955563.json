@@ -1,0 +1,548 @@
+{
+  "article_id": "761955563",
+  "sentence offsets in original": [
+    0,
+    109,
+    212,
+    368,
+    559,
+    686,
+    751,
+    816,
+    1016,
+    1098,
+    1126,
+    1189,
+    1332,
+    1406,
+    1574,
+    1843,
+    2099,
+    2302,
+    2453,
+    2510,
+    2589,
+    2730,
+    2754,
+    2881,
+    3074,
+    3223,
+    3393,
+    3461,
+    3581,
+    3638,
+    3832,
+    3906,
+    4043,
+    4110,
+    4226,
+    4243,
+    4286,
+    4382,
+    4398,
+    4406
+  ],
+  "original sentences": [
+    "More UK Sharia: Firefighter Suspended For Supporting Tommy Robinson\n\nNo one can say this is not what this is.",
+    "\nThe Sharia is being implemented in the United Kingdom and the Muslims are ready to seek total control.",
+    "\nThe latest evidence of that fact is the suspension of a firefighter who simply voiced his support for the English Defence League's founder, Tommy Robinson.",
+    "\nA firefighter with Nottinghamshire Fire and Rescue Service took to Facebook to state that he had been suspended from his job over giving support to Stephen Yaxley-Lennon, aka Tommy Robinson.",
+    "\nThe Daily Star reports:\ntake our poll - story continues below Whom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\nWhom do you consider to be the most corrupt Democrat Politician?",
+    "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\nNow, a firefighter has taken to his social media account \u201cJono Booth\u201d and claims to have been suspended after supporting Robinson on Facebook.",
+    "\nThe open account account messaged publicly in support of jailed Robinson.",
+    "\nAfter a number of messages, the account claimed the firefighter was leaving Nottinghamshire Fire and Rescue Service after being suspended over his conduct on Facebook.",
+    "\nThe post read: \u201cWell after 22 years in the fire service as a firefighter for Nottinghamshire, yesterday I had a phone call from the fire service saying that I\u2019ve been suspended from duty with immediate effect and I had to hand in my on call alerter and photo I.D card.",
+    "\n\u201cOn asking for what reason this was happening I was told I was going to be investigated on some of the content I had recently put on Facebook.\u201d He added: \u201cSince yesterday morning\u2019s phone call from them I have since handed my notice in at the fire service.",
+    "\n\u201cFirefighter Booth signing off.\u201d\u2026\nRobinson was arrested, tried, and sentenced to 13 months within an hour for simply reporting outside a criminal trial involving a Muslim rape gang at Leeds Crown Court.",
+    "\nThe judge also put a gag on the press so they were not allowed to report on the arrest, and many reputable outlets complied by removing their stories.",
+    "\nRobinson was denied due process, according to the judge.",
+    "\nRobinson has been at the forefront of exposing the criminal elements in Islam.",
+    "\nJust last week I reported on his previous comments about being incarcerated earlier and that it might be a plot to get rid of him in prison.",
+    "\nThis isn't far-fetched.",
+    "\nIn March, we reported on Britain First's Paul Golding was attacked by two inmates at HMP Elmley, on the Isle of Sheppey, Kent.",
+    "\nGolding was found guilty on 7 March at Folkestone Magistrates\u2019 Court of religiously-aggravated harassment alongside deputy leader Jayda Fransen which they carried out in Kent in May last year.",
+    "\nThe court heard the pair launched a political campaign in which they claimed to be trying to expose Muslim men who were the subject of a rape trial.",
+    "\nSo, expose the Islamists fro who and what they are and what Islam's founder not only taught them, but modeled for them, and you may just find yourself in jail in the UK.",
+    "\nSadly, the same scenario is making some strides in the US, as well.",
+    "\nFree Tommy Robinson protests are set for this weekend, and Dutch MP Geert Wilders has said he will join those protests.",
+    "\nWilders has called Robinson's imprisonment a \"disgrace.\"",
+    "\nHe told Breitbart:\nTommy Robinson was arrested on May 25 outside Leeds Crown Court after using social media to broadcast details of an ongoing trial which was subject to reporting restrictions.",
+    "\nHe was arrested, brought before a judge, and sentenced within five hours.",
+    "\nThe judge ordered a media ban on his arrest and imprisonment, even forcing British publications to delete their articles about the case.",
+    "\nSuch measures are common practice in North Korea and Saudi Arabia.",
+    "\nIt is sad to see how Britain, the cradle of Western democracy and the rule of law, is fast descending into tyranny.",
+    "\nTommy is a hero.",
+    "\nIt is a disgrace that he is still in jail.",
+    "\nI have been invited to a major protest demonstration in London next week, and I will be coming.",
+    "\nFree Tommy now.",
+    "\nIndeed!",
+    "\nFree Tommy Robinson now!"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 109,
+      "text": "More UK Sharia: Firefighter Suspended For Supporting Tommy Robinson\n\nNo one can say this is not what this is.",
+      "new_text": "More UK Sharia: Firefighter Suspended For Supporting Tommy Robinson\n\n",
+      "prop_spans": [
+        [
+          69,
+          108,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          84,
+          108,
+          "Thought-terminating_Cliches"
+        ]
+      ]
+    },
+    {
+      "start_ix": 109,
+      "end_ix": 212,
+      "text": "\nThe Sharia is being implemented in the United Kingdom and the Muslims are ready to seek total control.",
+      "new_text": "\nThe Sharia is being implemented in the United Kingdom and the Muslims are probably ready to seek control.",
+      "prop_spans": [
+        [
+          172,
+          211,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 212,
+      "end_ix": 368,
+      "text": "\nThe latest evidence of that fact is the suspension of a firefighter who simply voiced his support for the English Defence League's founder, Tommy Robinson.",
+      "new_text": "\nThe latest evidence of that is the suspension of a firefighter who voiced his support for the English Defence League's founder, Tommy Robinson.",
+      "prop_spans": [
+        [
+          241,
+          245,
+          "Black-and-White_Fallacy"
+        ],
+        [
+          285,
+          291,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 368,
+      "end_ix": 559,
+      "text": "\nA firefighter with Nottinghamshire Fire and Rescue Service took to Facebook to state that he had been suspended from his job over giving support to Stephen Yaxley-Lennon, aka Tommy Robinson.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 559,
+      "end_ix": 686,
+      "text": "\nThe Daily Star reports:\ntake our poll - story continues below Whom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 686,
+      "end_ix": 751,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 751,
+      "end_ix": 816,
+      "text": "\nWhom do you consider to be the most corrupt Democrat Politician?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 816,
+      "end_ix": 1016,
+      "text": "\n* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker\nEmail *\nPhone This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1016,
+      "end_ix": 1098,
+      "text": "\nCompleting this poll grants you access to Freedom Outpost updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1098,
+      "end_ix": 1126,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1126,
+      "end_ix": 1189,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1189,
+      "end_ix": 1332,
+      "text": "\nNow, a firefighter has taken to his social media account \u201cJono Booth\u201d and claims to have been suspended after supporting Robinson on Facebook.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1332,
+      "end_ix": 1406,
+      "text": "\nThe open account account messaged publicly in support of jailed Robinson.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1406,
+      "end_ix": 1574,
+      "text": "\nAfter a number of messages, the account claimed the firefighter was leaving Nottinghamshire Fire and Rescue Service after being suspended over his conduct on Facebook.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1574,
+      "end_ix": 1843,
+      "text": "\nThe post read: \u201cWell after 22 years in the fire service as a firefighter for Nottinghamshire, yesterday I had a phone call from the fire service saying that I\u2019ve been suspended from duty with immediate effect and I had to hand in my on call alerter and photo I.D card.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1843,
+      "end_ix": 2099,
+      "text": "\n\u201cOn asking for what reason this was happening I was told I was going to be investigated on some of the content I had recently put on Facebook.\u201d He added: \u201cSince yesterday morning\u2019s phone call from them I have since handed my notice in at the fire service.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2099,
+      "end_ix": 2302,
+      "text": "\n\u201cFirefighter Booth signing off.\u201d\u2026\nRobinson was arrested, tried, and sentenced to 13 months within an hour for simply reporting outside a criminal trial involving a Muslim rape gang at Leeds Crown Court.",
+      "new_text": "\n\u201cFirefighter Booth signing off.\u201d\u2026\nRobinson was arrested, tried, and sentenced to 13 months for reporting outside a criminal trial involving a Muslim rape gang at Leeds Crown Court.",
+      "prop_spans": [
+        [
+          2191,
+          2205,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2210,
+          2216,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2302,
+      "end_ix": 2453,
+      "text": "\nThe judge also put a gag on the press so they were not allowed to report on the arrest, and many reputable outlets complied by removing their stories.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2453,
+      "end_ix": 2510,
+      "text": "\nRobinson was denied due process, according to the judge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2510,
+      "end_ix": 2589,
+      "text": "\nRobinson has been at the forefront of exposing the criminal elements in Islam.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2589,
+      "end_ix": 2730,
+      "text": "\nJust last week I reported on his previous comments about being incarcerated earlier and that it might be a plot to get rid of him in prison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2730,
+      "end_ix": 2754,
+      "text": "\nThis isn't far-fetched.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2754,
+      "end_ix": 2881,
+      "text": "\nIn March, we reported on Britain First's Paul Golding was attacked by two inmates at HMP Elmley, on the Isle of Sheppey, Kent.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2881,
+      "end_ix": 3074,
+      "text": "\nGolding was found guilty on 7 March at Folkestone Magistrates\u2019 Court of religiously-aggravated harassment alongside deputy leader Jayda Fransen which they carried out in Kent in May last year.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3074,
+      "end_ix": 3223,
+      "text": "\nThe court heard the pair launched a political campaign in which they claimed to be trying to expose Muslim men who were the subject of a rape trial.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3223,
+      "end_ix": 3393,
+      "text": "\nSo, expose the Islamists fro who and what they are and what Islam's founder not only taught them, but modeled for them, and you may just find yourself in jail in the UK.",
+      "new_text": "\nSo, expose the Islamists, and you may just find yourself in jail in the UK.",
+      "prop_spans": [
+        [
+          3228,
+          3342,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3393,
+      "end_ix": 3461,
+      "text": "\nSadly, the same scenario is making some strides in the US, as well.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3461,
+      "end_ix": 3581,
+      "text": "\nFree Tommy Robinson protests are set for this weekend, and Dutch MP Geert Wilders has said he will join those protests.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3581,
+      "end_ix": 3638,
+      "text": "\nWilders has called Robinson's imprisonment a \"disgrace.\"",
+      "new_text": "\nWilders has called Robinson's imprisonment a \"disgrace.\"",
+      "prop_spans": [
+        [
+          3628,
+          3636,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3638,
+      "end_ix": 3832,
+      "text": "\nHe told Breitbart:\nTommy Robinson was arrested on May 25 outside Leeds Crown Court after using social media to broadcast details of an ongoing trial which was subject to reporting restrictions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3832,
+      "end_ix": 3906,
+      "text": "\nHe was arrested, brought before a judge, and sentenced within five hours.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3906,
+      "end_ix": 4043,
+      "text": "\nThe judge ordered a media ban on his arrest and imprisonment, even forcing British publications to delete their articles about the case.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4043,
+      "end_ix": 4110,
+      "text": "\nSuch measures are common practice in North Korea and Saudi Arabia.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          4044,
+          4109,
+          "Reductio_ad_hitlerum"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4110,
+      "end_ix": 4226,
+      "text": "\nIt is sad to see how Britain, the cradle of Western democracy and the rule of law, is fast descending into tyranny.",
+      "new_text": "\nIt is sad to see how Britain, the cradle of Western democracy and the rule of law, is fast turning into an autocracy.",
+      "prop_spans": [
+        [
+          4202,
+          4225,
+          "Appeal_to_fear-prejudice"
+        ],
+        [
+          4202,
+          4225,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4226,
+      "end_ix": 4243,
+      "text": "\nTommy is a hero.",
+      "new_text": "\nTommy is a hero.",
+      "prop_spans": [
+        [
+          4227,
+          4243,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4243,
+      "end_ix": 4286,
+      "text": "\nIt is a disgrace that he is still in jail.",
+      "new_text": "\nIt is a shame that he is still in jail.",
+      "prop_spans": [
+        [
+          4243,
+          4243,
+          "Slogans"
+        ],
+        [
+          4252,
+          4260,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4286,
+      "end_ix": 4382,
+      "text": "\nI have been invited to a major protest demonstration in London next week, and I will be coming.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4382,
+      "end_ix": 4398,
+      "text": "\nFree Tommy now.",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          4383,
+          4397,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4398,
+      "end_ix": 4406,
+      "text": "\nIndeed!",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4406,
+      "end_ix": 4431,
+      "text": "\nFree Tommy Robinson now!",
+      "new_text": "\n",
+      "prop_spans": [
+        [
+          4407,
+          4431,
+          "Repetition"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      69,
+      108,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      84,
+      108,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      172,
+      211,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      241,
+      245,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      285,
+      291,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2191,
+      2205,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2210,
+      2216,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3228,
+      3342,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      3628,
+      3636,
+      "Loaded_Language"
+    ],
+    [
+      4044,
+      4109,
+      "Reductio_ad_hitlerum"
+    ],
+    [
+      4202,
+      4225,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      4202,
+      4225,
+      "Loaded_Language"
+    ],
+    [
+      4227,
+      4243,
+      "Slogans"
+    ],
+    [
+      4252,
+      4260,
+      "Repetition"
+    ],
+    [
+      4383,
+      4397,
+      "Slogans"
+    ],
+    [
+      4407,
+      4432,
+      "Repetition"
+    ]
+  ]
+}

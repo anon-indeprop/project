@@ -1,0 +1,310 @@
+{
+  "article_id": "795079843",
+  "sentence offsets in original": [
+    0,
+    341,
+    523,
+    715,
+    754,
+    1007,
+    1179,
+    1370,
+    1515,
+    1681,
+    1786,
+    1845,
+    1981,
+    2093,
+    2200,
+    2466,
+    2555,
+    2660,
+    2696,
+    2785,
+    2990,
+    3133,
+    3294,
+    3397,
+    3520,
+    3565
+  ],
+  "original sentences": [
+    "No sign of breakthrough after Pompeo meets with Saudi rulers over missing journalist\n\nWASHINGTON \u2014 On an emergency mission to resolve a diplomatic crisis, Secretary of State Michael R. Pompeo held delicate talks Tuesday with the rulers of Saudi Arabia amid growing suspicions that a Virginia-based Saudi columnist was killed on their orders.",
+    "\nPompeo did not report any progress following a day of meetings in Riyadh with Saudi King Salman and his powerful son, Crown Prince Mohammed bin Salman, the country\u2019s de facto ruler.",
+    "\nPresident Donald Trump on Monday ordered Pompeo to rush to the desert kingdom to try to determine the fate of the missing journalist, Jamal Khashoggi, and the diplomat quickly hopped a plane.",
+    "\nIn his meetings, Pompeo conveyed \u201cU.S.",
+    "\nconcern\u201d about Khashoggi\u2019s disappearance two weeks ago, the State Department said, and stressed \u201cthe importance of a thorough, transparent, and timely investigation.\u201d\nThe talks were \u201cdirect and candid,\u201d State Department spokeswoman Heather Nauert said.",
+    "\nPompeo reminded his hosts that despite the numerous bilateral issues the two governments share, determining Khashoggi\u2019s fate was the urgent purpose of this trip, she said.",
+    "\nKhashoggi, a prominent critic of the autocratic Saudi leadership, was last seen entering the Saudi Consulate in Istanbul, Turkey, on Oct. 2, where he was seeking papers to marry his fianc\u00e9e.",
+    "\nTurkish media reports, based in part on apparent audio recordings, have said Khashoggi was beaten to death and then dismembered in the building.",
+    "\nA 15-member Saudi military team had entered the consulate with a bone saw shortly before Khashoggi arrived, and flew out of the country soon after, the reports said.",
+    "\nSaudi officials insisted that Khashoggi left the consulate but have provided no video or other evidence.",
+    "\nThey have denied any responsibility for his disappearance.",
+    "\nHoping to stem a growing furor, Trump on Monday suggested \u201crogue killers,\u201d not the Saudi royal family, may have carried out the murder.",
+    "\nCritics quickly said that Trump was providing an excuse for the Saudi leaders, and participating in a cover-up.",
+    "\nThat seemed to set the stage for Saudi officials to find a way to explain away the alleged shocking death.",
+    "\nThey floated the idea later Monday of claiming that Khashoggi, who wrote opinion pieces for the Washington Post and Arab media, was accidentally killed in an interrogation gone awry inside the consulate \u2014 supposedly without the approval of the king or crown prince.",
+    "\nPublicly, Pompeo and his hosts looked calm and friendly when they met Tuesday in Riyadh.",
+    "\nAt one point, as they greeted each other, Prince Mohammed noted the two countries were important allies.",
+    "\n\u201cAbsolutely,\u201d Pompeo said, smiling.",
+    "\nThe United States long guaranteed Saudi security in exchange for a steady supply of oil.",
+    "\nThose ties have frayed even as the Trump administration has embraced the Saudi rulers as a crucial regional ally in efforts to constrain Iran and to craft a peace plan between Israel and the Palestinians.",
+    "\nThe current crisis has put those broader goals at risk, and the White House has scrambled to find a face-saving solution for the Saudi rulers.",
+    "\nTrump has said he would impose \u201csevere\u201d punishment if proof emerges that Saudi rulers sanctioned Khashoggi\u2019s murder, but he has not said what that would entail.",
+    "\nHe has ruled out cancelling or suspending billions of dollars in arms deals with the oil-rich country.",
+    "\nMany members of Congress have demanded the White House take tougher actions, including punitive sanctions on Saudi rulers.",
+    "\nBut Congress has taken no action on its own.",
+    "\n\u2014 Tracy Wilkinson\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 341,
+      "text": "No sign of breakthrough after Pompeo meets with Saudi rulers over missing journalist\n\nWASHINGTON \u2014 On an emergency mission to resolve a diplomatic crisis, Secretary of State Michael R. Pompeo held delicate talks Tuesday with the rulers of Saudi Arabia amid growing suspicions that a Virginia-based Saudi columnist was killed on their orders.",
+      "new_text": "No sign of breakthrough after Pompeo meets with Saudi rulers over missing journalist\n\nWASHINGTON \u2014 On an important mission to resolve a diplomatic crisis, Secretary of State Michael R. Pompeo held delicate talks Tuesday with the rulers of Saudi Arabia amid growing suspicions that a Virginia-based Saudi columnist was killed on their orders.",
+      "prop_spans": [
+        [
+          105,
+          114,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 341,
+      "end_ix": 523,
+      "text": "\nPompeo did not report any progress following a day of meetings in Riyadh with Saudi King Salman and his powerful son, Crown Prince Mohammed bin Salman, the country\u2019s de facto ruler.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 523,
+      "end_ix": 715,
+      "text": "\nPresident Donald Trump on Monday ordered Pompeo to rush to the desert kingdom to try to determine the fate of the missing journalist, Jamal Khashoggi, and the diplomat quickly hopped a plane.",
+      "new_text": "\nPresident Donald Trump on Monday ordered Pompeo to go to the desert kingdom to try to determine the fate of the missing journalist, Jamal Khashoggi, and the diplomat quickly boarded a plane.",
+      "prop_spans": [
+        [
+          575,
+          579,
+          "Loaded_Language"
+        ],
+        [
+          700,
+          706,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 715,
+      "end_ix": 754,
+      "text": "\nIn his meetings, Pompeo conveyed \u201cU.S.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 754,
+      "end_ix": 1007,
+      "text": "\nconcern\u201d about Khashoggi\u2019s disappearance two weeks ago, the State Department said, and stressed \u201cthe importance of a thorough, transparent, and timely investigation.\u201d\nThe talks were \u201cdirect and candid,\u201d State Department spokeswoman Heather Nauert said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1007,
+      "end_ix": 1179,
+      "text": "\nPompeo reminded his hosts that despite the numerous bilateral issues the two governments share, determining Khashoggi\u2019s fate was the urgent purpose of this trip, she said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1179,
+      "end_ix": 1370,
+      "text": "\nKhashoggi, a prominent critic of the autocratic Saudi leadership, was last seen entering the Saudi Consulate in Istanbul, Turkey, on Oct. 2, where he was seeking papers to marry his fianc\u00e9e.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1370,
+      "end_ix": 1515,
+      "text": "\nTurkish media reports, based in part on apparent audio recordings, have said Khashoggi was beaten to death and then dismembered in the building.",
+      "new_text": "\nTurkish media reports, based in part on apparent audio recordings, have said Khashoggi was allegedly killed and dismembered in the building.",
+      "prop_spans": [
+        [
+          1462,
+          1498,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1515,
+      "end_ix": 1681,
+      "text": "\nA 15-member Saudi military team had entered the consulate with a bone saw shortly before Khashoggi arrived, and flew out of the country soon after, the reports said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1681,
+      "end_ix": 1786,
+      "text": "\nSaudi officials insisted that Khashoggi left the consulate but have provided no video or other evidence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1786,
+      "end_ix": 1845,
+      "text": "\nThey have denied any responsibility for his disappearance.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1845,
+      "end_ix": 1981,
+      "text": "\nHoping to stem a growing furor, Trump on Monday suggested \u201crogue killers,\u201d not the Saudi royal family, may have carried out the murder.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1981,
+      "end_ix": 2093,
+      "text": "\nCritics quickly said that Trump was providing an excuse for the Saudi leaders, and participating in a cover-up.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2093,
+      "end_ix": 2200,
+      "text": "\nThat seemed to set the stage for Saudi officials to find a way to explain away the alleged shocking death.",
+      "new_text": "\nThat seemed to set the stage for Saudi officials to find a way to explain away the alleged death.",
+      "prop_spans": [
+        [
+          2185,
+          2199,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2200,
+      "end_ix": 2466,
+      "text": "\nThey floated the idea later Monday of claiming that Khashoggi, who wrote opinion pieces for the Washington Post and Arab media, was accidentally killed in an interrogation gone awry inside the consulate \u2014 supposedly without the approval of the king or crown prince.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2466,
+      "end_ix": 2555,
+      "text": "\nPublicly, Pompeo and his hosts looked calm and friendly when they met Tuesday in Riyadh.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2555,
+      "end_ix": 2660,
+      "text": "\nAt one point, as they greeted each other, Prince Mohammed noted the two countries were important allies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2660,
+      "end_ix": 2696,
+      "text": "\n\u201cAbsolutely,\u201d Pompeo said, smiling.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2696,
+      "end_ix": 2785,
+      "text": "\nThe United States long guaranteed Saudi security in exchange for a steady supply of oil.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2785,
+      "end_ix": 2990,
+      "text": "\nThose ties have frayed even as the Trump administration has embraced the Saudi rulers as a crucial regional ally in efforts to constrain Iran and to craft a peace plan between Israel and the Palestinians.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2990,
+      "end_ix": 3133,
+      "text": "\nThe current crisis has put those broader goals at risk, and the White House has scrambled to find a face-saving solution for the Saudi rulers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3133,
+      "end_ix": 3294,
+      "text": "\nTrump has said he would impose \u201csevere\u201d punishment if proof emerges that Saudi rulers sanctioned Khashoggi\u2019s murder, but he has not said what that would entail.",
+      "new_text": "\nTrump has said he would impose punishment if proof emerges that Saudi rulers sanctioned Khashoggi\u2019s murder, but he has not said what that would entail.",
+      "prop_spans": [
+        [
+          3165,
+          3173,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3294,
+      "end_ix": 3397,
+      "text": "\nHe has ruled out cancelling or suspending billions of dollars in arms deals with the oil-rich country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3397,
+      "end_ix": 3520,
+      "text": "\nMany members of Congress have demanded the White House take tougher actions, including punitive sanctions on Saudi rulers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3520,
+      "end_ix": 3565,
+      "text": "\nBut Congress has taken no action on its own.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3565,
+      "end_ix": 3674,
+      "text": "\n\u2014 Tracy Wilkinson\nLos Angeles Times\n\u2014\u2014\u2014\n\u00a92018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      105,
+      114,
+      "Loaded_Language"
+    ],
+    [
+      575,
+      579,
+      "Loaded_Language"
+    ],
+    [
+      700,
+      706,
+      "Loaded_Language"
+    ],
+    [
+      1462,
+      1498,
+      "Appeal_to_fear-prejudice"
+    ],
+    [
+      2185,
+      2199,
+      "Loaded_Language"
+    ],
+    [
+      3165,
+      3173,
+      "Loaded_Language"
+    ]
+  ]
+}

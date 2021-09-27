@@ -1,0 +1,225 @@
+{
+  "article_id": "729549972",
+  "sentence offsets in original": [
+    0,
+    123,
+    269,
+    415,
+    611,
+    771,
+    989,
+    1153,
+    1389,
+    1611,
+    1802,
+    2006,
+    2112
+  ],
+  "original sentences": [
+    "NASA captures farthest ever image from Earth\n\n\u00a9 Press Release The historic photograph taken by the New Horizons spacecraft.",
+    "\nPic: NASA\nNASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.",
+    "\nNew Horizons flew past Pluto in July 2015, taking pictures which revealed an even more diverse landscape than scientists had previously imagined.",
+    "\nAfter the fly-by, the spacecraft continued into the Kuiper Belt - similar to the asteroid belt but further out from the Sun and composed of dwarf planets and frozen ice, rather than rocky bodies.",
+    "\nNow, using its Long Range Reconnaissance Imager (LORRI), the spacecraft has photographed several Kuiper Belt objects (KBOs) and dwarf planets at unique angles.",
+    "\n\u00a9 Other A zoomed-in version of the 'Pale Blue Dot' image\nThe false-colour images released by NASA are the farthest from Earth ever captured by a spacecraft, and are also the closest-ever images of Kuiper Belt objects.",
+    "\nNew Horizons was even further away from Earth than the Voyager 1 space probe when it turned towards the Earth on 14 February 1990 and took a picture of a tiny dot.",
+    "\nIn 1994, US astronomer Carl Sagan reflected on the significance of the photograph to an audience at Cornell University, famously coining its name as the \"Pale Blue Dot\", and giving one of the most widely published speeches of all time.",
+    "\n\u00a9 Getty Carl Sagan and the 'Pale Blue Dot' photograph\nNew Horizons is only the fifth man-made spacecraft to ever travel beyond the outer planets, and many of its activities are setting distance records, according to NASA.",
+    "\nIn December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",
+    "\n\"That New Year's flight past MU69 will be the farthest planetary encounter in history, happening one billion miles beyond the Pluto system - which New Horizons famously explored in July 2015,\" said NASA.",
+    "\nFortunately, the spacecraft is healthy and functioning properly, although it is currently in hibernation.",
+    "\nThe mission controllers at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, will bring the spacecraft out of its electronic slumber in June to begin a series of system checkouts and other activities to prepare it for the next record-breaking encounter."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 123,
+      "text": "NASA captures farthest ever image from Earth\n\n\u00a9 Press Release The historic photograph taken by the New Horizons spacecraft.",
+      "new_text": "NASA captures farthest ever image from Earth\n\n\u00a9 Press Release The historic photograph taken by the New Horizons spacecraft.",
+      "prop_spans": [
+        [
+          14,
+          34,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 123,
+      "end_ix": 269,
+      "text": "\nPic: NASA\nNASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.",
+      "new_text": "\nPic: NASA\nNASA has released a photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.",
+      "prop_spans": [
+        [
+          154,
+          170,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 269,
+      "end_ix": 415,
+      "text": "\nNew Horizons flew past Pluto in July 2015, taking pictures which revealed an even more diverse landscape than scientists had previously imagined.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 415,
+      "end_ix": 611,
+      "text": "\nAfter the fly-by, the spacecraft continued into the Kuiper Belt - similar to the asteroid belt but further out from the Sun and composed of dwarf planets and frozen ice, rather than rocky bodies.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 611,
+      "end_ix": 771,
+      "text": "\nNow, using its Long Range Reconnaissance Imager (LORRI), the spacecraft has photographed several Kuiper Belt objects (KBOs) and dwarf planets at unique angles.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 771,
+      "end_ix": 989,
+      "text": "\n\u00a9 Other A zoomed-in version of the 'Pale Blue Dot' image\nThe false-colour images released by NASA are the farthest from Earth ever captured by a spacecraft, and are also the closest-ever images of Kuiper Belt objects.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 989,
+      "end_ix": 1153,
+      "text": "\nNew Horizons was even further away from Earth than the Voyager 1 space probe when it turned towards the Earth on 14 February 1990 and took a picture of a tiny dot.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1153,
+      "end_ix": 1389,
+      "text": "\nIn 1994, US astronomer Carl Sagan reflected on the significance of the photograph to an audience at Cornell University, famously coining its name as the \"Pale Blue Dot\", and giving one of the most widely published speeches of all time.",
+      "new_text": "\nIn 1994, US astronomer Carl Sagan reflected on the significance of the photograph to an audience at Cornell University, famously coining its name as the \"Pale Blue Dot\", and giving one of the most widely published speeches of all time.",
+      "prop_spans": [
+        [
+          1303,
+          1321,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1389,
+      "end_ix": 1611,
+      "text": "\n\u00a9 Getty Carl Sagan and the 'Pale Blue Dot' photograph\nNew Horizons is only the fifth man-made spacecraft to ever travel beyond the outer planets, and many of its activities are setting distance records, according to NASA.",
+      "new_text": "\n\u00a9 Getty Carl Sagan and the 'Pale Blue Dot' photograph\nNew Horizons is only the fifth man-made spacecraft to ever travel beyond the outer planets, and many of its activities are setting distance records, according to NASA.",
+      "prop_spans": [
+        [
+          1413,
+          1431,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1611,
+      "end_ix": 1802,
+      "text": "\nIn December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",
+      "new_text": "\nIn December it successfully carried out a course-correction manoeuvre, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",
+      "prop_spans": [
+        [
+          1652,
+          1701,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1802,
+      "end_ix": 2006,
+      "text": "\n\"That New Year's flight past MU69 will be the farthest planetary encounter in history, happening one billion miles beyond the Pluto system - which New Horizons famously explored in July 2015,\" said NASA.",
+      "new_text": "\n\"That New Year's flight past MU69 will be the farthest planetary encounter in history, happening one billion miles beyond the Pluto system - which New Horizons famously explored in July 2015,\" said NASA.",
+      "prop_spans": [
+        [
+          1845,
+          1888,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2006,
+      "end_ix": 2112,
+      "text": "\nFortunately, the spacecraft is healthy and functioning properly, although it is currently in hibernation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2112,
+      "end_ix": 2382,
+      "text": "\nThe mission controllers at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, will bring the spacecraft out of its electronic slumber in June to begin a series of system checkouts and other activities to prepare it for the next record-breaking encounter.",
+      "new_text": "\nThe mission controllers at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, will bring the spacecraft out of its electronic slumber in June to begin a series of system checkouts and other activities to prepare it for the next encounter.",
+      "prop_spans": [
+        [
+          2347,
+          2381,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          2356,
+          2371,
+          "Repetition"
+        ],
+        [
+          2356,
+          2372,
+          "Loaded_Language"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      14,
+      34,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      154,
+      170,
+      "Loaded_Language"
+    ],
+    [
+      1303,
+      1321,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1413,
+      1431,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1652,
+      1701,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1845,
+      1888,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2347,
+      2381,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2356,
+      2371,
+      "Repetition"
+    ],
+    [
+      2356,
+      2372,
+      "Loaded_Language"
+    ]
+  ]
+}

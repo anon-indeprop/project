@@ -1,0 +1,302 @@
+{
+  "article_id": "729303442",
+  "sentence offsets in original": [
+    0,
+    302,
+    505,
+    888,
+    1031,
+    1225,
+    1271,
+    1406,
+    1669,
+    1794,
+    1873,
+    2045,
+    2594,
+    2712,
+    3073,
+    3551,
+    3597,
+    3671,
+    3812,
+    3975,
+    4292
+  ],
+  "original sentences": [
+    "Vote targeting Jewish student politician was not anti-Semitic: McGill report\n\nMONTREAL \u2013 It was political disagreement \u2014 not anti-Semitism \u2014 that led to a Jewish student being voted off the McGill University student council\u2019s board of directors, an investigation ordered by the principal has concluded.",
+    "\nBut Jewish groups on and off campus have denounced the report as flawed, saying it missed the significance of an anti-Semitic text circulated online before Noah Lew was removed from the board last fall.",
+    "\nA joint statement from five campus Jewish groups says the report, released this week by principal Suzanne Fortier, \u201cappears to condone discrimination against Jewish students at McGill based on the cultural and religious organizations they affiliate with.\u201d\nThe controversy has its roots in McGill\u2019s long-running debate over the anti-Israel Boycott, Divestment and Sanctions movement.",
+    "\nAt an Oct. 23 general assembly of the Student Society of McGill University, a routine motion to elect a slate of directors turned contentious.",
+    "\nSupporters of a group called Democratize SSMU, formed to fight a decision of the board of directors declaring BDS counter to the SSMU constitution, brought a motion to divide the election vote.",
+    "\nIn the past they had been ratified as a bloc.",
+    "\nThe first five candidates were overwhelmingly approved, but when they got to Lew, the only Jewish director, he was rejected 105 to 73.",
+    "\nIn a subsequent Facebook post, Lew wrote, \u201cMy Jewish identity was now public, and a target was placed squarely upon me by the McGill BDS movement.\u201d\nAn outcry followed, leading Fortier to appoint former Ombudsperson for Students, Spencer Boudreau, to investigate.",
+    "\nShe also created a Task Force on Respect and Inclusion in Campus Life and a support line to report incidents of intolerance.",
+    "\nBoudreau interviewed 38 students over his three-and-a-half week investigation.",
+    "\nHis findings, he wrote, do \u201cnot substantiate the notion that the vote was motivated by anti-Semitism,\u201d which he defined as hostility toward or discrimination against Jews.",
+    "\nRather, he found, votes against Lew were \u201cmotivated by politics, that is, based on his support for Israel and Zionism and/or for his view of the BDS movement.\u201d Protests about Israel\u2019s policies cannot be equated with anti-Semitism, Boudreau wrote, though he said Lew\u2019s belief that he was targeted because he was Jewish was \u201chonest and even understandable.\u201d\nA statement Wednesday by Hillel McGill, Chabad at McGill and three other Jewish groups said Boudreau was mistaken about the timing of an anti-Semitic message posted online by Democratize SSMU.",
+    "\nBoudreau\u2019s report said the message followed the assembly vote, but in fact it was posted at the beginning of October.",
+    "\nDemocratize SSMU deleted the message, which targeted Lew and two other candidates, after the meeting and apologized for publishing material that was \u201cinsensitive to anti-Semitic tropes of Jewish people as corrupt and politically powerful.\u201d\nThe Jewish groups said this anti-Semitic rhetoric \u201cwas used to encourage students to vote specifically against Noah Lew.",
+    "\nIt is under this context that the (general assembly) occurred, and the report fundamentally misunderstands this, which alters the entire findings of the report.\u201d\nThey say Boudreau\u2019s report \u201cinsinuates that Jewish students who engage with mainstream Jewish community organizations are permitted to be precluded from holding political office.\u201d\nLew was restored to his post as a director last month after a ruling that the split vote in October had violated the SSMU constitution.",
+    "\nHe was not immediately available for comment.",
+    "\nMichael Mostyn, CEO of B\u2019nai Brith Canada, called the report a whitewash.",
+    "\n\u201cThe report does not present a full or accurate picture of the hostile atmosphere facing Jewish students at McGill,\u201d he said in a statement.",
+    "\nFortier said the university\u2019s next actions will be based on the recommendations of the Task Force on Respect and Inclusion in Campus Life, due to report in April.",
+    "\n\u201cI would like to take this opportunity to make it clear that there is absolutely no place for anti-Semitism at McGill University and that, as principal and vice-chancellor, I will remain vigilant to ensure that all members of our community feel safe, welcomed and respected on our campuses,\u201d she said in a statement.",
+    "\n\u2022 Email: ghamilton@nationalpost.com | Twitter: grayhamilton"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 302,
+      "text": "Vote targeting Jewish student politician was not anti-Semitic: McGill report\n\nMONTREAL \u2013 It was political disagreement \u2014 not anti-Semitism \u2014 that led to a Jewish student being voted off the McGill University student council\u2019s board of directors, an investigation ordered by the principal has concluded.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 302,
+      "end_ix": 505,
+      "text": "\nBut Jewish groups on and off campus have denounced the report as flawed, saying it missed the significance of an anti-Semitic text circulated online before Noah Lew was removed from the board last fall.",
+      "new_text": "\nJewish groups on and off campus have denounced the report as flawed, saying it missed the significance of an anti-Semitic text circulated online before Noah Lew was removed from the board last fall.",
+      "prop_spans": [
+        [
+          303,
+          504,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 505,
+      "end_ix": 888,
+      "text": "\nA joint statement from five campus Jewish groups says the report, released this week by principal Suzanne Fortier, \u201cappears to condone discrimination against Jewish students at McGill based on the cultural and religious organizations they affiliate with.\u201d\nThe controversy has its roots in McGill\u2019s long-running debate over the anti-Israel Boycott, Divestment and Sanctions movement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 888,
+      "end_ix": 1031,
+      "text": "\nAt an Oct. 23 general assembly of the Student Society of McGill University, a routine motion to elect a slate of directors turned contentious.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1031,
+      "end_ix": 1225,
+      "text": "\nSupporters of a group called Democratize SSMU, formed to fight a decision of the board of directors declaring BDS counter to the SSMU constitution, brought a motion to divide the election vote.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1225,
+      "end_ix": 1271,
+      "text": "\nIn the past they had been ratified as a bloc.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1271,
+      "end_ix": 1406,
+      "text": "\nThe first five candidates were overwhelmingly approved, but when they got to Lew, the only Jewish director, he was rejected 105 to 73.",
+      "new_text": "\nThe first five candidates were approved, but when they got to Lew, the only Jewish director, he was rejected 105 to 73.",
+      "prop_spans": [
+        [
+          1303,
+          1326,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1406,
+      "end_ix": 1669,
+      "text": "\nIn a subsequent Facebook post, Lew wrote, \u201cMy Jewish identity was now public, and a target was placed squarely upon me by the McGill BDS movement.\u201d\nAn outcry followed, leading Fortier to appoint former Ombudsperson for Students, Spencer Boudreau, to investigate.",
+      "new_text": "\nIn a subsequent Facebook post, Lew wrote, \u201cMy Jewish identity was now public, and a target was placed squarely upon me by the McGill BDS movement.\u201d\nAn outcry followed, leading Fortier to appoint former Ombudsperson for Students, Spencer Boudreau, to investigate.",
+      "prop_spans": [
+        [
+          1450,
+          1552,
+          "Causal_Oversimplification"
+        ],
+        [
+          1489,
+          1526,
+          "Loaded_Language"
+        ],
+        [
+          1555,
+          1565,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1669,
+      "end_ix": 1794,
+      "text": "\nShe also created a Task Force on Respect and Inclusion in Campus Life and a support line to report incidents of intolerance.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1794,
+      "end_ix": 1873,
+      "text": "\nBoudreau interviewed 38 students over his three-and-a-half week investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1873,
+      "end_ix": 2045,
+      "text": "\nHis findings, he wrote, do \u201cnot substantiate the notion that the vote was motivated by anti-Semitism,\u201d which he defined as hostility toward or discrimination against Jews.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2045,
+      "end_ix": 2594,
+      "text": "\nRather, he found, votes against Lew were \u201cmotivated by politics, that is, based on his support for Israel and Zionism and/or for his view of the BDS movement.\u201d Protests about Israel\u2019s policies cannot be equated with anti-Semitism, Boudreau wrote, though he said Lew\u2019s belief that he was targeted because he was Jewish was \u201chonest and even understandable.\u201d\nA statement Wednesday by Hillel McGill, Chabad at McGill and three other Jewish groups said Boudreau was mistaken about the timing of an anti-Semitic message posted online by Democratize SSMU.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2594,
+      "end_ix": 2712,
+      "text": "\nBoudreau\u2019s report said the message followed the assembly vote, but in fact it was posted at the beginning of October.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2712,
+      "end_ix": 3073,
+      "text": "\nDemocratize SSMU deleted the message, which targeted Lew and two other candidates, after the meeting and apologized for publishing material that was \u201cinsensitive to anti-Semitic tropes of Jewish people as corrupt and politically powerful.\u201d\nThe Jewish groups said this anti-Semitic rhetoric \u201cwas used to encourage students to vote specifically against Noah Lew.",
+      "new_text": "\nDemocratize SSMU deleted the message, which targeted Lew and two other candidates, after the meeting and apologized for publishing material that was \u201cinsensitive to anti-Semitic tropes of Jewish people as corrupt and politically powerful.\u201d\nThe Jewish groups said this anti-Semitic rhetoric \u201cwas used to encourage students to vote specifically against Noah Lew.",
+      "prop_spans": [
+        [
+          2878,
+          2915,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2953,
+          3073,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3073,
+      "end_ix": 3551,
+      "text": "\nIt is under this context that the (general assembly) occurred, and the report fundamentally misunderstands this, which alters the entire findings of the report.\u201d\nThey say Boudreau\u2019s report \u201cinsinuates that Jewish students who engage with mainstream Jewish community organizations are permitted to be precluded from holding political office.\u201d\nLew was restored to his post as a director last month after a ruling that the split vote in October had violated the SSMU constitution.",
+      "new_text": "\nIt is under this context that the (general assembly) occurred, and the report fundamentally misunderstands this, which alters the entire findings of the report.\u201d\nThey say Boudreau\u2019s report \u201cinsinuates that Jewish students who engage with mainstream Jewish community organizations are permitted to be precluded from holding political office.\u201d\nLew was restored to his post as a director last month after a ruling that the split vote in October had violated the SSMU constitution.",
+      "prop_spans": [
+        [
+          3073,
+          3233,
+          "Doubt"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3551,
+      "end_ix": 3597,
+      "text": "\nHe was not immediately available for comment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3597,
+      "end_ix": 3671,
+      "text": "\nMichael Mostyn, CEO of B\u2019nai Brith Canada, called the report a whitewash.",
+      "new_text": "\nMichael Mostyn, CEO of B\u2019nai Brith Canada, called the report a whitewash.",
+      "prop_spans": [
+        [
+          3659,
+          3670,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3671,
+      "end_ix": 3812,
+      "text": "\n\u201cThe report does not present a full or accurate picture of the hostile atmosphere facing Jewish students at McGill,\u201d he said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3812,
+      "end_ix": 3975,
+      "text": "\nFortier said the university\u2019s next actions will be based on the recommendations of the Task Force on Respect and Inclusion in Campus Life, due to report in April.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3975,
+      "end_ix": 4292,
+      "text": "\n\u201cI would like to take this opportunity to make it clear that there is absolutely no place for anti-Semitism at McGill University and that, as principal and vice-chancellor, I will remain vigilant to ensure that all members of our community feel safe, welcomed and respected on our campuses,\u201d she said in a statement.",
+      "new_text": "\n\u201cI would like to take this opportunity to make it clear that there is absolutely no place for anti-Semitism at McGill University and that, as principal and vice-chancellor, I will remain vigilant to ensure that all members of our community feel safe, welcomed and respected on our campuses,\u201d she said in a statement.",
+      "prop_spans": [
+        [
+          4046,
+          4084,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4292,
+      "end_ix": 4352,
+      "text": "\n\u2022 Email: ghamilton@nationalpost.com | Twitter: grayhamilton",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      303,
+      504,
+      "Doubt"
+    ],
+    [
+      1303,
+      1326,
+      "Loaded_Language"
+    ],
+    [
+      1450,
+      1552,
+      "Causal_Oversimplification"
+    ],
+    [
+      1489,
+      1526,
+      "Loaded_Language"
+    ],
+    [
+      1555,
+      1565,
+      "Loaded_Language"
+    ],
+    [
+      2878,
+      2915,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2953,
+      3233,
+      "Doubt"
+    ],
+    [
+      3659,
+      3670,
+      "Name_Calling,Labeling"
+    ],
+    [
+      4046,
+      4084,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

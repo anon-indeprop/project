@@ -1,0 +1,358 @@
+{
+  "article_id": "111111112",
+  "sentence offsets in original": [
+    0,
+    127,
+    220,
+    328,
+    463,
+    603,
+    838,
+    1014,
+    1205,
+    1427,
+    1455,
+    1535,
+    1708,
+    1798,
+    1852,
+    1912,
+    2027,
+    2124,
+    2207,
+    2262,
+    2324,
+    2393,
+    2451,
+    2645,
+    2868
+  ],
+  "original sentences": [
+    "US bloggers banned from entering UK\n\nTwo prominent US bloggers have been banned from entering the UK, the Home Office has said.",
+    "\n\nPamela Geller and Robert Spencer co-founded anti-Muslim group Stop Islamization of America.",
+    "\n\nThey were due to speak at an English Defence League march in Woolwich, where Drummer Lee Rigby was killed.",
+    "\n\nA government spokesman said individuals whose presence \"is not conducive to the public good\" could be excluded by the home secretary.",
+    "\n\nHe added: \"We condemn all those whose behaviours and views run counter to our shared values and will not stand for extremism in any form.\"",
+    "\n\n'Right decision'\nMs Geller, of the Atlas Shrugs blog, and Mr Spencer, of Jihad Watch, are also co-founders of the American Freedom Defense Initiative, best known for a pro-Israel \"Defeat Jihad\" poster campaign on the New York subway.",
+    "\nOn both of their blogs the pair called their bans from entering the UK \"a striking blow against freedom\" and said the \"the nation that gave the world the Magna Carta is dead\".",
+    "\n\nThey were due to attend a march planned by the far-right EDL to mark Armed Forces Day on 29 June, ending in Woolwich, south east London, where soldier Drummer Rigby was murdered last month.",
+    "\n\nKeith Vaz, chairman of the Home Affairs Select Committee, who had called for the bloggers to be banned from the UK, said: \"I welcome the home secretary's ban on Pamela Geller and Robert Spencer from entering the country.",
+    "\nThis is the right decision.",
+    "\nThe UK should never become a stage for inflammatory speakers who promote hate.\"",
+    "\n\nEDL leader Tommy Robinson, meanwhile, criticised the decision and said Ms Geller and Mr Spencer were coming to the UK to lay flowers at the place where Drummer Rigby died.",
+    "\n\n\"It's embarrassing for this so-called land of democracy and freedom of speech,\" he said.",
+    "\n\n\"How many hate preachers are living in this country?",
+    "\nIt just shows what sort of a two-tier system we have here.\"",
+    "\n\n'Foster hatred'\nAnti-fascism campaigners Hope Not Hate had campaigned for the pair to not be allowed into the UK.",
+    "\n\nA researcher with the organisation, Matthew Collins, said it was \"delighted\" with the decision.",
+    "\n\n\"These two are among some of the most extreme anti-Muslim activists in the world.",
+    "\nThey've nothing to contribute to life in this country.",
+    "\n\n\"They're not here to contribute to good community relations.",
+    "\nThey only wanted to come here and help the EDL stir up more trouble.",
+    "\nBritain doesn't need more hate even just for a few days.\"",
+    "\n\nMr Spencer put up a copy of what appears to be the exclusion decision from the Home Office on the Jihad Watch website, while Ms Geller posted a copy of her letter on her website, Atlas Shrugs.",
+    "\n\nThe letters, both dated Tuesday, claim that both activists have fallen within the scope of a list of unacceptable behaviours by making statements which may \"foster hatred\" and lead to \"inter-community violence\" in the UK.",
+    "\n\nBoth letters gave examples of anti-Muslim views stated by both and went on to say that should they be allowed to enter the UK the home secretary believes they would \"continue to espouse such views\"."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 127,
+      "text": "US bloggers banned from entering UK\n\nTwo prominent US bloggers have been banned from entering the UK, the Home Office has said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 127,
+      "end_ix": 220,
+      "text": "\n\nPamela Geller and Robert Spencer co-founded anti-Muslim group Stop Islamization of America.",
+      "new_text": "\n\nPamela Geller and Robert Spencer co-founded anti-Muslim group Stop Islamization of America.",
+      "prop_spans": [
+        [
+          191,
+          220,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 220,
+      "end_ix": 328,
+      "text": "\n\nThey were due to speak at an English Defence League march in Woolwich, where Drummer Lee Rigby was killed.",
+      "new_text": "\n\nThey were due to speak at an English Defence League march in Woolwich, where Drummer Lee Rigby was killed.",
+      "prop_spans": [
+        [
+          220,
+          221,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 328,
+      "end_ix": 463,
+      "text": "\n\nA government spokesman said individuals whose presence \"is not conducive to the public good\" could be excluded by the home secretary.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 463,
+      "end_ix": 603,
+      "text": "\n\nHe added: \"We condemn all those whose behaviours and views run counter to our shared values and will not stand for extremism in any form.\"",
+      "new_text": "\n\nHe added: \"We condemn all those whose behaviours and views run counter to our shared values and will not stand for extremism in any form.\"",
+      "prop_spans": [
+        [
+          476,
+          556,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 603,
+      "end_ix": 838,
+      "text": "\n\n'Right decision'\nMs Geller, of the Atlas Shrugs blog, and Mr Spencer, of Jihad Watch, are also co-founders of the American Freedom Defense Initiative, best known for a pro-Israel \"Defeat Jihad\" poster campaign on the New York subway.",
+      "new_text": "\n\n'Right decision'\nMs Geller, of the Atlas Shrugs blog, and Mr Spencer, of Jihad Watch, are also co-founders of the American Freedom Defense Initiative, best known for a pro-Israel \"Defeat Jihad\" poster campaign on the New York subway.",
+      "prop_spans": [
+        [
+          785,
+          798,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 838,
+      "end_ix": 1014,
+      "text": "\nOn both of their blogs the pair called their bans from entering the UK \"a striking blow against freedom\" and said the \"the nation that gave the world the Magna Carta is dead\".",
+      "new_text": "\nOn both of their blogs the pair called their bans from entering the UK \"a striking blow against freedom\" and said the \"the nation that gave the world the Magna Carta is dead\".",
+      "prop_spans": [
+        [
+          911,
+          942,
+          "Loaded_Language"
+        ],
+        [
+          958,
+          1014,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1014,
+      "end_ix": 1205,
+      "text": "\n\nThey were due to attend a march planned by the far-right EDL to mark Armed Forces Day on 29 June, ending in Woolwich, south east London, where soldier Drummer Rigby was murdered last month.",
+      "new_text": "\n\nThey were due to attend a march planned by the far-right EDL to mark Armed Forces Day on 29 June, ending in Woolwich, south east London, where soldier Drummer Rigby was murdered last month.",
+      "prop_spans": [
+        [
+          1014,
+          1015,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1205,
+      "end_ix": 1427,
+      "text": "\n\nKeith Vaz, chairman of the Home Affairs Select Committee, who had called for the bloggers to be banned from the UK, said: \"I welcome the home secretary's ban on Pamela Geller and Robert Spencer from entering the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1427,
+      "end_ix": 1455,
+      "text": "\nThis is the right decision.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1455,
+      "end_ix": 1535,
+      "text": "\nThe UK should never become a stage for inflammatory speakers who promote hate.\"",
+      "new_text": "\nThe UK should never become a stage for inflammatory speakers who promote hate.\"",
+      "prop_spans": [
+        [
+          1456,
+          1535,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1535,
+      "end_ix": 1708,
+      "text": "\n\nEDL leader Tommy Robinson, meanwhile, criticised the decision and said Ms Geller and Mr Spencer were coming to the UK to lay flowers at the place where Drummer Rigby died.",
+      "new_text": "\n\nEDL leader Tommy Robinson, meanwhile, criticised the decision and said Ms Geller and Mr Spencer were coming to the UK to lay flowers at the place where Drummer Rigby died.",
+      "prop_spans": [
+        [
+          1535,
+          1536,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1708,
+      "end_ix": 1798,
+      "text": "\n\n\"It's embarrassing for this so-called land of democracy and freedom of speech,\" he said.",
+      "new_text": "\n\n\"It's embarrassing for this so-called land of democracy and freedom of speech,\" he said.",
+      "prop_spans": [
+        [
+          1738,
+          1787,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1798,
+      "end_ix": 1852,
+      "text": "\n\n\"How many hate preachers are living in this country?",
+      "new_text": "\n\n\"How many hate preachers are living in this country?",
+      "prop_spans": [
+        [
+          1810,
+          1824,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1852,
+      "end_ix": 1912,
+      "text": "\nIt just shows what sort of a two-tier system we have here.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1912,
+      "end_ix": 2027,
+      "text": "\n\n'Foster hatred'\nAnti-fascism campaigners Hope Not Hate had campaigned for the pair to not be allowed into the UK.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2027,
+      "end_ix": 2124,
+      "text": "\n\nA researcher with the organisation, Matthew Collins, said it was \"delighted\" with the decision.",
+      "new_text": "\n\nA researcher with the organisation, Matthew Collins, said it liked  with the decision.",
+      "prop_spans": [
+        [
+          2095,
+          2124,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2124,
+      "end_ix": 2207,
+      "text": "\n\n\"These two are among some of the most extreme anti-Muslim activists in the world.",
+      "new_text": "\n\n\"These two are among some of the most extreme anti-Muslim activists in the world.",
+      "prop_spans": [
+        [
+          2124,
+          2125,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2207,
+      "end_ix": 2262,
+      "text": "\nThey've nothing to contribute to life in this country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2262,
+      "end_ix": 2324,
+      "text": "\n\n\"They're not here to contribute to good community relations.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2324,
+      "end_ix": 2393,
+      "text": "\nThey only wanted to come here and help the EDL stir up more trouble.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2393,
+      "end_ix": 2451,
+      "text": "\nBritain doesn't need more hate even just for a few days.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2451,
+      "end_ix": 2645,
+      "text": "\n\nMr Spencer put up a copy of what appears to be the exclusion decision from the Home Office on the Jihad Watch website, while Ms Geller posted a copy of her letter on her website, Atlas Shrugs.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2645,
+      "end_ix": 2868,
+      "text": "\n\nThe letters, both dated Tuesday, claim that both activists have fallen within the scope of a list of unacceptable behaviours by making statements which may \"foster hatred\" and lead to \"inter-community violence\" in the UK.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2868,
+      "end_ix": 3068,
+      "text": "\n\nBoth letters gave examples of anti-Muslim views stated by both and went on to say that should they be allowed to enter the UK the home secretary believes they would \"continue to espouse such views\".",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      191,
+      221,
+      "Slogans"
+    ],
+    [
+      476,
+      556,
+      "Black-and-White_Fallacy"
+    ],
+    [
+      785,
+      798,
+      "Slogans"
+    ],
+    [
+      911,
+      942,
+      "Loaded_Language"
+    ],
+    [
+      958,
+      1015,
+      "Loaded_Language"
+    ],
+    [
+      1456,
+      1536,
+      "Flag-Waving"
+    ],
+    [
+      1738,
+      1787,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1810,
+      1824,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2095,
+      2125,
+      "Loaded_Language"
+    ]
+  ]
+}

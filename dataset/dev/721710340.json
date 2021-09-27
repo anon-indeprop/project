@@ -1,0 +1,394 @@
+{
+  "article_id": "721710340",
+  "sentence offsets in original": [
+    0,
+    325,
+    551,
+    610,
+    755,
+    969,
+    1089,
+    1554,
+    1746,
+    1852,
+    1880,
+    1957,
+    2060,
+    2138,
+    2261,
+    2364,
+    2455,
+    2495,
+    2583,
+    2735,
+    2815,
+    2882,
+    2985,
+    3063,
+    3116,
+    3219,
+    3414,
+    3730,
+    3878,
+    4131
+  ],
+  "original sentences": [
+    "ICE Arrests 22 In Chicago Area During 3-Day Operation\n\nCHICAGO \u2014 Federal officers with U.S. Immigration and Customs Enforcement\u2019s (ICE) Enforcement and Removal Operations (ERO) arrested 22 criminal aliens and immigration violators in Illinois\u2019 Cook and Lake counties during a three-day enforcement action, which ended Monday.",
+    "\nDuring this operation, ERO deportation officers made arrests in the following Illinois cities and towns: Chicago (9), Cicero (4), Hoffman Estates (1), Palatine (4), Park City (1), Rolling Meadows (2) and Round Lake Beach (1).",
+    "\nAll those arrested were men between the ages of 20 and 53.",
+    "\nAliens arrested during this operation are from the following five countries: Ecuador (1), Honduras (2), Mexico (17), Serbia (1) and Ukraine (1).",
+    "\nSix of the 22 arrested during this operation were criminal aliens who were released back into their communities after local law enforcement failed to honor an immigration detainer placed on the individuals by ICE.",
+    "\nImmigration detainers request that ICE be notified before the individual is released from local custody for any reason.",
+    "\nMost of the aliens targeted by ERO deportation officers during this operation had prior criminal histories that included convictions for the following crimes: sexual assault, kidnapping, assault, assault with a weapon, drug possession, theft, obstruction of justice and driving under the influence (DUI); two were known fugitive immigration violators, and six were arrested for illegally re-entering the United States after having been deported, which is a felony.",
+    "\nThe following are criminal summaries of the offenders arrested in Illinois during this operation:\nA 38-year-old Mexican citizen and a known gang member was arrested Jan. 8 in Rolling Meadows.",
+    "\nHe was previously convicted in Cook County for felony aggravated criminal sexual assault and bodily harm.",
+    "\nHe was previously deported.",
+    "\nCook County Sheriff\u2019s Office did not honor the ICE detainer that was placed.",
+    "\nHe remains in ICE custody pending presentation of criminal prosecution for re-entry after deportation.",
+    "\nA 37-year-old previously deported Mexican man was arrested Jan. 7 in Chicago.",
+    "\nHe was previously convicted twice of drug possession, and he has pending criminal charges for sexually assaulting a child.",
+    "\nHe remains in ICE custody pending presentation of criminal prosecution for re-entry after deportation.",
+    "\nA 20-year-old Mexican man and a known gang member was arrested Jan. 7 in Round Lake Beach.",
+    "\nHe was previously convicted of battery.",
+    "\nHe is also Deferred Action for Childhood Arrivals (DACA) recipient with two extensions.",
+    "\nHe was served a notice to appear before a federal immigration judge, and will remain in ICE custody pending disposition of his immigration proceedings.",
+    "\nA 32-year-old previously deported Ecuadoran man was arrested Jan. 7 in Chicago.",
+    "\nHe has criminal convictions for DUI, domestic assault and assault.",
+    "\nHe remains in ICE custody pending presentation of criminal prosecution for re-entry after deportation.",
+    "\nA 46-year-old previously deported Mexican man was arrested Jan. 7 in Chicago.",
+    "\nHe has a criminal conviction for possessing cocaine.",
+    "\nHe remains in ICE custody pending presentation of criminal prosecution for re-entry after deportation.",
+    "\nDepending on an alien\u2019s criminality, an alien who re-enters the United States after having been previously deported commits a felony punishable by up to 20 years in federal prison, if convicted.",
+    "\n\u201cOur dedicated officers strive to make our communities safer by arresting convicted criminal aliens and removing them from the United States despite the reckless sanctuary policies that are currently in place in Cook County that put our communities at risk,\u201d said Ricardo Wong, field office director of ERO Chicago.",
+    "\n\u201cThis operation focused on targeting immigration fugitives and criminal aliens in two Illinois counties, but we routinely conduct operations daily.",
+    "\nBy removing criminal aliens from the streets, our ICE officers provide an invaluable community service by improving public safety.\u201d\nAll of the targets in this operation were amenable to arrest and removal under the U.S. Immigration and Nationality Act.",
+    "\nICE deportation officers carry out targeted enforcement operations daily nationwide as part of the agency\u2019s ongoing efforts to protect the nation, uphold public safety, and protect the integrity of our immigration laws and border controls."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 325,
+      "text": "ICE Arrests 22 In Chicago Area During 3-Day Operation\n\nCHICAGO \u2014 Federal officers with U.S. Immigration and Customs Enforcement\u2019s (ICE) Enforcement and Removal Operations (ERO) arrested 22 criminal aliens and immigration violators in Illinois\u2019 Cook and Lake counties during a three-day enforcement action, which ended Monday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 325,
+      "end_ix": 551,
+      "text": "\nDuring this operation, ERO deportation officers made arrests in the following Illinois cities and towns: Chicago (9), Cicero (4), Hoffman Estates (1), Palatine (4), Park City (1), Rolling Meadows (2) and Round Lake Beach (1).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 551,
+      "end_ix": 610,
+      "text": "\nAll those arrested were men between the ages of 20 and 53.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 610,
+      "end_ix": 755,
+      "text": "\nAliens arrested during this operation are from the following five countries: Ecuador (1), Honduras (2), Mexico (17), Serbia (1) and Ukraine (1).",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 755,
+      "end_ix": 969,
+      "text": "\nSix of the 22 arrested during this operation were criminal aliens who were released back into their communities after local law enforcement failed to honor an immigration detainer placed on the individuals by ICE.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 969,
+      "end_ix": 1089,
+      "text": "\nImmigration detainers request that ICE be notified before the individual is released from local custody for any reason.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1089,
+      "end_ix": 1554,
+      "text": "\nMost of the aliens targeted by ERO deportation officers during this operation had prior criminal histories that included convictions for the following crimes: sexual assault, kidnapping, assault, assault with a weapon, drug possession, theft, obstruction of justice and driving under the influence (DUI); two were known fugitive immigration violators, and six were arrested for illegally re-entering the United States after having been deported, which is a felony.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1554,
+      "end_ix": 1746,
+      "text": "\nThe following are criminal summaries of the offenders arrested in Illinois during this operation:\nA 38-year-old Mexican citizen and a known gang member was arrested Jan. 8 in Rolling Meadows.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1746,
+      "end_ix": 1852,
+      "text": "\nHe was previously convicted in Cook County for felony aggravated criminal sexual assault and bodily harm.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1852,
+      "end_ix": 1880,
+      "text": "\nHe was previously deported.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1880,
+      "end_ix": 1957,
+      "text": "\nCook County Sheriff\u2019s Office did not honor the ICE detainer that was placed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1957,
+      "end_ix": 2060,
+      "text": "\nHe remains in ICE custody pending presentation of criminal prosecution for re-entry after deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2060,
+      "end_ix": 2138,
+      "text": "\nA 37-year-old previously deported Mexican man was arrested Jan. 7 in Chicago.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2138,
+      "end_ix": 2261,
+      "text": "\nHe was previously convicted twice of drug possession, and he has pending criminal charges for sexually assaulting a child.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2261,
+      "end_ix": 2364,
+      "text": "\nHe remains in ICE custody pending presentation of criminal prosecution for re-entry after deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2364,
+      "end_ix": 2455,
+      "text": "\nA 20-year-old Mexican man and a known gang member was arrested Jan. 7 in Round Lake Beach.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2455,
+      "end_ix": 2495,
+      "text": "\nHe was previously convicted of battery.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2495,
+      "end_ix": 2583,
+      "text": "\nHe is also Deferred Action for Childhood Arrivals (DACA) recipient with two extensions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2583,
+      "end_ix": 2735,
+      "text": "\nHe was served a notice to appear before a federal immigration judge, and will remain in ICE custody pending disposition of his immigration proceedings.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2735,
+      "end_ix": 2815,
+      "text": "\nA 32-year-old previously deported Ecuadoran man was arrested Jan. 7 in Chicago.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2815,
+      "end_ix": 2882,
+      "text": "\nHe has criminal convictions for DUI, domestic assault and assault.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2882,
+      "end_ix": 2985,
+      "text": "\nHe remains in ICE custody pending presentation of criminal prosecution for re-entry after deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2985,
+      "end_ix": 3063,
+      "text": "\nA 46-year-old previously deported Mexican man was arrested Jan. 7 in Chicago.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3063,
+      "end_ix": 3116,
+      "text": "\nHe has a criminal conviction for possessing cocaine.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3116,
+      "end_ix": 3219,
+      "text": "\nHe remains in ICE custody pending presentation of criminal prosecution for re-entry after deportation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3219,
+      "end_ix": 3414,
+      "text": "\nDepending on an alien\u2019s criminality, an alien who re-enters the United States after having been previously deported commits a felony punishable by up to 20 years in federal prison, if convicted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3414,
+      "end_ix": 3730,
+      "text": "\n\u201cOur dedicated officers strive to make our communities safer by arresting convicted criminal aliens and removing them from the United States despite the reckless sanctuary policies that are currently in place in Cook County that put our communities at risk,\u201d said Ricardo Wong, field office director of ERO Chicago.",
+      "new_text": "\n\u201cOur dedicated officers strive to make our communities safer by arresting convicted criminal aliens and removing them from the United States despite the reckless sanctuary policies that are currently in place in Cook County that put our communities at risk,\u201d said Ricardo Wong, field office director of ERO Chicago.",
+      "prop_spans": [
+        [
+          3416,
+          3475,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3416,
+          3672,
+          "Appeal_to_Authority"
+        ],
+        [
+          3416,
+          3475,
+          "Repetition"
+        ],
+        [
+          3568,
+          3595,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3648,
+          3663,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3730,
+      "end_ix": 3878,
+      "text": "\n\u201cThis operation focused on targeting immigration fugitives and criminal aliens in two Illinois counties, but we routinely conduct operations daily.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3878,
+      "end_ix": 4131,
+      "text": "\nBy removing criminal aliens from the streets, our ICE officers provide an invaluable community service by improving public safety.\u201d\nAll of the targets in this operation were amenable to arrest and removal under the U.S. Immigration and Nationality Act.",
+      "new_text": "\nBy removing criminal aliens from the streets, our ICE officers provide an invaluable community service by improving public safety.\u201d\nAll of the targets in this operation were amenable to arrest and removal under the U.S. Immigration and Nationality Act.",
+      "prop_spans": [
+        [
+          3879,
+          4010,
+          "Appeal_to_Authority"
+        ],
+        [
+          3879,
+          4010,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          3879,
+          4010,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4131,
+      "end_ix": 4371,
+      "text": "\nICE deportation officers carry out targeted enforcement operations daily nationwide as part of the agency\u2019s ongoing efforts to protect the nation, uphold public safety, and protect the integrity of our immigration laws and border controls.",
+      "new_text": "\nICE deportation officers carry out targeted enforcement operations daily nationwide as part of the agency\u2019s ongoing efforts to protect, uphold public well-being, and follow the immigration laws and border controls.",
+      "prop_spans": [
+        [
+          4259,
+          4277,
+          "Flag-Waving"
+        ],
+        [
+          4286,
+          4299,
+          "Repetition"
+        ],
+        [
+          4305,
+          4350,
+          "Flag-Waving"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      3416,
+      3475,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3416,
+      3672,
+      "Appeal_to_Authority"
+    ],
+    [
+      3416,
+      3475,
+      "Repetition"
+    ],
+    [
+      3568,
+      3595,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3648,
+      3663,
+      "Flag-Waving"
+    ],
+    [
+      3879,
+      4010,
+      "Appeal_to_Authority"
+    ],
+    [
+      3879,
+      4010,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      3879,
+      4010,
+      "Repetition"
+    ],
+    [
+      4259,
+      4277,
+      "Flag-Waving"
+    ],
+    [
+      4286,
+      4299,
+      "Repetition"
+    ],
+    [
+      4305,
+      4350,
+      "Flag-Waving"
+    ]
+  ]
+}

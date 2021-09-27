@@ -1,0 +1,262 @@
+{
+  "article_id": "758385628",
+  "sentence offsets in original": [
+    0,
+    276,
+    535,
+    755,
+    904,
+    1088,
+    1164,
+    1346,
+    1488,
+    1620,
+    1877,
+    2006,
+    2111,
+    2187,
+    2327,
+    2428,
+    2503,
+    2697,
+    2853,
+    2950,
+    3152,
+    3271,
+    3444,
+    3669,
+    3836,
+    3944,
+    4123,
+    4204
+  ],
+  "original sentences": [
+    "US staffer suffers brain injury after 'sound' incident in China | Bangkok Post: news\n\nAn American flag is flown next to the Chinese national emblem during a welcome ceremony for visiting US President Donald Trump outside the Great Hall of the People in Beijing on Nov 9, 2017.",
+    "\n(AP file photo)\nBEIJING: The US embassy in China issued a health alert Wednesday after a US government employee experienced an \"abnormal\" sound and suffered a mild brain injury -- in an incident reminiscent of a mysterious illness that hit diplomats in Cuba.",
+    "\nUS and Chinese authorities are investigating the matter after the employee, who was assigned to the southern city of Guangzhou, was diagnosed with mild traumatic brain injury (MTBI), said embassy spokeswoman Jinnie Lee.",
+    "\nIn an alert emailed to US citizens in China, the embassy said it does not know what caused the symptoms or of any similar situations in the country.",
+    "\nIn Cuba last year, the US disclosed that 24 diplomats and their family members had fallen victim to an unsolved mysterious attack that left them with injuries resembling brain trauma.",
+    "\nTen Canadian diplomats and their relatives also suffered a strange illness.",
+    "\n\"We cannot at this time connect it with what happened in Havana but we are investigating all possibilities,\" a US embassy official in Beijing told AFP on the condition of anonymity.",
+    "\nThe embassy's health alert says the government employee \"recently reported subtle and vague, but abnormal, sensations of sound and pressure\".",
+    "\n\"The US government is taking these reports seriously and has informed its official staff in China of this event,\" the message says.",
+    "\nUS and Chinese authorities are investigating the matter, an embassy spokeswoman said\n\"While in China, if you experience any unusual acute auditory or sensory phenomena accompanied by unusual sounds or piercing noises, do not attempt to locate their source.",
+    "\nInstead, move to a location where the sounds are not present,\" it says, urging people with medical problems to consult a doctor.",
+    "\nLee said the employee experienced \"a variety of physical symptoms\" between late 2017 through April 2018.",
+    "\nThe person was sent to the United States and diagnosed with MTBI on May 18.",
+    "\n\"The (State) Department is taking this incident very seriously and is working to determine the cause and impact of the incident,\" Lee said.",
+    "\n\"The Chinese government has assured us they are also investigating and taking appropriate measures.\"",
+    "\nThe Chinese foreign ministry could not be immediately reached for comment.",
+    "\n- Cuban case -\nIn Cuba, the American victims had associated the onset of their symptoms with \"unusual sounds or auditory sensations\", a State Department physician told the US Senate in January.",
+    "\nCharles Rosenfarb, a doctor and director of the State Department bureau of medical services, said the symptoms were mixed but consistent with brain trauma.",
+    "\nThe victims suffered headaches, hearing loss, disorientation and some loss of cognitive ability.",
+    "\n(Video YouTube/TIME)\nInitially officials suspected the Americans had been targeted by some sort of acoustic weapon, although in public senior officials were more cautious, speaking of \"health attacks\".",
+    "\nMedia reports have suggested that the FBI has not been able to verify any evidence to support the sonic weapon theory.",
+    "\nThe US government has held Cuba responsible, arguing that Raul Castro's authoritarian state must have either carried out the assaults or at least known who was behind them.",
+    "\nThe incident prompted the United States last year to withdraw more than half of its personnel at the embassy in Havana, which reopened in 2015 as the two nations re-established diplomatic relations that had ruptured in 1961.",
+    "\nCanada announced last month that it was bringing home the families of its diplomats in Cuba after a year-long investigation into the illness failed to reveal a cause.",
+    "\n\"The cause (of their symptoms) remains unknown but could be human-made,\" the Canadian government concluded.",
+    "\nCanadian and US authorities had initially suspected a \"sonic attack\" or a \"mass psychosomatic incident\", but those are \"now considered unlikely\", a senior Canadian official said.",
+    "\nThe symptoms included dizziness, headaches and a lack of ability to concentrate.",
+    "\nUnlike their American counterparts, however, no Canadian envoy reported hearing any suspicious sound prior to falling ill."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 276,
+      "text": "US staffer suffers brain injury after 'sound' incident in China | Bangkok Post: news\n\nAn American flag is flown next to the Chinese national emblem during a welcome ceremony for visiting US President Donald Trump outside the Great Hall of the People in Beijing on Nov 9, 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 276,
+      "end_ix": 535,
+      "text": "\n(AP file photo)\nBEIJING: The US embassy in China issued a health alert Wednesday after a US government employee experienced an \"abnormal\" sound and suffered a mild brain injury -- in an incident reminiscent of a mysterious illness that hit diplomats in Cuba.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 535,
+      "end_ix": 755,
+      "text": "\nUS and Chinese authorities are investigating the matter after the employee, who was assigned to the southern city of Guangzhou, was diagnosed with mild traumatic brain injury (MTBI), said embassy spokeswoman Jinnie Lee.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 755,
+      "end_ix": 904,
+      "text": "\nIn an alert emailed to US citizens in China, the embassy said it does not know what caused the symptoms or of any similar situations in the country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 904,
+      "end_ix": 1088,
+      "text": "\nIn Cuba last year, the US disclosed that 24 diplomats and their family members had fallen victim to an unsolved mysterious attack that left them with injuries resembling brain trauma.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1088,
+      "end_ix": 1164,
+      "text": "\nTen Canadian diplomats and their relatives also suffered a strange illness.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1164,
+      "end_ix": 1346,
+      "text": "\n\"We cannot at this time connect it with what happened in Havana but we are investigating all possibilities,\" a US embassy official in Beijing told AFP on the condition of anonymity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1346,
+      "end_ix": 1488,
+      "text": "\nThe embassy's health alert says the government employee \"recently reported subtle and vague, but abnormal, sensations of sound and pressure\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1488,
+      "end_ix": 1620,
+      "text": "\n\"The US government is taking these reports seriously and has informed its official staff in China of this event,\" the message says.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1620,
+      "end_ix": 1877,
+      "text": "\nUS and Chinese authorities are investigating the matter, an embassy spokeswoman said\n\"While in China, if you experience any unusual acute auditory or sensory phenomena accompanied by unusual sounds or piercing noises, do not attempt to locate their source.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1877,
+      "end_ix": 2006,
+      "text": "\nInstead, move to a location where the sounds are not present,\" it says, urging people with medical problems to consult a doctor.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2006,
+      "end_ix": 2111,
+      "text": "\nLee said the employee experienced \"a variety of physical symptoms\" between late 2017 through April 2018.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2111,
+      "end_ix": 2187,
+      "text": "\nThe person was sent to the United States and diagnosed with MTBI on May 18.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2187,
+      "end_ix": 2327,
+      "text": "\n\"The (State) Department is taking this incident very seriously and is working to determine the cause and impact of the incident,\" Lee said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2327,
+      "end_ix": 2428,
+      "text": "\n\"The Chinese government has assured us they are also investigating and taking appropriate measures.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2428,
+      "end_ix": 2503,
+      "text": "\nThe Chinese foreign ministry could not be immediately reached for comment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2503,
+      "end_ix": 2697,
+      "text": "\n- Cuban case -\nIn Cuba, the American victims had associated the onset of their symptoms with \"unusual sounds or auditory sensations\", a State Department physician told the US Senate in January.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2697,
+      "end_ix": 2853,
+      "text": "\nCharles Rosenfarb, a doctor and director of the State Department bureau of medical services, said the symptoms were mixed but consistent with brain trauma.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2853,
+      "end_ix": 2950,
+      "text": "\nThe victims suffered headaches, hearing loss, disorientation and some loss of cognitive ability.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2950,
+      "end_ix": 3152,
+      "text": "\n(Video YouTube/TIME)\nInitially officials suspected the Americans had been targeted by some sort of acoustic weapon, although in public senior officials were more cautious, speaking of \"health attacks\".",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3152,
+      "end_ix": 3271,
+      "text": "\nMedia reports have suggested that the FBI has not been able to verify any evidence to support the sonic weapon theory.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3271,
+      "end_ix": 3444,
+      "text": "\nThe US government has held Cuba responsible, arguing that Raul Castro's authoritarian state must have either carried out the assaults or at least known who was behind them.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3444,
+      "end_ix": 3669,
+      "text": "\nThe incident prompted the United States last year to withdraw more than half of its personnel at the embassy in Havana, which reopened in 2015 as the two nations re-established diplomatic relations that had ruptured in 1961.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3669,
+      "end_ix": 3836,
+      "text": "\nCanada announced last month that it was bringing home the families of its diplomats in Cuba after a year-long investigation into the illness failed to reveal a cause.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3836,
+      "end_ix": 3944,
+      "text": "\n\"The cause (of their symptoms) remains unknown but could be human-made,\" the Canadian government concluded.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3944,
+      "end_ix": 4123,
+      "text": "\nCanadian and US authorities had initially suspected a \"sonic attack\" or a \"mass psychosomatic incident\", but those are \"now considered unlikely\", a senior Canadian official said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4123,
+      "end_ix": 4204,
+      "text": "\nThe symptoms included dizziness, headaches and a lack of ability to concentrate.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4204,
+      "end_ix": 4327,
+      "text": "\nUnlike their American counterparts, however, no Canadian envoy reported hearing any suspicious sound prior to falling ill.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": []
+}

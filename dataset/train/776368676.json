@@ -1,0 +1,705 @@
+{
+  "article_id": "776368676",
+  "sentence offsets in original": [
+    0,
+    231,
+    458,
+    624,
+    739,
+    958,
+    1093,
+    1177,
+    1284,
+    1360,
+    1446,
+    1495,
+    1526,
+    1595,
+    1753,
+    1775,
+    1857,
+    2036,
+    2121,
+    2177,
+    2213,
+    2355,
+    2486,
+    2581,
+    2788,
+    2930,
+    3040,
+    3136,
+    3254,
+    3376,
+    3536,
+    3751,
+    3778,
+    4021,
+    4143
+  ],
+  "original sentences": [
+    "Trump To Sessions In Series Of Tweets: \u2018Stop The Rigged Witch Hunt NOW!\u2019\n\nPresident Donald Trump has taken to Twitter in order to call upon Attorney General Jeff Sessions to end the investigation into his alleged Russian collusion.",
+    "\nTrump wants the Justice Department to \u201cstop the rigged witch hunt\u201d before it can \u201cstain our country and further.\u201d\nIn his Twitter post, Trump also blasted the 17 angry Democrats that are doing a conflicted Mueller\u2019s dirty work.",
+    "\n..This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",
+    "\nBob Mueller is totally conflicted, and his 17 Angry Democrats that are doing his dirty work are a disgrace to USA!",
+    "\n\u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\n\u201c..This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",
+    "\nBon Mueller is totally conflicted, and his 17 angry Democrats that are doing his dirty work are a disgrace to [sic] USA!\u201d Trump wrote.",
+    "\nAnd Trump is far from the only American who sees the investigation as a witch hunt.",
+    "\nMany Twitter users have taken his side, while many others believe firmly in the Russian conspiracy theory.",
+    "\nThe president made his comments in a series of Tweets earlier this morning.",
+    "\n\u201cFBI Agent Peter Strzok (on the Mueller team) should have recused himself on day one.",
+    "\nHe was out to STOP THE ELECTION OF DONALD TRUMP.",
+    "\nHe needed an insurance policy.",
+    "\nThose are illegal, improper goals, trying to influence the Election.",
+    "\nHe should never, ever been allowed to.....\u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\n.....remain in the FBI while he himself was being investigated.",
+    "\nThis is a real issue.",
+    "\nIt won\u2019t go into a Mueller Report because Mueller is going to protect these guys.",
+    "\nMueller has an interest in creating the illusion of objectivity around his investigation.\u201d ALAN DERSHOWITZ \u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\nEnough is enough!!!",
+    "\nThis is just a deep state coo attempt (Mueller) to stop the will of We the People!!!",
+    "\nIt's time to jail Mueller and cancel this witch hunt!!!",
+    "\nLock them all up this has to end!!!",
+    "\nComfortably Smug (@ComfortablySmug) August 1, 2018\nAttorney General Sessions recused himself from overseeing the investigation early in 2017.",
+    "\nThe New York Times hypothesized that this was done, in part, to avoid the kind of conflicts such as that which Trump has proposed.",
+    "\nLater, a special counsel, Robert S. Mueller III, was appointed to carry out the investigation.",
+    "\nTrump\u2019s lawyers, Rudolph W. Giuliani and Jay A. Sekulow, said in a telephone interview that the president was not ordering the inquiry closed but simply expressing his opinion via the social media platform.",
+    "\n\u201cIt\u2019s not a call to action,\u201d Mr. Giuliani said, adding that it was a sentiment that Mr. Trump and his lawyers have expressed publicly before.",
+    "\n\u201cHe\u2019s expressing his opinion, but he\u2019s not talking of his special powers he has\u201d as president, Giuliani said.",
+    "\n\u201cHe doesn\u2019t feel that he has to intervene in the process, nor is he intervening,\u201d said Sekulow.",
+    "\nThe special counsel is also looking into some of Trump\u2019s tweets about Attorney General Sessions and the former F.B.I.",
+    "\ndirector James Comey and whether the messages were intended to \u201cobstruct the inquiry\u201d into his alleged Russian collusion.",
+    "\nSenator Patrick Leahy, a Democrat of Vermont, suggested on Twitter that the president\u2019s directive to Sessions in these recent Tweets was, in fact, obstruction.",
+    "\nWhen I was a prosecutor, obstruction of justice was often hard to prove, requiring difficult-to-obtain evidence that the individual\u2019s actions were truly intended to interfere with an ongoing criminal investigation.",
+    "\nOh how times have changed.",
+    "\nhttps://t.co/CjSFJmng7Z \u2014 Sen. Patrick Leahy (@SenatorLeahy) August 1, 2018\nThe ongoing battle against the Trump presidency and the debate over what constitutes opinion vs. \u201cobstruction of justice\u201d doesn\u2019t appear to have an end date in sight.",
+    "\nAlthough, according to Guiliani, Mueller suggested that the Russia obstruction probe would be wrapping up by September 1.",
+    "\nWe\u2019ll all be waiting with bated breath."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 231,
+      "text": "Trump To Sessions In Series Of Tweets: \u2018Stop The Rigged Witch Hunt NOW!\u2019\n\nPresident Donald Trump has taken to Twitter in order to call upon Attorney General Jeff Sessions to end the investigation into his alleged Russian collusion.",
+      "new_text": "Trump To Sessions In Series Of Tweets: \u2018Stop The Rigged Witch Hunt NOW!\u2019\n\nPresident Donald Trump has taken to Twitter in order to call upon Attorney General Jeff Sessions to end the investigation into his alleged Russian collusion.",
+      "prop_spans": [
+        [
+          45,
+          67,
+          "Name_Calling,Labeling"
+        ],
+        [
+          67,
+          70,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 231,
+      "end_ix": 458,
+      "text": "\nTrump wants the Justice Department to \u201cstop the rigged witch hunt\u201d before it can \u201cstain our country and further.\u201d\nIn his Twitter post, Trump also blasted the 17 angry Democrats that are doing a conflicted Mueller\u2019s dirty work.",
+      "new_text": "\nTrump wants the Justice Department to \u201cstop the rigged witch hunt\u201d before it can \u201cstain our country and further.\u201d\nIn his Twitter post, Trump also criticized the 17 Democrats that are doing Mueller\u2019s dirty work.",
+      "prop_spans": [
+        [
+          276,
+          297,
+          "Name_Calling,Labeling"
+        ],
+        [
+          314,
+          343,
+          "Flag-Waving"
+        ],
+        [
+          314,
+          320,
+          "Loaded_Language"
+        ],
+        [
+          378,
+          386,
+          "Loaded_Language"
+        ],
+        [
+          386,
+          409,
+          "Name_Calling,Labeling"
+        ],
+        [
+          424,
+          457,
+          "Name_Calling,Labeling"
+        ],
+        [
+          447,
+          457,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 458,
+      "end_ix": 624,
+      "text": "\n..This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",
+      "new_text": "\n..This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",
+      "prop_spans": [
+        [
+          542,
+          560,
+          "Name_Calling,Labeling"
+        ],
+        [
+          542,
+          560,
+          "Repetition"
+        ],
+        [
+          571,
+          623,
+          "Flag-Waving"
+        ],
+        [
+          594,
+          600,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 624,
+      "end_ix": 739,
+      "text": "\nBob Mueller is totally conflicted, and his 17 Angry Democrats that are doing his dirty work are a disgrace to USA!",
+      "new_text": "\nBob Mueller is totally conflicted, and his 17 Angry Democrats that are doing his dirty work are a disgrace to USA!",
+      "prop_spans": [
+        [
+          640,
+          658,
+          "Loaded_Language"
+        ],
+        [
+          640,
+          658,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          664,
+          738,
+          "Flag-Waving"
+        ],
+        [
+          664,
+          717,
+          "Name_Calling,Labeling"
+        ],
+        [
+          706,
+          717,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 739,
+      "end_ix": 958,
+      "text": "\n\u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\n\u201c..This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",
+      "new_text": "\n\u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\n\u201c..This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain us any further.",
+      "prop_spans": [
+        [
+          828,
+          957,
+          "Flag-Waving"
+        ],
+        [
+          876,
+          894,
+          "Name_Calling,Labeling"
+        ],
+        [
+          928,
+          934,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 958,
+      "end_ix": 1093,
+      "text": "\nBon Mueller is totally conflicted, and his 17 angry Democrats that are doing his dirty work are a disgrace to [sic] USA!\u201d Trump wrote.",
+      "new_text": "\nBon Mueller is totally conflicted, and his 17 angry Democrats that are doing his dirty work are a disgrace to [sic] USA!\u201d Trump wrote.",
+      "prop_spans": [
+        [
+          974,
+          992,
+          "Loaded_Language"
+        ],
+        [
+          974,
+          992,
+          "Exaggeration,Minimisation"
+        ],
+        [
+          998,
+          1078,
+          "Flag-Waving"
+        ],
+        [
+          998,
+          1051,
+          "Name_Calling,Labeling"
+        ],
+        [
+          1040,
+          1051,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1093,
+      "end_ix": 1177,
+      "text": "\nAnd Trump is far from the only American who sees the investigation as a witch hunt.",
+      "new_text": "\nAnd Trump is far from the only American who sees the investigation as such.",
+      "prop_spans": [
+        [
+          1164,
+          1176,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1177,
+      "end_ix": 1284,
+      "text": "\nMany Twitter users have taken his side, while many others believe firmly in the Russian conspiracy theory.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1284,
+      "end_ix": 1360,
+      "text": "\nThe president made his comments in a series of Tweets earlier this morning.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1360,
+      "end_ix": 1446,
+      "text": "\n\u201cFBI Agent Peter Strzok (on the Mueller team) should have recused himself on day one.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1446,
+      "end_ix": 1495,
+      "text": "\nHe was out to STOP THE ELECTION OF DONALD TRUMP.",
+      "new_text": "\nHe was out to stop the election of Donald Trump.",
+      "prop_spans": [
+        [
+          1461,
+          1494,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1495,
+      "end_ix": 1526,
+      "text": "\nHe needed an insurance policy.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1526,
+      "end_ix": 1595,
+      "text": "\nThose are illegal, improper goals, trying to influence the Election.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1595,
+      "end_ix": 1753,
+      "text": "\nHe should never, ever been allowed to.....\u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\n.....remain in the FBI while he himself was being investigated.",
+      "new_text": "\nHe should never, ever been allowed to.....\u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\n.....remain in the FBI while he himself was being investigated.",
+      "prop_spans": [
+        [
+          1596,
+          1633,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1753,
+      "end_ix": 1775,
+      "text": "\nThis is a real issue.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1775,
+      "end_ix": 1857,
+      "text": "\nIt won\u2019t go into a Mueller Report because Mueller is going to protect these guys.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1857,
+      "end_ix": 2036,
+      "text": "\nMueller has an interest in creating the illusion of objectivity around his investigation.\u201d ALAN DERSHOWITZ \u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\nEnough is enough!!!",
+      "new_text": "\nMueller has an interest in creating the illusion of objectivity around his investigation.\u201d ALAN DERSHOWITZ \u2014 Donald J. Trump (@realDonaldTrump) August 1, 2018\nEnough is enough!!!",
+      "prop_spans": [
+        [
+          2017,
+          2033,
+          "Slogans"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2036,
+      "end_ix": 2121,
+      "text": "\nThis is just a deep state coo attempt (Mueller) to stop the will of We the People!!!",
+      "new_text": "\nThis is just a deep state coo attempt (Mueller) to stop the will of We the People!!!",
+      "prop_spans": [
+        [
+          2050,
+          2075,
+          "Name_Calling,Labeling"
+        ],
+        [
+          2085,
+          2118,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2121,
+      "end_ix": 2177,
+      "text": "\nIt's time to jail Mueller and cancel this witch hunt!!!",
+      "new_text": "\nIt's time to jail Mueller and cancel this witch hunt!!!",
+      "prop_spans": [
+        [
+          2132,
+          2148,
+          "Loaded_Language"
+        ],
+        [
+          2164,
+          2174,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2177,
+      "end_ix": 2213,
+      "text": "\nLock them all up this has to end!!!",
+      "new_text": "\nLock them all up this has to end!!!",
+      "prop_spans": [
+        [
+          2178,
+          2210,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2213,
+      "end_ix": 2355,
+      "text": "\nComfortably Smug (@ComfortablySmug) August 1, 2018\nAttorney General Sessions recused himself from overseeing the investigation early in 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2355,
+      "end_ix": 2486,
+      "text": "\nThe New York Times hypothesized that this was done, in part, to avoid the kind of conflicts such as that which Trump has proposed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2486,
+      "end_ix": 2581,
+      "text": "\nLater, a special counsel, Robert S. Mueller III, was appointed to carry out the investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2581,
+      "end_ix": 2788,
+      "text": "\nTrump\u2019s lawyers, Rudolph W. Giuliani and Jay A. Sekulow, said in a telephone interview that the president was not ordering the inquiry closed but simply expressing his opinion via the social media platform.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2788,
+      "end_ix": 2930,
+      "text": "\n\u201cIt\u2019s not a call to action,\u201d Mr. Giuliani said, adding that it was a sentiment that Mr. Trump and his lawyers have expressed publicly before.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2930,
+      "end_ix": 3040,
+      "text": "\n\u201cHe\u2019s expressing his opinion, but he\u2019s not talking of his special powers he has\u201d as president, Giuliani said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3040,
+      "end_ix": 3136,
+      "text": "\n\u201cHe doesn\u2019t feel that he has to intervene in the process, nor is he intervening,\u201d said Sekulow.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3136,
+      "end_ix": 3254,
+      "text": "\nThe special counsel is also looking into some of Trump\u2019s tweets about Attorney General Sessions and the former F.B.I.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3254,
+      "end_ix": 3376,
+      "text": "\ndirector James Comey and whether the messages were intended to \u201cobstruct the inquiry\u201d into his alleged Russian collusion.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3376,
+      "end_ix": 3536,
+      "text": "\nSenator Patrick Leahy, a Democrat of Vermont, suggested on Twitter that the president\u2019s directive to Sessions in these recent Tweets was, in fact, obstruction.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3536,
+      "end_ix": 3751,
+      "text": "\nWhen I was a prosecutor, obstruction of justice was often hard to prove, requiring difficult-to-obtain evidence that the individual\u2019s actions were truly intended to interfere with an ongoing criminal investigation.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3751,
+      "end_ix": 3778,
+      "text": "\nOh how times have changed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3778,
+      "end_ix": 4021,
+      "text": "\nhttps://t.co/CjSFJmng7Z \u2014 Sen. Patrick Leahy (@SenatorLeahy) August 1, 2018\nThe ongoing battle against the Trump presidency and the debate over what constitutes opinion vs. \u201cobstruction of justice\u201d doesn\u2019t appear to have an end date in sight.",
+      "new_text": "\nhttps://t.co/CjSFJmng7Z \u2014 Sen. Patrick Leahy (@SenatorLeahy) August 1, 2018\nThe ongoing battle against the Trump presidency and the debate over what constitutes opinion vs. \u201cobstruction of justice\u201d doesn\u2019t appear to have an end date in sight.",
+      "prop_spans": [
+        [
+          3795,
+          3820,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4021,
+      "end_ix": 4143,
+      "text": "\nAlthough, according to Guiliani, Mueller suggested that the Russia obstruction probe would be wrapping up by September 1.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4143,
+      "end_ix": 4183,
+      "text": "\nWe\u2019ll all be waiting with bated breath.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      45,
+      67,
+      "Name_Calling,Labeling"
+    ],
+    [
+      67,
+      70,
+      "Loaded_Language"
+    ],
+    [
+      276,
+      297,
+      "Name_Calling,Labeling"
+    ],
+    [
+      314,
+      343,
+      "Flag-Waving"
+    ],
+    [
+      314,
+      320,
+      "Loaded_Language"
+    ],
+    [
+      378,
+      386,
+      "Loaded_Language"
+    ],
+    [
+      386,
+      409,
+      "Name_Calling,Labeling"
+    ],
+    [
+      424,
+      457,
+      "Name_Calling,Labeling"
+    ],
+    [
+      447,
+      457,
+      "Loaded_Language"
+    ],
+    [
+      542,
+      560,
+      "Name_Calling,Labeling"
+    ],
+    [
+      542,
+      560,
+      "Repetition"
+    ],
+    [
+      571,
+      623,
+      "Flag-Waving"
+    ],
+    [
+      594,
+      600,
+      "Loaded_Language"
+    ],
+    [
+      640,
+      658,
+      "Loaded_Language"
+    ],
+    [
+      640,
+      658,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      664,
+      738,
+      "Flag-Waving"
+    ],
+    [
+      664,
+      717,
+      "Name_Calling,Labeling"
+    ],
+    [
+      706,
+      717,
+      "Loaded_Language"
+    ],
+    [
+      828,
+      957,
+      "Flag-Waving"
+    ],
+    [
+      876,
+      894,
+      "Name_Calling,Labeling"
+    ],
+    [
+      928,
+      934,
+      "Loaded_Language"
+    ],
+    [
+      974,
+      992,
+      "Loaded_Language"
+    ],
+    [
+      974,
+      992,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      998,
+      1078,
+      "Flag-Waving"
+    ],
+    [
+      998,
+      1051,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1040,
+      1051,
+      "Loaded_Language"
+    ],
+    [
+      1164,
+      1176,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1461,
+      1494,
+      "Loaded_Language"
+    ],
+    [
+      1596,
+      1633,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      2017,
+      2033,
+      "Slogans"
+    ],
+    [
+      2050,
+      2075,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2085,
+      2118,
+      "Flag-Waving"
+    ],
+    [
+      2132,
+      2148,
+      "Loaded_Language"
+    ],
+    [
+      2164,
+      2174,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2178,
+      2210,
+      "Loaded_Language"
+    ],
+    [
+      3795,
+      3820,
+      "Loaded_Language"
+    ],
+    [
+      4187,
+      4225,
+      "Loaded_Language"
+    ]
+  ]
+}

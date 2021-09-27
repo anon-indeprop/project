@@ -1,0 +1,364 @@
+{
+  "article_id": "111111133",
+  "sentence offsets in original": [
+    0,
+    92,
+    300,
+    415,
+    673,
+    846,
+    1167,
+    1391,
+    1532,
+    1783,
+    1985,
+    2295,
+    2352,
+    2472,
+    2607,
+    2745,
+    2889,
+    3137,
+    3180,
+    3399,
+    3525,
+    3718,
+    3882,
+    4118,
+    4227,
+    4373
+  ],
+  "original sentences": [
+    "CNN\u2019s Jim Acosta Has Press Pass Restored by White House\n\nJim Acosta has his press pass back.",
+    "\n\nThe Trump administration stood down on Monday from its nearly two-week-long dispute with CNN over the White House credentials of Mr. Acosta, informing the correspondent that his badge was formally restored.",
+    "\nCNN in turn dropped its lawsuit on the matter, which had ballooned into a test of press freedoms in the Trump era.",
+    "\n\nBut while it yielded to Mr. Acosta \u2014 whose testy questions had touched off Mr. Trump\u2019s ire \u2014 the administration used the occasion to lay down a set of formal rules governing reporters\u2019 behavior at future White House news conferences, a highly unusual step.",
+    "\n\nAmong the guidelines was a restriction of one question per reporter, with follow-ups allowed at the discretion of the president or the White House official at the lectern.",
+    "\n\u201cFailure to abide,\u201d the administration warned, \u201cmay result in suspension or revocation of the journalist\u2019s hard pass.\u201d\n\nThe White House sought to blame Mr. Acosta for behaving disrespectfully, although Mr. Trump often lobs insults at journalists and encourages a free-for-all format when taking questions from reporters.",
+    "\nCodifying the behavior of journalists struck some as an ominous encroachment into freedom of the press, and the White House Correspondents\u2019 Association said on Monday that it had not been consulted about the new guidelines.",
+    "\n\nThe American Civil Liberties Union, in a statement, said: \u201cThese rules give the White House far too much discretion to avoid real scrutiny.",
+    "\nThe White House belongs to the public, not the president, and the job of the press is to ask hard questions, not to be polite company.\u201d\nStill, the guidelines are not far removed from the manner in which White House news conferences typically proceed.",
+    "\nMr. Trump made clear last week that he would introduce \u201cregulations\u201d after a federal judge criticized the White House for stripping Mr. Acosta\u2019s credentials without due process or a coherent rationale.",
+    "\n\n\u201cWe would have greatly preferred to continue hosting White House press conferences in reliance on a set of understood professional norms, and we believe the overwhelming majority of journalists covering the White House share that preference,\u201d Sarah Huckabee Sanders, the press secretary, said in a statement.",
+    "\n\nPress relations were not always rosy in pre-Trump days.",
+    "\nPresident Barack Obama\u2019s aides preselected the news outlets that were allowed to ask questions at his news conferences.",
+    "\nMr. Obama often chastised reporters, including Mr. Acosta on one occasion, for questions he deemed overly aggressive or grandstanding.",
+    "\nBut Mr. Trump, a devoted news consumer who relishes his coverage, plays up his conflicts with reporters in part to excite his supporters.",
+    "\nHe has held far fewer formal news conferences than his predecessors, and the daily White House briefing has virtually disappeared on his watch.",
+    "\n\nRevoking Mr. Acosta\u2019s White House badge was the most severe step yet, and it soon became apparent that the move would not pass legal muster: After suing last week, Mr. Acosta was granted the temporary return of his credentials by a federal judge.",
+    "\n\nA back-and-forth ensued over the weekend.",
+    "\nBill Shine, the deputy chief of staff for communications, sent a letter to Mr. Acosta that listed several reasons that his pass had been revoked, perhaps an attempt to satisfy the judge\u2019s request for a clear rationale.",
+    "\nCNN\u2019s lawyers called the note an \u201cafter-the-fact concocted process.\u201d By Monday afternoon, the sides had reached a resolution.",
+    "\n\nAides to Mr. Trump say that the president does not mind answering questions, pointing to his numerous impromptu sessions with reporters during White House photo-ops and Marine One departures.",
+    "\nThe aides complain about reporters who they say do not respect the solemnity of the setting, even as Mr. Trump flouts many of the norms associated with his office.",
+    "\n\n\u201cThe White House\u2019s interaction is, and generally should be, subject to a natural give-and-take,\u201d Ms. Sanders wrote on Monday, suggesting that the onus was on the press corps to ensure that a \u201ccode of conduct\u201d did not become necessary.",
+    "\n\nThat notion read more like a warning \u2014 behave or else \u2014 and the Correspondents\u2019 Association seemed unmoved.",
+    "\n\n\u201cFor as long as there have been White House press conferences, White House reporters have asked follow-up questions,\u201d the group wrote on Monday.",
+    "\n\u201cWe fully expect this tradition will continue.\u201d"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 92,
+      "text": "CNN\u2019s Jim Acosta Has Press Pass Restored by White House\n\nJim Acosta has his press pass back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 92,
+      "end_ix": 300,
+      "text": "\n\nThe Trump administration stood down on Monday from its nearly two-week-long dispute with CNN over the White House credentials of Mr. Acosta, informing the correspondent that his badge was formally restored.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 300,
+      "end_ix": 415,
+      "text": "\nCNN in turn dropped its lawsuit on the matter, which had ballooned into a test of press freedoms in the Trump era.",
+      "new_text": "\nCNN in turn dropped its lawsuit on the matter, which had escalated into a test of press freedoms in the Trump era.",
+      "prop_spans": [
+        [
+          358,
+          367,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 415,
+      "end_ix": 673,
+      "text": "\n\nBut while it yielded to Mr. Acosta \u2014 whose testy questions had touched off Mr. Trump\u2019s ire \u2014 the administration used the occasion to lay down a set of formal rules governing reporters\u2019 behavior at future White House news conferences, a highly unusual step.",
+      "new_text": "\n\nBut while it yielded to Mr. Acosta \u2014 whose irritable questions had touched off Mr. Trump\u2019s anger \u2014 the administration used the occasion to lay down a set of formal rules governing reporters\u2019 behavior at future White House news conferences, a highly unusual step.",
+      "prop_spans": [
+        [
+          460,
+          465,
+          "Loaded_Language"
+        ],
+        [
+          504,
+          507,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 673,
+      "end_ix": 846,
+      "text": "\n\nAmong the guidelines was a restriction of one question per reporter, with follow-ups allowed at the discretion of the president or the White House official at the lectern.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 846,
+      "end_ix": 1167,
+      "text": "\n\u201cFailure to abide,\u201d the administration warned, \u201cmay result in suspension or revocation of the journalist\u2019s hard pass.\u201d\n\nThe White House sought to blame Mr. Acosta for behaving disrespectfully, although Mr. Trump often lobs insults at journalists and encourages a free-for-all format when taking questions from reporters.",
+      "new_text": "\n\u201cFailure to abide,\u201d the administration warned, \u201cmay result in suspension or revocation of the journalist\u2019s hard pass.\u201d\n\nThe White House sought to blame Mr. Acosta for behaving disrespectfully, although Mr. Trump often lobs insults at journalists and encourages a free-for-all format when taking questions from reporters.",
+      "prop_spans": [
+        [
+          1070,
+          1077,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1167,
+      "end_ix": 1391,
+      "text": "\nCodifying the behavior of journalists struck some as an ominous encroachment into freedom of the press, and the White House Correspondents\u2019 Association said on Monday that it had not been consulted about the new guidelines.",
+      "new_text": "\nCodifying the behavior of journalists struck some as an encroachment into freedom of the press, and the White House Correspondents\u2019 Association said on Monday that it had not been consulted about the new guidelines.",
+      "prop_spans": [
+        [
+          1224,
+          1244,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1391,
+      "end_ix": 1532,
+      "text": "\n\nThe American Civil Liberties Union, in a statement, said: \u201cThese rules give the White House far too much discretion to avoid real scrutiny.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1532,
+      "end_ix": 1783,
+      "text": "\nThe White House belongs to the public, not the president, and the job of the press is to ask hard questions, not to be polite company.\u201d\nStill, the guidelines are not far removed from the manner in which White House news conferences typically proceed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1783,
+      "end_ix": 1985,
+      "text": "\nMr. Trump made clear last week that he would introduce \u201cregulations\u201d after a federal judge criticized the White House for stripping Mr. Acosta\u2019s credentials without due process or a coherent rationale.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1985,
+      "end_ix": 2295,
+      "text": "\n\n\u201cWe would have greatly preferred to continue hosting White House press conferences in reliance on a set of understood professional norms, and we believe the overwhelming majority of journalists covering the White House share that preference,\u201d Sarah Huckabee Sanders, the press secretary, said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2295,
+      "end_ix": 2352,
+      "text": "\n\nPress relations were not always rosy in pre-Trump days.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2352,
+      "end_ix": 2472,
+      "text": "\nPresident Barack Obama\u2019s aides preselected the news outlets that were allowed to ask questions at his news conferences.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2472,
+      "end_ix": 2607,
+      "text": "\nMr. Obama often chastised reporters, including Mr. Acosta on one occasion, for questions he deemed overly aggressive or grandstanding.",
+      "new_text": "\nMr. Obama often chastised reporters, including Mr. Acosta on one occasion, for questions he deemed aggressive or ostentatious.",
+      "prop_spans": [
+        [
+          2572,
+          2589,
+          "Loaded_Language"
+        ],
+        [
+          2593,
+          2606,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2607,
+      "end_ix": 2745,
+      "text": "\nBut Mr. Trump, a devoted news consumer who relishes his coverage, plays up his conflicts with reporters in part to excite his supporters.",
+      "new_text": "\nBut Mr. Trump, a news consumer who relishes his coverage, plays up his conflicts with reporters in part to excite his supporters.",
+      "prop_spans": [
+        [
+          2625,
+          2646,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2745,
+      "end_ix": 2889,
+      "text": "\nHe has held far fewer formal news conferences than his predecessors, and the daily White House briefing has virtually disappeared on his watch.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2889,
+      "end_ix": 3137,
+      "text": "\n\nRevoking Mr. Acosta\u2019s White House badge was the most severe step yet, and it soon became apparent that the move would not pass legal muster: After suing last week, Mr. Acosta was granted the temporary return of his credentials by a federal judge.",
+      "new_text": "\n\nRevoking Mr. Acosta\u2019s White House badge was the most serious step yet, and it soon became apparent that the move would not pass legal muster: After suing last week, Mr. Acosta was granted the temporary return of his credentials by a federal judge.",
+      "prop_spans": [
+        [
+          2944,
+          2950,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3137,
+      "end_ix": 3180,
+      "text": "\n\nA back-and-forth ensued over the weekend.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3180,
+      "end_ix": 3399,
+      "text": "\nBill Shine, the deputy chief of staff for communications, sent a letter to Mr. Acosta that listed several reasons that his pass had been revoked, perhaps an attempt to satisfy the judge\u2019s request for a clear rationale.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3399,
+      "end_ix": 3525,
+      "text": "\nCNN\u2019s lawyers called the note an \u201cafter-the-fact concocted process.\u201d By Monday afternoon, the sides had reached a resolution.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3525,
+      "end_ix": 3718,
+      "text": "\n\nAides to Mr. Trump say that the president does not mind answering questions, pointing to his numerous impromptu sessions with reporters during White House photo-ops and Marine One departures.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3718,
+      "end_ix": 3882,
+      "text": "\nThe aides complain about reporters who they say do not respect the solemnity of the setting, even as Mr. Trump flouts many of the norms associated with his office.",
+      "new_text": "\nThe aides complain about reporters who they say do not respect the solemnity of the setting, even as Mr. Trump defies many of the norms associated with his office.",
+      "prop_spans": [
+        [
+          3830,
+          3836,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3882,
+      "end_ix": 4118,
+      "text": "\n\n\u201cThe White House\u2019s interaction is, and generally should be, subject to a natural give-and-take,\u201d Ms. Sanders wrote on Monday, suggesting that the onus was on the press corps to ensure that a \u201ccode of conduct\u201d did not become necessary.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4118,
+      "end_ix": 4227,
+      "text": "\n\nThat notion read more like a warning \u2014 behave or else \u2014 and the Correspondents\u2019 Association seemed unmoved.",
+      "new_text": "\n\nThat notion read more like a warning \u2014 and the Correspondents\u2019 Association seemed unmoved.",
+      "prop_spans": [
+        [
+          4159,
+          4173,
+          "Black-and-White_Fallacy"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4227,
+      "end_ix": 4373,
+      "text": "\n\n\u201cFor as long as there have been White House press conferences, White House reporters have asked follow-up questions,\u201d the group wrote on Monday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4373,
+      "end_ix": 4421,
+      "text": "\n\u201cWe fully expect this tradition will continue.\u201d",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      358,
+      367,
+      "Loaded_Language"
+    ],
+    [
+      460,
+      465,
+      "Loaded_Language"
+    ],
+    [
+      504,
+      507,
+      "Loaded_Language"
+    ],
+    [
+      1070,
+      1077,
+      "Loaded_Language"
+    ],
+    [
+      1224,
+      1244,
+      "Loaded_Language"
+    ],
+    [
+      2572,
+      2589,
+      "Loaded_Language"
+    ],
+    [
+      2593,
+      2606,
+      "Loaded_Language"
+    ],
+    [
+      2625,
+      2646,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2944,
+      2950,
+      "Loaded_Language"
+    ],
+    [
+      3830,
+      3836,
+      "Loaded_Language"
+    ],
+    [
+      4159,
+      4173,
+      "Black-and-White_Fallacy"
+    ]
+  ]
+}

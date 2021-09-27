@@ -1,0 +1,205 @@
+{
+  "article_id": "730865684",
+  "sentence offsets in original": [
+    0,
+    263,
+    506,
+    701,
+    900,
+    1077,
+    1191,
+    1294,
+    1373,
+    1437,
+    1506,
+    1726,
+    1770,
+    2011,
+    2067,
+    2350,
+    2682,
+    2809
+  ],
+  "original sentences": [
+    "Puerto Rico Hurricane Recovery Worsened By Nearly 1 Million Homes Built Illegally\n\nAfter Hurricane Maria barreled through Puerto Rico in September 2017, it left hundreds of thousands of people displaced and 80 to 90 percent of homes destroyed in some communities.",
+    "\nBut even before the hurricane, housing in the U.S. territory\u2014where 43.5 percent of people live below the poverty line\u2014was in crisis, and many homes on the island were built with salvaged fixtures and without permits, insurance or inspections.",
+    "\nGovernment officials say about half of the housing in Puerto Rico was built illegally and without a permit, The Miami Herald reported Wednesday, which could amount to as many as 1 million homes.",
+    "\nPuerto Rico's housing secretary, Fernando Gil, says the number of homes destroyed by the hurricane totals about 70,000 so far, and homes with major damage have amounted to 250,000 across the island.",
+    "\nRICARDO ARDUENGO/AFP/Getty Images\nAfter 2011, the territory adopted a uniform building code that required structures to be built to withstand winds of up to 140 miles per hour.",
+    "\nAccording to the National Weather Service, Hurricane Maria made landfall in Puerto Rico with winds up to 155 mph.",
+    "\nMany buildings on the island were built under a prior code demanding protection against 125-mph winds.",
+    "\nFurthermore, numerous homes have been built without any sort of permit at all.",
+    "\n\"It\u2019s definitely a housing crisis,\" Gil told Reuters last week.",
+    "\n\"It was already out there before, and the hurricane exacerbates it.\"",
+    "\nOne resident of Puerto Rico's Ca\u00f1o Mart\u00edn Pe\u00f1a neighborhood, Gladys Pe\u00f1a, told the Herald that her home was built by people in her neighborhood and that fixtures for the dwelling were gathered from abandoned structures.",
+    "\n\"The one who designed it was me,\" she said.",
+    "\nFlorida Governor Rick Scott's office estimated that over 318,000 evacuees arrived in the state in the wake of the hurricane, and Federal Emergency Management Agency aid for Puerto Ricans living in Florida hotels will start to expire Friday.",
+    "\nStill, about one-third of Puerto Rico is without power.",
+    "\nKeep up with this story and more by subscribing now\nLast Friday, President Donald Trump signed an order giving Puerto Rico $16 billion in disaster recovery aid, $2 billion of which will be used to repair the electric grid under the federal Community Development Block Grant program.",
+    "\nEarlier this month, the U.S. Department of Housing and Urban Development announced it would provide $1.5 billion to help rebuild housing in Puerto Rico after devastation from both Maria and Hurricane Irma, which skirted the island a couple of weeks before, through HUD's Community Development Block Grant Disaster Recovery program.",
+    "\nPuerto Rico Governor Ricardo Rossell\u00f3 estimated in November that it will take $31 billion to rebuild housing in the territory.",
+    "\nThe governor requested the money from the federal government, as the territory itself is bankrupt."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 263,
+      "text": "Puerto Rico Hurricane Recovery Worsened By Nearly 1 Million Homes Built Illegally\n\nAfter Hurricane Maria barreled through Puerto Rico in September 2017, it left hundreds of thousands of people displaced and 80 to 90 percent of homes destroyed in some communities.",
+      "new_text": "Puerto Rico Hurricane Recovery Worsened By Nearly 1 Million Homes Built Illegally\n\nAfter Hurricane Maria went through Puerto Rico in September 2017, it left hundreds of thousands of people displaced and 80 to 90 percent of homes destroyed in some communities.",
+      "prop_spans": [
+        [
+          105,
+          114,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 263,
+      "end_ix": 506,
+      "text": "\nBut even before the hurricane, housing in the U.S. territory\u2014where 43.5 percent of people live below the poverty line\u2014was in crisis, and many homes on the island were built with salvaged fixtures and without permits, insurance or inspections.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 506,
+      "end_ix": 701,
+      "text": "\nGovernment officials say about half of the housing in Puerto Rico was built illegally and without a permit, The Miami Herald reported Wednesday, which could amount to as many as 1 million homes.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 701,
+      "end_ix": 900,
+      "text": "\nPuerto Rico's housing secretary, Fernando Gil, says the number of homes destroyed by the hurricane totals about 70,000 so far, and homes with major damage have amounted to 250,000 across the island.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 900,
+      "end_ix": 1077,
+      "text": "\nRICARDO ARDUENGO/AFP/Getty Images\nAfter 2011, the territory adopted a uniform building code that required structures to be built to withstand winds of up to 140 miles per hour.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1077,
+      "end_ix": 1191,
+      "text": "\nAccording to the National Weather Service, Hurricane Maria made landfall in Puerto Rico with winds up to 155 mph.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1191,
+      "end_ix": 1294,
+      "text": "\nMany buildings on the island were built under a prior code demanding protection against 125-mph winds.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1294,
+      "end_ix": 1373,
+      "text": "\nFurthermore, numerous homes have been built without any sort of permit at all.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1373,
+      "end_ix": 1437,
+      "text": "\n\"It\u2019s definitely a housing crisis,\" Gil told Reuters last week.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1437,
+      "end_ix": 1506,
+      "text": "\n\"It was already out there before, and the hurricane exacerbates it.\"",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1506,
+      "end_ix": 1726,
+      "text": "\nOne resident of Puerto Rico's Ca\u00f1o Mart\u00edn Pe\u00f1a neighborhood, Gladys Pe\u00f1a, told the Herald that her home was built by people in her neighborhood and that fixtures for the dwelling were gathered from abandoned structures.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1726,
+      "end_ix": 1770,
+      "text": "\n\"The one who designed it was me,\" she said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1770,
+      "end_ix": 2011,
+      "text": "\nFlorida Governor Rick Scott's office estimated that over 318,000 evacuees arrived in the state in the wake of the hurricane, and Federal Emergency Management Agency aid for Puerto Ricans living in Florida hotels will start to expire Friday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2011,
+      "end_ix": 2067,
+      "text": "\nStill, about one-third of Puerto Rico is without power.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2067,
+      "end_ix": 2350,
+      "text": "\nKeep up with this story and more by subscribing now\nLast Friday, President Donald Trump signed an order giving Puerto Rico $16 billion in disaster recovery aid, $2 billion of which will be used to repair the electric grid under the federal Community Development Block Grant program.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2350,
+      "end_ix": 2682,
+      "text": "\nEarlier this month, the U.S. Department of Housing and Urban Development announced it would provide $1.5 billion to help rebuild housing in Puerto Rico after devastation from both Maria and Hurricane Irma, which skirted the island a couple of weeks before, through HUD's Community Development Block Grant Disaster Recovery program.",
+      "new_text": "\nEarlier this month, the U.S. Department of Housing and Urban Development announced it would provide $1.5 billion to help rebuild housing in Puerto Rico after damage from both Maria and Hurricane Irma, which skirted the island a couple of weeks before, through HUD's Community Development Block Grant Disaster Recovery program.",
+      "prop_spans": [
+        [
+          2509,
+          2520,
+          "Loaded_Language"
+        ],
+        [
+          2563,
+          2571,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2682,
+      "end_ix": 2809,
+      "text": "\nPuerto Rico Governor Ricardo Rossell\u00f3 estimated in November that it will take $31 billion to rebuild housing in the territory.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2809,
+      "end_ix": 2908,
+      "text": "\nThe governor requested the money from the federal government, as the territory itself is bankrupt.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      105,
+      114,
+      "Loaded_Language"
+    ],
+    [
+      2509,
+      2520,
+      "Loaded_Language"
+    ],
+    [
+      2563,
+      2571,
+      "Loaded_Language"
+    ]
+  ]
+}

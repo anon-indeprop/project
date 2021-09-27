@@ -1,0 +1,139 @@
+{
+  "article_id": "710100700",
+  "sentence offsets in original": [
+    0,
+    69,
+    220,
+    372,
+    496,
+    549,
+    676,
+    738,
+    821,
+    882,
+    1050,
+    1376,
+    1440
+  ],
+  "original sentences": [
+    "ICE Deports Guatemalan Man Wanted For Assassination\n\nSPRINGFIELD, Mo.",
+    "\n\u2014 A Guatemalan man, wanted by law enforcement authorities in his home country for killing a store owner, was removed Thursday by deportation officers.",
+    "\nJose Manuel Ohajacao-Ramos, was transferred Nov. 9 to the custody of Guatemalan law enforcement officials by ERO officers in Guatemala City, Guatemala.",
+    "\nAccording to Guatemalan authorities, Ohajacao-Ramos is accused of fatally shooting a store owner in his store in June 1997.",
+    "\nGuatemalan law lists the charge as an assassination.",
+    "\nOhajacao-Ramos legally entered the United States in 1998 as a visitor and overstayed his temporary visa by more than 18 years.",
+    "\nHe was arrested at his home in Neosho, Missouri, in May 2017.",
+    "\nIn September, a federal immigration judge ordered him removed to his home country.",
+    "\nOhajacao-Ramos remained in ICE custody since his May arrest.",
+    "\n\u201cRemoving foreign fugitives trying to escape law enforcement in their home countries is an ICE top priority,\u201d said Ricardo Wong, field office director for ERO Chicago.",
+    "\n\u201cThe cooperation between the U.S. and our Guatemalan counterparts resulted in returning this man who is a threat to public safety.\u201d\nSince Oct. 1, 2009, ERO has removed more than 1,700 foreign fugitives from the United States who were sought in their native countries for serious crimes, including kidnapping, rape and murder.",
+    "\nIn fiscal year 2016, ICE conducted 240,255 removals nationwide.",
+    "\nNinety-two percent of individuals removed from the interior of the United States had previously been convicted of a criminal offense."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 69,
+      "text": "ICE Deports Guatemalan Man Wanted For Assassination\n\nSPRINGFIELD, Mo.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 69,
+      "end_ix": 220,
+      "text": "\n\u2014 A Guatemalan man, wanted by law enforcement authorities in his home country for killing a store owner, was removed Thursday by deportation officers.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 220,
+      "end_ix": 372,
+      "text": "\nJose Manuel Ohajacao-Ramos, was transferred Nov. 9 to the custody of Guatemalan law enforcement officials by ERO officers in Guatemala City, Guatemala.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 372,
+      "end_ix": 496,
+      "text": "\nAccording to Guatemalan authorities, Ohajacao-Ramos is accused of fatally shooting a store owner in his store in June 1997.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 496,
+      "end_ix": 549,
+      "text": "\nGuatemalan law lists the charge as an assassination.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 549,
+      "end_ix": 676,
+      "text": "\nOhajacao-Ramos legally entered the United States in 1998 as a visitor and overstayed his temporary visa by more than 18 years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 676,
+      "end_ix": 738,
+      "text": "\nHe was arrested at his home in Neosho, Missouri, in May 2017.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 738,
+      "end_ix": 821,
+      "text": "\nIn September, a federal immigration judge ordered him removed to his home country.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 821,
+      "end_ix": 882,
+      "text": "\nOhajacao-Ramos remained in ICE custody since his May arrest.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 882,
+      "end_ix": 1050,
+      "text": "\n\u201cRemoving foreign fugitives trying to escape law enforcement in their home countries is an ICE top priority,\u201d said Ricardo Wong, field office director for ERO Chicago.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1050,
+      "end_ix": 1376,
+      "text": "\n\u201cThe cooperation between the U.S. and our Guatemalan counterparts resulted in returning this man who is a threat to public safety.\u201d\nSince Oct. 1, 2009, ERO has removed more than 1,700 foreign fugitives from the United States who were sought in their native countries for serious crimes, including kidnapping, rape and murder.",
+      "new_text": "\n\u201cThe cooperation between the U.S. and our Guatemalan counterparts resulted in returning this man who is a threat to public safety.\u201d\nSince Oct. 1, 2009, ERO has removed more than 1,700 foreign fugitives from the United States who were sought in their native countries for serious crimes, including kidnapping, rape and murder.",
+      "prop_spans": [
+        [
+          1203,
+          1375,
+          "Appeal_to_fear-prejudice"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1376,
+      "end_ix": 1440,
+      "text": "\nIn fiscal year 2016, ICE conducted 240,255 removals nationwide.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1440,
+      "end_ix": 1574,
+      "text": "\nNinety-two percent of individuals removed from the interior of the United States had previously been convicted of a criminal offense.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      1203,
+      1375,
+      "Appeal_to_fear-prejudice"
+    ]
+  ]
+}

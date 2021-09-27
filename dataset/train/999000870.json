@@ -1,0 +1,301 @@
+{
+  "article_id": "999000870",
+  "sentence offsets in original": [
+    0,
+    217,
+    430,
+    554,
+    808,
+    932,
+    1156,
+    1217,
+    1386,
+    1437,
+    1488,
+    1526,
+    1577,
+    1584,
+    1616,
+    1698,
+    1781,
+    1809,
+    1872,
+    2039,
+    2227,
+    2664,
+    3004,
+    3143,
+    3251,
+    3347,
+    3404,
+    3543,
+    3742,
+    3859,
+    4397
+  ],
+  "original sentences": [
+    "Groups of Migrants Heading to San Diego Will Be Met With Barricades And Razor Fences (Videos)\n\nThe Military continues to put up razor wire at the border in San Ysidro as a migrant caravan is expected to reach Tijuana.",
+    "\nUnited States military and border protection agents have been erecting barricades with razor wire at the point of entry near San Diego, California, as the first groups of migrants arrived at the US-Mexico border.",
+    "\nHundreds of migrants who had split off from the main \u2018caravan\u2019 of thousands arrived in Tijuana early Tuesday on nine buses.",
+    "\nNumbering just over 350, they joined an initial smaller group of around 85 people, mostly members of the LGBT community, who\u2019d experienced discrimination within the main crowd and were helped to make it to the Mexican border town even earlier on Sunday.",
+    "\nMilitary crews continue to put up razor wire at the border in San Ysidro as a migrant caravan is expected to reach Tijuana.",
+    "\nhttps://t.co/mQH6eqrBNy pic.twitter.com/4IXGNAfSem \u2014 Danielle Radin (@danielleradin) November 13, 2018\nHere are the three lanes that were shut down at the San Ysidro port of entry in TJ today in anticipation of the caravan.",
+    "\nThere are seven US army members here with CBP at the moment.",
+    "\nStory with @Haleaziz on this https://t.co/SpLVnl3bAT pic.twitter.com/1nGFRNJanJ take our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\nShould Jim Acosta have gotten his press pass back?",
+    "\n* Yes, he should have gotten it back.",
+    "\nNo, you can't act like a child and keep your pass.",
+    "\nMaybe?",
+    "\nI'm not sure if he should have.",
+    "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+    "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+    "\nYou may opt out at anytime.",
+    "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+    "\n\u2014 Adolfo Flores (@aflores) November 13, 2018\nRT reports:\nIn anticipation of potential clashes at the border, American soldiers have begun reinforcing their positions.",
+    "\n\u201cDepartment of Defense personnel are installing concertina wire, and pre-positioning jersey barriers, barricades, and fencing,\u201d US Customs and Border Protection (CBP) said in a statement.",
+    "\nUS Marines instal wire along the primary border wall at the port of entry next to Tijuana in San Ysidro, San Diego.\ud83c\uddfa\ud83c\uddf8 pic.twitter.com/aX0bznl2bm \u2014 The Real Lonnie\u10e6 IV (@lonnieloveiv) November 13, 2018\nA snaking line of traffic is visible at the San Ysidro Port of Entry after CBP announced it would close multiple entry lanes into the U.S. at two San Diego-area ports of entry in anticipation of the so-called migrant caravan's arrival.",
+    "\nhttps://t.co/92mOg1XNqu pic.twitter.com/mrQU6HYAgH \u2014 #NBC7 San Diego (@nbcsandiego) November 13, 2018\nTo tackle any \u201cpotential safety and security risk,\u201d the CBP also announced lane closures at the San Ysidro and Otay Mesa ports of entry, to install \u201cport hardening infrastructure equipment\u201d in preparation for the migrant caravan arrival.",
+    "\nCurrently, several thousand predominantly male Central American migrants heading for the US are in the western Mexico city of Guadalajara.",
+    "\nMost of them intend to take the Pacific coast route to reach the US, which is still about 1,500 miles away.",
+    "\nA group of migrants is gathered on the Mexico side of the U.S/Mexico border fence in San Diego.",
+    "\nNone have fully climbed over, just sitting on the fence.",
+    "\npic.twitter.com/S8nUzjzKyZ \u2014 Kelly Biele (@kellytvnews) November 14, 2018\nPhotos posted on WhatsApp of the San Ysidro port of entry today.",
+    "\npic.twitter.com/MzQoN4mbrr \u2014 Andrew Dyer \ud83d\udef4 (@SDUTdyer) November 13, 2018\nTroops getting ready to close off three NB vehicle lanes at the San Ysidro Port Entry and one at the Otay Mesa Port of Entry.",
+    "\nThey\u2019ll be putting up barriers and razor wire in preparation for the migrant caravan headed to the US/Mexico border.",
+    "\n@10News pic.twitter.com/rc6YsAF5VQ \u2014 Mimi Elkalla (@10NewsMimi) November 13, 2018\nTo deal with the perceived threat the US has deployed 5,200 troops to help more than 2,000 National Guardsmen thwart what President Trump describes as an impending migrant\u201cinvasion.\u201d\nOver the past few weeks, the active-duty servicemen deployed under Operation Faithful Patriot have mainly been erecting barbed-wire fences along the border in Texas, California and Arizona, as well as building shelter accommodation for customs and border protection staff.",
+    "\nTo ensure the success of the military operation, in addition to sheer troop numbers, the US forces have drones, helicopters with night-vision capabilities, and fixed-wing aircraft at their disposal."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 217,
+      "text": "Groups of Migrants Heading to San Diego Will Be Met With Barricades And Razor Fences (Videos)\n\nThe Military continues to put up razor wire at the border in San Ysidro as a migrant caravan is expected to reach Tijuana.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 217,
+      "end_ix": 430,
+      "text": "\nUnited States military and border protection agents have been erecting barricades with razor wire at the point of entry near San Diego, California, as the first groups of migrants arrived at the US-Mexico border.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 430,
+      "end_ix": 554,
+      "text": "\nHundreds of migrants who had split off from the main \u2018caravan\u2019 of thousands arrived in Tijuana early Tuesday on nine buses.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 554,
+      "end_ix": 808,
+      "text": "\nNumbering just over 350, they joined an initial smaller group of around 85 people, mostly members of the LGBT community, who\u2019d experienced discrimination within the main crowd and were helped to make it to the Mexican border town even earlier on Sunday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 808,
+      "end_ix": 932,
+      "text": "\nMilitary crews continue to put up razor wire at the border in San Ysidro as a migrant caravan is expected to reach Tijuana.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 932,
+      "end_ix": 1156,
+      "text": "\nhttps://t.co/mQH6eqrBNy pic.twitter.com/4IXGNAfSem \u2014 Danielle Radin (@danielleradin) November 13, 2018\nHere are the three lanes that were shut down at the San Ysidro port of entry in TJ today in anticipation of the caravan.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1156,
+      "end_ix": 1217,
+      "text": "\nThere are seven US army members here with CBP at the moment.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1217,
+      "end_ix": 1386,
+      "text": "\nStory with @Haleaziz on this https://t.co/SpLVnl3bAT pic.twitter.com/1nGFRNJanJ take our poll - story continues below Should Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1386,
+      "end_ix": 1437,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1437,
+      "end_ix": 1488,
+      "text": "\nShould Jim Acosta have gotten his press pass back?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1488,
+      "end_ix": 1526,
+      "text": "\n* Yes, he should have gotten it back.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1526,
+      "end_ix": 1577,
+      "text": "\nNo, you can't act like a child and keep your pass.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1577,
+      "end_ix": 1584,
+      "text": "\nMaybe?",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1584,
+      "end_ix": 1616,
+      "text": "\nI'm not sure if he should have.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1616,
+      "end_ix": 1698,
+      "text": "\nEmail *\nEmail This field is for validation purposes and should be left unchanged.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1698,
+      "end_ix": 1781,
+      "text": "\nCompleting this poll grants you access to Truth Uncensored updates free of charge.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1781,
+      "end_ix": 1809,
+      "text": "\nYou may opt out at anytime.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1809,
+      "end_ix": 1872,
+      "text": "\nYou also agree to this site's Privacy Policy and Terms of Use.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1872,
+      "end_ix": 2039,
+      "text": "\n\u2014 Adolfo Flores (@aflores) November 13, 2018\nRT reports:\nIn anticipation of potential clashes at the border, American soldiers have begun reinforcing their positions.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2039,
+      "end_ix": 2227,
+      "text": "\n\u201cDepartment of Defense personnel are installing concertina wire, and pre-positioning jersey barriers, barricades, and fencing,\u201d US Customs and Border Protection (CBP) said in a statement.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2227,
+      "end_ix": 2664,
+      "text": "\nUS Marines instal wire along the primary border wall at the port of entry next to Tijuana in San Ysidro, San Diego.\ud83c\uddfa\ud83c\uddf8 pic.twitter.com/aX0bznl2bm \u2014 The Real Lonnie\u10e6 IV (@lonnieloveiv) November 13, 2018\nA snaking line of traffic is visible at the San Ysidro Port of Entry after CBP announced it would close multiple entry lanes into the U.S. at two San Diego-area ports of entry in anticipation of the so-called migrant caravan's arrival.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2664,
+      "end_ix": 3004,
+      "text": "\nhttps://t.co/92mOg1XNqu pic.twitter.com/mrQU6HYAgH \u2014 #NBC7 San Diego (@nbcsandiego) November 13, 2018\nTo tackle any \u201cpotential safety and security risk,\u201d the CBP also announced lane closures at the San Ysidro and Otay Mesa ports of entry, to install \u201cport hardening infrastructure equipment\u201d in preparation for the migrant caravan arrival.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3004,
+      "end_ix": 3143,
+      "text": "\nCurrently, several thousand predominantly male Central American migrants heading for the US are in the western Mexico city of Guadalajara.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3143,
+      "end_ix": 3251,
+      "text": "\nMost of them intend to take the Pacific coast route to reach the US, which is still about 1,500 miles away.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3251,
+      "end_ix": 3347,
+      "text": "\nA group of migrants is gathered on the Mexico side of the U.S/Mexico border fence in San Diego.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3347,
+      "end_ix": 3404,
+      "text": "\nNone have fully climbed over, just sitting on the fence.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3404,
+      "end_ix": 3543,
+      "text": "\npic.twitter.com/S8nUzjzKyZ \u2014 Kelly Biele (@kellytvnews) November 14, 2018\nPhotos posted on WhatsApp of the San Ysidro port of entry today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3543,
+      "end_ix": 3742,
+      "text": "\npic.twitter.com/MzQoN4mbrr \u2014 Andrew Dyer \ud83d\udef4 (@SDUTdyer) November 13, 2018\nTroops getting ready to close off three NB vehicle lanes at the San Ysidro Port Entry and one at the Otay Mesa Port of Entry.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3742,
+      "end_ix": 3859,
+      "text": "\nThey\u2019ll be putting up barriers and razor wire in preparation for the migrant caravan headed to the US/Mexico border.",
+      "new_text": "\nThey\u2019ll be putting up barriers and razor wire in preparation for the caravan headed to the US/Mexico border.",
+      "prop_spans": [
+        [
+          3811,
+          3831,
+          "Repetition"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3859,
+      "end_ix": 4397,
+      "text": "\n@10News pic.twitter.com/rc6YsAF5VQ \u2014 Mimi Elkalla (@10NewsMimi) November 13, 2018\nTo deal with the perceived threat the US has deployed 5,200 troops to help more than 2,000 National Guardsmen thwart what President Trump describes as an impending migrant\u201cinvasion.\u201d\nOver the past few weeks, the active-duty servicemen deployed under Operation Faithful Patriot have mainly been erecting barbed-wire fences along the border in Texas, California and Arizona, as well as building shelter accommodation for customs and border protection staff.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4397,
+      "end_ix": 4596,
+      "text": "\nTo ensure the success of the military operation, in addition to sheer troop numbers, the US forces have drones, helicopters with night-vision capabilities, and fixed-wing aircraft at their disposal.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      3811,
+      3831,
+      "Repetition"
+    ]
+  ]
+}

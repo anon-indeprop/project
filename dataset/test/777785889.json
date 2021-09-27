@@ -1,0 +1,257 @@
+{
+  "article_id": "777785889",
+  "sentence offsets in original": [
+    0,
+    300,
+    507,
+    577,
+    977,
+    1094,
+    1283,
+    1572,
+    1966,
+    2264,
+    2602,
+    2785,
+    2883,
+    3270,
+    3415,
+    3653,
+    3914,
+    3954
+  ],
+  "original sentences": [
+    "2 Men, Moms Arrested After Child Found Dead, 11 More Found In \u2018Filthy\u2019 New Mexico Compound With Armed \u2018Muslim Extremists\u2019\n\nTAOS COUNTY, NEW MEXICO \u2014 Two males from Georgia are in custody after TCSO served a search warrant at a makeshift residence that is best described as a \u201ccompound\u201d in Amalia, NM.",
+    "\nEleven children ranging in age from 1 to 15-years-old were also taken in protective custody and later turned over to New Mexico Children Youth and Families Department (CYFD) for their own health and safety.",
+    "\nThree women believed to be the children\u2019s mothers were also arrested.",
+    "\nThursday afternoon Sheriff Jerry Hogrefe swore out an affidavit for a search warrant that states there is a makeshift compound surrounded by tires and an earthen berm in Costilla Meadows subdivision that he reasonably believed was occupied by adult Lucas Morton and others, including 39-year-old Siraj Wahhaj, who was wanted for child abduction and 3-year-old AG Wahhaj, the child that was abducted.",
+    "\nThis warrant came after a two-month investigation in conjunction with Clayton County, Georgia and FBI investigators.",
+    "\nAccording to Sheriff Hogrefe the FBI had recently provided information and surveillance on this location, but they (FBI) didn\u2019t feel there was enough probable cause to get on the property.",
+    "\nIn the press release Sheriff Hogrefe said, \u201cThat all changed for me when a message was forwarded to us from a Georgia Detective that we reasonably believed came from someone at the compound \u2013 the message sent to a third party simply said in part \u201cwe are starving and need food and water\u201d.",
+    "\nI absolutely knew that we couldn\u2019t wait on another agency to step up and we had to go check this out as soon as possible, so I began working on a search warrant right after I got that intercepted message \u2013 it had to be a search warrant and a tactical approach for our own safety because we had learned the occupants were most likely heavily armed and considered extremist of the Muslim belief.",
+    "\nWe also knew from the layout of the compound they would have an advantage if we didn\u2019t deploy tactfully and quickly.\u201d\nOn Friday morning, August 3, 2018, eight members of TCSO\u2019s Sheriff\u2019s Response Team (SRT) were assisted by four members of the State OSI unit when they executed the search warrant.",
+    "\nThe \u201call day\u201d operation went without major incident or any injuries, but when encountered both men initially refused to follow verbal direction and Wahhaj who was held up inside the compound was heavily armed with an AR15 rifle, five loaded 30 round magazines, and four loaded pistols, including one in his pocket when he was taken down.",
+    "\nMany more rounds of ammo were found in the makeshift compound that consists of a small travel trailer buried in the ground covered by plastic with no water, plumbing, or electricity.",
+    "\n\u201cThe only food We saw were a few potatoes and a box of rice in the filthy trailer,\u201d said Hogrefe.",
+    "\n\u201cBut what was most surprising, and heartbreaking was when the team located a total of five adults and 11 children that looked like third world country refugees not only with no food or fresh water, but with no shoes, personal hygiene and basically dirty rags for clothing.\u201d\nThe body of a yound boy was also located, however, it is not clear if the boy is the missing child from Georgia.",
+    "\nBoth males were arrested; Morton was charged with harboring a fugitive and Wahhaj was booked on his no bond Georgia warrant for child abduction.",
+    "\nThe three females believed to be the mothers of the eleven children, Jany Leveille age 35, Hujrah Wahhaj age 38, and Subhannah Wahhaj age 35 were arrested without incident in Taos and were later booked in the Taos Adult Detention Center.",
+    "\n\u201cWe all gave the kids our water and what snacks we had \u2013 it was the saddest living conditions and poverty I have seen.\u201d\nNone of the adults would give statement to the current whereabouts of AG Wahhaj, but it is reasonably believed he was there a few weeks ago.",
+    "\nThe investigation is fluid and ongoing.",
+    "\nAdvertisements\ncomments"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 300,
+      "text": "2 Men, Moms Arrested After Child Found Dead, 11 More Found In \u2018Filthy\u2019 New Mexico Compound With Armed \u2018Muslim Extremists\u2019\n\nTAOS COUNTY, NEW MEXICO \u2014 Two males from Georgia are in custody after TCSO served a search warrant at a makeshift residence that is best described as a \u201ccompound\u201d in Amalia, NM.",
+      "new_text": "2 Men, Moms Arrested After Child Found Dead, 11 More Found In New Mexico Compound With Armed Extremists\n\nTAOS COUNTY, NEW MEXICO \u2014 Two males from Georgia are in custody after TCSO served a search warrant at a makeshift residence that is best described as a \u201ccompound\u201d in Amalia, NM.",
+      "prop_spans": [
+        [
+          63,
+          91,
+          "Name_Calling,Labeling"
+        ],
+        [
+          96,
+          120,
+          "Name_Calling,Labeling"
+        ],
+        [
+          273,
+          284,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 300,
+      "end_ix": 507,
+      "text": "\nEleven children ranging in age from 1 to 15-years-old were also taken in protective custody and later turned over to New Mexico Children Youth and Families Department (CYFD) for their own health and safety.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 507,
+      "end_ix": 577,
+      "text": "\nThree women believed to be the children\u2019s mothers were also arrested.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 577,
+      "end_ix": 977,
+      "text": "\nThursday afternoon Sheriff Jerry Hogrefe swore out an affidavit for a search warrant that states there is a makeshift compound surrounded by tires and an earthen berm in Costilla Meadows subdivision that he reasonably believed was occupied by adult Lucas Morton and others, including 39-year-old Siraj Wahhaj, who was wanted for child abduction and 3-year-old AG Wahhaj, the child that was abducted.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 977,
+      "end_ix": 1094,
+      "text": "\nThis warrant came after a two-month investigation in conjunction with Clayton County, Georgia and FBI investigators.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1094,
+      "end_ix": 1283,
+      "text": "\nAccording to Sheriff Hogrefe the FBI had recently provided information and surveillance on this location, but they (FBI) didn\u2019t feel there was enough probable cause to get on the property.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1283,
+      "end_ix": 1572,
+      "text": "\nIn the press release Sheriff Hogrefe said, \u201cThat all changed for me when a message was forwarded to us from a Georgia Detective that we reasonably believed came from someone at the compound \u2013 the message sent to a third party simply said in part \u201cwe are starving and need food and water\u201d.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1572,
+      "end_ix": 1966,
+      "text": "\nI absolutely knew that we couldn\u2019t wait on another agency to step up and we had to go check this out as soon as possible, so I began working on a search warrant right after I got that intercepted message \u2013 it had to be a search warrant and a tactical approach for our own safety because we had learned the occupants were most likely heavily armed and considered extremist of the Muslim belief.",
+      "new_text": "\nI absolutely knew that we couldn\u2019t wait on another agency to step up and we had to go check this out as soon as possible, so I began working on a search warrant right after I got that intercepted message \u2013 it had to be a search warrant and a tactical approach for our own safety because we had learned the occupants were most likely heavily armed and considered extremist.",
+      "prop_spans": [
+        [
+          1935,
+          1965,
+          "Name_Calling,Labeling"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1966,
+      "end_ix": 2264,
+      "text": "\nWe also knew from the layout of the compound they would have an advantage if we didn\u2019t deploy tactfully and quickly.\u201d\nOn Friday morning, August 3, 2018, eight members of TCSO\u2019s Sheriff\u2019s Response Team (SRT) were assisted by four members of the State OSI unit when they executed the search warrant.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2264,
+      "end_ix": 2602,
+      "text": "\nThe \u201call day\u201d operation went without major incident or any injuries, but when encountered both men initially refused to follow verbal direction and Wahhaj who was held up inside the compound was heavily armed with an AR15 rifle, five loaded 30 round magazines, and four loaded pistols, including one in his pocket when he was taken down.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2602,
+      "end_ix": 2785,
+      "text": "\nMany more rounds of ammo were found in the makeshift compound that consists of a small travel trailer buried in the ground covered by plastic with no water, plumbing, or electricity.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2785,
+      "end_ix": 2883,
+      "text": "\n\u201cThe only food We saw were a few potatoes and a box of rice in the filthy trailer,\u201d said Hogrefe.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2883,
+      "end_ix": 3270,
+      "text": "\n\u201cBut what was most surprising, and heartbreaking was when the team located a total of five adults and 11 children that looked like third world country refugees not only with no food or fresh water, but with no shoes, personal hygiene and basically dirty rags for clothing.\u201d\nThe body of a yound boy was also located, however, it is not clear if the boy is the missing child from Georgia.",
+      "new_text": "\n\u201cBut what was most surprising, and heartbreaking was when the team located a total of five adults and 11 children that looked like third world country refugees not only with no food or fresh water, but with no shoes, personal hygiene and basically dirty rags for clothing.\u201d\nThe body of a yound boy was also located, however, it is not clear if the boy is the missing child from Georgia.",
+      "prop_spans": [
+        [
+          2898,
+          2933,
+          "Loaded_Language"
+        ],
+        [
+          2970,
+          3044,
+          "Name_Calling,Labeling"
+        ],
+        [
+          3132,
+          3155,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3270,
+      "end_ix": 3415,
+      "text": "\nBoth males were arrested; Morton was charged with harboring a fugitive and Wahhaj was booked on his no bond Georgia warrant for child abduction.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3415,
+      "end_ix": 3653,
+      "text": "\nThe three females believed to be the mothers of the eleven children, Jany Leveille age 35, Hujrah Wahhaj age 38, and Subhannah Wahhaj age 35 were arrested without incident in Taos and were later booked in the Taos Adult Detention Center.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3653,
+      "end_ix": 3914,
+      "text": "\n\u201cWe all gave the kids our water and what snacks we had \u2013 it was the saddest living conditions and poverty I have seen.\u201d\nNone of the adults would give statement to the current whereabouts of AG Wahhaj, but it is reasonably believed he was there a few weeks ago.",
+      "new_text": "\n\u201cWe all gave the kids our water and what snacks we had \u2013 it was the saddest living conditions and poverty I have seen.\u201d\nNone of the adults would give statement to the current whereabouts of AG Wahhaj, but it is reasonably believed he was there a few weeks ago.",
+      "prop_spans": [
+        [
+          3711,
+          3771,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 3914,
+      "end_ix": 3954,
+      "text": "\nThe investigation is fluid and ongoing.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3954,
+      "end_ix": 3978,
+      "text": "\nAdvertisements\ncomments",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      63,
+      91,
+      "Name_Calling,Labeling"
+    ],
+    [
+      96,
+      120,
+      "Name_Calling,Labeling"
+    ],
+    [
+      273,
+      284,
+      "Name_Calling,Labeling"
+    ],
+    [
+      1935,
+      1965,
+      "Name_Calling,Labeling"
+    ],
+    [
+      2898,
+      2933,
+      "Loaded_Language"
+    ],
+    [
+      2970,
+      3044,
+      "Name_Calling,Labeling"
+    ],
+    [
+      3132,
+      3155,
+      "Loaded_Language"
+    ],
+    [
+      3711,
+      3771,
+      "Exaggeration,Minimisation"
+    ]
+  ]
+}

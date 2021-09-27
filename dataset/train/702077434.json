@@ -1,0 +1,255 @@
+{
+  "article_id": "702077434",
+  "sentence offsets in original": [
+    0,
+    196,
+    458,
+    510,
+    589,
+    642,
+    698,
+    754,
+    854,
+    904,
+    999,
+    1075,
+    1276,
+    1375,
+    1537,
+    1644,
+    1684,
+    1770,
+    1802,
+    1829
+  ],
+  "original sentences": [
+    "First American Citizen To Be Convicted Of Joining ISIS Gets 20 Years\n\nThe first American citizen to be convicted of successfully joining the Islamic State has been sentenced to 20 years in prison.",
+    "\nMohamad Khweis, unlike the dozens of other people in the United States who failed to join ISIS and were subsequently charged, actually made it to Syria, but after just three months tried to escape and was captured by Kurdish forces, The Washington Post reports.",
+    "\nKhweis is an interesting case for numerous reasons.",
+    "\nFirst, there was no particular event or friend who ignited his radicalization.",
+    "\nSecond, he successfully made it to Syria via Turkey.",
+    "\nAnd third, he came from a secular home that was stable.",
+    "\nHis life before joining the caliphate was unremarkable.",
+    "\nHe obtained an associate\u2019s degree in criminal justice and worked as a bus driver in Alexandria, Va.",
+    "\nHe also abused marijuana over the past few years.",
+    "\nKhweis\u2019 defense attorney said Friday that even he has no idea what caused Khweis to join ISIS.",
+    "\n\u201cIt\u2019s difficult to understand,\u201d defense attorney John Zwerling said Friday.",
+    "\n\u201cWe don\u2019t really know what caused him to travel to Syria.\u201d\nFrom the very start of his trial, Khweis said he regretted his actions and said his decision to join ISIS in December 2015 was a drunken one.",
+    "\n\u201cI hated myself for making the worst decision I ever made,\u201d Khweis wrote to the judge in a letter.",
+    "\n\u201cI ruined my life and my family\u2019s life.\u201d\nProsecutors, who pushed for 35 years in prison, accused Khweis of lying repeatedly over the last 15 months of the trial.",
+    "\nWhen Khweis was first captured in Iraq in March 2016, he told the FBI that he was following a young woman.",
+    "\nHowever, that young woman didn\u2019t exist.",
+    "\n\u201cThis defendant executed his plan to perfection,\u201d prosecutor Dennis Fitzpatrick said.",
+    "\n\u201cHe got into the Islamic State.",
+    "\nHe was in their machinery.",
+    "\nHe was providing himself and his services to the organization.\u201d\nArticle posted with permission from The Daily Caller News Foundation"
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 196,
+      "text": "First American Citizen To Be Convicted Of Joining ISIS Gets 20 Years\n\nThe first American citizen to be convicted of successfully joining the Islamic State has been sentenced to 20 years in prison.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 196,
+      "end_ix": 458,
+      "text": "\nMohamad Khweis, unlike the dozens of other people in the United States who failed to join ISIS and were subsequently charged, actually made it to Syria, but after just three months tried to escape and was captured by Kurdish forces, The Washington Post reports.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 458,
+      "end_ix": 510,
+      "text": "\nKhweis is an interesting case for numerous reasons.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 510,
+      "end_ix": 589,
+      "text": "\nFirst, there was no particular event or friend who ignited his radicalization.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 589,
+      "end_ix": 642,
+      "text": "\nSecond, he successfully made it to Syria via Turkey.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 642,
+      "end_ix": 698,
+      "text": "\nAnd third, he came from a secular home that was stable.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 698,
+      "end_ix": 754,
+      "text": "\nHis life before joining the caliphate was unremarkable.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 754,
+      "end_ix": 854,
+      "text": "\nHe obtained an associate\u2019s degree in criminal justice and worked as a bus driver in Alexandria, Va.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 854,
+      "end_ix": 904,
+      "text": "\nHe also abused marijuana over the past few years.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 904,
+      "end_ix": 999,
+      "text": "\nKhweis\u2019 defense attorney said Friday that even he has no idea what caused Khweis to join ISIS.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 999,
+      "end_ix": 1075,
+      "text": "\n\u201cIt\u2019s difficult to understand,\u201d defense attorney John Zwerling said Friday.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1075,
+      "end_ix": 1276,
+      "text": "\n\u201cWe don\u2019t really know what caused him to travel to Syria.\u201d\nFrom the very start of his trial, Khweis said he regretted his actions and said his decision to join ISIS in December 2015 was a drunken one.",
+      "new_text": "\n\u201cWe don\u2019t really know what caused him to travel to Syria.\u201d\nFrom the very start of his trial, Khweis said he regretted his actions and said his decision to join ISIS in December 2015 was a drunken one.",
+      "prop_spans": [
+        [
+          1264,
+          1275,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1276,
+      "end_ix": 1375,
+      "text": "\n\u201cI hated myself for making the worst decision I ever made,\u201d Khweis wrote to the judge in a letter.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1375,
+      "end_ix": 1537,
+      "text": "\n\u201cI ruined my life and my family\u2019s life.\u201d\nProsecutors, who pushed for 35 years in prison, accused Khweis of lying repeatedly over the last 15 months of the trial.",
+      "new_text": "\n\u201cI ruined my life and my family\u2019s life.\u201d\nProsecutors, who pushed for 35 years in prison, accused Khweis of lying repeatedly over the last 15 months of the trial.",
+      "prop_spans": [
+        [
+          1377,
+          1393,
+          "Thought-terminating_Cliches"
+        ],
+        [
+          1377,
+          1414,
+          "Loaded_Language"
+        ],
+        [
+          1377,
+          1414,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1537,
+      "end_ix": 1644,
+      "text": "\nWhen Khweis was first captured in Iraq in March 2016, he told the FBI that he was following a young woman.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1644,
+      "end_ix": 1684,
+      "text": "\nHowever, that young woman didn\u2019t exist.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1684,
+      "end_ix": 1770,
+      "text": "\n\u201cThis defendant executed his plan to perfection,\u201d prosecutor Dennis Fitzpatrick said.",
+      "new_text": "\n\u201cThis defendant executed his plan to perfection,\u201d prosecutor Dennis Fitzpatrick said.",
+      "prop_spans": [
+        [
+          1701,
+          1732,
+          "Exaggeration,Minimisation"
+        ]
+      ]
+    },
+    {
+      "start_ix": 1770,
+      "end_ix": 1802,
+      "text": "\n\u201cHe got into the Islamic State.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1802,
+      "end_ix": 1829,
+      "text": "\nHe was in their machinery.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1829,
+      "end_ix": 1962,
+      "text": "\nHe was providing himself and his services to the organization.\u201d\nArticle posted with permission from The Daily Caller News Foundation",
+      "new_text": "\nHe was providing himself and his services to the organization.\u201d\nArticle posted with permission from The Daily Caller News Foundation",
+      "prop_spans": [
+        [
+          1830,
+          1891,
+          "Repetition"
+        ]
+      ]
+    }
+  ],
+  "original labels": [
+    [
+      1264,
+      1275,
+      "Loaded_Language"
+    ],
+    [
+      1377,
+      1393,
+      "Thought-terminating_Cliches"
+    ],
+    [
+      1377,
+      1414,
+      "Loaded_Language"
+    ],
+    [
+      1377,
+      1414,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1701,
+      1732,
+      "Exaggeration,Minimisation"
+    ],
+    [
+      1830,
+      1891,
+      "Repetition"
+    ]
+  ]
+}

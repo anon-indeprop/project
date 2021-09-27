@@ -1,0 +1,303 @@
+{
+  "article_id": "761564397",
+  "sentence offsets in original": [
+    0,
+    293,
+    636,
+    886,
+    1065,
+    1096,
+    1169,
+    1334,
+    1424,
+    1547,
+    1806,
+    1903,
+    2056,
+    2340,
+    2488,
+    2679,
+    2748,
+    2952,
+    3050,
+    3133,
+    3199,
+    3448,
+    3502,
+    3730,
+    3841,
+    3942,
+    4066,
+    4145,
+    4194,
+    4391
+  ],
+  "original sentences": [
+    "Ex-Navy sailor pardoned by Trump says he's suing Comey and Obama\n\nA former Navy sailor who is one of five people to receive a pardon from President Donald Trump is planning to file a lawsuit against Obama administration officials, alleging that he was subject to unequal protection of the law.",
+    "\nSpecifically, Kristian Saucier, who served a year in federal prison for taking photos of classified sections of the submarine on which he worked, argues that the same officials who meted out punishment to him for his actions chose to be lenient with Hillary Clinton in her use of a private email server and handling of classified information.",
+    "\nHis lawyer, Ronald Daigle, told Fox News on Monday that the lawsuit, which he expects to file soon in Manhattan, will name the U.S. Department of Justice, former FBI Director James Comey and former President Barack Obama as defendants, among others.",
+    "\n\u201cThey interpreted the law in my case to say it was criminal,\u201d Saucier told Fox News, referring to prosecuting authorities in his case, \u201cbut they didn\u2019t prosecute Hillary Clinton.",
+    "\nHillary is still walking free.",
+    "\nTwo guys on my ship did the same thing and weren\u2019t treated as criminals.",
+    "\nWe want them to correct the wrong.\u201d\nDaigle said that a notice about the pending lawsuit was sent to the Department of Justice and others included in it in December.",
+    "\nThere is usually a six-month period that must lapse before the lawsuit actually is filed.",
+    "\n\u201cWe\u2019ll highlight the differences in the way Hillary Clinton was prosecuted and how my client was prosecuted,\u201d Daigle said.",
+    "\n\u201cWe\u2019re seeking to cast a light on this to show that there\u2019s a two-tier justice system and we want it to be corrected.\u201d\nWhile campaigning, and after taking office, Trump frequently voiced support for Saucier, who in March became the second person he pardoned.",
+    "\nTrump often compared the Obama administration\u2019s handling of Saucier\u2019s case with that of Clinton.",
+    "\nSaucier, who lives in Vermont, pleaded guilty in 2016 to taking photos inside the USS Alexandria while it was stationed in Groton, Connecticut, in 2009.",
+    "\nHe said he only wanted service mementos, but federal prosecutors argued he was a disgruntled sailor who had put national security at risk by taking photos showing the submarine's propulsion system and reactor compartment and then obstructed justice by destroying a laptop and camera.",
+    "\nSaucier said that he recognized he had erred in taking the photos, which he said he wanted to show only to his family to show them where he worked.",
+    "\nBut he lashed out at Obama officials, saying that his prosecution was politically motivated, prompted by sensitivity about classified information amid the scandal involving Clinton's emails.",
+    "\n\u201cMy case was usually something handled by military courts,\u201d he said.",
+    "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton.\u201d\nSaucier, 31, said that the pardon has enabled him to pick up the pieces and rebuild his life with his wife and young daughter.",
+    "\nA felony conviction left him scrambling to find work; he finally landed a job collecting garbage.",
+    "\nNow, he works on design and engineering projects for an industrial boiler company.",
+    "\n\u201cThings are starting to go in the right direction,\u201d Saucier said.",
+    "\n\u201cI work with a group of really great people, I get to use my skills set.\u201d\nBecause of the loss of income during his imprisonment, as well as earning below his potential when he collected garbage, he and his wife Sadie lost their home to foreclosure.",
+    "\nDebt collectors called and his cars were repossessed.",
+    "\n\u201cWith a pardon there\u2019s no magic wand that that gets waved and makes everything right,\u201d he said, \u201cBut I try to stay positive and look forward.\u201d\nHe praises the pardons that Trump has granted, and takes exception at the criticism.",
+    "\n\u201cThe Obama administration singled out Dinesh for things most people don\u2019t even get charged for,\u201d Saucier said.",
+    "\n\u201cPresident Trump noticed that my career was exemplary and that I didn\u2019t deserve what happened to me.",
+    "\nConservative commentator Dinesh D'Souza, who was pardoned by Trump last week, had pleaded guilty to campaign finance fraud.",
+    "\nTrump tweeted Thursday: \"Will be giving a Full Pardon to Dinesh D'Souza today.",
+    "\nHe was treated very unfairly by our government!\"",
+    "\nD'Souza was sentenced in 2014 to five years of probation after he pleaded guilty to violating federal election law by making illegal contributions to a U.S. Senate campaign in the names of others.",
+    "\nThe Associated Press contributed to this report."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 293,
+      "text": "Ex-Navy sailor pardoned by Trump says he's suing Comey and Obama\n\nA former Navy sailor who is one of five people to receive a pardon from President Donald Trump is planning to file a lawsuit against Obama administration officials, alleging that he was subject to unequal protection of the law.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 293,
+      "end_ix": 636,
+      "text": "\nSpecifically, Kristian Saucier, who served a year in federal prison for taking photos of classified sections of the submarine on which he worked, argues that the same officials who meted out punishment to him for his actions chose to be lenient with Hillary Clinton in her use of a private email server and handling of classified information.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 636,
+      "end_ix": 886,
+      "text": "\nHis lawyer, Ronald Daigle, told Fox News on Monday that the lawsuit, which he expects to file soon in Manhattan, will name the U.S. Department of Justice, former FBI Director James Comey and former President Barack Obama as defendants, among others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 886,
+      "end_ix": 1065,
+      "text": "\n\u201cThey interpreted the law in my case to say it was criminal,\u201d Saucier told Fox News, referring to prosecuting authorities in his case, \u201cbut they didn\u2019t prosecute Hillary Clinton.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1065,
+      "end_ix": 1096,
+      "text": "\nHillary is still walking free.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1096,
+      "end_ix": 1169,
+      "text": "\nTwo guys on my ship did the same thing and weren\u2019t treated as criminals.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1169,
+      "end_ix": 1334,
+      "text": "\nWe want them to correct the wrong.\u201d\nDaigle said that a notice about the pending lawsuit was sent to the Department of Justice and others included in it in December.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1334,
+      "end_ix": 1424,
+      "text": "\nThere is usually a six-month period that must lapse before the lawsuit actually is filed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1424,
+      "end_ix": 1547,
+      "text": "\n\u201cWe\u2019ll highlight the differences in the way Hillary Clinton was prosecuted and how my client was prosecuted,\u201d Daigle said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1547,
+      "end_ix": 1806,
+      "text": "\n\u201cWe\u2019re seeking to cast a light on this to show that there\u2019s a two-tier justice system and we want it to be corrected.\u201d\nWhile campaigning, and after taking office, Trump frequently voiced support for Saucier, who in March became the second person he pardoned.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1806,
+      "end_ix": 1903,
+      "text": "\nTrump often compared the Obama administration\u2019s handling of Saucier\u2019s case with that of Clinton.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1903,
+      "end_ix": 2056,
+      "text": "\nSaucier, who lives in Vermont, pleaded guilty in 2016 to taking photos inside the USS Alexandria while it was stationed in Groton, Connecticut, in 2009.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2056,
+      "end_ix": 2340,
+      "text": "\nHe said he only wanted service mementos, but federal prosecutors argued he was a disgruntled sailor who had put national security at risk by taking photos showing the submarine's propulsion system and reactor compartment and then obstructed justice by destroying a laptop and camera.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2340,
+      "end_ix": 2488,
+      "text": "\nSaucier said that he recognized he had erred in taking the photos, which he said he wanted to show only to his family to show them where he worked.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2488,
+      "end_ix": 2679,
+      "text": "\nBut he lashed out at Obama officials, saying that his prosecution was politically motivated, prompted by sensitivity about classified information amid the scandal involving Clinton's emails.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2679,
+      "end_ix": 2748,
+      "text": "\n\u201cMy case was usually something handled by military courts,\u201d he said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2748,
+      "end_ix": 2952,
+      "text": "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton.\u201d\nSaucier, 31, said that the pardon has enabled him to pick up the pieces and rebuild his life with his wife and young daughter.",
+      "new_text": "\n\u201cThey used me as an example because of [the backlash over] Hillary Clinton.\u201d\nSaucier, 31, said that the pardon has enabled him to pick up the pieces and rebuild his life with his wife and young daughter.",
+      "prop_spans": [
+        [
+          2749,
+          2825,
+          "Causal_Oversimplification"
+        ]
+      ]
+    },
+    {
+      "start_ix": 2952,
+      "end_ix": 3050,
+      "text": "\nA felony conviction left him scrambling to find work; he finally landed a job collecting garbage.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3050,
+      "end_ix": 3133,
+      "text": "\nNow, he works on design and engineering projects for an industrial boiler company.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3133,
+      "end_ix": 3199,
+      "text": "\n\u201cThings are starting to go in the right direction,\u201d Saucier said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3199,
+      "end_ix": 3448,
+      "text": "\n\u201cI work with a group of really great people, I get to use my skills set.\u201d\nBecause of the loss of income during his imprisonment, as well as earning below his potential when he collected garbage, he and his wife Sadie lost their home to foreclosure.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3448,
+      "end_ix": 3502,
+      "text": "\nDebt collectors called and his cars were repossessed.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3502,
+      "end_ix": 3730,
+      "text": "\n\u201cWith a pardon there\u2019s no magic wand that that gets waved and makes everything right,\u201d he said, \u201cBut I try to stay positive and look forward.\u201d\nHe praises the pardons that Trump has granted, and takes exception at the criticism.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3730,
+      "end_ix": 3841,
+      "text": "\n\u201cThe Obama administration singled out Dinesh for things most people don\u2019t even get charged for,\u201d Saucier said.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3841,
+      "end_ix": 3942,
+      "text": "\n\u201cPresident Trump noticed that my career was exemplary and that I didn\u2019t deserve what happened to me.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 3942,
+      "end_ix": 4066,
+      "text": "\nConservative commentator Dinesh D'Souza, who was pardoned by Trump last week, had pleaded guilty to campaign finance fraud.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4066,
+      "end_ix": 4145,
+      "text": "\nTrump tweeted Thursday: \"Will be giving a Full Pardon to Dinesh D'Souza today.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4145,
+      "end_ix": 4194,
+      "text": "\nHe was treated very unfairly by our government!\"",
+      "new_text": "\nHe was treated very unfairly by our government!\"",
+      "prop_spans": [
+        [
+          4178,
+          4192,
+          "Flag-Waving"
+        ]
+      ]
+    },
+    {
+      "start_ix": 4194,
+      "end_ix": 4391,
+      "text": "\nD'Souza was sentenced in 2014 to five years of probation after he pleaded guilty to violating federal election law by making illegal contributions to a U.S. Senate campaign in the names of others.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 4391,
+      "end_ix": 4440,
+      "text": "\nThe Associated Press contributed to this report.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      2749,
+      2825,
+      "Causal_Oversimplification"
+    ],
+    [
+      4178,
+      4192,
+      "Flag-Waving"
+    ]
+  ]
+}

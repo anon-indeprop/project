@@ -1,0 +1,148 @@
+{
+  "article_id": "727405181",
+  "sentence offsets in original": [
+    0,
+    152,
+    350,
+    449,
+    665,
+    841,
+    1000,
+    1183,
+    1306,
+    1576,
+    1724,
+    2005,
+    2155,
+    2288
+  ],
+  "original sentences": [
+    "India Joins U.S. and China With Plans to Visit the Moon\n\nSo far, no one has ever managed to land on the far side of the moon, or near its shadowy poles.",
+    "\nIndia wants to tackle both those firsts in one fell swoop this year, with its Chandrayaan-2 mission, a trio of orbiter, lander and rover that would represent the country's second visit to the moon.",
+    "\nThe mission is scheduled to launch sometime in the first half of this year, no earlier than March.",
+    "\nIts target is a patch of lunar surface about 370 miles away from the south pole, where scientists think the rock may be 4 billion years old, formed just after the moon's giant ocean of liquid rock began to solidify.",
+    "\nThe region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",
+    "\nBut despite NASA's renewed focus on lunar exploration, as dictated in December by an order from President Trump, the agency won't beat India back to the moon.",
+    "\nDibyangshu Sarkar/AFP/Getty Images\nThat's even after India's Chandrayaan-2 mission was delayed by three years after Russia backed out of designing and producing the mission's lander.",
+    "\nRather than lose out on that part of the mission, the Indian Space Research Organization decided to just do it themselves.",
+    "\nBut they aren't sure how long they can expect the mission to last once the lander and rover arrive\u2014it could be over in as little as two weeks, ending as soon as the sun sets, since the mission runs on solar power and the polar area is quite shadowy even during the day.",
+    "\nDuring that time, the team hopes to gather data about charged particles around the moon and the small \"moonquakes\" that ripple through its surface.",
+    "\nRead more: China Prepares for Moon Colony By Keeping Students in 'Lunar Palace' for 200 Days\nSee all of the best photos of the week in these slideshows\nThe new mission's predecessor, Chandrayaan-1, was an orbiter that found the first evidence that there was water ice on the moon.",
+    "\nNow, scientists know that ice is likely concentrated at the poles, where it could become an important resource for human and robotic explorers alike.",
+    "\nThe orbiter piece of the upcoming mission will look to build on its predecessor by mapping how water actually moves around the moon.",
+    "\nIn the long term, India has its sights set well beyond the moon, with dreams of visiting Mars, Venus or an asteroid."
+  ],
+  "new sentences": [
+    {
+      "start_ix": 0,
+      "end_ix": 152,
+      "text": "India Joins U.S. and China With Plans to Visit the Moon\n\nSo far, no one has ever managed to land on the far side of the moon, or near its shadowy poles.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 152,
+      "end_ix": 350,
+      "text": "\nIndia wants to tackle both those firsts in one fell swoop this year, with its Chandrayaan-2 mission, a trio of orbiter, lander and rover that would represent the country's second visit to the moon.",
+      "new_text": "\nIndia wants to tackle both those firsts all at once this year, with its Chandrayaan-2 mission, a trio of orbiter, lander and rover that would represent the country's second visit to the moon.",
+      "prop_spans": [
+        [
+          193,
+          211,
+          "Loaded_Language"
+        ]
+      ]
+    },
+    {
+      "start_ix": 350,
+      "end_ix": 449,
+      "text": "\nThe mission is scheduled to launch sometime in the first half of this year, no earlier than March.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 449,
+      "end_ix": 665,
+      "text": "\nIts target is a patch of lunar surface about 370 miles away from the south pole, where scientists think the rock may be 4 billion years old, formed just after the moon's giant ocean of liquid rock began to solidify.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 665,
+      "end_ix": 841,
+      "text": "\nThe region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 841,
+      "end_ix": 1000,
+      "text": "\nBut despite NASA's renewed focus on lunar exploration, as dictated in December by an order from President Trump, the agency won't beat India back to the moon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1000,
+      "end_ix": 1183,
+      "text": "\nDibyangshu Sarkar/AFP/Getty Images\nThat's even after India's Chandrayaan-2 mission was delayed by three years after Russia backed out of designing and producing the mission's lander.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1183,
+      "end_ix": 1306,
+      "text": "\nRather than lose out on that part of the mission, the Indian Space Research Organization decided to just do it themselves.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1306,
+      "end_ix": 1576,
+      "text": "\nBut they aren't sure how long they can expect the mission to last once the lander and rover arrive\u2014it could be over in as little as two weeks, ending as soon as the sun sets, since the mission runs on solar power and the polar area is quite shadowy even during the day.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1576,
+      "end_ix": 1724,
+      "text": "\nDuring that time, the team hopes to gather data about charged particles around the moon and the small \"moonquakes\" that ripple through its surface.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 1724,
+      "end_ix": 2005,
+      "text": "\nRead more: China Prepares for Moon Colony By Keeping Students in 'Lunar Palace' for 200 Days\nSee all of the best photos of the week in these slideshows\nThe new mission's predecessor, Chandrayaan-1, was an orbiter that found the first evidence that there was water ice on the moon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2005,
+      "end_ix": 2155,
+      "text": "\nNow, scientists know that ice is likely concentrated at the poles, where it could become an important resource for human and robotic explorers alike.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2155,
+      "end_ix": 2288,
+      "text": "\nThe orbiter piece of the upcoming mission will look to build on its predecessor by mapping how water actually moves around the moon.",
+      "new_text": null,
+      "prop_spans": []
+    },
+    {
+      "start_ix": 2288,
+      "end_ix": 2405,
+      "text": "\nIn the long term, India has its sights set well beyond the moon, with dreams of visiting Mars, Venus or an asteroid.",
+      "new_text": null,
+      "prop_spans": []
+    }
+  ],
+  "original labels": [
+    [
+      193,
+      211,
+      "Loaded_Language"
+    ]
+  ]
+}
