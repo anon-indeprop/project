@@ -2,7 +2,7 @@
 
 | S.No | Technique | Definition | Removal
 | :---- | :---- | :---- | :----
-| 1,2,3 | Red Herring,Straw,Whataboutism | Has irrelevant data| Remove targeted span.
+| 1,2,3 | Red Herring, Straw Man, Whataboutism | Has irrelevant data| Remove targeted span.
 | 4 | Oversimplification | Assuming a single cause or reason when there are actually multiple causes for an issue | Nullify the causality and give a correlation
 | 5 | Obfuscation/Vagueness | Deliberately not clear | Remove
 | 6 | Appeal to Authority | Stating that a claim is true simply because a valid authority or expert on the issue said it was true | Remove the authority status or write “this authority’s opinion”
