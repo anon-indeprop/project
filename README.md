@@ -1,3 +1,27 @@
+# Explaining various propaganda definitions
+
+| S.No | Name | Definition | Example
+| :---- | :---- | :---- | :----
+| 1 | Red Herring | Introducing irrelevant material to the issue being discussed, so that everyone's attention is diverted away from the points made. | 
+| 2 | Straw Man | When an opponent's proposition is substituted with a similar one which is then refuted in place of the original proposition. | 
+| 3 | Whataboutism | A technique that attempts to discredit an opponent's position by charging them with hypocrisy without directly disproving their argument. | 
+| 4 | Causal Oversimplification | Assuming a single cause or reason when there are actually multiple causes for an issue. It includes transferring blame to one person or group of people without investigating the complexities of the issue | 
+| 5 | Obfuscation, Intentional vagueness, Confusion | Using words which are deliberately not clear so that the audience may have its own interpretations. For example when an unclear phrase with multiple definitions is used within the argument and, therefore, it does not support the conclusion. | 
+| 6 | Appeal to authority | Stating that a claim is true simply because a valid authority or expert on the issue said it was true, without any other supporting evidence offered. We consider the special case in which the reference is not an authority or an expert in this technique, altough it is referred to as Testimonial in literature. | 
+| 7 | Black-and-white Fallacy, Dictatorship | Presenting two alternative options as the only possibilities, when in fact more possibilities exist. An extreme case, tell the audience exactly what actions to take, eliminating any other possible choices (dictatorship) | 
+| 8 | Name calling or labeling | Labeling the object of the propaganda campaign as either something the target audience fears, hates, finds undesirable or loves, praises. | 
+| 9 | Loaded Language | Using specific words and phrases with strong emotional implications (either positive or negative) to influence an audience.  | 
+| 10 | Exaggeration or Minimisation | Either representing something in an excessive manner: making things larger, better, worse (e.g., "the best of the best", "quality guaranteed") or making something seem less important or smaller than it really is (e.g., saying that an insult was just a joke). | 
+| 11 | Flag-waving | Playing on strong national feeling (or to any group; e.g., race, gender, political preference) to justify or promote an action or idea  | 
+| 12 | Doubt | Questioning the credibility of someone or something. | 
+| 13 | Appeal to fear/prejudice | Seeking to build support for an idea by instilling anxiety and/or panic in the population towards an alternative. In some cases the support is built based on preconceived judgements. | 
+| 14 | Slogans | A brief and striking phrase that may include labeling and stereotyping. Slogans tend to act as emotional appeals.  | 
+| 15 | Thought-terminating cliché | Words or phrases that discourage critical thought and meaningful discussion about a given topic. They are typically short, generic sentences that offer seemingly simple answers to complex questions or that distract attention away from other lines of thought.  | 
+| 16 | Bandwagon |  Attempting to persuade the target audience to join in and take the course of action because "everyone else is taking the same action". | 
+| 17 | Reductio ad hitlerum | Persuading an audience to disapprove an action or idea by suggesting that the idea is popular with groups hated in contempt by the target audience. It can refer to any person or concept with a negative connotation.  | 
+| 18 | Repetition | Repeating the same message over and over again so that the audience will eventually accept it. | 
+
+
 # Table for appraching the de-propgandizing of text spans according to the propaganda label
 
 | S.No | Technique | Definition | Removal
