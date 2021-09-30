@@ -1,0 +1,28 @@
+import argparse
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument("--batch_size", type=int, default=16)
+parser.add_argument("--seed", type=int, default=49)
+parser.add_argument("--lr", type=float, default=1e-5)
+parser.add_argument("--alpha", type=float, default=0.9)
+parser.add_argument("--n_epochs", type=int, default=35)
+parser.add_argument("--patience", type=int, default=7)
+parser.add_argument("--training", dest="training", action="store_true")
+parser.add_argument("--checkdir", type=str, default="checkpoints")
+parser.add_argument("--resultdir", type=str, default="results")
+parser.add_argument("--dummy", dest="dummy", action="store_true")
+parser.add_argument("--bert", dest="bert", action="store_true")
+parser.add_argument("--joint", dest="joint", action="store_true")
+parser.add_argument("--granu", dest="granu", action="store_true")
+parser.add_argument("--mgn", dest="mgn", action="store_true")
+parser.add_argument("--sig", dest="sig", action="store_true")
+parser.add_argument("--rel", dest="rel", action="store_true")
+parser.add_argument("--device", type=str, default="cuda")
+parser.add_argument("--trainset", type=str, default='./dataset/original/train')
+parser.add_argument("--validset", type=str, default='./dataset/original/dev')
+parser.add_argument("--testset", type=str, default='./dataset/original/test')
+parser.add_argument("--wandb",  dest="wandb", action="store_true", default= False)
+parser.add_argument("--run", type=str, default=None)
+
+hp = parser.parse_args()

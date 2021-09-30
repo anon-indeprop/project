@@ -1,3 +1,33 @@
+# InDeProp
+
+Codebase accompanying the paper – InDeProp: Information-preserving De-Propagandization of News Articles
+
+# Overview
+
+We propose InDeProp, a novel Natural Language Processing (NLP) application for combating online disinformation by mitigating propaganda from news articles. InDeProp (**In** formation-preserving **De** - **Prop** agandization) involves fine-grained propaganda detection and its removal while maintaining document level coherence, grammatical correctness and most importantly, preserving the news articles' information content. We curate the first large-scale dataset of its kind consisting of ~1M tokens. We also propose a set of automatic evaluation metrics for the same and observe its high correlation with human judgment. Furthermore, we show that fine-tuning the existing propaganda detection systems on our dataset considerably improves their generalization to the test set. Our dataset and code will be made publicly available upon acceptance.
+
+# Getting Started
+
+First clone this repository: `git clone https://github.com/anon-indeprop/project`
+
+
+Set up the packages, you need the following packages:
+- Pytorch
+- TorchTex
+- Huggingface
+- tqdm
+- wandb
+- numpy
+- datasets
+- nltk
+- allennlp
+
+We export the conda environment `conda env create -f classify.yml` and `conda env create -f indeprop.yml`
+
+Download the train, dev and test splits of the original dataset by [Da San Martino et. al 2019](http://propaganda.qcri.org/) inside `clssfy` in the `original` folder and place ours data inside the `new` folder. Combine the data, using `python new_data_convert.py`. You may run any of our models using `python3 train.py --batch_size=batch_size --seed=seed --lr=lr --n_epochs=n_epochs --checkdir=checkpoint_directory --resultdir=resultdirectory --device=device(cpu or cuda) --trainset=trainsetPath --testset=testsetPath --validset=validsetPath --run=RunName`. Choose between sigmoid and Relu non linearity by `--sig` and `--rel`. Selecte one of the four models by `--bert, --joint, --granu, --mgn`. You may also do a dummy run `--dummy`.
+
+More details coming soon.
+
 # Definitions of various propaganda techniques
 
 | S.No | Name | Definition
@@ -21,7 +51,7 @@
 | 17 | Reductio ad hitlerum | Persuading an audience to disapprove an action or idea by suggesting that the idea is popular with groups hated in contempt by the target audience. It can refer to any person or concept with a negative connotation.
 | 18 | Repetition | Repeating the same message over and over again so that the audience will eventually accept it.
 
-
+<!-- 
 # Table for appraching the de-propgandizing of text spans according to the propaganda label
 
 | S.No | Technique | Definition | Removal
@@ -40,4 +70,4 @@
 | 15 | Though-terminating cliché | Words or phrases that discourage critical thought | Remove
 | 16 | Bandwagon | Attempting to persuade the target audience to join in and take the course of action because "everyone else is taking the same action | Remove the part which persuades people.
 | 17 | Reductio ad Hitlerum | Persuading an audience to disapprove an action or idea by suggesting that the idea is popular with groups hated. | Add something like “We don’t like the idea stated by the group “.  
-| 18 | Repetition |  Repeating the same message over and over again so that the audience will eventually accept it. | Remove the repetition.
+| 18 | Repetition |  Repeating the same message over and over again so that the audience will eventually accept it. | Remove the repetition. -->
