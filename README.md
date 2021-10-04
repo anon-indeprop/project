@@ -24,7 +24,7 @@ Set up the packages, you need the following packages:
 
 We export the conda environment `conda env create -f classify.yml` and `conda env create -f indeprop.yml`
 
-Download the train, dev and test splits of the original dataset by [Da San Martino et. al 2019](http://propaganda.qcri.org/) inside `clssfy` in the `original` folder and place ours data inside the `new` folder. Combine the data, using `python new_data_convert.py`. You may run any of our models using `python3 train.py --batch_size=batch_size --seed=seed --lr=lr --n_epochs=n_epochs --checkdir=checkpoint_directory --resultdir=resultdirectory --device=device(cpu or cuda) --trainset=trainsetPath --testset=testsetPath --validset=validsetPath --run=RunName`. Choose between sigmoid and Relu non linearity by `--sig` and `--rel`. Selecte one of the four models by `--bert, --joint, --granu, --mgn`. You may also do a dummy run `--dummy`.
+Download the train, dev and test splits of the original dataset by [Da San Martino et. al 2019](http://propaganda.qcri.org/) inside `clssfy` in the `original` folder and place ours data inside the `new` folder. Combine the data, using `python new_data_convert.py`. You may run any of our models using `python3 train.py --batch_size=batch_size --seed=seed --lr=lr --n_epochs=n_epochs --checkdir=checkpoint_directory --resultdir=resultdirectory --device=device(cpu or cuda) --trainset=trainsetPath --testset=testsetPath --validset=validsetPath --run=RunName`. Choose between sigmoid and Relu non linearity by `--sig` and `--rel`. Select one of the four models by `--bert, --joint, --granu, --mgn`. You may also do a dummy run `--dummy`.
 
 More details coming soon.
 
